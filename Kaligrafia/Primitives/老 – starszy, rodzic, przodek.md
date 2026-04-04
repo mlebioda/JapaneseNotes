@@ -1,0 +1,1 @@
+[[孝 – syn oddający cześć rodzicom (posłuszeństwo, przekazywanie)]]

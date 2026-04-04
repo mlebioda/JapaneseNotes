@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "be0bd5d8143ebe88",
+    "type": "split",
+    "children": [
+      {
+        "id": "0acd4c6fddd7d3ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "690583bcda9caaa1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Interview.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Interview"
+            }
+          },
+          {
+            "id": "6dfdf8aefce80063",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ang.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "ang"
+            }
+          },
+          {
+            "id": "6b0e6e3c3d0f7eb1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KanjiList.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "KanjiList"
+            }
+          },
+          {
+            "id": "b574a0740c860d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ang"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecef5b9c36e8861d",
+    "type": "split",
+    "children": [
+      {
+        "id": "16e12b762db0054c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65369b8f2d54319d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "09c25676dce1a733",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#wc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35cac27cefadedde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0ef8cb3241abc61c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7714c1be0f71ae6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d21507cd0cbe6b09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JPLessons/Udemy/N5/Gramatyka/UN5GL11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for UN5GL11"
+            }
+          },
+          {
+            "id": "8c8c57dbe52723b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JPLessons/Udemy/N5/Gramatyka/UN5GL11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from UN5GL11"
+            }
+          },
+          {
+            "id": "0f1c416a3e102c07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0680bbbea3076b25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JPLessons/Udemy/N5/Kaligrafia/UNK5L8.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of UNK5L8"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "JapaneseNotesExtractor:Notes": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "65369b8f2d54319d",
+  "lastOpenFiles": [
+    "Untitled.base",
+    "Untitled 1.base",
+    "JPLessons/Udemy/N5/Gramatyka/UNGL14.md",
+    "Pasted image 20260331181651.png",
+    "Pasted image 20260331172211.png",
+    "ang.md",
+    "JPLessons/Udemy/N5/Gramatyka/UN5GL13.md",
+    "JPLessons/Udemy/N5/Gramatyka/UN5GL12.md",
+    "Kaligrafia/Kanji/1. 一 - 1.md",
+    "Kaligrafia/Kanji/Radicals/口 – mouth, point, place.md",
+    "Kaligrafia/Kanji/Radicals/立 - stand.md",
+    "Kaligrafia/Kanji/女 - woman おんな ・ ジョ.md",
+    "Kaligrafia/Kanji/終 - finish  お・シユウ.md",
+    "Pasted image 20260323072833.png",
+    "JPLessons/Udemy/N4/Gramatyka/N4GL14.md",
+    "JPLessons/Udemy/N4/Kaligrafia/N4kanji14.pdf",
+    "Kaligrafia/Kanji/業 work, industry  わざ・ギョウ、ゴウ.md",
+    "JPLessons/Udemy/N4/Kaligrafia/Kaligrafia-1-Company.md",
+    "Kaligrafia/Kanji/建 - build.md",
+    "KanjiList.md",
+    "Kaligrafia/始 begin はじ・シ.md",
+    "JPLessons/Japoński_lekcje/Semestr3/L08/KaligrafiaS3L8.md",
+    "JPLessons/StrefaKursow/Kaligrafia.md",
+    "JPLessons/Udemy/N5/Kaligrafia/UN5KL3.md",
+    "Kaligrafia/Kanji/亻/亻- person.md",
+    "Kaligrafia/Kanji/木/木 - tree.md",
+    "Kaligrafia/Kanji/作 make, work つく・サ、サク.md",
+    "Kaligrafia/Kanji/員 member かず・イン.md",
+    "Kaligrafia/Kanji/林 gaj, mały las はやし,リン.md",
+    "JPLessons/Japoński_lekcje/Semestr5/L6/KaligrafiaS5L6.md",
+    "Kaligrafia/Kanji/曜 day of week ヨウ.md",
+    "Kaligrafia/Kanji/Untitled",
+    "Pasted image 20260213124834.png",
+    "JPLessons/Udemy/N5/Gramatyka/Untitled",
+    "Kaligrafia/Kanji/言",
+    "Pasted image 20250617081708.png",
+    "Kaligrafia/Untitled",
+    "Kaligrafia/Untitled 1",
+    "Kaligrafia/Kanji/雨",
+    "Kaligrafia/Kanji/門",
+    "Kaligrafia/Kanji/艹",
+    "Pasted image 20251119211331.png",
+    "Pasted image 20251119204548.png",
+    "JPLessons/EFC34C43-D21E-43EA-BA38-53CF5013864B.jpg",
+    "Pasted image 20251031134113.png",
+    "Pasted image 20251031133318.png"
+  ]
+}

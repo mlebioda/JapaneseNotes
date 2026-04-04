@@ -1,0 +1,5 @@
+[[艹 - grass]]
+[[楽 - pleasure, funm easy]] 
+	[[白 - white]]
+	[[木 - tree]]
+	[[冖  - roof, cover]]

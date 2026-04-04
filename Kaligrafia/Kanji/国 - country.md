@@ -1,0 +1,5 @@
+
+[[KaligrafiaS4L10#国]]
+
+[[口 – mouth, point, place]]
+[[玉 - klejnot]]

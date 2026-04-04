@@ -1,0 +1,1 @@
+[[習 - inquire, to get knowledge from somebody]]

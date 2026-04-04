@@ -1,0 +1,1 @@
+[[映 - be reflected]]

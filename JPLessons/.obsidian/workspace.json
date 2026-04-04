@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "17ee53603881bfa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "72cfcc94ab8a124d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9249d03ff82bd704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Udemy/N5/Kaligrafia/UN5KL1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UN5KL1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98661f759e26b0d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "376e770170889650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "705921653e366dc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "07856c60ccae40a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sendai",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6fb3414c7a895454",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "starred"
+            }
+          },
+          {
+            "id": "54fcafdf335ea24f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "567165cfbb7823f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "313f584c9844bbfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f37f3c117a930209",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Japarrot/japparot-pronoun1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for japparot-pronoun1"
+            }
+          },
+          {
+            "id": "a7c9e95a6934a388",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Japoński lekcje/Semestr6/L02/GramatykaS6L2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from GramatykaS6L2"
+            }
+          },
+          {
+            "id": "2138b12acbd0f39a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16958c559fabb1ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Japoński lekcje/Semestr6/L02/GramatykaS6L2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GramatykaS6L2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "JapaneseNotesExtractor:Notes": false
+    }
+  },
+  "active": "9249d03ff82bd704",
+  "lastOpenFiles": [
+    "Pasted image 20251025145344.png",
+    "Pasted image 20251025144932.png",
+    "Pasted image 20251025143648.png",
+    "Udemy/N5/Untitled.md",
+    "Udemy/N5/Kaligrafia/UN5KL1.md",
+    "Udemy/N5/Kaligrafia",
+    "Udemy/N5/Gramatyka/UN5GL1L2.md",
+    "Udemy/N5/Gramatyka",
+    "Udemy/N5",
+    "StrefaKursow/Gramatyka-Podsumowanie.md",
+    "StrefaKursow/Kaligrafia_to_print.md",
+    "Template/GrammarBox.md",
+    "Japarrot/japparot-pronoun1.md",
+    "Japoński_lekcje/Semestr4/L08/GramatykaS4L8.md",
+    "StrefaKursow/FutureKanjiDescriptions.md",
+    "Pasted image 20241125215622.png",
+    "Pasted image 20241125214028.png",
+    "Pasted image 20241018141052.png.md",
+    "Japoński lekcje/Semestr6/L01/GramatykaS6L1.md",
+    "Pasted image 20241125213754.png",
+    "Japoński lekcje/Semestr6/L04/KaligrafiaS6L4.md",
+    "Japoński lekcje/Semestr6/L04/GramatykaS6L4.md",
+    "Japoński lekcje/Semestr6/L03/GramatykaS6L3.md",
+    "Japoński lekcje/Semestr6/L03/KaligrafiaS6L3.md",
+    "Japoński lekcje/Semestr6/L04",
+    "Japoński lekcje/Semestr6/L02/GramatykaS6L2.md",
+    "Japoński lekcje/Semestr6/Slownictwo-L1-L3.md",
+    "Template/deck.md",
+    "Japarrot/Słownictwo pt1.md",
+    "Japarrot/japparotimport pt1.md",
+    "Japoński lekcje/Semestr8/L01/GramatykaS8L1_pre.md",
+    "Pasted image 20241028210907.png",
+    "Pasted image 20241028204931.png",
+    "Pasted image 20241025192246.png",
+    "Japoński lekcje/Semestr8/L01",
+    "Japoński lekcje/Semestr8",
+    "StrefaKursow/toimport1.md",
+    "Japoński lekcje/Podsumowanie Kanji.md",
+    "Japoński lekcje/Semestr6/L02/KaligrafiaS6L2.md",
+    "Japoński lekcje/Semestr6/L01/KaligrafiaS6L1.md",
+    "Pasted image 20241025194539.png",
+    "Pasted image 20241025194323.png",
+    "Japoński lekcje/Semestr6/L03",
+    "Japoński lekcje/Semestr6/L02",
+    "Japoński lekcje/Semestr6/L01",
+    "Japoński lekcje/Semestr6"
+  ]
+}
