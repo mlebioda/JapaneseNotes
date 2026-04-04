@@ -1,0 +1,13 @@
+# Obsidian plugins (contain their own git repos)
+.obsidian/plugins/
+JPLessons/.obsidian/plugins/
+JPLessons/.obsidian/_plugins/
+JPLessons/.obsidian/plugins — kopia/
+
+# Obsidian cache and workspace (no need to track)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+# macOS
+.DS_Store

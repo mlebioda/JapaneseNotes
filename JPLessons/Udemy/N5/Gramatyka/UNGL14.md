@@ -594,7 +594,7 @@ Tłumaczenie: 把握する（はあくする)
 <!--ID: 1775021395406-->
 
 
-year  #card
+year end company party #card
 Tłumaczenie: 忘年会（ぼうねんかい）
 <!--ID: 1775021395407-->
 
