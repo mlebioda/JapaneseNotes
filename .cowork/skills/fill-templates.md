@@ -1,155 +1,141 @@
 # Skill: fill-templates
 
 ## Purpose
-Replace plugin-generated empty Polish-field verb and adjective templates
-with filled Japanese-field templates including all conjugation forms.
+Generate Anki flashcard templates for all #w, #wc, #wp lines in a lesson file
+and append them under a `# Summary` + `Rzeczowniki:` section.
 
 ## Trigger phrases
-User says: "fill [file/lesson]", "process [file/lesson]", "templates [file/lesson]"
+"fill [file/lesson]", "process [file/lesson]", "templates [file/lesson]"
 
-## What the plugin generates (input)
+## Fastest workflow (use this)
+Run the saved script directly — no manual card writing needed:
 
-### Verb card (empty):
-```
-to talk / to speak  #card
-Tłumaczenie: 話す（はなす）
-Forma masu: 
-Forma te: 
-Forma ta: 
-Forma nai: 
-Forma katta: 
+```bash
+python3 /path/to/ObsidianJP/.cowork/fill_cards.py <lesson_file.md>
 ```
 
-### Adjective card (empty):
+Steps:
+1. Find the lesson file (search by lesson number if needed)
+2. Run fill_cards.py on it — script handles backup + output automatically
+3. Done. No confirmation needed (backup is always created as .md.bak)
+
+## File structure produced
+The script appends this block to the end of the file:
+
 ```
-dark  #card
-Tłumaczenie: 暗い（くらい）
-Forma przeszła: 
-Przeczenie: 
-Przysłówek: 
+# Summary
+
+ ---
+
+
+ Rzeczowniki:
+
+translation [#k] #card
+japanese expression
+
+
+translation [#k] #card
+ほんやく: japanese expression
+ます形: ...
+...
 ```
 
-## What to produce (output)
+**No `Tłumaczenie:` keyword** — just the japanese expression directly.
+**`# Summary`** heading must be present so it's visible in Obsidian.
 
-### Regular verb card (filled):
+## Card formats
+
+### #w — word / expression / sentence
 ```
-to talk / to speak  #card
-ほんやく: 話す（はなす）
-ます形: 話します
-て形: 話して
-た形: 話した
-ない形: 話さない
-なかった形: 話さなかった
-ば形: 話せば
-られる形: 話される
-出す形: 話し出す
-尊敬語: 話される
-お〜になる: お話しになる
+translation [#k] #card
+japanese expression
 ```
 
-### Suru verb card (filled) — no forms:
+### #wc — verb (non-suru)
 ```
-attendance / to attend  #card
-ほんやく: 出席（しゅっせき）
+translation [#k] #card
+ほんやく: japanese expression
+ます形: ...
+て形: ...
+た形: ...
+ない形: ...
+なかった形: ...
+ば形: ...
+られる形: ...
+出す形: ...
+尊敬語: ...
+お〜になる: ...
 ```
 
-### Adjective card (filled):
+### #wc — suru verb (no conjugation needed)
 ```
-dark  #card
-ほんやく: 暗い（くらい）
-過去形: 暗かった
-否定形: 暗くない
-副詞形: 暗く
+translation [#k] #card
+ほんやく: japanese expression
 ```
+
+### #wp — i-adjective
+```
+translation [#k] #card
+ほんやく: japanese expression
+過去形: stem + かった
+否定形: stem + くない
+副詞形: stem + く
+```
+
+### #wp — non-adjective (次, はじめて, adverbs mistagged as #wp)
+```
+translation [#k] #card
+ほんやく: japanese expression
+過去形: —
+否定形: —
+副詞形: —
+```
+
+## #k tag
+Add `#k` before `#card` if the Japanese expression contains any kanji
+listed in `ObsidianJP/KanjiList.md`.
+
+## Special cases
+- **Double-Japanese entry** (`#wc 伝える（つた）- 伝える（つたえる）- Polish`):
+  Use the second Japanese form as both card front and ほんやく.
+- **`ほんやく:` in translation**: strip the prefix, use only the Polish/English text.
+- **Bold `**` markers**: strip from both Japanese and translation.
+- **Empty translation**: skip the line.
+
+## Separator format
+Japanese and translation are separated by `- ` (with optional space before dash):
+- Full-width paren: `日本語（よみ）- translation`
+- ASCII paren: `日本語 (よみ) - translation`
+- No paren: `日本語 - translation`
+
+## Verb type table (maintained in fill_cards.py)
+The script `fill_cards.py` has a `VTYPES` dict. Add new verbs there as
+lessons introduce them. If a verb is missing, the card is still generated
+but without conjugation forms.
 
 ## Conjugation rules
 
-### Identifying verb type
-- Ends in する or is a kanji/katakana noun with no hiragana verb ending → suru
-  Examples: 出席, 予約, 質問する, 電話する
-- Ends in える/ける/げる/せる/てる/でる/ねる/べる/める/れる → ichidan (ru-verb)
-- Ends in いる/きる/ぎる/じる/ちる/にる/びる/みる/りる → ichidan (ru-verb)
-- Everything else ending in う/く/ぐ/す/つ/ぬ/ぶ/む/る → godan (u-verb)
-- Irregular: くる/来る
+### Godan (u-verbs) — by ending kana
+| Ending | ます stem | て形 | た形 | ない形 | なかった形 | ば形 | られる形 | 出す形 |
+|--------|----------|------|------|--------|-----------|------|---------|--------|
+| う | い | って | った | わない | わなかった | えば | われる | い出す |
+| く | き | いて | いた | かない | かなかった | けば | かれる | き出す |
+| ぐ | ぎ | いで | いだ | がない | がなかった | げば | がれる | ぎ出す |
+| す | し | して | した | さない | さなかった | せば | される | し出す |
+| つ | ち | って | った | たない | たなかった | てば | たれる | ち出す |
+| ぬ | に | んで | んだ | なない | ななかった | ねば | なれる | に出す |
+| ぶ | び | んで | んだ | ばない | ばなかった | べば | ばれる | び出す |
+| む | み | んで | んだ | まない | まなかった | めば | まれる | み出す |
+| る | り | って | った | らない | らなかった | れば | られる | り出す |
+尊敬語 = られる形. お〜になる = お + ます stem + になる.
 
-### Suru verbs
-Output only two lines: front #card and ほんやく.
-No conjugation forms needed — user knows them well.
+### Ichidan (ru-verbs) — drop る
+stem + ます/て/た/ない/なかった/れば/られる/出す; 尊敬語=られる form.
 
-### Ichidan verbs (ru-verbs)
-Drop る, then:
-- ます形: stem + ます
-- て形: stem + て
-- た形: stem + た
-- ない形: stem + ない
-- なかった形: stem + なかった
-- ば形: stem + れば
-- られる形: stem + られる
-- 出す形: stem + 出す
-- 尊敬語: stem + られる
-- お〜になる: お + stem + になる
-
-Example — 答える（こたえる）, stem = 答え:
-ます形: 答えます / て形: 答えて / た形: 答えた / ない形: 答えない
-なかった形: 答えなかった / ば形: 答えれば / られる形: 答えられる
-出す形: 答え出す / 尊敬語: 答えられる / お〜になる: お答えになる
-
-### Godan verbs (u-verbs)
-Apply the correct row transformation based on the final kana:
-
-| Ending | ます stem | て形  | た形  | ない形 | なかった形 | ば形 | られる形 | 出す形 |
-|--------|----------|------|------|------|----------|-----|--------|------|
-| う     | い       | って  | った  | わない | わなかった | えば | われる  | い出す |
-| く     | き       | いて  | いた  | かない | かなかった | けば | かれる  | き出す |
-| ぐ     | ぎ       | いで  | いだ  | がない | がなかった | げば | がれる  | ぎ出す |
-| す     | し       | して  | した  | さない | さなかった | せば | される  | し出す |
-| つ     | ち       | って  | った  | たない | たなかった | てば | たれる  | ち出す |
-| ぬ     | に       | んで  | んだ  | なない | ななかった | ねば | なれる  | に出す |
-| ぶ     | び       | んで  | んだ  | ばない | ばなかった | べば | ばれる  | び出す |
-| む     | み       | んで  | んだ  | まない | まなかった | めば | まれる  | み出す |
-| る     | り       | って  | った  | らない | らなかった | れば | られる  | り出す |
-
-尊敬語: same as られる形
-お〜になる: お + ます stem + になる
-
-Example — 話す（はなす）, ends in す, stem = 話:
-ます形: 話します / て形: 話して / た形: 話した / ない形: 話さない
-なかった形: 話さなかった / ば形: 話せば / られる形: 話される
-出す形: 話し出す / 尊敬語: 話される / お〜になる: お話しになる
-
-### Irregular verbs
-くる / 来る:
-ます形: 来ます / て形: 来て / た形: 来た / ない形: 来ない
-なかった形: 来なかった / ば形: 来れば / られる形: 来られる
-出す形: 来出す / 尊敬語: 来られる / お〜になる: お出でになる
-
-### i-adjectives
-Drop い, then:
-- 過去形: stem + かった
-- 否定形: stem + くない
-- 副詞形: stem + く
-
-Special case — いい/よい:
-過去形: よかった / 否定形: よくない / 副詞形: よく
-
-Non-adjectives (次, はじめて, adverbs, な-adjectives mistagged as #wp):
-Output — for all three fields.
-
-## Furigana handling
-- Brackets contain partial reading hints only, e.g. 上げる（あ）means 上 reads あ
-- Never expand, modify, or remove furigana
-- Copy ほんやく: value exactly as written in Tłumaczenie: line
+### Irregular — 来る
+来ます / 来て / 来た / 来ない / 来なかった / 来れば / 来られる / 来出す / お出でになる
 
 ## What never to touch
-- The front text of the card — copy exactly as written before #card
-- <!--ID: --> lines — preserve exactly, position after the last form line
-- Rzeczowniki: section — completely untouched
-- Everything above Rzeczowniki: — completely untouched
-
-## Workflow
-1. Open the file
-2. Locate Czasowniki: section — process all verb cards
-3. Locate Przymiotniki: section — process all adjective cards
-4. Show full preview of both sections
-5. Ask: "Looks good? Should I save?"
-6. On confirmation: save file (keep backup as filename.md.bak)
+- TARGET DECK line at top of file
+- <!--ID: --> lines (preserve exactly if present)
+- Existing Rzeczowniki: section (if already present — do not re-run on filled files)

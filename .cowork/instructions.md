@@ -32,9 +32,17 @@ Every lesson file contains:
 - Never modify anything above Rzeczowniki:
 - Never modify Rzeczowniki: section
 - Never modify or delete <!--ID: --> lines
-- Always create a backup before modifying any file
-- Always show a preview and wait for confirmation before saving changes
+- Always create a .bak backup before modifying any file (no confirmation needed — backup is automatic)
 - When user references a lesson by number (e.g. "UNGL15"), find the file automatically
+
+## fill workflow (fastest path)
+Use `.cowork/fill_cards.py` — run it directly instead of generating cards manually:
+```
+python3 <vault>/.cowork/fill_cards.py <lesson_file.md>
+```
+The script handles backup, card generation, and appending automatically.
+Output structure: `# Summary` heading → ` --- ` → ` Rzeczowniki:` → cards.
+No `Tłumaczenie:` keyword. No confirmation step required.
 
 ## Available skills
 Skills are defined in .cowork/skills/ — load the relevant skill before acting.
