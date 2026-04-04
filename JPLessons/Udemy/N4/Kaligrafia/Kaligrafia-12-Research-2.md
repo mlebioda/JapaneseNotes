@@ -1,6 +1,7 @@
 TARGET DECK: UN4K12-Research
 
 ## 発 - leaving ハツ、ホツ
+[[発 - leaving]]
 ![[Pasted image 20250527214708.png]]
 
 2+legs + footsteps (2 feet) - leaving 
@@ -16,6 +17,7 @@ TARGET DECK: UN4K12-Research
 **(ほつ)** rarely used
 
 ## 表 - surface, front おもて、あらわ・ヒョウ
+[[表 - surface]]
 ![[Pasted image 20250527215415.png]]
 衣 clothing + soil + 1 - clothing on the SURFACE of the soil, fornt view
 **(おもて)**
@@ -37,6 +39,7 @@ TARGET DECK: UN4K12-Research
 #w 明日の仕事の計画表を作りました（けいかくひょう、つく）- I made a shedoule for tommorow's work
 
 ## 意 - mind, meaning イ
+[[意 - mind]]
 ![[Pasted image 20250527222830.png]]
 stay + day + heart = meaning, mind
 **(い)**
@@ -51,6 +54,7 @@ stay + day + heart = meaning, mind
 
 
 ## 思 - feeling, idea おも・シ
+[[思 - feeling]]
 ![[Pasted image 20250527223116.png]]
 rice field + heart
 **(おも)**
@@ -68,6 +72,7 @@ rice field + heart
 
 ---
 ## 公 - public おおやけ・コウ
+[[公 - public]]
  ![[Pasted image 20250529083257.png]]
  8/to part, to divide + se;f. private
  if we divide private is public
@@ -108,6 +113,7 @@ rice field + heart
 #w 英才教育（えいさいきょういく） - special education for gifted children
 #w 英吉利（イギリス）- UK/great talent
 ## 正 - correct ただ・セイ、ショウ
+[[正 - correct]]
 ![[Pasted image 20250529085320.png]]
 **(ただ)**
 #w 正しい（ただ）- correct
@@ -154,6 +160,7 @@ rice field + heart
 #w 力作（りきさく）- masterpiece
 
 ## 代 - generation, price か・ダイ
+[[代 - generation]]
 ![[Pasted image 20250601183558.png]]
 **(か)**
 #wc 代わる（か） - to take somebody's place/ on behalf
@@ -176,6 +183,7 @@ rice field + heart
 #w 大学時代、あの人とクラスが同じなのに、おたがいの　なまえを知りませんでした（じだい、おな、し）- We didn't know each other's name even though I was in the same class with that persion in our university days.
 
 ## 心 heart, mind こころ・シン
+[[心 - heart]]
 ![[Pasted image 20250601184841.png]]
 **(こころ)**
 #w 心（こころ）- heart
@@ -189,6 +197,7 @@ rice field + heart
 
 #w 今回のプロジェクトのお金は十分ありますから、安心してください（こんかい、かね、じゅうぶん、おんしん） - Please don't worry because we have enough money for this project
 ## 同 same おな・ドウ
+[[同 - same]]
 ![[Pasted image 20250601185947.png]]
 **(おな)**
 #w この二つにかばんは同じなのに,  値段が違う(ふた、おな、ねだん) - these two baga are the same, but the prices are different

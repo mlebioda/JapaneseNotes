@@ -1,4 +1,5 @@
 ## 悪 - zły わる・アク 、お
+[[悪 - bad]]
 ![[Pasted image 20250106170600.png]]
 (わる)
 #w 悪い（わる）- zły
@@ -23,6 +24,7 @@
 #w 日本語のうりょくしけん - JLPT "Egzamin umiejętności języka japońskiego"
 #w のうりょく - umiejętności
 ## 同 - to samo おな・ドウ
+[[同 - same]]
 ![[Pasted image 20250106171702.png]]
 (おな)
 #w 同じ（おな）- to samo

@@ -56,6 +56,7 @@
 #wc  かよう - uczęsczać
 
 ## 古 - stary
+[[古 - old]]
 ![[Pasted image 20241115183700.png]]
 (ふる)
 #w 古い（ふる）- stary o rzeczach
@@ -78,6 +79,7 @@
 
 
 ## 知　- wiedza
+[[知 - know]]
 (し)
 #w 知る（し）- wiedzieć
 #w 知っている（し）- wiem

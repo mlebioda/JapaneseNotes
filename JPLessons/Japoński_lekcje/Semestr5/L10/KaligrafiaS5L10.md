@@ -1,5 +1,6 @@
 
 ## 次 - next
+[[次 - następny]]
 ![[Pasted image 20240525104859.png]]
 
 (じ)
@@ -27,6 +28,7 @@
 - następne spotkanie będzie za tydzień
 
 ## 何 - co
+[[何 - co]]
 ![[Pasted image 20240525110331.png]]
 
 (なん)

@@ -1,6 +1,7 @@
 TARGET DECK: UN4K14-Grocery
 
 ## 米 - rice こめ・ベイ、マイ
+[[米 - rice]]
 ![[Pasted image 20250611214020.png]]
 
 **(こめ)**
@@ -41,6 +42,7 @@ TARGET DECK: UN4K14-Grocery
 
 
 ## 広 - wide ひろ・コウ
+[[広 - wide]]
 ![[Pasted image 20250611215137.png]]
 Under a wide (広) roof (广), there's room even for someone's private (厶) space."
 
@@ -56,6 +58,7 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 #w 広告（こうこく）- advertisement
 
 ## 台 - stand, counter sufficx form machines or devices タイ、ダイ
+[[台 - stand]]
 ![[Pasted image 20250611215511.png]]
 **(たい)**
 #w 台風（たいふう）- typhoon
@@ -76,6 +79,7 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 
 ---
 ## 牛 - cow うし・ギュウ
+[[牛 - cow]]
 ![[Pasted image 20250611215707.png]]
 **(うし)**
 #w 牛（うし）- cow
@@ -90,6 +94,7 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 
 #w この料理屋は牛肉が有名です（りょうりや、ぎゅうにく、ゆうめい）- This restaurant if famous for beef dishes
 ## 鳥 - bird とり・チョウ
+[[鳥 - bird]]
 ![[Pasted image 20250611215908.png]]
 **(とり)**
 #w 鳥（とり）- bird
@@ -107,6 +112,7 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 #w 私は魚より、牛肉が好きです（さかなりょうり、ぎゅうにく）- I like beef more than fish
 
 ## 黒 - black くろ・コク
+[[黒 - black]]
 ![[Pasted image 20250611220815.png]]
 The village (里) was covered in black soot after a fire (灬)."
 **(くろ)**
@@ -119,6 +125,7 @@ The village (里) was covered in black soot after a fire (灬)."
 #w 黒色（こくしょく） - black color
 #w 黒板（こくばん）- black board
 ## 重 - heavy おも・ジュウ
+[[重 - heavy]]
 ![[Pasted image 20250611223009.png]]
 **(おも)**
 #wp 重い（おも）- heavy
@@ -142,6 +149,7 @@ The village (里) was covered in black soot after a fire (灬)."
 
 ---
 ## 去 - go away さ・キョ
+[[去 - go away]]
 You leave (去) your land (土) behind to go live on your own (厶).
 ![[Pasted image 20250611232212.png]]
 **(さ)**
@@ -186,6 +194,7 @@ mouth + stop
 
 
 ## 数 - number かず、かぞ・スウ
+[[数 - number]]
 ![[Pasted image 20250611233314.png]]
 A woman (女) counts grains of rice (米) one by one with her hand (攵)."
 rice + woman + whip

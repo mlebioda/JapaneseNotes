@@ -1,6 +1,7 @@
 TARGET DECK: UN4K13-Seasons
 
 ## 春 - spring はる・シュン
+[[春 - spring]]
 ![[Pasted image 20250610174547.png]]
 二＋大　＋　日 - 2 days until big bloom in spring 
 **(はる)**
@@ -19,6 +20,7 @@ TARGET DECK: UN4K13-Seasons
 
 #wc 楽しむ（たの）- to enjyoi
 ## 夏 - summer なつ・カ
+[[夏 - summer]]
 ![[Pasted image 20250610175736.png]]
 1 + oneself + walking slowly 
 **(なつ)**
@@ -32,6 +34,7 @@ TARGET DECK: UN4K13-Seasons
 #w 立夏（りっか）- the first day of summer
 
 ## 早 - early はよ・ソウ
+[[早 - early]]
 ![[Pasted image 20250610180243.png]]
 Day + 10 - 10 days in row i woke up early
 
@@ -53,6 +56,7 @@ Day + 10 - 10 days in row i woke up early
 
 #w 出社(しゅっしゃ) - going to work
 ## 起 - cause, get up お・キ
+[[起 - cause]]
 ![[Pasted image 20250610182127.png]]
 run + self
 **Your “self” (己)** suddenly **runs (走)** out of bed — it’s time to **wake up** and **get moving**!
@@ -74,6 +78,7 @@ run + self
 
 ---
 ## 秋 - fall, autumn あき・シユウ
+[[秋 - fall]]
 ![[Pasted image 20250610201325.png]]
 In autumn (秋), farmers burn (火) the grain (禾) fields after harvest
 **(あき)**
@@ -87,6 +92,7 @@ In autumn (秋), farmers burn (火) the grain (禾) fields after harvest
 #w 千秋楽（せんしゅうらく）- the closing day of the show
 
 ## 風 - wind かぜ・フウ 
+[[風 - wind]]
 ![[Pasted image 20250610202022.png]]
 wind blows strongly, that even insects hide under roof (line)
 **(かぜ)**
@@ -108,6 +114,7 @@ wind blows strongly, that even insects hide under roof (line)
 #wc 中止される(ちゅうし) -  być odwołanym / zostać anulowanym
 
 ## 空 - sky, empty そら、から・クウ
+[[空 - sky]]
 ![[Pasted image 20250610202446.png]]
 roof, legs and work
 
@@ -155,6 +162,7 @@ roof, legs and work
 
 ---
 ## 冬 - winter ふゆ・とう
+[[冬 - winter]]
 ![[Pasted image 20250610224303.png]]
 walking slowlu + 2x dot. Walking slowl on a snow is winter
 **(ふゆ)**
@@ -173,6 +181,7 @@ walking slowlu + 2x dot. Walking slowl on a snow is winter
 #w 初冬（しょとう）- early winter
 #w 昨冬（さくとう）- last winter
 ## 野 - field の・ヤ
+[[野 - field]]
 ![[Pasted image 20250610225240.png]]
 you're walking **from a village (里)** into a huge, **open field**. You have to **prepare (予)** yourself before going into the wild
 **(の)**
@@ -189,6 +198,7 @@ you're walking **from a village (里)** into a huge, **open field**. You have to
 
 #w 夏休みは、よく野外へきゃんぷ
 ## 運 - carry, fortune はこ、ウン 
+[[運 - carry]]
 podjazd i auto pod dachem
 ![[Pasted image 20250610230013.png]]
 **(はこ)**
@@ -204,6 +214,7 @@ podjazd i auto pod dachem
 #w トラックで運送の仕事をしています（うんそう、しごと）- I'm doing the transportation work by truck
 #w こんな大きいバスの運転はむずかしいでしょう（うんてん）- It is difficult to drive such a big bus, isn't it?
 ## 転 - transfer, turning around ころ、テン
+[[転 - transfer]]
 ![[Pasted image 20250610230345.png]]
 car + 2 + self/private. Transfer 2 private goods with a car 
 

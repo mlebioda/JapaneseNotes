@@ -1,3 +1,4 @@
+# 前 - front, before
 [[KaligrafiaS5L12#前]]
 [[KaligrafiaS6L2#前 przed]]
 

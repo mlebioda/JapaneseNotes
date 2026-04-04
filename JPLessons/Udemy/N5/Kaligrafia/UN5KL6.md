@@ -1,6 +1,7 @@
 TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 
 ## 年 - year, age とし・ネン
+[[年 - year]]
 
 **(とし)**  
 #w 年の始め（とし, はじめ）- beginning of the year #k
@@ -26,6 +27,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 
 ---
 ## 分 - divide / understand / minute わ(ける)、わ(かる)・ブン、フン、プン
+[[分 - divide]]
 
 **(わ)**
 #wc 分かる（わ) - understand #k
@@ -46,6 +48,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 
 ---
 ## 午 - noon ご・ゴ
+[[午 - noon]]
 
 **(ご)**
 #w 午前（ごぜん）- before noon #k
@@ -89,6 +92,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 
 
 ## 朝 - morning あさ・チョウ
+[[朝 - morning]]
 
 **(あさ)**  
 #w 朝日（あさひ）- morning sun #k
@@ -97,6 +101,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 **(ちょう)**
 #w 朝食（ちょうしょく）- breakfast formal #w
 ## 昼 - noon ひる・チュウ
+[[昼 - noon]]
 
 **(ひる)**  
 #w 昼休み（ひるやすみ）- lunch break #k
@@ -112,6 +117,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 #w 夕食（ゆうしょく）- dinner #k
 #w 夕方（ゆうがた）- evening #k
 ## 夜 - night よる、よ・ヤ
+[[夜 - night]]
 
 **(よる)**  
 #w 夜になる（よる）- it becomes night #k

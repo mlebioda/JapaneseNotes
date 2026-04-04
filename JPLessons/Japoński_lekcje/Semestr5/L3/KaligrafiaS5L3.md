@@ -13,6 +13,7 @@ hahaoya - matka - ale bardzo formalne
 #w おばさん  - babcia, starcza pani
 
 ## 高
+[[高 - high]]
 
 ![[Pasted image 20240316125425.png]]
 
@@ -62,6 +63,7 @@ toshi - japoński
 #wc 語る（かたる）- opowiadać (bajki, opowieści)
 
 ## 文
+[[文 - sentence]]
 ![[Pasted image 20240316131827.png]]
 
 #w 文学（ぶんがく）- literatura

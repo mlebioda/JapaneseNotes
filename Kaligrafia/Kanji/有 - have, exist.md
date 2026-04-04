@@ -1,3 +1,4 @@
+# 有 - have, exist
 [[Kaligrafia-9-Banking#有 - have/exist あ、あり・ユウ]]
 
 ---

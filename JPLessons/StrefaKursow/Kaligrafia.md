@@ -127,6 +127,7 @@ Element Człowieka
 #w 休みの日（やす、ひ） - dzień wolny
 
 ## 体 - ciało からだ/　タイ
+[[体 - body]]
 人＋本 - człowiek + pochodzenie(książka)
 (からだ)　スポーツは　体に　いいです - Sport jest dobry dal ciała, 彼は　体がよわいです - on ma słabe ciało
 
@@ -138,6 +139,7 @@ Element Człowieka
 (め) - 彼女は　目が大きいです- ona ma duże oczy
 
 ## 貝　muszla,małże かい
+[[貝 - muszla]]
 (かい)　彼は　貝がすきです - on lubi małże
 
 ---
@@ -171,10 +173,12 @@ Element Człowieka
 (ふた・つ)　二人 - 2 osoby, 二つ - 2, ふつか - 2 dzień miesiąca
 
 ## 三 -  3 みっ・つ／サン
+[[三 - 3]]
 (さん) 三人 - 3 osoby, 三月 - marzec
 (みっつ)  三つ - 3, 三日 - 3 dzień miesiąca
 
 ## 四 - 4 よ、よっ、よん／シ
+[[四 - 4]]
 (よ)　四人 - 4 osoby
 (よっ)　よっつ - 4,　四日（よっか）- 4 dzień miesiąca
 (し)　四月 - kwiecień
@@ -185,6 +189,7 @@ Element Człowieka
 (ご) 五人 - 5 osób, 五月- maj, 
 
 ## 六 - 6 むっ、ロク
+[[六 - 6]]
 (むっ)　六つ - 6
 (ろく) 六人- 6 osób
 (むい)　六日（むいか）- 6 dzień miesiąca
@@ -194,11 +199,13 @@ Element Człowieka
 
 
 ## 八 - 8  やっ／ハチ
+[[八 - 8]]
 (やっ)　八つ - 8、八日（ようか）- 8 dzień miesiąca
 (はち)　八人 - 8 osób, 
 
 
 ## 九 - 9 ここの／キュウ、ク
+[[九 - 9]]
 (ここの)　九日 - 9 dzień miesiąca, 九つ - 9
 (きゅう)　九人- 9 osób 
 (く)　九月 - wrzesień, 九九（くく) tabliczka mnożenia
@@ -221,6 +228,7 @@ Element Człowieka
 (まん) - 一万 - 10 000, 百万 - 1 000 000, 
 
 ## 寺 - świątynia てら/　じ
+[[寺 - świątynia]]
 (てら)　このお寺はきれいです - ta świątynia jest piękna
 
 ---
@@ -235,6 +243,7 @@ Element Człowieka
 #w へやに入いった時、だれもいなかった(はい、とき) - gdy wszedłem do pokoju, nikogo nie było
 
 ## 分　minuta - わ／フン、ぶん 
+[[分 - divide]]
 (わ)　分かる - rozumieć,　分ける - dzielić
 (ふん) 五分 - 5 minut
 (ぷん) 十分 - 10 minut
@@ -347,6 +356,7 @@ Element Człowieka
 #w 男子（だんし）- chłopiec - bardziej formalne
 #w 女子（じょし）- dziewczynka - bardziej formalne
 ## 好 - miłość, lubić す・き／コウ
+[[好 - miłość]]
 女＋子  kobieta + dziecko = miłość
 (す) 　私は日本語が好きです - Lubię język japoński, 大好き(だい) - kochać, bardzo lubić, 彼女大好き - kocham ją
 ()
@@ -381,12 +391,14 @@ Element Człowieka
 #wc 下る (くだ）- to go down
 #wc 下がる（さ） - obniżać się np temperatura
 ## 左 - lewo ぎだり／さ 
+[[左 - left]]
 (ひだり) 左に　まがってください - proszę skręcić w lewo, 左ききです - jestem leworęczny, 左利き（ひだりきき）- mańkut , 左手（ひだりて） - lewa ręka 
 (さ) 左折する（させつ）- skręcać w lewo (bardziej poinstruować, żeby coś obrócić w lewo)
 
 ---
 #w 左に　まがってください - proszę skręcić w lewo
 ## 右 - prawo みぎ、ユウ ,う
+[[右 - right]]
 (みぎ)　右にまがって下さい - proszę skręć w prawo,　右よりのせいじか - prawicowy polityk, 右手でつかまる (みぎて) - chwycić coś prawą ręką, 右側から（みぎがわ）- z prawej strony, 右側に（みぎがわ）- po prawej stronie
 (ゆう)  みちをわたる　まえに　左右（さゆう）を見てください - Przed przejściem przez ulicę spójrz w lewo i prawo
 (う) 右折 （うせつ）- skręt w prawo, 右折する （うせつ）, 右折ライト（うせつ）
@@ -418,6 +430,7 @@ Element Człowieka
 
 
 ## 北 - północ きた、ホク
+[[北 - północ]]
 (きた)　風は北からふいている - wiatr wieje z północy, 北はどっち？- w którą stronę jest północ?, 北口（きたぐち）- północne wejście, 
 (ほく)  東北（とうほく）- północny wschód
 
@@ -425,6 +438,7 @@ Element Człowieka
 #w 風は北からふいている(きた) - wiatr wieje z północy
 
 ## 南 - południe　みなみ, ナン
+[[南 - południe]]
 (みなみ)　私のいえは　南むきてです - mój dom jest zwrócony na południe, 南口（ぐち）- wejście południowe
 (なん) 
 南東　(なんとう)　- południowy wschód
@@ -435,6 +449,7 @@ Element Człowieka
 (とう) 東南 – wschodnie południe (とうなん)
 
 ## 西 - zachód にし／セイ、サイ
+[[西 - zachód]]
 (にし)　西ヨーロッパ - zachodnia europa | 西口（ぐち）  – zachodnie wyjście、西日本 - zachodnia japonia
 (せい)　北西 – północny zachód (ほくせい) | 西洋 – zachód jako kierunek świata せいよう
 (さい)　関西 – kansai(region), 東西南北　（とうざいなんぼく）- wszystkie kierunki świata
@@ -453,6 +468,7 @@ Element Człowieka
 #w 何人（なんにん） - ile osób
 #w 国語 (こくご) - język narodowy
 ## 外 - na zewnątrz そと、ガイ
+[[外 - na zewnątrz]]
 **タ＋ト**
 **タ、ち、つ、て、と - ta i to stoją na zewnątz**
 (がい)　 外国（がいこく）- obce kraje (forein countries)｜外国にすむ（がいこく） - mieszkać za granicą | 外国に行く（がいこく） - jechać za granicę | 外国人（がいこくにん）- osoba z zagranicy
@@ -469,6 +485,7 @@ Element Człowieka
 #w いえの　前に　大きい木が　あります (まえ、お）- przed domem jest duże drzewo
 #w 午前 - przed południem(ごぜん)
 ## 午 - południe　ご
+[[午 - noon]]
 (ご)　午前（ごぜん）- poranek, 午前 X時に....（ごぜん）-o godzinie x rano 
  午前 X時から....（ごぜん）- od X rano, 午前 X時まで...（ごぜん）- do X rano, 
   午前中（ごぜんちゅう）- rankiem,  午前中いっぱい（ごぜんちゅう）- cały ranek
@@ -524,6 +541,7 @@ Element Człowieka
 #w ゴミを出す（だ） - wyrzucać śmieci
 
 ## 大 - duży 　おお／だい、たい
+[[大 - big]]
 (だい) 　大学生 (だいがくせい) student
 (たい) 　大変な（たいへん）bardzo trudny, straszny | 大変な一日（たいへんなついたち）ciężki dzień |大変なとき(たいへん）ciężkie czasy |大使館 （たいしかん） - ambasada |  
 大使　(たいし） - ambasador |大使館 でビザをもらう - otrzymać wizę w ambasadzie  
@@ -546,6 +564,7 @@ Element Człowieka
 #w アリ - mrówka
 #w 小川（おがわ）- strumyk
 ## 多 - dużo  おお・い、タ
+[[多 - many]]
 ( おお) 日本はじしんが多い - W japonii jest wiele trzęsień ziemi, 多くの日本人は　まんがを読みます - Wiele japończyków czyta mangi
 (た )　多分（たぶん）- być może, chyba , 多分生きます - chyba pójdę
 
@@ -556,6 +575,7 @@ Element Człowieka
 #w 多くの.... - wiele, wielu
 #w 多分生きます - chyba pójdę
 ## 少 - trochę/mało, niewiele すこ・し、すく・ない」／ショウ
+[[少 - few]]
 (すこ)　少し - troszkę, 日本語は少し出来ます(すこ,でき） - Znam trochę japoński, あともう　少しです - jeszcze trochę
 (すく ) 少ない - niewiele, 彼はともだちが少ないです - on ma mało przyjaciół
 (しょう )　少女（しょう）dziewczynka, 少年(しょうねん) - chłopak
@@ -569,6 +589,7 @@ Element Człowieka
 #w 少年（しょうねん） - chłopczyk
 #w 彼はともだちが少ないです - on ma mało przyjaciół
 ## 年 - rok とし／ネン
+[[年 - year]]
 ( とし)　年上 - starsza osoba, 年下 - młodsza osoba, 半年 - pól roku
 ( ねん) 2022年, 
 
@@ -577,6 +598,7 @@ Element Człowieka
 #w 年下(としした) - młodsza osoba
 #w 2022年 (にせんねんに) - rok 2022
 ## 高 - wysoki, drogi たか・い、コウ
+[[高 - high]]
 ( たか) この車は　ちょっと　ねだんが　高いです - ten samochód jest nieco za drogi, 
 彼はせが高いです - on jest wysoki
 (こう ) 高校（こうこう）- high school (liceum),  高校生 （こうこうせい）- high school student (licealista) | 最高（さいこう) the best, najlepszy  /przysłówek lub przymiotnik 
@@ -585,6 +607,7 @@ Element Człowieka
 #w この車は　ちょっと　ねだんが　高いです （たか）- ten samochód jest nieco za drogi (cena za wysoka)
 #w ねだん -　cena
 ## 安 - tani やす・い／あん 
+[[安 - cheap]]
 (やす )　安い - tani,　これはとても安いですね - to jest bardzo tanie, もっと安いパソコンはありませんか - nie ma tańszego komputera?
 ( あん)
 
@@ -594,6 +617,7 @@ Element Człowieka
 #w これはとても安いですね (やす）- to jest bardzo tanie
 #w もっと安いパソコンはありませんか - nie ma tańszego komputera?
 ##  先 - Ahead, przed(aspekt czasowy)  さき／セン
+[[先 - previous]]
 先に（さきに）najpierw | 先にどうぞ proszę przodem　｜ 旅行の先(旅行のさき) cel podróży
 (せん ) 先月は　とても　いそがしかったです - w zeszłym miesiącu byłem bardzo zapracowany,
 先輩（ぱい）starszy (albo stażem) kolega
@@ -602,6 +626,7 @@ Element Człowieka
 #w 先月は　とても　いそがしかったです(せんげつ) - w zeszłym miesiącu byłem bardzo zapracowany
 #w とても - bardzo, very
 ## 生 urodzić się - う・む、う・まれる／せい
+[[生 - be born]]
 (う)　私は四月生まれました - urodziłem się w kwietniu
 (せい) 私は先生になりたいです - chcę zostać nauczycielem, 彼は一年生です - on jest uczniem pierwszego roku, 学生（がくせい）uczeń | 大学生（だいがくせい）student |  中学生（ちゅうがくせい)  gimnazjalista | 小学校(しゅうがくせい) uczeń podstawówki | 人生（じんせい）życie ludzkie
 (なま）生 surowy | 生水（なまみず）nieprzegotowana woda
@@ -656,6 +681,7 @@ Element Człowieka
 ---
 #w 私はこの会社ではらきたいです -  chcę pracować w tej firmie
 ## 店 - sklep みせ、テン 
+[[店 - store]]
 (みせ)　私はあの店で買いものをします - robię zakupy w tamtym sklepie, 
 あの店名前は何ですか？- jaka jest nazwa tamtego sklepu?
 （てん）飲食店(いんしょくてん) - restauracja
@@ -680,6 +706,7 @@ Element Człowieka
 #w お父さん(とう) - ojciec
 #w お父さんは何さいですか(とう)- ile lat ma ojciec
 ## 友 - przyjaciel とも、ユウ
+[[友 - friend]]
 (とも)　あたらしい友だちが　できました - mam nowego przyjaciela
 (ゆう)　彼は私の　友人です （ゅうじん）- on jest moim przyjacielem, 学友（がくゆう）- przyjaciel ze szkoły
 
@@ -692,6 +719,7 @@ Element Człowieka
 (し) 私立（しりつ） - prywatny
 
 ##  車 - くるま、しゃ
+[[車 - car]]
 (くるま) 車- car, samochód |  車をとめる- zatrzymać samochód |  車がとめる- samochód się zatrzymuje |  車をうんてんする- prowadzić samochód |  車いす - wózek inwalidzki |  車いすをつかう - jeździć/korzystać wózkiem inwalidzkim |  車いすをおす - pchać wózek inwalidzki
 
 (しゃ) 電車 - pociąg |  電車にのる - jechać pociągiem  |  電車にまにあう - zdążyć na pociąg  |  電車がこんでいる - pociąg jest zatłoczony | 自転車（じてんしゃ）- rower  |  自転車をかりる- pożyczyć rower
@@ -715,6 +743,7 @@ Część po lewo, oznacza coś z drogą, przemieszczaniem się często w innych 
 #w 私は書道が好きです(しょうどう、す) - lubię kaligrafię
 #w 書道(しょうどう) - kaligrafia - droga pisma
 ## 花  - kwiat はな、か
+[[花 - flower]]
 (はな)  私は友だちに花を上げました（とも、はな、あ）- dałem przyjaciółce kwiaty, きれいな花火ですね（はなび）- piękne sztuczne ognie, prawda?, 友だちと花見に行きます(とも、はなみ) - Idę z przyjaciółmi oglądać kwiaty wiśni
 (か)
 
@@ -749,6 +778,7 @@ Część po lewo, oznacza coś z drogą, przemieszczaniem się często w innych 
 #w 電気（でんき）をつけてください - włącz proszę światło
 #w 電気（でんき） - elektryczność, światło
 ## 空 - niebo, sky そら、から、クウ 
+[[空 - sky]]
 (そら)　とりはそらをとんでいる - ptaki latają po niebie
 (から)
 (くう) 　森の空気は　おいしいです(もり、くうき) - powietrze w lasach jest super
@@ -805,6 +835,7 @@ Część po lewo, oznacza coś z drogą, przemieszczaniem się często w innych 
 #w 私は　国立大学の大学生です - jestem studentem uczelni państwowej
 #w  国立（こくりつ）- publiczny, państwowy
 ## 馬 - koń うま、バ
+[[馬 - koń]]
 (うま)　馬は大きいどうぶつです - konie są dużymi zwierzętami, 馬車（ばしゃ）は　むかしの　のりものです-  powozy są dawnymi pojazdami
 (ば)馬車（ばしゃ）は　むかしの　のりものです-  powozy są dawnymi pojazdami
 
@@ -815,6 +846,7 @@ Część po lewo, oznacza coś z drogą, przemieszczaniem się często w innych 
 #w  馬車（ばしゃ）- powóz (konny)
 #w のりもの - pojazd
 ## 駅 - dworzec えき
+[[駅 - station]]
 馬 koń 
 (えき) 私は　駅の前でまっています(えき、まえ）-  czekam przed dworcem, 
 すみません、もより　駅は　どこですか -  przepraszam, gdzie jest najbliższy dworzec?
@@ -825,6 +857,7 @@ Część po lewo, oznacza coś z drogą, przemieszczaniem się często w innych 
 #w もより - najbliższy
 
 ## 新 - nowy あたら/しん
+[[新 - new]]
 **立+き+siekiera = świerzy/stać + drzewo - siekiera**
 （あたら）新しい （あたら）- nowy, 新しいゲーム （あたら） - nowa gra
 ぎじゅつ - technologia, 新しいことにいどむ （あたら） - podjąć się nowego wyzwania
@@ -840,16 +873,19 @@ Część po lewo, oznacza coś z drogą, przemieszczaniem się często w innych 
 #w 私は毎あさ新聞を読みます(しんぶん) - codziennie rano czytam gazetę
 #w 新聞（しんぶん）nowy + słuchać/nowe usłyszane wieści - gazeta
 ## 古 - stary ふる・い／コ
+[[古 - old]]
 nagrobek
 (ふる)　彼女は　古いえいがが好きです（すき）- Ona lubi stare filmy, このビルは古いです。-- ten budynek jest stary
 
 ---
 #w 彼女は　古いえいがが好きです（すき）- Ona lubi stare filmy
 ## 彼 - on　かれ　かの
+[[彼 - on]]
 (かれ)　彼 - on
 (かの) 彼女 - ona
 
 ## 手 - ręka　て、シュ
+[[手 - hand]]
 (て)　食べ前にてをあらってください（た、まえ、て） - przed jedzeniem umyj proszę ręce, 
 私は空手が好きです(からて) - lubię karate
 (しゅ) 手話（しゅわ）te+hanasu - język migowy
@@ -878,6 +914,7 @@ nagrobek
 #w シャツ - koszula
 #w 空白（くうはく）pusty/niebo + biały- spacja, pusta przestrzeń do uzupełnienia
 ## 黒 - czarny くろ、コク
+[[黒 - black]]
 (くろ)　彼は目が黒いです（かれ、め、くろ）- on ma czarne oczy
 (こく)　黒と白、どっちが好き？(くろ、しろ、す）- który kolor wolisz? Biały czy czarny? 
 
@@ -886,6 +923,7 @@ nagrobek
 #w 黒と白、どっちが好き？(くろ、しろ、す）- który kolor wolisz? Biały czy czarny? (czerń i biel)
 
 ## 青 - niebieski(zielony) あお、セイ
+[[青 - blue]]
 (あお)　青い空はきれいです - niebieskie niebo jest ładne, 青空（あおぞら） -błękitne niebo,
 あなたは、まだ青いだ！（あお）kiedyś zielony i niebieski to samo słowo - jesteś jeszcze zielony!
 青しんごう（あお）- zielone światło
@@ -895,6 +933,7 @@ nagrobek
 #w 青空（あおぞら）- błękitne niebo - złożenie
 #w 青しんごう（あお）kiedyś z niebieskim to samo - zielone światło
 ## 赤 - czerwony あか、セキ
+[[赤 - red]]
 (あか)　赤いりんごを５つ買いました（あか、いつつ、か）- Kupiłem 5 czerwonych jabłek, 
 赤ちゃんはねています - dziecko śpi (niemowlak), 赤しんごう -czerwone światlo
 (せき) 
@@ -910,6 +949,7 @@ nagrobek
 (きょう)  今日（きょう）- dzisiaj、
 
 ## 魚 - ryba さかな、ギョ
+[[魚 - fish]]
 (さかな)　毎日魚を食べます - codziennie jem ryby, 生魚が好きです(なまざかな）- lubię surowe ryby
 
 ---
@@ -917,6 +957,7 @@ nagrobek
 #w 生魚が好きです(なまざかな）- lubię surowe ryby
 #w 生魚(なまざかな）/生の魚 - surowa ryba (1 słowo i 2 słowa)
 ## 何 - なん、なに
+[[何 - co]]
 (なん)　これは何ですか - co to jest?, 今、何時ですか - która teraz godzina?、ポーランドの人口は何人ですか (じんこう、なんにん) - ile wynosi populacja polski, あなたの生年月日（せいねんがっぴ）何年何月何日ですか(なんねんなんがつ、なんにち）。- kiedy są twoje urodziny (data urodzenia), 英語（えいご）の単語（たんご）は何語（なんご）しっていますか？- iel znasz słów z języka angielskiego?
 (なに)　何語ができますか(なにご）？ - jakie języki znasz?
 
@@ -950,6 +991,7 @@ nagrobek
 #w 先週(せんしゅう）の土(どようび）曜日は私の誕生日（たんじょうび）でした - w zeszłą sobotę były moje urodziny
 #w 先週(せんしゅう）の土(どようび） - zeszła sobota
 ## 円 - yen, okrągły(2d) まる・い／えん
+[[円 - yen]]
 na 3d osobne kanji
 (まるい) このコインは円いです - ta moneta jest okrągła
 (えん)五万円（ごまんえん）50kyen, 
@@ -981,10 +1023,12 @@ na 3d osobne kanji
 
 
 ## 次　じ、つぎ
+[[次 - następny]]
 
 (じ) 次女（じじょ） - druga z kolei córka | 目次（もくじ）- spis treści | 目次のページ（もくじ） -  strona spisu treści | 次回 - następny raz | 次 (つぎ) - następny
 
 ## 思　- to think　おも, し
+[[思 - feeling]]
 
 （おも）思う- to think, myśleć |  ふしぎに思う- uważać za dziwne |  思いきりり - z całych sił (omoikiri) | 思い出す（おもいだす）- przypomnieć sobie |  むかしを思い出す（おもいだす) - przypomnieć sobie dawne czasy | きゅうに思い出す（おもいだす)　- nagle sobie coś przypomnieć  
 （し）　不思議（な）（ ふしぎな）- dziwny |  不思議に見える（ ふしぎな） - wyglądać dziwnie | 不思議な人（ ふしぎな） - dziwna osoba | 不思議な行動（ ふしぎ,（こうどう）- dziwne zachowanie
@@ -1002,6 +1046,7 @@ na 3d osobne kanji
 
 
 ## 文–  ぶん
+[[文 - sentence]]
 文学（ぶんがく）- literatura |  作文（さくぶん）- composition | 文字（もじ）- letter, chracter  (emoji) | 文化（ぶんか）- culture | 文法（ぶんぽう）- gramatyka | 作文する - pisanie wypracowania | 文章（ぶんしょう）- zdanie, artykuł, styl pisania
 
 ## 京 –  capitol きょう

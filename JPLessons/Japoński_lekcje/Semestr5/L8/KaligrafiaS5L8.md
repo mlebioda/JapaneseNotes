@@ -23,6 +23,7 @@
 #wc いれる - włożyć
 
 ## 車 car
+[[車 - car]]
 ![[Pasted image 20240618161015.png]]
 (くるま)
 #w 車（くるま）- car, samochód

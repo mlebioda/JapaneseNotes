@@ -1,6 +1,7 @@
 TARGET DECK: UN4K2
 
 ## 勉 - diligence つと・ベン
+[[勉 - diligence]]
 ![[Pasted image 20250303193815.png]]
 "Putting in power (力) to escape (免) from laziness requires diligence (勉)!"
 
@@ -47,6 +48,7 @@ TARGET DECK: UN4K2
 #w この会社の社員は外国語の教育を受けていますか（しゃいん、がいこくご、きょういく、う）- Are this company's employees receiving foreign language education?
 #wc 受ける（うける) - receive 
 ##  育- bring up そだ・イク
+[[育 - bring up]]
 ![[Pasted image 20250303195504.png]]
 infant, meat
 
@@ -93,6 +95,7 @@ infant, meat
 #w ローマ字を書いてください（じ、か）- please, write roman letter
 
 ## 試 - try, test こころ、ため・シ
+[[試 - try]]
 - 言 (speech, words)
 - 式 (style, method, ceremony) (arrow + craft)
 Manufacturer produces new style, and run a TEST asking customers to speak their opinions
@@ -114,6 +117,7 @@ Manufacturer produces new style, and run a TEST asking customers to speak their 
 #w この大学の入試はいつですか（にゅうし）- when is the admission exam to this university?
 
 ## 験 - test ケン
+[[験 - test]]
 - 馬 (horse)
 - ⾔ (speech, words, though here it's actually related to radical "⾷" in older forms)
 - 㑒 (component that comes from "danger" in some etymologies)
@@ -128,6 +132,7 @@ Manufacturer produces new style, and run a TEST asking customers to speak their 
 
 ---
 ## 質 - inquire ただ・シツ
+[[質 - inquire]]
 ![[Pasted image 20250306214128.png]]
 Two Axes and shells
 (ただ)
@@ -154,6 +159,7 @@ Gate, mouth
 質問（しつもん）- question
 
 ## 答 - answer こた・トウ
+[[答 - answer]]
 ![[Pasted image 20250306215014.png]]
 - ⺮ (**竹** – bamboo)
 - 合 (**ごう** – fit, combine)

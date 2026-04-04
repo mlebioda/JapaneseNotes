@@ -10,6 +10,7 @@
 9. kyoukasho - podręcznik
 
 ## 友 - przyjaciel
+[[友 - friend]]
 ![[Pasted image 20241108181742.png]]
 
 (とも)
@@ -30,6 +31,7 @@
 ![[Pasted image 20241108182236.png]]
 
 ## 家 dom
+[[家 - home]]
 ![[Pasted image 20241108182652.png]]
 
 (いえ)
@@ -50,6 +52,7 @@
 
 (うち) 
 ## 少　trochę
+[[少 - few]]
 ![[Pasted image 20241108183755.png]]
 (すこ)
 #w 少し（すこし）- trochę = chotto

@@ -1,5 +1,6 @@
 TARGET DECK: S7L4
 ## 昼 - daytime, noon ひる・チュウ
+[[昼 - noon]]
 
 ![[Pasted image 20250213191616.png]]
 Shakuhachi  (ancient japanese flute) . . . nightbreak.
@@ -24,6 +25,7 @@ Shakuhachi  (ancient japanese flute) . . . nightbreak.
 #w 昼夜（ちゅうや）- dzień i noć
 
 ## 海 - sea -　うみ・カイ
+[[海 - sea]]
 ![[Pasted image 20250213193846.png]]
 
 

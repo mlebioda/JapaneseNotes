@@ -5,6 +5,7 @@
 
 
 ## 正 - poprawny, prawidłowy
+[[正 - correct]]
 ![[Pasted image 20241203212639.png]]
 ![[Pasted image 20241203213736.png]]
 (ただ)
@@ -26,6 +27,7 @@
 #w 時代（じだい）- czas, era epoka   X.... czas X, np studiów itp
 #w 会議（かいぎ）は正午（しょうご）に はじまります - spotkanie zaczyna się po południu
 ## 年 - rok
+[[年 - year]]
 ![[Pasted image 20241203213948.png]]
 (とし)
 
@@ -42,6 +44,7 @@
 #w 私の親友（しんゆう）は１９９６（せんきゅうひゃくきゅうじゅうろく）年（ねん）生まれました（う）- mój najlepszy przyjaciel urodził się w 1996 roku
 
 ## 住 - mieszkać
+[[住 - live]]
 ![[Pasted image 20241203215738.png]]
 ![[Pasted image 20241203215729.png]]
 (す)

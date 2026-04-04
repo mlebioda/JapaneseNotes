@@ -8,6 +8,7 @@ TARGET DECK: S7L5
 ![[Pasted image 20250218152750.png]]
 
 ## 彼 - on かれ・かの
+[[彼 - on]]
 
 ![[Pasted image 20250218152853.png]]
 
@@ -28,6 +29,7 @@ TARGET DECK: S7L5
 #wc むく - peel, obierać
 
 ## 代 wiek, opłata, zastąpić　か・ダイ
+[[代 - generation]]
 
 ![[Pasted image 20250218153730.png]]
 

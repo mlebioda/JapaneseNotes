@@ -1,6 +1,7 @@
 TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5L7-Basic-adjectives
 
 ## 高 - high, expensive たか（い）・コウ
+[[高 - high]]
 
 **(たか)**  
 #wp 高い(たか) - high/expensive #k
@@ -12,6 +13,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5L7-Basic-adjectives
 **(こう)**
 #w 高校生（こうこうせい）- high school student #k
 ## 大 - big おお（きい）・ダイ、タイ
+[[大 - big]]
 
 **(おお)**  
 #wp 大きい（おお）- big #k
@@ -70,6 +72,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5L7-Basic-adjectives
 **(はく)**
 #w 空白（くうはく）- blank
 ## 安 - cheap, safe やす（い）・アン
+[[安 - cheap]]
 
 **(やす)**  
 #wp 安い（やすい）- cheap #k
@@ -81,6 +84,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5L7-Basic-adjectives
 #w 安心（あんしん）- ulga, spokój #k
 #w 安全（あんぜん）- safety #k
 ## 新 - new あたら（しい）・シン
+[[新 - new]]
 
 **(あたら)**  
 #wp 新しい（あたら）- new #k
@@ -89,6 +93,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5L7-Basic-adjectives
 #w 新人（しんじん）- new employee #k
 #w 新年（しんねん）- new year #k
 ## 古 - old ふる（い）・コ
+[[古 - old]]
 
 **(ふる)**  
 #wp 古い（ふる）- old #k
@@ -99,6 +104,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5L7-Basic-adjectives
 #w 中古の本（ちゅうこ,ほん）- used book #k
  
 ## 多 - many, much おお（い）・タ
+[[多 - many]]
 
 **(おお)**  
 #wp 多い（おお）- many, much #k
@@ -107,6 +113,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5L7-Basic-adjectives
 **(た)**
 #w 多分（たぶん）- probably #k
 ## 少 - few, little すく（ない）、すこ（し）・ショウ
+[[少 - few]]
 
 **(すく)**  
 #wp 少ない（すく) - malo, a little
@@ -120,6 +127,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5L7-Basic-adjectives
 #w 多少（たしょう）- more or less #k
 #w 少女（しょうじょ）- a little girl #k
 ## 早 - early はや（い）・ソウ
+[[早 - early]]
 ![[Pasted image 20251119211331.png]]
 **(はや)**  
 #wp 早い（はや）- early #k

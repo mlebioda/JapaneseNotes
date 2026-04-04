@@ -1,4 +1,5 @@
 ## 午 - południe
+[[午 - noon]]
 
 
 ![[Pasted image 20241018180418.png]]

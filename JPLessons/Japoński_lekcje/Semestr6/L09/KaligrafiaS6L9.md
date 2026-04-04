@@ -67,6 +67,7 @@
 #w ために - żeby
 
 ## 夜 noc - よる、よ、ヤ
+[[夜 - night]]
 ![[Pasted image 20250103210920.png]]
 
 ![[Pasted image 20250103211156.png]]

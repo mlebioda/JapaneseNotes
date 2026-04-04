@@ -20,6 +20,7 @@
 ![[Pasted image 20240123202736.png]]
 
 ## 外
+[[外 - na zewnątrz]]
 ![[Pasted image 20240123203152.png]]
 (がい)
 外国（がいこく）- obce kraje (forein countries)

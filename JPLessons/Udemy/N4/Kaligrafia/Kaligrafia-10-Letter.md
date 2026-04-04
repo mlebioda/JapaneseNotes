@@ -1,6 +1,7 @@
 TARGET DECK: UN4K10-Letter
 
 ## 手 - hand て、シュ
+[[手 - hand]]
 ![[Pasted image 20250429190001.png]]
 **(て)**
 手（て）- hand
@@ -14,6 +15,7 @@ TARGET DECK: UN4K10-Letter
 #w 運転手（うんてんしゅ）- driver
 #w 歌手（かしゅ）- singer
 ## 紙 - paper かみ・シ
+[[紙 - paper]]
 ![[Pasted image 20250429190516.png]]
 Paper is made from **1thread**, used by **clans** to write history.
 **(かみ)** 
@@ -48,6 +50,7 @@ Paper is made from **1thread**, used by **clans** to write history.
 
 #w あの先生はとても親切です（しんせつ）- That teacher is very kind
 ## 使 - use つか・シ
+[[使 - use]]
 ![[Pasted image 20250430203013.png]]
 **A person (亻)** uses a **government official (吏)** to get things done
 **(つか)**
@@ -68,6 +71,7 @@ Paper is made from **1thread**, used by **clans** to write history.
 
 ---
 ## 写 - copy, image/ to photograph うつ、シャ
+[[写 - copy]]
 ![[Pasted image 20250501121143.png]]
 A **copy** is made when you **cover** (冖) and **give** (与) (one + cover) a shape — like taking a photo or tracing.
 **(うつ)**
@@ -104,6 +108,7 @@ Lying person on the **ground** practices mindfullnes, do not use **eyes**  to fe
 #w 天真（てんしん）- innocen
 #w 真理（しんり）- truth
 ##  送 - send おく・ソウ
+[[送 - send]]
 ![[Pasted image 20250501123238.png]]
 You want to **send** **大** big package wih **one** **plant** 
 
@@ -142,6 +147,7 @@ You want to **send** **大** big package wih **one** **plant**
 
 ---
 ## 花 - flower はな・か 
+[[花 - flower]]
 ![[Pasted image 20250501124330.png]]
 艹 (grass/plant radical), 化 (transform) (human + 7)
 **(はな)**
@@ -155,6 +161,7 @@ You want to **send** **大** big package wih **one** **plant**
 #w 開花（かいか）- blooming/kwitnący
 #w 国花（こっか）- national flower
 ## 色 - color いろ・ショク、シキ
+[[色 - color]]
 ![[Pasted image 20250501125503.png]]
 (いろ)
 #w 青色（あおいろ）- blue color (whole)
@@ -170,6 +177,7 @@ You want to **send** **大** big package wih **one** **plant**
 **(しき)**
 #w 色紙（しきし）- square poetry card (colored paper)
 ## 赤 - red あか・セキ
+[[赤 - red]]
 ![[Pasted image 20250501130736.png]]
 under the ground is the body without head covered in RED blood
 **(あか)**
@@ -187,6 +195,7 @@ under the ground is the body without head covered in RED blood
 
 #w 赤道の国は熱いですねえ（せきどう、くに、あつ）- The countries on the equator are hot, aren't they
 ## 青 - blue あお・せい
+[[青 - blue]]
 ![[Pasted image 20250501131813.png]]
 **Moon + Ground**  with reflects **One** light beam 
 **(あお)** (younger, less experienced)

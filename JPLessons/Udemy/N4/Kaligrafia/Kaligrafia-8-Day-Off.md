@@ -1,6 +1,7 @@
 TARGET DECK: UN4K8DayOff
 
 ## 近 near ちか、キン
+[[近 - near]]
 ![[Pasted image 20250416180731.png]]
 Imagine someone with an **axe** (斤) on a **moving** (辶) getting **near** you real fast. They're moving toward you
 
@@ -18,6 +19,7 @@ Imagine someone with an **axe** (斤) on a **moving** (辶) getting **near** you
 #w 近所に医院はありません（きんじょ、いいん）- There are no clinics in the neighbordhood
 #w 夕食は近所の食堂で食べます（ゆうしょく、きんじょ、しょくどう）- I will have dinner at a cafeteria in the neighborhood
 ## 走 - run はし・ソウ
+[[走 - run]]
 
 ![[Pasted image 20250416181153.png]]
 土 + 止 (stop) with foot
@@ -36,6 +38,7 @@ morning.
 #w 走行（そうこう）- run(mostly vechicles, technical, formal)
 #w 走者（そうしゃ）- runner
 ## 犬 - dog いぬ・キン
+[[犬 - dog]]
 ![[Pasted image 20250416182027.png]]
 **(いぬ)**
 #w 犬（いぬ）- dog
@@ -50,6 +53,7 @@ morning.
 #w 家で日本犬をかっています - I have a japanese dog at home
 #w あなたの犬は日本犬ですか(いぬ、にほんけん) - Is your dog a japanese dog?
 ## 歩 - walk ある・ホ、ぽ
+[[歩 - walk]]
 ![[Pasted image 20250416182501.png]]
 To **walk**, you take a few (少) **steps**, then **stop** (止), then go again. 
 **(ある)**
@@ -102,6 +106,7 @@ A **white** stringed instrument is hanging on a **tree** when its cold, Its FUN
 
 #w あの人は音楽家です（おんがくか）- That person is a musician
 ## 知 - know し・千
+[[知 - know]]
 ![[Pasted image 20250417175723.png]]
 An **arrow** hits right near your **mouth** — now you “**know**”
 **(し)**
@@ -150,6 +155,7 @@ A bright **sunlight** (日) shining at the **center** (央) of a screen — that
 #w 映画館（えいがかん）- kono, mmovie theater
 #w 休日にはテレビで古い映画を見ます（きゅうじつ、えいが）- I watch old movies on tv on my days off
 ## 館 - build やかた、、たて・カン
+[[館 - build]]
 ![[Pasted image 20250417205722.png]]
 A place where **officials** (官) go to **eat** (食) is a proper **hall** or **building**, like a dining **pavilion** or **museum**.
 **(やかた)**
@@ -169,6 +175,7 @@ Both not used to much
 #w 映画館へ行きましょう（えいがかん）- Let's go to the movie theater
 
 ## 夜 - night よる、よ・ヤ
+[[夜 - night]]
 ![[Pasted image 20250417210053.png]]
 Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness** — that's **night**!
 **(よる)**

@@ -81,6 +81,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 **(じつ)**
 #w 休日（きゅうじつ）- holiday #k
 ## 先 - previous, foregoing さき・セン
+[[先 - previous]]
 
 **(さき)**  
 #w 先に行く（さきにいく）- go ahead/go early #k
@@ -88,6 +89,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 **(せん)**
 #w 先日（せんじつ）-  the last day (not yesterday) #k
 ## 生 - be born, live う(まれる), い(きる)・セイ
+[[生 - be born]]
 
 **(う)**  
 #wc 生まれる（う）- to born #k
@@ -132,6 +134,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 **(ぼん)**
 
 ## 友 - friend とも・ユウ
+[[友 - friend]]
 
 **(とも)**
 #w 友達（ともだち）- friend, znajomy, kolega #k

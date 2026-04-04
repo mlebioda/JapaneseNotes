@@ -39,6 +39,7 @@
 
 
 ## 町 - miasto まち・チョウ
+[[町 - town]]
 ![[Pasted image 20250110182547.png]]
 (まち)
 #w 町（まち）- miasto
@@ -61,6 +62,7 @@ Jak łączymy z chou to zazwyczaj nazwa miasta
 
 
 ## 手 て・シュ
+[[手 - hand]]
 ![[Pasted image 20250110184515.png]]
 ![[Pasted image 20250110183940.png]]
 (て)

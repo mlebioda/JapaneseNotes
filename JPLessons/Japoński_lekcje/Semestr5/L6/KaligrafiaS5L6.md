@@ -8,6 +8,7 @@
 #w 駅員（えきいん）- pracownik stacji
 #w 駅員に聞く（えきいん、きく）- pytać się pracownika stacji
 ## 新　nowy
+[[新 - new]]
 
 ![[Pasted image 20240517190109.png]]
 

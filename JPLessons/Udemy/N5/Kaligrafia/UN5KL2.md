@@ -21,6 +21,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5KL1-2
 **(ばん)**
 #w 万国（ばんこく）- all nations, narody świata 
 ## 円 - yen, circle エン
+[[円 - yen]]
 
 **(えん)**
 #w 円を書く（えん、か）- draw a circle
@@ -57,6 +58,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5KL1-2
 
 
 ## 左 - left 左・サ
+[[左 - left]]
 
 **(ひだり)**
 #w 左を見る（ひだり、み) - look at the left side
@@ -64,6 +66,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5KL1-2
 **(さ)**
 #wc 左折（させつ) - turn left(noun can be verb)
 ## 右 - right みぎ・ウ、ユウ
+[[右 - right]]
 
 **(みぎ)**
 #w 右手（みぎて) - right hand

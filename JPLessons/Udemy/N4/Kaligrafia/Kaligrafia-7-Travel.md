@@ -20,6 +20,7 @@ banner ![[Pasted image 20250413130836.png]]. . . person . . . rag
 #w 中国旅行はいつ行きますか（ちゅうごく、りょこう）- When will you go on a trip to china?
 #w 父と母は中国で旅行します（ちち、はは、ちゅうごく、りょこう）- My father and mother travel to china
 ## 海 - sea うみ・カイ
+[[海 - sea]]
 ![[Pasted image 20250413131915.png]]
 **(うみ)**
 #w 海（うみ）- sea
@@ -32,6 +33,7 @@ banner ![[Pasted image 20250413130836.png]]. . . person . . . rag
 #w 兄は海外で仕事をします（かいがい、しごと）- My elder brother works abroad
 #w 先生は海外の大学院で学習していますした（かいがい、だいがくいん、がくしゅう）- the teacher had studied at a graduate school abroad
 ## 計 - measure はか・ケイ
+[[計 - measure]]
 ![[Pasted image 20250413132147.png]]
 Speaking  + ten
 
@@ -81,6 +83,7 @@ A **picture** is made by carefully drawing **one stroke** (一) at a time in a *
 #w この作業の目的は何ですか（さぎょう、もくてき）- what is the purpose of this work
 #w 目が痛いので、明日病院に行きます（いた、びょういん）- I will go to the hospital tomorrow because my eyes hurt
 ##  的 - target まと・テキ
+[[的 - target]]
 ![[Pasted image 20250413194203.png]]
 To hit the **target** (的), you aim at a **white** (白) spot with a **spoon** (勺) – precision matters!
 **(まと)**
@@ -100,6 +103,7 @@ To hit the **target** (的), you aim at a **white** (白) spot with a **spoon** 
 
 is scholarly
 ## 古 - old ふる・コ
+[[古 - old]]
 
 **(ふる)**
 古い（ふる）- old
@@ -114,6 +118,7 @@ is scholarly
 
 #w 古文がむずかしいと思います（こぶん）- I think the ancient literature is difficult
 ## 町 - town まち・チョウ
+[[町 - town]]
 ![[Pasted image 20250413195055.png]]
 **(まち)**
 
@@ -131,6 +136,7 @@ is scholarly
 
 ---
 ## 地 ground, land 千、ジ
+[[地 - ground]]
 ![[Pasted image 20250415174451.png]]
 soil + to be 也 = ground
 **(ち)**
@@ -161,6 +167,7 @@ measure  + box - drawing/map
 #w 意図（いと）- intent/zamiar
 #w 図書館（としょかん）-  library
 ## 持 - hold, carry も、もち・ジ
+[[持 - hold]]
 ![[Pasted image 20250415175627.png]]
 A **hand** (扌) **holds** on to traditions at a **temple** (寺)._
 **(も)**

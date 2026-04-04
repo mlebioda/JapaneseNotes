@@ -1,4 +1,5 @@
 ## 午　noon
+[[午 - noon]]
 (ご)
 #w 午前（ごぜん）- poranek
 #wz 午前 X時に....（ごぜん）-o godzinie x rano

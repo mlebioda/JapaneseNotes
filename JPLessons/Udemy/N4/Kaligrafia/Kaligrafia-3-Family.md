@@ -1,6 +1,7 @@
 TARGET DECK: UN4K3
 
 ## 家 - home, house いえ、うち・カ、ケ
+[[家 - home]]
 ![[Pasted image 20250310200814.png]] 
 
 
@@ -20,6 +21,7 @@ TARGET DECK: UN4K3
 #w 山田家（やまだけ）- yamada family
 
 ## 族 race, tribe, group やから・ぞく
+[[族 - race]]
 ![[Pasted image 20250310201410.png]]
 Banner . . . dart.
 A **clan (族)** is a **group of people (方)** who fight together using **arrows (矢)**.
@@ -32,6 +34,7 @@ A **clan (族)** is a **group of people (方)** who fight together using **arrow
 #w 名族（めいぞく）- noble family (rodzina szlachecka)
 
 ## 住 - live, reside　す・ジュウ
+[[住 - live]]
 ![[Pasted image 20250310201853.png]]
 (す)
 住む（す）- to live, reside
@@ -44,6 +47,7 @@ A **clan (族)** is a **group of people (方)** who fight together using **arrow
 #w 会社の住所を教えてください（じゅうしょ、おしょ）- please, tell me company addres
 　
 ## 所 place ところ・ショ
+[[所 - place]]
 ![[Pasted image 20250310202305.png]]
 A **place (所)** is where people use an **axe (斤)** behind a **door (戸)**, like in a workshop.
 (ところ)
@@ -93,6 +97,7 @@ A **place (所)** is where people use an **axe (斤)** behind a **door (戸)**, 
 #w あの大学は大学です(しだい) - that university is private university
 #w 父親は私大の先生です（ちちや、しだい）- My father is a teacher at the private university
 ## 兄 elder brother あに、にい・キョウ,ケイ
+[[兄 - elder brother]]
 ![[Pasted image 20250311193045.png]]
 (あに)
 #w 兄（あに） older brother
@@ -113,6 +118,7 @@ A **place (所)** is where people use an **axe (斤)** behind a **door (戸)**, 
 #w 長兄（ちょうけい）- eldest brother
 
 ## 弟 - younger brother おとうと・ダイ、テイ, デ
+[[弟 - younger brother]]
 ![[Pasted image 20250311193747.png]]
 Horns . . . dollar sign.
 (おとうと)
@@ -133,6 +139,7 @@ Horns . . . dollar sign.
 
 ---
 ## 姉 - elder sister あね、ねえ・し
+[[姉 - elder sister]]
 ![[Pasted image 20250312203938.png]]
 
 Woman + Market (older sister, woman goes to the market)
@@ -149,6 +156,7 @@ Woman + Market (older sister, woman goes to the market)
 #w 姉妹（しまい）- sisters
 #w 家は3人姉妹です（しまい）- We are the family of three sisters
 ## 妹 - younger sister いもうと・マイ
+[[妹 - younger sister]]
 ![[Pasted image 20250312204447.png]] 
 
 Woman, not yet

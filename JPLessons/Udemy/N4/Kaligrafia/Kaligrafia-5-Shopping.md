@@ -27,6 +27,7 @@ TARGET DECK: UN4K5
 #w あの人の仕事は車の売買です（ひと、しごと、くるま、ばいばい) - His job is trading cars
 #w あなたの仕事は建物の売買ですね（たてもの、ばいばい）- your job is trading buildings, right?
 ## 洋 - western/ocean ヨウ
+[[洋 - western]]
 ![[Pasted image 20250330132429.png]]
 Water, sheep - 
 
@@ -42,6 +43,7 @@ Water, sheep -
 #w この洋服は高かったでしょう - this clothing was expensive, wasn'y it?
 
 ## 服 - wear, clothes フク
+[[服 - wear]]
 ![[Pasted image 20250330133035.png]]
 Flesh . . . stamp . . . crotch. 
 
@@ -57,6 +59,7 @@ Flesh . . . stamp . . . crotch.
 
 --- 
 ## 屋 - dwelling, habitation (mieszkanie, siedlisko)
+[[屋 - dwelling]]
 ![[Pasted image 20250403164741.png]]
 
 **Mnemonic:** Imagine a **corpse (尸)** arriving (至) inside a **house**, meaning it's inside a **roofed structure (屋)**—like a shop or a room.
@@ -70,6 +73,7 @@ Flesh . . . stamp . . . crotch.
 #w 屋上（おくじょう）- rooftop
 #w 家屋（かおく）- house (formal, technical)
 ## 店 - store  みせ・テン
+[[店 - store]]
 ![[Pasted image 20250403165237.png]]
 Under a **roof (广)**, a **fortune-teller (占)** runs a **shop (店)** to predict people's futures!
 **(みせ)**
@@ -84,6 +88,7 @@ Under a **roof (广)**, a **fortune-teller (占)** runs a **shop (店)** to pred
 #w 飲食店（いんしょくてん）- restaurant
 #w あの人も店員ですか（てんいん）- Is this person a salesclerk too?(sprzedawcą)
 ## 品 - goods しな・ヒン
+[[品 - goods]]
 ![[Pasted image 20250403165542.png]]
 
 **Mnemonic:** Imagine three **mouths (口)** talking about different **items (品)**—representing different **goods** in a store.
@@ -99,6 +104,7 @@ Under a **roof (广)**, a **fortune-teller (占)** runs a **shop (店)** to pred
 #w 作品（さくひん）- work
 
 ## 安 - cheap, safe やす、アン
+[[安 - cheap]]
 ![[Pasted image 20250403165741.png]]
 **Mnemonic:** A **woman (女)** under a **roof (宀)** feels **safe (安)** and at peace in her home. Woman under the roof is cheaper than in restaurant
 **(やす)**
@@ -113,6 +119,7 @@ Under a **roof (广)**, a **fortune-teller (占)** runs a **shop (店)** to pred
 #w 安心（あんしん）- peace of mind
 
 ## 注 -  pour, note, order そそ・チュウ
+[[注 - pour]]
 ![[Pasted image 20250404135757.png]]
 
 A **master (主)** is **pouring (注)** **water (氵)** carefully into a cup while concentrating.
@@ -129,6 +136,7 @@ A **master (主)** is **pouring (注)** **water (氵)** carefully into a cup whi
 #w この品物を注文してください（しなもの、ちゅうもん）- Please order this item
 
 ## 文 sentence ふみ・モン、モ、ブン
+[[文 - sentence]]
 
 ![[Pasted image 20250404141419.png]]
 Imagine ancient people carving **sentences (文)** onto stone tablets as they record history.
@@ -147,6 +155,7 @@ Imagine ancient people carving **sentences (文)** onto stone tablets as they re
 #w 文学（ぶんがく）- literature
 
 ## 着 - wear き、つ・チャク
+[[着 - wear]]
 ![[Pasted image 20250404141749.png]]
 A **sheep (羊)** with **big eyes (目)** **arrives (着)** at the farm and **puts on (着る)** a fluffy coat!
 **(き)**
@@ -167,6 +176,7 @@ A **sheep (羊)** with **big eyes (目)** **arrives (着)** at the farm and **pu
 
 
 ## 多 many, much  おお、タ
+[[多 - many]]
 Imagine two **big piles of grain** being harvested in the **evening (夕)**—the farmer has **many (多)** crops this
 ![[Pasted image 20250404142158.png]]
 

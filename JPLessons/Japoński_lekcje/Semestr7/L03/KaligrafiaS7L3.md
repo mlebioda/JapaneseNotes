@@ -1,6 +1,7 @@
 TARGET DECK: S7L3
 
 ## 着 - ubierać, przybywać (do miejca) き、ぎ、つ・ちゃく
+[[着 - wear]]
 羊 - sheep (wool) + eye + 
 ![[Pasted image 20250108202238.png]]
 (き)
@@ -27,6 +28,7 @@ TARGET DECK: S7L3
 #w 試着室（しちゃくしつ）- przymierzalnia
 
 ## 空 niebo, pustka - そら、あ、から・クウ
+[[空 - sky]]
 Rooftop + human legs + 工 construction
 ![[Pasted image 20250108204350.png]]
 (そら)
@@ -55,6 +57,7 @@ Rooftop + human legs + 工 construction
 #w 空気（くうき）- powietrze
 
 ## 港 port　みなと・こう
+[[港 - port]]
 氵- woda, 洪 Deluge . . . snakes.
 ![[Pasted image 20250108205601.png]]
 (みなと)

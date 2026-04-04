@@ -1,5 +1,6 @@
 
 ## 西
+[[西 - zachód]]
 
 ![[Pasted image 20231103193445.png]]
 
@@ -31,6 +32,7 @@
 
 
 ## 南
+[[南 - południe]]
 南 - south
 ![[Pasted image 20231103195108.png]]
 
@@ -54,6 +56,7 @@
 
 
 ## 北
+[[北 - północ]]
 ![[Pasted image 20231103200349.png]]
 
 北　きた　north

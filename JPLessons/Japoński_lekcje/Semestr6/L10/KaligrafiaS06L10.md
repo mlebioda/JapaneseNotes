@@ -1,4 +1,5 @@
 ## 朝　poranek
+[[朝 - morning]]
 ![[Pasted image 20241220182628.png]]
 ![[Pasted image 20241220182842.png]]
 
@@ -25,6 +26,7 @@
 
 #wc なく - płakać, śpiewać, wyć (zwierzę)
 ## 持 - trzymać
+[[持 - hold]]
 ![[Pasted image 20241220183855.png]]
 (も)
 #wc 持つ（もつ）

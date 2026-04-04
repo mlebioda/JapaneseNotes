@@ -1,3 +1,4 @@
+# 事 - abstract thing, matter
 [[Kaligrafia-3-Family#事 thing こと、ごと・じ]]
 [[KaligrafiaS5L7#事]]
 

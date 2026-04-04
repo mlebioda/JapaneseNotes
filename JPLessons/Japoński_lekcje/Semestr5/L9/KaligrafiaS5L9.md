@@ -47,6 +47,7 @@
 #wz さいきん - ostatnimi czasy, ostatnio
 
 ## 思　to think
+[[思 - feeling]]
 
 ![[Pasted image 20240518131506.png]]
 

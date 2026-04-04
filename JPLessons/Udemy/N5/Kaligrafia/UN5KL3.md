@@ -33,6 +33,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 #w 耳目（じもく）- ear and eye
 #w **耳目を集める（じもくをあつめる）** – przyciągać uwagę
 ## 手 - hand て ・ シュ
+[[手 - hand]]
 
 **(て)**  
 #w 手帳（てちょう）- a diary

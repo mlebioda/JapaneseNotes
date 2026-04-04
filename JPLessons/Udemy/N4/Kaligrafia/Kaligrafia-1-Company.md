@@ -132,6 +132,7 @@ TARGET DECK: UK1
 #w 建築（けんちく）- architecture
 
 ## 物 thing もの・ブツ、モツ
+[[物 - thing]]
 ![[Pasted image 20250225191933.png]]
 (もの)
 #w 物語（ものがたり）- story
@@ -147,6 +148,7 @@ TARGET DECK: UK1
 
 
 ## 工 workman, skill たくみ・コウ、ク
+[[工 - workman]]
 
 ![[Pasted image 20250225192431.png]]
 
@@ -164,6 +166,7 @@ TARGET DECK: UK1
 #w あの人は大工です(だいく) - tamten człowiek jest stolarzem
 
 ## 場　place ば・ジョウ
+[[場 - place]]
 ![[Pasted image 20250225192903.png]]
 (ば)
 #w 本場（ほんば）- the best place for....

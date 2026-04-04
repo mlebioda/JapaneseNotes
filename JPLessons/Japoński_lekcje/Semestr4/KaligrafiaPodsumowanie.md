@@ -1,4 +1,5 @@
 ## 西
+[[西 - zachód]]
 
 ![[Pasted image 20231103193445.png]]
 
@@ -24,6 +25,7 @@
 
 
 ## 北
+[[北 - północ]]
 ![[Pasted image 20231103200349.png]]
 
 北　きた　north
@@ -93,6 +95,7 @@
 くるまを輸出　ー samochód
 
 ## 右
+[[右 - right]]
 ![[Pasted image 20231121195742.png]]
 
 （みぎ）
@@ -116,6 +119,7 @@
 右折ライト -  prawy kierunkowskaz
 
 ## 左
+[[左 - left]]
 ![[Pasted image 20231121203819.png]]
 
 （ひだり）
@@ -133,6 +137,7 @@
 左折する - skręcać w lewo (bardziej poinstruować, żeby coś obrócić w lewo)
 
 ## 分
+[[分 - divide]]
 ![[Pasted image 20231121210222.png]]
 
 （ふん）
@@ -161,6 +166,7 @@ x時五分前(xじごふんじまえ) -  x godzin i 5 minut temu
 クラスを分かる - （podzielić klasę)
 
 ## 先
+[[先 - previous]]
 
 ![[Pasted image 20231124194823.png]]
 
@@ -192,6 +198,7 @@ nazwisko 先輩
 旅行の先 - (ryokouno saki) - cel wyczieczki
 
 ## 生
+[[生 - be born]]
 ![[Pasted image 20231124201347.png]]
 
 
@@ -223,6 +230,7 @@ nama - surowy
 
 
 ## 大
+[[大 - big]]
 ![[Pasted image 20231230152320.png]]
 
 ### だい
@@ -276,6 +284,7 @@ nama - surowy
 
 
 ## 外
+[[外 - na zewnątrz]]
 ![[Pasted image 20240123203152.png]]
 (がい)
 外国（がいこく）- obce kraje (forein countries)

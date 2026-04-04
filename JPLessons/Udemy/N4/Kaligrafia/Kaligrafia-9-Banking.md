@@ -1,6 +1,7 @@
 TARGET DECK: UN4K9-Banking
 
 ## 銀 - silver しろがね・ギン
+[[銀 - silver]]
 ![[Pasted image 20250422202626.png]]
 Gold + stopping
 **(しろがね)** - not used much
@@ -14,6 +15,7 @@ Gold + stopping
 #w 兄はこの銀行の店長です（あに、ぎんこう、てんちょう）- My elder brothe is the manager of this bank
 #w 弟さんも銀行員ですか（おとうと、ぎんこういん）- Is your younger brother also a bank clerk?
 ## 開 - open ひら、あ・カイ
+[[開 - open]]
 ![[Pasted image 20250422203259.png]]
 door + two hands + one
 **(ひら)**
@@ -36,6 +38,7 @@ door + two hands + one
 
 #w 銀行の開店時間は１０時です（ぎんこう、かいてんじかん）- the bank opens at 10
 ## 自 - self みずか・ジ
+[[自 - self]]
 ![[Pasted image 20250422204108.png]]
 **(みずか)**
 #w 自ら（みずか）- oneself (formal)
@@ -49,6 +52,7 @@ door + two hands + one
 #w この自動車は日本の車ですか（じどうしゃ）- Is this car (automobile) a japanese car?
 
 ## 動 - movement うご・ドウ
+[[動 - movement]]
 ![[Pasted image 20250422204507.png]]
 Only with strength (力) can you move (動) a heavy (重) object.
 **(うご)**
@@ -62,6 +66,7 @@ Only with strength (力) can you move (動) a heavy (重) object.
 ---
 
 ## 駅 - station エキ
+[[駅 - station]]
 ![[Pasted image 20250425195218.png]]
 
 **(えき)**
@@ -72,6 +77,7 @@ Only with strength (力) can you move (動) a heavy (重) object.
 #w 駅前の銀行に行きます（えきまえ、ぎんこう）- I'll go to the bank at hte front of the station
 #w 毎日、駅から会社まで歩きます（あ）- Everyday, I go from the station to company
 ## 集 - gather/zebrać, gromadzić あつ・シユウ
+[[集 - gather]]
 ![[Pasted image 20250425195710.png]]
 Little birds (隹) gather in a tree (木) to rest together.
 **(あつ)**
@@ -90,6 +96,7 @@ Little birds (隹) gather in a tree (木) to rest together.
 #w 集金の仕事は楽じゃありませんね（しゅうきん、らく）- The job of collecting money is not easy
 
 ##  貸 lend か、かし・タイ
+[[貸 - lend]]
 ![[Pasted image 20250425200431.png]]
 **(か)　(かし)**
 #wc 貸す（かす）- lend (to smone)
@@ -105,6 +112,7 @@ Little birds (隹) gather in a tree (木) to rest together.
 **(たい)**
 #w 貸借（たいしゃく）- loan (including boths sides, finance,legal contracts)
 ## 借 - borrow か、かり・シャク
+[[借 - borrow]]
 ![[Pasted image 20250425201443.png]]
 If Hummans borrows, and not give it back, spends day in jail
 **(か)**
@@ -144,6 +152,7 @@ Moon under the wiata - looks like I have a passat
 #w 先生は有名な作家ですね（ゆうめい、さっか）- Teacher is a famous writter (isn't it?)
 
 ## 度 degree, frequency たび・ド
+[[度 - degree]]
 ![[Pasted image 20250426142150.png]]
 "Every time (又) you return under the same roof (广), you measure something in the closed container
 **(たび)**
@@ -159,6 +168,7 @@ Moon under the wiata - looks like I have a passat
 
 #w 毎度、ありがとうございます （まいど）- thank you (for comming) every time
 ## 少 - few, a little すく、すこ、ショウ
+[[少 - few]]
 
 **(すく)**
 #w お客が少ない（きゃく、すく）- There are few customers
@@ -174,6 +184,7 @@ Moon under the wiata - looks like I have a passat
 #w 店長はすぐ来ますから、少々お待ちください（てんちょう、き、しょうしょう、ま) - The store manager will come soon, so pleas wait a moment
 #w この店の料理少々高いですよ （しょうしょう、たか）- the food at this store/restaurant is a little expensive
 ## 待 - wait ま、まち・タイ
+[[待 - wait]]
 ![[Pasted image 20250426143109.png]]
 walk to temple and wait for me
 **(ま)**

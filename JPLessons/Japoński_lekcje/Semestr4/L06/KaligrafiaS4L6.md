@@ -1,4 +1,5 @@
 ## 右
+[[右 - right]]
 ![[Pasted image 20231121195742.png]]
 
 （みぎ）
@@ -23,6 +24,7 @@
 
 ![[Pasted image 20231121203800.png]]
 ## 左
+[[左 - left]]
 ![[Pasted image 20231121203819.png]]
 
 （ひだり）
@@ -40,6 +42,7 @@
 #wz 左折する（させつ）- skręcać w lewo (bardziej poinstruować, żeby coś obrócić w lewo)
 
 ## 分
+[[分 - divide]]
 ![[Pasted image 20231121210222.png]]
 
 （ふん）

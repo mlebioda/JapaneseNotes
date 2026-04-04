@@ -11,6 +11,7 @@
    taka iloś herbaty wystarczy
 
 ## 先
+[[先 - previous]]
 
 ![[Pasted image 20231124194823.png]]
 
@@ -56,6 +57,7 @@ nazwisko 先輩
 
 
 ## 生
+[[生 - be born]]
 ![[Pasted image 20231124201347.png]]
 
 

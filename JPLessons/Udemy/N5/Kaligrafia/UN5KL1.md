@@ -64,6 +64,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5KL1-2
 一個（いっこ）
 
 ## 二 - 2 ふたつ・ニ
+[[二 - 2]]
 
 **()**
 
@@ -71,12 +72,14 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5KL1-2
 
 #w いす - chair/krzeslo
 ## 三 - 3 みっつ・サン
+[[三 - 3]]
 
 **()**
 
 **()**
 
 ## 四 - 4 よっつ、よん、よ・シ
+[[四 - 4]]
 
 **()**
 
@@ -89,6 +92,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5KL1-2
 **()**
 
 ## 六 - むっつ・ロク、ロッ
+[[六 - 6]]
 
 **()**
 
@@ -101,12 +105,14 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5KL1-2
 **()**
 
 ## 八 - 8 やっつ・チャチ
+[[八 - 8]]
 
 **()**
 
 **()**
 
 ## 九 - 9 - ここのつ・キュウ、ク
+[[九 - 9]]
 
 **()**
 
