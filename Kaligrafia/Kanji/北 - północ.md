@@ -3,3 +3,5 @@
 [[Kaligrafia#北 - północ きた、ホク]]
 [[KaligrafiaPodsumowanie#北]]
 [[KaligrafiaS4L4#北]]
+---
+[[匕 - component]]

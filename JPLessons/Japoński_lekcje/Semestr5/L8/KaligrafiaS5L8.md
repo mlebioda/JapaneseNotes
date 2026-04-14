@@ -169,30 +169,48 @@ Tłumaczenie: 電気（でんき）
 
  rozmowa telefoniczna/telefon #card
 Tłumaczenie: 電話（でんわ）
+<!--ID: 1775624991306-->
+
 
  mikrofalówka #card
 Tłumaczenie: 電子レンジ（でんし）
+<!--ID: 1775624991307-->
+
 
  bateria #card
 Tłumaczenie: 電池（でんち）
+<!--ID: 1775624991308-->
+
 
  car, samochód #card
 Tłumaczenie: 車（くるま）
+<!--ID: 1775624991309-->
+
 
  wózek inwalidzki #card
 Tłumaczenie: 車いす（くるま） 
+<!--ID: 1775624991310-->
+
 
  pociąg #card
 Tłumaczenie: 電車（でんしゃ）
+<!--ID: 1775624991311-->
+
 
  rower #card
 Tłumaczenie: 自転車（じてんしゃ）
+<!--ID: 1775624991312-->
+
 
  parking #card
 Tłumaczenie: 駐車場（じゅうしゃじょう）
+<!--ID: 1775624991313-->
+
 
  wolne #card
 Tłumaczenie: 休み（やす）
+<!--ID: 1775624991314-->
+
 
  dzień wolny od pracy #card
 Tłumaczenie: 休日（きゅじつ） 
@@ -248,6 +266,8 @@ Forma te:
 Forma ta: 
 Forma nai: 
 Forma katta: 
+<!--ID: 1775624991315-->
+
 
  pchać, to push #card
 Tłumaczenie: おす 
@@ -298,68 +318,110 @@ Tłumaczenie: 電気はあかるい（でんき）
 
  zgasić światło #card
 Tłumaczenie: 電気をけす（でんき）
+<!--ID: 1775624991316-->
+
 
  odebrać telefon #card
 Tłumaczenie: 電話をかける（でんわ）
 
  zadzwonić #card
 Tłumaczenie: 電話をする（でんわ）
+<!--ID: 1775624991317-->
+
 
  zakończyć rozmowę #card
 Tłumaczenie: 電話をきる（でんわ）
+<!--ID: 1775624991318-->
+
 
  podgrzać X w mikrofali #card
 Tłumaczenie: 電子レンジでXをあたためる（でんし）
+<!--ID: 1775624991319-->
+
 
  włożyć do mikrofali #card
 Tłumaczenie: 電子レンジにいれる（でんし）
+<!--ID: 1775624991320-->
+
 
  włożyć baterię  #card
 Tłumaczenie: 電池をいれる（でんち）
+<!--ID: 1775624991321-->
+
 
  zatrzymać samochód #card
 Tłumaczenie: 車をとめる（くるま）
+<!--ID: 1775624991322-->
+
 
  samochód się zatrzymuje #card
 Tłumaczenie: 車がとめる（くるま）
+<!--ID: 1775624991323-->
+
 
  prowadzić samochód #card
 Tłumaczenie: 車をうんてんする（くるま）
+<!--ID: 1775624991324-->
+
 
  jeździć/korzystać wózkiem inwalidzkim #card
 Tłumaczenie: 車いすをつかう（くるま） 
+<!--ID: 1775624991325-->
+
 
  jechać pociągiem #card
 Tłumaczenie: 電車にのる（でんしゃ）
+<!--ID: 1775624991326-->
+
 
  zdążyć na pociąg #card
 Tłumaczenie: 電車にまにあう（でんしゃ）
+<!--ID: 1775624991327-->
+
 
  pociąg jest zatłoczony #card
 Tłumaczenie: 電車がこんでいる（でんしゃ）
+<!--ID: 1775624991328-->
+
 
  pożyczyć rower #card
 Tłumaczenie: 自転車をかりる（じてんしゃ）
+<!--ID: 1775624991329-->
+
 
  jechać rowerem #card
 Tłumaczenie: 自転車をのる（じてんしゃ）
+<!--ID: 1775624991330-->
+
 
  parking firmowy #card
 Tłumaczenie: 会社の駐車場（かいしゃ、じゅうしゃじょう）
+<!--ID: 1775624991331-->
+
 
  zaparkować samochód na parkingu #card
 Tłumaczenie: 車を駐車場にとねる（くるま、じゅうしゃじょう）
+<!--ID: 1775624991332-->
+
 
  wiziąć urlop #card
 Tłumaczenie: 仕事を休む（しごと,やす） 
+<!--ID: 1775624991333-->
+
 
  wziąć wolne #card
 Tłumaczenie: 休みをとる 
+<!--ID: 1775624991334-->
+
 
  spędzać wakacje #card
 Tłumaczenie: 休みをすごす 
+<!--ID: 1775624991335-->
+
 
  pracować w dzień wolny od pracy #card
 Tłumaczenie: 休日にはたらく（きゅじつ） 
+<!--ID: 1775624991336-->
+
 
 #imported 

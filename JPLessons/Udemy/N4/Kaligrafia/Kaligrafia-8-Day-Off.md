@@ -1,4 +1,4 @@
-TARGET DECK: UN4K8DayOff
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL8-Day-Off
 
 ## 近 near ちか、キン
 [[近 - near]]

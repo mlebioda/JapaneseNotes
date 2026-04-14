@@ -4,3 +4,7 @@
 [[Kaligrafia#午 - południe　ご]]
 [[KaligrafiaS6L2#午 - południe]]
 [[KaligrafiaS5L11#午　noon]]
+
+---
+[[十 - ten, 10]]
+[[丿 - component]]

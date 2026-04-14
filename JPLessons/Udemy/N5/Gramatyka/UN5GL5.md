@@ -329,7 +329,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
  --- 
 
 
-## Podsumowanie
+# Summary
+
  Gramatyka:
 
 ### いっしょ  - together, with, the same (同じ

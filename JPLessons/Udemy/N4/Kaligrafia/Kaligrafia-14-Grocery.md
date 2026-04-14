@@ -1,4 +1,4 @@
-TARGET DECK: UN4K14-Grocery
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL14-Grocery
 
 ## 米 - rice こめ・ベイ、マイ
 [[米 - rice]]

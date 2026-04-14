@@ -1,4 +1,4 @@
-TARGET DECK: UN4K12-Research
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL12-Research-2
 
 ## 発 - leaving ハツ、ホツ
 [[発 - leaving]]
@@ -368,6 +368,8 @@ Tłumaczenie: 公（おおやけ）
 
  public #card
 Tłumaczenie: 公立（こうりつ）
+<!--ID: 1775624991151-->
+
 
  fair #card
 Tłumaczenie: 公平（こうへい）
@@ -446,6 +448,8 @@ Tłumaczenie: 私はソンさんの意見は正しいと思います（いけん
 
  correct answer #card
 Tłumaczenie: 正答（せいとう）seeto 
+<!--ID: 1775624991152-->
+
 
  główna, legalna, oficjalna działalność zawodowa #card
 Tłumaczenie: 正業（せいぎょう）

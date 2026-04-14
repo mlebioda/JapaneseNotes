@@ -250,7 +250,7 @@ more polite
 
  --- 
 
-
+# Summary
 
  Gramatyka:
 
@@ -359,7 +359,6 @@ more polite
 百万（ひゃくまん）- 1 000 000
 一千万（いっせんまん）- 10 000 000
 一億（いちおく）- 100 000 000,
-
 
  Rzeczowniki:
 

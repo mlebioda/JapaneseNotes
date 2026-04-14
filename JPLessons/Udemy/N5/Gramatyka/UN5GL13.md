@@ -376,11 +376,7 @@ Structure
 
 ---
 
-
-
-
- --- 
-
+# Summary
 
 
  Rzeczowniki:

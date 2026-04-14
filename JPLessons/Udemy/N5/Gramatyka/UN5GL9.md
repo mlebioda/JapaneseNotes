@@ -537,9 +537,7 @@ Difference between よ and ね
 
 ---
 
- --- 
-
-
+# Summary
 
  Rzeczowniki:
 

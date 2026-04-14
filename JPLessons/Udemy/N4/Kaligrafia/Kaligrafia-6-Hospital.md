@@ -1,4 +1,4 @@
-TARGET DECK: UN4K6-Hospital
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL6-hospital
 
 ## 病 - illness, disease やまい・ビョウ
 [[病 - illness]]

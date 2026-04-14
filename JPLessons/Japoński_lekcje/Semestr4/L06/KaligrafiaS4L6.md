@@ -80,12 +80,18 @@
 
  prawa ręka #card
 Tłumaczenie: 右手　（みぎて）
+<!--ID: 1775624991434-->
+
 
  pierwiastek #card
 Tłumaczenie: 分子（ぶんし）
+<!--ID: 1775624991435-->
+
 
  wystarczająco #card
 Tłumaczenie: 十分　（じゅうぶん）
+<!--ID: 1775624991436-->
+
 
 
 
@@ -98,6 +104,8 @@ Forma te:
 Forma ta: 
 Forma nai: 
 Forma katta: 
+<!--ID: 1775624991437-->
+
 
 
 
@@ -105,21 +113,33 @@ Forma katta:
 
  chwycić coś prawą ręką #card
 Tłumaczenie: 右手でつかまる (みぎて) 
+<!--ID: 1775624991438-->
+
 
  używać prawej ręki #card
 Tłumaczenie: 右手つかう (みぎて) 
+<!--ID: 1775624991439-->
+
 
  lewa ręka  #card
 Tłumaczenie: 左手（ひだりて） 
+<!--ID: 1775624991440-->
+
 
  lewą ręką #card
 Tłumaczenie: 左手で（ひだりて） 
+<!--ID: 1775624991441-->
+
 
  skręcać w lewo (bardziej poinstruować, żeby coś obrócić w lewo) #card
 Tłumaczenie: 左折する（させつ）
+<!--ID: 1775624991442-->
+
 
  （podzielić klasę) #card
 Tłumaczenie: クラスを分かる 
+<!--ID: 1775624991443-->
+
 
 
 
@@ -127,15 +147,21 @@ Tłumaczenie: クラスを分かる
 
  z prawej strony #card
 Tłumaczenie: 右から　
+<!--ID: 1775624991444-->
+
 
  z prawej strony #card
 Tłumaczenie: 右側から（みぎがわ）
 
  po prawej stronie #card
 Tłumaczenie: 右側に（みぎがわ）
+<!--ID: 1775624991445-->
+
 
  10 minut #card
 Tłumaczenie: 十分（じゅっぷん/じっぷん）
+<!--ID: 1775624991446-->
+
 
 
 
@@ -146,4 +172,6 @@ Tłumaczenie: 十分（じゅっぷん/じっぷん）
 
   x godzin i 5 minut temu #card
 Tłumaczenie: x時五分前 (xじごふんじまえ) 
+<!--ID: 1775624991447-->
+
 

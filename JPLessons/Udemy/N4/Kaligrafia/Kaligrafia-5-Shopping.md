@@ -1,4 +1,4 @@
-TARGET DECK: UN4K5
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL5-Shopping
 ## 買 - buy か、かい・バイ
 
 ![[Pasted image 20250330131512.png]]

@@ -541,9 +541,7 @@ Structure:
 #w いっしょに ご飯　　食べませんか（はん、たべ) - would you like to eat meal together? (abbreviation)
 
 ****
-## Podsumowanie
- --- 
-
+# Summary
 
 
  Rzeczowniki:

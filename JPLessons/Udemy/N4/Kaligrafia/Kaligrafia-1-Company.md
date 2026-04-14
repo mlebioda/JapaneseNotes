@@ -1,4 +1,4 @@
-TARGET DECK: UK1
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 
 ## 会　meet あ・かい
 [[会　meet あ・かい]]

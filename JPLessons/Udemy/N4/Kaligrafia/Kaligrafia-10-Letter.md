@@ -1,4 +1,4 @@
-TARGET DECK: UN4K10-Letter
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL10-Letter
 
 ## 手 - hand て、シュ
 [[手 - hand]]
@@ -376,6 +376,8 @@ Tłumaczenie: 手本を写す（てほん、うつる）
 
  example #card
 Tłumaczenie: 手本（てほん）
+<!--ID: 1775624991146-->
+
 
  Who took(photographed) this picture? #card
 Tłumaczenie: この写真はだれが写しましたか(しゃしん、うつ) 

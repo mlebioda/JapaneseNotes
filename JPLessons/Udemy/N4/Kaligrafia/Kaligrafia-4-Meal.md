@@ -1,4 +1,4 @@
-TARGET DECK: UN4K4
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL4-Meal
 
 ## 朝 - morning あさ・チョウ
 [[朝 - morning]]

@@ -297,7 +297,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 
  --- 
 
-
+# Summary
 
  Gramatyka:
 

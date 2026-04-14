@@ -1,4 +1,4 @@
-TARGET DECK: UN4K7-travel
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL7-Travel
 
 ## 旅 - travel たび・リョ
 

@@ -118,12 +118,18 @@
 
  poranek #card
 Tłumaczenie: 午前（ごぜん）
+<!--ID: 1775624991398-->
+
 
  popołudnie #card
 Tłumaczenie: 午後（ごご）
+<!--ID: 1775624991399-->
+
 
  południe (pora dnia) #card
 Tłumaczenie: 正午（しょうご）
+<!--ID: 1775624991400-->
+
 
 
 
@@ -131,25 +137,41 @@ Tłumaczenie: 正午（しょうご）
 
 o godzinie x rano #card
 Tłumaczenie: 午前 X時に....（ごぜん）
+<!--ID: 1775624991401-->
+
 
  od X rano #card
 Tłumaczenie: 午前 X時から....（ごぜん）
+<!--ID: 1775624991402-->
+
 
  do X rano #card
 Tłumaczenie: 午前 X時まで...（ごぜん）
+<!--ID: 1775624991403-->
+
 
  rankiem #card
 Tłumaczenie: 午前中（ごぜんちゅう）
+<!--ID: 1775624991404-->
+
 
  cały ranek #card
 Tłumaczenie: 午前中いっぱい（ごぜんちゅう）
+<!--ID: 1775624991405-->
+
 
 o godzinie x po południu #card
 Tłumaczenie: 午後 X時に....（ごぜん）
+<!--ID: 1775624991406-->
+
 
  od X po południu #card
 Tłumaczenie: 午後 X時から....（ごぜん）
+<!--ID: 1775624991407-->
+
 
  do X po południu #card
 Tłumaczenie: 午後 X時まで...（ごぜん）
+<!--ID: 1775624991408-->
+
 

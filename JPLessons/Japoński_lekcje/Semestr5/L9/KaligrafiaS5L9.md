@@ -166,18 +166,28 @@
 
  słowo #card
 Tłumaczenie: 言葉（ことば）
+<!--ID: 1775624991337-->
+
 
  czytanie #card
 Tłumaczenie: 読書（どくしょ）
+<!--ID: 1775624991338-->
+
 
  coś do czytania #card
 Tłumaczenie: 読み物（よみもの）
+<!--ID: 1775624991339-->
+
 
  dowoli #card
 Tłumaczenie: 存分（ぞんぶん） 
+<!--ID: 1775624991340-->
+
 
 dawno temu #card
 Tłumaczenie: むかし、むかし 
+<!--ID: 1775624991341-->
+
 
 
 
@@ -202,6 +212,8 @@ Forma te:
 Forma ta: 
 Forma nai: 
 Forma katta: 
+<!--ID: 1775624991342-->
+
 
  to think, myśleć #card
 Tłumaczenie: 思う（おも）
@@ -210,6 +222,8 @@ Forma te:
 Forma ta: 
 Forma nai: 
 Forma katta: 
+<!--ID: 1775624991343-->
+
 
  przypomnieć sobie #card
 Tłumaczenie: 思い出す（おもいだす）
@@ -218,6 +232,8 @@ Forma te:
 Forma ta: 
 Forma nai: 
 Forma katta: 
+<!--ID: 1775624991344-->
+
 
 
 
@@ -225,54 +241,86 @@ Forma katta:
 
  powiedzieć komuś #card
 Tłumaczenie: だれかと言う（い） 
+<!--ID: 1775624991345-->
+
 
  complain  #card
 Tłumaczenie: もんくを言う（い）
+<!--ID: 1775624991346-->
+
 
 
 言語学のがくい（げんごがく）
 
  specjalista od lingwistyki #card
 Tłumaczenie: 言語学のせんもんか （げんごがく）
+<!--ID: 1775624991347-->
+
 
  MÓWIć w dialekcie #card
 Tłumaczenie: 方言をはなす（ほうげん） 
+<!--ID: 1775624991348-->
+
 
  przypomnieć sobie słowo #card
 Tłumaczenie: 言葉をおもいだす（ことば）
+<!--ID: 1775624991349-->
+
 
  słowa pochwały #card
 Tłumaczenie: ほめ言葉（ことば） 
+<!--ID: 1775624991350-->
+
 
  czytać esej, artykuł #card
 Tłumaczenie: ぶんしょうを読む（よ）
+<!--ID: 1775624991351-->
+
 
  trudne do przeczytania #card
 Tłumaczenie: 読みにくい（よ) 
+<!--ID: 1775624991352-->
+
 
 
  ostatnimi czasy, ostatnio #card
 Tłumaczenie: さいきん 
+<!--ID: 1775624991353-->
+
 
  uważać za　dziwne #card
 Tłumaczenie: ふしぎに思う（おも）
+<!--ID: 1775624991354-->
+
 
  z całych sił (omoikiri) #card
 Tłumaczenie: 思いきりり 
+<!--ID: 1775624991355-->
+
 
  przypomnieć sobie dawne czasy #card
 Tłumaczenie: むかしを思い出す（おもいだす) 
+<!--ID: 1775624991356-->
+
 
  nagle sobie coś przypomnieć #card
 Tłumaczenie: きゅうに思い出す（おもいだす)　
+<!--ID: 1775624991357-->
+
 
  wyglądać dziwnie #card
 Tłumaczenie: 不思議に見える（ ふしぎな） 
+<!--ID: 1775624991358-->
+
 
  dziwna osoba #card
 Tłumaczenie: 不思議な人（ ふしぎな） 
+<!--ID: 1775624991359-->
+
 
  dziwne zachowanie #card
 Tłumaczenie: 不思議な行動（ ふしぎ,（こうどう）
+<!--ID: 1775624991360-->
+
 
 #imported 

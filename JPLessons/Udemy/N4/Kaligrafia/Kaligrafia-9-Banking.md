@@ -1,4 +1,4 @@
-TARGET DECK: UN4K9-Banking
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL9-Banking
 
 ## 銀 - silver しろがね・ギン
 [[銀 - silver]]

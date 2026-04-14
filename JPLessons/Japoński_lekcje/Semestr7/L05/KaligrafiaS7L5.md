@@ -94,6 +94,8 @@ Tłumaczenie: 彼たち（かれ）
 
  oni  #card
 Tłumaczenie: 彼ら（かれ）
+<!--ID: 1775624991419-->
+
 
  boyfriend #card
 Tłumaczenie: 彼氏（かれし）

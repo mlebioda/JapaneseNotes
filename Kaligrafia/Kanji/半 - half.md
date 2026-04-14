@@ -3,3 +3,7 @@
 [[Kaligrafia_to_print#半 - pół　はん]]
 [[Kaligrafia#半 - pół　はん]]
 [[KaligrafiaS3L5#半]]
+
+---
+[[丷 - divide, smth divided]]
+[[十 - ten, 10]]

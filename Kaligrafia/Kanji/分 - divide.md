@@ -4,3 +4,7 @@
 [[Kaligrafia#分　minuta - わ／フン、ぶん]]
 [[KaligrafiaPodsumowanie#分]]
 [[KaligrafiaS4L6#分]]
+
+---
+[[八 - 8]]
+[[刀 – nóż]]

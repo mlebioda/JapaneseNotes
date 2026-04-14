@@ -95,15 +95,23 @@
 
  zachodnia europa #card
 Tłumaczenie: 西ヨーロッパ 
+<!--ID: 1775624991448-->
+
 
  region zachodni #card
 Tłumaczenie: 関西　(かんさい)　
+<!--ID: 1775624991449-->
+
 
 azja południowo wschodnia #card 
 Tłumaczenie: 東南アジア
+<!--ID: 1775624991450-->
+
 
  wschodnie połudne　とうなん #card
 Tłumaczenie: 東南　
+<!--ID: 1775624991451-->
+
 
 
 
@@ -111,25 +119,41 @@ Tłumaczenie: 東南　
 
  z zachodu #card
 Tłumaczenie: 西から 
+<!--ID: 1775624991452-->
+
 
  wyjść przez zachodnie wyjście #card
 Tłumaczenie: 西口 から出る（にちぐち,で）
+<!--ID: 1775624991453-->
+
 
  zachodnie wyjście metra #card
 Tłumaczenie: えきの西口 (にちぐち) 
+<!--ID: 1775624991454-->
+
 
  urodzony w kansai #card
 Tłumaczenie: 関西　の生まれ　（う）
+<!--ID: 1775624991455-->
+
 
  na zachodzie #card
 Tłumaczenie: 西洋で 
+<!--ID: 1775624991456-->
+
 
  zachodni (literatura..) #card
 Tłumaczenie: 西洋の 
+<!--ID: 1775624991457-->
+
 
  z południa #card
 Tłumaczenie: 南から 
+<!--ID: 1775624991458-->
+
 
  z północy #card
 Tłumaczenie: 北から 
+<!--ID: 1775624991459-->
+
 

@@ -313,9 +313,7 @@ Structure
 
  --- 
 
-
- --- 
-
+# Summary
 
 
  Rzeczowniki:

@@ -1,4 +1,4 @@
-TARGET DECK: UN4K2
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL2-Study
 
 ## 勉 - diligence つと・ベン
 [[勉 - diligence]]
@@ -368,6 +368,8 @@ Tłumaczenie: 本質（ほんしつ）
 
  study #card
 Tłumaczenie: 学問（がくもん）
+<!--ID: 1775624991149-->
+
 
  answer #card
 Tłumaczenie: 答え（こた）
@@ -381,6 +383,8 @@ Tłumaczenie: この試験の答えはわかりません（しけん、こた）
 
  I don't know the answer to this test #card
 Tłumaczenie: このテストの答えはわかりません（こた）
+<!--ID: 1775624991150-->
+
 
   to answer, reply (formal) #card
 Tłumaczenie: 回答（かいとう）

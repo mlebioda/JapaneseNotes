@@ -370,7 +370,7 @@ Example:
 
  --- 
 
-
+# Summary
 
  Gramatyka:
 
@@ -629,6 +629,7 @@ Example:
 #w 行（い）くか行（い）かないか、まだ決（き）めていません - Nie zdecydowałem, czy pójdę, czy nie pójdę.
 
 #w 雨（あめ）が降（ふ）るか降（ふ）らないか心配（しんぱい）です。  Martwię się, czy będzie padać, czy nie.,
+
 
 
  Rzeczowniki:

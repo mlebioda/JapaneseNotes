@@ -164,72 +164,118 @@ modoru - wracać
 
  matka #card
 Tłumaczenie: 母 （はは） 
+<!--ID: 1775624991361-->
+
 
  mama #card
 Tłumaczenie: お母さん（おかあさん）
+<!--ID: 1775624991362-->
+
 
  język ojczysty (język matki) #card
 Tłumaczenie: 母語　ぼご 
+<!--ID: 1775624991363-->
+
 
  babcia #card
 Tłumaczenie: 祖母（そぼ）
+<!--ID: 1775624991364-->
+
 
  babcia, starcza pani #card
 Tłumaczenie: おばさん  
+<!--ID: 1775624991365-->
+
 
  high school (liceum) #card
 Tłumaczenie: 高校（こうこう）
+<!--ID: 1775624991366-->
+
 
  high school student (licealista) #card
 Tłumaczenie: 高校生 （こうこうせい）
+<!--ID: 1775624991367-->
+
 
  wysokość, pułap, zaawansowany, wysokiej klasy #card
 Tłumaczenie: 高度 （こうど）(な、の)　
+<!--ID: 1775624991368-->
+
 
  szkoła #card
 Tłumaczenie: 学校（がっこう）
+<!--ID: 1775624991369-->
+
 
  gimnazjum  #card
 Tłumaczenie: 中学校（ちゅうがっこう） 
+<!--ID: 1775624991370-->
+
 
  dyrektor szkoły #card
 Tłumaczenie: 校長（こうちょう）
+<!--ID: 1775624991371-->
+
 
   liceum, ale nie używa się, może w dokumentach #card
 Tłumaczenie: 高等学校（こうとうがっこう） 
+<!--ID: 1775624991372-->
+
 
  japanese language #card
 Tłumaczenie: 日本語 (にほんご)　
+<!--ID: 1775624991373-->
+
 
  english language #card
 Tłumaczenie: 英語（えいご）
+<!--ID: 1775624991374-->
+
 
  honorific expressions #card
 Tłumaczenie: 敬語（けいご）
+<!--ID: 1775624991375-->
+
 
  nauka języka #card
 Tłumaczenie: 語学（ごがく）
+<!--ID: 1775624991376-->
+
 
  literatura #card
 Tłumaczenie: 文学（ぶんがく）
+<!--ID: 1775624991377-->
+
 
  composition #card
 Tłumaczenie: 作文（さくぶん）
+<!--ID: 1775624991378-->
+
 
  letter, chracter  (emoji) #card
 Tłumaczenie: 文字（もじ）
+<!--ID: 1775624991379-->
+
 
  culture #card
 Tłumaczenie: 文化（ぶんか）
+<!--ID: 1775624991380-->
+
 
  gramatyka #card
 Tłumaczenie: 文法（ぶんぽう）
+<!--ID: 1775624991381-->
+
 
  zdanie, artykuł, styl pisania #card
 Tłumaczenie: 文章（ぶんしょう）
+<!--ID: 1775624991382-->
+
 
  return, powrót #card
 Tłumaczenie: 帰り（かえり）
+<!--ID: 1775624991383-->
+
 
 
 
@@ -242,6 +288,8 @@ Forma te: 語って
 Forma ta: 語った 
 Forma nai: 語らない 
 Forma katta: 語らなかった
+<!--ID: 1775624991384-->
+
 
 pisanie wypracowania #card 
 Tłumaczenie:: 作文する 
@@ -250,6 +298,8 @@ Forma te: 作文して
 Forma ta: 作文した 
 Forma nai: 作文しない 
 Forma katta: 作文しなかった
+<!--ID: 1775624991385-->
+
 
 wracać (do domu, na swoje miejsce) #card 
 Tłumaczenie:: 帰る（かえる） 
@@ -258,6 +308,8 @@ Forma te: 帰って
 Forma ta: 帰った 
 Forma nai: 帰らない 
 Forma katta: 帰らなかった
+<!--ID: 1775624991386-->
+
 
 going home (do swojej ojczyzny) #card 
 Tłumaczenie:: 帰国（きこく） 
@@ -266,6 +318,8 @@ Forma te: 帰国して
 Forma ta: 帰国した 
 Forma nai: 帰国しない 
 Forma katta: 帰国しなかった
+<!--ID: 1775624991387-->
+
 
 returning home (swojego) #card 
 Tłumaczenie:: 帰宅（きたく） 
@@ -274,6 +328,8 @@ Forma te: 帰宅して
 Forma ta: 帰宅した 
 Forma nai: 帰宅しない 
 Forma katta: 帰宅しなかった
+<!--ID: 1775624991388-->
+
 
 
 
@@ -284,37 +340,55 @@ Tłumaczenie: 祖母の（そぼ）
 Forma przeszła: 祖母だった
 Przeczenie: 祖母ではない
 Przysłówek: 祖母で
+<!--ID: 1775624991389-->
+
 
 wysoki, drogi #card
 Tłumaczenie: 高い （たかい）
 Forma przeszła: 高かった
 Przeczenie: 高くない
 Przysłówek: 高く
+<!--ID: 1775624991390-->
+
 
 najniższy #card
 Tłumaczenie: 最低（さいてい）　
 Forma przeszła: 最低だった
 Przeczenie: 最低ではない
 Przysłówek: 最低で
+<!--ID: 1775624991391-->
+
 
 
  Okoliczniki:
 
  everyday #card
 Tłumaczenie: 毎日 
+<!--ID: 1775624991392-->
+
 
  every week #card
 Tłumaczenie: 毎週（まいしゅう）
+<!--ID: 1775624991393-->
+
 
  every night #card
 Tłumaczenie: 毎晩　（まいばん）
+<!--ID: 1775624991394-->
+
 
  to częściej） #card
 Tłumaczenie: 毎年（まいねん／まいとし<
+<!--ID: 1775624991395-->
+
 
  every month #card
 Tłumaczenie: 毎月 (まいつき）
+<!--ID: 1775624991396-->
+
 
  every morning #card
 Tłumaczenie: 毎朝（まいあさ）
+<!--ID: 1775624991397-->
+
 

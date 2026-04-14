@@ -156,33 +156,53 @@ Słuchanie
 
  druga z kolei córka #card
 Tłumaczenie: 次女（じじょ） 
+<!--ID: 1775624991409-->
+
 
  spis treści #card
 Tłumaczenie: 目次（もくじ）
+<!--ID: 1775624991410-->
+
 
   strona spisu treści #card
 Tłumaczenie: 目次のページ（もくじ） 
+<!--ID: 1775624991411-->
+
 
  następny raz #card
 Tłumaczenie: 次回（じかい) 
+<!--ID: 1775624991412-->
+
 
  następny #card
 Tłumaczenie: 次 (つぎ) 
+<!--ID: 1775624991413-->
+
 
  która godzina? #card
 Tłumaczenie: 何時（なんじ）
+<!--ID: 1775624991414-->
+
 
   nie wiem która godzina #card
 Tłumaczenie: 何時かわからない（なんじ）
+<!--ID: 1775624991415-->
+
 
  coś #card
 Tłumaczenie: 何か  (なに)　
+<!--ID: 1775624991416-->
+
 
  nic #card
 Tłumaczenie: 何も  (なに) 
+<!--ID: 1775624991417-->
+
 
  środek lata #card
 Tłumaczenie: manatsu 
+<!--ID: 1775624991418-->
+
 
 
  --- 

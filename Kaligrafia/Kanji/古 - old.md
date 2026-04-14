@@ -4,3 +4,6 @@
 [[Kaligrafia_to_print#古 - stary ふる・い／コ]]
 [[Kaligrafia#古 - stary ふる・い／コ]]
 [[KaligrafiaS6L5#古 - stary]]
+---
+[[十 - ten, 10]]
+[[口 – mouth, point, place]]

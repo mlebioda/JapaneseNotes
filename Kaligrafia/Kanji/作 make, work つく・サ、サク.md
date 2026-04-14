@@ -5,3 +5,4 @@
 
 ---
 [[亻- person]]
+[[乍 - component]]

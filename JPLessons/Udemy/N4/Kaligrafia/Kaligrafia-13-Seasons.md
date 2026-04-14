@@ -1,4 +1,4 @@
-TARGET DECK: UN4K13-Seasons
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL13-Seasons
 
 ## 春 - spring はる・シュン
 [[春 - spring]]

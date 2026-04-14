@@ -3,3 +3,6 @@
 [[Kaligrafia_to_print#中 - środek 　なか／チュウ、ジュウ]]
 [[Kaligrafia#中 - środek 　なか／チュウ、ジュウ]]
 [[KaligrafiaS3L5#中]]
+---
+[[口 – mouth, point, place]]
+[[丨 - component]]

@@ -4,3 +4,6 @@
 [[Kaligrafia#先 - Ahead, przed(aspekt czasowy)  さき／セン]]
 [[KaligrafiaPodsumowanie#先]]
 [[KaligrafiaS4L7#先]]
+---
+[[土 - ziemia]]
+[[儿 - legs]]

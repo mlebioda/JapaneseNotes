@@ -164,15 +164,23 @@ następne zajęcia test
 
  wciąż, nadal #card
 Tłumaczenie: mada 
+<!--ID: 1775624991427-->
+
 
  ahead #card
 Tłumaczenie: 先 
+<!--ID: 1775624991428-->
+
 
  urodziny #card
 Tłumaczenie:    誕生日（たんじょうび） 
+<!--ID: 1775624991429-->
+
 
  nieprzegotowana woda #card
 Tłumaczenie: 生水　なまみず 
+<!--ID: 1775624991430-->
+
 
 
 
@@ -185,6 +193,8 @@ Forma te:
 Forma ta: 
 Forma nai: 
 Forma katta: 
+<!--ID: 1775624991431-->
+
 
 
 
@@ -192,7 +202,11 @@ Forma katta:
 
  coś co się działo w zeszłym tygodniu #card
 Tłumaczenie: 先週の (...) (せんしゅう)  
+<!--ID: 1775624991432-->
+
 
  przyjęcie z zeszłego miesiąca #card
 Tłumaczenie: 先月の (parti)  （せんげつ）
+<!--ID: 1775624991433-->
+
 

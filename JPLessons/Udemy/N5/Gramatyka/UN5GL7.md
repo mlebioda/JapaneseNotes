@@ -350,7 +350,7 @@ Examples
  --- 
 
 
-## Podsumowanie
+# Summary
  Gramatyka:
 
 ### Verbs
@@ -577,7 +577,6 @@ Examples
 #w 毎日九時に会社に行って、１２じに昼ごはんを食べて午後六時に家へ戻って（まいにち、ひる、ごご、いえ、もど）- Every day I go to the company at 9:am, eat lunch at 12 and go back home at 6 P.M #k
 
 #w 土曜日に友達といっしょに昼ご飯を食べて、映画を見て、カラオケに行きました（どようび、ともだち、えいが、み）- I went to eat lunch with my friend, then we watched a movie and went to karaoke,
-
 
  Rzeczowniki:
 

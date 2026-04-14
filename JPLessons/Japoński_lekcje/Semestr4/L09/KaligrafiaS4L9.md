@@ -107,12 +107,18 @@
 
  oddział, instytut(na uniwerystecie) #card
 Tłumaczenie: 学部　(がくぶ)　
+<!--ID: 1775624991420-->
+
 
  talent naukowy #card
 Tłumaczenie: 学才（がくさい） 
+<!--ID: 1775624991421-->
+
 
  inne osoby  #card 
  Tłumaczenie: 外の人（ほかのひと）
+<!--ID: 1775624991422-->
+
 
 
 
@@ -120,10 +126,16 @@ Tłumaczenie: 学才（がくさい）
 
  graduate from uniwersity #card
 Tłumaczenie:  大学をそっぎょうする 
+<!--ID: 1775624991423-->
+
 
  mieszkać za granicą #card
 Tłumaczenie: 外国にすむ（がいこく） 
+<!--ID: 1775624991424-->
+
 
  jechać za granicę #card
 Tłumaczenie: 外国に行く（がいこく） 
+<!--ID: 1775624991425-->
+
 

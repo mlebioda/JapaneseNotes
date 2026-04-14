@@ -295,9 +295,8 @@ Wyjątek:
 
 ---
 
- --- 
 
-
+# Summary
 
  Gramatyka:
 
