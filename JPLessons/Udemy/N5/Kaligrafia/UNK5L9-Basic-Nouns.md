@@ -5,7 +5,6 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL9-Basic-Nouns
 
 (デン)
 
-
 ---
 
 ## 車 - car・くるま・シャ

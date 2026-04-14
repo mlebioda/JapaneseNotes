@@ -1,0 +1,6 @@
+[[漢 - kanji, china]]
+[[薬 - medicine]]
+[[英 - england, english]]
+---
+[[花 - flower]]
+[[茶 - tea]]

@@ -1,1 +1,0 @@
-[[画 - draw, stroke]]

@@ -1,67 +1,72 @@
 # Skill: update-kanji-list
 
 ## Purpose
-Search files with calligraphy lessons to update list of known kanjis that will be used to add #k tags to #w, #wc, #wp templates by other skills.
+Search files with calligraphy lessons to update the list of known kanji, then create or update individual kanji files used for cross-referencing.
 
 ## Trigger phrases
 User says: "Update kanji list [file]"
 
 ## Input
 - `[file]` — a calligraphy lesson file (e.g. UNK5L9-Basic-Nouns)
-- `[KanjiList.md]` — file with all known kanjis, in ObsidianJP root directory
+- `[KanjiList.md]` — file with all known kanji, in ObsidianJP root directory
 
 ## Step 1 — Update KanjiList.md
 
-Extract all kanji characters from headers in `[file]` (every `##` header contains one kanji).
+Extract all kanji characters from `##` headers in `[file]`.
 For each kanji:
-- If it is already in `KanjiList.md`, skip it
-- If not, add it to `KanjiList.md`
+- If already in `KanjiList.md`, skip
+- If not, add it
 
 ## Step 2 — Update individual kanji files
 
-For each kanji found in `[file]`, determine its full header text (e.g. `電 - electricity・デン`).
+For each kanji in `[file]`, derive its header text (e.g. `電 - electricity・デン`).
 
-### Kanji file name rule
-Derive the filename from the header by removing `・`: e.g. `電 - electricity デン.md`
+### File name rule
+`Kanji-meaning.md` — kanji character + hyphen + first English word of the meaning.
+
+Examples:
+- `電 - electricity・デン` → `電-electricity.md`
+- `方 - direction, way・かた、-がた・ホウ` → `方-direction.md`
+- `社 - company, shrine・シャ、-ジャ` → `社-company.md`
+
+### File location
+`Kaligrafia/Kanji/[filename].md` (flat, no subdirectories)
 
 ### Check if kanji file exists
-Look under `Kaligrafia/Kanji/` (including subdirectories).
+Search `Kaligrafia/Kanji/` (including subdirectories) for any file whose **filename starts with the kanji character** — regardless of what follows. Do not require an exact title match.
+
+Examples: `電` matches `電-electricity.md`, `電-electricity-old.md`, `雨/電-electricity.md` etc.
 
 ---
 
-**If the file EXISTS:**
+**If a matching file EXISTS:**
 
-1. Add a new section at the end of the kanji file with this structure:
-   ```
-   ## Kaligrafia[LessonID] > [full header text]
-   [[lesson-filename]]
-   ```
-   Where:
-   - `[LessonID]` = the lesson identifier from the source file name (e.g. `UNK5L9`)
-   - `[full header text]` = the full kanji header, e.g. `電 - electricity・デン`
-   - `[[lesson-filename]]` = Obsidian wikilink to the source lesson file
+Append a new occurrence link under `## Occurences`:
+```
+[[FileName#Header text]]
+```
 
-   Example:
-   ```
-   ## KaligrafiaUNK5L9 > 電 - electricity・デン
-   [[UNK5L9-Basic-Nouns]]
-   ```
+Example:
+```
+[[UNK5L9-Basic-Nouns#電 - electricity・デン]]
+```
+
+If `## Occurences` section doesn't exist yet in the file, add it first.
 
 ---
 
-**If the file DOES NOT EXIST:**
+**If NO matching file EXISTS:**
 
-1. Create a new file at `Kaligrafia/Kanji/[filename].md`
-2. First line: `# [full header text]` — e.g. `# 電 - electricity・デン`
-3. Then add the same section as in the EXISTS case (steps above)
+Create `Kaligrafia/Kanji/[kanji]-[first-meaning-word].md` with this structure:
 
-   Full new file example:
-   ```
-   # 電 - electricity・デン
+```
+電 - electricity・デン
 
-   ## KaligrafiaUNK5L9 > 電 - electricity・デン
-   [[UNK5L9-Basic-Nouns]]
-   ```
+## Occurences
+[[UNK5L9-Basic-Nouns#電 - electricity・デン]]
+```
+
+Note: the first line is the plain header text (no `##`), copied exactly from the source lesson header.
 
 ---
 
