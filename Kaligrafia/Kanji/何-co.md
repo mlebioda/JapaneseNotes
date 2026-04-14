@@ -5,3 +5,6 @@
 ---
 [[亻- person]]
 [[可 – możliwy(sound)]]
+
+## Occurences
+[[UNK5L9-Basic-Nouns#何 - what・なに、なん]]

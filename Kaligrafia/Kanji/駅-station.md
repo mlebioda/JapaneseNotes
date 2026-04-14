@@ -5,3 +5,6 @@
 ---
 [[馬 - koń]]
 [[尺 - component]]
+
+## Occurences
+[[UNK5L9-Basic-Nouns#駅 - station・エキ]]

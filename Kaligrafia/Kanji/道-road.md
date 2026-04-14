@@ -7,3 +7,6 @@
 [[辶 - road]]
 [[目 - eye]]
 [[首 - neck]]
+
+## Occurences
+[[UNK5L9-Basic-Nouns#道 - street, road・みち・ドウ]]

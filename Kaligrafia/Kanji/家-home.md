@@ -5,3 +5,6 @@
 ---
 [[宀 - roof, building]]
 [[豕 - component]]
+
+## Occurences
+[[UNK5L9-Basic-Nouns#家 - house・いえ、や・カ、ケ]]

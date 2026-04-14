@@ -4,3 +4,6 @@
 [[KaligrafiaS5L8#車 car]]
 ---
 [[転 - transfer]]
+
+## Occurences
+[[UNK5L9-Basic-Nouns#車 - car・くるま・シャ]]

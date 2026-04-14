@@ -5,3 +5,6 @@
 ---
 [[广 - component]]
 [[占 - component]]
+
+## Occurences
+[[UNK5L9-Basic-Nouns#店 - shop・みせ・テン]]

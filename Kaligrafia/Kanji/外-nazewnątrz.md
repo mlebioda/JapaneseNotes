@@ -6,3 +6,6 @@
 ---
 [[夕 - evening]]
 [[卜 - component]]
+
+## Occurences
+[[UNK5L9-Basic-Nouns#外 - outside・そと・ガイ]]

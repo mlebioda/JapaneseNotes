@@ -6,3 +6,6 @@
 [[口 – mouth, point, place]]
 [[玉 - klejnot]]
 [[囗 - component]]
+
+## Occurences
+[[UNK5L9-Basic-Nouns#国 - country・くに・コク、-ゴク]]

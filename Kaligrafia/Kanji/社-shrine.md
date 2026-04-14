@@ -6,3 +6,6 @@
 ---
 [[礻 - świątynia]]
 [[土 - ziemia]]
+
+## Occurences
+[[UNK5L9-Basic-Nouns#社 - company, shrine・シャ、-ジャ]]

@@ -5,3 +5,6 @@
 ---
 [[艹 - grass]]
 [[化 - component]]
+
+## Occurences
+[[UNK5L9-Basic-Nouns#花 - flower・はな・カ]]

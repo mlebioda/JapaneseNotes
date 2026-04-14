@@ -4,3 +4,6 @@
 ---
 [[駅 - station]]
 [[験 - test]]
+
+## Occurences
+[[UNK5L9-Basic-Nouns#馬 - horse・うま・バ]]
