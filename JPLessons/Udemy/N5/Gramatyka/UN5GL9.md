@@ -182,11 +182,6 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL9-This-restaurant-is-delicious-and
 #w ごちそうさまでした - thank you for the meal
 
 # 文法
-
-
----
-
-
 ## Counters
 
 ### Ogólny  sposób  liczenia (1-10)

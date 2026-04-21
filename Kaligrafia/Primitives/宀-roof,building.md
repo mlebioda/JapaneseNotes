@@ -1,6 +1,8 @@
 
-[[字 - character]]
+[[字-character]]
+
 ---
-[[安 - cheap]]
-[[室 - room]]
-[[家 - home]]
+
+[[安-cheap]]
+[[室-room]]
+[[家-home]]

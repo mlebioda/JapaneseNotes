@@ -320,7 +320,7 @@ Example:
 #w よかった！- good！
 
 
-## 文法（ぶんぽう）- grammar
+## grammar
 
 #w 時間の言い方（じかん、いいかた）- how to tell time
 
@@ -372,7 +372,7 @@ Example:
 
 # Summary
 
- Gramatyka:
+## 文法
 
 ### Years 年
 
@@ -564,7 +564,7 @@ days from date + (kan)
 3. hour + 間 + minutes
 
  十四時間三十四ぷ（じゅうよじかん さんじゅうよんぷん） - 14 godzin i 34 minut,
-## Pory dnia
+### Pory dnia
 
  ご飯（はん）- meal
 
@@ -586,7 +586,7 @@ days from date + (kan)
 ---
 
 夜（よる）- night (sunset to sunrise),
-## Directions
+### Directions
 
 右（みぎ）- right
 左（ひだり）- left
@@ -632,7 +632,7 @@ Example:
 
 
 
- Rzeczowniki:
+## vocab
 
  what year #card
 Tłumaczenie: 何年（なんねん）

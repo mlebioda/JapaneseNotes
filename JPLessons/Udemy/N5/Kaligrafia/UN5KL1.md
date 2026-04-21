@@ -1,4 +1,4 @@
-TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5KL1-2
+TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 
 ## 山 - mountain やま・サン
 [[山 - mountain]]

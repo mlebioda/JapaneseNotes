@@ -298,7 +298,7 @@ Wyjątek:
 
 # Summary
 
- Gramatyka:
+## 文法
 
 ### Verbs
 #### 乗る・降りる - get on, get off
@@ -410,16 +410,6 @@ Wyjątek:
 #wc 住む（す）- to live
 #wc 急ぐ（いそぐ） - to hurry
 
-
-#### て　けい
-- Use cases
-
-
-
-#### た　けい
-
-### で 
-
 #### で - means or method
 - Structure: 
 	- N + で + V
@@ -464,6 +454,8 @@ Wyjątek:
 		- アメリカへ行く - to go to  amerika
 		- 左を曲がる,
 
+
+## Vocabulary
 
  Rzeczowniki:
 

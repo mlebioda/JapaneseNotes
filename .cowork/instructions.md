@@ -45,3 +45,4 @@ No `Tłumaczenie:` keyword. No confirmation step required.
 Skills are defined in .cowork/skills/ — load the relevant skill before acting.
 
 - kanji-headers — format kanji tables from images into structured markdown headers
+- practice-grammar — interactive grammar drill for a lesson file; writes results to `.cowork/progress/grammar-state.json` (SM-2 lite) and a dated session log under `.cowork/progress/sessions/`. Trigger: "let's practice <lesson>"

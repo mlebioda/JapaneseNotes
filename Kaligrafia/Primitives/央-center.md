@@ -1,1 +1,2 @@
-[[映 - be reflected]]
+[[映-bereflected]]
+[[英 - england,english, superior]]

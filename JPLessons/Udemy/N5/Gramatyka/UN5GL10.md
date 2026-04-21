@@ -151,9 +151,9 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL10-I-will-go-to-Akihabara-to-buy-m
 #w A：明日は休みですB：じゃあ、いっしょにゆうえんちにいきましせんか - A: Tomorrow is a day off B: **So**, would you like to go to an amusement park with me?
 
 
-## 文法
+# 文法
 
-## Personal pronouns
+### Personal pronouns
 
 I - lmn + Tachi
 

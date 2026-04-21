@@ -1,3 +1,3 @@
-# 豕 - component
+# 豕 - pig, boar
 ---
-[[家 - home]]
+[[家-home]]

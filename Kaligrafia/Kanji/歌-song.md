@@ -4,6 +4,5 @@
 
 
 ---
-[[可 – możliwy(sound)]] 2x
-[[欠 - jawn, open mouth]]
-[[哥 - component]]
+[[可–możliwy(sound)]] 2x
+[[欠-jawn,openmouth]]

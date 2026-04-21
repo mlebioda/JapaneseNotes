@@ -89,7 +89,9 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL1-2-im-a-student-and-family
 #w 妹さん（いもうと）- younger sister (someone)
 
 #g
-### Numbers
+
+# Gramayka
+## Numbers
 
 #w 数字（すうじ）- number
 #### Only numbers
@@ -198,14 +200,6 @@ number + 百 + number
 
 #w 何階（なんがい）- which floor
 
-#eg
-
-## Grammar
-
-
-
----
-#g 
 
 #### 同じ - same
 
@@ -289,17 +283,11 @@ Ne - seeking approval, emphasizing / isn’t it?
 ##### Structure
 - これ/それ/あれ, どれ 
 
-#eg
 
----
-
-
-
- --- 
 
 # Summary
 
- Gramatyka:
+## 文法
 
 ### Numbers
 
@@ -452,6 +440,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 ##### Structure
 - これ/それ/あれ, どれ
 
+## Vocabulary
 
  Rzeczowniki:
 

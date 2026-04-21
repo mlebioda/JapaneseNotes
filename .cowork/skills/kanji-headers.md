@@ -18,6 +18,7 @@ User provides: an **image** of a kanji table and a **filename** (target file in 
 3. Extract all kanji from the image
 4. Write the formatted kanji blocks to the file, followed by `# Summary`
 5. Save the file
+6. Run the `update-kanji-list` workflow on the same file (load `.cowork/skills/update-kanji-list.md` and follow its instructions)
 
 ## File output structure
 
@@ -25,6 +26,7 @@ User provides: an **image** of a kanji table and a **filename** (target file in 
 [existing file content, if any]
 
 ## Kanji - meaning・kun・on
+[[Kanji-meaning]]
 
 (reading 1)
 
@@ -33,6 +35,7 @@ User provides: an **image** of a kanji table and a **filename** (target file in 
 ---
 
 ## Kanji - meaning・kun・on
+[[Kanji-meaning]]
 
 ...
 
@@ -42,6 +45,17 @@ User provides: an **image** of a kanji table and a **filename** (target file in 
 ```
 
 If the file already has a `# Summary` line, replace everything from that line onward with the new kanji blocks + `# Summary`. Never modify content above the existing `# Summary`.
+
+### Link under each header
+
+Immediately after each `## header` line, add a wikilink to the corresponding kanji file in `Kaligrafia/Kanji/`. Use the same naming rule as `update-kanji-list`: `[[Kanji-firstMeaningWord]]`.
+
+Examples:
+- `## 電 - electricity・デン` → `[[電-electricity]]`
+- `## 方 - direction, way・かた、-がた・ホウ` → `[[方-direction]]`
+- `## 社 - company, shrine・シャ、-ジャ` → `[[社-company]]`
+
+Add the link even if the file doesn't exist yet — it will be created by the `update-kanji-list` skill.
 
 ## Header format rules
 
@@ -74,6 +88,7 @@ Produce all kanji in the order they appear in the table.
 
 ```markdown
 ## 車 - car・くるま・シャ
+[[車-car]]
 
 (くるま)
 
@@ -82,12 +97,14 @@ Produce all kanji in the order they appear in the table.
 ---
 
 ## 電 - electricity・デン
+[[電-electricity]]
 
 (デン)
 
 ---
 
 ## 何 - what・なに、なん
+[[何-what]]
 
 (なに)
 

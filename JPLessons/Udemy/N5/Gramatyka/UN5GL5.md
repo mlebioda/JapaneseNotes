@@ -331,11 +331,9 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 
 # Summary
 
- Gramatyka:
+## 文法
 
 ### いっしょ  - together, with, the same (同じ
-
-
 
 #### いっしょ + に - together, with
 - いっしょ + に - together, with
@@ -344,13 +342,13 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 #### と/の + いっしょ - the same
 - と+ いっしょ - same
 	- 私の学校 は 弟の学校　と　いっしょです - my and my younger brother's school is the same,
-## Forms
-### 辞書形（じしょ）- dictionary form
+### Forms
+#### 辞書形（じしょ）- dictionary form
 - Used to search for word in dictionary
 - Used between friends or family
 	- 明日だれと会うの？ - who will you meet tomorrow? (dict)
 
-### ます形 - masu form
+#### ます形 - masu form
 - polite present/future form
 	- ます - affirmative
 		- 食べます
@@ -362,9 +360,9 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 	- ません　でした
 		- 食べませんでした
 
-## Partykuły 
+### Partykuły 
 
-### へ - e、に - direction of movement, travel
+#### へ - e、に - direction of movement, travel
 - When
 	- Travel destination
 	- Reaching point
@@ -374,7 +372,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 - Examples 
 	- 会社へ戻ります（もど）- i go back to the company
 
-### に - time of occurrence of an action
+#### に - time of occurrence of an action
 - When
 	- Indicates time of occurrence of an action
 - Structure
@@ -439,7 +437,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 	- 何をしますか,
 
 
- Rzeczowniki:
+## Vocabulary
 
  types and forms of verbs   #card
 Tłumaczenie: どうしのしゅるいとどうしのフォーム 

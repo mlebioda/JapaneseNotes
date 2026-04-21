@@ -9,3 +9,5 @@
 [[思 - feeling]]
 [[町 - town]]
 [[界 - world]]
+[[車-car]]
+[[魚-fish]]

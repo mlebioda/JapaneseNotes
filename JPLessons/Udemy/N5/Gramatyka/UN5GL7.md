@@ -352,7 +352,7 @@ Examples
 
 # Summary
  Gramatyka:
-
+## 文法
 ### Verbs
 #### 勉強 - learn
 
@@ -539,7 +539,7 @@ Examples:
 
 #w ここで泳いではいけません（およ）- you can't swim here
 
-## Odmiany 
+
 ### ている 
 
 #### ている - show state
@@ -578,7 +578,7 @@ Examples
 
 #w 土曜日に友達といっしょに昼ご飯を食べて、映画を見て、カラオケに行きました（どようび、ともだち、えいが、み）- I went to eat lunch with my friend, then we watched a movie and went to karaoke,
 
- Rzeczowniki:
+## vocabulary
 
  Would you like to go skiing together? #card
 ほんやく: いっしょに スキーに行きませんか（だい、か） 

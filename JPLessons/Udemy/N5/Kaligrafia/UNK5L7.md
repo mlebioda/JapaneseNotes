@@ -1,4 +1,4 @@
-TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5L7-Basic-adjectives
+TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL7-Basic-adjectives
 
 ## 高 - high, expensive たか（い）・コウ
 [[高 - high]]

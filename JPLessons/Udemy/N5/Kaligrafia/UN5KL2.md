@@ -1,4 +1,4 @@
-TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5KL1-2
+TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 
 ## 百 - 100 ヒャク
 [[百 - 100]]
@@ -124,12 +124,18 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UNK5KL1-2
 
  chiba prefecture #card
 Tłumaczenie: 千葉県（ちばけん) 
+<!--ID: 1776605751279-->
+
 
  all nations, narody świata  #card
 Tłumaczenie: 万国（ばんこく）
+<!--ID: 1776605751280-->
+
 
  draw a circle #card
 Tłumaczenie: 円を書く（えん、か）
+<!--ID: 1776605751281-->
+
 
  circle #card
 Tłumaczenie: 円（えん） 
@@ -146,6 +152,8 @@ Tłumaczenie: このコインは円いです
 
  in front of the river #card
 Tłumaczenie: 川の前（かわのまえ) 
+<!--ID: 1776605751282-->
+
 
  name #card
 Tłumaczenie: 名前（なまえ）
@@ -154,6 +162,8 @@ Tłumaczenie: 名前（なまえ）
 
  the first half #card
 Tłumaczenie: 前半（ぜんはん) 
+<!--ID: 1776605751283-->
+
 
  przed południem  #card
 Tłumaczenie: 午前（ごぜん） 
@@ -162,33 +172,53 @@ Tłumaczenie: 午前（ごぜん）
 
  there is a rice field behind the mountain #card
 Tłumaczenie: 山の後ろに田んぼがあります（やま、うし）
+<!--ID: 1776605751285-->
+
 
  to drink coffee later #card
 Tłumaczenie: 後で、コーヒーを飲む 
+<!--ID: 1776605751286-->
+
 
  back and forth (tam i z powrotem) #card
 Tłumaczenie: 前後（ぜんご) 
+<!--ID: 1776605751288-->
+
 
  the latter half #card
 Tłumaczenie: 後半（こうはん）
+<!--ID: 1776605751289-->
+
 
  look at the left side #card
 Tłumaczenie: 左を見る（ひだり、み) 
+<!--ID: 1776605751290-->
+
 
  right hand #card
 Tłumaczenie: 右手（みぎて) 
+<!--ID: 1776605751291-->
+
 
  left and right #card
 Tłumaczenie: 左右（さゆう) 
+<!--ID: 1776605751292-->
+
 
  top of the mountain #card
 Tłumaczenie: 山の上（やまのうえ) 
+<!--ID: 1776605751293-->
+
 
  an elevator goes up #card
 Tłumaczenie: エレベータが上がる（あ) 
+<!--ID: 1776605751294-->
+
 
   water ski #card
 Tłumaczenie: 水上スキー 
+<!--ID: 1776605751295-->
+
 
  good at #card
 Tłumaczenie: 上手な(じょうず) 
@@ -197,15 +227,23 @@ Tłumaczenie: 上手な(じょうず)
 
  under the desk #card
 Tłumaczenie: 机の下（つくえ、した) 
+<!--ID: 1776605751297-->
+
 
  elevator goes down #card
 Tłumaczenie: エレベーターが下がる（さ) 
+<!--ID: 1776605751298-->
+
 
  subway #card
 Tłumaczenie: 地下鉄（ちかてつ) 
+<!--ID: 1776605751299-->
+
 
  up and down #card
 Tłumaczenie: 上下（じょうげ) 
+<!--ID: 1776605751300-->
+
 
  poor at #card
 Tłumaczenie: 下手な（へた） 

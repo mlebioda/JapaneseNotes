@@ -95,7 +95,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL3-where-is a meeting-room
 #w (いいえ）どういたしまして - you're welcome
 
 
-## Grammar 文法（ぶんぽう)
+# gramatyka
 
 
 ---
@@ -252,7 +252,7 @@ more polite
 
 # Summary
 
- Gramatyka:
+## 文法
 
 #### 枚　まい - counter rzeczy płaskich 
 
@@ -360,6 +360,8 @@ more polite
 一千万（いっせんまん）- 10 000 000
 一億（いちおく）- 100 000 000,
 
+
+## Vocabulary
  Rzeczowniki:
 
  where is a meeting room #card
