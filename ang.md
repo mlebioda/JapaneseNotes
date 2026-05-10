@@ -738,6 +738,8 @@ hang out
 customary
 rivalry
 Nevertheless
+disposal
+tardiness
 
 
 przekazywać, wyrażać, transportować  

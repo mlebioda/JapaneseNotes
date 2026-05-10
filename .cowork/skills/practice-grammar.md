@@ -90,7 +90,52 @@ For each grammar point, produce **one** exercise. Pick the type that best tests 
 
 ## Interaction flow
 
-Present exercises like this:
+There are two modes — **batch** (default) and **interactive**. Pick batch unless the user explicitly asks for one-at-a-time.
+
+**Progress indicator — required.** Every exercise prompt MUST start with `Exercise <current> / <total>` so the user always knows where they are in the session. `<current>` is 1-based (first exercise is `1 / N`, last is `N / N`). The total is fixed at the start of the session and does not change mid-session.
+
+### Batch mode (default — works on flaky connections)
+
+Print **all** exercises at once in a single message. Number them, include the grammar point header, and put the prompt on its own. No expected answers, no hints that reveal the form. The user replies once with all answers (numbered or in order). Then grade everything in one follow-up message and ask for self-scores in one batch.
+
+Layout for the batch prompt:
+
+```
+Session: UN5GL14 — 7 exercises. Reply with all answers in one message (numbered or in order).
+
+Exercise 1 / 7 — grammar point: Vないで ください
+Translate to Japanese: "Please don't use a cellphone in the hospital."
+
+Exercise 2 / 7 — grammar point: Vない なくてもいいです
+Translate to Japanese: "You don't have to book a reservation."
+
+…
+
+Exercise 7 / 7 — grammar point: Counter 本
+Fill the blank: ペンが ___ あります (3 pens).
+```
+
+Layout for the grading reply (single message):
+
+```
+Exercise 1 / 7 — Vないで ください
+Your answer:  病院で携帯電話を使わないでください
+Expected:     病院で携帯電話を使わないでください
+✓ correct
+
+Exercise 2 / 7 — Vない なくてもいいです
+Your answer:  予約しなくていいです
+Expected:     予約しなくてもいいです
+✗ missing も in なくても
+
+…
+
+Self-score each one 1–4 (1=fail, 2=hard, 3=good, 4=easy). Reply with the 7 scores in order, e.g. `4 2 3 4 2 3 1`.
+```
+
+### Interactive mode (only if user asks)
+
+Present one exercise, wait for the answer, grade, ask for the self-score, then move to the next.
 
 ```
 Exercise 3 / 7 — grammar point: Vない なくてもいいです
@@ -100,7 +145,7 @@ Translate to Japanese: "You don't have to book a reservation."
 (use vocabulary from the lesson where possible)
 ```
 
-Wait for the user's answer. Then:
+After the answer:
 
 ```
 Your answer:   予約しなくてもいいです
@@ -109,6 +154,8 @@ Expected:      予約しなくてもいいです
 
 Score this one 1–4? (1=fail, 2=hard, 3=good, 4=easy)
 ```
+
+### Both modes
 
 If partially correct, point out the specific issue in one sentence — no lecture. Example: `missed the second に in 午後７時に` — not a paragraph of explanation.
 

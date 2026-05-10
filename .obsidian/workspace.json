@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPLessons/Udemy/N4/Gramatyka/UN4GL1.md",
+                "file": "JPLessons/Udemy/N4/Gramatyka/UN4GL3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UN4GL1"
+              "title": "UN4GL3"
             }
           }
         ],
@@ -102,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "出す",
+                "query": "tag:#w",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 200
   },
   "right": {
     "id": "0ef8cb3241abc61c",
@@ -224,7 +224,13 @@
   },
   "active": "8b1a78f223d0becf",
   "lastOpenFiles": [
+    "JPLessons/Udemy/N5/Gramatyka/UN5GL1L2.md",
+    "JPLessons/Udemy/N4/Gramatyka/UN4GL3.md.bak",
+    "JPLessons/Udemy/N4/Gramatyka/UN4GL3.md",
     "JPLessons/Udemy/N4/Gramatyka/UN4GL2.md",
+    "KanjiList.md",
+    "JPLessons/Udemy/N4/Gramatyka/UN4GL2.md.bak",
+    "ang.md",
     "JPLessons/Udemy/N4/Gramatyka/UN4GL1.md",
     "Vocabulary/Bank-vocabulary.md",
     "JPLessons/Udemy/N5/Kaligrafia/UN5KL5.md",
@@ -251,10 +257,6 @@
     "Pasted image 20260419150000.png",
     "Kaligrafia/Kanji/何-co.md",
     "Kaligrafia/Primitives/可–możliwy(sound).md",
-    "Kaligrafia/Kanji/歌-song.md",
-    "Kaligrafia/Primitives/哥-component.md",
-    "可 – możliwy(sound).md",
-    "Kaligrafia/Kanji/亻/亻-person.md",
     "Pasted image 20260419145351.png",
     "Pasted image 20260419144728.png",
     "Pasted image 20260419143903.png",
@@ -267,8 +269,6 @@
     "JPLessons/Udemy/N5/Gramatyka/UN5GL15.md.bak",
     "JPLessons/Udemy/N5/Gramatyka/UNGL15.md.bak",
     "JPLessons/Udemy/N4/Kaligrafia/N4kanji14.pdf",
-    "Kaligrafia/Kanji/Untitled",
-    "JPLessons/Udemy/N5/Gramatyka/Untitled",
-    "Kaligrafia/Kanji/言"
+    "Kaligrafia/Kanji/Untitled"
   ]
 }

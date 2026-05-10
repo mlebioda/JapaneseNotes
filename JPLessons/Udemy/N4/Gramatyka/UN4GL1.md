@@ -2,7 +2,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL1-I-will-call-you-as-soon-as-seat-
 
 ## ごい
 
-#w 咳が空きましたら、すぐお呼びいたします（せき、あ、よ）- I will call you as soon as seat is available
+#w 咳が空きましたら、すぐお呼びいたします（せき、あ、よ）- I will call you as soon asseat is available
 
 
 #w クリスマスソング - wigilia bożego narodzenia

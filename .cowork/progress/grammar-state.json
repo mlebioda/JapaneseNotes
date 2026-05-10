@@ -1,3 +1,109 @@
 {
-  "grammar_points": {}
+  "grammar_points": {
+    "UN5GL1L2::numbers": {
+      "lesson_file": "JPLessons/Udemy/N5/Gramatyka/UN5GL1L2.md",
+      "grammar_header": "Numbers (formation & rendaku)",
+      "last_reviewed": "2026-05-08",
+      "next_review": "2026-05-09",
+      "interval_days": 1,
+      "ease": 2.65,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 4,
+      "weak_points": []
+    },
+    "UN5GL1L2::counter-people": {
+      "lesson_file": "JPLessons/Udemy/N5/Gramatyka/UN5GL1L2.md",
+      "grammar_header": "Counter 人 (people)",
+      "last_reviewed": "2026-05-08",
+      "next_review": "2026-05-09",
+      "interval_days": 1,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 2,
+      "weak_points": [
+        "は/が double-marking",
+        "〜人です vs 〜人います choice"
+      ]
+    },
+    "UN5GL1L2::counter-floors": {
+      "lesson_file": "JPLessons/Udemy/N5/Gramatyka/UN5GL1L2.md",
+      "grammar_header": "Counter 階 (floors)",
+      "last_reviewed": "2026-05-08",
+      "next_review": "2026-05-09",
+      "interval_days": 1,
+      "ease": 2.65,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 4,
+      "weak_points": [
+        "rendaku reading さんがい (not さんかい)"
+      ]
+    },
+    "UN5GL1L2::onaji-noun": {
+      "lesson_file": "JPLessons/Udemy/N5/Gramatyka/UN5GL1L2.md",
+      "grammar_header": "同じ + Noun (same)",
+      "last_reviewed": "2026-05-08",
+      "next_review": "2026-05-09",
+      "interval_days": 1,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 2,
+      "weak_points": [
+        "同じ goes before the noun (同じ会社)"
+      ]
+    },
+    "UN5GL1L2::zenbu-de": {
+      "lesson_file": "JPLessons/Udemy/N5/Gramatyka/UN5GL1L2.md",
+      "grammar_header": "全部で (in total)",
+      "last_reviewed": "2026-05-08",
+      "next_review": "2026-05-09",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 3,
+      "weak_points": []
+    },
+    "UN5GL1L2::ne": {
+      "lesson_file": "JPLessons/Udemy/N5/Gramatyka/UN5GL1L2.md",
+      "grammar_header": "ね (seeking approval)",
+      "last_reviewed": "2026-05-08",
+      "next_review": "2026-05-09",
+      "interval_days": 1,
+      "ease": 2.65,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 4,
+      "weak_points": []
+    },
+    "UN5GL1L2::kono-sono-ano": {
+      "lesson_file": "JPLessons/Udemy/N5/Gramatyka/UN5GL1L2.md",
+      "grammar_header": "この/その/あの (demonstrative adjectives)",
+      "last_reviewed": "2026-05-08",
+      "next_review": "2026-05-09",
+      "interval_days": 1,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 2,
+      "weak_points": [
+        "これ (pronoun) vs この (adjective modifies noun)"
+      ]
+    },
+    "UN5GL1L2::kore-sore-are": {
+      "lesson_file": "JPLessons/Udemy/N5/Gramatyka/UN5GL1L2.md",
+      "grammar_header": "これ/それ/あれ (demonstrative pronouns)",
+      "last_reviewed": "2026-05-08",
+      "next_review": "2026-05-09",
+      "interval_days": 1,
+      "ease": 2.65,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 4,
+      "weak_points": []
+    }
+  }
 }
