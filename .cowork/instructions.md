@@ -32,7 +32,7 @@ Every lesson file contains:
 - Never modify anything above Summary section
 - Never modify # Summary
 - Never modify or delete <!--ID: --> lines
-- Always create a .bak backup before modifying any file (no confirmation needed — backup is automatic)
+- Git is the rollback mechanism — no `.bak` files. Before a destructive edit, ensure pending changes are committed (commit a "WIP" snapshot if needed), then edit; commit the change separately.
 - When user references a lesson by number (e.g. "UNGL15"), find the file automatically
 
 ## fill workflow (fastest path)
