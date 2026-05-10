@@ -26,13 +26,20 @@ If user references a lesson by code only (e.g. `UN5GL14`), find the file under `
 ## Workflow
 
 1. **Find the lesson file** — by code or filename
-2. **Parse the 文法 section** — collect every grammar point (see **Parsing**)
-3. **Parse the Summary section** — collect vocabulary (Japanese word + translation pairs)
-4. **Load `.cowork/progress/grammar-state.json`** — if the file does not exist yet, treat state as empty. Pick up any prior `weak_points` for these grammar points so exercises can stress them.
-5. **Generate the exercise set** — one exercise per grammar point (see **Exercise generation**). If a grammar point has recorded weak_points, bias that exercise toward the weak aspect.
-6. **Run the session interactively** — present exercises one at a time. After each answer, grade it (see **Grading**), give brief feedback, ask the user to self-score 1–4 (fail / hard / good / easy). Accept the score, move to the next exercise.
-7. **After the last exercise** — write a summary of what went well and what needs more practice.
-8. **Persist results** — update `grammar-state.json` and append a session log (see **Persistence**).
+2. **Extract everything before `# Summary`** — never read the whole lesson file. The Summary section (~70% of the file) is generated Anki cards and not needed for practice. Run:
+
+   ```bash
+   awk '/^# Summary$/{exit} {print}' "$LESSON"
+   ```
+
+   Pass only this slice to all subsequent parsing.
+3. **Parse grammar topics** — from `# 文法` AND `# Vocabulary` sections (see **Parsing**)
+4. **Parse vocab pool** — from `#w`, `#wc`, `#wp` lines in `# ごい` AND `# ひょうげん` (see **Parsing**)
+5. **Load `.cowork/progress/grammar-state.json`** — if the file does not exist yet, treat state as empty. Pick up any prior `weak_points` for these grammar points so exercises can stress them.
+6. **Generate the exercise set** — one exercise per grammar point (see **Exercise generation**). If a grammar point has recorded weak_points, bias that exercise toward the weak aspect.
+7. **Run the session interactively** — present exercises one at a time. After each answer, grade it (see **Grading**), give brief feedback, ask the user to self-score 1–4 (fail / hard / good / easy). Accept the score, move to the next exercise.
+8. **After the last exercise** — write a summary of what went well and what needs more practice.
+9. **Persist results** — update `grammar-state.json` (see **Persistence**).
 
 No confirmation needed at any step — start practicing immediately after the user triggers the skill.
 
@@ -40,28 +47,38 @@ No confirmation needed at any step — start practicing immediately after the us
 
 ## Parsing
 
-### 文法 section
+### Grammar topics (`# 文法` and `# Vocabulary`)
 
-Find the line matching `^# 文法` (exact `#` level — the section heading). Collect content until the next `#` heading of the same level (e.g. `# Vocabulary`, `# Summary`).
+Both top-level sections contain grammar points to drill. `# 文法` is core grammar; `# Vocabulary` covers more complex sentence-construction patterns that don't fit a single `#w`/`#wc`/`#wp` line. Treat them the same way.
 
-Inside this section:
+For each section, find its `^# ` heading and collect content until the next `^# ` heading of the same level. Inside:
+
 - Every `## Heading` is a top-level grammar point — always include.
 - Every `### Heading` under a `##` that contains only `###` subpoints (no prose of its own) becomes a grammar point on its own. If the `##` has both prose and `###` children, include the `##` only (same rule as grammar-summary skill).
 - Preserve Japanese characters exactly.
 
-Build a list of `{grammar_header, body_text}` pairs. The body text (Structure blocks, examples under the heading) is what you use to generate exercises.
+Build a list of `{grammar_header, body_text, source_section}` triples. The body text (Structure blocks, examples) is what generates exercises.
 
-### Summary section
+### Vocab pool (`# ごい` and `# ひょうげん`)
 
-Find the line matching `^# Summary`. Below it, every non-verb/non-adjective card is shaped:
+Find both `^# ごい` and `^# ひょうげん`. Collect every `#w`, `#wc`, `#wp` line — these are the source vocabulary in the format defined by fill-templates:
 
 ```
-<translation>  #card
-Tłumaczenie: <Japanese>
-<!--ID: ...-->
+日本語（よみ）- translation #w
+日本語（よみ）- translation #wc
+日本語（よみ）- translation #wp
 ```
 
-Collect `{translation, japanese}` pairs from these cards — this is the vocabulary pool for exercises. Skip verb-conjugation cards (`ほんやく:` + `ます形:` etc.) and adjective cards (they have `過去形:`) — those are useful as reference but not as exercise fillers.
+Variants (same parsing rules as fill-templates):
+
+- `日本語 (よみ) - translation` — half-width parens.
+- `日本語 - translation` — no reading.
+- Double-Japanese (`#wc 伝える（つた）- 伝える（つたえる）- Polish`) — use the second Japanese form.
+- Strip `**` bold markers.
+
+For each line, build `{japanese, reading, translation, type}` where `type ∈ {word, verb, adjective}` from the `#w`/`#wc`/`#wp` tag. Verb conjugations and adjective forms aren't pre-stored — derive them from rules at exercise-generation time using your Japanese knowledge.
+
+All three types are first-class practice material — drill conjugations and form transformations, not just plain-word translation.
 
 ### Grammar point ID
 
@@ -80,7 +97,7 @@ For each grammar point, produce **one** exercise. Pick the type that best tests 
 - **Choose the correct form** — two or three candidate forms shown, user picks. Best for contrasts (Vない vs なくても, が vs で).
 - **Build from pieces** — scrambled words + particles, user assembles. Best for noun-modifying-verb patterns.
 
-**Vocabulary rule** — the content words in the exercise must come from the Summary pool first. Only reach for outside vocabulary if the Summary pool cannot express the grammar point. Any outside vocabulary must be strict N5 level.
+**Vocabulary rule** — content words in the exercise must come from the vocab pool (`# ごい` + `# ひょうげん`) first. Only reach for outside vocabulary if the pool cannot express the grammar point. Any outside vocabulary must be strict N5 level.
 
 **Weak-point bias** — if the state entry for this grammar point has `weak_points`, design the exercise so the answer requires getting that aspect right (e.g. if the weak point is "particle placement," the exercise must have the particle in the target answer).
 
@@ -201,9 +218,7 @@ Next review dates written to grammar-state.json.
 
 ## Persistence
 
-Two writes at the end of the session:
-
-### 1. Update `.cowork/progress/grammar-state.json`
+One write at the end of the session: update `.cowork/progress/grammar-state.json`.
 
 Read the file (create with `{"grammar_points": {}}` if missing). For each practiced grammar point:
 
@@ -245,43 +260,7 @@ Example entry shape:
 
 Keep JSON pretty-printed with 2-space indent so diffs are readable.
 
-### 2. Append session log
-
-Write `.cowork/progress/sessions/<YYYY-MM-DD>-<lesson-code>.md`. If a file for the same day + lesson already exists, append with a `---` separator and a new timestamp heading.
-
-```markdown
----
-date: 2026-04-21
-time: 19:32
-lesson: UN5GL14
-lesson_file: JPLessons/Udemy/N5/Gramatyka/UN5GL14.md
-total_exercises: 7
-average_score: 2.9
----
-
-## Results
-
-| Grammar point | Score | Weak points |
-|---|---|---|
-| Vないで ください | 4 | — |
-| Vない なくてもいいです | 3 | — |
-| Vplain + N | 2 | N が/の particle choice |
-| が (but / topic) | 2 | contrast vs topic use |
-| Subject + で + V | 4 | — |
-| N + だけ | 3 | — |
-| Counter 本 | 1 | sound changes (いっぽん, さんぼん) |
-
-## Transcript
-
-### Exercise 1 — Vないで ください
-Prompt: Translate to Japanese — "Please don't use a cellphone in the hospital."
-User:    病院で携帯電話を使わないでください
-Correct: 病院で携帯電話を使わないでください
-Result:  ✓ score 4
-
-### Exercise 2 — Vない なくてもいいです
-...
-```
+No transcript file is written — the state JSON is the only output of a session.
 
 ---
 
