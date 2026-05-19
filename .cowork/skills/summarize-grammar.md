@@ -33,10 +33,21 @@ If user references a lesson by code only, find the file under `JPLessons/Udemy/N
 3. **Parse `# 文法` and `# Vocabulary`** — collect every grammar point heading (see **Parsing**).
 4. **List existing topic files** — `ls /Gramatyka-Index/*.md` (excluding `_index.md`). This is the current taxonomy the LLM must respect.
 5. **Classify each grammar point** — pick which topic file(s) it belongs to. A point may go in multiple. Bias toward existing topic files; only create a new topic file when no existing one fits AND the new topic is specific and reusable across lessons.
-6. **Update topic files** — for each target topic file:
-   - **Exists**: append the new entry under `## Entries`, deduped (skip if the same `[[<lesson>#<header>]]` link is already present).
+6. **Update topic files** — classification is a judgment call made by Claude, not a script. Once the grouping is settled, use Python for the mechanical write. For each target topic file:
+   - **Exists**: insert all new entries for that file as a single batch, immediately before the `## See also` line (or at the end of `## Entries` if there is no `## See also`). Never use `cat >>` — it appends to end-of-file and breaks files that have `## See also`. Use a Python snippet like:
+     ```python
+     with open(path) as f: content = f.read()
+     block = "\n".join(new_entries)
+     if "## See also" in content:
+         content = content.replace("\n## See also", "\n" + block + "\n\n## See also", 1)
+     else:
+         content = content.rstrip() + "\n" + block + "\n"
+     with open(path, "w") as f: f.write(content)
+     ```
    - **New**: create from the topic file template below.
+   - Always deduplicate: skip any entry whose exact wikilink is already present in the file.
 7. **Update `_index.md`** — only if a new topic file was created during this run. Regenerate it from the current state of `/Gramatyka-Index/`.
+8. **Print coverage summary** — after all writes are done, output a markdown table listing every grammar point parsed from the lesson. See **Coverage summary** below.
 
 No confirmation needed at any step.
 
@@ -46,12 +57,17 @@ No confirmation needed at any step.
 
 Both `# 文法` and `# Vocabulary` contain grammar points. Parse them identically.
 
-Inside each section, find every `^## ` heading. These are the grammar points to index. For each one:
+Lesson files use inconsistent heading levels (some use `##`, some start at `###` or `####`). Apply the promotion rule recursively until you reach headings that have substantive content:
 
-- The heading text is the **point label** (preserve Japanese exactly — kanji, kana, spacing, punctuation).
+1. Start at `##`. If no `##` headings exist in the grammar section, drop to `###` as the primary level.
+2. **Promotion rule** — if a heading has *only* sub-headings with no prose of its own, replace it with those sub-headings. Apply this rule at every level (`##`→`###`, `###`→`####`), stopping when the heading has actual content (prose, examples, or structure notes).
+3. If a heading has both prose and sub-headings, index the heading itself (do not promote).
+4. **Skip vocabulary items** — if a `###`/`####` heading in a grammar section is clearly a vocabulary gloss rather than a grammar pattern (e.g. a single word with a translation, no structural rule), skip it.
+
+For each heading kept:
+
+- The heading text is the **point label** (preserve exactly — kanji, kana, spacing, punctuation, including any Polish or English words in the heading).
 - The wikilink target is `[[<lesson-code>#<exact heading text>]]`.
-
-If a `##` has only `###` subpoints with no prose of its own, promote the `###` headings to be the indexed points instead. If the `##` has both prose and `###` children, index the `##` only.
 
 ---
 
@@ -146,10 +162,36 @@ Format:
 
 ## Classification guidance
 
+Classification is Claude's judgment — never automate it. Read each grammar point's content before deciding.
+
 - **Bias toward existing topic files.** The list from step 4 is the current taxonomy.
 - **Multiple topics OK** if a point genuinely fits more than one (e.g., `から` fits both `particles-direction` and `reasons-causes`).
 - **Cap at 3 topics per point.** If more than 3 seem to fit, you're being too liberal — pick the strongest 3.
 - **New topic file only when**: no existing topic fits AND the new name is broad enough to attract future lessons (not a one-off).
+- **Present the classification plan to yourself first** — list every grammar point and its target file before writing anything. This catches misclassifications before they touch the index.
+
+---
+
+## Coverage summary
+
+After completing all file writes, print a table to the chat. One row per grammar point parsed from the lesson.
+
+Format:
+
+```
+| Topic | Topic file | Status |
+|---|---|---|
+| `### から` | reasons-causes | ✅ already indexed |
+| `## て-form` | verb-te-form | 🆕 new topic |
+| `### ので` | reasons-causes | ✅ added |
+```
+
+**Status values:**
+- `✅ already indexed` — the exact wikilink was already present in the topic file (dedup skipped it)
+- `✅ added` — entry was appended to an existing topic file
+- `🆕 new topic` — a new topic file was created for this entry
+
+If a grammar point was classified into multiple topic files, emit one row per topic file.
 
 ---
 

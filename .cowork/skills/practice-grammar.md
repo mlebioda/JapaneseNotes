@@ -103,6 +103,8 @@ For each grammar point, produce **one** exercise. Pick the type that best tests 
 
 **Variety** — across the session, rotate exercise types; avoid running five "translate to Japanese" in a row.
 
+**Avoid trivial fill-the-blank** — a fill-the-blank exercise is only valid if the blank forces the user to demonstrate the grammar point, not just recall a single obvious particle or word. If the answer could be guessed without knowing the grammar (e.g. filling in か when the surrounding sentence makes it the only possible word), switch to a translate-to-Japanese exercise instead. The rule: if a native speaker who has never seen this grammar point could still fill the blank correctly by elimination, the exercise is too obvious — replace it.
+
 ---
 
 ## Interaction flow

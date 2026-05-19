@@ -35,6 +35,25 @@ Every lesson file contains:
 - Git is the rollback mechanism — no `.bak` files. Before a destructive edit, ensure pending changes are committed (commit a "WIP" snapshot if needed), then edit; commit the change separately.
 - When user references a lesson by number (e.g. "UNGL15"), find the file automatically
 
+## Image extraction format
+When the user sends an image and asks to "extract", output vocabulary lines in this format:
+
+```
+#w japanese (reading1, reading2) - english
+#wc japanese (reading) - english
+#wp japanese (reading) - english
+```
+
+Rules:
+- #w — nouns, expressions, sentences, adverbs
+- #wc — verbs (G1/G2/G3)
+- #wp — adjectives (い-adj / な-adj)
+- Readings in parentheses are readings of kanji only, comma-separated, in order of appearance
+- Katakana-only words have no reading in parentheses
+- n./G3 entries (suru nouns) → use #w with (する) appended to the Japanese: e.g. `#w 入院(する) (にゅういん) - hospitalization / to be hospitalized + verb`
+- n./な-adj entries → use #wp
+- interj. / adv. with no kanji → use #w with no parentheses
+
 ## fill workflow (fastest path)
 Load the `.cowork/skills/fill-templates.md` skill and follow its instructions.
 Claude generates cards directly — no script execution needed.

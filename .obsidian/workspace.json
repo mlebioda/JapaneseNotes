@@ -54,9 +54,23 @@
               "icon": "lucide-file",
               "title": "KanjiList"
             }
+          },
+          {
+            "id": "407f28e8518ad1dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPLessons/Udemy/N5/Gramatyka/UN5GL6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UN5GL6"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 200
   },
   "right": {
     "id": "0ef8cb3241abc61c",
@@ -208,39 +222,40 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "6b0e6e3c3d0f7eb1",
+  "active": "65369b8f2d54319d",
   "lastOpenFiles": [
-    "Gramatyka-Index/_index.md",
+    "Gramatyka-Index/advice-suggestions.md",
+    "Gramatyka-Index/conjecture-appearance.md",
+    "JPLessons/Udemy/N5/Gramatyka/UN5GL3.md",
+    "Gramatyka-Index/potential-ability.md",
+    "Gramatyka-Index/requests-commands.md",
+    "Gramatyka-Index/reported-speech.md",
+    "Gramatyka-Index/opinion-expressions.md",
+    "Gramatyka-Index/comparisons.md",
+    "Gramatyka-Index/desires-wants.md",
+    "Gramatyka-Index/particle-omission.md",
+    "Gramatyka-Index/obligation-must.md",
+    "Gramatyka-Index/particles-made.md",
+    "Gramatyka-Index/giving-receiving.md",
+    "Gramatyka-Index/purpose-movement.md",
+    "Gramatyka-Index/ability-expressions.md",
+    "Gramatyka-Index/likes-dislikes.md",
+    "Gramatyka-Index/personal-pronouns.md",
+    "Gramatyka-Index/reasons-causes.md",
+    "Gramatyka-Index/adjectives-na.md",
+    "Gramatyka-Index/particles-wa-ga.md",
+    "Gramatyka-Index/conjunction-but.md",
+    "Gramatyka-Index/conjunction-and.md",
+    "Gramatyka-Index/adverbs.md",
+    "Gramatyka-Index/adjectives-i.md",
+    "Gramatyka-Index/verb-te-iru.md",
+    "Gramatyka-Index/permission.md",
+    "Pasted image 20260512170210.png",
     "Gramatyka-Index",
-    "JPLessons/Template/UdemyGrammar.md",
-    "JPLessons/Template/Gramatyka.md",
-    "ang.md",
-    "Todo/Todo.md",
-    "CLAUDE.md",
-    "Fourth_Valley_NTT.md",
-    "JPLessons/Udemy/N4/Gramatyka/UN4GL3.md",
-    "JPLessons/Udemy/N5/Gramatyka/UN5GL1L2.md",
     "JPLessons/Udemy/N4/Gramatyka/UN4GL3.md.bak",
-    "JPLessons/Udemy/N4/Gramatyka/UN4GL2.md",
-    "KanjiList.md",
     "JPLessons/Udemy/N4/Gramatyka/UN4GL2.md.bak",
-    "JPLessons/Udemy/N4/Gramatyka/UN4GL1.md",
-    "Vocabulary/Bank-vocabulary.md",
-    "JPLessons/Udemy/N5/Kaligrafia/UN5KL5.md",
-    "JPLessons/Udemy/N5/Kaligrafia/UN5KL1.md",
-    "JPLessons/Udemy/N5/Kaligrafia/UN5KL2.md",
-    "JPLessons/Udemy/N5/Kaligrafia/UNK5L7.md",
-    "JPLessons/Udemy/N5/Kaligrafia/UNK5L8.md",
-    "JPLessons/Udemy/N5/Kaligrafia/UNK5L9-Basic-Nouns.md",
-    "JPLessons/Udemy/N5/Kaligrafia/UN5KL6.md",
-    "JPLessons/Udemy/N5/Kaligrafia/UN5KL3.md",
-    "JPLessons/Udemy/N5/Kaligrafia/N5-Udemy-Caligraphy.md",
     "Pasted image 20260419151959.png",
-    "Kaligrafia/Primitives/央-center.md",
-    "Kaligrafia/Kanji/艹/艹-grass.md",
-    "Kaligrafia/Kanji/艹/英 - england,english, superior.md",
     "Pasted image 20260419151415.png",
-    "Kaligrafia/Kanji/方-direction.md",
     "Pasted image 20260419151055.png",
     "Pasted image 20260419150623.png",
     "Pasted image 20260419150000.png",
@@ -248,7 +263,6 @@
     "Pasted image 20260419144728.png",
     "Pasted image 20260419143903.png",
     "Pasted image 20260419140839.png",
-    "Pasted image 20260419140104.png",
     "Untitled 1.base",
     "Untitled.base",
     "JPLessons/Udemy/N4/Gramatyka/UN4GL1.md.bak",
