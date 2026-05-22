@@ -78,3 +78,4 @@ Skills are defined in .cowork/skills/ — load the relevant skill before acting.
 # Project rules
 - Never modify files in .cowork/ without permission. Always ask and explain what do you want to modify.
 - Never remove files without my permission
+- Don't use git commands without permission
