@@ -1,0 +1,45 @@
+title: Japanese Notes
+description: Personal Japanese study notes — JLPT grammar, vocabulary, and calligraphy
+baseurl: "/JapaneseNotes"
+url: "https://mlebioda.github.io"
+
+theme: minima
+
+# Navigation
+header_pages:
+  - index.md
+
+# Show excerpts on index
+show_excerpts: true
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Exclude everything except JPLessons and Gramatyka-Index
+exclude:
+  - .cowork/
+  - .obsidian/
+  - .git/
+  - .trash/
+  - .gitignore
+  - CLAUDE.md
+  - BanBanAkademi/
+  - Kaligrafia/
+  - StrefaKursow/
+  - Template/
+  - wyjazd/
+  - "*.png"
+  - "Pasted image*"
+  - Fourth_Valley_NTT.md
+  - KanjiList.md
+  - "JPLessons/Pasted image*"
+  - "JPLessons/**/*.png"
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+# Encoding
+encoding: utf-8
