@@ -48,14 +48,17 @@ If the file already has a `# Summary` line, replace everything from that line on
 
 ### Link under each header
 
-Immediately after each `## header` line, add a wikilink to the corresponding kanji file in `Kaligrafia/Kanji/`. Use the same naming rule as `update-kanji-list`: `[[Kanji-firstMeaningWord]]`.
+Immediately after each `## header` line, add a wikilink to the corresponding kanji file in `Kaligrafia/Kanji/`.
 
-Examples:
-- `## 電 - electricity・デン` → `[[電-electricity]]`
-- `## 方 - direction, way・かた、-がた・ホウ` → `[[方-direction]]`
-- `## 社 - company, shrine・シャ、-ジャ` → `[[社-company]]`
+**File names in `Kaligrafia/Kanji/` are not consistent and may be in subdirectories** — do not guess the name or path from a pattern. Instead, search recursively under `Kaligrafia/Kanji/` for any file whose name **starts with the kanji character** and use the exact filename (without `.md`) as the wikilink.
 
-Add the link even if the file doesn't exist yet — it will be created by the `update-kanji-list` skill.
+Use a recursive glob: `Kaligrafia/Kanji/**/漢*` — this matches both `Kaligrafia/Kanji/漢-china.md` and `Kaligrafia/Kanji/艹/漢-kanji,china.md`.
+
+The wikilink uses only the **filename** (no path): `[[漢-kanji,china]]`.
+
+Example lookup for 漢: search `Kaligrafia/Kanji/**/漢*` → result is `Kaligrafia/Kanji/艹/漢-kanji,china.md` → use `[[漢-kanji,china]]`.
+
+If no matching file exists, use `[[Kanji-firstMeaningWord]]` as a placeholder — it will be created by the `update-kanji-list` skill.
 
 ## Header format rules
 
@@ -88,7 +91,7 @@ Produce all kanji in the order they appear in the table.
 
 ```markdown
 ## 車 - car・くるま・シャ
-[[車-car]]
+[[車 - car]]          ← exact filename found in Kaligrafia/Kanji/
 
 (くるま)
 
@@ -97,14 +100,14 @@ Produce all kanji in the order they appear in the table.
 ---
 
 ## 電 - electricity・デン
-[[電-electricity]]
+[[電-electricity]]    ← exact filename found in Kaligrafia/Kanji/
 
 (デン)
 
 ---
 
 ## 何 - what・なに、なん
-[[何-what]]
+[[何-what]]           ← exact filename found in Kaligrafia/Kanji/
 
 (なに)
 
@@ -114,3 +117,5 @@ Produce all kanji in the order they appear in the table.
 
 # Summary
 ```
+
+Note: the wikilink format varies per file — always use the actual filename.

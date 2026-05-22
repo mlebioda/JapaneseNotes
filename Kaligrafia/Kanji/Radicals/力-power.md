@@ -1,4 +1,4 @@
-[[Kaligrafia-12-Research-2#力 - strength, power ちから・リョク、リキ]]
+[[Kaligrafia-12-Research-2#力 - strength, power・ちから・リョク、リキ]]
 
 [[男 - man]]
 [[強 - strong]]

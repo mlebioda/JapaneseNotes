@@ -1,7 +1,7 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL6-hospital
 
-## 病 - illness, disease やまい・ビョウ
-[[病 - illness]]
+## 病 - illness, disease・やまい・ビョウ
+[[病-illness]]
 ![[Pasted image 20250406124059.png]]
 疒 (sickness) + 丙 (third ranking, fire-like shape)
 A person in a SICKBED (疒) is burning with fever like FIRE (丙). They're clearly ILL (病)."
@@ -16,8 +16,8 @@ A person in a SICKBED (疒) is burning with fever like FIRE (丙). They're clear
  #w 妹さんはどんな病気ですか（いもうと、びょうき）- what kind of illness does your younger sister have?
 
 #w あの病院に入院しました（びょういん、にゅういん）- I was hospitalized at that hospital
-## 院 - temple, graduate school, institution イン
-[[院 - temple]]
+## 院 - temple, graduate school, institution・イン
+[[院-temple]]
 ![[Pasted image 20250406124956.png]]
 
 To get fully healed (完 = complete), go down the ROAD (⻌) to the medical INSTITUTION (院)."
@@ -30,8 +30,8 @@ To get fully healed (完 = complete), go down the ROAD (⻌) to the medical INST
 #w 姉は熱病で入院しました（あね、ねつびょう、にゅういん）- My elder sister was hospitalized for febrile disease
 #w ここは悪い病院じゃありませんよ（わる、びょういん）- This is not a bad hospital
 
-## 熱 - fever, heat あつ・ネツ
-[[熱 - fever]]
+## 熱 - fever, heat・あつ・ネツ
+[[熱-fever]]
 ![[Pasted image 20250406125459.png]]
 Soil with legs, soil 9 dot burn
 **(あつ)**
@@ -46,8 +46,8 @@ Soil with legs, soil 9 dot burn
 #w 昨日から熱があります（ねつ）- I have had a fever since yesterday
 #w 私は高熱で会社に行きません（こうねつ）- I won't go to work because of the high fever
 #w 弟は高熱です（おとうと、こうねつ）- My younger brother has a high fever
-## 通 - pass, to go, attend かよ、とお、ツウ
-[[通 - pass]]
+## 通 - pass, to go, attend・かよ、とお・ツウ
+[[通-pass]]
 ![[Pasted image 20250406130036.png]]
 "to pass  and **go through** by USING 用  A ROAD (⻌) 
 **(かよ)**
@@ -70,8 +70,8 @@ Soil with legs, soil 9 dot burn
 #w 毎日通院しています（つういん）- I go to the hospital every day
 
 
-## 体 - body からだ・タイ
-[[体 - body]]
+## 体 - body・からだ・タイ
+[[体-body]]
 ![[Pasted image 20250406163536.png]]
 "The BODY (体) is a PERSON (亻) and their BASE (本)."
 **(からだ)**
@@ -86,8 +86,8 @@ Soil with legs, soil 9 dot burn
 
 #w 兄の体力がすごくです（あに、たいりょく）- My elder brother's physical strength is amazing
 #w あの人は体育の先生です（たいいくraise）- that persion is a physical education teacher
-## 悪 - bad わる・アク
-[[悪 - bad]]
+## 悪 - bad・わる・アク
+[[悪-bad]]
 ![[Pasted image 20250406163822.png]]
 Asia . . . heart.
 **(わる)**
@@ -100,8 +100,8 @@ Asia . . . heart.
 #w 悪病（あくびょう）- bad disease
 
 #w あの人は悪人じゃありません（あくにん） - That men is not a bad person
-## 頭 - head あたま、かしら・ズ、トウ
-[[頭 - head]]
+## 頭 - head・あたま、かしら・ズ、トウ
+[[頭-head]]
 ![[Pasted image 20250406164143.png]]
 "A HEAD (頭) like a big shell (頁) filled with little BEANS (豆 = thoughts)."
 **(あたま)**
@@ -121,8 +121,8 @@ Asia . . . heart.
 #w 出頭（しゅっとう）- presence
 
 
-## 痛 - pain いた・ツウ
-[[痛 - pain]]
+## 痛 - pain・いた・ツウ
+[[痛-pain]]
 ![[Pasted image 20250406165346.png]]
 SICK (疒), USING PAIN (痛) 
 **(いた)**
@@ -139,8 +139,8 @@ SICK (疒), USING PAIN (痛)
 #w 痛快（つうかい）- enjoyable
 
 ---
-## 医 - medical イ
-[[医 - medical]]
+## 医 - medical・イ
+[[医-medical]]
 ![[Pasted image 20250409205212.png]]
 "A DOCTOR (医) pulls an ARROW (矢) out of a BOX (匚) — early surgery!"
 **(い)**
@@ -153,8 +153,8 @@ SICK (疒), USING PAIN (痛)
 #w 弟は医学を学んでいます（おとうと、いがく,ま）- My younger brother is studying medical science
 #w 父はこの医院に通っています（いいん、かよ）- My father (uczęszcza) goes to this clinic
 
-## 者 - person　もの・シャ
-[[者 - person]]
+## 者 - person・もの・シャ
+[[者-person]]
 ![[Pasted image 20250409205730.png]]
 A PERSON (者) of experience stands under the SUN (日), OLD (耂) and wise."
 **(もの)**
@@ -169,8 +169,8 @@ A PERSON (者) of experience stands under the SUN (日), OLD (耂) and wise."
 #w あの医院に医者が二人だけいます（いいん、いしゃ、ふたり）- There are only 2 doctors in that clinic
 
 
-## 室 - room シツ
-[[室 - room]]
+## 室 - room・シツ
+[[室-room]]
 
 ![[Pasted image 20250409210530.png]]
 Under a ROOF (宀), you can finally REACH (至) your ROOM (室)."
@@ -180,7 +180,8 @@ Under a ROOF (宀), you can finally REACH (至) your ROOM (室)."
 
 #w お兄さんは病室にいますよ（にい、びょうしつ）- Your elder brother is in the hospital room
 #w お父さんは病室にいますよ（とう、びょうしつ）- Father is in the hospital room
-## 元 - original, root もと・ゲン
+## 元 - original, root・もと・ゲン
+[[元-original]]
 ![[Pasted image 20250409210945.png]]
 "Two (二) LEGS (儿) walking back to the ORIGIN (元) of everything."
 **(もと)**
@@ -196,7 +197,7 @@ Under a ROOF (宀), you can finally REACH (至) your ROOM (室)."
 #w 母は入院していますが、元気です（はは、にゅういん）- My mother is hospitalized but she is doing fine
  
 
-
+# Summary
 
  Rzeczowniki:
 

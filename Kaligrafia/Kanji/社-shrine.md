@@ -12,3 +12,4 @@
 [[礻-świątynia]]
 [[土-ziemia]]
 
+[[Kaligrafia-1-Company#社 - shrine, company・やしろ・シャ]]

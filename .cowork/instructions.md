@@ -3,6 +3,13 @@
 ## Vault location
 /Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP/
 
+## Directory map
+- `JPLessons/` — all lesson files, organized by course then JLPT level
+- `Gramatyka-Index/` — cross-lesson grammar topic index; one file per topic (managed by summarize-grammar skill)
+- `Kaligrafia/` — standalone kanji reference notes: Kanji/, Radicals/, Primitives/ — NOT lesson files
+- `Vocabulary/` — standalone vocabulary lists by topic (not lesson files)
+- `BanBanAkademi/` — notes from BanBanAkademi course (separate from Udemy)
+
 ## Lesson file locations
 - Grammar: JPLessons/Udemy/NL/Gramatyka/UNGLX (where L = level, X = number)
 - Calligraphy: JPLessons/Udemy/NL/Kaligrafia/UNKLX
@@ -34,6 +41,7 @@ Every lesson file contains:
 - Never modify or delete <!--ID: --> lines
 - Git is the rollback mechanism — no `.bak` files. Before a destructive edit, ensure pending changes are committed (commit a "WIP" snapshot if needed), then edit; commit the change separately.
 - When user references a lesson by number (e.g. "UNGL15"), find the file automatically
+- Never create files directly in the vault root (`/ObsidianJP/`) unless explicitly asked
 
 ## Image extraction format
 When the user sends an image and asks to "extract", output vocabulary lines in this format:
@@ -66,3 +74,7 @@ Skills are defined in .cowork/skills/ — load the relevant skill before acting.
 - kanji-headers — format kanji tables from images into structured markdown headers
 - practice-grammar — interactive grammar drill for a lesson file; reads only `# 文法` + `# Vocabulary` (grammar topics) and `# ごい` + `# ひょうげん` (vocab pool). Writes results to `.cowork/progress/grammar-state.json` (SM-2 lite). Trigger: "let's practice <lesson>"
 - summarize-grammar — add a single lesson's grammar points to the topic-grouped index at `/Gramatyka-Index/`. One topic file per topic; entries are wikilinks (no copied text); a point may appear in multiple topics. Trigger: "summarize <lesson>"
+
+# Project rules
+- Never modify files in .cowork/ without permission. Always ask and explain what do you want to modify.
+- Never remove files without my permission

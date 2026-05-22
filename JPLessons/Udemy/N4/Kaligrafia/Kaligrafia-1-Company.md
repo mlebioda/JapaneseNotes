@@ -1,7 +1,8 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 
-## 会　meet あ・かい
-[[会　meet あ・かい]]
+## 会 - meet・あ・カイ
+[[会 - meet]]
+
 ![[Pasted image 20250223163057.png]]
 (あ)
 会う - to meet
@@ -14,8 +15,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 #w 国会 （こっかい）- congress/parliament
 #w あのビルが日本の国会ですか（こっかい）- Is that building for the Parlament of Japan?
 
-## 社 shrine, company やしろ・シャ
-[[社 shrine, company やしろ・シャ]]
+## 社 - shrine, company・やしろ・シャ
+[[社-shrine]]
+
 ![[Pasted image 20250223163915.png]]
 (やしろ)
 #w 社（やしろ）- shrine (old usage = jinja)
@@ -32,8 +34,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 
 
 #w デパート - department store
-## 員 member かず・イン
-[[員 member かず・イン]]
+## 員 - member・かず・イン
+[[員memberかず・イン]]
+
 ![[Pasted image 20250223164434.png]]
 (かず)
 員（かず）- only 
@@ -43,8 +46,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 #w 会社員（かいしゃいん）- company employee
 #w 社員会（しゃいんかい）- employe meeting
 #w 社員会は三時からです (しゃいんかい) - The employee meeting is from 3 o'clock
-## 曜 day of week ヨウ
-[[曜 day of week ヨウ]]
+## 曜 - day of week・ヨウ
+[[曜dayofweekヨウ]]
+
 
 ![[Pasted image 20250223164746.png]]
 (ヨウ)
@@ -54,8 +58,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 
 ---
 
-## 作 make, work つく・サ、サク
-[[作 make, work つく・サ、サク]]
+## 作 - make, work・つく・サ、サク
+[[作make,workつく・サ、サク]]
+
 
 ![[Pasted image 20250224194550.png]]
 
@@ -69,8 +74,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 (さく)
 #w 作品（さくひん）- piece of work (completed creative work, book)
 
-## 業 work, industry  わざ・ギョウ、ゴウ
-[[業 work, industry  わざ・ギョウ、ゴウ]]
+## 業 - work, industry・わざ・ギョウ、ゴウ
+[[業work,industryわざ・ギョウ、ゴウ]]
+
 
 ![[Pasted image 20250224195145.png]]
 
@@ -83,8 +89,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 #w 作業はまだ終わりませんか - Is the work still not finished?
 
 (ごう) - advanced
-## 始 begin はじ・シ
-[[始 begin はじ・シ]]
+## 始 - begin・はじ・シ
+[[始beginはじ・シ]]
+
 ![[Pasted image 20250224200545.png]]
 (はじ)
 #wc 始める（はじ）- to start (I start something)
@@ -97,8 +104,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 (し)
 #w 始業時間（しぎょうじかん）-  starting time for work, czas rozpoczęcia pracy/szkoły
 #w 私の会社の始業時間は午前九時です（しぎょうじかん）- my company's starting time is 9Am
-## 終 - finish  お・シユウ
-[[終 - finish  お・シユウ]]
+## 終 - finish・お・シュウ
+[[終-finishお・シユウ]]
+
 ![[Pasted image 20250224201551.png]]
 
 (お)
@@ -117,8 +125,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 
 ---
 
-## 建 build た・ケン
-[[Kaligrafia-1-Company]]
+## 建 - build・た・ケン
+[[建-build]]
+
 ![[Pasted image 20250225191455.png]]
 （た）
  #wc 建てる（た）- build
@@ -131,8 +140,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 (ケン)
 #w 建築（けんちく）- architecture
 
-## 物 thing もの・ブツ、モツ
-[[物 - thing]]
+## 物 - thing・もの・ブツ、モツ
+[[物-thing]]
+
 ![[Pasted image 20250225191933.png]]
 (もの)
 #w 物語（ものがたり）- story
@@ -147,8 +157,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 #w 書物（しょもつ）- book
 
 
-## 工 workman, skill たくみ・コウ、ク
-[[工 - workman]]
+## 工 - workman, skill・たくみ・コウ、ク
+[[工-workman]]
+
 
 ![[Pasted image 20250225192431.png]]
 
@@ -165,8 +176,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 #w 大工（だいく）- carpenter/stolarz
 #w あの人は大工です(だいく) - tamten człowiek jest stolarzem
 
-## 場　place ば・ジョウ
-[[場 - place]]
+## 場 - place・ば・ジョウ
+[[場-place]]
+
 ![[Pasted image 20250225192903.png]]
 (ば)
 #w 本場（ほんば）- the best place for....
@@ -177,9 +189,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 #w パーテイーの会場はここですか（かいじょう）- Is the party venue here?
 
 
- --- 
-
-
+# Summary
 
  Rzeczowniki:
 

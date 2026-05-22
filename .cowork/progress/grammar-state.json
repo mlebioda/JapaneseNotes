@@ -104,6 +104,225 @@
       "total_reviews": 1,
       "last_score": 4,
       "weak_points": []
+    },
+    "UN4GL5::ikoukei-group-1": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "いこうけい Group 1",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 2,
+      "weak_points": []
+    },
+    "UN4GL5::ikoukei-group-2": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "いこうけい Group 2",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 2,
+      "weak_points": []
+    },
+    "UN4GL5::ikoukei-group-3": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "いこうけい Group 3",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 2,
+      "weak_points": []
+    },
+    "UN4GL5::volitional-to-omotteimasu": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "Volitional form + と思っています",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 2,
+      "weak_points": [
+        "入学式 vs 卒業式 vocabulary confusion"
+      ]
+    },
+    "UN4GL5::tara-verb": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "たら (Vた form)",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 3,
+      "weak_points": []
+    },
+    "UN4GL5::tara-i-adj": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "たら (いadj)",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 3,
+      "weak_points": [
+        "いadj + たら conjugation (高いたら → 高かったら)"
+      ]
+    },
+    "UN4GL5::tara-na-adj-n": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "たら (なadj / N)",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 3,
+      "weak_points": []
+    },
+    "UN4GL5::tara-iidesu-interrogative": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "Interrogative V「た」ら + いいですか",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 2,
+      "weak_points": [
+        "particle に after 何線 (何線に乗ったら)"
+      ]
+    },
+    "UN4GL5::tsumori-affirmative": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "V「plain」つもりです (affirmative)",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 3,
+      "weak_points": [
+        "particle を with suru verb (地理を研究する)",
+        "extra に after 今から"
+      ]
+    },
+    "UN4GL5::tsumori-negative": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "V「plain」つもりです (Vない form)",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 3,
+      "weak_points": []
+    },
+    "UN4GL5::yotei-noun": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "予定です (N + の + 予定です)",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 3,
+      "weak_points": []
+    },
+    "UN4GL5::yotei-verb": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "予定です (V plain + 予定です)",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 3,
+      "weak_points": []
+    },
+    "UN4GL5::distinguish-omotte-tsumori-yotei": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "Distinguish: と思っています vs つもりです vs 予定です",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.3,
+      "streak": 0,
+      "total_reviews": 1,
+      "last_score": 1,
+      "weak_points": [
+        "つもりです vs 予定です (already-booked/fixed plan = 予定です)"
+      ]
+    },
+    "UN4GL5::joshi-mo-listing": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "助詞＋も (listing / even on)",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 3,
+      "weak_points": []
+    },
+    "UN4GL5::joshi-mo-unexpected": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "助詞＋も (emphasizing unexpected)",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 3,
+      "weak_points": [
+        "は vs が for unexpected emphasis (surprising subject = が)"
+      ]
+    },
+    "UN4GL5::joshi-mo-total-denial": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "助詞＋も (interrogative — total denial)",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 2,
+      "weak_points": [
+        "どこへも + negative verb (total denial pattern)"
+      ]
+    },
+    "UN4GL5::yasui-nikui": {
+      "lesson_file": "JPLessons/Udemy/N4/Gramatyka/UN4GL5.md",
+      "grammar_header": "V「ます形」やすいです・にくいです",
+      "last_reviewed": "2026-05-21",
+      "next_review": "2026-05-22",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "last_score": 3,
+      "weak_points": []
     }
   }
 }

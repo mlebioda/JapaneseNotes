@@ -189,7 +189,7 @@ Structure:
 	- 何
 - Comparsion
 	- 奈良はどんなところ**か**、知っていますか。(なら, し) Czy wiesz, **jakim miejscem** jest Nara?
-	- 奈良はどんなところ**か*、知っていますか。(なら, し) Czy wiesz, **jakie miejsce** Nara?
+	- 奈良はどんなところ**か**、知っていますか。(なら, し) Czy wiesz, **jakie miejsce** Nara?
 
 
 
@@ -403,9 +403,10 @@ Structure:
 #w ずっと前 (まえ) - long ago
 #w ずっと前、彼女に会いました (まえ) - I met her a long time ago
 
-#w ランさんの日本語は、スミスさんよりずっと上手です（じょうず）- Lan's japanese is much better than MR smith
+#w ランさんの日本語は、スミスさんよりずっと上手です（じょうず）- Lan's Japanese is much better than MR smith
 
 ---
+
 
 
 # Summary
@@ -413,606 +414,34 @@ Structure:
  ---
 
 
- Rzeczowniki:
-
 would you like to go to the hospital to visit mr sato on sunday? #k #card
-日曜日、さとうくんの お見舞いに 行くんだけど、いっしょうに行かない?
-<!--ID: 1779140283134-->
+日曜日、さとうくんの お見舞いに 行くんだけど、いっしょうに行かない?（みま)
+<!--ID: 1779254557645-->
+
 
 
 Being able to express your opinions and give advice to others. #k #card
-自分の意見を伝えることと　アドバイスをすることができる
-<!--ID: 1779140283136-->
+自分の意見を伝えることと　アドバイスをすることができる (じぶん, いけん, つた)
+<!--ID: 1779254557646-->
+
 
 
 Being able to tell somebody something you heard from other people. #k #card
-自分が聞いた話を他人に伝達できる
-<!--ID: 1779140283137-->
+自分が聞いた話を他人に伝達できる (じぶん, き, はなし, たにん, でんたつ)
+<!--ID: 1779254557647-->
+
 
 
 hospitalization / to be hospitalized + verb #k #card
-入院(する)
-<!--ID: 1779140283138-->
+入院(する) (にゅういん)
+<!--ID: 1779254557648-->
+
 
 
 leaving hospital / to leave the hospital + verb #k #card
-退院(する)
-<!--ID: 1779140283139-->
+退院(する) (たいいん)
+<!--ID: 1779254557649-->
 
-
-accident #k #card
-事故
-<!--ID: 1779140283140-->
-
-
-to encounter earthquake #k #card
-地震に遭う
-<!--ID: 1779140283141-->
-
-
-to encounter fire #k #card
-家事に遭う
-<!--ID: 1779140283142-->
-
-
-traffic accident #k #card
-交通事故
-<!--ID: 1779140283143-->
-
-
-to cause traffic accident #k #card
-事故を起こす
-<!--ID: 1779140283144-->
-
-
-to encounter accident #k #card
-事故に遭う
-<!--ID: 1779140283145-->
-
-
-visiting someone who is sick + particle #k #card
-(の)お見舞い
-<!--ID: 1779140283146-->
-
-
-go to visit someone (who is sick) #k #card
-お見舞いに行く
-<!--ID: 1779140283147-->
-
-
-i went to visit him in the hospital #k #card
-私は彼のお見舞いに行った
-<!--ID: 1779140283148-->
-
-
-tooth #card
-歯
-<!--ID: 1779140283149-->
-
-
-dentist #k #card
-歯医者
-<!--ID: 1779140283150-->
-
-
-to cure cold #k #card
-風邪を治す
-<!--ID: 1779140283151-->
-
-
-to fix the broken tv #card
-こわれたテレビを直す
-<!--ID: 1779140283152-->
-
-
-to cheer up (fix mood) #k #card
-気分を直す
-<!--ID: 1779140283153-->
-
-
-terrible cold #k #card
-ひどい風邪
-<!--ID: 1779140283154-->
-
-
-terrible cooking #k #card
-ひどい料理
-<!--ID: 1779140283155-->
-
-
-extremely 2x #card
-ひどく, ひじょうに
-<!--ID: 1779140283156-->
-
-
-common people #k #card
-普通の人
-<!--ID: 1779140283157-->
-
-
-common car #k #card
-普通の車
-<!--ID: 1779140283158-->
-
-
-This computer looks very old but can be used normally (adv) #k #card
-このパソコンは古そうに見えますが、普通に使えます
-<!--ID: 1779140283159-->
-
-
-rest / holiday #k #card
-休み
-<!--ID: 1779140283160-->
-
-
-bed #card
-ベッド
-<!--ID: 1779140283161-->
-
-
-floor #card
-床
-<!--ID: 1779140283162-->
-
-
-novel #k #card
-小説
-<!--ID: 1779140283163-->
-
-
-thing left behind #k #card
-忘れ物
-<!--ID: 1779140283164-->
-
-
-hiking #card
-ハイキング
-<!--ID: 1779140283165-->
-
-
-Nara prefecture #card
-奈良
-<!--ID: 1779140283166-->
-
-
-map #k #card
-地図
-<!--ID: 1779140283167-->
-
-
-a little while ago (+ tense) #card
-さっき
-<!--ID: 1779140283168-->
-
-
-A: Where is Kim? B: Kim went back a little while ago #k #card
-キムさんはどこにいますか？B：キムさんなら、さっき帰りました
-<!--ID: 1779140283169-->
-
-
-fever (symptom) #k #card
-熱
-<!--ID: 1779140283170-->
-
-
-to have fever #k #card
-熱がある
-<!--ID: 1779140283171-->
-
-
-fever goes down #k #card
-熱が下がる
-<!--ID: 1779140283172-->
-
-
-throat #card
-喉
-<!--ID: 1779140283173-->
-
-
-to be thirsty (full) #card
-喉が乾く
-<!--ID: 1779140283174-->
-
-
-to be hungry (full) #k #card
-お腹が空いた
-<!--ID: 1779140283175-->
-
-
-evening #k #card
-夕方
-<!--ID: 1779140283176-->
-
-
-supper #k #card
-夕飯
-<!--ID: 1779140283177-->
-
-
-tomorrow (more common in writing) #k #card
-明日
-<!--ID: 1779140283178-->
-
-
-prohibition / to prohibit + verb with particle #card
-禁止(を+ する)
-<!--ID: 1779140283179-->
-
-
-parking prohibited #k #card
-駐車禁止
-<!--ID: 1779140283180-->
-
-
-no photography #card
-さつえい禁止
-<!--ID: 1779140283181-->
-
-
-photography #card
-さつえい
-<!--ID: 1779140283182-->
-
-
-factory #k #card
-工場
-<!--ID: 1779140283183-->
-
-
-get lost (phrase) #k #card
-道に迷う
-<!--ID: 1779140283184-->
-
-
-I can't decide whether or not to go for a walk #k #card
-散歩に行くかどうか迷います
-<!--ID: 1779140283185-->
-
-
-part-time job / to do a part-time job + verb #card
-アルバイト(する)
-<!--ID: 1779140283186-->
-
-
-an employee #k #card
-社員
-<!--ID: 1779140283187-->
-
-
-meal + verb #k #card
-食事(をする)
-<!--ID: 1779140283188-->
-
-
-earthquake #k #card
-地震
-<!--ID: 1779140283189-->
-
-
-typhoon #k #card
-台風
-<!--ID: 1779140283190-->
-
-
-a fire #k #card
-火事
-<!--ID: 1779140283191-->
-
-
-fire #k #card
-火
-<!--ID: 1779140283192-->
-
-
-math #k #card
-数学
-<!--ID: 1779140283193-->
-
-
-examination #k #card
-試験
-<!--ID: 1779140283194-->
-
-
-life / to live + verb #k #card
-生活(する)
-<!--ID: 1779140283195-->
-
-
-Ah! / Oh! #card
-ああ
-<!--ID: 1779140283196-->
-
-
-danger / risk #card
-危険
-<!--ID: 1779140283197-->
-
-
-to take test #k #card
-試験を受ける
-<!--ID: 1779140283198-->
-
-
-to take a Japanese class #k #card
-日本の授業を受ける
-<!--ID: 1779140283199-->
-
-
-to catch ball #card
-ボールを受ける
-<!--ID: 1779140283200-->
-
-
-traffic #k #card
-交通
-<!--ID: 1779140283201-->
-
-
-Besides / Moreover #card
-それに
-<!--ID: 1779140283202-->
-
-
-It is good weather, and besides it is a day off. Let's go hiking. #k #card
-天気がいいし、それに、休みだし、ハイキングに行きましょう。
-<!--ID: 1779140283203-->
-
-
-I injured my foot. (express sadness, casual,noncasual way) #k #card
-足を怪我しちゃって・してしまって…
-<!--ID: 1779140283204-->
-
-
-Sorry, i forgot (express sadness, casual,non casual) #card
-忘れちゃった/忘れてしまった
-<!--ID: 1779140283205-->
-
-
-Moreover, He doesn't like flowers very much. #k #card
-それに、彼は花があまり好きじゃ…
-<!--ID: 1779140283206-->
-
-
-Do you remember when the concert will begin? #k #card
-コンサートは何時に始まる**か**、覚えていますか。
-<!--ID: 1779140283207-->
-
-
-I asked what would be a good present. #k #card
-プレゼントは何がいい**か**、聞きました。
-<!--ID: 1779140283208-->
-
-
-I want to know why that movie is so popular. #k #card
-あの映画がどうしてこんなに人気**か**、知りたいです。
-<!--ID: 1779140283209-->
-
-
-Do you know what kind of place Nara is? #k #card
-奈良はどんなところ**か**、知っていますか。
-<!--ID: 1779140283210-->
-
-
-everyone said that Satou kun is a good person #k #card
-みんなは　さとうくんが いい人だと言っていました
-<!--ID: 1779140283211-->
-
-
-The company president said that tomorrow's meeting is cancelled. #k #card
-社長は明日のミーティングがなくなると言っていました。
-<!--ID: 1779140283212-->
-
-
-The weather forecast said it will be good weather tomorrow. #k #card
-天気予報では明日天気がいいと言っていました。
-<!--ID: 1779140283213-->
-
-
-The manager said that Mr. Sato is very hard working. #k #card
-部長は佐藤くんが真面目だと言っていました。
-<!--ID: 1779140283214-->
-
-
-Miss Wang said tomorrow is a day off. #k #card
-ワンさんは明日は休みだと言っていました。
-<!--ID: 1779140283215-->
-
-
-Mr. Yamada said he would be a little late to the party. #k #card
-山田さんはパーティーにちょっと遅れるって(言っていました)。
-<!--ID: 1779140283216-->
-
-
-Mr. Smith said(short version) that he really likes Japanese cherry blossoms. #k #card
-スミスさんは日本の桜が大好きだって。
-<!--ID: 1779140283217-->
-
-
-The weather forecast said there will be a typhoon tomorrow. #k #card
-天気予報では、明日は台風だって(言っていた)よ。
-<!--ID: 1779140283218-->
-
-
-Don't you think the fruit is better? #k #card
-果物のほうがいいんじゃない？
-<!--ID: 1779140283219-->
-
-
-A: Won't Mr. Tanaka come today? B: Mr. Tanaka has been to Osaka for business, hasn't he? #k #card
-A: 田中さんは今日来ないのですか。B: 田中さんは大阪に出張に行ったんじゃない？
-<!--ID: 1779140283220-->
-
-
-The rooms are big and the meals are delicious so I think Japan Hotel is a good hotel #k #card
-ジャパんホテルは部屋が広い**し**、食事も美味しい**し**、良いホテルだと思います
-<!--ID: 1779140283221-->
-
-
-A: Mr. Sato, how is your cold? B: My fever is gone, and I don't have a sore throat any more, so I am fine. #k #card
-A: 佐藤くん、風邪は大丈夫ですか。B: 熱はもう下がった**し**、のども痛くない**し**、大丈夫です。
-<!--ID: 1779140283222-->
-
-
-These shoes color look nice and the size is just right, so I will buy them. #k #card
-この靴、色もきれいだ**し**、サイズもちょうどいい**し**、これにします。
-<!--ID: 1779140283223-->
-
-
-My house is far from the station and the room is small, so i think i want to move #k #card
-うちは駅から遠い**し**、部屋もせまい**し**、ひっこしをしたいと思っています
-<!--ID: 1779140283224-->
-
-
-Tomorrow is a math test, and I am not good at math, so I will do preparation for test at home. #k #card
-明日数学のテストだし、わたしは数学が苦手だし、今日は家で復習します。
-<!--ID: 1779140283225-->
-
-
-Mr. Sato injured his foot, so he can't move that much. #k #card
-佐藤くんは足をけがした**し**、あまり動けないよね。
-<!--ID: 1779140283226-->
-
-
-Sorry, I can't go to the drinking party today. I have work to do... #k #card
-ごめん、今日飲み会に行けないわ。これから、仕事もある**し**…。
-<!--ID: 1779140283227-->
-
-
-I ate the entire cake Minori gave me (complete action) (formal and not formal) #k #card
-みのりちゃんからもらったケーキを全部食べて**しまいました・ちゃいます**
-<!--ID: 1779140283228-->
-
-
-Because the boxed lunch in that supermarket is cheap, so it was sold out immediately. (formal and not formal) #k #card
-あのスーパーの弁当は安いので、すぐに全部売れて**しまいました・ちゃいました**。
-<!--ID: 1779140283229-->
-
-
-I was thirsty, so I drank all the water. (formal and not formal) #k #card
-のどがかわいたので、水を全部飲んで**しまいました・ちゃいました**。
-<!--ID: 1779140283230-->
-
-
-Oh no, the vase is broken (express feeling of regret or being troubled) (formal and not formal) #k #card
-ああ、花瓶が割れて**しまいました・ちゃいました**
-<!--ID: 1779140283231-->
-
-
-I left my wallet in my room. (forgot, express regret) (formal and not formal) #k #card
-さいふを部屋に忘れ**てしまった・ちゃった**。
-<!--ID: 1779140283232-->
-
-
-A: Why do you look so down? B: I caught a cold.(express regret, explain) (formal and not formal) #k #card
-A: どうして、元気がないの？B: 風邪をひいて**しまったんです・ちゃいます**。
-<!--ID: 1779140283233-->
-
-
-I got lost and was late. Sorry. (express regret) (formal and not formal) #k #card
-道に迷って**しまって・ちゃって**、遅れました。すみません。
-<!--ID: 1779140283234-->
-
-
-The weather forecast said it would rain. You'd better take your umbrella to go outside. #k #card
-天気予報では雨が降ると言っていたよ。かさを持って行ったほうがいいよ。
-<!--ID: 1779140283235-->
-
-
-You'd better wrap the glass in newspaper so that it won't break. #k #card
-ガラスは割れないように新聞紙で包んだほうがいいと思います。
-<!--ID: 1779140283236-->
-
-
-A typhoon will come tomorrow, so you'd better not go outside. #k #card
-明日台風が来るから、出かけないほうがいいですよ。
-<!--ID: 1779140283237-->
-
-
-It seems that it will rain tomorrow. #k #card
-明日は雨でしょう。
-<!--ID: 1779140283238-->
-
-
-It seems that Mr. Yamada likes karaoke. #k #card
-山田くんはカラオケが好きでしょう。
-<!--ID: 1779140283239-->
-
-
-It seems that this bag is expensive. #k #card
-このかばん、高いでしょう。
-<!--ID: 1779140283240-->
-
-
-You worked from morning to night, so you must be very tired, mustn't you? #k #card
-あなた朝から晩までずっと働いて、疲れたでしょう。
-<!--ID: 1779140283241-->
-
-
-This is yours, right? #card
-これはあなたのものでしょう。
-<!--ID: 1779140283242-->
-
-
-A: Is this your luggage, Sir? B: Yes, it is #k #card
-A: こちらはお客様のお荷物でしょうか B: ええ、そうです
-<!--ID: 1779140283243-->
-
-
-My company might establish a factory in India next year. #k #card
-来年私の会社はインドで工場を作るかもしれません。
-<!--ID: 1779140283244-->
-
-
-I may not catch the train. #k #card
-電車に間に合わないかもしれません。
-<!--ID: 1779140283245-->
-
-
-This might be Mr. Yamada's book. #k #card
-これは山田さんの本かもしれません。
-<!--ID: 1779140283246-->
-
-
-continuous / far / all the time #card
-ずっと
-<!--ID: 1779140283247-->
-
-
-You can see a conbini store if you continue down this street #k #card
-この道を**ずっと**行くと、コンビニが 見えます
-<!--ID: 1779140283248-->
-
-
-I've been doing work since 10:00 #k #card
-10時からずっと仕事です
-<!--ID: 1779140283249-->
-
-
-I'm waiting a while (long time) #k #card
-ずっと待っているよ
-<!--ID: 1779140283250-->
-
-
-I haven't meet Mr Tanaka for a long time #k #card
-田中さんとずっと会っていません
-<!--ID: 1779140283251-->
-
-
-long ago #k #card
-ずっと前
-<!--ID: 1779140283252-->
-
-
-I met her a long time ago #k #card
-ずっと前、彼女に会いました
-<!--ID: 1779140283253-->
-
-
-Lan's japanese is much better than MR smith #k #card
-ランさんの日本語は、スミスさんよりずっと上手です
-<!--ID: 1779140283254-->
 
 
 to break / to crack / to split #card
@@ -1029,11 +458,19 @@ to break / to crack / to split #card
 尊敬語 (honorific): 割れられる
 お〜になる (honorific): お割れになる
 そう (looks like): 割れそう
-<!--ID: 1779140283255-->
+意志形 (let\'s): 割れよう
+<!--ID: 1779254557650-->
+
+
+
+accident #k #card
+事故 (じこ)
+<!--ID: 1779254557651-->
+
 
 
 to cause + particle #k #card
-ほんやく: 起こす
+ほんやく: (を)起こす (おこ)
 ます形: 起こします
 て形: 起こして
 た形: 起こした
@@ -1046,11 +483,13 @@ to cause + particle #k #card
 尊敬語 (honorific): 起こされる
 お〜になる (honorific): お起こしになる
 そう (looks like): 起こしそう
-<!--ID: 1779140283256-->
+意志形 (let\'s): 起こそう
+<!--ID: 1779254557652-->
+
 
 
 to encounter a traumatic accident #card
-ほんやく: 遭う
+ほんやく: (に)遭う (あ)
 ます形: 遭います
 て形: 遭って
 た形: 遭った
@@ -1063,11 +502,73 @@ to encounter a traumatic accident #card
 尊敬語 (honorific): 遭われる
 お〜になる (honorific): お遭いになる
 そう (looks like): 遭いそう
-<!--ID: 1779140283257-->
+意志形 (let\'s): 遭おう
+<!--ID: 1779254557653-->
+
+
+
+to encounter earthqueke #k #card
+地震に遭う（じしん、あう)
+<!--ID: 1779254557654-->
+
+
+
+to encounter fire #k #card
+家事に遭う（かじ、あう)
+<!--ID: 1779254557655-->
+
+
+
+traffic accident #k #card
+交通事故（こうつうじこ）
+<!--ID: 1779254557656-->
+
+
+
+to cause traffic accident #k #card
+事故を起こす（じこ、お)
+<!--ID: 1779254557657-->
+
+
+
+to encounter accident #k #card
+事故に遭う（じこ、あう)
+<!--ID: 1779254557658-->
+
+
+
+visiting someone who is sick + particle #k #card
+(の)お見舞い (みまい)
+<!--ID: 1779254557659-->
+
+
+
+go to visit someone (who is sick) #k #card
+お見舞いに行く（みま）
+<!--ID: 1779254557660-->
+
+
+
+i went to visit him in the hospital #k #card
+私は彼のお見舞いに行った（みま）
+<!--ID: 1779254557661-->
+
+
+
+tooth #card
+歯 (は)
+<!--ID: 1779254557662-->
+
+
+
+dentist #k #card
+歯医者 (はいしゃ)
+<!--ID: 1779254557663-->
+
 
 
 to heal / to cure #card
-ほんやく: 治す
+ほんやく: (を)治す (なお)
 ます形: 治します
 て形: 治して
 た形: 治した
@@ -1080,11 +581,19 @@ to heal / to cure #card
 尊敬語 (honorific): 治される
 お〜になる (honorific): お治しになる
 そう (looks like): 治しそう
-<!--ID: 1779140283258-->
+意志形 (let\'s): 治そう
+<!--ID: 1779254557664-->
 
 
-to repair / to mend / to correct #card
-ほんやく: 直す
+
+to cure cold #k #card
+風邪を治す（かぜ,なお）
+<!--ID: 1779254557665-->
+
+
+
+to repair / to mend / to correct (restore something damaged to a good condition) #card
+ほんやく: (を）直す (なお)
 ます形: 直します
 て形: 直して
 た形: 直した
@@ -1097,11 +606,91 @@ to repair / to mend / to correct #card
 尊敬語 (honorific): 直される
 お〜になる (honorific): お直しになる
 そう (looks like): 直しそう
-<!--ID: 1779140283259-->
+意志形 (let\'s): 直そう
+<!--ID: 1779254557666-->
+
+
+
+to fix the broken tv #card
+こわれたテレビを直す（なお）
+<!--ID: 1779254557667-->
+
+
+
+to cheer up (fix mood) #k #card
+気分を直す（きぶん、なお)
+<!--ID: 1779254557668-->
+
+
+
+terrible / awful / cruel #card
+ほんやく: ひどい
+過去形: ひどかった
+否定形: ひどくない
+副詞形: ひどく
+そう: ひどそう
+<!--ID: 1779254557669-->
+
+
+
+terrible cold #k #card
+ひどい風邪（かぜ)
+<!--ID: 1779254557670-->
+
+
+
+terrible cooking #k #card
+ひどい料理（りょうり）
+<!--ID: 1779254557671-->
+
+
+
+extremely 2x #card
+ひどく, ひじょうに
+<!--ID: 1779254557672-->
+
+
+
+common / ordinary + structure #k #card
+ほんやく: 普通 (+の+N) (ふつう)
+過去形: —
+否定形: —
+副詞形: —
+そう: 普通そう
+<!--ID: 1779254557673-->
+
+
+
+common people #k #card
+普通の人（ふつう、ひと)
+<!--ID: 1779254557674-->
+
+
+
+common car #k #card
+普通の車（ふつう、くるま)
+<!--ID: 1779254557675-->
+
+
+
+This computer looks very old but can be used normally (adv) #k #card
+このパソコンは古そうに見えますが、普通に使えます（フル、み、ふつう、つか)
+<!--ID: 1779254557676-->
+
+
+
+inconvenience / inconvenient #k #card
+ほんやく: 不便 (ふべん)
+過去形: —
+否定形: —
+副詞形: —
+そう: 不便そう
+<!--ID: 1779254557677-->
+
 
 
 to move / to shake #k #card
-ほんやく: 動く
+ほんやく: 動く (うご)
 ます形: 動きます
 て形: 動いて
 た形: 動いた
@@ -1114,11 +703,13 @@ to move / to shake #k #card
 尊敬語 (honorific): 動かれる
 お〜になる (honorific): お動きになる
 そう (looks like): 動きそう
-<!--ID: 1779140283260-->
+意志形 (let\'s): 動こう
+<!--ID: 1779254557678-->
+
 
 
 to stop #card
-ほんやく: 止める
+ほんやく: 止める (と)
 ます形: 止めます
 て形: 止めて
 た形: 止めた
@@ -1131,11 +722,93 @@ to stop #card
 尊敬語 (honorific): 止められる
 お〜になる (honorific): お止めになる
 そう (looks like): 止めそう
-<!--ID: 1779140283261-->
+意志形 (let\'s): 止めよう
+<!--ID: 1779254557679-->
+
+
+
+rest / holiday #k #card
+休み (やすみ)
+<!--ID: 1779254557680-->
+
+
+
+weak #k #card
+ほんやく: 苦手 (にがて)
+過去形: —
+否定形: —
+副詞形: —
+そう: 苦手そう
+<!--ID: 1779254557681-->
+
+
+
+bed #card
+ベッド
+<!--ID: 1779254557682-->
+
+
+
+floor #card
+床 (ゆか)
+<!--ID: 1779254557683-->
+
+
+
+boring #card
+ほんやく: つまらない
+過去形: つまらなかった
+否定形: つまらなくない
+副詞形: つまらなく
+そう: つまらなさそう
+<!--ID: 1779254557684-->
+
+
+
+novel #k #card
+小説 (しょうせつ)
+<!--ID: 1779254557685-->
+
+
+
+thing left behind #k #card
+忘れ物 (わすれもの)
+<!--ID: 1779254557686-->
+
+
+
+hiking #card
+ハイキング
+<!--ID: 1779254557687-->
+
+
+
+Nara prefecture #card
+奈良 (なら)
+<!--ID: 1779254557688-->
+
+
+
+map #k #card
+地図 (ちず)
+<!--ID: 1779254557689-->
+
+
+
+a little while ago (+ tense) #card
+さっき+ past tense
+<!--ID: 1779254557690-->
+
+
+
+A: Where is Kim? B: Kim went back a little while ago #k #card
+キムさんはどこにいますか？B：キムさんなら、さっき帰りました
+<!--ID: 1779254557691-->
+
 
 
 to be glad / to be pleased #card
-ほんやく: 喜ぶ
+ほんやく: 喜ぶ (よろこ)
 ます形: 喜びます
 て形: 喜んで
 た形: 喜んだ
@@ -1148,11 +821,31 @@ to be glad / to be pleased #card
 尊敬語 (honorific): 喜ばれる
 お〜になる (honorific): お喜びになる
 そう (looks like): 喜びそう
-<!--ID: 1779140283262-->
+意志形 (let\'s): 喜ぼう
+<!--ID: 1779254557692-->
+
+
+
+fever (symptom) #k #card
+熱 (ねつ)
+<!--ID: 1779254557693-->
+
+
+
+to have fever #k #card
+熱がある (ねつ)
+<!--ID: 1779254557694-->
+
+
+
+fever goes down #k #card
+熱が下がる (ねつ, さ)
+<!--ID: 1779254557695-->
+
 
 
 to go down / to fall #k #card
-ほんやく: 下がる
+ほんやく: 下がる (さ)
 ます形: 下がります
 て形: 下がって
 た形: 下がった
@@ -1165,11 +858,19 @@ to go down / to fall #k #card
 尊敬語 (honorific): 下がられる
 お〜になる (honorific): お下がりになる
 そう (looks like): 下がりそう
-<!--ID: 1779140283263-->
+意志形 (let\'s): 下がろう
+<!--ID: 1779254557696-->
+
+
+
+throat #card
+喉 (のど)
+<!--ID: 1779254557697-->
+
 
 
 to be thirsty (verb) #card
-ほんやく: 渇く
+ほんやく: 渇く (かわ)
 ます形: 渇きます
 て形: 渇いて
 た形: 渇いた
@@ -1182,11 +883,19 @@ to be thirsty (verb) #card
 尊敬語 (honorific): 渇かれる
 お〜になる (honorific): お渇きになる
 そう (looks like): 渇きそう
-<!--ID: 1779140283264-->
+意志形 (let\'s): 渇こう
+<!--ID: 1779254557698-->
+
+
+
+to be thirsty (full) #card
+喉が乾く（のど、かわ)
+<!--ID: 1779254557699-->
+
 
 
 to be hungry / to become empty #k #card
-ほんやく: 空く
+ほんやく: 空く (す)
 ます形: 空きます
 て形: 空いて
 た形: 空いた
@@ -1199,11 +908,67 @@ to be hungry / to become empty #k #card
 尊敬語 (honorific): 空かれる
 お〜になる (honorific): お空きになる
 そう (looks like): 空きそう
-<!--ID: 1779140283265-->
+意志形 (let\'s): 空こう
+<!--ID: 1779254557700-->
 
 
-to get lost / to hesitate #card
-ほんやく: 迷う
+
+to be hungry (full) #k #card
+お腹が空いた（おなかがすいた)
+<!--ID: 1779254557701-->
+
+
+
+evening #k #card
+夕方 (ゆうがた)
+<!--ID: 1779254557702-->
+
+
+
+supper #k #card
+夕飯 (ゆうはん)
+<!--ID: 1779254557703-->
+
+
+
+tomorrow (more common in writting) #k #card
+明日 (あす)
+<!--ID: 1779254557704-->
+
+
+
+prohibition / to prohibit + verb with particle #card
+禁止(を+ する) (きんし)
+<!--ID: 1779254557705-->
+
+
+
+parking prohibited #k #card
+駐車禁止（ちゅうしゃきんし）
+<!--ID: 1779254557706-->
+
+
+
+no photography #card
+さつえい禁止（きんし）
+<!--ID: 1779254557707-->
+
+
+
+photography #card
+さつえい
+<!--ID: 1779254557708-->
+
+
+
+factory #k #card
+工場 (こうじょう)
+<!--ID: 1779254557709-->
+
+
+
+to get lost(particle) / to hesitate #card
+ほんやく: (に)迷う (まよ)
 ます形: 迷います
 て形: 迷って
 た形: 迷った
@@ -1216,11 +981,85 @@ to get lost / to hesitate #card
 尊敬語 (honorific): 迷われる
 お〜になる (honorific): お迷いになる
 そう (looks like): 迷いそう
-<!--ID: 1779140283266-->
+意志形 (let\'s): 迷おう
+<!--ID: 1779254557710-->
+
+
+
+get lost (phrase) #k #card
+道に迷う（みち, まよ)
+<!--ID: 1779254557711-->
+
+
+
+I can't decide whether or not to go for a walk #k #card
+散歩に行くかどうか迷います（さんぽ、い、まよ)
+<!--ID: 1779254557712-->
+
+
+
+part-time job / to do a part-time job + verb #card
+アルバイト(する)
+<!--ID: 1779254557713-->
+
+
+
+an employee #k #card
+社員 (しゃいん)
+<!--ID: 1779254557714-->
+
+
+
+meal + verb #k #card
+食事(をする) (しょくじ)
+<!--ID: 1779254557715-->
+
+
+
+earthquake #k #card
+地震 (じしん)
+<!--ID: 1779254557716-->
+
+
+
+typhoon #k #card
+台風 (たいふう)
+<!--ID: 1779254557717-->
+
+
+
+a fire #k #card
+火事 (かじ)
+<!--ID: 1779254557718-->
+
+
+
+fire #k #card
+火 (ひ)
+<!--ID: 1779254557719-->
+
+
+
+math #k #card
+数学 (すうがく)
+<!--ID: 1779254557720-->
+
+
+
+examination #k #card
+試験 (しけん)
+<!--ID: 1779254557721-->
+
+
+
+life / to live + verb #k #card
+生活(する) (せいかつ)
+<!--ID: 1779254557722-->
+
 
 
 to stay the night #card
-ほんやく: 泊まる
+ほんやく: 泊まる (と)
 ます形: 泊まります
 て形: 泊まって
 た形: 泊まった
@@ -1233,11 +1072,24 @@ to stay the night #card
 尊敬語 (honorific): 泊まられる
 お〜になる (honorific): お泊まりになる
 そう (looks like): 泊まりそう
-<!--ID: 1779140283267-->
+<!--ID: 1779254557723-->
 
 
-to receive / to take (a class, etc.) #card
-ほんやく: 受ける
+
+Ah! / Oh! #card
+ああ
+<!--ID: 1779254557724-->
+
+
+
+danger / risk #card
+危険 (きけん)
+<!--ID: 1779254557725-->
+
+
+
+to receive (catch something coming towards the subject) / to take (a class, etc.) #card
+ほんやく: 受ける (う)
 ます形: 受けます
 て形: 受けて
 た形: 受けた
@@ -1250,11 +1102,36 @@ to receive / to take (a class, etc.) #card
 尊敬語 (honorific): 受けられる
 お〜になる (honorific): お受けになる
 そう (looks like): 受けそう
-<!--ID: 1779140283268-->
+<!--ID: 1779254557726-->
+
+
+
+to take test #k #card
+試験を受ける（しけん、う）
+<!--ID: 1779254557727-->
+
+
+
+to take a Japanese class\ #k #card
+日本の授業を受ける（じゅぎょう、う)
+<!--ID: 1779254557728-->
+
+
+
+to catch ball #card
+ボールを受ける（う)
+<!--ID: 1779254557729-->
+
+
+
+traffic #k #card
+交通 (こうつう)
+<!--ID: 1779254557730-->
+
 
 
 to be salable #k #card
-ほんやく: 売れる
+ほんやく: 売れる (う)
 ます形: 売れます
 て形: 売れて
 た形: 売れた
@@ -1267,52 +1144,326 @@ to be salable #k #card
 尊敬語 (honorific): 売れられる
 お〜になる (honorific): お売れになる
 そう (looks like): 売れそう
-<!--ID: 1779140283269-->
+<!--ID: 1779254557731-->
 
 
-terrible / awful / cruel #card
-ほんやく: ひどい
-過去形: ひどかった
-否定形: ひどくない
-副詞形: ひどく
-そう: ひどそう
-<!--ID: 1779140283270-->
+
+Besides / Moreover #card
+それに
+<!--ID: 1779254557732-->
 
 
-common / ordinary + structure #k #card
-ほんやく: 普通
-過去形: —
-否定形: —
-副詞形: —
-そう: 普通そう
-<!--ID: 1779140283271-->
+
+It is good weather, and besides it is a day off. Let's go hiking. #k #card
+天気がいいし、それに、休みだし、ハイキングに行きましょう。(てんき, やすみ)
+<!--ID: 1779254557733-->
 
 
-inconvenience / inconvenient #k #card
-ほんやく: 不便
-過去形: —
-否定形: —
-副詞形: —
-そう: 不便そう
-<!--ID: 1779140283272-->
+
+I injured my foot. (express sadness, casual,noncasual way) #k #card
+足を怪我しちゃって・してしまって… (あし, けが) casual way of てしまう
+<!--ID: 1779254557734-->
 
 
-weak at / not good at #k #card
-ほんやく: 苦手
-過去形: —
-否定形: —
-副詞形: —
-そう: 苦手そう
-<!--ID: 1779140283273-->
+
+Sorry, i forgot (express sadness, casual,non casual) #card
+忘れちゃった/忘れてしまった（わす）
+<!--ID: 1779254557735-->
 
 
-boring #card
-ほんやく: つまらない
-過去形: つまらなかった
-否定形: つまらなくない
-副詞形: つまらなく
-そう: つまらなそう
-<!--ID: 1779140283274-->
+
+Moreover, He doesn't like flowers very much. #k #card
+それに、彼は花があまり好きじゃ… (かれ, はな, す) (じゃ euphemizm to say no)
+<!--ID: 1779254557736-->
+
+
+
+Do you remember when the concert will begin?/ Pamiętasz? O której zaczyna się koncert? #k #card
+コンサートは何時に始まるか、覚えていますか。(interrogative) (なんじ, はじ, おぼ)
+<!--ID: 1779254557737-->
+
+
+
+I asked what would be a good present. / zapytałem, co byłoby dobrym prezentem #k #card
+プレゼントは何がいいか、聞きました。(なに, き)(interrogative)
+<!--ID: 1779254557738-->
+
+
+
+I want to know why that movie is so popular. / Chcę wiedzieć, dlaczego ten film jest tak popularny. #k #card
+あの映画がどうしてこんなに人気か、知りたいです。(えいが, にんき, し)
+<!--ID: 1779254557739-->
+
+
+
+Do you know what kind of place Nara is?/ Czy wiesz, jakim miejscem jest Nara? #k #card
+奈良はどんなところか、知っていますか。(なら, し)
+<!--ID: 1779254557740-->
+
+
+
+everyone said that Satou kun is a good person #k #card
+みんなは　さとうくんが いい人だと言っていました（い）
+<!--ID: 1779254557741-->
+
+
+
+The company president said that tomorrow's meeting is cancelled. #k #card
+社長は明日のミーティングがなくなると言っていました。(しゃちょう, あす, い)
+<!--ID: 1779254557742-->
+
+
+
+The weather forecast said it will be good weather tomorrow. #k #card
+天気予報では明日天気がいいと言っていました。(てんきよほう, あす, てんき, い)
+<!--ID: 1779254557743-->
+
+
+
+The manager said that Mr. Sato is very hard working. #k #card
+部長は佐藤くんが真面目だと言っていました。(ぶちょう, さとう, まじめ, い)
+<!--ID: 1779254557744-->
+
+
+
+Miss Wang said tomorrow is a day off. #k #card
+ワンさんは明日は休みだと言っていました。(あす, やす, い)
+<!--ID: 1779254557745-->
+
+
+
+Mr. Yamada said he would be a little late to the party. #k #card
+山田さんはパーティーにちょっと遅れるって(言っていました)。(やまだ, おく, い)
+<!--ID: 1779254557746-->
+
+
+
+Mr. Smith said(short version) that he really likes Japanese cherry blossoms. #k #card
+スミスさんは日本の桜が大好きだって。(にほん, さくら, だいす)
+<!--ID: 1779254557747-->
+
+
+
+The weather forecast said there will be a typhoon tomorrow. #k #card
+天気予報では、明日は台風だって(言っていた)よ。(てんきよほう, あす, たいふう, い)
+<!--ID: 1779254557748-->
+
+
+
+Don't you think the fruit is better? #k #card
+果物のほうがいいんじゃない？ (くだもの)
+<!--ID: 1779254557749-->
+
+
+
+A: Won't Mr. Tanaka come today? B: Mr. Tanaka has been to Osaka for business, hasn't he? #k #card
+A: 田中さんは今日来ないのですか。(たなか, きょう, こ) B: 田中さんは大阪に出張に行ったんじゃない？(たなか, おおさか, しゅっちょう, い)
+<!--ID: 1779254557750-->
+
+
+
+The rooms are big and the meals are delicious so I think Japan Hotel is a good hotel #k #card
+ジャパんホテルは部屋が広いし、食事も美味しいし、良いホテルだと思います（へや、ひろ、しょくじ、い、おも）
+<!--ID: 1779254557751-->
+
+
+
+A: Mr. Sato, how is your cold? B: My fever is gone, and I don't have a sore throat any more, so I am fine. #k #card
+A: 佐藤くん、風邪は大丈夫ですか。(さとう, かぜ, だいじょうぶ) B: 熱はもう下がったし、のども痛くないし、大丈夫です。(ねつ, さ, いた, だいじょうぶ)
+<!--ID: 1779254557752-->
+
+
+
+These shoes color look nice and the size is just right, so I will buy them. #k #card
+この靴、色もきれいだし、サイズもちょうどいいし、これにします。(くつ, いろ)
+<!--ID: 1779254557753-->
+
+
+
+My house is far from the station and the room is small, so i think i want to move #k #card
+うちは駅から遠いし、部屋もせまいし、ひっこしをしたいと思っています（とお）
+<!--ID: 1779254557754-->
+
+
+
+Tomorrow is a math test, and I am not good at math, so I will do preparation for test at home. #k #card
+明日数学のテストだし、わたしは数学が苦手だし、今日は家で復習します。(あした, すうがく, すうがく, にがて, きょう, いえ, ふくしゅう)
+<!--ID: 1779254557755-->
+
+
+
+Mr. Sato injured his foot, so he can't move that much. #k #card
+佐藤くんは足をけがしたし、あまり動けないよね。(さとう, あし, うご)
+<!--ID: 1779254557756-->
+
+
+
+Sorry, I can't go to the drinking party today. I have work to do... #k #card
+ごめん、今日飲み会に行けないわ。これから、仕事もあるし…。(きょうの, かい, い, しごと)
+<!--ID: 1779254557757-->
+
+
+
+I ate the entire cake Minori gave me (complete action) (formal and not formal) #k #card
+みのりちゃんからもらったケーキを全部食べてしまいました・ちゃいます（ぜんぶ、た）
+<!--ID: 1779254557758-->
+
+
+
+Because the boxed lunch in that supermarket is cheap, so it was sold out immediately. (formal and not formal) #k #card
+あのスーパーの弁当は安いので、すぐに全部売れてしまいました・ちゃいました。(べんとう, やす, ぜんぶ, う)
+<!--ID: 1779254557759-->
+
+
+
+I was thirsty, so I drank all the water. (formal and not formal) #k #card
+のどがかわいたので、水を全部飲んでしまいました・ちゃいました。(みず, ぜんぶ, の)
+<!--ID: 1779254557760-->
+
+
+
+Oh no, the vase is broken (express feeling of regret or being troubled) (formal and not formal) #k #card
+ああ、花瓶が割れてしまいました・ちゃいました（かびん、わ）
+<!--ID: 1779254557761-->
+
+
+
+I left my wallet in my room. (forgot, express regret) (formal and not formal) #k #card
+さいふを部屋に忘れてしまった・ちゃった。(へや, わす)
+<!--ID: 1779254557762-->
+
+
+
+A: Why do you look so down? B: I caught a cold.(express regret, explain)   (formal and not formal) #k #card
+A: どうして、元気がないの？(げんき) B: 風邪をひいてしまったんです・ちゃいます。(かぜ)
+<!--ID: 1779254557763-->
+
+
+
+I got lost and was late. Sorry. (express regret) (formal and not formal) #k #card
+道に迷ってしまって・ちゃって、遅れました。すみません。(みち, まよ, おく)
+<!--ID: 1779254557764-->
+
+
+
+The weather forecast said it would rain. You'd better take your umbrella to go outside. #k #card
+天気予報では雨が降ると言っていたよ。かさを持って行ったほうがいいよ。(てんきよほう, あめ, ふ, い, も, い)
+<!--ID: 1779254557765-->
+
+
+
+You'd better wrap the glass in newspaper so that it won't break. #k #card
+ガラスは割れないように新聞紙で包んだほうがいいと思います。(わ, しんぶんし, つつ, おも)
+<!--ID: 1779254557766-->
+
+
+
+A typhoon will come tomorrow, so you'd better not go outside. #k #card
+明日台風が来るから、出かけないほうがいいですよ。(あした, たいふう, く, で)
+<!--ID: 1779254557767-->
+
+
+
+It seems that it will rain tomorrow. #k #card
+明日は雨でしょう。(あした, あめ)
+<!--ID: 1779254557768-->
+
+
+
+It seems that Mr. Yamada likes karaoke. #k #card
+山田くんはカラオケが好きでしょう。(やまだ, す)
+<!--ID: 1779254557769-->
+
+
+
+It seems that this bag is expensive. #k #card
+このかばん、高いでしょう。(たか)
+<!--ID: 1779254557770-->
+
+
+
+You worked from morning to night, so you must be very tired, mustn't you? #k #card
+あなた朝から晩までずっと働いて、疲れたでしょう。(あさ, ばん, はたら, つか)
+<!--ID: 1779254557771-->
+
+
+
+This is yours, right? #card
+これはあなたのものでしょう。
+<!--ID: 1779254557772-->
+
+
+
+A: Is this your luggage, Sir? B: Yes, it is #k #card
+A: こちらはお客様のお荷物でしょうか B: ええ、そうです（きゃくさま、にもつ)
+<!--ID: 1779254557773-->
+
+
+
+My company might establish a factory in India next year. #k #card
+来年私の会社はインドで工場を作るかもしれません。(らいねん, わたし, かいしゃ, こうじょう, つく)
+<!--ID: 1779254557774-->
+
+
+
+I may not catch the train. #k #card
+電車に間に合わないかもしれません。(でんしゃ, ま, あ)
+<!--ID: 1779254557775-->
+
+
+
+This might be Mr. Yamada's book. #k #card
+これは山田さんの本かもしれません。(やまだ, ほん)
+<!--ID: 1779254557776-->
+
+
+
+continuous / far / all the time #card
+ずっと
+<!--ID: 1779254557777-->
+
+
+
+You can see a conbini store if you continue down this street #k #card
+この道をずっと行くと、コンビニが 見えます(みち、み)
+<!--ID: 1779254557778-->
+
+
+
+I've been doing work since 10:00 #k #card
+10時からずっと仕事です
+<!--ID: 1779254557779-->
+
+
+
+I'm waiting a while (long time) #k #card
+ずっと待っているよ
+<!--ID: 1779254557780-->
+
+
+
+I haven't meet Mr Tanaka for a long time #k #card
+田中さんとずっと会っていません
+<!--ID: 1779254557781-->
+
+
+
+long ago #k #card
+ずっと前 (まえ)
+<!--ID: 1779254557782-->
+
+
+
+I met her a long time ago #k #card
+ずっと前、彼女に会いました (まえ)
+<!--ID: 1779254557783-->
+
+
+
+Lan's Japanese is much better than MR smith #k #card
+ランさんの日本語は、スミスさんよりずっと上手です（じょうず）
+<!--ID: 1779254557784-->
+
 
 
 

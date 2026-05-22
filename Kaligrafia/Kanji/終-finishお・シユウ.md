@@ -3,3 +3,6 @@
 ---
 [[糸 - component]]
 [[冬 - winter]]
+
+## Occurences
+[[Kaligrafia-1-Company#終 - finish・お・シュウ]]

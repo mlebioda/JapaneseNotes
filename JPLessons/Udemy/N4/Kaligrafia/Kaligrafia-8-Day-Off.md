@@ -1,7 +1,7 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL8-Day-Off
 
-## 近 near ちか、キン
-[[近 - near]]
+## 近 - near・ちか・キン
+[[近-near]]
 ![[Pasted image 20250416180731.png]]
 Imagine someone with an **axe** (斤) on a **moving** (辶) getting **near** you real fast. They're moving toward you
 
@@ -18,8 +18,8 @@ Imagine someone with an **axe** (斤) on a **moving** (辶) getting **near** you
 
 #w 近所に医院はありません（きんじょ、いいん）- There are no clinics in the neighbordhood
 #w 夕食は近所の食堂で食べます（ゆうしょく、きんじょ、しょくどう）- I will have dinner at a cafeteria in the neighborhood
-## 走 - run はし・ソウ
-[[走 - run]]
+## 走 - run・はし・ソウ
+[[走-run]]
 
 ![[Pasted image 20250416181153.png]]
 土 + 止 (stop) with foot
@@ -37,8 +37,8 @@ morning.
 **(そう)**
 #w 走行（そうこう）- run(mostly vechicles, technical, formal)
 #w 走者（そうしゃ）- runner
-## 犬 - dog いぬ・キン
-[[犬 - dog]]
+## 犬 - dog・いぬ・ケン
+[[犬-dog]]
 ![[Pasted image 20250416182027.png]]
 **(いぬ)**
 #w 犬（いぬ）- dog
@@ -52,8 +52,8 @@ morning.
 
 #w 家で日本犬をかっています - I have a japanese dog at home
 #w あなたの犬は日本犬ですか(いぬ、にほんけん) - Is your dog a japanese dog?
-## 歩 - walk ある・ホ、ぽ
-[[歩 - walk]]
+## 歩 - walk・ある・ホ、ぽ
+[[歩-walk]]
 ![[Pasted image 20250416182501.png]]
 To **walk**, you take a few (少) **steps**, then **stop** (止), then go again. 
 **(ある)**
@@ -67,7 +67,8 @@ To **walk**, you take a few (少) **steps**, then **stop** (止), then go again.
 #w 歩道（ほどう）- sidewalk
 
 ---
-## 音 - sound おと・オン
+## 音 - sound・おと・オン
+[[音-sound]]
 ![[Pasted image 20250417174528.png]]
 stand on the sun to hear SOUND on the concert
 **(おと)**
@@ -84,7 +85,8 @@ stand on the sun to hear SOUND on the concert
 #w 休日には家で音楽を楽しいます（きゅうじつ、おんがく、たの）- I enjoy music at home on my day off
 #w 
 
-## 楽 - fun, easy たの、らく・ガク
+## 楽 - fun, easy・たの、らく・ガク
+[[木/楽-pleasure,funmeasy]]
 ![[Pasted image 20250417175225.png]]
 A **white** stringed instrument is hanging on a **tree** when its cold, Its FUN
 **(たの)**
@@ -105,8 +107,8 @@ A **white** stringed instrument is hanging on a **tree** when its cold, Its FUN
 #w 洋楽（ようがく）- western music
 
 #w あの人は音楽家です（おんがくか）- That person is a musician
-## 知 - know し・千
-[[知 - know]]
+## 知 - know・し・チ
+[[知-know]]
 ![[Pasted image 20250417175723.png]]
 An **arrow** hits right near your **mouth** — now you “**know**”
 **(し)**
@@ -122,7 +124,8 @@ An **arrow** hits right near your **mouth** — now you “**know**”
 **(ち)**
 #w 知人（ちじん）- acquaintance/znajomy
 #w 予知（よち）- prediction
-## 歌 - song, sing うた、カ
+## 歌 - song, sing・うた・カ
+[[歌-song]]
 ![[Pasted image 20250417180402.png]]
 - 欠 (yawn, lack – often associated with singing/open mouth)
 - 哥 (older variant of song; double 可 [can])
@@ -143,7 +146,8 @@ ou have two people (可 + 可) **singing** loudly with open **mouths** (欠) —
 
 
 ---
-## 映 - be reflected うつ、エイ
+## 映 - be reflected・うつ・エイ
+[[映-bereflected]]
 ![[Pasted image 20250417205156.png]]
 A bright **sunlight** (日) shining at the **center** (央) of a screen — that’s how a movie is **projected** or **reflected** onto a surface.
 **(うつ)**
@@ -154,8 +158,8 @@ A bright **sunlight** (日) shining at the **center** (央) of a screen — that
 #w 映画（えいが）- movie
 #w 映画館（えいがかん）- kono, mmovie theater
 #w 休日にはテレビで古い映画を見ます（きゅうじつ、えいが）- I watch old movies on tv on my days off
-## 館 - build やかた、、たて・カン
-[[館 - build]]
+## 館 - build・やかた、たて・カン
+[[館-build]]
 ![[Pasted image 20250417205722.png]]
 A place where **officials** (官) go to **eat** (食) is a proper **hall** or **building**, like a dining **pavilion** or **museum**.
 **(やかた)**
@@ -174,8 +178,8 @@ Both not used to much
 
 #w 映画館へ行きましょう（えいがかん）- Let's go to the movie theater
 
-## 夜 - night よる、よ・ヤ
-[[夜 - night]]
+## 夜 - night・よる、よ・ヤ
+[[夜-night]]
 ![[Pasted image 20250417210053.png]]
 Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness** — that's **night**!
 **(よる)**
@@ -191,7 +195,8 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 **(や)**
 #w 今夜（こんや）- this night
 #w 昼夜（ちゅうや）- day and night
-## 帰 - return かえ、キ
+## 帰 - return・かえ・キ
+[[帰-return]]
 ![[Pasted image 20250417210250.png]]
 **(かえ)**
 #wc 帰る（かえ）- return
@@ -210,7 +215,7 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 #w リンさんは明日帰国します（きこく）- Mr Lin will return to his country tommorow
  --- 
 
-
+# Summary
 
  Rzeczowniki:
 

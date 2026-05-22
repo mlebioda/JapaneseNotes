@@ -1,6 +1,6 @@
 # 帰 - return
 
-[[Kaligrafia-8-Day-Off#帰 - return かえ、キ]]
+[[Kaligrafia-8-Day-Off#帰 - return・かえ・キ]]
 [[KaligrafiaS5L3#帰]]
 
 ---

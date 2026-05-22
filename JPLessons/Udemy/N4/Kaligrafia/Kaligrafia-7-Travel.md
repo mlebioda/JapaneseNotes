@@ -1,6 +1,7 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL7-Travel
 
-## 旅 - travel たび・リョ
+## 旅 - travel・たび・リョ
+[[旅-travel]]
 
 ![[Pasted image 20250413131118.png]]
 banner ![[Pasted image 20250413130836.png]]. . . person . . . rag
@@ -19,8 +20,8 @@ banner ![[Pasted image 20250413130836.png]]. . . person . . . rag
 
 #w 中国旅行はいつ行きますか（ちゅうごく、りょこう）- When will you go on a trip to china?
 #w 父と母は中国で旅行します（ちち、はは、ちゅうごく、りょこう）- My father and mother travel to china
-## 海 - sea うみ・カイ
-[[海 - sea]]
+## 海 - sea・うみ・カイ
+[[海-sea]]
 ![[Pasted image 20250413131915.png]]
 **(うみ)**
 #w 海（うみ）- sea
@@ -32,8 +33,8 @@ banner ![[Pasted image 20250413130836.png]]. . . person . . . rag
 
 #w 兄は海外で仕事をします（かいがい、しごと）- My elder brother works abroad
 #w 先生は海外の大学院で学習していますした（かいがい、だいがくいん、がくしゅう）- the teacher had studied at a graduate school abroad
-## 計 - measure はか・ケイ
-[[計 - measure]]
+## 計 - measure・はか・ケイ
+[[計-measure]]
 ![[Pasted image 20250413132147.png]]
 Speaking  + ten
 
@@ -48,7 +49,8 @@ Speaking  + ten
 #w 時計（とけい）- clock
 
 #w 学習計画は出来ましたか（がくしゅう、けいかく、でき）- did you make a study plan?
-## 画 - draw, stroke, picture か、えが・カク、ガ
+## 画 - draw, stroke, picture・か、えが・カク、ガ
+[[画-draw,stroke]]
 ![[Pasted image 20250413133439.png]]
 A **picture** is made by carefully drawing **one stroke** (一) at a time in a **field** (田) and container
 **(か)**
@@ -70,7 +72,8 @@ A **picture** is made by carefully drawing **one stroke** (一) at a time in a *
 #w 山田さんは有名画家です（ゆうめい、がか）- Yamada san is famous paiteer
 
 ---
-## 目 - eye め・モク
+## 目 - eye・め・モク
+[[目-eye]]
 
 **(め)**
 目（め）- eye
@@ -82,8 +85,8 @@ A **picture** is made by carefully drawing **one stroke** (一) at a time in a *
 
 #w この作業の目的は何ですか（さぎょう、もくてき）- what is the purpose of this work
 #w 目が痛いので、明日病院に行きます（いた、びょういん）- I will go to the hospital tomorrow because my eyes hurt
-##  的 - target まと・テキ
-[[的 - target]]
+## 的 - target・まと・テキ
+[[的-target]]
 ![[Pasted image 20250413194203.png]]
 To hit the **target** (的), you aim at a **white** (白) spot with a **spoon** (勺) – precision matters!
 **(まと)**
@@ -102,8 +105,8 @@ To hit the **target** (的), you aim at a **white** (白) spot with a **spoon** 
 #w 私の英語学習の目的は旅行です（えいごがくしゅう、もくてき、りょこう）- My purpose for learning english is to travel
 
 is scholarly
-## 古 - old ふる・コ
-[[古 - old]]
+## 古 - old・ふる・コ
+[[古-old]]
 
 **(ふる)**
 古い（ふる）- old
@@ -117,8 +120,8 @@ is scholarly
 #w 古物（こぶつ）- antique
 
 #w 古文がむずかしいと思います（こぶん）- I think the ancient literature is difficult
-## 町 - town まち・チョウ
-[[町 - town]]
+## 町 - town・まち・チョウ
+[[町-town]]
 ![[Pasted image 20250413195055.png]]
 **(まち)**
 
@@ -135,8 +138,8 @@ is scholarly
 #w 町長（ちょうちょう）- town mayor
 
 ---
-## 地 ground, land 千、ジ
-[[地 - ground]]
+## 地 - ground, land・ち・ジ
+[[地-ground]]
 ![[Pasted image 20250415174451.png]]
 soil + to be 也 = ground
 **(ち)**
@@ -152,7 +155,8 @@ soil + to be 也 = ground
 **(じ)**
 #w 地所（じしょ）- land
 #w 地声（じごえ）- natural voice
-##  図 - drawing, map はか・ズ、ト
+## 図 - drawing, map・はか・ズ、ト
+[[図-drawing,map]]
 ![[Pasted image 20250415175154.png]]
 measure  + box - drawing/map
 **(はか)**
@@ -166,8 +170,8 @@ measure  + box - drawing/map
 **(と)**
 #w 意図（いと）- intent/zamiar
 #w 図書館（としょかん）-  library
-## 持 - hold, carry も、もち・ジ
-[[持 - hold]]
+## 持 - hold, carry・も、もち・ジ
+[[持-hold]]
 ![[Pasted image 20250415175627.png]]
 A **hand** (扌) **holds** on to traditions at a **temple** (寺)._
 **(も)**
@@ -187,7 +191,8 @@ A **hand** (扌) **holds** on to traditions at a **temple** (寺)._
 
 **(じ)**(no n4)
 
-## 道 - road みち・ドウ
+## 道 - road・みち・ドウ
+[[道-road]]
 ![[Pasted image 20250415180055.png]]
 The road (道) is where your head (首) leads you as you walk (辶)
 **(みち)**
@@ -204,7 +209,7 @@ The road (道) is where your head (首) leads you as you walk (辶)
 
  --- 
 
-
+# Summary
 
  travel/journey #card
 Tłumaczenie: 旅（たび）

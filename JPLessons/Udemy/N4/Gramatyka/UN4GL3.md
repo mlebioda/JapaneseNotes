@@ -423,6 +423,7 @@ to wrap / to pack #card
 尊敬語 (honorific): 包まれる
 お〜になる (honorific): お包みになる
 そう (looks like): 包みそう
+意志形 (let\'s): 包もう
 <!--ID: 1778257577002-->
 
 
@@ -442,6 +443,7 @@ to be broken / to crack (by itself) + particle #card
 尊敬語 (honorific): 割れられる
 お〜になる (honorific): お割れになる
 そう (looks like): 割れそう
+意志形 (let\'s): 割れよう
 <!--ID: 1778257577004-->
 
 
@@ -461,6 +463,7 @@ to be in time (for) + particle #k #card
 尊敬語 (honorific): 間に合われる
 お〜になる (honorific): お間に合いになる
 そう (looks like): 間に合いそう
+おう (let's): 間に合おう
 <!--ID: 1778257577005-->
 
 
@@ -480,6 +483,7 @@ to be in sight / can see + particle #k #card
 尊敬語 (honorific): 見えられる
 お〜になる (honorific): お見えになる
 そう (looks like): 見えそう
+意志形 (let\'s): 見えよう
 <!--ID: 1778257577006-->
 
 
@@ -499,6 +503,7 @@ to reach one's ears / can hear + particle #k #card
 尊敬語 (honorific): 聞こえられる
 お〜になる (honorific): お聞こえになる
 そう (looks like): 聞こえそう
+意志形 (let\'s): 聞こえよう
 <!--ID: 1778257577007-->
 
 
@@ -518,6 +523,7 @@ to turn #card
 尊敬語 (honorific): 曲がられる
 お〜になる (honorific): お曲がりになる
 そう (looks like): 曲がりそう
+意志形 (let\'s): 曲がろう
 <!--ID: 1778257577008-->
 
 
@@ -537,6 +543,7 @@ to be broken #card
 尊敬語 (honorific): 壊れられる
 お〜になる (honorific): お壊れになる
 そう (looks like): 壊れそう
+意志形 (let\'s): 壊れよう
 <!--ID: 1778257577009-->
 
 
@@ -1052,6 +1059,8 @@ sound of a car #k #card
 
 sound of a car #k #card
 雨の音（あめ、おと）
+<!--ID: 1779254601410-->
+
 
 
 

@@ -5,3 +5,6 @@
 [[日 - sun]]
 [[羽 – wings]]
 [[隹 - component]]
+
+## Occurences
+[[Kaligrafia-1-Company#曜 - day of week・ヨウ]]

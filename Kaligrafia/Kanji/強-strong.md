@@ -1,5 +1,5 @@
 # 強 - strong
-[[Kaligrafia-2-Study#強 - strong つよ・キョウ、ゴウ]]
+[[Kaligrafia-2-Study#強 - strong・つよ・キョウ、ゴウ]]
 
 ---
 [[弓 - bow]]

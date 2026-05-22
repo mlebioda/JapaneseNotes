@@ -1,5 +1,5 @@
 # 有 - have, exist
-[[Kaligrafia-9-Banking#有 - have/exist あ、あり・ユウ]]
+[[Kaligrafia-9-Banking#有 - have/exist・あ、あり・ユウ]]
 
 ---
 [[月 - moon, flesh, body]]

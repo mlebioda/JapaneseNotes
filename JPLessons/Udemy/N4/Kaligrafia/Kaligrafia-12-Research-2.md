@@ -1,7 +1,7 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL12-Research-2
 
-## 発 - leaving ハツ、ホツ
-[[発 - leaving]]
+## 発 - leaving・ハツ、ホツ
+[[発-leaving]]
 ![[Pasted image 20250527214708.png]]
 
 2+legs + footsteps (2 feet) - leaving 
@@ -16,8 +16,8 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL12-Research-2
 
 **(ほつ)** rarely used
 
-## 表 - surface, front おもて、あらわ・ヒョウ
-[[表 - surface]]
+## 表 - surface, front・おもて、あらわ・ヒョウ
+[[表-surface]]
 ![[Pasted image 20250527215415.png]]
 衣 clothing + soil + 1 - clothing on the SURFACE of the soil, fornt view
 **(おもて)**
@@ -38,8 +38,8 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL12-Research-2
 
 #w 明日の仕事の計画表を作りました（けいかくひょう、つく）- I made a shedoule for tommorow's work
 
-## 意 - mind, meaning イ
-[[意 - mind]]
+## 意 - mind, meaning・イ
+[[意-mind]]
 ![[Pasted image 20250527222830.png]]
 stay + day + heart = meaning, mind
 **(い)**
@@ -53,8 +53,8 @@ stay + day + heart = meaning, mind
 
 
 
-## 思 - feeling, idea おも・シ
-[[思 - feeling]]
+## 思 - feeling, idea・おも・シ
+[[思-feeling]]
 ![[Pasted image 20250527223116.png]]
 rice field + heart
 **(おも)**
@@ -71,8 +71,8 @@ rice field + heart
 #w 社長の意思で銀行からお金を借りることになりました（しゃちょう、いし、ぎんこう、かね、か） - It is decided to borrow money frtom the bank by the intention of our company president
 
 ---
-## 公 - public おおやけ・コウ
-[[公 - public]]
+## 公 - public・おおやけ・コウ
+[[公-public]]
  ![[Pasted image 20250529083257.png]]
  8/to part, to divide + se;f. private
  if we divide private is public
@@ -90,7 +90,8 @@ rice field + heart
 
 #w 弟は公立大学に入りました（おとうと、こうりつだいがく、はい）- My young brother entered a public uniwersity
 
-## 立 - stand た・リツ
+## 立 - stand・た・リツ
+[[立-stand]]
 ![[Pasted image 20250529083655.png]]
 
 **(た)**
@@ -104,7 +105,8 @@ rice field + heart
 #w 写真を写しますから、そこに立って下さい（しゃしん、うつ、た）- I will take a picture of you, so please stand here
 #w その車の前に立って下さい（た）- Please stand in front of the car
 
-## 英 - British, England エイ
+## 英 - British, England・エイ
+[[英 - england,english, superior]]
 ![[Pasted image 20250529084335.png]]
 大 + cover and grass.   Britain is a bif island covered with grass
 **(えい)**
@@ -112,8 +114,8 @@ rice field + heart
 #w 英語（えいご）- english 
 #w 英才教育（えいさいきょういく） - special education for gifted children
 #w 英吉利（イギリス）- UK/great talent
-## 正 - correct ただ・セイ、ショウ
-[[正 - correct]]
+## 正 - correct・ただ・セイ、ショウ
+[[正-correct]]
 ![[Pasted image 20250529085320.png]]
 **(ただ)**
 #w 正しい（ただ）- correct
@@ -143,7 +145,8 @@ rice field + heart
 #w ふるさと - hometown 
 
 ---
-## 力 - strength, power ちから・リョク、リキ
+## 力 - strength, power・ちから・リョク、リキ
+[[力-power]]
 ![[Pasted image 20250601182845.png]]
 **(ちから)**
 #w 力持ち（ちからも）- powerful
@@ -159,8 +162,8 @@ rice field + heart
 #w 人力（じんりき）- manpower
 #w 力作（りきさく）- masterpiece
 
-## 代 - generation, price か・ダイ
-[[代 - generation]]
+## 代 - generation, price・か・ダイ
+[[代-generation]]
 ![[Pasted image 20250601183558.png]]
 **(か)**
 #wc 代わる（か） - to take somebody's place/ on behalf
@@ -182,8 +185,8 @@ rice field + heart
 #w あの人が３０代だと思います（さんじゅうだい、おも) - I think that person is in his 30's 
 #w 大学時代、あの人とクラスが同じなのに、おたがいの　なまえを知りませんでした（じだい、おな、し）- We didn't know each other's name even though I was in the same class with that persion in our university days.
 
-## 心 heart, mind こころ・シン
-[[心 - heart]]
+## 心 - heart, mind・こころ・シン
+[[心-heart]]
 ![[Pasted image 20250601184841.png]]
 **(こころ)**
 #w 心（こころ）- heart
@@ -196,8 +199,8 @@ rice field + heart
 #w 研究心（けんきゅうしん）- spirit of inquiry/duch zapytania
 
 #w 今回のプロジェクトのお金は十分ありますから、安心してください（こんかい、かね、じゅうぶん、おんしん） - Please don't worry because we have enough money for this project
-## 同 same おな・ドウ
-[[同 - same]]
+## 同 - same・おな・ドウ
+[[同-same]]
 ![[Pasted image 20250601185947.png]]
 **(おな)**
 #w この二つにかばんは同じなのに,  値段が違う(ふた、おな、ねだん) - these two baga are the same, but the prices are different
@@ -217,7 +220,7 @@ rice field + heart
 
  --- 
 
-
+# Summary
 
  Rzeczowniki:
 

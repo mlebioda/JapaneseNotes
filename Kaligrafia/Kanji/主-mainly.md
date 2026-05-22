@@ -1,5 +1,5 @@
 # 主 - mainly
-[[Kaligrafia-11-Research#主 - mainly, one's master おも、ぬし、シュ]]
+[[Kaligrafia-11-Research#主 - mainly, one's master・おも、ぬし・シュ]]
 ---
 [[丶- dot, sign]]
 [[王 - component]]

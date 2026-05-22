@@ -1,7 +1,8 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL2-Study
 
-## 勉 - diligence つと・ベン
-[[勉 - diligence]]
+## 勉 - diligence・つと・ベン
+[[勉-diligence]]
+
 ![[Pasted image 20250303193815.png]]
 "Putting in power (力) to escape (免) from laziness requires diligence (勉)!"
 
@@ -18,7 +19,8 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL2-Study
 #w 勤勉（きんべん）- diligence, pracowitość
 
 
-## 強 - strong つよ・キョウ、ゴウ
+## 強 - strong・つよ・キョウ、ゴウ
+[[強-strong]]
 "A bow,vast (弓) and an insect (虫) together symbolize strength (強) because insects can endure hardships, and bows require strength to pull."
 ![[Pasted image 20250303194426.png]]
 (つよ)
@@ -35,7 +37,8 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL2-Study
 #w 強引 (ごういん) - forcible, pushy, natarczywy
 
 
-## 教 - teach おし・きょう
+## 教 - teach・おし・きょう
+[[教-toteach]]
 ![[Pasted image 20250303195116.png]]
 "Teaching (教) involves discipline (攵) and respect (孝) for knowledge and elders."
 (おし)
@@ -47,8 +50,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL2-Study
 #w 教育（きょういく）(teach, raise) - education
 #w この会社の社員は外国語の教育を受けていますか（しゃいん、がいこくご、きょういく、う）- Are this company's employees receiving foreign language education?
 #wc 受ける（うける) - receive 
-##  育- bring up そだ・イク
-[[育 - bring up]]
+## 育 - bring up・そだ・イク
+[[育-bringup]]
+
 ![[Pasted image 20250303195504.png]]
 infant, meat
 
@@ -64,7 +68,8 @@ infant, meat
 #w 育児（いくじ）- parenting
 
 ---
-## 漢  - chinese related, man among men　カン
+## 漢 - chinese related, man among men・カン
+[[漢-kanji,china]]
 - 氵 (water radical, related to water)
 - 艹 (grass radical)
 - 夫 (man, husband)
@@ -77,7 +82,8 @@ infant, meat
 
  #w 漢族（かんぞく）-  han chinese (dynasty)
 
-## 字 - letter あざ・ジ
+## 字 - letter・あざ・ジ
+[[字-character]]
 - 宀 (roof, related to buildings or protection)
 - 子 (child)
 ![[Pasted image 20250305192048.png]]
@@ -94,8 +100,9 @@ infant, meat
 #w ローマ字（じ）- roman letter
 #w ローマ字を書いてください（じ、か）- please, write roman letter
 
-## 試 - try, test こころ、ため・シ
-[[試 - try]]
+## 試 - try, test・こころ、ため・シ
+[[試-try]]
+
 - 言 (speech, words)
 - 式 (style, method, ceremony) (arrow + craft)
 Manufacturer produces new style, and run a TEST asking customers to speak their opinions
@@ -116,8 +123,9 @@ Manufacturer produces new style, and run a TEST asking customers to speak their 
 #w 入試（にゅうし）- admission exam (wstępny)
 #w この大学の入試はいつですか（にゅうし）- when is the admission exam to this university?
 
-## 験 - test ケン
-[[験 - test]]
+## 験 - test・ケン
+[[験-test]]
+
 - 馬 (horse)
 - ⾔ (speech, words, though here it's actually related to radical "⾷" in older forms)
 - 㑒 (component that comes from "danger" in some etymologies)
@@ -131,8 +139,9 @@ Manufacturer produces new style, and run a TEST asking customers to speak their 
 
 
 ---
-## 質 - inquire ただ・シツ
-[[質 - inquire]]
+## 質 - inquire・ただ・シツ
+[[質-inquire]]
+
 ![[Pasted image 20250306214128.png]]
 Two Axes and shells
 (ただ)
@@ -147,7 +156,8 @@ Two Axes and shells
 
 
 
-##  問 - inquire, question と・モン
+## 問 - inquire, question・と・モン
+[[問-toask]]
 
 ![[Pasted image 20250306214716.png]]
 Gate, mouth
@@ -158,8 +168,9 @@ Gate, mouth
 #w 学問（がくもん）- study
 質問（しつもん）- question
 
-## 答 - answer こた・トウ
-[[答 - answer]]
+## 答 - answer・こた・トウ
+[[答-answer]]
+
 ![[Pasted image 20250306215014.png]]
 - ⺮ (**竹** – bamboo)
 - 合 (**ごう** – fit, combine)
@@ -172,8 +183,9 @@ Gate, mouth
 
 (とう)
 #w 回答（かいとう）-  to answer, reply (formal)
-#w 答案（とうあん）- answer (Refers specifically to **answers written on a test or exam**.)
-## 習 - learn, study なら・シユウ
+#w 答案（とうあん）- answer (Refers specifically to **answers written on a test or exam**)
+## 習 - learn, study・なら・シュウ
+[[習-inquire,togetknowledgefromsomebody]]
 ![[Pasted image 20250306215743.png]]
 
 
@@ -194,6 +206,8 @@ Gate, mouth
 
 
  
+# Summary
+
  Rzeczowniki:
 
  study #card

@@ -1,4 +1,4 @@
-[[Kaligrafia-12-Research-2#立 - stand た・リツ]]
+[[Kaligrafia-12-Research-2#立 - stand・た・リツ]]
 [[KaligrafiaS6L9#立 た・りつ - stać]]
 [[UNK5L8#立 - stand た(つ)・リツ、リッ]]
 

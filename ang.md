@@ -1211,3 +1211,15 @@ even so
 5) She was tired; even so, she came to the meeting.
 6) The plan had flaws; even so, it worked better than we expected.
 <!--ID: 1779034130007-->
+
+
+# TODO
+
+firmly
+bracing
+credible
+reliably
+properly
+habitually
+intact
+- how to recognize goups of verbs

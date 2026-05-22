@@ -1,5 +1,5 @@
 # 映 - be reflected
-[[Kaligrafia-8-Day-Off#映 - be reflected うつ、エイ]]
+[[Kaligrafia-8-Day-Off#映 - be reflected・うつ・エイ]]
 
 ---
 [[日 - sun]]

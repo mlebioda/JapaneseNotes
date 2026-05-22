@@ -1,5 +1,5 @@
 # 図 - drawing, map
-[[Kaligrafia-7-Travel#図 - drawing, map はか・ズ、ト]]
+[[Kaligrafia-7-Travel#図 - drawing, map・はか・ズ、ト]]
 
 
 ---

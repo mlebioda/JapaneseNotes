@@ -1,5 +1,5 @@
 # 教 - to teach
-[[Kaligrafia-2-Study#教 - teach おし・きょう]]
+[[Kaligrafia-2-Study#教 - teach・おし・きょう]]
 
 ---
 

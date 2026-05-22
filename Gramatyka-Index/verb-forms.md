@@ -16,3 +16,6 @@
 - [[UN4GL1#～てみる - to try]] · N4
 - [[UN4GL3#V「て形」＋おきます - V continues without any changes, leave]] · N4
 - [[UN4GL4#V「て」しまいます- Finish something completely/complete an action]] · N4
+- [[UN4GL5#いこうけい - Volitional form]] · N4
+- [[UN4GL5#Volitional form + と思っています - i'm thinking of]] · N4
+- [[UN4GL5#V「ます形」 やすいです・にくいです - easy/difficult to do]] · N4

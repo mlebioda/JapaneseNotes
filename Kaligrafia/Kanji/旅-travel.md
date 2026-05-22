@@ -1,5 +1,5 @@
 # 旅 - travel
-[[Kaligrafia-7-Travel#旅 - travel たび・リョ]]
+[[Kaligrafia-7-Travel#旅 - travel・たび・リョ]]
 
 ---
 [[方 – kierunek]]

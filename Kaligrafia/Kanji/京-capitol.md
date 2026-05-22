@@ -1,5 +1,5 @@
 # 京 - capitol
-[[Kaligrafia-10-Letter#京 - location of the imperial palace みやこ・きょう]]
+[[Kaligrafia-10-Letter#京 - location of the imperial palace・みやこ・キョウ]]
 
 ---
 [[亠 - roof, something tall]]

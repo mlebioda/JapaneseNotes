@@ -1,7 +1,7 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL11-Research
 
-## 研  - research, sharpen と・ケン
-[[研 - research]]
+## 研 - research, sharpen・と・ケン
+[[研-research]]
 ![[Pasted image 20250507203247.png]]
 Imagine a **scholar** grinding a **stone (石)** carefully using both **hands/tools (幵**)** in order to **sharpen** it — not just physically, but mentally.
 
@@ -12,8 +12,8 @@ Imagine a **scholar** grinding a **stone (石)** carefully using both **hands/to
 **(けん)**
 #w 研究（けんきゅう）- research
 #w あの先生は何を研究していますか（けんきゅう）- what is that teacher researching?
-## 究 - research きわ・きゅう
-[[究 - research]]
+## 究 - research・きわ・キュウ
+[[究-research]]
 ![[Pasted image 20250507203944.png]] 
 九 nine hours spent  **穴 hidden** to do research
 
@@ -29,8 +29,8 @@ Imagine a **scholar** grinding a **stone (石)** carefully using both **hands/to
 
 #w 弟は外国語を研究しています（おとうと、がいこくご、けんきゅう）- My younger brtother is studying a foreign language
 #w あなたも日本文学を研究していますか（ぶんがく、けんきゅう）- are you also studying Japanese literature (research)
-## 主 - mainly, one's master おも、ぬし、シュ
-[[主 - mainly]]
+## 主 - mainly, one's master・おも、ぬし・シュ
+[[主-mainly]]
 ![[Pasted image 20250512221751.png]]
 candlestick
 
@@ -53,7 +53,8 @@ candlestick
 #w 姉の主人は医者です（あね、しゅじん、いしゃ）- Sister's elder husband is a doctor
 #w この店の主人はあの人です（みせ、しゅじん、ひと）-The owner of this store is that person
 #w 主人の仕事は主に海外**との**売買です（しゅじん、おも、かいがい、ばいばい）- My husband's job is **mainly** trading with foreing countries
-## 言 language い・ゲン
+## 言 - language・い・ゲン
+[[言-tosay]]
 **(い)**
 #w 言う（い）- say
 
@@ -70,8 +71,8 @@ candlestick
 #w 私は言語学を学んでいます（げんご、まな）- I am studying linguistics
 
 ---
-## 世 - society, world よ・セ
-[[世 - society]]
+## 世 - society, world・よ・セ
+[[世-society]]
 
 ![[Pasted image 20250522084341.png]]
 **(よ)**
@@ -86,8 +87,8 @@ candlestick
 #w 日本の世の中はアメリカとは違います（よのなか、ちが）- The society of Japan is different from the united states
 
 
-## 界 - world さかい・カイ
-[[界 - world]]
+## 界 - world・さかい・カイ
+[[界-world]]
 ![[Pasted image 20250522084450.png]]
 this rice field, person with legs is our world
 
@@ -99,8 +100,8 @@ this rice field, person with legs is our world
 #w 教育界（きょういくかい）- educational world
 #w 田中先生は教育界の有名人です（きょういくかい、ゆうめいじん）- Teacher mr. Tanaka is a famous person in the educational world
 
-## 新 - new あたら・シン
-[[新 - new]]
+## 新 - new・あたら・シン
+[[新-new]]
 ![[Pasted image 20250522085156.png]]
 to make something **new (新)**, you **stand (立)** beside a **tree (木)** and use an **axe (斤)** to **chop it down and build something fresh**.
 **(あたら)**
@@ -122,8 +123,8 @@ to make something **new (新)**, you **stand (立)** beside a **tree (木)** and
 
 
 
-## 題 - subject, title - ダイ
-[[題 - subject]]
+## 題 - subject, title・ダイ
+[[題-subject]]
  ![[Pasted image 20250522090610.png]]
  day + roll (correct with foot)  big shell - 
 **(だい)**
@@ -141,8 +142,8 @@ to make something **new (新)**, you **stand (立)** beside a **tree (木)** and
 
 
 
-## 特 - especially - トク
-[[特 - especially]]
+## 特 - especially・トク
+[[特-especially]]
 ![[Pasted image 20250525203945.png]]
 cow + temple it’s sacred and **special (特)**,
 
@@ -153,8 +154,8 @@ cow + temple it’s sacred and **special (特)**,
 #w この車はどんな特色がありますか（とくしょく）- What are the features of this car?
 #w これは特別な研究ですから、大学がお金を出します（とくべつ、けんきゅう、だ）- This is a special research, so the uniwersity will pay for it
 #w この企画の特色は作業がやさしいことです(きかく、とくしょく、さぎょう) - The characteristics of this projec is that the tsask is very easy
-## 別 - distinction, separately わか・ベツ
-[[別 - distinction]]
+## 別 - distinction, separately・わか・ベツ
+[[別-distinction]]
 ![[Pasted image 20250525205442.png]]
 rozróżnienie, oddzielenie
 Mout, strength + knife
@@ -171,8 +172,8 @@ A **knife (刂)** is used to **cut** or **separate** something from another (**�
 #w 別室（べっしつ）- another room
 
 #w 明日から特別な研究が始まります（とくべつ、けんきゅう,は) - The special research will begin from tomorrow
-## 不 - un-non　フ、ブ
-[[不 - un-non]]
+## 不 - un-non・フ、ブ
+[[不-un-non]]
 ![[Pasted image 20250525212358.png]]
 
 **(ふ)**
@@ -188,8 +189,8 @@ A **knife (刂)** is used to **cut** or **separate** something from another (**�
 **(ぶ)**
 #w 不器用（ぶきよう）- clumsy(klamzi)/niezdarny
 
-## 用 - purpose, use もち、ヨウ
-[[用 - purpose]]
+## 用 - purpose, use・もち・ヨウ
+[[用-purpose]]
 ![[Pasted image 20250525213653.png]]
 **(もち)**
 #wc 用いる（もち）- use (academic, official, technical)
@@ -213,7 +214,7 @@ A **knife (刂)** is used to **cut** or **separate** something from another (**�
 
  --- 
 
-
+# Summary
 
  Rzeczowniki:
 

@@ -4,3 +4,5 @@
 ---
 [[廴 - dlugie przejscie]]
 [[聿 – broom]]
+## Occurences
+[[Kaligrafia-1-Company#建 - build・た・ケン]]

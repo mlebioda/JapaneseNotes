@@ -13,6 +13,9 @@
 
 - [[UN4GL3#V dict + と - if]] · N4
 
+- [[UN4GL5#past tense + たら - if]] · N4
+- [[UN4GL5#interrogative V「た」ら + いいですか - ask for advice or instructions]] · N4
+
 ## See also
 
 - [[reasons-causes]] — から for causal relationships

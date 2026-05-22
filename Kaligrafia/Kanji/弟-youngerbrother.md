@@ -1,4 +1,4 @@
 # 弟 - younger brother
-[[Kaligrafia-3-Family#弟 - younger brother おとうと・ダイ、テイ, デ]]
+[[Kaligrafia-3-Family#弟 - younger brother・おとうと・ダイ、テイ、デ]]
 ---
-[[弓 - bow]]
+[[弓-bow]]

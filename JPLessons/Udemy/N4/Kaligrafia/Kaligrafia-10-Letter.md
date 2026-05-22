@@ -1,7 +1,7 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL10-Letter
 
-## 手 - hand て、シュ
-[[手 - hand]]
+## 手 - hand・て・シュ
+[[手-hand]]
 ![[Pasted image 20250429190001.png]]
 **(て)**
 手（て）- hand
@@ -14,8 +14,8 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL10-Letter
 **(しゅ)** person who does a certain type of work
 #w 運転手（うんてんしゅ）- driver
 #w 歌手（かしゅ）- singer
-## 紙 - paper かみ・シ
-[[紙 - paper]]
+## 紙 - paper・かみ・シ
+[[紙-paper]]
 ![[Pasted image 20250429190516.png]]
 Paper is made from **1thread**, used by **clans** to write history.
 **(かみ)** 
@@ -32,7 +32,8 @@ Paper is made from **1thread**, used by **clans** to write history.
 **(し)**
 #w 和紙（わし）- japanese paper
 #w 新聞紙（しんぶんし）- newspaper
-## 切 - cut き・セツ
+## 切 - cut・き・セツ
+[[切-tocut]]
 ![[Pasted image 20250429191136.png]]
 7 + knife
 **(き)**
@@ -49,8 +50,8 @@ Paper is made from **1thread**, used by **clans** to write history.
 #w 切ない（せつない）- sorrowful
 
 #w あの先生はとても親切です（しんせつ）- That teacher is very kind
-## 使 - use つか・シ
-[[使 - use]]
+## 使 - use・つか・シ
+[[使-use]]
 ![[Pasted image 20250430203013.png]]
 **A person (亻)** uses a **government official (吏)** to get things done
 **(つか)**
@@ -70,8 +71,8 @@ Paper is made from **1thread**, used by **clans** to write history.
 
 
 ---
-## 写 - copy, image/ to photograph うつ、シャ
-[[写 - copy]]
+## 写 - copy, image/to photograph・うつ・シャ
+[[写-copy]]
 ![[Pasted image 20250501121143.png]]
 A **copy** is made when you **cover** (冖) and **give** (与) (one + cover) a shape — like taking a photo or tracing.
 **(うつ)**
@@ -89,7 +90,8 @@ A **copy** is made when you **cover** (冖) and **give** (与) (one + cover) a s
 
 #w これは妹の写真です（いもうと、しゃしん）- This is a photo of my younger sister
 
-## 真 - real　ま、まこと。シン
+## 真 - real・ま、まこと・シン
+[[真-real]]
 ![[Pasted image 20250501122119.png]]
 Lying person on the **ground** practices mindfullnes, do not use **eyes**  to feel **once** his **legs** and know, they are **real**
 **(ま)**
@@ -107,8 +109,8 @@ Lying person on the **ground** practices mindfullnes, do not use **eyes**  to fe
 写真（しゃしん）- picture/photograph
 #w 天真（てんしん）- innocen
 #w 真理（しんり）- truth
-##  送 - send おく・ソウ
-[[送 - send]]
+## 送 - send・おく・ソウ
+[[送-send]]
 ![[Pasted image 20250501123238.png]]
 You want to **send** **大** big package wih **one** **plant** 
 
@@ -128,7 +130,8 @@ You want to **send** **大** big package wih **one** **plant**
 
 #w 母は東京の弟に送金します (はは、おとうと、そうきん) - My mom send money (remittance to my younger brother in tokio)
 #w 今月はまだ家族から送金が来てません（かぞく、そうきん、き）- I haven't received any money from my family this month
-## 京 - location of the imperial palace みやこ・きょう
+## 京 - location of the imperial palace・みやこ・キョウ
+[[京-capitol]]
  ![[Pasted image 20250501123901.png]]
  Under a **roof (亠)** in the **capital**, there's a **small (小)** space where **many mouths (口)** talk — that’s the noisy **capital** city!
 **(みやこ)** 
@@ -146,8 +149,8 @@ You want to **send** **大** big package wih **one** **plant**
 都 - capiyal
 
 ---
-## 花 - flower はな・か 
-[[花 - flower]]
+## 花 - flower・はな・カ
+[[花-flower]]
 ![[Pasted image 20250501124330.png]]
 艹 (grass/plant radical), 化 (transform) (human + 7)
 **(はな)**
@@ -160,8 +163,8 @@ You want to **send** **大** big package wih **one** **plant**
 **(か)**
 #w 開花（かいか）- blooming/kwitnący
 #w 国花（こっか）- national flower
-## 色 - color いろ・ショク、シキ
-[[色 - color]]
+## 色 - color・いろ・ショク、シキ
+[[色-color]]
 ![[Pasted image 20250501125503.png]]
 (いろ)
 #w 青色（あおいろ）- blue color (whole)
@@ -176,8 +179,8 @@ You want to **send** **大** big package wih **one** **plant**
 
 **(しき)**
 #w 色紙（しきし）- square poetry card (colored paper)
-## 赤 - red あか・セキ
-[[赤 - red]]
+## 赤 - red・あか・セキ
+[[赤-red]]
 ![[Pasted image 20250501130736.png]]
 under the ground is the body without head covered in RED blood
 **(あか)**
@@ -194,8 +197,8 @@ under the ground is the body without head covered in RED blood
 #w 会員（かいいん）- member
 
 #w 赤道の国は熱いですねえ（せきどう、くに、あつ）- The countries on the equator are hot, aren't they
-## 青 - blue あお・せい
-[[青 - blue]]
+## 青 - blue・あお・セイ
+[[青-blue]]
 ![[Pasted image 20250501131813.png]]
 **Moon + Ground**  with reflects **One** light beam 
 **(あお)** (younger, less experienced)
@@ -225,7 +228,7 @@ under the ground is the body without head covered in RED blood
 #wc 訪れる (おとず) - odwiedzać
  
 
-
+# Summary
 
  Rzeczowniki:
 

@@ -8,6 +8,7 @@
 
 - [[UN4GL4#んじゃない - when someone ask for opinion and speaker is sure of their idea]] · N4
 
+
 ## See also
 
 - [[reported-speech]] — quoting what someone else said

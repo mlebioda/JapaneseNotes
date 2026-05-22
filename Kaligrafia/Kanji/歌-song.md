@@ -1,5 +1,5 @@
 # 歌 - song
-[[Kaligrafia-8-Day-Off#歌 - song, sing うた、カ]]
+[[Kaligrafia-8-Day-Off#歌 - song, sing・うた・カ]]
 
 
 

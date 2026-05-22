@@ -1,7 +1,7 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL14-Grocery
 
-## 米 - rice こめ・ベイ、マイ
-[[米 - rice]]
+## 米 - rice・こめ・ベイ、マイ
+[[米-rice]]
 ![[Pasted image 20250611214020.png]]
 
 **(こめ)**
@@ -27,7 +27,8 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL14-Grocery
 
 #w やはり米飯は白米がいいよ思いますよ（べいはん、はくまい、おも）- I think white rice is good for cooked rikce after all.
 
-## 田 - rice field た・デン
+## 田 - rice field・た・デン
+[[田-ricefield]]
 
 **(た)**
 田中（たなか）- tanaka
@@ -41,8 +42,8 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL14-Grocery
 #w 田中さんの会社の主な仕事は米の売買です（おも、こめ、ばいばい）- The main(mainly) job of Tanaka companys is the trade of rice
 
 
-## 広 - wide ひろ・コウ
-[[広 - wide]]
+## 広 - wide・ひろ・コウ
+[[広-wide]]
 ![[Pasted image 20250611215137.png]]
 Under a wide (広) roof (广), there's room even for someone's private (厶) space."
 
@@ -57,8 +58,8 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 #w 広大（こうだい）- vast
 #w 広告（こうこく）- advertisement
 
-## 台 - stand, counter sufficx form machines or devices タイ、ダイ
-[[台 - stand]]
+## 台 - stand, counter suffix for machines or devices・タイ、ダイ
+[[台-stand]]
 ![[Pasted image 20250611215511.png]]
 **(たい)**
 #w 台風（たいふう）- typhoon
@@ -78,8 +79,8 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 #w 食料品は台所に運んでください（しょくりょうひん、だいどころ、はこ）- Please bring groceries to the kitchen
 
 ---
-## 牛 - cow うし・ギュウ
-[[牛 - cow]]
+## 牛 - cow・うし・ギュウ
+[[牛-cow]]
 ![[Pasted image 20250611215707.png]]
 **(うし)**
 #w 牛（うし）- cow
@@ -93,8 +94,8 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 #w 牛肉と鳥肉とどちらが好きですか（ぎゅうにく、とりにく）- Which do you like better, beef or chicken meat?
 
 #w この料理屋は牛肉が有名です（りょうりや、ぎゅうにく、ゆうめい）- This restaurant if famous for beef dishes
-## 鳥 - bird とり・チョウ
-[[鳥 - bird]]
+## 鳥 - bird・とり・チョウ
+[[鳥-bird]]
 ![[Pasted image 20250611215908.png]]
 **(とり)**
 #w 鳥（とり）- bird
@@ -111,8 +112,8 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 #w 一石二鳥（いっせきにちょう）- two birds with one stone (idiom) throw one stone to get one bird
 #w 私は魚より、牛肉が好きです（さかなりょうり、ぎゅうにく）- I like beef more than fish
 
-## 黒 - black くろ・コク
-[[黒 - black]]
+## 黒 - black・くろ・コク
+[[黒-black]]
 ![[Pasted image 20250611220815.png]]
 The village (里) was covered in black soot after a fire (灬)."
 **(くろ)**
@@ -124,8 +125,8 @@ The village (里) was covered in black soot after a fire (灬)."
 **(こく)**
 #w 黒色（こくしょく） - black color
 #w 黒板（こくばん）- black board
-## 重 - heavy おも・ジュウ
-[[重 - heavy]]
+## 重 - heavy・おも・ジュウ
+[[重-heavy]]
 ![[Pasted image 20250611223009.png]]
 **(おも)**
 #wp 重い（おも）- heavy
@@ -148,8 +149,8 @@ The village (里) was covered in black soot after a fire (灬)."
 
 
 ---
-## 去 - go away さ・キョ
-[[去 - go away]]
+## 去 - go away・さ・キョ
+[[去-goaway]]
 You leave (去) your land (土) behind to go live on your own (厶).
 ![[Pasted image 20250611232212.png]]
 **(さ)**
@@ -171,7 +172,8 @@ You leave (去) your land (土) behind to go live on your own (厶).
 
 #w 去年は海外旅行はしませんでした（きょねん、かいがいりょこう）- I didn't travel abroad last year
 
-## 足 - foot あし、た・ソク
+## 足 - foot・あし、た・ソク
+[[足-feet]]
 ![[Pasted image 20250611232645.png]]
 mouth + stop
 (あし)
@@ -193,8 +195,8 @@ mouth + stop
 #w 土足（どそく）- enter the house with one's shoes on
 
 
-## 数 - number かず、かぞ・スウ
-[[数 - number]]
+## 数 - number・かず、かぞ・スウ
+[[数-number]]
 ![[Pasted image 20250611233314.png]]
 A woman (女) counts grains of rice (米) one by one with her hand (攵)."
 rice + woman + whip
@@ -220,7 +222,7 @@ rice + woman + whip
  
  --- 
 
-
+# Summary
 
  Rzeczowniki:
 

@@ -1,4 +1,5 @@
 [[[UNK5L8#**言 - say い・ゲン、ゴン**]]]
+[[Kaligrafia-11-Research#言 - language・い・ゲン]]
 
 ---
 [[語 - word かた・ゴ]]

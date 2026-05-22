@@ -1,5 +1,5 @@
 # 画 - draw, stroke
-[[Kaligrafia-7-Travel#画 - draw, stroke, picture か、えが・カク、ガ]]
+[[Kaligrafia-7-Travel#画 - draw, stroke, picture・か、えが・カク、ガ]]
 
 ---
 

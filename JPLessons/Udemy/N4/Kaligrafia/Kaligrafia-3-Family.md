@@ -1,7 +1,7 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL3-Family
 
-## 家 - home, house いえ、うち・カ、ケ
-[[家 - home]]
+## 家 - home, house・いえ、うち・カ、ケ
+[[家-home]]
 ![[Pasted image 20250310200814.png]] 
 
 
@@ -20,8 +20,8 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL3-Family
 (け)
 #w 山田家（やまだけ）- yamada family
 
-## 族 race, tribe, group やから・ぞく
-[[族 - race]]
+## 族 - race, tribe, group・やから・ゾク
+[[族-race]]
 ![[Pasted image 20250310201410.png]]
 Banner . . . dart.
 A **clan (族)** is a **group of people (方)** who fight together using **arrows (矢)**.
@@ -33,8 +33,8 @@ A **clan (族)** is a **group of people (方)** who fight together using **arrow
 #w 家族はアメリカに住んでいます（かぞく、す）- my family lives in US
 #w 名族（めいぞく）- noble family (rodzina szlachecka)
 
-## 住 - live, reside　す・ジュウ
-[[住 - live]]
+## 住 - live, reside・す・ジュウ
+[[住-live]]
 ![[Pasted image 20250310201853.png]]
 (す)
 住む（す）- to live, reside
@@ -46,8 +46,8 @@ A **clan (族)** is a **group of people (方)** who fight together using **arrow
 #w 住所（じゅうしょ）- address
 #w 会社の住所を教えてください（じゅうしょ、おしょ）- please, tell me company addres
 　
-## 所 place ところ・ショ
-[[所 - place]]
+## 所 - place・ところ・ショ
+[[所-place]]
 ![[Pasted image 20250310202305.png]]
 A **place (所)** is where people use an **axe (斤)** behind a **door (戸)**, like in a workshop.
 (ところ)
@@ -65,7 +65,8 @@ A **place (所)** is where people use an **axe (斤)** behind a **door (戸)**, 
 #w 会社の場所はどこですか（ばしょ）- where is location of the company?
 
 ---
-## ## 親 - parent おや、した・シン
+## 親 - parent・おや、した・シン
+[[親-parent,intimiate]]
 ![[Pasted image 20250311191807.png]]
 **A parent (親)** is someone who **stands (立)** under a **tree (木)**, always **watching (見)** over their child with care.
 (おや)
@@ -82,7 +83,8 @@ A **place (所)** is where people use an **axe (斤)** behind a **door (戸)**, 
 
 (しん)
 #w 親族(しんぞく) - relatives
-## 私 - I わたし、わたくし・し
+## 私 - I・わたし、わたくし・し
+[[私-I]]
 
 (わたし)
 #w 私の会社はあの建物です（たてもの）- That building is my company
@@ -96,8 +98,8 @@ A **place (所)** is where people use an **axe (斤)** behind a **door (戸)**, 
 #w 私大 (しだい) - private university
 #w あの大学は大学です(しだい) - that university is private university
 #w 父親は私大の先生です（ちちや、しだい）- My father is a teacher at the private university
-## 兄 elder brother あに、にい・キョウ,ケイ
-[[兄 - elder brother]]
+## 兄 - elder brother・あに、にい・キョウ、ケイ
+[[兄-elderbrother]]
 ![[Pasted image 20250311193045.png]]
 (あに)
 #w 兄（あに） older brother
@@ -117,8 +119,8 @@ A **place (所)** is where people use an **axe (斤)** behind a **door (戸)**, 
 (けい) old way
 #w 長兄（ちょうけい）- eldest brother
 
-## 弟 - younger brother おとうと・ダイ、テイ, デ
-[[弟 - younger brother]]
+## 弟 - younger brother・おとうと・ダイ、テイ、デ
+[[弟-youngerbrother]]
 ![[Pasted image 20250311193747.png]]
 Horns . . . dollar sign.
 (おとうと)
@@ -138,8 +140,8 @@ Horns . . . dollar sign.
 
 
 ---
-## 姉 - elder sister あね、ねえ・し
-[[姉 - elder sister]]
+## 姉 - elder sister・あね、ねえ・し
+[[姉-eldersister]]
 ![[Pasted image 20250312203938.png]]
 
 Woman + Market (older sister, woman goes to the market)
@@ -155,8 +157,8 @@ Woman + Market (older sister, woman goes to the market)
 (し)
 #w 姉妹（しまい）- sisters
 #w 家は3人姉妹です（しまい）- We are the family of three sisters
-## 妹 - younger sister いもうと・マイ
-[[妹 - younger sister]]
+## 妹 - younger sister・いもうと・マイ
+[[妹-youngersister]]
 ![[Pasted image 20250312204447.png]] 
 
 Woman, not yet
@@ -170,7 +172,8 @@ Woman, not yet
 (マイ)
 姉妹（しまい）- sisters
 #w 私の姉妹は妹だけです（しまい）- My younger sister is my only sibling
-## 仕 official, serve つか・し、じ
+## 仕 - official, serve・つか・し、じ
+[[仕-official,serve]]
 ![[Pasted image 20250312204857.png]]
 
 **A person (亻)** serves under a **samurai (士)**, dedicating themselves to their master's work.
@@ -184,7 +187,8 @@ Woman, not yet
 **(じ)**
 #w 給仕（きゅうじ）- waiter
 
-## 事 thing  こと、ごと・じ
+## 事 - thing・こと、ごと・じ
+[[事-abstractthing,matter]]
 
 ![[Pasted image 20250312205401.png]]
 - **一 (いち)** – "One"
@@ -207,6 +211,8 @@ Woman, not yet
  
 
 
+
+# Summary
 
  Rzeczowniki:
 

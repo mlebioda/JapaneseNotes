@@ -9,82 +9,78 @@ and append them under a `# Summary` + `Rzeczowniki:` section.
 
 ## Workflow
 1. Find the lesson file (search by lesson number if needed)
-2. Create a `.bak` backup of the file before writing — no confirmation needed
-3. Read all `#w`, `#wc`, `#wp` lines from the lesson file
-4. For each `#wc` verb: determine its type (godan / ichidan / suru / kuru) using
-   your Japanese knowledge. If uncertain, use web search to confirm.
-5. Generate cards following the formats below
-6. Check each Japanese word against `KanjiList.md` — add `#k` tag if matched
-7. Append the `# Summary` block to the end of the file
-8. Done — no confirmation needed
+2. Run `fill_extract.py` to extract vocab lines, apply #k tags, and write skeleton cards
+3. Read the updated lesson file to see the generated skeletons
+4. For each `#wc` verb skeleton: determine verb type (godan / ichidan / suru / kuru)
+   and fill in all blank conjugation fields
+5. For each `#wp` adjective skeleton: determine type (い / な / non-adj)
+   and fill in blank form fields
+6. Write the completed cards back with Edit — replacing the skeleton block
+7. Done — no confirmation needed
 
-## Verb type heuristic (apply when unsure)
+## Step 2 — running the script
+
+Translate the lesson file path and KanjiList path to bash mount paths, then run:
+
+```bash
+python3 /sessions/stoic-serene-brahmagupta/mnt/ObsidianJP/.cowork/skills/fill_extract.py \
+  "<lesson_bash_path>" \
+  "/sessions/stoic-serene-brahmagupta/mnt/ObsidianJP/KanjiList.md"
+```
+
+The script handles automatically:
+- Extracting all `#w`, `#wc`, `#wp` lines
+- Deduplication (same Japanese field = skip)
+- `#k` tagging (grep against KanjiList.md)
+- Writing skeleton template structure with blank fields
+- Suru verb detection (no conjugation rows if `する` in Japanese)
+- Removing empty existing `# Summary` and re-appending
+
+## Step 4 — filling verb skeletons
+
+For each `#wc` skeleton, fill all blank fields. Use the verb type heuristic below.
+If uncertain, web-search `[verb] godan ichidan`.
+
+### Verb type heuristic
 - Ends in `える` or `いる` → **ichidan** (e.g. 食べる, 起きる)
-- Ends in any other kana + `る` (ある, おる, うる...) → **godan** (e.g. 渡る, 走る)
+- Ends in any other kana + `る` → **godan** (e.g. 渡る, 走る)
 - Ends in `く`,`ぐ`,`す`,`つ`,`ぬ`,`ぶ`,`む`,`う` → always **godan**
-- `来る` → **kuru**
-- `する` or compound `〜する` → **suru**
+- `来る` → **kuru** (use fixed forms below)
+- `する` or compound `〜する` → **suru** (script already produces no-conjugation skeleton)
 - Common godan exceptions ending in `える/いる`: 帰る, 走る, 切る, 知る, 入る, 要る
 
-When uncertain, search: `[verb] godan ichidan` to confirm.
+### Godan (u-verbs) — by ending kana
+| Ending | ます stem | て形 | た形 | ない形 | なかった形 | ば形 | 可能形 | られる形 | 出す形 | 意志形 |
+|--------|----------|------|------|--------|-----------|------|--------|---------|--------|--------|
+| う | い | って | った | わない | わなかった | えば | える | われる | い出す | おう |
+| く | き | いて | いた | かない | かなかった | けば | ける | かれる | き出す | こう |
+| ぐ | ぎ | いで | いだ | がない | がなかった | げば | げる | がれる | ぎ出す | ごう |
+| す | し | して | した | さない | さなかった | せば | せる | される | し出す | そう |
+| つ | ち | って | った | たない | たなかった | てば | てる | たれる | ち出す | とう |
+| ぬ | に | んで | んだ | なない | ななかった | ねば | ねる | なれる | に出す | のう |
+| ぶ | び | んで | んだ | ばない | ばなかった | べば | べる | ばれる | び出す | ぼう |
+| む | み | んで | んだ | まない | まなかった | めば | める | まれる | み出す | もう |
+| る | り | って | った | らない | らなかった | れば | れる | られる | り出す | ろう |
+尊敬語 = られる形. お〜になる = お + ます stem + になる.
 
-## File structure produced
-Append this block to the end of the file:
+### Ichidan (ru-verbs) — drop る
+stem + ます/て/た/ない/なかった/れば/られる/出す; 可能形 = stem + られる; 意志形 = stem + よう (食べる → 食べよう); 尊敬語 = られる form; お〜になる = お + stem + になる.
 
+### 可能形 — special cases
+- **Godan**: change final kana from う-row to え-row + る (書く → 書ける, 渡る → 渡れる, 買う → 買える)
+- **Ichidan**: drop る + られる (食べる → 食べられる)
+- **来る** → 来られる
+- **する** → できる
+
+### そう form rules
+- **Godan**: ます stem + そう (渡る → 渡りそう)
+- **Ichidan**: drop る + そう (食べる → 食べそう)
+- **来る**: 来そう
+- **い-adj**: drop い + そう (美味しい → 美味しそう); いい/よい → よさそう
+- **な-adj**: base + そう (静か → 静かそう)
+
+### 来る — fixed forms
 ```
-# Summary
-
- ---
-
-
- Rzeczowniki:
-
-[cards separated by blank lines]
-
-
- ---
-
-
-```
-
-## Card formats
-
-### #w — word / expression / sentence
-```
-translation [#k] #card
-japanese expression
-```
-
-### #wc — godan / ichidan verb
-```
-translation [#k] #card
-ほんやく: japanese expression
-ます形: ...
-て形: ...
-た形: ...
-ない形: ...
-なかった形: ...
-ば形 (if): ...
-可能形 (can): ...
-られる形 (is done by): ...
-出す形 (start): ...
-尊敬語 (honorific): ...
-お〜になる (honorific): ...
-そう (looks like): ...
-```
-
-**Label rule:** Plain Japanese label only for basic forms (ます, て, た, ない, なかった); add a short English hint in parentheses for ば形, 可能形, られる形, 出す形, 尊敬語, お〜になる, そう. Keep labels exactly as shown above.
-
-### #wc — suru verb (no conjugation)
-```
-translation [#k] #card
-ほんやく: japanese expression
-```
-
-### #wc — kuru (来る)
-```
-translation [#k] #card
-ほんやく: 来る
 ます形: 来ます
 て形: 来て
 た形: 来た
@@ -97,12 +93,15 @@ translation [#k] #card
 尊敬語 (honorific): 来られる
 お〜になる (honorific): お出でになる
 そう (looks like): 来そう
+おう (let's): 来よう
 ```
 
-### #wp — い-adjective
+## Step 5 — filling adjective skeletons
+
+For each `#wp` skeleton, determine adj type then fill fields:
+
+### い-adjective — fill actual forms
 ```
-translation [#k] #card
-ほんやく: japanese expression
 過去形: stem + かった
 否定形: stem + くない
 副詞形: stem + く
@@ -110,80 +109,58 @@ translation [#k] #card
 ```
 Special: いい / よい → よかった / よくない / よく / よさそう
 
-### #wp — な-adjective
+### な-adjective or non-adjective — fill dashes
 ```
-translation [#k] #card
-ほんやく: japanese expression
 過去形: —
 否定形: —
 副詞形: —
-そう: base + そう
+そう: base + そう   ← (な-adj) or —  ← (non-adj / adverb)
 ```
 
-### #wp — non-adjective (次, はじめて, adverbs)
+## Card format reference (for manual fixes if needed)
+
+### #w — word / expression / sentence
 ```
 translation [#k] #card
-ほんやく: japanese expression
-過去形: —
-否定形: —
-副詞形: —
-そう: —
+japanese expression (furigana)
+```
+Copy the Japanese portion as-is (everything before ` - `), including furigana `(よみ)`.
+
+### #wc — godan / ichidan verb (fully filled)
+```
+translation [#k] #card
+ほんやく: japanese expression (furigana)
+ます形: ...
+て形: ...
+た形: ...
+ない形: ...
+なかった形: ...
+ば形 (if): ...
+可能形 (can): ...
+られる形 (is done by): ...
+出す形 (start): ...
+尊敬語 (honorific): ...
+お〜になる (honorific): ...
+そう (looks like): ...
+おう (let's): ...
 ```
 
-## そう form rules
-- **Godan verb**: ます stem + そう (渡る → 渡りそう, 降る → 降りそう)
-- **Ichidan verb**: drop る + そう (食べる → 食べそう)
-- **来る**: 来そう
-- **い-adj**: drop い + そう (美味しい → 美味しそう)
-- **Special**: いい / よい → よさそう
-- **な-adj**: base + そう (静か → 静かそう)
+### #wc — suru verb (script generates this automatically)
+```
+translation [#k] #card
+ほんやく: japanese expression (furigana)
+```
 
-## Conjugation rules
+## Parsing rules (reference — handled by script, Claude applies for manual fixes)
 
-### Godan (u-verbs) — by ending kana
-| Ending | ます stem | て形 | た形 | ない形 | なかった形 | ば形 | 可能形 | られる形 | 出す形 |
-|--------|----------|------|------|--------|-----------|------|--------|---------|--------|
-| う | い | って | った | わない | わなかった | えば | える | われる | い出す |
-| く | き | いて | いた | かない | かなかった | けば | ける | かれる | き出す |
-| ぐ | ぎ | いで | いだ | がない | がなかった | げば | げる | がれる | ぎ出す |
-| す | し | して | した | さない | さなかった | せば | せる | される | し出す |
-| つ | ち | って | った | たない | たなかった | てば | てる | たれる | ち出す |
-| ぬ | に | んで | んだ | なない | ななかった | ねば | ねる | なれる | に出す |
-| ぶ | び | んで | んだ | ばない | ばなかった | べば | べる | ばれる | び出す |
-| む | み | んで | んだ | まない | まなかった | めば | める | まれる | み出す |
-| る | り | って | った | らない | らなかった | れば | れる | られる | り出す |
-尊敬語 = られる形. お〜になる = お + ます stem + になる.
-
-### Ichidan (ru-verbs) — drop る
-stem + ます/て/た/ない/なかった/れば/られる/出す; 可能形 = stem + られる (e.g. 食べる → 食べられる); 尊敬語 = られる form; お〜になる = お + stem + になる.
-
-### 可能形 (potential form) — special cases
-- **Godan**: change final kana from う-row to え-row + る (書く → 書ける, 飲む → 飲める, 渡る → 渡れる, 買う → 買える)
-- **Ichidan**: drop る + られる (食べる → 食べられる, 見る → 見られる)
-- **来る** → 来られる (こられる)
-- **する** → できる
-
-## #k tag
-Add `#k` before `#card` if the Japanese expression contains any kanji listed in `KanjiList.md`.
-
-## Parsing rules
-
-### Separator format
-Japanese and translation are separated by ` - `:
-- `日本語（よみ）- translation`
-- `日本語 (よみ) - translation`
-- `日本語 - translation`
-
-### Special cases
-- **Double-Japanese entry** (`#wc 伝える（つた）- 伝える（つたえる）- Polish`):
-  Use the second Japanese form as both card front and ほんやく.
-- **`ほんやく:` in translation**: strip the prefix, use only the Polish/English text.
-- **Bold `**` markers**: strip from both Japanese and translation.
-- **Empty translation**: skip the line.
+- Furigana `（よみ）` / `(よみ)`: keep inline, do NOT strip
+- Double-Japanese entry (`#wc 伝える（つた）- 伝える（つたえる）- Polish`): use second Japanese form
+- Bold `**` markers: strip from both fields
+- Empty translation: skip the line
 
 ## Post-execution prompt
 
-After appending the Summary block, ask the user:
+After filling all skeletons, ask the user:
 
 > Summary written. Run **summarize-grammar** on this lesson now? (adds grammar points to the index)
 
@@ -193,4 +170,4 @@ After appending the Summary block, ask the user:
 ## What never to touch
 - TARGET DECK line at top of file
 - <!--ID: --> lines (preserve exactly if present)
-- Existing Rzeczowniki: section (if already present — do not re-run on filled files)
+- Existing <!--ID: --> (if already found in file — script aborts automatically)

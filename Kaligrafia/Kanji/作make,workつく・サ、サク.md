@@ -6,3 +6,6 @@
 ---
 [[亻- person]]
 [[乍 - component]]
+
+## Occurences
+[[Kaligrafia-1-Company#作 - make, work・つく・サ、サク]]
