@@ -1,9 +1,9 @@
 ---
 name: kanji-headers
 description: >
-  Extract kanji from a table image and write structured markdown headers directly into a target
-  file. Use this skill whenever the user provides a kanji table image and a filename — whether
-  they say "extract", "format", "fill", "add headers", or similar. Writes kanji headers plus
+  Extract kanji from a file headers and write structured markdown headers directly into a target
+  file. Use this skill whenever the user provides a filename — whether
+  they say "kanji headers", or similar. Writes kanji headers plus
   a # Summary section at the end of the file.
 ---
 
@@ -11,11 +11,10 @@ description: >
 
 ## Workflow
 
-User provides: an **image** of a kanji table and a **filename** (target file in the vault).
+User provides: a **filename** (target file in the vault).
 
 1. Read the target file
-2. Create a `.bak` backup (automatic, no confirmation needed)
-3. Extract all kanji from the image
+3. Extract all kanji from the file Headers
 4. Write the formatted kanji blocks to the file, followed by `# Summary`
 5. Save the file
 6. Run the `update-kanji-list` workflow on the same file (load `.cowork/skills/update-kanji-list.md` and follow its instructions)
@@ -48,9 +47,11 @@ If the file already has a `# Summary` line, replace everything from that line on
 
 ### Link under each header
 
-Immediately after each `## header` line, add a wikilink to the corresponding kanji file in `Kaligrafia/Kanji/`.
+Immediately after each `## header` line, there must be a wikilink to the corresponding kanji file in `Kaligrafia/Kanji/`. Always verify the link — whether adding a new one or correcting an existing one.
 
 **File names in `Kaligrafia/Kanji/` are not consistent and may be in subdirectories** — do not guess the name or path from a pattern. Instead, search recursively under `Kaligrafia/Kanji/` for any file whose name **starts with the kanji character** and use the exact filename (without `.md`) as the wikilink.
+
+If a wikilink already exists under the header, verify it matches the actual filename found by the search. If it does not match, correct it.
 
 Use a recursive glob: `Kaligrafia/Kanji/**/漢*` — this matches both `Kaligrafia/Kanji/漢-china.md` and `Kaligrafia/Kanji/艹/漢-kanji,china.md`.
 
@@ -93,25 +94,26 @@ Produce all kanji in the order they appear in the table.
 ## 車 - car・くるま・シャ
 [[車 - car]]          ← exact filename found in Kaligrafia/Kanji/
 
-(くるま)
+**(くるま)**
 
-(シャ)
+**(シャ)**
 
 ---
 
 ## 電 - electricity・デン
 [[電-electricity]]    ← exact filename found in Kaligrafia/Kanji/
 
-(デン)
+**(デン)**
 
 ---
 
 ## 何 - what・なに、なん
 [[何-what]]           ← exact filename found in Kaligrafia/Kanji/
 
-(なに)
+**(なに)**
 
-(なん)
+
+**(なん)**
 
 ---
 

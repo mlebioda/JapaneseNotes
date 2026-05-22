@@ -1,36 +1,41 @@
 TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 
-## 百 - 100 ヒャク
-[[百 - 100]]
+## 百 - 100・ヒャク
+[[百-100]]
+
 **(ヒャク)**
 
 **()**
 
-## 千 - 1000 ち・セン
-[[千 - 1000 ち・セン]]
-**(ち)**
+## 千 - 1000・ち・セン
+[[千-1000ち・セン]]
 
+**(ち)**
 #w 千葉県（ちばけん) - chiba prefecture
 
-**(せん)**
+**(セン)**
 
-## 万 - 10 000 マン, バン
-[[万 - 10 000 マン, バン]]
+## 万 - 10 000・マン、バン
+[[万-10000マン,バン]]
+
 **(まん)**
 
 **(ばん)**
 #w 万国（ばんこく）- all nations, narody świata 
-## 円 - yen, circle エン
-[[円 - yen]]
+
+## 円 - yen, circle・まる・エン
+[[円-yen]]
 
 **(えん)**
 #w 円を書く（えん、か）- draw a circle
 #w 円（えん） - circle
 
-(まる)
+**(まる)**
 #w 円い（まるい）– okrągły (kształt)
 #w このコインは円いです - ta moneta jest okrągła
-## 前 - front, before　まえ・ゼン
+
+## 前 - front, before・まえ・ゼン
+[[前-front,before]]
 
 **(まえ)**
 #w 川の前（かわのまえ) - in front of the river
@@ -39,7 +44,9 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 **(ぜん)**
 #w 前半（ぜんはん) - the first half
 #w 午前（ごぜん） - przed południem 
-## 後 - back, after うし（ろ), あと・ゴ、コウ
+
+## 後 - back, after・うし（ろ）、あと・ゴ、コウ
+[[後-after,back]]
 
 **(うし)**
 #w 山の後ろに田んぼがあります（やま、うし）- there is a rice field behind the mountain
@@ -57,16 +64,17 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 #w 後半（こうはん）- the latter half
 
 
-## 左 - left 左・サ
-[[左 - left]]
+## 左 - left・ひだり・サ
+[[左-left]]
 
 **(ひだり)**
 #w 左を見る（ひだり、み) - look at the left side
 
 **(さ)**
 #wc 左折（させつ) - turn left(noun can be verb)
-## 右 - right みぎ・ウ、ユウ
-[[右 - right]]
+
+## 右 - right・みぎ・ウ、ユウ
+[[右-right]]
 
 **(みぎ)**
 #w 右手（みぎて) - right hand
@@ -76,7 +84,9 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 
 **(ゆう)**
 #w 左右（さゆう) - left and right
-## 上 - above, on うえ、あ（がる）・ジョウ
+
+## 上 - above, on・うえ、あ（がる）・ジョウ
+[[上-above]]
 
 **(うえ)**
 #w 山の上（やまのうえ) - top of the mountain
@@ -89,9 +99,11 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 #w 水上スキー -  water ski
 #w 上手な(じょうず) - good at
 
-(のぼ)
+**(のぼ)**
 #wc 上る - to go up, to climb, ascend (someone)
-## 下 - under した、さ（がる)・カ、げ
+
+## 下 - under・した、さ（がる）・カ、げ
+[[下-under]]
 
 **(した)**
 #w 机の下（つくえ、した) - under the desk
@@ -106,17 +118,13 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 **(で)**
 #w 上下（じょうげ) - up and down
 
-(くだ)
+**(くだ)**
 #wc 下る（くだ) - to go down(someone)
 
-(へ)
+**(へ)**
 #w 下手な（へた） - poor at
 
- --- 
-
-
-
- --- 
+# Summary
 
 
 
