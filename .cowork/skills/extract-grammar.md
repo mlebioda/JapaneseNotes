@@ -192,17 +192,16 @@ Apply these rules (same as `summarize-grammar`):
 
 For each (grammar point, topic file) pair:
 
-- **Dedup**: skip if `(grammar/<slug>)` already appears in the file.
-- **Entry format**: `- [<pattern>](grammar/<slug>) · <level>`
-  where `<pattern>` is the exact heading text from the grammar point. Use relative
-  markdown links — NOT wikilinks. This ensures the link works on GitHub Pages (Jekyll)
-  as well as in Obsidian.
+- **Dedup**: skip if `grammar-index/grammar/<slug>)` already appears in the file.
+- **Entry format**: `- [<pattern>](https://mlebioda.github.io/JapaneseNotes/grammar-index/grammar/<slug>) · <level>`
+  where `<pattern>` is the exact heading text from the grammar point. Use full absolute
+  URLs — NOT wikilinks or relative paths. This ensures the link works on GitHub Pages.
 - **Exists**: insert immediately before `## See also` (or append to end of `## Entries`
   if no `## See also`). Use Python:
 
   ```python
   with open(path) as f: content = f.read()
-  entry = "- [同じ - same](grammar/same) · N5"
+  entry = "- [同じ - same](https://mlebioda.github.io/JapaneseNotes/grammar-index/grammar/same) · N5"
   if "## See also" in content:
       content = content.replace("\n## See also", "\n" + entry + "\n\n## See also", 1)
   else:
