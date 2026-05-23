@@ -4,7 +4,7 @@
 
 ## Entries
 
-- [[grammar-index/grammar/in-total]] · N5
+- [全部で - in total](grammar/in-total) · N5
 
 ## See also
 
