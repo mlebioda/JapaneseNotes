@@ -17,7 +17,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-# Exclude everything except JPLessons and Gramatyka-Index
+# Exclude everything except JPLessons and grammar-index
 exclude:
   - .cowork/
   - .obsidian/

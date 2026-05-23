@@ -14,4 +14,4 @@ Personal notes from studying Japanese, organized by JLPT level.
 
 ## Grammar Index
 
-Browse grammar topics: [Gramatyka-Index](Gramatyka-Index/)
+Browse grammar topics: [grammar-index](grammar-index/)
