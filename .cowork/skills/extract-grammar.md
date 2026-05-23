@@ -47,51 +47,129 @@ awk '/^# Summary$/{exit} {print}' "$LESSON_FILE"
 
 Pass only this slice to all subsequent parsing steps.
 
-### 3. Locate the `# 文法` section
+### 3. Locate target sections
 
-Find the `^# 文法` heading. Collect everything from that heading until the next `^# `
-heading of the same level (or end of the pre-Summary slice).
+Find the following sections in the pre-Summary slice. Process only these two — ignore all other top-level headings.
 
-If no `# 文法` section exists in the file, skip this file and log:
-`[SKIP] <lesson-code>: no # 文法 section found`
+**`# 文法`** — grammar section.
+- Match `^# 文法` (heading level 1). Collect everything from that heading until the next same-level heading.
+- If found at a level other than 1 (e.g. `## 文法`), ask the user: "Found `## 文法` at heading level 2 — should I treat this as the grammar section?"
+- If no `文法` section exists at any level, skip grammar extraction and log: `[SKIP] <lesson-code>: no 文法 section found`
 
-### 4. Split into individual grammar points
+**`# Vocabulary`** — vocabulary section.
+- Match `^# Vocabulary` (heading level 1). Collect everything from that heading until the next same-level heading.
+- If found at a level other than 1 (e.g. `## Vocabulary`), ask the user: "Found `## Vocabulary` at heading level 2 — should I treat this as the vocabulary section?"
+- If no `Vocabulary` section exists, skip vocabulary extraction silently (it is optional — do not log).
 
-Split the 文法 section on `## ` headings. Each `## Heading` is one independent grammar
-point. Apply the same promotion rule used by `summarize-grammar`:
+### 4. Collect all headings
 
-- If a `##` heading has only `###` subheadings with no prose of its own, treat each
-  `###` as a top-level grammar point instead.
-- If a `##` has both prose and `###` children, use the `##` as the grammar point
-  (do not promote).
-- Skip any heading that is clearly a vocabulary gloss rather than a grammar pattern
-  (e.g. a single word with a translation, no structural rule).
-
-For each grammar point, collect:
+Collect **every** heading found in both target sections — do not skip any. For each heading record:
 - `heading` — the exact heading text (preserve kanji, kana, punctuation, spaces)
 - `body` — everything below the heading until the next same-level heading
+- `has_prose` — whether the body contains any prose/examples beyond sub-headings and `#w` lines
+- `has_subheadings` — whether the body contains further headings
+- `source` — `文法` or `Vocabulary` (which section the heading came from)
+
+### 4b. Classify headings — ask the user
+
+Before creating any files, present every heading to the user with a brief description
+of its content and ask for classification. Do not auto-skip or auto-classify anything.
+
+**Format — print this table and wait for user input:**
+
+```
+Headings found in <lesson-code>:
+
+  [文法]
+  1. ## Numbers              [no prose, has sub-headings: Only numbers, People, Floors]
+  2. #### Only numbers       [reference table: number lists 0–万]
+  3. #### 同じ - same        [has Structure + Examples]
+
+  [Vocabulary]
+  4. ## こんな, そんな, あんな  [3 example lines, no sub-headings]  → subdir: Adjectives?
+  5. ### 出来る（できる)       [verb, 2 structures + examples]     → subdir: Verbs?
+
+Classify each (grammar / container / skip).
+For Vocabulary items, confirm or change the suggested subdir.
+If the suggested subdir doesn't fit, type: new:<dirname> or other
+```
+
+**Subdir suggestions for Vocabulary headings** — derive from content, not from `#w`/`#wc`/`#wp` tags:
+- Heading or body describes verb conjugation, verb usage, or verb structures → suggest `Verbs`
+- Heading or body describes adjective forms or adjective usage → suggest `Adjectives`
+- Heading or body describes nouns, expressions, pronouns, set phrases → suggest `Nouns`
+- Unclear or mixed → suggest `Nouns` and note the ambiguity in the table
+
+If the user types `new:<dirname>`, create the new subdir under `grammar-index/grammar/vocabulary/`.
+If the user types `other`, place the file under `grammar-index/grammar/vocabulary/Other/`.
+
+**Classifications:**
+
+- **grammar** — extract as a standalone grammar file. Used when the heading has
+  prose, structure, or examples that explain a pattern.
+- **container** — the heading has no content of its own but groups sub-headings.
+  Creates a container file that links to its promoted sub-files. Sub-headings are
+  classified separately.
+- **skip** — do not extract. Used for pure vocabulary lists or headings that are
+  not grammar patterns.
+
+**After the user responds**, proceed with steps 5–11 using only the classified
+headings. Carry the classification forward:
+- `grammar` from `文法` → `grammar-index/grammar/<slug>.md` (normal flow, steps 5–11)
+- `grammar` from `Vocabulary` → `grammar-index/grammar/vocabulary/<subdir>/<slug>.md` (vocabulary file format, step 7b)
+- `container` → step 7 creates a container file; step 8 inserts wikilink in lesson
+- `skip` → no file created, no wikilink inserted
 
 ### 5. Normalise the slug
 
-Apply this rule to the heading text to produce the anchor slug:
+Apply these steps in order to the heading text:
 
-1. Lowercase the text.
-2. Strip all non-ASCII characters (removes kanji, kana, `〜`, `・`, `（`, `）`, etc.).
-3. Strip punctuation except `-` (removes `.`, `,`, `!`, `?`, `(`, `)`, etc.).
-4. Replace one or more spaces with a single `-`.
-5. Strip leading and trailing `-`.
-6. If the result is empty (heading was entirely non-ASCII), use the heading's
-   position index: `point-1`, `point-2`, etc.
+1. **Transliterate kana to romaji** using standard Hepburn romanization (table below).
+   Apply compound kana before single kana (e.g. `きゃ→kya` before `き→ki`).
+   Special rules: `っ` doubles the following consonant (`っか→kka`, `っぱ→ppa`); lone `っ` at end → `t`.
+   `ん` before b/m/p → `m` (`しんぶん→shimbun`); elsewhere → `n`.
+   `ー` (long vowel mark) → drop.
+   Kanji are **not** transliterated — they are stripped in step 3.
+2. **Lowercase** all characters.
+3. **Strip all remaining non-ASCII** characters (kanji, `〜`, `・`, `（`, `）`, `「`, `」`, etc.).
+4. **Strip punctuation except `-`** (removes `.`, `,`, `!`, `?`, `(`, `)`, `/`, `'`, etc.).
+5. **Replace one or more spaces with a single `-`**.
+6. **Strip leading and trailing `-`**.
+7. **Collapse consecutive `-`** to a single `-`.
+8. If the result is empty (heading was entirely kanji with no Latin or kana), use the
+   heading's position index: `point-1`, `point-2`, etc.
+
+**Kana romanization table:**
+
+| Kana | Romaji | Kana | Romaji | Kana | Romaji | Kana | Romaji |
+|------|--------|------|--------|------|--------|------|--------|
+| あ/ア | a | い/イ | i | う/ウ | u | え/エ | e | お/オ | o |
+| か/カ | ka | き/キ | ki | く/ク | ku | け/ケ | ke | こ/コ | ko |
+| が/ガ | ga | ぎ/ギ | gi | ぐ/グ | gu | げ/ゲ | ge | ご/ゴ | go |
+| さ/サ | sa | し/シ | shi | す/ス | su | せ/セ | se | そ/ソ | so |
+| ざ/ザ | za | じ/ジ | ji | ず/ズ | zu | ぜ/ゼ | ze | ぞ/ゾ | zo |
+| た/タ | ta | ち/チ | chi | つ/ツ | tsu | て/テ | te | と/ト | to |
+| だ/ダ | da | ぢ/ヂ | ji | づ/ヅ | zu | で/デ | de | ど/ド | do |
+| な/ナ | na | に/ニ | ni | ぬ/ヌ | nu | ね/ネ | ne | の/ノ | no |
+| は/ハ | ha | ひ/ヒ | hi | ふ/フ | fu | へ/ヘ | he | ほ/ホ | ho |
+| ば/バ | ba | び/ビ | bi | ぶ/ブ | bu | べ/ベ | be | ぼ/ボ | bo |
+| ぱ/パ | pa | ぴ/ピ | pi | ぷ/プ | pu | ぺ/ペ | pe | ぽ/ポ | po |
+| ま/マ | ma | み/ミ | mi | む/ム | mu | め/メ | me | も/モ | mo |
+| や/ヤ | ya | ゆ/ユ | yu | よ/ヨ | yo | | | | |
+| ら/ラ | ra | り/リ | ri | る/ル | ru | れ/レ | re | ろ/ロ | ro |
+| わ/ワ | wa | を/ヲ | wo | ん/ン | n | っ/ッ | (double) | ー | (drop) |
+
+Compound kana (apply before single): きゃ/キャ→kya, きゅ/キュ→kyu, きょ/キョ→kyo, しゃ/シャ→sha, しゅ/シュ→shu, しょ/ショ→sho, ちゃ/チャ→cha, ちゅ/チュ→chu, ちょ/チョ→cho, にゃ/ニャ→nya, にゅ/ニュ→nyu, にょ/ニョ→nyo, ひゃ/ヒャ→hya, ひゅ/ヒュ→hyu, ひょ/ヒョ→hyo, みゃ/ミャ→mya, みゅ/ミュ→myu, みょ/ミョ→myo, りゃ/リャ→rya, りゅ/リュ→ryu, りょ/リョ→ryo, ぎゃ/ギャ→gya, ぎゅ/ギュ→gyu, ぎょ/ギョ→gyo, じゃ/ジャ→ja, じゅ/ジュ→ju, じょ/ジョ→jo, びゃ/ビャ→bya, びゅ/ビュ→byu, びょ/ビョ→byo, ぴゃ/ピャ→pya, ぴゅ/ピュ→pyu, ぴょ/ピョ→pyo.
 
 Examples:
-- `Vないでください` → strip non-ASCII → `` → empty → use `point-1`
-- `V + て-form (request)` → lowercase → strip non-ASCII → `+ -form (request)` →
-  strip punctuation except `-` → `+ -form request` → collapse spaces → `-form-request`
-  → strip leading `-` → `form-request`
-- `がんばって！Let's do our best` → `lets-do-our-best`
-- `Particle が vs は` → `particle-ga-vs-ha` (non-ASCII stripped, spaces → `-`)
-  Note: Latin letters in the heading (e.g. `V`, `N`, `Adj`) are kept as-is through
-  the lowercasing step.
+- `Particle が vs は` → transliterate: `Particle ga vs ha` → lowercase → `particle ga vs ha` → collapse spaces → `particle-ga-vs-ha`
+- `Vないでください` → transliterate: `Vnaidekudasai` → lowercase → `vnaidekudasai`
+- `V + て-form (request)` → transliterate: `V + te-form (request)` → lowercase → strip punctuation → `v  te-form request` → collapse → `v-te-form-request`
+- `がんばって！Let's do our best` → transliterate: `ganbatte！Lets do our best` → lowercase → strip punctuation → `ganbatte lets do our best` → collapse → `ganbatte-lets-do-our-best`
+- `同じ` (kanji only, no kana) → transliterate: `同じ` (じ→ji → `同ji`) → strip non-ASCII: `ji` → `ji`
+- `目` (kanji only, no kana) → transliterate: no kana → strip non-ASCII: `` → empty → use `point-1`
+
+Note: Latin letters in the heading (e.g. `V`, `N`, `Adj`) are kept as-is through the lowercasing step.
 
 The full output filename is: `grammar-index/grammar/<anchor-slug>.md`
 
@@ -103,14 +181,18 @@ slug `v-plain-form-n-noun-modifier` → `grammar-index/grammar/v-plain-form-n-no
 
 ### 6. Idempotency check
 
-Before creating each file:
+Before creating each file, check the target path based on source:
+- `文法` heading → `grammar-index/grammar/<slug>.md`
+- `Vocabulary` heading → `grammar-index/grammar/vocabulary/<subdir>/<slug>.md`
 
+If the target path already exists, ask the user:
 ```
-if grammar-index/grammar/<slug>.md already exists → skip, log:
-  [SKIP] grammar-index/grammar/<slug>.md already exists
+<target-path> already exists. What should I do?
+  1. Skip — keep the existing file
+  2. Overwrite — replace with new content
+  3. Rename — use a different slug (you provide)
 ```
-
-Do not overwrite existing files.
+Wait for the user's choice before proceeding.
 
 ### 7. Create the standalone grammar file
 
@@ -149,7 +231,7 @@ proofread: false
 Rules for populating each section:
 - `lesson` — the lesson code (e.g. `UN5GL14`)
 - `pattern` — the exact heading text, unchanged
-- `topic_slug` — leave as empty string `""` for now; filled in step 8
+- `topic_slug` — leave as empty string `""` for now; filled in step 9
 - `level` — from the lesson path (`N5`, `N4`, etc.)
 - `proofread` — always `false` on creation
 - One-line gloss after `# <heading>` — derive from the body text; keep it to one line
@@ -161,21 +243,114 @@ Rules for populating each section:
   translation present.
 - `## Notes` — always leave empty on creation.
 
-### 8. Classify into grammar-index topics
+**Container file format** — used when classification is `container`:
+
+```
+---
+lesson: <lesson-code>
+pattern: <exact heading text>
+topic_slug: ""
+level: <N5 | N4 | N3 | N2 | N1>
+proofread: false
+---
+
+# <exact heading text>
+
+> <One-line description of what this group of patterns covers>
+
+## Sub-topics
+
+- [<pattern>](/JapaneseNotes/grammar-index/grammar/<slug>) · <level>
+- [<pattern>](/JapaneseNotes/grammar-index/grammar/<slug>) · <level>
+
+## Notes
+
+```
+
+List only the sub-headings that were classified as `grammar` or `container` (not `skip`).
+
+**Vocabulary file format** — used for `grammar` headings sourced from `# Vocabulary`:
+
+```
+---
+lesson: <lesson-code>
+pattern: <exact heading text>
+topic_slug: ""
+level: <N5 | N4 | N3 | N2 | N1>
+proofread: false
+---
+
+# <exact heading text>
+
+<body content with #w / #wc / #wp tag prefixes stripped>
+```
+
+Rules for vocabulary file body:
+- Copy the entire body content from the lesson file verbatim.
+- Strip only the tag prefix from lines that start with `#w `, `#wc `, or `#wp ` — keep everything after the tag and space.
+  - `#w こんな - like this/ so` → `こんな - like this/ so`
+  - `#wc 出来る（でき）- to be built` → `出来る（でき）- to be built`
+- Lines without a tag prefix (prose, bullet points, sub-headings) are copied unchanged.
+- Do **not** add `## Structure`, `## Meaning`, `## Examples`, or `## Notes` sections.
+- Do **not** create a topic index entry (step 9) for vocabulary files — their subdir path is their classification.
+
+Target path: `grammar-index/grammar/vocabulary/<subdir>/<slug>.md`
+Create the subdir if it does not exist.
+
+### 8. Add wikilink to lesson file
+
+After creating the standalone grammar file, insert an Obsidian wikilink under the
+corresponding heading in the lesson file, so it is navigable directly from the lesson.
+
+**Format** — insert on the line immediately after the heading, before any existing body content:
+
+```
+## ね - seeking approval
+→ [[grammar-index/grammar/seeking-approval]]
+
+Ne - seeking approval...
+```
+
+**Rules:**
+- Only for files **Created** in step 7 — skip files that were already skipped in step 6.
+- Skip if `[[grammar-index/grammar/<slug>]]` is already present anywhere under that heading.
+- Use Python to locate the heading line and insert after it:
+
+  ```python
+  import re
+  with open(lesson_path) as f:
+      content = f.read()
+  link = "→ [[grammar-index/grammar/slug]]"
+  # Insert after the heading line, before its body
+  content = re.sub(
+      r'(^#{1,6} ' + re.escape(heading) + r'[ \t]*\n)',
+      r'\1' + link + r'\n',
+      content,
+      count=1,
+      flags=re.MULTILINE
+  )
+  with open(lesson_path, "w") as f:
+      f.write(content)
+  ```
+
+- Never modify `<!--ID: -->` lines.
+- Never read or write past `# Summary`.
+
+### 9. Classify into grammar-index topics
 
 Run this step after all grammar-index/grammar/ files for the lesson are written. Only process files
 that were **Created** in step 7 — skip files that were already skipped in step 6.
 
-**8a. Read existing topic file list**
+**9a. Read existing topic file list**
 
 ```bash
-ls grammar-index/*.md | grep -v '_index.md' | grep -v '^index.md$'
+ls grammar-index/*.md | grep -v 'index.md'
 ```
 
 Read each file's `> <description>` line to understand what each topic covers.
 This is the current taxonomy — respect it.
 
-**8b. Plan all classifications before writing**
+**9b. Plan all classifications before writing**
 
 For each newly created grammar point, decide which topic file(s) it belongs to.
 Write out the full plan (grammar point → topic file(s)) before touching any file.
@@ -188,7 +363,7 @@ Apply these rules (same as `summarize-grammar`):
   enough to attract future lessons (not a one-off).
 - Cap at 3 topics per point. If more than 3 seem to fit, pick the strongest 3.
 
-**8c. Update topic files**
+**9c. Update topic files**
 
 For each (grammar point, topic file) pair:
 
@@ -211,22 +386,22 @@ For each (grammar point, topic file) pair:
 
 - **New topic file**: create from the template in **Topic file template** below.
 
-**8d. Fill `topic_slug` in each grammar-index/grammar/ file**
+**9d. Fill `topic_slug` in each grammar-index/grammar/ file**
 
 After classifying, patch the `topic_slug: ""` field in the frontmatter of each newly
 created grammar-index/grammar/ file:
 - Single topic: `topic_slug: "reasons-causes"`
 - Multiple topics (YAML list): `topic_slug: ["reasons-causes", "particles-de"]`
 
-**8e. Update `_index.md`**
+**9e. Update `index.md`**
 
-Only if at least one new topic file was created in step 8c. Regenerate
-`grammar-index/_index.md` from the current state of `grammar-index/`, following the
-format in **`_index.md` format** below.
+Only if at least one new topic file was created in step 9c. Regenerate
+`grammar-index/index.md` from the current state of `grammar-index/`, following the
+format in **`index.md` format** below.
 
 ---
 
-### 9. Batch mode rule
+### 10. Batch mode rule
 
 When processing multiple files (e.g. "all N5 lessons"):
 - Process one lesson file at a time.
@@ -234,24 +409,28 @@ When processing multiple files (e.g. "all N5 lessons"):
   for that lesson, then move to the next.
 - Do not load two lesson files into context simultaneously.
 
-### 10. Per-lesson completion report
+### 11. Per-lesson completion report
 
 After processing each lesson file, print a compact report:
 
 ```
 UN5GL14 — 6 grammar points processed
 
+  [文法]
   Created:  grammar-index/grammar/point-1.md  → requests-commands
   Created:  grammar-index/grammar/v-plain-form-n-noun-modifier.md  → sentence-structure, verb-forms
-  Created:  grammar-index/grammar/te-form-request.md  → 🆕 verb-te-form (new topic file)
-  Skipped:  grammar-index/grammar/point-3.md (already exists — not re-classified)
+  Skipped:  grammar-index/grammar/point-3.md (user chose skip)
+
+  [Vocabulary]
+  Created:  grammar-index/grammar/vocabulary/Adjectives/konna-sonna-anna.md
+  Created:  grammar-index/grammar/vocabulary/Verbs/dekiru.md
 ```
 
 ---
 
 ## Topic file template
 
-Use when creating a new grammar-index topic file (step 8c):
+Use when creating a new grammar-index topic file (step 9c):
 
 ```markdown
 # <Topic Name>
@@ -276,9 +455,9 @@ Use when creating a new grammar-index topic file (step 8c):
 
 ---
 
-## `_index.md` format
+## `index.md` format
 
-Lives at `grammar-index/_index.md`. Groups topic files into a fixed high-level taxonomy:
+Lives at `grammar-index/index.md`. Groups topic files into a fixed high-level taxonomy:
 
 - **Verbs** — `verb-*` topic files
 - **Adjectives** — `adjectives-*` topic files
@@ -311,15 +490,17 @@ Lives at `grammar-index/_index.md`. Groups topic files into a fixed high-level t
 
 | Input character type | Action |
 |---|---|
+| Hiragana / Katakana | Transliterate to romaji (Hepburn) first — see step 5 table |
+| Kanji | Strip (not transliterated) |
 | Latin letters (A–Z, a–z) | Lowercase and keep |
 | Digits (0–9) | Keep |
 | Space | Replace with `-` |
-| Non-ASCII (kanji, kana, `〜`, `・`, `（`, `）`) | Strip |
-| Punctuation (`.`, `,`, `!`, `?`, `(`, `)`, `/`) | Strip |
+| Other non-ASCII (`〜`, `・`, `（`, `）`, `「`, `」`) | Strip |
+| Punctuation (`.`, `,`, `!`, `?`, `(`, `)`, `/`, `'`) | Strip |
 | Hyphen `-` | Keep |
 | Multiple consecutive `-` | Collapse to one `-` |
 | Leading or trailing `-` | Strip |
-| Empty result | Use positional fallback: `point-1`, `point-2`, etc. |
+| Empty result (all kanji, no kana/Latin) | Use positional fallback: `point-1`, `point-2`, etc. |
 
 ---
 
@@ -343,7 +524,7 @@ If the `grammar-index/grammar/` directory does not exist, create it before writi
 
 ## Never touch
 
-- Lesson files under `JPLessons/` — read-only; never write anything to them
+- Lesson files under `JPLessons/` — only step 8 may write to them (inserting a wikilink under a grammar heading). Never modify any other content, never write past `# Summary`.
 - Never read past `# Summary` in any lesson file
 - `<!--ID: -->` lines — do not add, remove, or shift them anywhere
 - `TARGET DECK` lines — do not touch

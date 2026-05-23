@@ -92,9 +92,11 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL1-2-im-a-student-and-family
 
 # Gramayka
 ## Numbers
+→ [[grammar-index/grammar/numbers]]
 
 #w 数字（すうじ）- number
 #### Only numbers
+→ [[grammar-index/grammar/only-numbers]]
 ##### 0-10
 
 れい - 0
@@ -170,6 +172,7 @@ number + 百 + number
 #### Counters
 
 #### People
+→ [[grammar-index/grammar/counters-people]]
 
 #w 人数（にんずう) -  number of people
 
@@ -186,6 +189,7 @@ number + 百 + number
 
 何人（なんにん）- how many people
 ##### Floors
+→ [[grammar-index/grammar/counters-floors]]
 
 #w 一階（いっかい）- first floor  
 #w 二階（にかい）- second floor  
@@ -202,6 +206,7 @@ number + 百 + number
 
 
 #### 同じ - same
+→ [[grammar-index/grammar/same]]
 
 ##### Structure
 
@@ -224,6 +229,7 @@ number + 百 + number
 ---
 #g 
 #### 全部で(ぜんぶ）in total
+→ [[grammar-index/grammar/in-total]]
 
 ##### Structure
 - 全部(ぜんぶ）+ で　→ in total
@@ -244,6 +250,7 @@ number + 百 + number
 ---
 #g 
 #### ね - seeking approval
+→ [[grammar-index/grammar/seeking-approval]]
 
 Ne - seeking approval, emphasizing / isn’t it?
 - 明日の仕事のしりょうですね (あした、しごと) - there are tommorow's materials, right ?
@@ -264,6 +271,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 #g 
 
 #### この/その/あの　どの
+→ [[grammar-index/grammar/point-4]]
 
 - この - this (noun) close to speaker
 - その - that (noun) close to listener
@@ -274,6 +282,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 - この/その/あの, どの + Noun
 
 #### これ/それ/あれ　どれ
+→ [[grammar-index/grammar/point-5]]
 
 - これ - this (noun) close to speaker
 - それ - that (noun) close to listener

@@ -4,6 +4,11 @@
 
 ## Entries
 
+- [Numbers](/JapaneseNotes/grammar-index/grammar/numbers) · N5
+- [Only numbers](/JapaneseNotes/grammar-index/grammar/only-numbers) · N5
+- [Counters — people](/JapaneseNotes/grammar-index/grammar/counters-people) · N5
+- [Counters — floors](/JapaneseNotes/grammar-index/grammar/counters-floors) · N5
+
 ## See also
 
 - [quantity-expressions](/JapaneseNotes/grammar-index/quantity-expressions) — totalling and amount expressions

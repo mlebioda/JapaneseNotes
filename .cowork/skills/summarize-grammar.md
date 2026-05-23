@@ -31,7 +31,7 @@ If user references a lesson by code only, find the file under `JPLessons/Udemy/N
    ```
 
 3. **Parse `# 文法` and `# Vocabulary`** — collect every grammar point heading (see **Parsing**).
-4. **List existing topic files** — `ls /grammar-index/*.md` (excluding `_index.md`). This is the current taxonomy the LLM must respect.
+4. **List existing topic files** — `ls /grammar-index/*.md` (excluding `index.md`). This is the current taxonomy the LLM must respect.
 5. **Classify each grammar point** — pick which topic file(s) it belongs to. A point may go in multiple. Bias toward existing topic files; only create a new topic file when no existing one fits AND the new topic is specific and reusable across lessons.
 6. **Update topic files** — classification is a judgment call made by Claude, not a script. Once the grouping is settled, use Python for the mechanical write. For each target topic file:
    - **Exists**: insert all new entries for that file as a single batch, immediately before the `## See also` line (or at the end of `## Entries` if there is no `## See also`). Never use `cat >>` — it appends to end-of-file and breaks files that have `## See also`. Use a Python snippet like:
@@ -46,7 +46,7 @@ If user references a lesson by code only, find the file under `JPLessons/Udemy/N
      ```
    - **New**: create from the topic file template below.
    - Always deduplicate: skip any entry whose exact wikilink is already present in the file.
-7. **Update `_index.md`** — only if a new topic file was created during this run. Regenerate it from the current state of `/grammar-index/`.
+7. **Update `index.md`** — only if a new topic file was created during this run. Regenerate it from the current state of `/grammar-index/`.
 8. **Print coverage summary** — after all writes are done, output a markdown table listing every grammar point parsed from the lesson. See **Coverage summary** below.
 
 No confirmation needed at any step.
@@ -123,9 +123,9 @@ Two entries with the same Japanese heading but different lesson codes are NOT du
 
 ---
 
-## `_index.md`
+## `index.md`
 
-Lives at `/grammar-index/_index.md`. Groups topic files into a fixed high-level taxonomy:
+Lives at `/grammar-index/index.md`. Groups topic files into a fixed high-level taxonomy:
 
 - **Verbs** — `verb-*` topic files
 - **Adjectives** — `adjectives-*` topic files
@@ -134,7 +134,7 @@ Lives at `/grammar-index/_index.md`. Groups topic files into a fixed high-level 
 - **Forms & Counters** — counters, time expressions, numbers
 - **Other** — anything that doesn't fit the above
 
-Regenerate `_index.md` only when a new topic file was created during this run. Read each topic file's `> <description>` line to fill in the index.
+Regenerate `index.md` only when a new topic file was created during this run. Read each topic file's `> <description>` line to fill in the index.
 
 Format:
 
