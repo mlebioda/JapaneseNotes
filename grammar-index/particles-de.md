@@ -6,5 +6,5 @@
 
 ## See also
 
-- [[particles-direction]] — に and へ for destinations
-- [[existence-location]] — に for object location with あります/います
+- [particles-direction](https://mlebioda.github.io/JapaneseNotes/grammar-index/particles-direction) — に and へ for destinations
+- [existence-location](https://mlebioda.github.io/JapaneseNotes/grammar-index/existence-location) — に for object location with あります/います

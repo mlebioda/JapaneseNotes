@@ -6,5 +6,5 @@
 
 ## See also
 
-- [[adjectives-i]] — い-adjective conjugation
-- [[conjunction-and]] — で for chaining な-adjectives
+- [adjectives-i](https://mlebioda.github.io/JapaneseNotes/grammar-index/adjectives-i) — い-adjective conjugation
+- [conjunction-and](https://mlebioda.github.io/JapaneseNotes/grammar-index/conjunction-and) — で for chaining な-adjectives

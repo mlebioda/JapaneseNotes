@@ -6,4 +6,4 @@
 
 ## See also
 
-- [[conditional-patterns]] — とすぐです and other sequential/conditional patterns
+- [conditional-patterns](https://mlebioda.github.io/JapaneseNotes/grammar-index/conditional-patterns) — とすぐです and other sequential/conditional patterns

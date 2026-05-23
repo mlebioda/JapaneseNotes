@@ -6,5 +6,5 @@
 
 ## See also
 
-- [[permission]] — てもいいです/てはいけません for permission and prohibition
-- [[obligation-must]] — なければなりません for expressing necessity
+- [permission](https://mlebioda.github.io/JapaneseNotes/grammar-index/permission) — てもいいです/てはいけません for permission and prohibition
+- [obligation-must](https://mlebioda.github.io/JapaneseNotes/grammar-index/obligation-must) — なければなりません for expressing necessity

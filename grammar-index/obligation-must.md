@@ -6,4 +6,4 @@
 
 ## See also
 
-- [[permission]] — てもいいです/てはいけません for permission and prohibition
+- [permission](https://mlebioda.github.io/JapaneseNotes/grammar-index/permission) — てもいいです/てはいけません for permission and prohibition

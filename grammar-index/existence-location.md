@@ -6,4 +6,4 @@
 
 ## See also
 
-- [[demonstratives]] — ko-so-a-do place words (ここ/そこ/あそこ) used as location markers
+- [demonstratives](https://mlebioda.github.io/JapaneseNotes/grammar-index/demonstratives) — ko-so-a-do place words (ここ/そこ/あそこ) used as location markers

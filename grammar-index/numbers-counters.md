@@ -6,4 +6,4 @@
 
 ## See also
 
-- [[quantity-expressions]] — totalling and amount expressions
+- [quantity-expressions](https://mlebioda.github.io/JapaneseNotes/grammar-index/quantity-expressions) — totalling and amount expressions

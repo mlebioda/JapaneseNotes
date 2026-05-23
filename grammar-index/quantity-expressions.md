@@ -8,4 +8,4 @@
 
 ## See also
 
-- [[numbers-counters]] — number system and counting units
+- [numbers-counters](https://mlebioda.github.io/JapaneseNotes/grammar-index/numbers-counters) — number system and counting units

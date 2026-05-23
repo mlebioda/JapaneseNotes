@@ -6,4 +6,4 @@
 
 ## See also
 
-- [[verb-forms]] — te-form construction
+- [verb-forms](https://mlebioda.github.io/JapaneseNotes/grammar-index/verb-forms) — te-form construction

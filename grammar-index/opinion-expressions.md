@@ -6,4 +6,4 @@
 
 ## See also
 
-- [[reported-speech]] — quoting what someone else said
+- [reported-speech](https://mlebioda.github.io/JapaneseNotes/grammar-index/reported-speech) — quoting what someone else said

@@ -6,5 +6,5 @@
 
 ## See also
 
-- [[particles-direction]] — direction/destination particles へ and に
-- [[particles-wo]] — を marking departure point
+- [particles-direction](https://mlebioda.github.io/JapaneseNotes/grammar-index/particles-direction) — direction/destination particles へ and に
+- [particles-wo](https://mlebioda.github.io/JapaneseNotes/grammar-index/particles-wo) — を marking departure point

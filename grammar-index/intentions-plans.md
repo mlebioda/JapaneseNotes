@@ -6,4 +6,4 @@
 
 ## See also
 
-- [[opinion-expressions]] — と思います for stating opinions
+- [opinion-expressions](https://mlebioda.github.io/JapaneseNotes/grammar-index/opinion-expressions) — と思います for stating opinions

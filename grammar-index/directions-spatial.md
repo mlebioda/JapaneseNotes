@@ -6,5 +6,5 @@
 
 ## See also
 
-- [[existence-location]] — placing objects at locations using に
-- [[demonstratives]] — ko-so-a-do place words for pointing to locations
+- [existence-location](https://mlebioda.github.io/JapaneseNotes/grammar-index/existence-location) — placing objects at locations using に
+- [demonstratives](https://mlebioda.github.io/JapaneseNotes/grammar-index/demonstratives) — ko-so-a-do place words for pointing to locations

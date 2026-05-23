@@ -6,5 +6,5 @@
 
 ## See also
 
-- [[particles-direction]] — に marking movement destination
-- [[numbers-counters]] — time expressions and date formats
+- [particles-direction](https://mlebioda.github.io/JapaneseNotes/grammar-index/particles-direction) — に marking movement destination
+- [numbers-counters](https://mlebioda.github.io/JapaneseNotes/grammar-index/numbers-counters) — time expressions and date formats

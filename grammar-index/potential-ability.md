@@ -6,4 +6,4 @@
 
 ## See also
 
-- [[ability-expressions]] — 上手/下手 for being good or bad at something
+- [ability-expressions](https://mlebioda.github.io/JapaneseNotes/grammar-index/ability-expressions) — 上手/下手 for being good or bad at something

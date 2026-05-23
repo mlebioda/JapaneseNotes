@@ -6,4 +6,4 @@
 
 ## See also
 
-- [[particles-time]] — に marking a specific time point
+- [particles-time](https://mlebioda.github.io/JapaneseNotes/grammar-index/particles-time) — に marking a specific time point

@@ -6,4 +6,4 @@
 
 ## See also
 
-- [[likes-dislikes]] — expressing preferences (好き・嫌い)
+- [likes-dislikes](https://mlebioda.github.io/JapaneseNotes/grammar-index/likes-dislikes) — expressing preferences (好き・嫌い)

@@ -6,4 +6,4 @@
 
 ## See also
 
-- [[particles-wa-ga]] — は and が as topic/subject markers
+- [particles-wa-ga](https://mlebioda.github.io/JapaneseNotes/grammar-index/particles-wa-ga) — は and が as topic/subject markers

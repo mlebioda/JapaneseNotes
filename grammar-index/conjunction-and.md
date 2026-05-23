@@ -6,4 +6,4 @@
 
 ## See also
 
-- [[conjunction-but]] — が for contrasting clauses
+- [conjunction-but](https://mlebioda.github.io/JapaneseNotes/grammar-index/conjunction-but) — が for contrasting clauses

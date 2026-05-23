@@ -6,5 +6,5 @@
 
 ## See also
 
-- [[proposals-invitations]] — ませんか/ましょう for invitations and proposals
-- [[obligation-must]] — なければなりません for expressing necessity
+- [proposals-invitations](https://mlebioda.github.io/JapaneseNotes/grammar-index/proposals-invitations) — ませんか/ましょう for invitations and proposals
+- [obligation-must](https://mlebioda.github.io/JapaneseNotes/grammar-index/obligation-must) — なければなりません for expressing necessity

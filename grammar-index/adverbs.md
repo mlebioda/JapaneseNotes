@@ -6,5 +6,5 @@
 
 ## See also
 
-- [[adjectives-i]] — い-adjective base forms
-- [[adjectives-na]] — な-adjective base forms
+- [adjectives-i](https://mlebioda.github.io/JapaneseNotes/grammar-index/adjectives-i) — い-adjective base forms
+- [adjectives-na](https://mlebioda.github.io/JapaneseNotes/grammar-index/adjectives-na) — な-adjective base forms
