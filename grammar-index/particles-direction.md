@@ -6,5 +6,5 @@
 
 ## See also
 
-- [particles-time](https://mlebioda.github.io/JapaneseNotes/grammar-index/particles-time) — に marking the time of an action
-- [existence-location](https://mlebioda.github.io/JapaneseNotes/grammar-index/existence-location) — に placing objects at a location
+- [particles-time](/JapaneseNotes/grammar-index/particles-time) — に marking the time of an action
+- [existence-location](/JapaneseNotes/grammar-index/existence-location) — に placing objects at a location

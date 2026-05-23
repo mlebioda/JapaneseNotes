@@ -6,4 +6,4 @@
 
 ## See also
 
-- [sentence-final-particles](https://mlebioda.github.io/JapaneseNotes/grammar-index/sentence-final-particles) — particles at end of sentence (ね, よ, etc.)
+- [sentence-final-particles](/JapaneseNotes/grammar-index/sentence-final-particles) — particles at end of sentence (ね, よ, etc.)

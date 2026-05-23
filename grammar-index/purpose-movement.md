@@ -6,4 +6,4 @@
 
 ## See also
 
-- [particles-direction](https://mlebioda.github.io/JapaneseNotes/grammar-index/particles-direction) — へ and に marking destination
+- [particles-direction](/JapaneseNotes/grammar-index/particles-direction) — へ and に marking destination

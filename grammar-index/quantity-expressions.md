@@ -4,8 +4,8 @@
 
 ## Entries
 
-- [全部で - in total](https://mlebioda.github.io/JapaneseNotes/grammar-index/grammar/in-total) · N5
+- [全部で - in total](/JapaneseNotes/grammar-index/grammar/in-total) · N5
 
 ## See also
 
-- [numbers-counters](https://mlebioda.github.io/JapaneseNotes/grammar-index/numbers-counters) — number system and counting units
+- [numbers-counters](/JapaneseNotes/grammar-index/numbers-counters) — number system and counting units

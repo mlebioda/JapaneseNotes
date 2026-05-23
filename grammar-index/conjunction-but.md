@@ -6,4 +6,4 @@
 
 ## See also
 
-- [conjunction-and](https://mlebioda.github.io/JapaneseNotes/grammar-index/conjunction-and) — くて/で for additive chaining
+- [conjunction-and](/JapaneseNotes/grammar-index/conjunction-and) — くて/で for additive chaining

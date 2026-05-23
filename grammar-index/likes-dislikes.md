@@ -6,4 +6,4 @@
 
 ## See also
 
-- [ability-expressions](https://mlebioda.github.io/JapaneseNotes/grammar-index/ability-expressions) — 上手/下手 for skill level
+- [ability-expressions](/JapaneseNotes/grammar-index/ability-expressions) — 上手/下手 for skill level

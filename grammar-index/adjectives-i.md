@@ -6,5 +6,5 @@
 
 ## See also
 
-- [adjectives-na](https://mlebioda.github.io/JapaneseNotes/grammar-index/adjectives-na) — な-adjective conjugation
-- [conjunction-and](https://mlebioda.github.io/JapaneseNotes/grammar-index/conjunction-and) — くて for chaining adjectives
+- [adjectives-na](/JapaneseNotes/grammar-index/adjectives-na) — な-adjective conjugation
+- [conjunction-and](/JapaneseNotes/grammar-index/conjunction-and) — くて for chaining adjectives

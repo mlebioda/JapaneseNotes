@@ -6,4 +6,4 @@
 
 ## See also
 
-- [reasons-causes](https://mlebioda.github.io/JapaneseNotes/grammar-index/reasons-causes) — から for causal relationships
+- [reasons-causes](/JapaneseNotes/grammar-index/reasons-causes) — から for causal relationships

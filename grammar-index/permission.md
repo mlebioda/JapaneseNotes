@@ -6,4 +6,4 @@
 
 ## See also
 
-- [obligation-must](https://mlebioda.github.io/JapaneseNotes/grammar-index/obligation-must) — なければなりません for expressing obligation
+- [obligation-must](/JapaneseNotes/grammar-index/obligation-must) — なければなりません for expressing obligation

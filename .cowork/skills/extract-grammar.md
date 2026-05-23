@@ -193,7 +193,7 @@ Apply these rules (same as `summarize-grammar`):
 For each (grammar point, topic file) pair:
 
 - **Dedup**: skip if `grammar-index/grammar/<slug>)` already appears in the file.
-- **Entry format**: `- [<pattern>](https://mlebioda.github.io/JapaneseNotes/grammar-index/grammar/<slug>) · <level>`
+- **Entry format**: `- [<pattern>](/JapaneseNotes/grammar-index/grammar/<slug>) · <level>`
   where `<pattern>` is the exact heading text from the grammar point. Use full absolute
   URLs — NOT wikilinks or relative paths. This ensures the link works on GitHub Pages.
 - **Exists**: insert immediately before `## See also` (or append to end of `## Entries`
@@ -201,7 +201,7 @@ For each (grammar point, topic file) pair:
 
   ```python
   with open(path) as f: content = f.read()
-  entry = "- [同じ - same](https://mlebioda.github.io/JapaneseNotes/grammar-index/grammar/same) · N5"
+  entry = "- [同じ - same](/JapaneseNotes/grammar-index/grammar/same) · N5"
   if "## See also" in content:
       content = content.replace("\n## See also", "\n" + entry + "\n\n## See also", 1)
   else:
@@ -260,11 +260,11 @@ Use when creating a new grammar-index topic file (step 8c):
 
 ## Entries
 
-- [[grammar-index/grammar/<slug>]] · <level>
+- [<pattern>](/JapaneseNotes/grammar-index/grammar/<slug>) · <level>
 
 ## See also
 
-- [[<related-topic>]] — <short reason>
+- [<related-topic>](/JapaneseNotes/grammar-index/<related-topic>) — <short reason>
 ```
 
 - Filename: kebab-case English, descriptive, reusable across future lessons.
@@ -272,7 +272,7 @@ Use when creating a new grammar-index topic file (step 8c):
   Bad: `kara.md`, `because-only.md`, `n5-particles.md`.
 - Title: human-readable derivation of the filename.
 - Description: one sentence explaining when to look here.
-- "See also": 1–2 wikilinks to existing related topics if obvious; otherwise omit.
+- "See also": 1–2 full absolute URL links to existing related topics if obvious; otherwise omit.
 
 ---
 
@@ -292,15 +292,15 @@ Lives at `grammar-index/_index.md`. Groups topic files into a fixed high-level t
 
 ## Verbs
 
-- [[verb-te-form]] — <description from file's > line>
+- [verb-te-form](/JapaneseNotes/grammar-index/verb-te-form) — <description from file's > line>
 
 ## Particles
 
-- [[particles-wa-ga]] — <description>
+- [particles-wa-ga](/JapaneseNotes/grammar-index/particles-wa-ga) — <description>
 
 ## Patterns
 
-- [[reasons-causes]] — <description>
+- [reasons-causes](/JapaneseNotes/grammar-index/reasons-causes) — <description>
 
 (etc. — omit empty groups)
 ```

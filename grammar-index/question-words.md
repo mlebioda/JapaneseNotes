@@ -6,4 +6,4 @@
 
 ## See also
 
-- [alternative-questions](https://mlebioda.github.io/JapaneseNotes/grammar-index/alternative-questions) — か…か for "A or B?" questions
+- [alternative-questions](/JapaneseNotes/grammar-index/alternative-questions) — か…か for "A or B?" questions
