@@ -5,37 +5,27 @@ description: >
   published files under grammar-index/grammar/. Each grammar point becomes one file named
   <anchor-slug>.md, then each new file is classified into
   grammar-index/ topic files (creating new topic files when needed).
-  Idempotent: skips grammar-index/grammar files that already exist.
-  Trigger: "extract grammar from <lesson>" or "extract grammar from all N5 lessons".
+  Trigger: "extract grammar from <lesson>".
 ---
 
 # Extract Grammar Skill
 
 ## Trigger
 
-User says any of:
+User says:
 
 - "extract grammar from UN5GL14"
 - "extract grammar from <lesson code>"
-- "extract grammar from all N5 lessons"
-- "extract grammar from all N4 lessons" (or any JLPT level)
-
-If user references a lesson by code only (e.g. `UN5GL14`), find the file under
-`JPLessons/Udemy/N<level>/Gramatyka/` — match by prefix, ignore trailing description
-in filename.
 
 ---
 
 ## Workflow
 
-### 1. Find the target lesson file(s)
+### 1. Find the target lesson file
 
-- **Single lesson** — resolve the lesson code to its full path under
-  `JPLessons/Udemy/N<level>/Gramatyka/`. The level is the digit in the code
-  (e.g. `UN5GL14` → `N5`). Match by filename prefix; ignore any trailing words.
-- **Batch level** — list all files matching `JPLessons/Udemy/N<level>/Gramatyka/UN<level>GL*.md`.
-  Process **one file at a time** — do not load multiple lesson files into context
-  simultaneously.
+Resolve the lesson code to its full path under `JPLessons/Udemy/N<level>/Gramatyka/`.
+The level is the digit in the code (e.g. `UN5GL14` → `N5`). Match by filename prefix;
+ignore any trailing words in the filename.
 
 ### 2. Read up to `# Summary` only
 
@@ -222,10 +212,6 @@ proofread: false
 ## Examples
 
 [Example sentences extracted from the lesson file body]
-
-## Notes
-
-[Leave empty — populated during internet enrichment step (Step 1.2)]
 ```
 
 Rules for populating each section:
@@ -389,9 +375,9 @@ For each (grammar point, topic file) pair:
 **9d. Fill `topic_slug` in each grammar-index/grammar/ file**
 
 After classifying, patch the `topic_slug: ""` field in the frontmatter of each newly
-created grammar-index/grammar/ file:
-- Single topic: `topic_slug: "reasons-causes"`
-- Multiple topics (YAML list): `topic_slug: ["reasons-causes", "particles-de"]`
+created grammar-index/grammar/ file. Always use a YAML list, even for a single topic:
+- Single topic: `topic_slug: ["reasons-causes"]`
+- Multiple topics: `topic_slug: ["reasons-causes", "particles-de"]`
 
 **9e. Update `index.md`**
 
@@ -401,15 +387,7 @@ format in **`index.md` format** below.
 
 ---
 
-### 10. Batch mode rule
-
-When processing multiple files (e.g. "all N5 lessons"):
-- Process one lesson file at a time.
-- After finishing all grammar points from one lesson (steps 7 and 8), report a summary
-  for that lesson, then move to the next.
-- Do not load two lesson files into context simultaneously.
-
-### 11. Per-lesson completion report
+### 10. Completion report
 
 After processing each lesson file, print a compact report:
 
@@ -425,6 +403,16 @@ UN5GL14 — 6 grammar points processed
   Created:  grammar-index/grammar/vocabulary/Adjectives/konna-sonna-anna.md
   Created:  grammar-index/grammar/vocabulary/Verbs/dekiru.md
 ```
+
+After printing the report, if any files were created in this session, ask:
+
+```
+Run update-grammar on the N newly created files? (yes / no)
+```
+
+- If **yes** — load `.cowork/skills/update-grammar.md` and pass it the list of created file paths.
+- If **no** — end the skill.
+- If `update-grammar.md` does not exist yet — skip this prompt silently.
 
 ---
 
