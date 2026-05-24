@@ -11,3 +11,4 @@
 ## See also
 
 - [Demonstratives](/JapaneseNotes/grammar-index/demonstratives) — ko-so-a-do reference words for location and direction
+- [Location & Directions](/JapaneseNotes/grammar-index/location-directions) — directional words and spatial reference patterns

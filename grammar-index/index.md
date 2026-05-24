@@ -3,8 +3,6 @@ layout: page
 title: Grammar Index
 ---
 
-# Grammar Index — 文法インデックス
-
 Browse grammar topics by category:
 
 ## Adjectives
@@ -18,7 +16,12 @@ Browse grammar topics by category:
 
 ## Patterns
 - [Existence & Location](existence-location)
+- [Conjunctions & Alternatives](conjunction-alternatives)
+
+## Forms & Counters
+- [Time & Date Expressions](time-date-expressions)
 
 ## Other
+- [Location & Directions](location-directions)
 - [Numbers & Counters](numbers-counters)
 - [Quantity Expressions](quantity-expressions)

@@ -55,6 +55,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL4-what-time-department-store-is-op
 #g 
 
 ### Years 年
+→ [[grammar-index/grammar/years]]
 
 YEAR 年（ねん）
 #w 1994年（せんきゅうひゃくきゅうじゅうきゅう**よ**ねん） - 1999r
@@ -66,12 +67,14 @@ UWAGA
 4年 == よねん
 
 #### Years - counting
+→ [[grammar-index/grammar/years-counting]]
 
 number + 年(間)
 
 #w 四年(間)（よねんかん）- 4 lata (okres)
 
 ### Months 　月
+→ [[grammar-index/grammar/months]]
 
 一月（いちがつ）- styczeń
 二月（にがつ）- luty
@@ -89,6 +92,7 @@ number + 年(間)
 何月（なんがつ）- what month?
 
 #### Months - how to count
+→ [[grammar-index/grammar/months-how-to-count]]
 
 #w 一か月(間)（いっかげつかん) - 1 miesiąc
 #w 二か月(間)（にかげつかん）- 2 miesiące
@@ -104,6 +108,7 @@ number + 年(間)
 
 Przedzial czaswy + 間 (opcjonalnie)
 ### Days
+→ [[grammar-index/grammar/days]]
 
 日 (ひ、にち) - day
 
@@ -115,6 +120,7 @@ Przedzial czaswy + 間 (opcjonalnie)
 １４日（にち）- 14th day
 
 #### Days of the week
+→ [[grammar-index/grammar/days-of-the-week]]
 
 日曜日（日曜日）- Sunday
 月曜日（げつようび）- Monday
@@ -127,6 +133,7 @@ Przedzial czaswy + 間 (opcjonalnie)
 #w 何曜日（なんようび）- what day of the week
 
 #### weeks 
+→ [[grammar-index/grammar/weeks]]
 
 #w 一週間（いっしゅうかん）- one week  
 #w 二週間（にしゅうかん）- two weeks  
@@ -140,6 +147,7 @@ Przedzial czaswy + 間 (opcjonalnie)
 #w 十週間（じゅっしゅうかん）- ten weeks
 
 #### 年月日（ねんがっぴ）- dates
+→ [[grammar-index/grammar/nengappi-dates]]
 
 Number + 年 + Number + 月 + Number + 日
 
@@ -183,6 +191,7 @@ Number + 年 + Number + 月 + Number + 日
 #w 三十一日（さんじゅういちにち）- 31st day
 
 #### How many days
+→ [[grammar-index/grammar/how-many-days]]
 
 days from date + (kan)
 
@@ -199,8 +208,10 @@ days from date + (kan)
 
 #w 一か月二日間（いっかげつ ふつかかん) - 1 month 2 days
 ### Time
+→ [[grammar-index/grammar/time]]
 
 #### Hour
+→ [[grammar-index/grammar/hour]]
 
 午前・午後・朝・夜 +　Number + 時 + Number + 分
 
@@ -219,6 +230,7 @@ days from date + (kan)
 
 
 #### Minutes
+→ [[grammar-index/grammar/minutes]]
 
 #w 一分（いっぷん）- 1 minute
 #w 二分（にふん）- 2 minutes
@@ -238,6 +250,7 @@ days from date + (kan)
 #w 何分（なんぷん) - what minute
 
 #### Period of time
+→ [[grammar-index/grammar/period-of-time]]
 
 1. hour + 間
 2. minutes + 間
@@ -289,6 +302,7 @@ days from date + (kan)
 ---
 #g 
 ## Directions
+→ [[grammar-index/grammar/directions]]
 
 右（みぎ）- right
 左（ひだり）- left
@@ -337,6 +351,7 @@ Example:
 #g 
 
 ### OR - か、か　（２ options)
+→ [[grammar-index/grammar/or-ka-ka-2-options]]
 
 #### Structure
 
