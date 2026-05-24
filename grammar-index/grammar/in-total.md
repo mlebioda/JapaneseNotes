@@ -16,6 +16,8 @@ proofread: true
 
 - 全部(ぜんぶ)で + [quantity] → 全部(ぜんぶ)で四人(よにん)です — There are 4 people in total.
 
+## Examples
+
 ## See also
 
 *(none)*

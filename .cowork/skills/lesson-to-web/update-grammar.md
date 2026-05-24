@@ -35,7 +35,15 @@ If the user says no (or does not respond with yes), skip all steps for that file
 
 ### Step 1 — Remove vocabulary tag prefixes
 
-Scan every line in the file. If a line starts with `#w `, `#wc `, or `#wp ` (tag followed by a space), strip the tag prefix and keep everything after the tag and space.
+**Reusable script:** Run before starting LLM review:
+
+```bash
+python3 .claude/scripts/grammar-process.py <file> [<file> ...]
+# Preview without writing:
+python3 .claude/scripts/grammar-process.py --dry-run <file>
+```
+
+If the script is not available, scan every line manually. If a line starts with `#w `, `#wc `, or `#wp ` (tag followed by a space), strip the tag prefix and keep everything after the tag and space.
 
 Examples:
 - `#w 自分の意見 (じぶん, いけん) - one's own opinion` → `自分の意見 (じぶん, いけん) - one's own opinion`
@@ -68,6 +76,16 @@ Never translate:
 
 Convert trailing-reading format to inline furigana.
 
+**Reusable script:** Prefer calling the saved CLI tool rather than implementing inline:
+
+```bash
+python3 .claude/scripts/furigana-convert.py <file> [<file> ...]
+# Preview without writing:
+python3 .claude/scripts/furigana-convert.py --dry-run <file>
+```
+
+The algorithm below documents what the script does.
+
 **Trailing format (input):**
 ```
 明日の仕事のしりょうですね（あした、しごと）
@@ -89,8 +107,10 @@ Convert trailing-reading format to inline furigana.
    [WARN] <file>: reading count mismatch on line: "<line>" — left unchanged
    ```
 7. Lines already in inline format (no trailing list): skip.
-8. Lines with no kanji (CJK characters): skip.
+8. Lines with no kanji (CJK characters): skip silently — no warning logged.
 9. Lines inside a `## Structure` section (or a `### Structure` subsection): skip entirely. These use parentheses for grammatical notation, not readings.
+
+**Known limitation (Structure 2 files):** Once `### Structure` sets the in-structure flag within a numbered use case (`## 1. …`), all subsequent `### Verb`, `### Noun` etc. subsections inside that use case also have the flag set and are skipped. In practice this is harmless — formation rule rows use `→` for examples, not trailing `（）` parens, so the algorithm would not have converted them anyway.
 
 ---
 
@@ -129,6 +149,13 @@ If the user declines or defers: skip the suggestion and continue to Step 7.
 ---
 
 ### Step 7 — File structure enforcement
+
+#### Section normalisation (before enforcing template)
+
+Apply silently before proposing the structure to the user:
+
+- `## Examples` absent → add an empty `## Examples` section between `## Structure` and `## Notes`.
+- `## Notes` present but empty → remove the section entirely (optional; omit when empty).
 
 #### Summary line
 
@@ -195,12 +222,24 @@ Short description of when/how to use the pattern (1–3 sentences). Omit if the 
 - Past:            N + だった + pattern      → example sentence
 - Past-negative:   N + じゃなかった + pattern → example sentence
 
+## Examples
+
+[Full natural sentences showing real usage in context — required; leave empty if none available]
+
+## Notes
+
+[Optional — nuances, contrasts, or learner pitfalls. Omit the section entirely if empty.]
+
 ## See also
 
 - [Pattern Name](/JapaneseNotes/grammar-index/grammar/slug) — short reason
 ```
 
-Omit word-type sections that do not apply (e.g. a particle-only pattern may only have a Noun section). Omit tense rows that do not apply. Each remaining row must have at least one example sentence.
+Omit word-type sections that do not apply (e.g. a particle-only pattern may only have a Noun section). Omit tense rows that do not apply. Each remaining row must have at least one inline example (`→ example`).
+
+**Section distinction:**
+- `## Structure` rows use `→` for short inline examples showing the pattern mechanically.
+- `## Examples` holds full natural sentences showing real usage in context.
 
 #### Structure 2 — Distinct use cases
 
@@ -228,6 +267,14 @@ Omit word-type sections that do not apply (e.g. a particle-only pattern may only
 
 (same format)
 
+## Examples
+
+[Full natural sentences — required; leave empty if none available]
+
+## Notes
+
+[Optional — omit if empty]
+
 ## See also
 
 - [Pattern Name](/JapaneseNotes/grammar-index/grammar/slug) — short reason
@@ -241,8 +288,20 @@ Each use case is a numbered `##` header. Structure subsections follow the same w
 
 Run after structure is finalised.
 
+**Orphan warning:** While reading topic files, check whether the current file's slug appears in at least one topic's `## Entries`. If not, warn before continuing:
+
+```
+[WARN] <slug>.md has no entry in any grammar-index topic file.
+Add it manually or re-run extract-grammar classification (step 9).
+```
+
+To check all grammar files at once: `python3 .claude/scripts/grammar-audit.py --verbose`
+
 **Algorithm:**
-1. List all files in `grammar-index/` non-recursively (do not descend into `grammar/` or any subdirectory). Exclude `index.md`.
+1. List all files in `grammar-index/` non-recursively (do not descend into `grammar/` or any subdirectory). Exclude `index.md`. Use:
+   ```bash
+   find grammar-index -maxdepth 1 -name "*.md" ! -name "index.md"
+   ```
 2. For each topic file, scan its `## Entries` section for lines in the format:
    `- [Pattern Name](/JapaneseNotes/grammar-index/grammar/<slug>) · <level>`
    Extract the slug from each entry line by taking the final path segment of the URL (the part after the last `/`).
@@ -265,7 +324,13 @@ Run after structure is finalised.
 
 ### Step 9 — Set proofread: true
 
-In the frontmatter of the file, replace `proofread: false` with `proofread: true`. Do not modify any other frontmatter field.
+**Reusable script:** Run after all review steps are complete:
+
+```bash
+python3 .claude/scripts/grammar-process.py --set-proofread <file> [<file> ...]
+```
+
+If the script is not available, replace `proofread: false` with `proofread: true` in the frontmatter manually. Do not modify any other frontmatter field.
 
 ---
 
@@ -283,7 +348,7 @@ update-grammar — 2 files processed
     Typos: 1 fixed ("listenner" → "listener")
     Substantive: OK
     Missing info: suggested adding negative form examples (user approved)
-    Structure: Template 1 (shared) — confirmed by user
+    Structure: Structure 1 (shared) — confirmed by user
     See also: 1 link added (sentence-final-particles group)
     → proofread: true
 
@@ -294,7 +359,7 @@ update-grammar — 2 files processed
     Typos: none
     Substantive: 1 issue raised, user approved correction
     Missing info: none suggested
-    Structure: Template 2 (use cases) — 2 use cases confirmed by user
+    Structure: Structure 2 (use cases) — 2 use cases confirmed by user
     See also: 2 links added (demonstratives group)
     → proofread: true
 ```

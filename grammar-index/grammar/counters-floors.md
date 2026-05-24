@@ -28,6 +28,8 @@ Phonetic changes: geminate consonant at 一, 六, 八, 十 (いっかい, ろっ
 - 十階(じゅっかい) — tenth floor
 - 何階(なんがい) — which floor
 
+## Examples
+
 ## See also
 
 - [Numbers](/JapaneseNotes/grammar-index/grammar/numbers) — overview of the number and counter system

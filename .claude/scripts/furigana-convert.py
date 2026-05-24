@@ -44,7 +44,9 @@ def convert_line(line, in_structure=False):
 
     reading_str = m.group(1)
     readings = [r.strip() for r in re.split(r'[、,]', reading_str)]
-    suffix = m.group(2) or ''
+    raw_suffix = m.group(2) or ''
+    # Normalise separator: always " - " regardless of original spacing
+    suffix = re.sub(r'^[ \t]*-[ \t]*', ' - ', raw_suffix) if raw_suffix else ''
     prefix = line[:m.start()]
 
     groups = find_kanji_groups(prefix)

@@ -30,6 +30,8 @@ Irregular thousand readings: 3000 さんぜん, 8000 はっせん.
 | 1000–9999 | number + 千 + number | 千（せん）、三千（さんぜん）、八千（はっせん） |
 | 10000+ | number + 万 | 一万（いちまん）、五万（ごまん） |
 
+## Examples
+
 ## See also
 
 - [Numbers](/JapaneseNotes/grammar-index/grammar/numbers) — container linking all number and counter topics

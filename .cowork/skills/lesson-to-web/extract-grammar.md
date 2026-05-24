@@ -201,17 +201,21 @@ proofread: false
 
 > [One-line English gloss of what the pattern expresses — derive from body text]
 
+## Use Cases
+
+[Optional — explanation of when/how to use the pattern, in English. Omit the section if the gloss line already covers it fully.]
+
 ## Structure
 
 [Formation rule — extract or derive from body text; e.g. "Verb (ない-form) + でください"]
 
-## Meaning
-
-[Explanation extracted from the lesson file body — in English]
-
 ## Examples
 
-[Example sentences extracted from the lesson file body]
+[Example sentences extracted from the lesson file body — required; leave empty if the lesson has none]
+
+## Notes
+
+[Optional — nuances, contrasts, or learner pitfalls. Omit the section if empty.]
 ```
 
 Rules for populating each section:
@@ -221,13 +225,13 @@ Rules for populating each section:
 - `level` — from the lesson path (`N5`, `N4`, etc.)
 - `proofread` — always `false` on creation
 - One-line gloss after `# <heading>` — derive from the body text; keep it to one line
+- `## Use Cases` — explanation from the lesson body, in English. If the body is in Polish,
+  translate to English. Omit the section entirely if the gloss line already covers it.
 - `## Structure` — the formation rule. If the body has a clear structural description or
   bullet, use it. If not, derive from examples.
-- `## Meaning` — the explanation text from the body, in English. If the body is in Polish,
-  translate to English.
 - `## Examples` — all example sentences found in the body. Preserve Japanese + any
-  translation present.
-- `## Notes` — always leave empty on creation.
+  translation present. Always include the section; leave it empty if the lesson has none.
+- `## Notes` — always omit on creation (leave out the section entirely).
 
 **Container file format** — used when classification is `container`:
 
@@ -371,6 +375,21 @@ For each (grammar point, topic file) pair:
   ```
 
 - **New topic file**: create from the template in **Topic file template** below.
+
+**9c-ii. Bidirectional `## See also` between topic files**
+
+After all entries are written, ensure `## See also` links between topic files are symmetric.
+
+For every pair of topic files (A, B) where a grammar point appears in both:
+- If A's `## See also` links to B but B's `## See also` does not link to A → add A to B's `## See also`.
+- If B's `## See also` links to A but A's `## See also` does not link to B → add A to B's.
+- **Dedup**: skip if the link is already present.
+- **Format**: `- [<Topic Title>](/JapaneseNotes/grammar-index/<slug>) — <short reason>`
+  where `<Topic Title>` is the `# heading` of the target topic file.
+- **Reason phrase**: write a short phrase describing why the topics are related (do not copy the filename verbatim).
+- Insert inside the `## See also` section (append before end-of-section or end-of-file).
+
+Also apply this rule when a new topic file is created with a `## See also` entry: add the reverse link in the referenced topic.
 
 **9d. Fill `topic_slug` in each grammar-index/grammar/ file**
 

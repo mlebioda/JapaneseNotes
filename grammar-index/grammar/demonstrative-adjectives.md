@@ -21,6 +21,8 @@ proofread: true
 
 These words must always be followed by a noun; they cannot stand alone.
 
+## Examples
+
 ## See also
 
 - [これ/それ/あれ　どれ](/JapaneseNotes/grammar-index/grammar/demonstrative-pronouns) — standalone pronoun forms that replace nouns entirely

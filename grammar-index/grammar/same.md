@@ -21,6 +21,8 @@ proofread: true
 - 同じ + Noun → 同(おな)じ会社(かいしゃ) — same company
 - 同じ + Noun → 同(おな)じ大学(だいがく) — same university
 
+## Examples
+
 ## See also
 
 *(none)*

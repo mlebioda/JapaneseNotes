@@ -19,6 +19,8 @@ proofread: true
 
 Unlike この/その/あの/どの, these words replace the noun entirely.
 
+## Examples
+
 ## See also
 
 - [この/その/あの　どの](/JapaneseNotes/grammar-index/grammar/demonstrative-adjectives) — noun-modifying forms that must precede a noun

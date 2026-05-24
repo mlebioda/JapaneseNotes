@@ -28,6 +28,8 @@ The first two counts use native Japanese readings (ひとり, ふたり); from t
 - 十人(じゅうにん) — ten people
 - 何人(なんにん) — how many people
 
+## Examples
+
 ## See also
 
 - [Numbers](/JapaneseNotes/grammar-index/grammar/numbers) — overview of the number and counter system
