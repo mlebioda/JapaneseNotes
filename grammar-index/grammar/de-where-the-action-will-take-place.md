@@ -24,7 +24,7 @@ N (Place) + で + V
 
 で (location of action) vs に (existence/destination):
 - 公園で遊ぶ — play in the park (action happens there → で)
-- 公園にいる — be in the park (existing at a location → に)
+- 公園にいる — be in the park (existence at a location → に)
 
 ## See also
 

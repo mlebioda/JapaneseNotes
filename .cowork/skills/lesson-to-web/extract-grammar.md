@@ -104,7 +104,10 @@ If the user types `other`, place the file under `grammar-index/grammar/vocabular
   not grammar patterns.
 
 **After the user responds**, proceed with steps 5–11 using only the classified
-headings. Carry the classification forward:
+headings, processing each heading sequentially: complete steps 5 → 7 → 8 for one
+heading fully before moving to the next. Do not batch slug computation or file
+content planning across multiple headings before creating the first file.
+Carry the classification forward:
 - `grammar` from `文法` → `grammar-index/grammar/<slug>.md` (normal flow, steps 5–11)
 - `grammar` from `Vocabulary` → `grammar-index/grammar/vocabulary/<subdir>/<slug>.md` (vocabulary file format, step 7b)
 - `container` → step 7 creates a container file; step 8 inserts wikilink in lesson

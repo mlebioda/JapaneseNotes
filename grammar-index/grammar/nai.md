@@ -24,7 +24,7 @@ proofread: true
 **Group 2 (ichidan):** る → ない
   - 食べる → 食べない、寝る → 寝ない
 
-**Group 3 (irregular godan ending in -iru/-eru):** る → らない
+**Group 3 (godan -ru verbs resembling ichidan):** る → らない
   - 走る → 走らない、帰る → 帰らない、知る → 知らない
 
 **Group 4 (irregular):**
@@ -40,5 +40,5 @@ proofread: true
 ## See also
 
 - [Forms](/JapaneseNotes/grammar-index/grammar/forms) — overview container for verb form systems
-- [辞書けい（じしょ）- dictionary form](/JapaneseNotes/grammar-index/grammar/keijisho-dictionary-form) — the plain form used as base before adding ない
+- [辞書(じしょ)けい - dictionary form](/JapaneseNotes/grammar-index/grammar/keijisho-dictionary-form) — the plain form used as base before adding ない
 - [ますけい - masu form](/JapaneseNotes/grammar-index/grammar/masukei-masu-form) — polite counterpart; ません is the polite negative

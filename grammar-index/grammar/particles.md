@@ -21,3 +21,5 @@ proofread: true
 - [へ - e、に - direction of movement, travel](/JapaneseNotes/grammar-index/grammar/he-eni-direction-of-movement-travel) — particle へ/に for movement destinations
 - [に - time of occurrence of an action](/JapaneseNotes/grammar-index/grammar/ni-time-of-occurrence-of-an-action) — particle に for marking specific times
 - [を](/JapaneseNotes/grammar-index/grammar/wo) — particle を for objects, paths, and activities
+- [に](/JapaneseNotes/grammar-index/grammar/ni) — に usage patterns container from the same lesson
+- [Place + に ＋　V - indicate destination](/JapaneseNotes/grammar-index/grammar/place-ni-v-indicate-destination) — に for indicating movement destination

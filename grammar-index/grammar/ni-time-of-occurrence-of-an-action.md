@@ -23,7 +23,7 @@ Time + に + Verb
 - ９:00に会社へ行きます — I go to the company at 9:00.
 - 8月21日に大阪へ行きました — I went to Osaka on August 21.
 - 明後日学校に行きます — I will go to school the day after tomorrow. (no に — relative time)
-- 来月けっこんします — I will get married next month. (no に — relative time)
+- 来月けっこんします — I will get married next month. (no に — 来月 is relative time)
 - 昼（に）ゆうえんちに行きました — I went to the amusement park in the afternoon. (に optional)
 - 夜（に）おにぎりを食べます — I will eat onigiri at night. (に optional)
 
@@ -34,3 +34,16 @@ Time + に + Verb
 - [年月日(ねんがっぴ) - dates](/JapaneseNotes/grammar-index/grammar/nengappi-dates) — date format patterns used before に
 - [Particles](/JapaneseNotes/grammar-index/grammar/particles) — overview container for に, へ, and を
 - [へ - e、に - direction of movement, travel](/JapaneseNotes/grammar-index/grammar/he-eni-direction-of-movement-travel) — に also marks movement destinations
+- [Years 年](/JapaneseNotes/grammar-index/grammar/years) — year expressions that take に for specific calendar times
+- [Years - counting](/JapaneseNotes/grammar-index/grammar/years-counting) — year counter patterns used in date expressions with に
+- [Months　月](/JapaneseNotes/grammar-index/grammar/months) — month names used before に for specific calendar times
+- [Months - how to count](/JapaneseNotes/grammar-index/grammar/months-how-to-count) — month counter patterns used before に
+- [Days](/JapaneseNotes/grammar-index/grammar/days) — day-of-month expressions that take に
+- [Days of the week](/JapaneseNotes/grammar-index/grammar/days-of-the-week) — weekday names that take に for scheduled times
+- [weeks](/JapaneseNotes/grammar-index/grammar/weeks) — week expressions; relative weeks (来週 etc.) do not take に
+- [How many days](/JapaneseNotes/grammar-index/grammar/how-many-days) — day-count duration expressions (contrast: duration does not take に)
+- [Hour](/JapaneseNotes/grammar-index/grammar/hour) — clock-time hours that take に
+- [Minutes](/JapaneseNotes/grammar-index/grammar/minutes) — minute expressions that take に for clock times
+- [を](/JapaneseNotes/grammar-index/grammar/wo) — another core particle; contrast を (departure/object) with に (time/destination)
+- [に](/JapaneseNotes/grammar-index/grammar/ni) — container for に patterns from UN5GL6
+- [Place + に ＋　V - indicate destination](/JapaneseNotes/grammar-index/grammar/place-ni-v-indicate-destination) — に for destination; contrast with に for time

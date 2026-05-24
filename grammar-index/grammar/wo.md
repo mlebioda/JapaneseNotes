@@ -72,3 +72,5 @@ Noun + をします
 - [Particles](/JapaneseNotes/grammar-index/grammar/particles) — overview container for へ, に, and を
 - [へ - e、に - direction of movement, travel](/JapaneseNotes/grammar-index/grammar/he-eni-direction-of-movement-travel) — contrast: へ marks destination, を use #2 marks departure point
 - [に - time of occurrence of an action](/JapaneseNotes/grammar-index/grammar/ni-time-of-occurrence-of-an-action) — particle に for specific time marking
+- [に](/JapaneseNotes/grammar-index/grammar/ni) — に container from the same lesson; contrast に destination with を departure
+- [Place + に ＋　V - indicate destination](/JapaneseNotes/grammar-index/grammar/place-ni-v-indicate-destination) — に for destination; contrast with を use #2 (departure point)

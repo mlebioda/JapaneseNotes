@@ -20,3 +20,4 @@ proofread: true
 - [へ - e、に - direction of movement, travel](/JapaneseNotes/grammar-index/grammar/he-eni-direction-of-movement-travel) — に for direction of movement
 - [に - time of occurrence of an action](/JapaneseNotes/grammar-index/grammar/ni-time-of-occurrence-of-an-action) — に for marking specific times
 - [を](/JapaneseNotes/grammar-index/grammar/wo) — another core particle
+- [Place + に ＋　V - indicate destination](/JapaneseNotes/grammar-index/grammar/place-ni-v-indicate-destination) — specific に pattern covered by this container

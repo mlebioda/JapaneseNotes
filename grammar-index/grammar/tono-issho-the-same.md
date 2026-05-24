@@ -22,3 +22,6 @@ N + と + いっしょ
 
 - [いっしょ  - together, with, the same (同じ](/JapaneseNotes/grammar-index/grammar/issho-together-with-the-same-ji) — parent overview covering both いっしょ uses
 - [いっしょ + に - together, with](/JapaneseNotes/grammar-index/grammar/issho-ni-together-with) — companion use of いっしょ for shared actions with に
+- [Expressions](/JapaneseNotes/grammar-index/grammar/expressions) — container for expressions introduced in the same lesson
+- [V dict とすぐです - As soon as ....](/JapaneseNotes/grammar-index/grammar/v-dict-tosugudesu-as-soon-as) — another expression in the same lesson topic
+- [どうやって - how to](/JapaneseNotes/grammar-index/grammar/douyatte-how-to) — another expression in the same lesson topic
