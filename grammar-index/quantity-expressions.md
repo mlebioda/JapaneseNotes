@@ -4,7 +4,7 @@
 
 ## Entries
 
-- [全部で - in total](/JapaneseNotes/grammar-index/grammar/in-total) · N5
+- [全部で(ぜんぶ）in total](/JapaneseNotes/grammar-index/grammar/in-total) · N5
 
 ## See also
 

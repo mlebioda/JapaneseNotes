@@ -1,27 +1,26 @@
 ---
 lesson: UN5GL1L2
 pattern: 同じ - same
-topic_slug: "adjectives-special"
+topic_slug: ["adjectives-special"]
 level: N5
-proofread: false
+proofread: true
 ---
 
 # 同じ - same
 
-> Pre-noun modifier meaning "same" or "identical", used directly before nouns without な.
+> Expresses that two things are identical or of the same kind.
+
+## Use Cases
+
+同じ is an irregular pre-noun modifier — it does not inflect like い- or な-adjectives and takes no な before a noun. It can also be used predicatively with と: AとBは同じです — A and B are the same.
 
 ## Structure
 
-同じ（おなじ）+ Noun → "the same [noun]"
+### Noun
 
-## Meaning
+- 同じ + Noun → 同(おな)じ会社(かいしゃ) — same company
+- 同じ + Noun → 同(おな)じ大学(だいがく) — same university
 
-同じ is a special adjective that modifies nouns directly without requiring な. Unlike regular な-adjectives, it does not conjugate. It expresses that two things are identical or of the same kind.
+## See also
 
-## Examples
-
-- 同じ会社（おなじかいしゃ）- same company
-- 同じ大学（おなじだいがく）- same university
-
-## Notes
-
+*(none)*

@@ -1,32 +1,36 @@
 ---
 lesson: UN5GL1L2
-pattern: Counters — people
-topic_slug: "numbers-counters"
+pattern: People
+topic_slug: ["numbers-counters"]
 level: N5
-proofread: false
+proofread: true
 ---
 
-# Counters — people
+# People
 
-> The 人 counter for counting people, with irregular readings for 1 and 2.
+> Counting people in Japanese using the counter 人 (にん), with irregular native readings for 1 and 2.
 
 ## Structure
 
-Number + 人 — note the two irregular readings:
-- 一人（ひとり）— one person (irregular)
-- 二人（ふたり）— two people (irregular)
-- 三人以降（さんにん〜）— regular: さんにん、よにん、ごにん...
+### [Number] + 人
 
-何人（なんにん）— how many people?
+The first two counts use native Japanese readings (ひとり, ふたり); from three onward, Sino-Japanese readings apply.
 
-## Examples
+- 一人(ひとり) — one person
+- 二人(ふたり) — two people
+- 三人(さんにん) — three people
+- 四人(よにん) — four people
+- 五人(ごにん) — five people
+- 六人(ろくにん) — six people
+- 七人(ななにん) — seven people
+- 八人(はちにん) — eight people
+- 九人(きゅうにん) — nine people
+- 十人(じゅうにん) — ten people
+- 何人(なんにん) — how many people
 
-- 一人（ひとり）- one person
-- 二人（ふたり）- two people
-- 三人（さんにん）- three people
-- 四人（よにん）- four people
-- 十人（じゅうにん）- ten people
-- 何人（なんにん）- how many people?
+## See also
 
-## Notes
-
+- [Numbers](/JapaneseNotes/grammar-index/grammar/numbers) — overview of the number and counter system
+- [Only numbers](/JapaneseNotes/grammar-index/grammar/only-numbers) — the numeral system (0–万)
+- [Counters](/JapaneseNotes/grammar-index/grammar/counters) — overview of Japanese counting units
+- [Floors](/JapaneseNotes/grammar-index/grammar/counters-floors) — counting floors with 階

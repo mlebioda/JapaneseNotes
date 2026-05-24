@@ -410,9 +410,9 @@ After printing the report, if any files were created in this session, ask:
 Run update-grammar on the N newly created files? (yes / no)
 ```
 
-- If **yes** — load `.cowork/skills/update-grammar.md` and pass it the list of created file paths.
+- If **yes** — load `.cowork/skills/lesson-to-web/update-grammar.md` and pass it the list of created file paths.
 - If **no** — end the skill.
-- If `update-grammar.md` does not exist yet — skip this prompt silently.
+- If `.cowork/skills/lesson-to-web/update-grammar.md` does not exist yet — skip this prompt silently.
 
 ---
 

@@ -158,15 +158,6 @@ translation [#k] #card
 - Bold `**` markers: strip from both fields
 - Empty translation: skip the line
 
-## Post-execution prompt
-
-After filling all skeletons, ask the user:
-
-> Summary written. Run **summarize-grammar** on this lesson now? (adds grammar points to the index)
-
-- If **yes** → immediately load and execute the `summarize-grammar` skill for the same lesson, no further confirmation needed.
-- If **no** → done.
-
 ## What never to touch
 - TARGET DECK line at top of file
 - <!--ID: --> lines (preserve exactly if present)

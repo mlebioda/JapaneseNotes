@@ -170,6 +170,7 @@ number + 百 + number
 九万（きゅうまん）- 90 000
 
 #### Counters
+→ [[grammar-index/grammar/counters]]
 
 #### People
 → [[grammar-index/grammar/counters-people]]
@@ -271,7 +272,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 #g 
 
 #### この/その/あの　どの
-→ [[grammar-index/grammar/point-4]]
+→ [[grammar-index/grammar/demonstrative-adjectives]]
 
 - この - this (noun) close to speaker
 - その - that (noun) close to listener
@@ -282,7 +283,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 - この/その/あの, どの + Noun
 
 #### これ/それ/あれ　どれ
-→ [[grammar-index/grammar/point-5]]
+→ [[grammar-index/grammar/demonstrative-pronouns]]
 
 - これ - this (noun) close to speaker
 - それ - that (noun) close to listener

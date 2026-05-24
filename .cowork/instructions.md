@@ -74,8 +74,11 @@ Skills are defined in .cowork/skills/ — load the relevant skill before acting.
 - kanji-headers — format kanji tables from images into structured markdown headers
 - practice-grammar — interactive grammar drill for a lesson file; reads only `# 文法` + `# Vocabulary` (grammar topics) and `# ごい` + `# ひょうげん` (vocab pool). Writes results to `.cowork/progress/grammar-state.json` (SM-2 lite). Trigger: "let's practice <lesson>"
 - summarize-grammar — add a single lesson's grammar points to the topic-grouped index at `/grammar-index/`. One topic file per topic; entries are wikilinks (no copied text); a point may appear in multiple topics. Trigger: "summarize <lesson>"
-- extract-grammar — extract grammar points from a lesson's 文法 section into standalone files under grammar-index/grammar/. Also classifies each file into grammar-index/ topic files. Trigger: "extract grammar from <lesson>"
-- extract-vocabulary — extract vocabulary lines from a lesson into Vocabulary/words-extracted.md. Trigger: "extract vocabulary from <lesson>"
+
+**lesson-to-web/** (skills for extracting lesson content into published grammar-index files):
+- lesson-to-web/extract-grammar — extract grammar points from a lesson's 文法 section into standalone files under grammar-index/grammar/. Also classifies each file into grammar-index/ topic files. Trigger: "extract grammar from <lesson>"
+- lesson-to-web/extract-vocabulary — extract vocabulary lines from a lesson into Vocabulary/words-extracted.md. Trigger: "extract vocabulary from <lesson>"
+- lesson-to-web/update-grammar — post-process grammar files: furigana, language, structure, See also. Sets proofread: true. Trigger: "update grammar <file>"
 
 # Project rules
 - Never modify files in .cowork/ without permission. Always ask and explain what do you want to modify.
