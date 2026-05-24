@@ -8,21 +8,26 @@ proofread: true
 
 # この/その/あの　どの
 
-> Demonstrative modifiers placed before nouns to indicate proximity — this, that, that over there, which.
+> Demonstrative adjectives — placed before a noun to indicate proximity relative to speaker and listener.
 
 ## Structure
 
-### Noun
+この / その / あの / どの + Noun
 
-- この + Noun → この本 — this book (close to speaker)
-- その + Noun → その本 — that book (close to listener)
-- あの + Noun → あの本 — that book over there (far from both)
-- どの + Noun → どの本ですか？ — which book?
-
-These words must always be followed by a noun; they cannot stand alone.
+- この — this [Noun] (close to speaker)
+- その — that [Noun] (close to listener)
+- あの — that [Noun] (far from both)
+- どの — which [Noun]?
 
 ## Examples
 
+- この本は面白いです — This book is interesting.
+- あの方はどなたですか — Who is that person?
+
+## Notes
+
+Part of the こそあど system: こ = near speaker, そ = near listener, あ = far from both, ど = question word. These directly precede a noun; see the standalone pronoun equivalents in See also.
+
 ## See also
 
-- [これ/それ/あれ　どれ](/JapaneseNotes/grammar-index/grammar/demonstrative-pronouns) — standalone pronoun forms that replace nouns entirely
+- [これ/それ/あれ　どれ](/JapaneseNotes/grammar-index/grammar/demonstrative-pronouns) — standalone pronoun equivalents in the same こそあど system

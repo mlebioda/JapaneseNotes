@@ -1,38 +1,38 @@
 ---
 lesson: UN5GL1L2
-pattern: Floors
+pattern: "##### Floors"
 topic_slug: ["numbers-counters"]
 level: N5
 proofread: true
 ---
 
-# Floors
+# Floor counters
 
-> Counting building floors in Japanese using the counter 階 (かい/がい), with several irregular readings.
+> Counting floors in a building using the counter 階（かい/がい）, with several irregular pronunciations.
 
 ## Structure
 
-### [Number] + 階
+Number + 階（かい）— note irregular readings for 1F, 3F, 6F, 8F, 10F, and the question form:
 
-Phonetic changes: geminate consonant at 一, 六, 八, 十 (いっかい, ろっかい, はっかい, じゅっかい); voiced が at 三 (さんがい).
-
-- 一階(いっかい) — first floor
-- 二階(にかい) — second floor
-- 三階(さんがい) — third floor
-- 四階(よんかい) — fourth floor
-- 五階(ごかい) — fifth floor
-- 六階(ろっかい) — sixth floor
-- 七階(ななかい) — seventh floor
-- 八階(はっかい) — eighth floor
-- 九階(きゅうかい) — ninth floor
-- 十階(じゅっかい) — tenth floor
-- 何階(なんがい) — which floor
+- 一階（いっかい）— first floor
+- 二階（にかい）— second floor
+- 三階（さんがい）— third floor
+- 四階（よんかい）— fourth floor
+- 五階（ごかい）— fifth floor
+- 六階（ろっかい）— sixth floor
+- 七階（ななかい）— seventh floor
+- 八階（はっかい）— eighth floor
+- 九階（きゅうかい）— ninth floor
+- 十階（じゅっかい）— tenth floor
+- 何階（なんがい）— which floor?
 
 ## Examples
 
+- 事務所は三階です — The office is on the third floor.
+
 ## See also
 
-- [Numbers](/JapaneseNotes/grammar-index/grammar/numbers) — overview of the number and counter system
-- [Only numbers](/JapaneseNotes/grammar-index/grammar/only-numbers) — the numeral system (0–万)
-- [Counters](/JapaneseNotes/grammar-index/grammar/counters) — overview of Japanese counting units
-- [People](/JapaneseNotes/grammar-index/grammar/counters-people) — counting people with 人
+- [Numbers](/JapaneseNotes/grammar-index/grammar/numbers) — overview of the Japanese number system
+- [Only numbers](/JapaneseNotes/grammar-index/grammar/only-numbers) — cardinal number reference
+- [People counters](/JapaneseNotes/grammar-index/grammar/counters-people) — another counter with special forms for 1–2
+- [全部で(ぜんぶ）in total](/JapaneseNotes/grammar-index/grammar/in-total) — expressing a total count

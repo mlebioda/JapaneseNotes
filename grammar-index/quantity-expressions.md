@@ -1,6 +1,6 @@
 # Quantity Expressions
 
-> Expressions that describe totals, amounts, or the entirety of something (e.g. 全部で — in total).
+> Expressions used to describe totals, amounts, and quantities.
 
 ## Entries
 
@@ -8,4 +8,4 @@
 
 ## See also
 
-- [numbers-counters](/JapaneseNotes/grammar-index/numbers-counters) — number system and counting units
+- [Numbers & Counters](/JapaneseNotes/grammar-index/numbers-counters) — number and counting patterns

@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grammar-index/quantity-expressions.md",
+                "file": "JPLessons/Template/grammar-topic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quantity-expressions"
+              "title": "grammar-topic"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "in-to",
+                "query": "\"# vocabulary\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,12 +151,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 320.5
   },
   "right": {
     "id": "0ef8cb3241abc61c",
@@ -253,43 +252,43 @@
   },
   "active": "a43fe1e76530e7a2",
   "lastOpenFiles": [
+    "grammar-index/adjectives-special.md",
+    "JPLessons/Udemy/N4/Gramatyka/UN4GL1.md",
+    "JPLessons/Template/grammar-topic.md",
+    "JPLessons/Template/Untitled",
+    "grammar-index/grammar/demonstrative-adjectives.md.tmp.57824.b8c4e452bf64",
+    "grammar-index/grammar/demonstrative-pronouns.md",
+    "grammar-index/grammar/demonstrative-pronouns.md.tmp.57824.cabfb117b14e",
+    "grammar-index/grammar/demonstrative-adjectives.md",
+    "grammar-index/grammar/seeking-approval.md",
+    "grammar-index/grammar/seeking-approval.md.tmp.57824.01302da3ce41",
     "grammar-index/grammar/in-total.md",
-    "JPLessons/Udemy/N5/Kaligrafia/UN5KL2.md",
+    "grammar-index/grammar/in-total.md.tmp.57824.10fe5011fd2d",
+    "grammar-index/grammar/same.md",
+    "grammar-index/grammar/counters-floors.md",
+    "grammar-index/grammar/counters-people.md",
+    "grammar-index/grammar/counters-people.md.tmp.57824.8771336799dd",
+    "grammar-index/grammar/counters.md",
+    "grammar-index/grammar/counters.md.tmp.57824.e7d31899b8a8",
+    "grammar-index/grammar/only-numbers.md",
+    "grammar-index/grammar/only-numbers.md.tmp.57824.b658cc05c0c0",
+    "grammar-index/grammar/numbers.md",
     "grammar-index/grammar/point-5.md",
     "grammar-index/grammar/point-4.md",
-    "grammar-index/grammar/point-4.md.tmp.37889.9611f51423cf",
-    "grammar-index/grammar/seeking-approval.md",
-    "grammar-index/grammar/seeking-approval.md.tmp.37889.58ccb6552761",
-    "grammar-index/grammar/same.md",
-    "grammar-index/grammar/same.md.tmp.37889.d6085bed4e4f",
+    "Plans/update-grammar-tasks.md",
+    "Plans/update-grammar-plan.md",
+    "JPLessons/Udemy/N5/Gramatyka/UN5GL1L2.md",
+    "JPLessons/Udemy/N5/Gramatyka/UN5GL3.md",
+    "grammar-index/grammar/counters-floors.md.tmp.37889.6c9abb773e41",
+    "grammar-index/grammar/only-numbers.md.tmp.37889.e8084c8a440e",
+    "JPLessons/Udemy/N5/Kaligrafia/UN5KL2.md",
+    "grammar-index/quantity-expressions.md",
     "Gramatyka-Index/_index.md",
-    "grammar-index/grammar",
     "grammar-index/verb-usage.md",
     "grammar-index/verb-te-iru.md",
     "grammar-index/verb-forms.md",
     "grammar-index/sentence-structure.md",
-    "grammar-index/sentence-final-particles.md",
-    "grammar-index/requests-commands.md",
-    "grammar-index/reported-speech.md",
-    "grammar-index/reasons-causes.md",
-    "grammar-index/question-words.md",
-    "grammar-index/quantity-expressions.md",
-    "grammar-index/purpose-movement.md",
-    "grammar-index/proposals-invitations.md",
-    "grammar-index/potential-ability.md",
-    "grammar-index/personal-pronouns.md",
-    "grammar-index/permission.md",
-    "grammar-index/particles-wo.md",
-    "grammar-index/particles-wa-ga.md",
-    "grammar-index/particles-time.md",
-    "grammar-index/particles-mo.md",
-    "grammar-index",
-    "Plans/grammar-extraction-tasks.md.tmp.35240.8cdabe9cf552",
-    "Plans",
-    "JPLessons/Plans",
-    "_config.yml",
     "Pasted image 20260512170210.png",
-    "Gramatyka-Index",
     "Pasted image 20260419151959.png",
     "Pasted image 20260419151415.png",
     "Pasted image 20260419151055.png",

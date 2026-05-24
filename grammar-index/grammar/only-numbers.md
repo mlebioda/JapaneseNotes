@@ -8,33 +8,28 @@ proofread: true
 
 # Only numbers
 
-> The core Japanese numeral system from 0 to 万 (10,000).
-
-## Use Cases
-
-Japanese uses a positional base-10 system where units combine left to right. For amounts above 9,999, Japanese groups by 万 (10,000) rather than thousands — 10,000 is 一万, 100,000 is 十万. 一 is dropped before 千 (せん = 1,000, not いちせん) and before 百 (ひゃく = 100, not いちひゃく).
+> Cardinal numbers in Japanese from 0 to 99,999.
 
 ## Structure
 
-[multiples of 万] + 万 + [thousands] + 千 + [hundreds] + 百 + [tens] + 十 + [ones]
-
-Irregular hundred readings: 300 さんびゃく, 600 ろっぴゃく, 800 はっぴゃく.
-Irregular thousand readings: 3000 さんぜん, 8000 はっせん.
-
-| Range | Pattern | Example |
-|---|---|---|
-| 0–10 | individual readings | れい、いち、に、さん、よん、ご、ろく、なな、はち、きゅう、じゅう |
-| 11–19 | 十 + number | 十一（じゅういち）、十五（じゅうご） |
-| 20–99 | number + 十 + number | 二十二（にじゅうに）、五十（ごじゅう） |
-| 100–999 | number + 百 + number | 百十一（ひゃくじゅういち）、三百五十三（さんびゃくごじゅうさん） |
-| 1000–9999 | number + 千 + number | 千（せん）、三千（さんぜん）、八千（はっせん） |
-| 10000+ | number + 万 | 一万（いちまん）、五万（ごまん） |
+- **0–10**: basic forms — れい (0), 一 いち, 二 に, 三 さん, 四 よん/し, 五 ご, 六 ろく, 七 なな/しち, 八 はち, 九 きゅう/く, 十 じゅう
+- **11–99**: 十 + digit for tens; digit + 十 + digit for the rest
+  - 十一（じゅういち）= 11; 二十二（にじゅうに）= 22; 五十（ごじゅう）= 50
+- **100–999**: digit + 百（ひゃく）+ remainder
+  - 三百（さんびゃく）= 300; 六百（ろっぴゃく）= 600; 八百（はっぴゃく）= 800
+- **1000–9999**: digit + 千（せん）+ remainder
+  - 三千（さんぜん）= 3000; 八千（はっせん）= 8000
+- **10,000+**: digit + 万（まん）
+  - 一万（いちまん）= 10,000; 九万（きゅうまん）= 90,000
 
 ## Examples
 
+- 百十一（ひゃくじゅういち）— 111
+- 三百五十三（さんびゃくごじゅうさん）— 353
+
 ## See also
 
-- [Numbers](/JapaneseNotes/grammar-index/grammar/numbers) — container linking all number and counter topics
-- [Counters](/JapaneseNotes/grammar-index/grammar/counters) — overview of Japanese counting units
-- [People](/JapaneseNotes/grammar-index/grammar/counters-people) — counting people with 人
-- [Floors](/JapaneseNotes/grammar-index/grammar/counters-floors) — counting floors with 階
+- [Numbers](/JapaneseNotes/grammar-index/grammar/numbers) — overview container for the numbers and counters group
+- [People counters](/JapaneseNotes/grammar-index/grammar/counters-people) — counting people
+- [Floor counters](/JapaneseNotes/grammar-index/grammar/counters-floors) — counting floors
+- [全部で(ぜんぶ）in total](/JapaneseNotes/grammar-index/grammar/in-total) — using numbers to express totals
