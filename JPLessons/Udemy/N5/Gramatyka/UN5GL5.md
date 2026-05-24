@@ -131,14 +131,17 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 #g 
 
 ### いっしょ  - together, with, the same (同じ
+→ [[grammar-index/grammar/issho-together-with-the-same-ji]]
 
 
 
 #### いっしょ + に - together, with
+→ [[grammar-index/grammar/issho-ni-together-with]]
 - いっしょ + に - together, with
 	- いっしょにいきましょう - lets go together
 
 #### と/の + いっしょ - the same
+→ [[grammar-index/grammar/tono-issho-the-same]]
 - と+ いっしょ - same
 	- 私の学校 は 弟の学校　と　いっしょです - my and my younger brother's school is the same
 
@@ -175,12 +178,15 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 ---
 #g 
 ## Forms
+→ [[grammar-index/grammar/forms]]
 ### 辞書けい（じしょ）- dictionary form
+→ [[grammar-index/grammar/keijisho-dictionary-form]]
 - Used to search for word in dictionary
 - Used between friends or family
 	- 明日だれと会うの？ - who will you meet tomorrow? (dict)
 
 ### ますけい - masu form
+→ [[grammar-index/grammar/masukei-masu-form]]
 - polite present/future form
 	- ます - affirmative
 		- 食べます
@@ -222,8 +228,10 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 ---
 #g 
 ## Partykuły 
+→ [[grammar-index/grammar/particles]]
 
 ### へ - e、に - direction of movement, travel
+→ [[grammar-index/grammar/he-eni-direction-of-movement-travel]]
 - When
 	- Travel destination
 	- Reaching point
@@ -234,6 +242,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 	- 会社へ戻ります（もど）- i go back to the company
 
 ### に - time of occurrence of an action
+→ [[grammar-index/grammar/ni-time-of-occurrence-of-an-action]]
 - When
 	- Indicates time of occurrence of an action
 - Structure
@@ -264,6 +273,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 		- 夜（に）おにぎりを食べます (よる) - I will eat onigiri at night
 
 ### を 
+→ [[grammar-index/grammar/wo]]
 
 #### 1.  Indicates object of an action
 

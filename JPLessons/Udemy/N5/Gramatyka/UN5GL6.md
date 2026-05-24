@@ -296,77 +296,15 @@ Wyjątek:
 ---
 
 
-# Summary
+
 
 ## 文法
 
-### Verbs
-#### 乗る・降りる - get on, get off
-
-##### Środek transportu  + ni＋乗る・から＋降りる wsiąć do, wysiąść z
-#wc (に)乗る（の）- to get on
-#w 新幹線に乗る（しんかんせん、の）- get on the shinkansen
-#w バスに乗る（の) - to get on bus
-
-#wc （から）降りる（お) - to get off
-#w 電車から降りる（でんしゃ、お) - to get off train
-#w 飛行機から降りる（ひこうき、お）- to get off plane
-
-##### Place + で + 乗る・降りる - wysiąść w
-
-#w 東京で降りる（お）- to get off in tokio
-#w あきはばらで乗る（の）- to get on in akihabara
-
-#### 乗り換える - to transfer
-#wc 乗り換える（のりかえる) - to transfer
-
-- Structure
-	- place で＋乗り換える
-		- あきはばら駅で乗り換える（えき, の、か) - to transfer at akihabara
-	- srodek transportu **から** srodek transportu **に** 乗り換える
-		- バス**から**電車**に**乗り換える（でんしゃ, の、か) - to transfer at akihabara
-
-#### 出る - wychodzić/dotrzec
-
-##### を出る wyjsc z 
-- structure
-	- Place を出る - to leave
-	- Place から出る - to leave
-
-#w 会社を出る(かいしゃをでる) - to leave company
-#w 部屋から出る（へや、で）- leave room
-
-#w 大学を出る（だいがく）- to graduate from university
-
-##### に出る move to other place, wyjść gdzieś 
-- structure
-	- Place に出る - when moving to another place
-#w 店の外に出る（みせ、そと、で) - to go outside of the store, wyjsc na zewnątrz ze sklepu
-
-
-#### 入る - to enter
-- Structure
-	- PLACE に　入る（は）- 
-#wc 入る（は）- to enter
-
-#w 映画館に入る（えいがかんにはいる）- to enter into cinema
-#w 体育館（たいいくかん taikkan）に入る（しゃくしょ,はい）- to enter into a gym
-
-#### へ＋曲がる - to turn
-- Structure
-	- direction + へ＋曲がる（ま）
-
-#wc 曲がる（ま）- to turn
-#w 左へ曲がる（ひだりにまがる）- to turn left
-#w 左へ曲がって（ひだりにまがる）- please turn left
-
-#w 右へ曲がる（みぎにまがる）- to turn right
-#w 右へ曲がって（みぎにまがる）- please turn right
-
-
 ### Expressions
+→ [[grammar-index/grammar/expressions]]
 
 #### V dict とすぐです - As soon as ....
+→ [[grammar-index/grammar/v-dict-tosugudesu-as-soon-as]]
 - Structure
 #w V dict とすぐです - As soon as ....
 
@@ -374,7 +312,9 @@ Wyjątek:
 
 
 ### Forms
+→ [[grammar-index/grammar/forms]]
 ####  ない形
+→ [[grammar-index/grammar/nai]]
 
 - Structure
 	- Present/future
@@ -411,6 +351,7 @@ Wyjątek:
 #wc 急ぐ（いそぐ） - to hurry
 
 #### で - means or method
+→ [[grammar-index/grammar/de-means-or-method]]
 - Structure: 
 	- N + で + V
 
@@ -422,6 +363,7 @@ Wyjątek:
 #w 駅まで**走って**行きました（えき、はし）- 
 
 #### で - where the action will take place
+→ [[grammar-index/grammar/de-where-the-action-will-take-place]]
 - Structure
 	- N(Place) ＋で＋V
 
@@ -434,6 +376,7 @@ Wyjątek:
 
 
 ### どうやって - how to
+→ [[grammar-index/grammar/douyatte-how-to]]
 
 #w 秋葉原までどうやって行きましたか - how did you get to Akihabara?
 #w 上野駅まで　歩いて、地下鉄に乗って、二駅で着きます（うえの、ある、ちかてつ、ふたえき、つ）- Walk to ueno station, and take the subway for two stations, then you will arrive
@@ -441,8 +384,10 @@ Wyjątek:
 #w 東京からどうやって京都まで行きますか - How do I get to Kyoto from Tokio?
 
 ### に
+→ [[grammar-index/grammar/ni]]
 
 #### Place + に ＋　V - indicate destination
+→ [[grammar-index/grammar/place-ni-v-indicate-destination]]
 
 #w ラジさんは4月から大学に行きます - Raj will go to university from April
 
@@ -456,6 +401,83 @@ Wyjątek:
 
 
 ## Vocabulary
+
+### Verbs
+→ [[grammar-index/grammar/verbs]]
+#### 乗る・降りる - get on, get off
+→ [[grammar-index/grammar/ru-riru-get-on-get-off]]
+
+##### Środek transportu  + ni＋乗る・から＋降りる wsiąć do, wysiąść z
+→ [[grammar-index/grammar/vocabulary/Verbs/rodek-transportu-ni-ru-kara-riru-wsi-do-wysi-z]]
+#wc (に)乗る（の）- to get on
+#w 新幹線に乗る（しんかんせん、の）- get on the shinkansen
+#w バスに乗る（の) - to get on bus
+
+#wc （から）降りる（お) - to get off
+#w 電車から降りる（でんしゃ、お) - to get off train
+#w 飛行機から降りる（ひこうき、お）- to get off plane
+
+##### Place + で + 乗る・降りる - wysiąść w
+→ [[grammar-index/grammar/vocabulary/Verbs/place-de-ru-riru-wysi-w]]
+
+#w 東京で降りる（お）- to get off in tokio
+#w あきはばらで乗る（の）- to get on in akihabara
+
+#### 乗り換える - to transfer
+→ [[grammar-index/grammar/vocabulary/Verbs/rieru-to-transfer]]
+#wc 乗り換える（のりかえる) - to transfer
+
+- Structure
+	- place で＋乗り換える
+		- あきはばら駅で乗り換える（えき, の、か) - to transfer at akihabara
+	- srodek transportu **から** srodek transportu **に** 乗り換える
+		- バス**から**電車**に**乗り換える（でんしゃ, の、か) - to transfer at akihabara
+
+#### 出る - wychodzić/dotrzec
+→ [[grammar-index/grammar/ru-wychodzi-dotrzec]]
+
+##### を出る wyjsc z 
+→ [[grammar-index/grammar/vocabulary/Verbs/woru-wyjsc-z]]
+- structure
+	- Place を出る - to leave
+	- Place から出る - to leave
+
+#w 会社を出る(かいしゃをでる) - to leave company
+#w 部屋から出る（へや、で）- leave room
+
+#w 大学を出る（だいがく）- to graduate from university
+
+##### に出る move to other place, wyjść gdzieś 
+→ [[grammar-index/grammar/vocabulary/Verbs/niru-move-to-other-place-wyj-gdzie]]
+- structure
+	- Place に出る - when moving to another place
+#w 店の外に出る（みせ、そと、で) - to go outside of the store, wyjsc na zewnątrz ze sklepu
+
+
+#### 入る - to enter
+→ [[grammar-index/grammar/vocabulary/Verbs/ru-to-enter]]
+- Structure
+	- PLACE に　入る（は）- 
+#wc 入る（は）- to enter
+
+#w 映画館に入る（えいがかんにはいる）- to enter into cinema
+#w 体育館（たいいくかん taikkan）に入る（しゃくしょ,はい）- to enter into a gym
+
+#### へ＋曲がる - to turn
+→ [[grammar-index/grammar/vocabulary/Verbs/he-garu-to-turn]]
+- Structure
+	- direction + へ＋曲がる（ま）
+
+#wc 曲がる（ま）- to turn
+#w 左へ曲がる（ひだりにまがる）- to turn left
+#w 左へ曲がって（ひだりにまがる）- please turn left
+
+#w 右へ曲がる（みぎにまがる）- to turn right
+#w 右へ曲がって（みぎにまがる）- please turn right
+
+
+
+# Summary
 
  Rzeczowniki:
 

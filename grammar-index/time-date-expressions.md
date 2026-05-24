@@ -17,7 +17,9 @@
 - [Hour](/JapaneseNotes/grammar-index/grammar/hour) · N5
 - [Minutes](/JapaneseNotes/grammar-index/grammar/minutes) · N5
 - [Period of time](/JapaneseNotes/grammar-index/grammar/period-of-time) · N5
+- [に - time of occurrence of an action](/JapaneseNotes/grammar-index/grammar/ni-time-of-occurrence-of-an-action) · N5
 
 ## See also
 
 - [Numbers & Counters](/JapaneseNotes/grammar-index/numbers-counters) — counter patterns shared between numbers and time durations
+- [Particles に・へ・を](/JapaneseNotes/grammar-index/particles-ni-he-wo) — particle rules including に for specific time marking

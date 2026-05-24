@@ -1,0 +1,21 @@
+ 1. Huge up-front planning in hidden reasoning
+  Before writing a single file I computed all 19 slugs, all file contents, all topic mappings, and checked for conflicts — all inside my thinking
+  layer. That's ~5,000 tokens of work that produced no output and could have been done incrementally while creating files.
+
+  2. This lesson has an unusual duplicate structure
+  UN5GL6 has three sections with overlapping headings: ## Grammar, ## 文法, and ## Vocabulary. The first mirrors the other two almost exactly. This
+   meant:
+  - I had to figure out how to target only ## 文法/## Vocabulary in the Python wikilink script (couldn't just do count=1 naively)
+  - Every slug and heading had to be reasoned about twice (once for Grammar, once for the target sections)
+
+  3. The Polish-heading typo + correction loop
+  The Środek transportu heading has wsiąć but I read it as wsiąić (an extra i). That generated a wrong slug, wrong vocabulary file, wrong container
+   link, wrong wikilink insertion — then a full correction pass: grep the file, create correct slug file, edit container, re-run wikilink script.
+  ~4 extra tool calls.
+
+  What I should do differently next time:
+  - Act sooner, plan less in advance — create the first grammar file immediately, then classify topics as I go
+  - Grep the exact heading bytes before computing Polish-character slugs
+  - For lessons with duplicate sections, note it upfront and explain the approach in one sentence rather than solving it silently in reasoning
+
+  ---
