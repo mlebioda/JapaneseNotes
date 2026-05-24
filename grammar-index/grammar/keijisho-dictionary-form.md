@@ -27,6 +27,4 @@ Base verb form (plain/dictionary form)
 
 ## See also
 
-- [Forms](/JapaneseNotes/grammar-index/grammar/forms) — overview container for the two main verb form types
-- [ますけい - masu form](/JapaneseNotes/grammar-index/grammar/masukei-masu-form) — the polite counterpart to the dictionary form
-- [ない形](/JapaneseNotes/grammar-index/grammar/nai) — negative form built on the dictionary form base
+- [Forms](/JapaneseNotes/grammar-index/forms) — container grouping the main verb form types

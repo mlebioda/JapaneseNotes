@@ -22,8 +22,4 @@ proofread: true
 
 ## See also
 
-- [いっしょ + に - together, with](/JapaneseNotes/grammar-index/grammar/issho-ni-together-with) — specific use of いっしょ with に for shared actions
-- [と/の + いっしょ - the same](/JapaneseNotes/grammar-index/grammar/tono-issho-the-same) — specific use of いっしょ with と for expressing sameness
-- [Expressions](/JapaneseNotes/grammar-index/grammar/expressions) — container for expressions introduced in the same lesson
-- [V dict とすぐです - As soon as ....](/JapaneseNotes/grammar-index/grammar/v-dict-tosugudesu-as-soon-as) — another expression in the same lesson topic
-- [どうやって - how to](/JapaneseNotes/grammar-index/grammar/douyatte-how-to) — another expression in the same lesson topic
+*(none)*

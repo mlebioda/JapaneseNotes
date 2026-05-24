@@ -8,9 +8,9 @@
 - [へ - e、に - direction of movement, travel](/JapaneseNotes/grammar-index/grammar/he-eni-direction-of-movement-travel) · N5
 
 - [Place + に ＋　V - indicate destination](/JapaneseNotes/grammar-index/grammar/place-ni-v-indicate-destination) · N5
-- [Verbs](/JapaneseNotes/grammar-index/grammar/verbs) · N5
-- [乗る・降りる - get on, get off](/JapaneseNotes/grammar-index/grammar/ru-riru-get-on-get-off) · N5
-- [出る - wychodzić/dotrzec](/JapaneseNotes/grammar-index/grammar/ru-wychodzi-dotrzec) · N5
+- [Verbs](/JapaneseNotes/grammar-index/verbs) · N5
+- [乗る・降りる - get on, get off](/JapaneseNotes/grammar-index/ru-riru-get-on-get-off) · N5
+- [出る - wychodzić/dotrzec](/JapaneseNotes/grammar-index/ru-wychodzi-dotrzec) · N5
 
 ## See also
 

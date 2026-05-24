@@ -178,7 +178,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 ---
 #g 
 ## Forms
-→ [[grammar-index/grammar/forms]]
+→ [[grammar-index/forms]]
 ### 辞書けい（じしょ）- dictionary form
 → [[grammar-index/grammar/keijisho-dictionary-form]]
 - Used to search for word in dictionary
@@ -228,7 +228,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 ---
 #g 
 ## Partykuły 
-→ [[grammar-index/grammar/particles]]
+→ [[grammar-index/particles]]
 
 ### へ - e、に - direction of movement, travel
 → [[grammar-index/grammar/he-eni-direction-of-movement-travel]]

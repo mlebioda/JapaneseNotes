@@ -54,21 +54,41 @@ Lines without a tag prefix are left unchanged. This step runs before furigana co
 
 ---
 
-### Step 2 — Language consistency (translate Polish to English)
+### Step 2 — Language consistency (Polish detection)
 
-Scan all prose sections: the gloss line (`> ...`), `## Structure`, `## Meaning`, `## Examples`, `## Notes`, `## Use Cases`, and any numbered use-case sections (`## 1. ...`, `## 2. ...`).
+Scan all prose sections: the gloss line (`> ...`), `## Structure`, `## Meaning`, `## Examples`, `## Notes`, `## Use Cases`, any numbered use-case sections (`## 1. ...`, `## 2. ...`), and link labels inside `## Sub-topics`.
 
-Detection: at least 2 of the following signals must be present before translation is triggered:
+Detection: at least 2 of the following signals must be present before Polish is flagged:
 - Polish diacritics: ą ę ó ś ź ż ć ń ł (each distinct diacritic counts as one signal)
 - Common Polish words: jest, są, się, nie, lub, oraz, przez, które, który, też, już, można, należy (each match counts as one signal)
 
-A single isolated keyword or a single diacritic is not sufficient to trigger translation.
+A single isolated keyword or a single diacritic is not sufficient to trigger the flag.
 
-Action: translate detected Polish prose to English in-place.
+#### Prose sections
+
+If Polish prose is detected in any section other than `## Sub-topics`: translate it to English in-place.
 
 Never translate:
 - Japanese text (kana, kanji)
 - Frontmatter field values
+
+#### Sub-topics link labels
+
+If a `## Sub-topics` section exists, inspect each link label for Polish signals (same detection rule as above).
+
+For each Polish-looking link label:
+1. Do NOT translate it automatically.
+2. Ask the user:
+   ```
+   This link label appears to be Polish: `<label>`. What should the English name be?
+   ```
+   Wait for the user's answer.
+3. Present a rename recommendation:
+   ```
+   Rename the linked file from `<current-slug>.md` to `<suggested-english-slug>.md`.
+   This must be done manually — renaming affects all files that link to it.
+   ```
+4. Continue processing the rest of the file without blocking on the rename itself.
 
 ---
 
@@ -149,6 +169,18 @@ If the user declines or defers: skip the suggestion and continue to Step 7.
 ---
 
 ### Step 7 — File structure enforcement
+
+#### Container file detection
+
+Before applying any section normalisation or structure inference, check whether the file is a container file using either of the following signals:
+
+- A `## Sub-topics` section is present.
+- The body consists entirely of a `> summary line` and links to other grammar files, with no `## Structure`, `## Examples`, or numbered use-case sections.
+
+If the file is a container file:
+- Skip all section normalisation and structure inference in this step.
+- Log in the completion report: `Structure: container file — Step 7 skipped`.
+- Continue to Step 8.
 
 #### Section normalisation (before enforcing template)
 
@@ -232,7 +264,7 @@ Short description of when/how to use the pattern (1–3 sentences). Omit if the 
 
 ## See also
 
-- [Pattern Name](/JapaneseNotes/grammar-index/grammar/slug) — short reason
+- [Container Name](/JapaneseNotes/grammar-index/<slug>) — short reason
 ```
 
 Omit word-type sections that do not apply (e.g. a particle-only pattern may only have a Noun section). Omit tense rows that do not apply. Each remaining row must have at least one inline example (`→ example`).
@@ -277,7 +309,7 @@ Omit word-type sections that do not apply (e.g. a particle-only pattern may only
 
 ## See also
 
-- [Pattern Name](/JapaneseNotes/grammar-index/grammar/slug) — short reason
+- [Container Name](/JapaneseNotes/grammar-index/<slug>) — short reason
 ```
 
 Each use case is a numbered `##` header. Structure subsections follow the same word-type / tense pattern as Structure 1, limited to what applies.
@@ -285,6 +317,11 @@ Each use case is a numbered `##` header. Structure subsections follow the same w
 ---
 
 ### Step 8 — Populate ## See also
+
+**Core rule: `## See also` must only contain links to container files (files with a `## Sub-topics` section). Never link to individual grammar point files — in any file, of any type.**
+
+- A grammar point file may belong to multiple containers. All of them appear in its `## See also`.
+- A container file links to peer container files from the same topic group (not to individual grammar points it owns).
 
 Run after structure is finalised.
 
@@ -297,28 +334,30 @@ Add it manually or re-run extract-grammar classification (step 9).
 
 To check all grammar files at once: `python3 .claude/scripts/grammar-audit.py --verbose`
 
-**Algorithm:**
-1. List all files in `grammar-index/` non-recursively (do not descend into `grammar/` or any subdirectory). Exclude `index.md`. Use:
+**Algorithm — grammar point files (no `## Sub-topics`):**
+
+1. Scan all files in `grammar-index/` non-recursively (do not descend into `grammar/`; exclude `index.md`) that contain a `## Sub-topics` section (container files).
+2. For each container file, check whether the current file's slug appears in any of its `## Sub-topics` links.
+3. Collect all container files that include the current file. Extract each container's pattern name from its `# heading` line.
+4. Format each as an absolute URL link:
+   `- [Container Name](/JapaneseNotes/grammar-index/<slug>) — <short phrase: what this container groups>`
+5. Replace the entire content of `## See also` with the formatted list. If no containers include this file, write `*(none)*`.
+
+**Algorithm — container files (has `## Sub-topics`):**
+
+1. List all topic files in `grammar-index/` non-recursively (do not descend into `grammar/`). Exclude `index.md`. Use:
    ```bash
    find grammar-index -maxdepth 1 -name "*.md" ! -name "index.md"
    ```
 2. For each topic file, scan its `## Entries` section for lines in the format:
    `- [Pattern Name](/JapaneseNotes/grammar-index/grammar/<slug>) · <level>`
-   Extract the slug from each entry line by taking the final path segment of the URL (the part after the last `/`).
-   Check whether any extracted slug matches the current file's slug.
-3. For each matching topic file, collect all other slugs from its `## Entries` section (co-entries), using the same extraction rule. Exclude the current file's own slug.
-4. De-duplicate the collected slugs across all matching topic files.
-5. For each co-entry slug, read `grammar-index/grammar/<slug>.md` and extract the pattern name from the `# heading` line (first line starting with `# `).
+   Check whether any slug matches the current file's slug.
+3. For each matching topic file, collect all other slugs (co-entries). Exclude the current file's own slug.
+4. De-duplicate co-entry slugs across all matching topic files.
+5. For each co-entry slug, read `grammar-index/<slug>.md`. If the file does NOT contain a `## Sub-topics` section, skip it. If it does, extract the pattern name from the `# heading` line.
 6. Format each as an absolute URL link:
-   `- [Pattern Name](/JapaneseNotes/grammar-index/grammar/<slug>) — <short phrase describing the relationship>`
-   The reason phrase must be written by Claude based on the actual relationship between the two patterns (e.g. "also expresses purpose", "similar but formal register", "contrast: reason vs. cause"). Do not copy the topic filename verbatim.
-7. Replace the entire content of `## See also` with the formatted list.
-8. If no related files are found, write:
-   ```
-   ## See also
-
-   *(none)*
-   ```
+   `- [Container Name](/JapaneseNotes/grammar-index/<slug>) — <short phrase describing the relationship>`
+7. Replace the entire content of `## See also` with the formatted list. If no container co-entries exist, write `*(none)*`.
 
 ---
 

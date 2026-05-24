@@ -301,7 +301,7 @@ Wyjątek:
 ## 文法
 
 ### Expressions
-→ [[grammar-index/grammar/expressions]]
+→ [[grammar-index/expressions]]
 
 #### V dict とすぐです - As soon as ....
 → [[grammar-index/grammar/v-dict-tosugudesu-as-soon-as]]
@@ -312,7 +312,7 @@ Wyjątek:
 
 
 ### Forms
-→ [[grammar-index/grammar/forms]]
+→ [[grammar-index/forms]]
 ####  ない形
 → [[grammar-index/grammar/nai]]
 
@@ -384,7 +384,7 @@ Wyjątek:
 #w 東京からどうやって京都まで行きますか - How do I get to Kyoto from Tokio?
 
 ### に
-→ [[grammar-index/grammar/ni]]
+→ [[grammar-index/ni]]
 
 #### Place + に ＋　V - indicate destination
 → [[grammar-index/grammar/place-ni-v-indicate-destination]]
@@ -403,9 +403,9 @@ Wyjątek:
 ## Vocabulary
 
 ### Verbs
-→ [[grammar-index/grammar/verbs]]
+→ [[grammar-index/verbs]]
 #### 乗る・降りる - get on, get off
-→ [[grammar-index/grammar/ru-riru-get-on-get-off]]
+→ [[grammar-index/ru-riru-get-on-get-off]]
 
 ##### Środek transportu  + ni＋乗る・から＋降りる wsiąć do, wysiąść z
 → [[grammar-index/grammar/vocabulary/Verbs/rodek-transportu-ni-ru-kara-riru-wsi-do-wysi-z]]
@@ -434,7 +434,7 @@ Wyjątek:
 		- バス**から**電車**に**乗り換える（でんしゃ, の、か) - to transfer at akihabara
 
 #### 出る - wychodzić/dotrzec
-→ [[grammar-index/grammar/ru-wychodzi-dotrzec]]
+→ [[grammar-index/ru-wychodzi-dotrzec]]
 
 ##### を出る wyjsc z 
 → [[grammar-index/grammar/vocabulary/Verbs/woru-wyjsc-z]]

@@ -29,21 +29,4 @@ Time + に + Verb
 
 ## See also
 
-- [Time](/JapaneseNotes/grammar-index/grammar/time) — clock-time expressions that combine with に
-- [Period of time](/JapaneseNotes/grammar-index/grammar/period-of-time) — duration expressions (contrast: duration does not take に)
-- [年月日(ねんがっぴ) - dates](/JapaneseNotes/grammar-index/grammar/nengappi-dates) — date format patterns used before に
-- [Particles](/JapaneseNotes/grammar-index/grammar/particles) — overview container for に, へ, and を
-- [へ - e、に - direction of movement, travel](/JapaneseNotes/grammar-index/grammar/he-eni-direction-of-movement-travel) — に also marks movement destinations
-- [Years 年](/JapaneseNotes/grammar-index/grammar/years) — year expressions that take に for specific calendar times
-- [Years - counting](/JapaneseNotes/grammar-index/grammar/years-counting) — year counter patterns used in date expressions with に
-- [Months　月](/JapaneseNotes/grammar-index/grammar/months) — month names used before に for specific calendar times
-- [Months - how to count](/JapaneseNotes/grammar-index/grammar/months-how-to-count) — month counter patterns used before に
-- [Days](/JapaneseNotes/grammar-index/grammar/days) — day-of-month expressions that take に
-- [Days of the week](/JapaneseNotes/grammar-index/grammar/days-of-the-week) — weekday names that take に for scheduled times
-- [weeks](/JapaneseNotes/grammar-index/grammar/weeks) — week expressions; relative weeks (来週 etc.) do not take に
-- [How many days](/JapaneseNotes/grammar-index/grammar/how-many-days) — day-count duration expressions (contrast: duration does not take に)
-- [Hour](/JapaneseNotes/grammar-index/grammar/hour) — clock-time hours that take に
-- [Minutes](/JapaneseNotes/grammar-index/grammar/minutes) — minute expressions that take に for clock times
-- [を](/JapaneseNotes/grammar-index/grammar/wo) — another core particle; contrast を (departure/object) with に (time/destination)
-- [に](/JapaneseNotes/grammar-index/grammar/ni) — container for に patterns from UN5GL6
-- [Place + に ＋　V - indicate destination](/JapaneseNotes/grammar-index/grammar/place-ni-v-indicate-destination) — に for destination; contrast with に for time
+- [Particles](/JapaneseNotes/grammar-index/particles) — container grouping this and the other core N5 particle patterns

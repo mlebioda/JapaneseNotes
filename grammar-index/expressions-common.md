@@ -8,7 +8,7 @@
 - [いっしょ + に - together, with](/JapaneseNotes/grammar-index/grammar/issho-ni-together-with) · N5
 - [と/の + いっしょ - the same](/JapaneseNotes/grammar-index/grammar/tono-issho-the-same) · N5
 
-- [Expressions](/JapaneseNotes/grammar-index/grammar/expressions) · N5
+- [Expressions](/JapaneseNotes/grammar-index/expressions) · N5
 - [V dict とすぐです - As soon as ....](/JapaneseNotes/grammar-index/grammar/v-dict-tosugudesu-as-soon-as) · N5
 - [どうやって - how to](/JapaneseNotes/grammar-index/grammar/douyatte-how-to) · N5
 

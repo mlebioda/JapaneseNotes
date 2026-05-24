@@ -28,4 +28,4 @@ N (Place) + で + V
 
 ## See also
 
-- [で - means or method](/JapaneseNotes/grammar-index/grammar/de-means-or-method) — the other core use of で (means/method marker)
+*(none)*

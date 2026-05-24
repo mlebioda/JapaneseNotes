@@ -27,4 +27,4 @@ When the means of transport is itself a motion verb (walking, running), use V-�
 
 ## See also
 
-- [で - where the action will take place](/JapaneseNotes/grammar-index/grammar/de-where-the-action-will-take-place) — the other core use of で (location of action)
+*(none)*

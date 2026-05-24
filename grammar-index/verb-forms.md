@@ -4,7 +4,7 @@
 
 ## Entries
 
-- [Forms](/JapaneseNotes/grammar-index/grammar/forms) · N5
+- [Forms](/JapaneseNotes/grammar-index/forms) · N5
 - [辞書けい（じしょ）- dictionary form](/JapaneseNotes/grammar-index/grammar/keijisho-dictionary-form) · N5
 - [ますけい - masu form](/JapaneseNotes/grammar-index/grammar/masukei-masu-form) · N5
 

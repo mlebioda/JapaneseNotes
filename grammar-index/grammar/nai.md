@@ -39,6 +39,4 @@ proofread: true
 
 ## See also
 
-- [Forms](/JapaneseNotes/grammar-index/grammar/forms) — overview container for verb form systems
-- [辞書(じしょ)けい - dictionary form](/JapaneseNotes/grammar-index/grammar/keijisho-dictionary-form) — the plain form used as base before adding ない
-- [ますけい - masu form](/JapaneseNotes/grammar-index/grammar/masukei-masu-form) — polite counterpart; ません is the polite negative
+- [Forms](/JapaneseNotes/grammar-index/forms) — container grouping the main verb form types
