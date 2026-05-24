@@ -101,6 +101,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL3-where-is a meeting-room
 ---
 #g 
 #### 枚　まい - counter rzeczy płaskich 
+→ [[grammar-index/grammar/mai-counter-rzeczy-paskich]]
 
 #w 一枚（いちまい）- 1 rzecz płaska 
 #w 二枚（にまい）- 2 rzeczy płaskie 
@@ -121,7 +122,9 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL3-where-is a meeting-room
 #g
 
 ### Indicating directions
+→ [[grammar-index/grammar/indicating-directions]]
 #### ここ、そこ、あそこ - indicate physical place or location
+→ [[grammar-index/grammar/koko-soko-asoko-indicate-physical-place-or-location]]
 
 - ここ - here
 - そこ - there (near listener)
@@ -131,6 +134,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL3-where-is a meeting-room
 #w 会議室はどこですか？（会議室）- where is the meeting room?
 
 #### こちら、そちら、あちら、どちら indicate place, location and direction, person
+→ [[grammar-index/grammar/kochira-sochira-achira-dochira-indicate-place-location-and-direction-person]]
 more polite
 - こちら
 - そちら
@@ -158,8 +162,10 @@ more polite
 #g 
 
 ### Location of the objects with directions
+→ [[grammar-index/grammar/location-of-the-objects-with-directions]]
 
 #### PにNがあります・います - there is something somewhere
+→ [[grammar-index/grammar/pningaarimasu-imasu-there-is-something-somewhere]]
 ##### Structure
 - Place に Noun があります・います
 ##### Examples
@@ -170,6 +176,7 @@ more polite
 - 会議室に部長がいます（かいぎしつ、ぶちょう）- The general manager is in the meeting room
 
 #### Something is somewhere
+→ [[grammar-index/grammar/something-is-somewhere]]
 ##### Structure
 - Noun は Place に　あります・います
 ##### Examples
@@ -202,6 +209,7 @@ more polite
 #g 
 
 #### 100-999
+→ [[grammar-index/grammar/only-numbers]]
 
 百　(ひゃく) - 100
 二百　(にひゃく) - 200
@@ -214,6 +222,7 @@ more polite
 九百　(きゅうひゃく) - 900
 
 #### 1000 - 9999
+→ [[grammar-index/grammar/only-numbers]]
 
 #w 千（せん）- 1000
 #w 二千（にせん）- 2000
@@ -226,6 +235,7 @@ more polite
 #w 九千（きゅうせん) - 9000
 
 #### 10 000 - 100 000 000
+→ [[grammar-index/grammar/only-numbers]]
 
 #w 一万（いちまん) -  10 000
 #w 二万（にまん）-    20 000

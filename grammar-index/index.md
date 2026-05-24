@@ -16,6 +16,9 @@ Browse grammar topics by category:
 ## Questions & References
 - [Demonstratives](demonstratives)
 
+## Patterns
+- [Existence & Location](existence-location)
+
 ## Other
 - [Numbers & Counters](numbers-counters)
 - [Quantity Expressions](quantity-expressions)
