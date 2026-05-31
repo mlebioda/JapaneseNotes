@@ -126,14 +126,19 @@ ISSUES:
 - [moderate] <issue>
 ...
 SUGGESTED_APPROACH: <optional>
+REVISION_NOTES: <optional — user feedback from plan review>
 ```
+
+Field notes:
+- `REVISION_NOTES` — Optional. Present only on revision runs (when the orchestrator is re-calling planner after the user reviewed an earlier draft plan). Contains the user's feedback from the plan review step. If present, incorporate this feedback into the revised plan rather than re-asking the user for requirements.
 
 Workflow when receiving a reviewer brief:
 1. Read the `TARGET` file to understand current state.
 2. Use `SUMMARY` and `ISSUES` as the plan's requirement source — do not ask the user to re-explain.
-3. Write `Plans/<slug>-plan.md` and `Plans/<slug>-tasks.md` as usual.
-4. Present the plan to the user for confirmation before saving (brief mode does not skip user approval).
-5. After saving, call scribe as normal.
+3. If `REVISION_NOTES` is present, treat it as mandatory adjustments to apply on top of the original brief — do not ask clarifying questions about the feedback; apply it directly.
+4. Write `Plans/<slug>-plan.md` and `Plans/<slug>-tasks.md` as usual.
+5. Present the plan to the user for confirmation before saving (brief mode does not skip user approval).
+6. After saving, call scribe as normal.
 
 ## A2A — Notify Scribe on plan completion
 

@@ -55,10 +55,12 @@ Call reviewer:
 ```
 subagent_type: reviewer
 prompt:
-TARGET: <absolute file path — always a real path, never a synthetic string>
+TARGET: <path relative to vault root, e.g. .cowork/skills/fill-templates.md>
 SCOPE: <full | quick>
 FOCUS: <optional — specific concern from user's task description>
 ```
+
+> Derive the relative path by stripping the vault root prefix `/Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP/` from the absolute path.
 
 For `new` tasks: before calling reviewer, run a Bash lookup to find the most closely related existing skill or agent file:
 
@@ -67,11 +69,17 @@ ls "/Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/O
 ls "/Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP/.claude/agents/"
 ```
 
-Pick the file whose name or content is most similar to the new skill/agent being created (e.g. if creating a new extraction skill, pick an existing extraction skill). If no close match exists, pick the most structurally similar file (e.g. another agent definition file). Pass that absolute path as `TARGET`. Set `SCOPE: quick`. Instruct reviewer to focus on consistency patterns (naming, access rules, A2A wiring, scribe calls) that the new file should follow.
+Pick the file whose name or content is most similar to the new skill/agent being created (e.g. if creating a new extraction skill, pick an existing extraction skill). If no close match exists, pick the most structurally similar file (e.g. another agent definition file). Pass that relative path as `TARGET`. Set `SCOPE: quick`. Instruct reviewer to focus on consistency patterns (naming, access rules, A2A wiring, scribe calls) that the new file should follow.
 
 **After reviewer completes:**
 Present the key findings to the user (summary + critical/moderate issues).
-Ask: **"Proceed to planning?"**
+
+If reviewer reports **no issues** (empty issues list or an explicit "no issues found" result):
+Present that finding to the user and ask: **"No issues were found. Do you want to proceed to planning anyway (e.g. for a proactive improvement), or end the session?"**
+- Yes, plan anyway → Stage 2 with `ISSUES:` left empty and `SUMMARY:` describing the user's proactive intent
+- No → end session (reviewer already called scribe internally)
+
+If reviewer reports issues, ask: **"Proceed to planning?"**
 - Yes → Stage 2
 - No → end session (reviewer already called scribe internally)
 - "Fix only X" → note the scope constraint and proceed to Stage 2 with it
@@ -86,14 +94,14 @@ Call planner:
 subagent_type: planner
 prompt:
 REVIEWER_BRIEF: true
-TARGET: <absolute path resolved in Stage 1 — same real path passed to reviewer; never a synthetic string>
+TARGET: <relative path resolved in Stage 1 — same relative path passed to reviewer; never a synthetic string>
 SUMMARY: <summary from reviewer, or user's stated goal for new tasks>
 ISSUES:
 <issues list from reviewer, or empty for new tasks>
 SUGGESTED_APPROACH: <optional>
 ```
 
-For `new` tasks: the `TARGET` is the related file resolved via Bash in Stage 1 — carry that same absolute path forward here. Replace `ISSUES` with `GOAL: <what the new skill/agent should do>` and describe the desired behaviour, triggers, access rules, and A2A wiring based on the user's request.
+For `new` tasks: the `TARGET` is the related file resolved via Bash in Stage 1 — carry that same relative path forward here. Replace `ISSUES` with `GOAL: <what the new skill/agent should do>` and describe the desired behaviour, triggers, access rules, and A2A wiring based on the user's request.
 
 **After planner completes:**
 Present the plan and task checklist to the user.
@@ -114,17 +122,24 @@ Ask: **"Approve plan and start implementation?"**
 
 ### Stage 3 — Implement
 
-**Slug resolution (run before calling skill-implementer):**
+**Slug resolution (temp-file handoff):**
 
-After Stage 2 completes, the orchestrator does not automatically know which slug planner chose. Resolve it with a Bash one-liner:
+After planner confirms the plan is written, write the slug to the handoff file immediately — before calling skill-implementer. This is the only direct write the orchestrator performs:
 
-```bash
-ls -t "/Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP/Plans/"*-plan.md | head -1
+```
+Write to .cowork/tmp/orchestrator-handoff.md (one line):
+SLUG: <slug planner used — taken from the plan filename planner reported>
 ```
 
-This returns the most recently modified plan file. Extract the slug by stripping the directory prefix and the `-plan.md` suffix. For example, if the result is `.../Plans/extract-grammar-plan.md`, the slug is `extract-grammar`.
+Then, before calling skill-implementer, read that file back to recover the slug:
 
-**Caveat:** On iCloud-synced vaults, mtime may lag slightly behind creation order. If the returned file does not match the plan planner just described, fall back to listing all `Plans/*-plan.md` files and picking the one whose name matches keywords from the user's task description. Ask the user to confirm the slug if ambiguous.
+```bash
+cat "/Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP/.cowork/tmp/orchestrator-handoff.md"
+```
+
+Extract the slug from the `SLUG:` line. If the file is missing or empty (e.g. planner was called but no plan was written), fall back to listing `Plans/*-plan.md` and picking the file whose name matches keywords from the user's task description. Ask the user to confirm the slug if ambiguous.
+
+Important: always overwrite (never append) the handoff file at the start of each Stage 2 call, so a stale slug from a previous session cannot carry forward.
 
 Store the resolved slug as a working variable and substitute it into the call template below.
 
@@ -156,12 +171,19 @@ Call reviewer:
 ```
 subagent_type: reviewer
 prompt:
-TARGET: <implemented file>
+TARGET: <implemented file — relative path, e.g. .cowork/skills/fill-templates.md>
 SCOPE: quick
 FOCUS: verify implementation matches plan and all A2A wiring is correct
+CONSTRAINT: Report findings only. Do NOT ask the user to call planner or route to any other agent. If issues are found, present them and stop — the orchestrator will handle routing.
 ```
 
-Present findings. If issues found, ask: **"Route back to planner for a fix?"**
+Present reviewer's findings to the user. The reviewer will stop after reporting — it will not ask the user to route anywhere.
+
+If reviewer reports **no issues**: inform the user and close the pipeline.
+
+If reviewer reports **issues found**: the orchestrator asks the user: **"Issues were found. Route back to planner for a fix?"**
+- Yes → Stage 2 (revision run), carrying forward the issue list as `ISSUES` and `REVISION_NOTES`
+- No → close the pipeline, note any open issues in the final status block
 
 ---
 
@@ -186,9 +208,10 @@ Issues remaining: <any open issues the user chose not to fix>
 - Never write or edit files directly — all changes go through skill-implementer
 - Never skip user confirmation checkpoints between stages
 - Never call implementer without a plan file created by planner in the current session
-- Never call scribe directly except in the `post` pipeline or the `review-only` end-of-session path; all other scribe calls are made internally by skill-implementer or reviewer
+- Never call scribe directly except in the `post` pipeline; all other scribe calls are made internally by skill-implementer or reviewer
+- In the review-only path, never call scribe directly — reviewer calls scribe internally at Step 4; the only permitted direct scribe call by the orchestrator is in the `post` pipeline
 - Never skip a pipeline stage on own initiative; present findings and wait for user confirmation at every gate
 - Always tell the user the current stage and what agent is running
 - If any agent returns an error or unexpected result, pause and report to the user before continuing
 - The tools list intentionally omits `Edit` and `Write` — the orchestrator has no direct write access to vault files; all file changes are delegated to skill-implementer
-- **Temp file exception:** the orchestrator may write to `.cowork/tmp/orchestrator-handoff.md` if a stage-to-stage data handoff requires passing slug or reviewer output between agent calls; this is the only permitted direct write by the orchestrator
+- **Temp file (active use):** the orchestrator writes the planner slug to `.cowork/tmp/orchestrator-handoff.md` at Stage 2 completion and reads it back at Stage 3 start; this is the only permitted direct write by the orchestrator. Always overwrite, never append.
