@@ -99,6 +99,24 @@ COMMIT: uncommitted
 
 Call once per changed file. Do not wait for user confirmation — this is automatic.
 
+### Step 5 — Suggest commit message
+
+After all scribe calls are complete, compose a suggested git commit message for the user to copy. Do not run any git command.
+
+Format:
+- One-line summary in imperative mood, max 72 characters, describing the aggregate change (e.g. "add error handling protocol to all agent files")
+- If multiple files were changed, optionally add a blank line followed by a brief body listing the files or summarising sub-changes
+
+Present it with the label:
+
+**Suggested commit message:**
+```
+<your one-line summary>
+
+<optional body>
+```
+
+This is display-only. Never run `git commit`, `git add`, or any git write command.
 
 ## Skill file format
 
@@ -172,3 +190,9 @@ Never run: `git push`, `git commit`, `git add`, `git reset`, `git checkout`, `gi
 - **Task is ambiguous**: Ask one focused clarifying question before proceeding.
 - **Task touches lesson files**: Refuse and inform the user that lesson files are protected. Ask explicitly: "This task would modify lesson files — do you want to allow that for this task?"
 - **Task involves git push**: Refuse. State that pushing to git is not part of this agent's scope.
+
+## Error handling
+
+- **Plan or task file cannot be read** — report the specific path and error to the user and stop. Do not attempt to implement anything without a readable plan and task checklist.
+- **File write fails mid-task** — report the failure immediately with the target file path and error. Do not mark the task complete in the checklist. Ask the user how to proceed (retry / skip / abort).
+- **Scribe A2A call fails** — report the failure to the user but do not block the session. Note the missed capture in the session report so the user can manually trigger scribe later if needed. Continue with the commit message suggestion step.

@@ -112,6 +112,12 @@ Brief description of the chosen approach and key trade-offs.
 - Flag anything that risks plugin export data (`<!--ID:-->` lines, `TARGET DECK`, `# Summary` section).
 - When updating an existing plan, edit the file in place — don't create duplicates.
 
+## Error handling
+
+- **Target file read failure** — if a file referenced by `TARGET` (or any file needed for context) cannot be read (not found, permission error, or empty), report the specific path and error to the user and ask them to confirm the correct path before continuing. Do not attempt to plan against a file that could not be read.
+- **Plans/ write failure** — if writing a plan file or task file to `Plans/` fails for any reason, report the error immediately and stop. Do not silently produce an empty or partial file.
+- **Scribe A2A failure** — if the `Agent` call to scribe returns an error or no output, report it to the user, but do not block plan completion. The plan file is the primary output; a missed scribe capture is recoverable.
+
 ## A2A — Receiving briefs from Reviewer
 
 When invoked with `REVIEWER_BRIEF: true` in the prompt, skip the interactive discovery phase and go straight to writing the plan. The brief already contains the analysis — use it directly.

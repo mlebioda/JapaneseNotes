@@ -1,18 +1,8 @@
-# Lessons Learned — Agent & Skill Design
+# Agent Lessons Learned
 
-> **Superseded — archive only.**
-> New entries are no longer written here. Scribe now routes captures to audience-specific files:
-> - `Scribe/agent-lessons-learned.md` — agent design, A2A wiring, orchestration
-> - `Scribe/skill-lessons-learned.md` — skill authoring, structure, conventions
-> - `Scribe/general-lessons-learned.md` — everything else
->
-> This file is preserved as a historical archive. Do not append to it.
-
-This file accumulates best practices and rules derived from analysing changes to skills and agents in this project. It is maintained automatically by the `scribe capture` skill.
+<!-- Entries appended by scribe capture — domain: agent design, A2A wiring, orchestration, inter-agent routing -->
 
 ---
-
-<!-- New entries are appended below by scribe capture -->
 
 ## 2026-05-31 — orchestrator.md (implementation)
 
@@ -46,6 +36,15 @@ This file accumulates best practices and rules derived from analysing changes to
 **Classification**: bug-fix
 **What happened**: Second-pass wiring fixes addressed five residual issues: unhandled no-issues reviewer outcome, fragile mtime-based slug resolution, absolute paths in call templates, Stage 4 reviewer bypassing the routing gate, and an ambiguously defined review-only scribe exception.
 **Rule**: **[Rule]** In a multi-stage agent pipeline, handle every possible sub-agent outcome explicitly (including the no-issues branch), use a dedicated temp-file handoff for inter-stage state rather than filesystem mtime, and add a CONSTRAINT field to sub-agent calls to prevent them from issuing routing instructions that bypass the orchestrator.
+**Source**: uncommitted — skill-implementer
+
+---
+
+## 2026-05-31 — orchestrator.md, reviewer.md, planner.md, skill-implementer.md, scribe.md
+
+**Classification**: missing-rule
+**What happened**: A standardised error-handling protocol was added to all five agent files, requiring each to stop and report (rather than silently continue) when a file cannot be read, an A2A call fails, or a sub-step produces unexpected output.
+**Rule**: **[Rule]** Every agent definition must include an explicit Error handling section covering file-not-found, A2A call failure, and unexpected output, with "stop and report to the user" as the default response — never silent continuation.
 **Source**: uncommitted — skill-implementer
 
 ---

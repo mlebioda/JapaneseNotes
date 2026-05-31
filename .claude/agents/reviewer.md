@@ -181,6 +181,16 @@ If the user says no, end the session — findings are already logged in Scribe.
 
 ---
 
+## Error handling
+
+- **File read failure** — if a target file cannot be read (not found, permission error, or empty content), report the specific path and the error to the user and stop immediately. Do not attempt to run any analysis steps on a file that could not be read. Ask the user to confirm the correct path before retrying.
+- **Context file read failure** — if a supporting file (e.g. `.cowork/instructions.md`, another skill or agent file for cross-file consistency) cannot be read, report which file failed and continue the analysis with a note that the affected check (e.g. cross-file consistency, instructions consistency) could not be completed.
+- **Scribe A2A failure** — if the scribe call in Step 4 fails or returns no output, report the failure to the user. Do not silently skip the capture. If the failure cannot be resolved, note it in the session summary so the user can manually trigger a capture later.
+- **Planner A2A failure** — if the planner call in Step 5 fails or returns no output, report the failure to the user and stop. Do not attempt to implement changes directly — all implementation must go through planner. Ask the user how to proceed (retry / abort).
+- **Never silently continue** — if any step produces an unexpected result or no result, stop and report before moving to the next step.
+
+---
+
 ## Hard rules
 
 - Never write or edit any file

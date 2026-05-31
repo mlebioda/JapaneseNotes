@@ -101,11 +101,19 @@ File: `Scribe/sessions/YYYY-MM-DD.md` (append if exists, create if not)
 ---
 ```
 
-### Step 4 — Append to lessons-learned.md
+### Step 4 — Append to audience-specific lessons file
 
-File: `Scribe/lessons-learned.md`
+Route the entry to one of three files based on the content domain of the lesson:
 
-Check for near-duplicate lessons (by meaning). If none found, append:
+| Domain | Destination file |
+|---|---|
+| Agent design, A2A wiring, orchestration behaviour, inter-agent routing | `Scribe/agent-lessons-learned.md` |
+| Skill authoring, skill structure, skill conventions, skill-file format | `Scribe/skill-lessons-learned.md` |
+| Everything else | `Scribe/general-lessons-learned.md` |
+
+Do NOT write new entries to `Scribe/lessons-learned.md` — that file is superseded.
+
+Check the chosen destination file for near-duplicate lessons (by meaning). If none found, append:
 
 ```markdown
 ## <YYYY-MM-DD> — <skill or agent filename>
@@ -128,6 +136,7 @@ Print (for A2A callers to receive):
 ```
 SCRIBE CAPTURE DONE
 File: Scribe/sessions/<date>.md
+Lessons file: Scribe/<agent|skill|general>-lessons-learned.md
 Lesson: <rule text>
 Classification: <classification>
 ```
@@ -185,7 +194,9 @@ Generate an English blog post about AI agent/skill system design from accumulate
 
 Read:
 - All files in `Scribe/sessions/` modified since `Scribe/.last-post` (or all if `.last-post` missing)
-- `Scribe/lessons-learned.md`
+- `Scribe/agent-lessons-learned.md`
+- `Scribe/skill-lessons-learned.md`
+- `Scribe/general-lessons-learned.md`
 
 ### Step 2 — Select focus
 
@@ -355,11 +366,11 @@ All rules from this file's history, deduplicated:
 
 ---
 
-## Recommended additions to lessons-learned.md
+## Recommended additions to lessons files
 
-List only rules not already present in `Scribe/lessons-learned.md`:
+List only rules not already present in `Scribe/agent-lessons-learned.md`, `Scribe/skill-lessons-learned.md`, or `Scribe/general-lessons-learned.md` (check all three):
 
-- [ ] <rule> — add? (y/n for user to decide)
+- [ ] <rule> — add to <agent|skill|general>-lessons-learned.md? (y/n for user to decide)
 ```
 
 ### Step 5 — Present to user
@@ -367,7 +378,7 @@ List only rules not already present in `Scribe/lessons-learned.md`:
 Show the retrospect report summary (evolution summary + extracted rules). Ask:
 "Add new rules to lessons-learned.md?" and list only the new ones.
 
-On confirmation, append selected rules to `Scribe/lessons-learned.md` using the standard entry format.
+On confirmation, append selected rules to the appropriate audience-specific file (`Scribe/agent-lessons-learned.md`, `Scribe/skill-lessons-learned.md`, or `Scribe/general-lessons-learned.md`) using the standard entry format.
 
 ### Step 6 — Return
 
@@ -379,6 +390,53 @@ Rules extracted: Y
 New rules (not in lessons-learned): Z
 ```
 
+
+---
+
+## Error handling
+
+### Git command failures
+
+If any `git` command returns a non-zero exit code or produces no output when output is expected:
+
+1. Do not silently continue or fabricate content.
+2. Report the failure immediately:
+   ```
+   SCRIBE ERROR: git command failed
+   Command: <the command that failed>
+   Exit code / message: <error text>
+   Falling back to: <what you will do instead, e.g. "using CHANGED/REASON from caller">
+   ```
+3. If the git command was supplementary (e.g. diff to enrich an A2A capture that already has `CHANGED` and `REASON`), continue using the caller-supplied fields.
+4. If the git command was required (e.g. `git-sweep` mode with no fallback), stop and ask the user how to proceed.
+
+### File write failures
+
+If a write to any `Scribe/` file fails:
+
+1. Report the failure immediately:
+   ```
+   SCRIBE ERROR: file write failed
+   Target: <absolute path>
+   Error: <error message>
+   ```
+2. Do not mark the capture as complete.
+3. Return to the caller (or user) with the error so they can retry or skip.
+
+### Missing `Scribe/` directory or subdirectories
+
+If a target directory (e.g. `Scribe/sessions/`, `Scribe/retrospect/`, `Scribe/posts/`) does not exist:
+
+1. Create it with `mkdir -p` before attempting any write.
+2. If `mkdir` also fails, report the error and stop.
+
+### A2A calls with incomplete input
+
+If a caller omits required fields (`CHANGED`, `REASON`, or `MODE`):
+
+1. Do not refuse entirely — attempt to infer missing fields from git diff and context.
+2. If inference is not possible, ask the user (or caller) for the missing field before proceeding.
+3. Never fabricate file paths or change reasons.
 
 ---
 

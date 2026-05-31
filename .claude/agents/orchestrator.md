@@ -203,6 +203,21 @@ Issues remaining: <any open issues the user chose not to fix>
 
 ---
 
+## Error handling
+
+If any sub-agent call returns an error, an unexpected result structure, or produces no output:
+
+1. **Stop the pipeline immediately** — do not proceed to the next stage.
+2. **Report the failure** — tell the user which agent failed, which stage it occurred at, and include the full output (or "no output received" if silent).
+3. **Ask the user how to proceed** — offer three options:
+   - **Retry** — re-call the same agent with the same prompt (use if the failure looks transient).
+   - **Skip** — skip this stage and continue (only appropriate if the failing stage is optional, e.g. Stage 4 final review; never skip Stage 1 or Stage 2).
+   - **Abort** — end the pipeline; summarise what completed before the failure.
+
+Never silently continue past a failed sub-agent call. A partial pipeline (e.g. reviewer ran but planner failed) is worse than a clean abort because it leaves the user with an incomplete and misleading picture.
+
+---
+
 ## Hard rules
 
 - Never write or edit files directly — all changes go through skill-implementer
