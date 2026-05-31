@@ -10,6 +10,6 @@
 ## Parts
 
 [[礻-świątynia]]
-[[土-ziemia]]
+[[土-soil]]
 
 [[Kaligrafia-1-Company#社 - shrine, company・やしろ・シャ]]

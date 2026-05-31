@@ -189,7 +189,7 @@ Structure:
 	- 何
 - Comparsion
 	- 奈良はどんなところ**か**、知っていますか。(なら, し) Czy wiesz, **jakim miejscem** jest Nara?
-	- 奈良はどんなところ**か**、知っていますか。(なら, し) Czy wiesz, **jakie miejsce** Nara?
+	- 奈良はどんなところ、知っていますか。(なら, し) Czy wiesz, **jakie miejsce** Nara?
 
 
 
@@ -230,7 +230,7 @@ Structure:
 
 ---
 
-## V「て」言っていました - less formal, used more often in speaking 
+## V　+って言っていました - less formal, used more often in speaking 
 
 - less formal, used more often in speaking 
 
@@ -251,8 +251,23 @@ Structure:
 ---
 ## んじゃない - when someone ask for opinion and speaker is sure of their idea
 
-- じゃない - negative
-- (いい)んじゃない - positive = いいよね
+Comparasion:
+**んじゃない** — _you_ already have a view, you're seeking confirmation
+
+> 果物のほうがいいんじゃない？ — "Fruit is better, don't you think?" The speaker leans toward fruit. Casual, confident nudge.
+
+**と思いますか** — you're genuinely asking what _they_ think, neutral
+
+> 果物のほうがいいと思いますか？ — "Do you think fruit is better?" No implied lean. Polite, open question.
+
+**んじゃない = "I think X, agree?"** / **と思いますか = "What do you think?"**
+
+Structure
+- question
+	- じゃない - negative
+- response
+	- (いい)んじゃない - positive = いいよね
+
 
 #w 果物のほうがいいんじゃない？ (くだもの) - Don't you think the fruit is better?
 #w A: 田中さんは今日来ないのですか。(たなか, きょう, こ) B: 田中さんは大阪に出張に行ったんじゃない？(たなか, おおさか, しゅっちょう, い) - A: Won't Mr. Tanaka come today? B: Mr. Tanaka has been to Osaka for business, hasn't he?
@@ -265,6 +280,8 @@ Structure:
 	- ジャパんホテルは部屋が広い**し**、食事も美味しい**し**、良いホテルだと思います（へや、ひろ、しょくじ、い、おも）- The rooms are big and the meals are delicious so I think Japan Hotel is a good hotel
 - Used to list the causes
 	- うちは駅から遠い**し**、部屋もせまい**し**、ひっこしをしたいと思っています（とお） - My house is far from the station and the room is small, so i think i want to move
+
+**Key habit to build:** when listing parallel items, the second one takes **も** — 喉**も**痛くない, 食事**も**美味しい. It signals "...and also."
 
 Structure:
 - 。。。し、。。。し - spójnik

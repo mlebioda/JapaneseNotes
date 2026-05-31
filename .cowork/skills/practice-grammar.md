@@ -97,6 +97,8 @@ For each grammar point, produce **one** exercise. Pick the type that best tests 
 - **Choose the correct form** — two or three candidate forms shown, user picks. Best for contrasts (Vない vs なくても, が vs で).
 - **Build from pieces** — scrambled words + particles, user assembles. Best for noun-modifying-verb patterns.
 
+**Furigana rule — mandatory.** Every kanji character that appears in an exercise (sentence, prompt, choices, fragments, hint text) **must** have furigana. Use vault inline style: kanji immediately followed by the reading in full-width parentheses, e.g. `名刺（めいし）`, `病院（びょういん）`, `食（た）べる`. Before outputting each exercise, scan every kanji in it and verify furigana is present — no exceptions, including words from the vocab pool, example sentences, and grammar point context.
+
 **Vocabulary rule** — content words in the exercise must come from the vocab pool (`# ごい` + `# ひょうげん`) first. Only reach for outside vocabulary if the pool cannot express the grammar point. Any outside vocabulary must be strict N5 level.
 
 **Weak-point bias** — if the state entry for this grammar point has `weak_points`, design the exercise so the answer requires getting that aspect right (e.g. if the weak point is "particle placement," the exercise must have the particle in the target answer).
@@ -137,20 +139,23 @@ Fill the blank: ペンが ___ あります (3 pens).
 Layout for the grading reply (single message):
 
 ```
-Exercise 1 / 7 — Vないで ください
-Your answer:  病院で携帯電話を使わないでください
-Expected:     病院で携帯電話を使わないでください
-✓ correct
+✓ 1/7 — Vないで ください
 
-Exercise 2 / 7 — Vない なくてもいいです
-Your answer:  予約しなくていいです
-Expected:     予約しなくてもいいです
-✗ missing も in なくても
+✗ 2/7 — Vない なくてもいいです
+  You: 予約しなくていいです
+  OK:  予約しなくてもいいです
+  missing も in なくても
 
 …
 
 Self-score each one 1–4 (1=fail, 2=hard, 3=good, 4=easy). Reply with the 7 scores in order, e.g. `4 2 3 4 2 3 1`.
 ```
+
+**Grading display rules:**
+- **Correct:** one line — `✓ N/T — <grammar point>`. No answer text needed.
+- **Wrong / partial:** three lines — the `✗ N/T — <grammar point>` header, then `You:` and `OK:` on their own lines, then the error on its own line. No extra label lines.
+- Strip all furigana from `You:` and `OK:` lines before printing — plain Japanese only. Furigana is for exercises, not diffs.
+- Do **not** print a partial-match fragment line (e.g. `✓ frag ✓, frag ✓`).
 
 ### Interactive mode (only if user asks)
 
@@ -167,12 +172,23 @@ Translate to Japanese: "You don't have to book a reservation."
 After the answer:
 
 ```
-Your answer:   予約しなくてもいいです
-Expected:      予約しなくてもいいです
-✓ correct
+✓ 3/7 — Vない なくてもいいです
 
 Score this one 1–4? (1=fail, 2=hard, 3=good, 4=easy)
 ```
+
+Or if wrong:
+
+```
+✗ 3/7 — Vない なくてもいいです
+  You: 予約しなくていいです
+  OK:  予約しなくてもいいです
+  missing も in なくても
+
+Score this one 1–4? (1=fail, 2=hard, 3=good, 4=easy)
+```
+
+(Same display rules apply: plain Japanese only, no furigana, no partial-match fragment line.)
 
 ### Both modes
 
@@ -191,6 +207,8 @@ Compare user's answer to the expected answer with tolerance:
 - **Verb conjugation** — strict. Wrong form = mistake.
 - **Word order** — if the sentence is still grammatically valid and conveys the same meaning, accept with a note rather than mark wrong.
 - **Spelling typos** — accept if the intent is clear and only one character is off.
+
+**Furigana in answers** — if the user writes furigana (e.g. 食べる(たべる) or 食べる【たべる】), strip the furigana before comparing to the expected answer. Do not penalise for its presence or absence.
 
 Weak-point strings should be short and categorical: `particle に placement`, `て-form of godan verbs`, `だけ vs しか`. Not free-form sentences.
 
@@ -234,7 +252,7 @@ Read the file (create with `{"grammar_points": {}}` if missing). For each practi
 | 3     | `max(1, round(interval * ease))`             | unchanged          | +1              |
 | 4     | `max(1, round(interval * ease * 1.3))`       | `ease + 0.15`      | +1              |
 
-- If it's the first review (streak was 0 before), force `interval_days = 1` regardless of score ≥ 2.
+- If it's the first review (streak was 0 before), force `interval_days = 4` regardless of score (score ≥ 2 only; a score-1 first review still resets to 1 per the table).
 - Compute `next_review = today + interval_days` (ISO date, YYYY-MM-DD).
 - Set `last_reviewed = today`, `last_score`, `total_reviews += 1`.
 - Merge weak_points: union with existing `weak_points`, deduped, keep most recent 5.

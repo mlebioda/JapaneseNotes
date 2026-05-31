@@ -30,7 +30,7 @@ Imagine a **scholar** grinding a **stone (石)** carefully using both **hands/to
 #w 弟は外国語を研究しています（おとうと、がいこくご、けんきゅう）- My younger brtother is studying a foreign language
 #w あなたも日本文学を研究していますか（ぶんがく、けんきゅう）- are you also studying Japanese literature (research)
 ## 主 - mainly, one's master・おも、ぬし・シュ
-[[主-mainly]]
+[[主-mainly,master]]
 ![[Pasted image 20250512221751.png]]
 candlestick
 

@@ -85,6 +85,8 @@ Before:
 translation #card
 japanese expression (furigana)
 ```
+<!--ID: 1779824391385-->
+
 
 After (if a pattern matched):
 ```
@@ -92,6 +94,8 @@ translation #card
 japanese expression (furigana)
 > [Vないでください](https://mlebioda.github.io/JapaneseNotes/grammar-index/requests-commands)
 ```
+<!--ID: 1779824391392-->
+
 
 ### Risks
 - **Never modify `<!--ID: -->` lines** — the appended link must go on a new line after the Japanese line, before the next card separator (`---` or blank line). Inserting text between an existing `<!--ID:-->` line and its card body would break Anki sync. Rule: only annotate cards that do NOT yet have an `<!--ID:-->` line (i.e. newly generated cards in this session).

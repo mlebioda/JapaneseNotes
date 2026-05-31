@@ -429,12 +429,13 @@ UN5GL14 — 6 grammar points processed
 After printing the report, if any files were created in this session, ask:
 
 ```
-Run update-grammar on the N newly created files? (yes / no)
+Run preprocess-grammar on the N newly created files? (yes / no / all)
 ```
 
-- If **yes** — load `.cowork/skills/lesson-to-web/update-grammar.md` and pass it the list of created file paths.
-- If **no** — end the skill.
-- If `.cowork/skills/lesson-to-web/update-grammar.md` does not exist yet — skip this prompt silently.
+- **yes** — load `.cowork/skills/lesson-to-web/preprocess-grammar.md` and pass the list of created file paths.
+- **no** — end the skill.
+- **all** — load preprocess-grammar in **all** mode, which chains through review-grammar → structure-grammar → see-also-grammar without prompting at handoffs.
+- If `.cowork/skills/lesson-to-web/preprocess-grammar.md` does not exist yet — skip this prompt silently.
 
 ---
 

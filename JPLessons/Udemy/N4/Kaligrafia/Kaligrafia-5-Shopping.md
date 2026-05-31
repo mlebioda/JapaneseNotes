@@ -2,7 +2,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL5-Shopping
 ## 買 - buy・か、かい・バイ
 [[買-buyか(う)・バイ]]
 
-![[Pasted image 20250330131512.png]]
+![[Pasted image 20250330131512.png|179]]
 
 **(か)**　**(かい)**
 買う - buy
@@ -13,7 +13,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL5-Shopping
 
 ## 売 - sell・う、うり・バイ
 [[売-tosell]]
-![[Pasted image 20250330131951.png]]
+![[Pasted image 20250330131951.png|213]]
 **(う)**
 売る(う) - sell
 #w 売り場/売場（う／うり、ば）- sales floor
@@ -30,7 +30,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL5-Shopping
 #w あなたの仕事は建物の売買ですね（たてもの、ばいばい）- your job is trading buildings, right?
 ## 洋 - western/ocean・ヨウ
 [[洋-western]]
-![[Pasted image 20250330132429.png]]
+![[Pasted image 20250330132429.png|210]]
 Water, sheep - 
 
 **(ヨウ)**
@@ -46,7 +46,7 @@ Water, sheep -
 
 ## 服 - wear, clothes・フク
 [[服-wear]]
-![[Pasted image 20250330133035.png]]
+![[Pasted image 20250330133035.png|181]]
 Flesh . . . stamp . . . crotch. 
 
 **(フク)**
@@ -62,7 +62,7 @@ Flesh . . . stamp . . . crotch.
 --- 
 ## 屋 - dwelling, habitation・や・オク
 [[屋-dwelling]]
-![[Pasted image 20250403164741.png]]
+![[Pasted image 20250403164741.png|220]]
 
 **Mnemonic:** Imagine a **corpse (尸)** arriving (至) inside a **house**, meaning it's inside a **roofed structure (屋)**—like a shop or a room.
 **(や)**
@@ -80,7 +80,7 @@ Flesh . . . stamp . . . crotch.
 Under a **roof (广)**, a **fortune-teller (占)** runs a **shop (店)** to predict people's futures!
 **(みせ)**
 お店（みせ）- store
-#w たばこの店（みせ) - tobaco shop
+#w たばこの店（みせ) - tobacco shop
 #w 兄の店は洋服を売っています（あに、みせ、ようふく、う）- My elder brother's store is selling clothes
 #w この店に安い洋服がありますか（みせ、やすい、ようふく）-  Do you have any cheap clothes in this store?
 
@@ -190,6 +190,7 @@ Imagine two **big piles of grain** being harvested in the **evening (夕)**—th
 **(た)**
 #w 多作（たさく）- prolific (płodny)
 #w 多少（たしょう）- somewhat(nieco)
+
  --- 
 
 # Summary
