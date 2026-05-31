@@ -84,6 +84,23 @@ Skills are defined in .cowork/skills/ — load the relevant skill before acting.
 - lesson-to-web/structure-grammar — Step 3: structure enforcement, Structure 1 vs 2 (user confirmation). Trigger: "structure grammar <file>"
 - lesson-to-web/see-also-grammar — Step 4: populate ## See also, set proofread: true. Trigger: "see-also grammar <file>"
 
+
+## Agent system
+
+Agents are defined in `.claude/agents/`. For any task involving skills or agents, use the **orchestrator** as the default entry point.
+
+**`orchestrator`** — default entry point. Routes tasks through: reviewer → planner → skill-implementer → scribe. Handles new features, fixes, and improvements. Use for anything that modifies `.cowork/skills/` or `.claude/agents/`.
+
+**`reviewer`** — read-only analysis. Finds bugs, missing rules, A2A wiring issues, consistency problems. Called by orchestrator; can also be called directly for a standalone review.
+
+**`planner`** — creates structured plans in `Plans/`. Called by orchestrator after reviewer. Accepts `REVIEWER_BRIEF` input for A2A use.
+
+**`skill-implementer`** — executes plans. Reads `Plans/`, writes to `.cowork/skills/` and `.claude/agents/`. Calls scribe after each changed file.
+
+**`scribe`** — logs captures and generates blog posts. Called automatically by other agents. Modes: `capture`, `git-sweep`, `retrospect`, `post`.
+
+**`skill-updater`** — DEPRECATED. Use orchestrator instead.
+
 # Project rules
 - Never modify files in .cowork/ without permission. Always ask and explain what do you want to modify.
 - Never remove files without my permission
