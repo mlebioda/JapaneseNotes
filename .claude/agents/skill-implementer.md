@@ -99,6 +99,17 @@ COMMIT: uncommitted
 
 Call once per changed file. Do not wait for user confirmation — this is automatic.
 
+### Step 4.5 — Regenerate vault diagram (A2A)
+
+After all file changes are complete and all scribe calls have been made, if any file under `.claude/agents/` or `.cowork/skills/` was created, edited, or deleted during this session, call the `documentation` agent once to regenerate `docs/vault-system-diagram.puml`.
+
+```
+subagent_type: documentation
+prompt: update diagram
+```
+
+This call is made **once per skill-implementer run** — not once per file. Do not wait for user confirmation — this is automatic. If the documentation agent call fails, report the failure to the user but do not block the session. Continue to Step 5.
+
 ### Step 5 — Suggest commit message
 
 After all scribe calls are complete, compose a suggested git commit message for the user to copy. Do not run any git command.

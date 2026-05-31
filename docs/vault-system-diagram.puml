@@ -1,0 +1,336 @@
+@startuml vault-system-diagram
+title ObsidianJP Vault — Agent & Skill System
+
+' ─── Shared storage ───
+database ".claude/agents/" as AgentsDir
+database ".cowork/skills/" as SkillsDir
+database ".cowork/instructions.md" as Instructions
+database ".cowork/progress/" as ProgressDir
+database ".cowork/tmp/" as TmpDir
+database "Plans/" as PlansDir
+database "Scribe/" as ScribeDir
+database "docs/" as DocsDir
+database "JPLessons/" as Lessons
+database "grammar-index/" as GrammarIndex
+database "grammar-index/grammar/" as GrammarFiles
+database "Vocabulary/" as Vocabulary
+database "Kaligrafia/Kanji/" as KanjiDir
+database "KanjiList.md" as KanjiList
+
+' ─── Agents ───
+package "Agents" {
+
+  component [orchestrator] as Orchestrator <<agent>>
+  note right of Orchestrator
+    tools: Read, Bash, Agent
+    writes: .cowork/tmp/orchestrator-handoff.md (slug handoff only)
+    reads: Plans/
+    no direct write to skills/ or agents/
+    forbidden: JPLessons/
+  end note
+
+  component [reviewer] as Reviewer <<agent>>
+  note right of Reviewer
+    tools: Read, Bash, Agent
+    reads: .cowork/skills/, .claude/agents/,
+      .cowork/instructions.md, Plans/, Scribe/
+    no write to any file
+    forbidden: JPLessons/
+  end note
+
+  component [planner] as Planner <<agent>>
+  note right of Planner
+    tools: Read, Write, Edit, Bash, Agent
+    reads: Plans/, .cowork/skills/
+    writes: Plans/
+    forbidden: all other paths
+  end note
+
+  component [skill-implementer] as SkillImplementer <<agent>>
+  note right of SkillImplementer
+    tools: Read, Write, Edit, Bash, Agent
+    writes: .cowork/skills/, .claude/agents/,
+      grammar-index/, Vocabulary/, Plans/ (checkboxes)
+    reads: JPLessons/ (read-only, context only)
+    forbidden: git push, lesson file modification
+      (unless explicit user instruction)
+  end note
+
+  component [scribe] as Scribe <<agent>>
+  note right of Scribe
+    tools: Read, Write, Edit, Bash
+    reads: .cowork/, .claude/, git log/diff/show
+    writes: Scribe/sessions/, Scribe/posts/,
+      Scribe/retrospect/, Scribe/.last-capture,
+      Scribe/.last-post, Scribe/*-lessons-learned.md
+    forbidden: JPLessons/, any git write
+  end note
+
+  component [documentation] as Documentation <<agent>>
+  note right of Documentation
+    tools: Read, Write, Edit, Bash, Agent
+    reads: .claude/agents/, .cowork/skills/,
+      .cowork/instructions.md
+    writes: docs/vault-system-diagram.puml
+    forbidden: JPLessons/, Scribe/, Plans/,
+      .cowork/ writes, .claude/ writes, git writes
+  end note
+
+}
+
+package "Deprecated" {
+  component [skill-updater] as SkillUpdater <<agent>> <<deprecated>>
+  note right of SkillUpdater
+    DEPRECATED — use orchestrator instead
+    tools: Read, Write, Edit, Bash, Agent
+    was: updates .cowork/skills/ files
+    calls scribe after modifying files
+  end note
+}
+
+' ─── Agent → Agent calls ───
+Orchestrator --> Reviewer : calls (Stage 1 / Stage 4)
+Orchestrator --> Planner : calls (Stage 2)
+Orchestrator --> SkillImplementer : calls (Stage 3)
+Reviewer --> Scribe : calls (always after analysis)
+Reviewer --> Planner : calls (if user confirms)
+Planner --> Scribe : calls (on plan completion)
+SkillImplementer --> Scribe : calls (per changed file)
+SkillImplementer --> Documentation : calls (after skill/agent changes)
+SkillUpdater --> Scribe : calls (per modified file)
+
+' ─── Agent → Storage ───
+Orchestrator --> TmpDir : writes (slug handoff)
+Orchestrator ..> PlansDir : reads
+Reviewer ..> SkillsDir : reads
+Reviewer ..> AgentsDir : reads
+Reviewer ..> Instructions : reads
+Reviewer ..> PlansDir : reads
+Reviewer ..> ScribeDir : reads
+Planner --> PlansDir : writes
+Planner ..> SkillsDir : reads (context)
+SkillImplementer --> SkillsDir : writes
+SkillImplementer --> AgentsDir : writes
+SkillImplementer --> GrammarIndex : writes
+SkillImplementer --> Vocabulary : writes
+SkillImplementer ..> PlansDir : reads
+SkillImplementer ..> Lessons : reads (read-only)
+Scribe --> ScribeDir : writes
+Scribe ..> SkillsDir : reads
+Scribe ..> AgentsDir : reads
+Documentation --> DocsDir : writes
+Documentation ..> AgentsDir : reads
+Documentation ..> SkillsDir : reads
+Documentation ..> Instructions : reads
+
+' ─── Skills (top-level) ───
+package "Skills (top-level)" {
+
+  component [generate-diagram] as GenerateDiagram <<skill>>
+  note right of GenerateDiagram
+    trigger: "generate diagram", "update diagram",
+      "regenerate vault diagram"
+    reads: .claude/agents/, .cowork/skills/,
+      .cowork/instructions.md
+    writes: docs/vault-system-diagram.puml
+    calls scribe (A2A) after writing
+  end note
+
+  component [fill-templates] as FillTemplates <<skill>>
+  note right of FillTemplates
+    trigger: "fill <lesson>", "process <lesson>",
+      "templates <lesson>"
+    reads: JPLessons/<lesson>, KanjiList.md
+    writes: JPLessons/<lesson> (Summary section only)
+    script: fill_extract.py
+  end note
+
+  component [practice-grammar] as PracticeGrammar <<skill>>
+  note right of PracticeGrammar
+    trigger: "let's practice <lesson>", "practice <lesson>",
+      "exercise <lesson>", "drill grammar in <lesson>"
+    reads: JPLessons/<lesson> (before # Summary only)
+    reads: .cowork/progress/grammar-state.json
+    writes: .cowork/progress/grammar-state.json
+    never writes lesson files
+  end note
+
+  component [git-commit] as GitCommit <<skill>>
+  note right of GitCommit
+    trigger: "commit", "push", "save to git",
+      "commit <filename>"
+    reads: git status, git diff
+    runs: git add, git commit, git push
+    never force push; never git add .
+  end note
+
+  component [kanji-headers] as KanjiHeaders <<skill>>
+  note right of KanjiHeaders
+    trigger: "kanji headers <file>" or similar
+    reads: target calligraphy lesson file,
+      Kaligrafia/Kanji/ (recursive search)
+    writes: target file (kanji blocks + # Summary)
+    chains: update-kanji-list
+  end note
+
+  component [summarize-grammar] as SummarizeGrammar <<skill>>
+  note right of SummarizeGrammar
+    trigger: "summarize <lesson>", "index <lesson>",
+      "add <lesson> to grammar index"
+    reads: JPLessons/<lesson> (before # Summary only),
+      grammar-index/*.md
+    writes: grammar-index/ topic files,
+      grammar-index/index.md (only if new topic created)
+    uses Python snippet for file writes
+    never writes lesson files
+  end note
+
+  component [update-kanji-list] as UpdateKanjiList <<skill>>
+  note right of UpdateKanjiList
+    trigger: "update kanji list <file>"
+    reads: calligraphy lesson file, KanjiList.md,
+      Kaligrafia/Kanji/ (recursive search)
+    writes: KanjiList.md, Kaligrafia/Kanji/ files
+  end note
+
+}
+
+' ─── Skills (lesson-to-web) ───
+package "Skills (lesson-to-web)" {
+
+  component [extract-grammar] as ExtractGrammar <<skill>>
+  note right of ExtractGrammar
+    trigger: "extract grammar from <lesson>"
+    reads: JPLessons/<lesson> (before # Summary only),
+      grammar-index/*.md
+    writes: grammar-index/grammar/<slug>.md,
+      grammar-index/ topic files,
+      JPLessons/<lesson> (wikilink insertion only)
+    user-gated: heading classification before any writes
+    optionally chains: preprocess-grammar (step 10)
+  end note
+
+  component [preprocess-grammar] as PreprocessGrammar <<skill>>
+  note right of PreprocessGrammar
+    trigger: "preprocess grammar <slug>",
+      or called from extract-grammar
+    reads: grammar-index/grammar/<slug>.md
+    writes: grammar-index/grammar/<slug>.md
+    scripts: grammar-process.py, furigana-convert.py
+    chains: review-grammar
+  end note
+
+  component [review-grammar] as ReviewGrammar <<skill>>
+  note right of ReviewGrammar
+    trigger: "review grammar <slug>",
+      or called from preprocess-grammar
+    reads: grammar-index/grammar/<slug>.md
+    writes: grammar-index/grammar/<slug>.md
+      (user-gated corrections only)
+    chains: structure-grammar
+  end note
+
+  component [structure-grammar] as StructureGrammar <<skill>>
+  note right of StructureGrammar
+    trigger: "structure grammar <slug>",
+      or called from review-grammar
+    reads: grammar-index/grammar/<slug>.md,
+      grammar-index/ topic files (context only)
+    writes: grammar-index/grammar/<slug>.md
+      (user confirmation before reformatting)
+    chains: see-also-grammar
+  end note
+
+  component [see-also-grammar] as SeeAlsoGrammar <<skill>>
+  note right of SeeAlsoGrammar
+    trigger: "see-also grammar <slug>",
+      or called from structure-grammar
+    reads: grammar-index/grammar/<slug>.md,
+      grammar-index/ topic files
+    writes: grammar-index/grammar/<slug>.md
+    scripts: grammar-process.py (--set-proofread),
+      grammar-audit.py (--verbose, orphan check)
+    sets proofread: true in frontmatter
+  end note
+
+  component [extract-vocabulary] as ExtractVocabulary <<skill>>
+  note right of ExtractVocabulary
+    trigger: "extract vocabulary from <lesson>",
+      "extract vocab N5", "update vocabulary file"
+    reads: JPLessons/<lesson> (before # Summary only)
+    writes: Vocabulary/words-extracted.md
+    never runs fill-templates
+  end note
+
+  component [update-grammar] as UpdateGrammar <<skill>>
+  note right of UpdateGrammar
+    trigger: "update grammar <slug>",
+      or called from extract-grammar
+    reads: grammar-index/grammar/<slug>.md
+    chains: preprocess-grammar (in all mode)
+    no direct file writes — delegates to chain
+  end note
+
+}
+
+' ─── Documentation agent → skill ───
+Documentation --> GenerateDiagram : loads
+
+' ─── Skill → storage ───
+GenerateDiagram ..> AgentsDir : reads
+GenerateDiagram ..> SkillsDir : reads
+GenerateDiagram ..> Instructions : reads
+GenerateDiagram --> DocsDir : writes
+
+FillTemplates ..> Lessons : reads
+FillTemplates --> Lessons : writes (Summary section)
+FillTemplates ..> KanjiList : reads
+
+PracticeGrammar ..> Lessons : reads (read-only)
+PracticeGrammar ..> ProgressDir : reads
+PracticeGrammar --> ProgressDir : writes
+
+KanjiHeaders ..> Lessons : reads
+KanjiHeaders --> Lessons : writes (kanji blocks)
+KanjiHeaders ..> KanjiDir : reads
+KanjiHeaders --> UpdateKanjiList : chains
+
+UpdateKanjiList ..> Lessons : reads
+UpdateKanjiList ..> KanjiDir : reads
+UpdateKanjiList --> KanjiList : writes
+UpdateKanjiList --> KanjiDir : writes
+
+SummarizeGrammar ..> Lessons : reads (read-only)
+SummarizeGrammar ..> GrammarIndex : reads
+SummarizeGrammar --> GrammarIndex : writes
+
+ExtractGrammar ..> Lessons : reads (read-only)
+ExtractGrammar --> Lessons : writes (wikilink only)
+ExtractGrammar ..> GrammarIndex : reads
+ExtractGrammar --> GrammarFiles : writes
+ExtractGrammar --> GrammarIndex : writes (topic files)
+ExtractGrammar --> PreprocessGrammar : chains (optional)
+
+PreprocessGrammar ..> GrammarFiles : reads
+PreprocessGrammar --> GrammarFiles : writes
+PreprocessGrammar --> ReviewGrammar : chains
+
+ReviewGrammar ..> GrammarFiles : reads
+ReviewGrammar --> GrammarFiles : writes (user-gated)
+ReviewGrammar --> StructureGrammar : chains
+
+StructureGrammar ..> GrammarFiles : reads
+StructureGrammar ..> GrammarIndex : reads (context)
+StructureGrammar --> GrammarFiles : writes (user-confirmed)
+StructureGrammar --> SeeAlsoGrammar : chains
+
+SeeAlsoGrammar ..> GrammarFiles : reads
+SeeAlsoGrammar ..> GrammarIndex : reads
+SeeAlsoGrammar --> GrammarFiles : writes
+
+ExtractVocabulary ..> Lessons : reads (read-only)
+ExtractVocabulary --> Vocabulary : writes
+
+UpdateGrammar --> PreprocessGrammar : chains (all mode)
+
+@enduml

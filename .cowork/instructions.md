@@ -99,6 +99,8 @@ Agents are defined in `.claude/agents/`. For any task involving skills or agents
 
 **`scribe`** — logs captures and generates blog posts. Called automatically by other agents. Modes: `capture`, `git-sweep`, `retrospect`, `post`.
 
+**`documentation`** — generates and updates the vault system diagram (`docs/vault-system-diagram.puml`). Called automatically by skill-implementer after any agent or skill file change. Trigger: "generate diagram" or "update diagram".
+
 **`skill-updater`** — DEPRECATED. Use orchestrator instead.
 
 # Project rules
