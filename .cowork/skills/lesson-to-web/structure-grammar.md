@@ -25,6 +25,16 @@ If called with **all** mode (from review-grammar "all" answer): skip the handoff
 
 ---
 
+## Shared files
+
+Load `.cowork/skills/lesson-to-web/_conventions.md` before starting.
+
+---
+
+Check the proofread: true guard (see _conventions.md) before processing each file.
+
+---
+
 ### Step 7 — File structure enforcement
 
 #### Container file detection
@@ -187,20 +197,9 @@ structure-grammar — N files processed
 Then ask (skip if running in **all** mode):
 
 ```
-Run see-also-grammar on these files? (yes / no)
+Run see-also-grammar on these files? (yes / no / all)
 ```
 
 - **yes** — load `.cowork/skills/lesson-to-web/see-also-grammar.md` and pass the file list.
 - **no** — end the skill.
-
----
-
-## Never touch
-
-- `<!--ID: -->` lines
-- `TARGET DECK` lines
-- Japanese text — never translate kana or kanji
-- Files outside `grammar-index/grammar/` — only read topic files in `grammar-index/` for context; do not write to them here
-- Lesson files under `JPLessons/`
-- Other skill files or `.cowork/instructions.md`
-- Do not run `git push` or any remote git operation
+- **all** — load see-also-grammar, instructing it to continue in all mode (no further handoff prompts after processing).

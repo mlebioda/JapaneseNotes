@@ -21,14 +21,16 @@ description: >
 
 Process each file in order. Apply all steps to one file before moving to the next.
 
-Before starting any step, read the file's frontmatter. If `proofread: true` is already set, pause:
+---
 
-```
-<slug>.md already has proofread: true. Re-process anyway? (yes / no)
-```
+## Shared files
 
-If no: skip all steps for that file and note it as skipped in the handoff summary.
-If yes: proceed with all steps, including running the script in Step 1.
+Load `.cowork/skills/lesson-to-web/_conventions.md` before starting.
+Load `.cowork/skills/lesson-to-web/_patterns.md` only if Step 3 encounters an unrecognised input format.
+
+---
+
+Check the proofread: true guard (see _conventions.md) before processing each file.
 
 ---
 
@@ -83,11 +85,6 @@ python3 .claude/scripts/furigana-convert.py <file> [<file> ...]
 python3 .claude/scripts/furigana-convert.py --dry-run <file>
 ```
 
-Converts trailing-reading format to inline furigana.
-
-**Input:** `明日の仕事のしりょうですね（あした、しごと）`
-**Output:** `明日(あした)の仕事(しごと)のしりょうですね`
-
 Algorithm:
 1. Detect lines with a trailing parenthesised reading list — `（r1、r2）` (fullwidth) or `(r1, r2)` (ASCII).
 2. Strip the trailing list; split into ordered readings.
@@ -133,14 +130,3 @@ Run review-grammar on these files? (yes / no / all)
 - **no** — end the skill.
 - **all** — load review-grammar, instructing it to continue through structure-grammar and see-also-grammar without prompting at each handoff.
 
----
-
-## Never touch
-
-- `<!--ID: -->` lines
-- `TARGET DECK` lines
-- Japanese text — never translate kana or kanji
-- Files outside `grammar-index/grammar/`
-- Lesson files under `JPLessons/`
-- Other skill files or `.cowork/instructions.md`
-- Do not run `git push` or any remote git operation

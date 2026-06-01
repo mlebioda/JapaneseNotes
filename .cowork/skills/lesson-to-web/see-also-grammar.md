@@ -19,6 +19,12 @@ description: >
 
 ## Workflow
 
+## Shared files
+
+Load `.cowork/skills/lesson-to-web/_conventions.md` before starting.
+
+---
+
 Process each file in order. Apply both steps to one file before moving to the next.
 
 ---
@@ -41,7 +47,7 @@ To check all grammar files at once: `python3 .claude/scripts/grammar-audit.py --
 
 #### Algorithm — grammar point files (no `## Sub-topics`)
 
-1. Scan all files in `grammar-index/` non-recursively (do not descend into `grammar/`; exclude `index.md`) that contain a `## Sub-topics` section.
+1. Scan all files in `grammar-index/grammar/` (exclude `index.md` if present) that contain a `## Sub-topics` section.
 2. For each container file, check whether the current file's slug appears in any of its `## Sub-topics` links.
 3. Collect all container files that include the current file. Extract each container's pattern name from its `# heading`.
 4. Format each as: `- [Container Name](/JapaneseNotes/grammar-index/<slug>) — <short phrase: what this container groups>`
@@ -91,15 +97,3 @@ see-also-grammar — N files processed
     → proofread: true
 ```
 
----
-
-## Never touch
-
-- `<!--ID: -->` lines
-- `TARGET DECK` lines
-- Frontmatter fields other than `proofread` — never modify `lesson`, `pattern`, `topic_slug`, `level`
-- Japanese text — never translate kana or kanji
-- Files outside `grammar-index/grammar/` — only read topic files in `grammar-index/` for the See also step; do not write to them
-- Lesson files under `JPLessons/`
-- Other skill files or `.cowork/instructions.md`
-- Do not run `git push` or any remote git operation

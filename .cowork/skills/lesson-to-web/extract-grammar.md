@@ -21,6 +21,12 @@ User says:
 
 ## Workflow
 
+## Shared files
+
+Load `.cowork/skills/lesson-to-web/_conventions.md` before starting.
+
+---
+
 ### 1. Find the target lesson file
 
 Resolve the lesson code to its full path under `JPLessons/Udemy/N<level>/Gramatyka/`.
@@ -513,32 +519,3 @@ Lives at `grammar-index/index.md`. Groups topic files into a fixed high-level ta
 | Leading or trailing `-` | Strip |
 | Empty result (all kanji, no kana/Latin) | Use positional fallback: `point-1`, `point-2`, etc. |
 
----
-
-## File placement
-
-All grammar-index/grammar/ output files go in:
-
-```
-/Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP/grammar-index/grammar/
-```
-
-All grammar-index topic files go in:
-
-```
-/Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP/grammar-index/
-```
-
-If the `grammar-index/grammar/` directory does not exist, create it before writing the first file.
-
----
-
-## Never touch
-
-- Lesson files under `JPLessons/` — only step 8 may write to them (inserting a wikilink under a grammar heading). Never modify any other content, never write past `# Summary`.
-- Never read past `# Summary` in any lesson file
-- `<!--ID: -->` lines — do not add, remove, or shift them anywhere
-- `TARGET DECK` lines — do not touch
-- Other skill files or `.cowork/instructions.md` — do not modify
-- Do not run `git push` or any remote git operation
-- Do not run the `fill-templates` workflow during extraction

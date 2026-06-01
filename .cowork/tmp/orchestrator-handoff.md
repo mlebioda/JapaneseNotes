@@ -1,1 +1,1 @@
-SLUG: agent-system-improvements
+SLUG: lesson-to-web-refactor

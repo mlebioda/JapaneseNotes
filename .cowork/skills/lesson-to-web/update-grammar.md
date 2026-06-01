@@ -18,6 +18,8 @@ description: >
 
 ## Workflow
 
+Load `.cowork/skills/lesson-to-web/_conventions.md` before starting.
+
 Load `.cowork/skills/lesson-to-web/preprocess-grammar.md` and pass it the file list.
 
 Tell preprocess-grammar to run in **all** mode — meaning each skill in the chain will automatically continue to the next without prompting at handoffs, asking only for the user gates within each skill (correctness check, missing info, structure confirmation).

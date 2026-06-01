@@ -24,6 +24,16 @@ If called with **all** mode (from preprocess-grammar "all" answer): skip the han
 
 ---
 
+## Shared files
+
+Load `.cowork/skills/lesson-to-web/_conventions.md` before starting.
+
+---
+
+Check the proofread: true guard (see _conventions.md) before processing each file.
+
+---
+
 ### Step 5 — Substantive correctness check
 
 Verify the grammar explanation is accurate:
@@ -75,15 +85,3 @@ Run structure-grammar on these files? (yes / no / all)
 - **yes** — load `.cowork/skills/lesson-to-web/structure-grammar.md` and pass the file list.
 - **no** — end the skill.
 - **all** — load structure-grammar, instructing it to continue through see-also-grammar without prompting at the next handoff.
-
----
-
-## Never touch
-
-- `<!--ID: -->` lines
-- `TARGET DECK` lines
-- Japanese text — never translate kana or kanji
-- Files outside `grammar-index/grammar/`
-- Lesson files under `JPLessons/`
-- Other skill files or `.cowork/instructions.md`
-- Do not run `git push` or any remote git operation
