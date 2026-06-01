@@ -34,7 +34,7 @@ When the user gives a task, classify it before starting:
 
 | Type | Description | Pipeline |
 |---|---|---|
-| `new` | Creating a skill or agent that does not exist yet | planner → implementer → scribe |
+| `new` | Creating a skill or agent that does not exist yet | reviewer (related file, quick) → planner → implementer → scribe |
 | `change` | Modifying, improving, or fixing an existing skill or agent | reviewer → planner → implementer → scribe |
 | `review-only` | User only wants analysis, no changes | reviewer → scribe |
 
@@ -111,7 +111,7 @@ Ask: **"Approve plan and start implementation?"**
 - "Revise X" → call planner again using the standard `REVIEWER_BRIEF: true` format, carrying forward the same `TARGET`, `SUMMARY`, and `ISSUES`, and appending `REVISION_NOTES: <user feedback>` so planner knows this is a revision run:
   ```
   REVIEWER_BRIEF: true
-  TARGET: <same absolute path from Stage 1>
+  TARGET: <same relative path from Stage 1 — e.g. .cowork/skills/fill-templates.md>
   SUMMARY: <original summary>
   ISSUES:
   <original issues list>
@@ -124,7 +124,7 @@ Ask: **"Approve plan and start implementation?"**
 
 **Slug resolution (temp-file handoff):**
 
-After planner confirms the plan is written, write the slug to the handoff file immediately — before calling skill-implementer. This is the only direct write the orchestrator performs:
+After planner confirms the plan is written, write the slug to the handoff file before calling skill-implementer:
 
 ```
 Write to .cowork/tmp/orchestrator-handoff.md (one line):
@@ -139,7 +139,7 @@ cat "/Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/
 
 Extract the slug from the `SLUG:` line. If the file is missing or empty (e.g. planner was called but no plan was written), fall back to listing `Plans/*-plan.md` and picking the file whose name matches keywords from the user's task description. Ask the user to confirm the slug if ambiguous.
 
-Important: always overwrite (never append) the handoff file at the start of each Stage 2 call, so a stale slug from a previous session cannot carry forward.
+Important: always overwrite (never append) the handoff file each time Stage 3 begins, so a stale slug from a previous session cannot carry forward.
 
 Store the resolved slug as a working variable and substitute it into the call template below.
 
@@ -179,7 +179,7 @@ CONSTRAINT: Report findings only. Do NOT ask the user to call planner or route t
 
 Present reviewer's findings to the user. The reviewer will stop after reporting — it will not ask the user to route anywhere.
 
-If reviewer reports **no issues**: inform the user and close the pipeline.
+If reviewer reports **no issues**: inform the user and close the pipeline. (Reviewer called scribe internally — no additional scribe call needed.)
 
 If reviewer reports **issues found**: the orchestrator asks the user: **"Issues were found. Route back to planner for a fix?"**
 - Yes → Stage 2 (revision run), carrying forward the issue list as `ISSUES` and `REVISION_NOTES`
@@ -229,4 +229,5 @@ Never silently continue past a failed sub-agent call. A partial pipeline (e.g. r
 - Always tell the user the current stage and what agent is running
 - If any agent returns an error or unexpected result, pause and report to the user before continuing
 - The tools list intentionally omits `Edit` and `Write` — the orchestrator has no direct write access to vault files; all file changes are delegated to skill-implementer
-- **Temp file (active use):** the orchestrator writes the planner slug to `.cowork/tmp/orchestrator-handoff.md` at Stage 2 completion and reads it back at Stage 3 start; this is the only permitted direct write by the orchestrator. Always overwrite, never append.
+- **Bash may not write files** — Bash is permitted for read-only lookups (`ls`, `cat`, `grep`) only. Never use Bash to write, overwrite, append to, or delete any file (no `echo >`, `tee`, `cat >`, heredocs, `rm`, `mv`, etc.) — not even `.cowork/tmp/` files, except for the single permitted handoff write below
+- **Temp file exception (sole permitted write):** the orchestrator may write one file — `.cowork/tmp/orchestrator-handoff.md` — using a single `echo "SLUG: <slug>" > <path>` Bash call, once per pipeline run, at the moment Stage 3 begins (after planner confirms the plan is written, before calling skill-implementer). Always overwrite, never append. No other Bash write is permitted.
