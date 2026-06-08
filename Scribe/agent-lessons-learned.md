@@ -48,3 +48,12 @@
 **Source**: uncommitted — skill-implementer
 
 ---
+
+## 2026-06-01 — orchestrator.md
+
+**Classification**: bug-fix
+**What happened**: The orchestrator's write-prohibition rules omitted Bash, leaving a loophole that allowed it to write vault files directly via Bash tool calls instead of delegating to skill-implementer. An explicit Bash write prohibition was added to the hard rules block.
+**Rule**: **[Rule]** When prohibiting direct file writes in an orchestrator, name every write-capable tool explicitly — Bash, Write, Edit, and Read-with-write patterns — because a prohibition that omits one tool name leaves an exploitable loophole.
+**Source**: uncommitted — skill-implementer
+
+---

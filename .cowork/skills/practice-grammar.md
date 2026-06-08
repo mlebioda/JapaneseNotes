@@ -19,7 +19,7 @@ User says any of:
 - "exercise <lesson>"
 - "drill grammar in <lesson>"
 
-If user references a lesson by code only (e.g. `UN5GL14`), find the file under `JPLessons/Udemy/N<level>/Gramatyka/` — match by prefix, ignore trailing description in filename.
+If user references a lesson by code only (e.g. `UN5GL14`), find the file under `JPLessons/Udemy/N<level>/Grammar/` — match by prefix, ignore trailing description in filename.
 
 ---
 
@@ -36,7 +36,7 @@ If user references a lesson by code only (e.g. `UN5GL14`), find the file under `
 3. **Parse grammar topics** — from `# 文法` AND `# Vocabulary` sections (see **Parsing**)
 4. **Parse vocab pool** — from `#w`, `#wc`, `#wp` lines in `# ごい` AND `# ひょうげん` (see **Parsing**)
 5. **Load `.cowork/progress/grammar-state.json`** — if the file does not exist yet, treat state as empty. Pick up any prior `weak_points` for these grammar points so exercises can stress them.
-6. **Generate the exercise set** — one exercise per grammar point (see **Exercise generation**). If a grammar point has recorded weak_points, bias that exercise toward the weak aspect.
+6. **Generate the exercise set** — one exercise per use case per grammar point (see **Exercise generation** and **Parsing — Use case extraction**). If a grammar point has recorded weak_points, bias the exercise(s) for matching use cases toward the weak aspect. Session total = sum of all use cases across all grammar points.
 7. **Run the session interactively** — present exercises one at a time. After each answer, grade it (see **Grading**), give brief feedback, ask the user to self-score 1–4 (fail / hard / good / easy). Accept the score, move to the next exercise.
 8. **After the last exercise** — write a summary of what went well and what needs more practice.
 9. **Persist results** — update `grammar-state.json` (see **Persistence**).
@@ -58,6 +58,16 @@ For each section, find its `^# ` heading and collect content until the next `^# 
 - Preserve Japanese characters exactly.
 
 Build a list of `{grammar_header, body_text, source_section}` triples. The body text (Structure blocks, examples) is what generates exercises.
+
+#### Use case extraction
+
+After building each triple, identify the use cases within the body text:
+
+1. **`### Use cases` section present** — each numbered item in that list is one use case. Extract the item number and its short description as the use case label (e.g. `"1. ongoing state"`, `"2. time period"`, `"3. whole area"`).
+2. **`### Structure` section with multiple top-level bullet variants** — if the section contains two or more top-level bullet points each beginning with a structural pattern (`V「...」`, `N + ...`, `いadj`, `なadj`, etc.) with distinct structures, each top-level variant is one use case. Label with the pattern text (e.g. `"V「dict」+ の"`, `"V「た」+ の"`).
+3. **Neither applies** — the grammar point is prose/examples only, no explicit structural variants. Treat the whole grammar point as one use case (label: the grammar header itself).
+
+Minimum: every grammar point yields at least one use case; there is no maximum. The use case label is used only internally for exercise generation — it must **not** appear in the exercise prompt shown to the user (showing it would leak the tested structure).
 
 ### Vocab pool (`# ごい` and `# ひょうげん`)
 
@@ -90,7 +100,9 @@ Example: header `Vないで ください` → slug `vnaide-kudasai` → id `UN5G
 
 ## Exercise generation
 
-For each grammar point, produce **one** exercise. Pick the type that best tests the specific point:
+For each grammar point, produce **one exercise per use case** (as extracted during parsing). Each exercise must target its specific use case — not a generic demonstration of the overall grammar point. The use case label must not appear in the prompt text. If the grammar point has recorded `weak_points`, prioritize the use case(s) that match the weak point in the exercises for that use case.
+
+Pick the exercise type that best tests the specific use case:
 
 - **Translate to Japanese** — Polish/English prompt, user writes Japanese. Best for sentence-pattern grammar (てください, なくてもいい, だけ, が-contrast).
 - **Fill the blank** — Japanese sentence with a gap, user fills the grammar form. Best for verb conjugation and particle choice.
@@ -105,7 +117,13 @@ For each grammar point, produce **one** exercise. Pick the type that best tests 
 
 **Variety** — across the session, rotate exercise types; avoid running five "translate to Japanese" in a row.
 
-**Avoid trivial fill-the-blank** — a fill-the-blank exercise is only valid if the blank forces the user to demonstrate the grammar point, not just recall a single obvious particle or word. If the answer could be guessed without knowing the grammar (e.g. filling in か when the surrounding sentence makes it the only possible word), switch to a translate-to-Japanese exercise instead. The rule: if a native speaker who has never seen this grammar point could still fill the blank correctly by elimination, the exercise is too obvious — replace it.
+**Non-trivial exercise checklist — mandatory.** Before outputting any exercise, verify all three gates pass. If a gate fails, redesign the exercise (change type or rewrite the prompt) until it passes all three.
+
+**Gate 1 — Prompt does not leak the answer.** The prompt must not contain, quote, or directly name the exact form the user must produce. A prompt like "Translate to Japanese: 'I decided to go to graduate school'" is fine — the grammar form (ことにしました) is not named in the prompt. A prompt like "Use ことにする to say you decided to quit" fails because it names the target form; rewrite as a neutral translation or context prompt instead.
+
+**Gate 2 — Answer requires genuinely using the grammar point.** A native speaker who does not know this grammar point but knows vocabulary could not produce the answer by elimination or by copying surrounding text. If they could, upgrade the exercise type (e.g. fill-the-blank → translate-to-Japanese).
+
+**Gate 3 — Conjugation target is not a single morpheme.** If the answer requires adding or changing only one particle or suffix (ない, ます, か) to a fully given stem, the exercise is too narrow. The exercise must require the user to produce the whole grammatical construction, not just append one character to a given stem. Exception: exercises explicitly testing a single difficult distinction (e.g. rendaku in counters, sound changes in irregular forms like いっぽん, さんぼん) are allowed, because the tested knowledge is genuinely difficult and cannot be meaningfully widened.
 
 ---
 
@@ -119,22 +137,29 @@ There are two modes — **batch** (default) and **interactive**. Pick batch unle
 
 Print **all** exercises at once in a single message. Number them, include the grammar point header, and put the prompt on its own. No expected answers, no hints that reveal the form. The user replies once with all answers (numbered or in order). Then grade everything in one follow-up message and ask for self-scores in one batch.
 
+The session header must show both the exercise count and the grammar point count. The `Exercise N / T` progress indicator uses the exercise count (total use cases), not the grammar point count.
+
 Layout for the batch prompt:
 
 ```
-Session: UN5GL14 — 7 exercises. Reply with all answers in one message (numbered or in order).
+Session: UN4GL7 — 14 exercises across 9 grammar points. Reply with all answers in one message (numbered or in order).
 
-Exercise 1 / 7 — grammar point: Vないで ください
+Exercise 1 / 14 — grammar point: 名詞 + 中（ちゅう・じゅう）  [use case: ongoing state]
+Translate to Japanese: "The meeting is currently in progress."
+
+Exercise 2 / 14 — grammar point: 名詞 + 中（ちゅう・じゅう）  [use case: whole area / place]
+Translate to Japanese: "I travelled all around Japan."
+
+Exercise 3 / 14 — grammar point: Vないで ください
 Translate to Japanese: "Please don't use a cellphone in the hospital."
-
-Exercise 2 / 7 — grammar point: Vない なくてもいいです
-Translate to Japanese: "You don't have to book a reservation."
 
 …
 
-Exercise 7 / 7 — grammar point: Counter 本
+Exercise 14 / 14 — grammar point: Counter 本
 Fill the blank: ペンが ___ あります (3 pens).
 ```
+
+Note: the `[use case: ...]` label in the example above is shown here for illustration only — **omit it from the actual exercise output** so the label does not leak the tested structure to the user.
 
 Layout for the grading reply (single message):
 
@@ -216,10 +241,10 @@ Weak-point strings should be short and categorical: `particle に placement`, `�
 
 ## Session summary
 
-After the last exercise, show a compact summary:
+After the last exercise, show a compact summary. Summarize at the **grammar point level** — SM-2 tracks per grammar point, not per exercise. If a grammar point had multiple exercises (multiple use cases), show the individual scores and the worst-case outcome determines the "Solid" vs "Needs practice" classification.
 
 ```
-Session complete — UN5GL14 (7 grammar points)
+Session complete — UN4GL7 (14 exercises across 9 grammar points)
 
 Solid:
   ✓ Vないで ください               score 4
@@ -227,12 +252,17 @@ Solid:
   ✓ Counter 回                     score 3
 
 Needs practice:
+  ✗ 名詞 + 中（ちゅう・じゅう）     scores 4 / 2 / 1 — じゅう whole-area reading failed
   ✗ Vplain + N (noun modifier)     score 2 — N が/の particle choice
-  ✗ が (but / topic intro)         score 2 — confused contrast vs topic use
   ✗ Counter 本                      score 1 — sound changes (いっぽん, さんぼん)
 
 Next review dates written to grammar-state.json.
 ```
+
+Rules:
+- If any exercise for a grammar point scored 1–2, the grammar point goes to "Needs practice."
+- For points with multiple exercises, show all scores (e.g. `scores 4 / 2 / 1`) and name the use case that failed.
+- For points with a single exercise, show `score N` as before.
 
 ---
 
@@ -252,6 +282,7 @@ Read the file (create with `{"grammar_points": {}}` if missing). For each practi
 | 3     | `max(1, round(interval * ease))`             | unchanged          | +1              |
 | 4     | `max(1, round(interval * ease * 1.3))`       | `ease + 0.15`      | +1              |
 
+- **Multi-exercise grammar points** — if a grammar point had more than one exercise in the session (multiple use cases), use the **minimum** self-score across all its exercises as the SM-2 input score. Rationale: if the user aced two of three use cases but failed one, they have not mastered the grammar point and should review it sooner. The `weak_points` are the union of all exercises' weak points for that grammar point.
 - If it's the first review (streak was 0 before), force `interval_days = 4` regardless of score (score ≥ 2 only; a score-1 first review still resets to 1 per the table).
 - Compute `next_review = today + interval_days` (ISO date, YYYY-MM-DD).
 - Set `last_reviewed = today`, `last_score`, `total_reviews += 1`.
@@ -263,7 +294,7 @@ Example entry shape:
 {
   "grammar_points": {
     "UN5GL14::vnaide-kudasai": {
-      "lesson_file": "JPLessons/Udemy/N5/Gramatyka/UN5GL14.md",
+      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL14.md",
       "grammar_header": "Vないで ください",
       "last_reviewed": "2026-04-21",
       "next_review": "2026-04-24",

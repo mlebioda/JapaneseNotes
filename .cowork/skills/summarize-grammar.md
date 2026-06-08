@@ -17,7 +17,7 @@ User says any of:
 - "index <lesson>"
 - "add <lesson> to grammar index"
 
-If user references a lesson by code only, find the file under `JPLessons/Udemy/N<level>/Gramatyka/` — match by prefix, ignore trailing description in filename.
+If user references a lesson by code only, find the file under `JPLessons/Udemy/N<level>/Grammar/` — match by prefix, ignore trailing description in filename.
 
 ---
 

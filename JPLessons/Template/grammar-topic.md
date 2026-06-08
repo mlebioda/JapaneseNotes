@@ -1,6 +1,0 @@
-
-
-## Structure
-
-
-## See also

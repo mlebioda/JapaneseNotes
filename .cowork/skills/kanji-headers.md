@@ -14,10 +14,15 @@ description: >
 User provides: a **filename** (target file in the vault).
 
 1. Read the target file
-3. Extract all kanji from the file Headers
-4. Write the formatted kanji blocks to the file, followed by `# Summary`
-5. Save the file
-6. Run the `update-kanji-list` workflow on the same file (load `.cowork/skills/update-kanji-list.md` and follow its instructions)
+2. Extract all kanji from the file Headers. For each kanji, search `Caligraphy/Kanji/**/漢*` and record the result in a per-run map:
+   ```
+   kanji-file-map[漢] = "漢-kanji,china"   # found — filename without .md
+   kanji-file-map[電] = null               # not found
+   ```
+   Build this map as you perform the searches so no search is repeated.
+3. Write the formatted kanji blocks to the file, followed by `# Summary`
+4. Save the file
+5. Run the `update-kanji-list` workflow on the same file, passing `kanji-file-map` as the `[kanji-file-map]` input (load `.cowork/skills/update-kanji-list.md` and follow its instructions)
 
 ## File output structure
 
@@ -27,9 +32,9 @@ User provides: a **filename** (target file in the vault).
 ## Kanji - meaning・kun・on
 [[Kanji-meaning]]
 
-(reading 1)
+**(reading 1)**
 
-(reading 2)
+**(reading 2)**
 
 ---
 
@@ -47,19 +52,21 @@ If the file already has a `# Summary` line, replace everything from that line on
 
 ### Link under each header
 
-Immediately after each `## header` line, there must be a wikilink to the corresponding kanji file in `Kaligrafia/Kanji/`. Always verify the link — whether adding a new one or correcting an existing one.
+Immediately after each `## header` line, there must be a wikilink to the corresponding kanji file in `Caligraphy/Kanji/`. Always verify the link — whether adding a new one or correcting an existing one.
 
-**File names in `Kaligrafia/Kanji/` are not consistent and may be in subdirectories** — do not guess the name or path from a pattern. Instead, search recursively under `Kaligrafia/Kanji/` for any file whose name **starts with the kanji character** and use the exact filename (without `.md`) as the wikilink.
+**File names in `Caligraphy/Kanji/` are not consistent and may be in subdirectories** — do not guess the name or path from a pattern. Instead, search recursively under `Caligraphy/Kanji/` for any file whose name **starts with the kanji character** and use the exact filename (without `.md`) as the wikilink.
 
 If a wikilink already exists under the header, verify it matches the actual filename found by the search. If it does not match, correct it.
 
-Use a recursive glob: `Kaligrafia/Kanji/**/漢*` — this matches both `Kaligrafia/Kanji/漢-china.md` and `Kaligrafia/Kanji/艹/漢-kanji,china.md`.
+Use a recursive glob: `Caligraphy/Kanji/**/漢*` — this matches both `Caligraphy/Kanji/漢-china.md` and `Caligraphy/Kanji/艹/漢-kanji,china.md`.
 
 The wikilink uses only the **filename** (no path): `[[漢-kanji,china]]`.
 
-Example lookup for 漢: search `Kaligrafia/Kanji/**/漢*` → result is `Kaligrafia/Kanji/艹/漢-kanji,china.md` → use `[[漢-kanji,china]]`.
+Example lookup for 漢: search `Caligraphy/Kanji/**/漢*` → result is `Caligraphy/Kanji/艹/漢-kanji,china.md` → use `[[漢-kanji,china]]`.
 
 If no matching file exists, use `[[Kanji-firstMeaningWord]]` as a placeholder — it will be created by the `update-kanji-list` skill.
+
+> **Note:** When `update-kanji-list` creates a new file for a kanji that had no existing file, the wikilink written by `kanji-headers` may not yet match the actual filename. After `update-kanji-list` completes, re-derive the wikilink from the actual filename that was created (post-creation), not from the placeholder.
 
 ## Header format rules
 
@@ -71,11 +78,15 @@ If no matching file exists, use `[[Kanji-firstMeaningWord]]` as a placeholder �
 
 ## Content block rules
 
-- Each reading goes on its **own line**, wrapped in parentheses: `(くるま)`
+- Each reading goes on its **own line**, wrapped in bold parentheses: `**(くるま)**`
 - Kun readings come first, then on readings — matching the order in the header
 - Separate each kanji block with `---`
-- Keep hyphens on variant readings: `(-がた)`, `(-ゴク)`
-- Keep verb inflection as-is: `(あ（う）)`
+- Keep hyphens on variant readings: `**(-がた)**`, `**(-ゴク)**`
+- Keep verb inflection as-is: `**(あ（う）)**`
+
+## Scope boundary
+
+`kanji-headers` writes `## Kanji - …` headers and reading blocks only. It does **not** touch `## Parts` blocks or component (primitive) files. Those are handled exclusively by `update-kanji-list` Step 3 (component linking). If a kanji file already contains a `## Parts` section, leave it untouched.
 
 ## Extraction from images
 
@@ -92,7 +103,7 @@ Produce all kanji in the order they appear in the table.
 
 ```markdown
 ## 車 - car・くるま・シャ
-[[車 - car]]          ← exact filename found in Kaligrafia/Kanji/
+[[車 - car]]          ← exact filename found in Caligraphy/Kanji/
 
 **(くるま)**
 
@@ -101,14 +112,14 @@ Produce all kanji in the order they appear in the table.
 ---
 
 ## 電 - electricity・デン
-[[電-electricity]]    ← exact filename found in Kaligrafia/Kanji/
+[[電-electricity]]    ← exact filename found in Caligraphy/Kanji/
 
 **(デン)**
 
 ---
 
 ## 何 - what・なに、なん
-[[何-what]]           ← exact filename found in Kaligrafia/Kanji/
+[[何-what]]           ← exact filename found in Caligraphy/Kanji/
 
 **(なに)**
 

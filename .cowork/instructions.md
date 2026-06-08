@@ -6,14 +6,14 @@
 ## Directory map
 - `JPLessons/` — all lesson files, organized by course then JLPT level
 - `grammar-index/` — grammar index: topic files (one per topic, managed by summarize-grammar/extract-grammar skills) and `grammar/` subdirectory (standalone grammar point files, one per pattern, created by extract-grammar)
-- `Kaligrafia/` — standalone kanji reference notes: Kanji/, Radicals/, Primitives/ — NOT lesson files
+- `Caligraphy/` — standalone kanji reference notes: Kanji/, Radicals/, Primitives/ — NOT lesson files
 - `Vocabulary/` — standalone vocabulary lists by topic (not lesson files)
 - `BanBanAkademi/` — notes from BanBanAkademi course (separate from Udemy)
 
 ## Lesson file locations
-- Grammar: JPLessons/Udemy/NL/Gramatyka/UNGLX (where L = level, X = number)
-- Calligraphy: JPLessons/Udemy/NL/Kaligrafia/UNKLX
-- Example: JPLessons/Udemy/N5/Gramatyka/UNGL14-Please-come-to-station-at-7-pm.md
+- Grammar: JPLessons/Udemy/NL/Grammar/UNGLX (where L = level, X = number)
+- Calligraphy: JPLessons/Udemy/NL/Caligraphy/UNKLX
+- Example: JPLessons/Udemy/N5/Grammar/UNGL14-Please-come-to-station-at-7-pm.md
 
 ## File naming
 - N = JLPT level (N5, N4, N3...)
@@ -47,18 +47,19 @@ Every lesson file contains:
 When the user sends an image and asks to "extract", output vocabulary lines in this format:
 
 ```
-#w japanese (reading1, reading2) - english
-#wc japanese (reading) - english
-#wp japanese (reading) - english
+#w 明日(あした)の仕事(しごと) - english
+#wc 出来る(でき) - english
+#wp 難しい(むずか) - english
 ```
 
 Rules:
+- Extract the full phrase/sentence as it appears — do not break it into individual words unless the image clearly shows a vocabulary list
 - #w — nouns, expressions, sentences, adverbs
 - #wc — verbs (G1/G2/G3)
 - #wp — adjectives (い-adj / な-adj)
-- Readings in parentheses are readings of kanji only, comma-separated, in order of appearance
+- Readings are inline after each kanji word using ASCII parentheses: `kanji(reading)` — e.g. `明日(あした)の仕事(しごと)`
 - Katakana-only words have no reading in parentheses
-- n./G3 entries (suru nouns) → use #w with (する) appended to the Japanese: e.g. `#w 入院(する) (にゅういん) - hospitalization / to be hospitalized + verb`
+- n./G3 entries (suru nouns) → use #w with (する) appended after the reading: e.g. `#w 入院(にゅういん)(する) - hospitalization / to be hospitalized + verb`
 - n./な-adj entries → use #wp
 - interj. / adv. with no kanji → use #w with no parentheses
 

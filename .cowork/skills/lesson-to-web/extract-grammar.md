@@ -29,7 +29,7 @@ Load `.cowork/skills/lesson-to-web/_conventions.md` before starting.
 
 ### 1. Find the target lesson file
 
-Resolve the lesson code to its full path under `JPLessons/Udemy/N<level>/Gramatyka/`.
+Resolve the lesson code to its full path under `JPLessons/Udemy/N<level>/Grammar/`.
 The level is the digit in the code (e.g. `UN5GL14` → `N5`). Match by filename prefix;
 ignore any trailing words in the filename.
 

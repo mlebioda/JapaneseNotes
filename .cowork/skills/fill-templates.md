@@ -15,8 +15,10 @@ and append them under a `# Summary` + `Rzeczowniki:` section.
    and fill in all blank conjugation fields
 5. For each `#wp` adjective skeleton: determine type (い / な / non-adj)
    and fill in blank form fields
-6. Write the completed cards back with Edit — replacing the skeleton block
-7. Done — no confirmation needed
+6. After all fields of a template are filled, append kanji trainer links (see ## Kanji trainer links below)
+7. Write the completed cards back with Edit — replacing the skeleton block
+8. For all `#w` cards in the Summary section: append kanji trainer links after the Japanese field line (same rule — one `<a>` line per unique CJK kanji in that card's text)
+9. Done — no confirmation needed
 
 ## Step 2 — running the script
 
@@ -38,84 +40,32 @@ The script handles automatically:
 
 ## Step 4 — filling verb skeletons
 
-For each `#wc` skeleton, fill all blank fields. Use the verb type heuristic below.
+For each `#wc` skeleton, fill all blank fields. Use the verb type heuristic in the reference file.
 If uncertain, web-search `[verb] godan ichidan`.
 
-### Verb type heuristic
-- Ends in `える` or `いる` → **ichidan** (e.g. 食べる, 起きる)
-- Ends in any other kana + `る` → **godan** (e.g. 渡る, 走る)
-- Ends in `く`,`ぐ`,`す`,`つ`,`ぬ`,`ぶ`,`む`,`う` → always **godan**
-- `来る` → **kuru** (use fixed forms below)
-- `する` or compound `〜する` → **suru** (script already produces no-conjugation skeleton)
-- Common godan exceptions ending in `える/いる`: 帰る, 走る, 切る, 知る, 入る, 要る
-
-### Godan (u-verbs) — by ending kana
-| Ending | ます stem | て形 | た形 | ない形 | なかった形 | ば形 | 可能形 | られる形 | 出す形 | 意志形 |
-|--------|----------|------|------|--------|-----------|------|--------|---------|--------|--------|
-| う | い | って | った | わない | わなかった | えば | える | われる | い出す | おう |
-| く | き | いて | いた | かない | かなかった | けば | ける | かれる | き出す | こう |
-| ぐ | ぎ | いで | いだ | がない | がなかった | げば | げる | がれる | ぎ出す | ごう |
-| す | し | して | した | さない | さなかった | せば | せる | される | し出す | そう |
-| つ | ち | って | った | たない | たなかった | てば | てる | たれる | ち出す | とう |
-| ぬ | に | んで | んだ | なない | ななかった | ねば | ねる | なれる | に出す | のう |
-| ぶ | び | んで | んだ | ばない | ばなかった | べば | べる | ばれる | び出す | ぼう |
-| む | み | んで | んだ | まない | まなかった | めば | める | まれる | み出す | もう |
-| る | り | って | った | らない | らなかった | れば | れる | られる | り出す | ろう |
-尊敬語 = られる形. お〜になる = お + ます stem + になる.
-
-### Ichidan (ru-verbs) — drop る
-stem + ます/て/た/ない/なかった/れば/られる/出す; 可能形 = stem + られる; 意志形 = stem + よう (食べる → 食べよう); 尊敬語 = られる form; お〜になる = お + stem + になる.
-
-### 可能形 — special cases
-- **Godan**: change final kana from う-row to え-row + る (書く → 書ける, 渡る → 渡れる, 買う → 買える)
-- **Ichidan**: drop る + られる (食べる → 食べられる)
-- **来る** → 来られる
-- **する** → できる
-
-### そう form rules
-- **Godan**: ます stem + そう (渡る → 渡りそう)
-- **Ichidan**: drop る + そう (食べる → 食べそう)
-- **来る**: 来そう
-- **い-adj**: drop い + そう (美味しい → 美味しそう); いい/よい → よさそう
-- **な-adj**: base + そう (静か → 静かそう)
-
-### 来る — fixed forms
-```
-ます形: 来ます
-て形: 来て
-た形: 来た
-ない形: 来ない
-なかった形: 来なかった
-ば形 (if): 来れば
-可能形 (can): 来られる
-られる形 (is done by): 来られる
-出す形 (start): 来出す
-尊敬語 (honorific): 来られる
-お〜になる (honorific): お出でになる
-そう (looks like): 来そう
-おう (let's): 来よう
-```
+See `.cowork/skills/references/verb-conjugation.md` for all conjugation tables and rules:
+verb type heuristic, godan table (all endings × all 13 forms), ichidan rules,
+可能形 special cases, そう form rules, 来る fixed forms, 尊敬語 and お〜になる derivation rules.
 
 ## Step 5 — filling adjective skeletons
 
-For each `#wp` skeleton, determine adj type then fill fields:
+For each `#wp` skeleton, determine adj type then fill fields.
 
-### い-adjective — fill actual forms
-```
-過去形: stem + かった
-否定形: stem + くない
-副詞形: stem + く
-そう: stem + そう
-```
-Special: いい / よい → よかった / よくない / よく / よさそう
+See `.cowork/skills/references/adj-forms.md` for い/な/non-adj rules,
+including the special case for いい/よい and how to determine adjective type.
 
-### な-adjective or non-adjective — fill dashes
-```
-過去形: —
-否定形: —
-副詞形: —
-そう: base + そう   ← (な-adj) or —  ← (non-adj / adverb)
-```
+## Kanji trainer links
+
+Applies to **all card types**: `#w`, `#wc`, and `#wp`.
+
+- For `#wc` and `#wp`: append links after the last conjugation/adjective row (Step 6).
+- For `#w`: append links after the Japanese field line (Step 8).
+
+See `.cowork/skills/references/kanji-links.md` for the full kanji link procedure:
+CJK range definition, source text rules (including furigana stripping for #wc/#wp),
+link format, deduplication scope, and placement rules.
+
+---
 
 ## Card format reference (for manual fixes if needed)
 
@@ -143,7 +93,9 @@ translation [#k] #card
 お〜になる (honorific): ...
 そう (looks like): ...
 おう (let's): ...
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_X.html">X</a>
 ```
+(one `<a …>` line per unique CJK kanji in the `ほんやく:` value, furigana stripped, ordered by first occurrence)
 
 ### #wc — suru verb (script generates this automatically)
 ```

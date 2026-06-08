@@ -1223,3 +1223,14 @@ properly
 habitually
 intact
 - how to recognize goups of verbs
+
+depicting
+be supposed to
+
+compound
+mound
+ to scold 
+ to grasp
+ actually 
+ in fact
+ to take somebody along with

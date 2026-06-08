@@ -21,7 +21,7 @@ User says any of:
 - "update vocabulary file"
 
 If user references a lesson by code only (e.g. `UN5GL14`), find the file under
-`JPLessons/Udemy/N<level>/Gramatyka/` — match by prefix, ignore trailing description
+`JPLessons/Udemy/N<level>/Grammar/` — match by prefix, ignore trailing description
 in filename.
 
 ---
@@ -31,9 +31,9 @@ in filename.
 ### 1. Find the target lesson file(s)
 
 - **Single lesson** — resolve the lesson code to its full path under
-  `JPLessons/Udemy/N<level>/Gramatyka/`. The level is the digit in the code
+  `JPLessons/Udemy/N<level>/Grammar/`. The level is the digit in the code
   (e.g. `UN5GL14` → `N5`). Match by filename prefix; ignore trailing words.
-- **Batch level** — list all files matching `JPLessons/Udemy/N<level>/Gramatyka/UN<level>GL*.md`.
+- **Batch level** — list all files matching `JPLessons/Udemy/N<level>/Grammar/UN<level>GL*.md`.
   Process **one file at a time** — do not load multiple lesson files into context
   simultaneously.
 - **"update vocabulary file"** — scan all levels; process files that do not yet have a

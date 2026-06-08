@@ -18,11 +18,11 @@ You may ONLY read from and write to the `Plans/` directory (vault root: `/Users/
 ## Vault structure
 
 - `JPLessons/` — lesson files organized by course and JLPT level
-  - Grammar: `JPLessons/Udemy/NL/Gramatyka/UNGLX.md`
-  - Calligraphy: `JPLessons/Udemy/NL/Kaligrafia/UNKLX.md`
+  - Grammar: `JPLessons/Udemy/NL/Grammar/UNGLX.md`
+  - Calligraphy: `JPLessons/Udemy/NL/Caligraphy/UNKLX.md`
   - Naming: UN5GL14 = Udemy, N5, Grammar, Lesson 14
 - `grammar-index/` — cross-lesson grammar topic index, one file per topic
-- `Kaligrafia/` — standalone kanji reference: `Kanji/`, `Radicals/`, `Primitives/`
+- `Caligraphy/` — standalone kanji reference: `Kanji/`, `Radicals/`, `Primitives/`
 - `Vocabulary/` — standalone vocabulary lists by topic
 - `BanBanAkademi/` — notes from BanBanAkademi course
 - `.cowork/skills/` — skill definition files (loaded by Claude before acting)
@@ -46,8 +46,8 @@ Every lesson file has:
 
 | Skill | File | What it does |
 |---|---|---|
-| kanji-headers | `.cowork/skills/kanji-headers.md` | Formats kanji blocks in calligraphy files: fixes headers (・ separator), adds/verifies wikilinks to `Kaligrafia/Kanji/`, standardizes `**(reading)**` format, adds `# Summary`. Then runs update-kanji-list. |
-| update-kanji-list | `.cowork/skills/update-kanji-list.md` | Updates `KanjiList.md` and individual kanji files in `Kaligrafia/Kanji/` with occurrence links after kanji-headers runs. |
+| kanji-headers | `.cowork/skills/kanji-headers.md` | Formats kanji blocks in calligraphy files: fixes headers (・ separator), adds/verifies wikilinks to `Caligraphy/Kanji/`, standardizes `**(reading)**` format, adds `# Summary`. Then runs update-kanji-list. |
+| update-kanji-list | `.cowork/skills/update-kanji-list.md` | Updates `KanjiList.md` and individual kanji files in `Caligraphy/Kanji/` with occurrence links after kanji-headers runs. |
 | practice-grammar | `.cowork/skills/practice-grammar.md` | Interactive SM-2 grammar drill from a lesson file. Reads `# 文法` + `# Vocabulary` sections. State persisted in `.cowork/progress/grammar-state.json`. |
 | summarize-grammar | `.cowork/skills/summarize-grammar.md` | Adds a lesson's grammar points to topic files in `grammar-index/`. One file per topic, wikilinks only. |
 | fill-templates | `.cowork/skills/fill-templates.md` | Generates Anki card content (the `# Summary` section) for a lesson file from vocabulary tagged with `#w`/`#wc`/`#wp`. |

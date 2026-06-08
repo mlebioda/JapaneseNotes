@@ -25,7 +25,7 @@ All paths below are relative to this root.
 - `grammar-index/` — cross-lesson grammar topic index files
 - `Vocabulary/` — standalone vocabulary lists
 - `JPLessons/` — **lesson files — DO NOT modify unless the user explicitly asks**
-- `Kaligrafia/` — standalone kanji reference notes
+- `Caligraphy/` — standalone kanji reference notes
 
 ## Hard rules — always obey
 
