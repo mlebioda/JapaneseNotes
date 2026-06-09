@@ -75,6 +75,7 @@ Skills are defined in .cowork/skills/ — load the relevant skill before acting.
 - kanji-headers — format kanji tables from images into structured markdown headers
 - practice-grammar — interactive grammar drill for a lesson file; reads only `# 文法` + `# Vocabulary` (grammar topics) and `# ごい` + `# ひょうげん` (vocab pool). Writes results to `.cowork/progress/grammar-state.json` (SM-2 lite). Trigger: "let's practice <lesson>"
 - summarize-grammar — add a single lesson's grammar points to the topic-grouped index at `/grammar-index/`. One topic file per topic; entries are wikilinks (no copied text); a point may appear in multiple topics. Trigger: "summarize <lesson>"
+- templates-update — audit and repair already-filled Anki card templates in a lesson's `# Summary` section: normalize field names, fill missing forms, verify conjugation/adjective form correctness, fix kanji links, and reposition `<!--ID:-->` lines. Triggers: "templates-update [file]", "update templates [file]", "repair templates [file]", "fix templates [file]"
 
 **lesson-to-web/** (skills for extracting lesson content into published grammar-index files):
 - lesson-to-web/extract-grammar — extract grammar points from a lesson's 文法 section into standalone files under grammar-index/grammar/. Also classifies each file into grammar-index/ topic files. Trigger: "extract grammar from <lesson>"

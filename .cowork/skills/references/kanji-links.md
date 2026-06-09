@@ -2,13 +2,13 @@
 name: kanji-links
 description: >
   Authoritative reference for the kanji trainer link generation procedure used by
-  fill-templates and update-templates skills.
+  fill-templates and templates-update skills.
 ---
 
 # Kanji Trainer Links Reference
 
 This file is the single source of truth for the kanji trainer link procedure.
-Both `.cowork/skills/fill-templates.md` and `.cowork/skills/update-templates.md` defer here.
+Both `.cowork/skills/fill-templates.md` and `.cowork/skills/templates-update.md` defer here.
 
 ---
 
@@ -73,3 +73,23 @@ Link lines are placed:
 ## No HTTP calls
 
 Links are pure string construction. No web requests are needed or permitted.
+
+---
+
+## Script usage
+
+A helper script is provided at `.cowork/scripts/kanji-links.py` to generate the link lines mechanically.
+
+The caller must strip furigana from the source text before passing it (the script does not strip furigana itself).
+
+```bash
+python3 .cowork/scripts/kanji-links.py "<source_text>"
+```
+
+Using the vault-root-relative path from any working directory:
+
+```bash
+python3 "/Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP/.cowork/scripts/kanji-links.py" "<source_text>"
+```
+
+The script prints one `<a href>` line per unique kanji (U+4E00–U+9FFF only, first-occurrence order) to stdout, ready to paste as the link block in a card. If no kanji are found, output is empty (exit code 0).

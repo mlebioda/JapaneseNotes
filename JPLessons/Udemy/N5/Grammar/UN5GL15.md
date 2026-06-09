@@ -327,16 +327,11 @@ Structure
 
 # Summary
 
- --- 
-
-
- Rzeczowniki:
-
-
 
 animal #k #card
 動物 どうぶつ
- 
+
+
  to fly #card
 ほんやく: 飛ぶ (と)
 ます形: 飛びます

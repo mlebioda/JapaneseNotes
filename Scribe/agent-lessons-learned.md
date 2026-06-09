@@ -57,3 +57,11 @@
 **Source**: uncommitted — skill-implementer
 
 ---
+## 2026-06-08 — skill-implementer.md / scribe.md
+
+**Classification**: design-oversight
+**What happened**: skill-implementer cannot spawn scribe via A2A because the Agent tool is not available inside a spawned subagent; the parent orchestrator must call scribe directly after skill-implementer completes.
+**Rule**: **[Rule]** Never design an A2A chain where a spawned subagent is expected to re-spawn another subagent — the Agent tool is unavailable inside subagents; any agent that needs to trigger a peer must be called from the top-level orchestrator, not from inside a delegate.
+**Source**: uncommitted — skill-implementer
+
+---

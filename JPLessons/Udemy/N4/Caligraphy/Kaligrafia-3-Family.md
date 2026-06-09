@@ -693,7 +693,7 @@ serve #k #card
 なかった形: 仕えなかった
 ば形 (if): 仕えれば
 可能形 (can): 仕えられる
-られる形 (is done by): 仕えられる
+あれる形 (passive): 仕えられる
 出す形 (start): 仕え出す
 尊敬語 (honorific): 仕えられる
 お〜になる (honorific): お仕えになる

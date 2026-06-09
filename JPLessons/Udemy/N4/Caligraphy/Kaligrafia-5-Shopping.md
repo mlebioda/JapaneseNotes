@@ -587,7 +587,7 @@ pour (wlać) #k #card
 なかった形: 注がなかった
 ば形 (if): 注げば
 可能形 (can): 注げる
-られる形 (is done by): 注がれる
+あれる形 (passive): 注がれる
 出す形 (start): 注ぎ出す
 尊敬語 (honorific): 注がれる
 お〜になる (honorific): お注ぎになる
@@ -689,7 +689,7 @@ wear #k #card
 なかった形: 着なかった
 ば形 (if): 着れば
 可能形 (can): 着られる
-られる形 (is done by): 着られる
+あれる形 (passive): 着られる
 出す形 (start): 着出す
 尊敬語 (honorific): 着られる
 お〜になる (honorific): お着になる
@@ -726,7 +726,7 @@ arrive #k #card
 なかった形: 着かなかった
 ば形 (if): 着けば
 可能形 (can): 着ける
-られる形 (is done by): 着かれる
+あれる形 (passive): 着かれる
 出す形 (start): 着き出す
 尊敬語 (honorific): 着かれる
 お〜になる (honorific): お着きになる

@@ -530,11 +530,10 @@ Difference between よ and ね
 
 
 
----
+
 
 # Summary
 
- Rzeczowniki:
 
  This restaurant is delicious and very famous #card
 ほんやく: この店は美味しくてとても有名ですよ（店、おいし、ゆうめい) 
@@ -1530,10 +1529,6 @@ Are the bills separate? #w #card
 ほんやく: 明日はあついですよ 
 <!--ID: 1763465823118-->
 
-
-
-
- Czasowniki:
 
 payment (often in restaurant)/ to pay #k #wc #card
 ほんやく: (お)会計（かいけい）  

@@ -408,8 +408,8 @@ being able to understand intransitive and transitive verbs #k #card
 <!--ID: 1779824391423-->
 
 
-being able to talk about information you have heard #k #card
-聞いてきた情報を話題にして、話すことができること (じょうほう、わだい)
+Being able to talk about information you've obtained by asking/listening #k #card
+聞いて情報を話題にして、話すことができること (じょうほう、わだい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_情.html">情</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_報.html">報</a>
@@ -419,7 +419,7 @@ being able to talk about information you have heard #k #card
 
 
 how to express hearsay based on information received from others #k #card
-他人から得た情報に基づく伝聞の言い方 (たにん、え, じょうほう、でんぶん、いいかた)
+他人から得た情報に基づく伝聞の言い方 (たにん、え, じょうほう、 もと、でんぶん、いいかた)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_他.html">他</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_得.html">得</a>
@@ -609,7 +609,7 @@ to decorate #card
 なかった形: 飾らなかった
 ば形 (if): 飾れば
 可能形 (can): 飾れる
-られる形 (is done by): 飾られる
+あれる形 (passive): 飾られる
 出す形 (start): 飾り出す
 尊敬語 (honorific): 飾られる
 お〜になる (honorific): お飾りになる
@@ -636,7 +636,7 @@ to select #card
 なかった形: 選ばなかった
 ば形 (if): 選べば
 可能形 (can): 選べる
-られる形 (is done by): 選ばれる
+あれる形 (passive): 選ばれる
 出す形 (start): 選び出す
 尊敬語 (honorific): 選ばれる
 お〜になる (honorific): お選びになる
@@ -713,7 +713,7 @@ to open (intransitive) #k #card
 なかった形: 開かなかった
 ば形 (if): 開けば
 可能形 (can): 開ける
-られる形 (is done by): 開かれる
+あれる形 (passive): 開かれる
 出す形 (start): 開き出す
 尊敬語 (honorific): 開かれる
 お〜になる (honorific): お開きになる
@@ -732,7 +732,7 @@ to open (transitive) #k #card
 なかった形: 開けなかった
 ば形 (if): 開ければ
 可能形 (can): 開けられる
-られる形 (is done by): 開けられる
+あれる形 (passive): 開けられる
 出す形 (start): 開け出す
 尊敬語 (honorific): 開けられる
 お〜になる (honorific): お開けになる
@@ -763,7 +763,7 @@ dissapear (transitive) #card
 なかった形: 消さなかった
 ば形 (if): 消せば
 可能形 (can): 消せる
-られる形 (is done by): 消される
+あれる形 (passive): 消される
 出す形 (start): 消し出す
 尊敬語 (honorific): 消される
 お〜になる (honorific): お消しになる
@@ -782,7 +782,7 @@ to disappear  (intransitive) #card
 なかった形: 消えなかった
 ば形 (if): 消えれば
 可能形 (can): 消えられる
-られる形 (is done by): 消えられる
+あれる形 (passive): 消えられる
 出す形 (start): 消え出す
 尊敬語 (honorific): 消えられる
 お〜になる (honorific): お消えになる
@@ -808,7 +808,7 @@ to fix (transitive) #card
 なかった形: 直さなかった
 ば形 (if): 直せば
 可能形 (can): 直せる
-られる形 (is done by): 直される
+あれる形 (passive): 直される
 出す形 (start): 直し出す
 尊敬語 (honorific): 直される
 お〜になる (honorific): お直しになる
@@ -827,7 +827,7 @@ to fix (object) (intransitive) #card
 なかった形: 直らなかった
 ば形 (if): 直れば
 可能形 (can): 直れる
-られる形 (is done by): 直られる
+あれる形 (passive): 直られる
 出す形 (start): 直り出す
 尊敬語 (honorific): 直られる
 お〜になる (honorific): お直りになる
@@ -854,7 +854,7 @@ to cure (injury / illness) (transitive) #card
 なかった形: 治さなかった
 ば形 (if): 治せば
 可能形 (can): 治せる
-られる形 (is done by): 治される
+あれる形 (passive): 治される
 出す形 (start): 治し出す
 尊敬語 (honorific): 治される
 お〜になる (honorific): お治しになる
@@ -873,7 +873,7 @@ to cure (injury / illness) (intransitive) #card
 なかった形: 治らなかった
 ば形 (if): 治れば
 可能形 (can): 治れる
-られる形 (is done by): 治られる
+あれる形 (passive): 治られる
 出す形 (start): 治り出す
 尊敬語 (honorific): 治られる
 お〜になる (honorific): お治りになる
@@ -899,7 +899,7 @@ to be broken #card
 なかった形: 壊れなかった
 ば形 (if): 壊れれば
 可能形 (can): 壊れられる
-られる形 (is done by): 壊れられる
+あれる形 (passive): 壊れられる
 出す形 (start): 壊れ出す
 尊敬語 (honorific): 壊れられる
 お〜になる (honorific): お壊れになる
@@ -918,7 +918,7 @@ to break #card
 なかった形: 壊さなかった
 ば形 (if): 壊せば
 可能形 (can): 壊せる
-られる形 (is done by): 壊される
+あれる形 (passive): 壊される
 出す形 (start): 壊し出す
 尊敬語 (honorific): 壊される
 お〜になる (honorific): お壊しになる
@@ -937,7 +937,7 @@ to be decided (intransitive) #card
 なかった形: 決まらなかった
 ば形 (if): 決まれば
 可能形 (can): 決まれる
-られる形 (is done by): 決まられる
+あれる形 (passive): 決まられる
 出す形 (start): 決まり出す
 尊敬語 (honorific): 決まられる
 お〜になる (honorific): お決まりになる
@@ -966,7 +966,7 @@ to decide (transitive) #card
 なかった形: 決めなかった
 ば形 (if): 決めれば
 可能形 (can): 決められる
-られる形 (is done by): 決められる
+あれる形 (passive): 決められる
 出す形 (start): 決め出す
 尊敬語 (honorific): 決められる
 お〜になる (honorific): お決めになる
@@ -996,7 +996,7 @@ to begin (transitive) #k #card
 なかった形: 始めなかった
 ば形 (if): 始めれば
 可能形 (can): 始められる
-られる形 (is done by): 始められる
+あれる形 (passive): 始められる
 出す形 (start): 始め出す
 尊敬語 (honorific): 始められる
 お〜になる (honorific): お始めになる
@@ -1023,7 +1023,7 @@ to start (intransitive) #k #card
 なかった形: 始まらなかった
 ば形 (if): 始まれば
 可能形 (can): 始まれる
-られる形 (is done by): 始まられる
+あれる形 (passive): 始まられる
 出す形 (start): 始まり出す
 尊敬語 (honorific): 始まられる
 お〜になる (honorific): お始まりになる
@@ -1050,7 +1050,7 @@ to return (an object to previous state) (transitive) #card
 なかった形: 返らなかった
 ば形 (if): 返れば
 可能形 (can): 返れる
-られる形 (is done by): 返られる
+あれる形 (passive): 返られる
 出す形 (start): 返り出す
 尊敬語 (honorific): 返られる
 お〜になる (honorific): お返りになる
@@ -1077,7 +1077,7 @@ to be returned (an object to previous state) (intransitive) #card
 なかった形: 返さなかった
 ば形 (if): 返せば
 可能形 (can): 返せる
-られる形 (is done by): 返される
+あれる形 (passive): 返される
 出す形 (start): 返し出す
 尊敬語 (honorific): 返される
 お〜になる (honorific): お返しになる
@@ -1103,7 +1103,7 @@ to break (transitive) #card
 なかった形: 割らなかった
 ば形 (if): 割れば
 可能形 (can): 割れる
-られる形 (is done by): 割られる
+あれる形 (passive): 割られる
 出す形 (start): 割り出す
 尊敬語 (honorific): 割られる
 お〜になる (honorific): お割りになる
@@ -1129,7 +1129,7 @@ to be broken (intransitive) #card
 なかった形: 割れなかった
 ば形 (if): 割れれば
 可能形 (can): 割れられる
-られる形 (is done by): 割れられる
+あれる形 (passive): 割れられる
 出す形 (start): 割れ出す
 尊敬語 (honorific): 割れられる
 お〜になる (honorific): お割れになる
@@ -1154,7 +1154,7 @@ to be attached #card
 なかった形: 付かなかった
 ば形 (if): 付けば
 可能形 (can): 付ける
-られる形 (is done by): 付かれる
+あれる形 (passive): 付かれる
 出す形 (start): 付き出す
 尊敬語 (honorific): 付かれる
 お〜になる (honorific): お付きになる
@@ -1173,7 +1173,7 @@ to attach / to turn on #card
 なかった形: 付けなかった
 ば形 (if): 付ければ
 可能形 (can): 付けられる
-られる形 (is done by): 付けられる
+あれる形 (passive): 付けられる
 出す形 (start): 付け出す
 尊敬語 (honorific): 付けられる
 お〜になる (honorific): お付けになる
@@ -1192,7 +1192,7 @@ to be increased (intransitive) #card
 なかった形: 増えなかった
 ば形 (if): 増えれば
 可能形 (can): 増えられる
-られる形 (is done by): 増えられる
+あれる形 (passive): 増えられる
 出す形 (start): 増え出す
 尊敬語 (honorific): 増えられる
 お〜になる (honorific): お増えになる
@@ -1211,7 +1211,7 @@ to increase (transitive) #card
 なかった形: 増やさなかった
 ば形 (if): 増やせば
 可能形 (can): 増やせる
-られる形 (is done by): 増やされる
+あれる形 (passive): 増やされる
 出す形 (start): 増やし出す
 尊敬語 (honorific): 増やされる
 お〜になる (honorific): お増やしになる
@@ -1230,7 +1230,7 @@ to be burnt (intransitive) #card
 なかった形: 焼けなかった
 ば形 (if): 焼ければ
 可能形 (can): 焼けられる
-られる形 (is done by): 焼けられる
+あれる形 (passive): 焼けられる
 出す形 (start): 焼け出す
 尊敬語 (honorific): 焼けられる
 お〜になる (honorific): お焼けになる
@@ -1249,7 +1249,7 @@ to grill　（transitive) #card
 なかった形: 焼かなかった
 ば形 (if): 焼けば
 可能形 (can): 焼ける
-られる形 (is done by): 焼かれる
+あれる形 (passive): 焼かれる
 出す形 (start): 焼き出す
 尊敬語 (honorific): 焼かれる
 お〜になる (honorific): お焼きになる
@@ -1268,7 +1268,7 @@ to turn (intransitive) #card
 なかった形: 回らなかった
 ば形 (if): 回れば
 可能形 (can): 回れる
-られる形 (is done by): 回られる
+あれる形 (passive): 回られる
 出す形 (start): 回り出す
 尊敬語 (honorific): 回られる
 お〜になる (honorific): お回りになる
@@ -1287,7 +1287,7 @@ to turn (transitive) #card
 なかった形: 回さなかった
 ば形 (if): 回せば
 可能形 (can): 回せる
-られる形 (is done by): 回される
+あれる形 (passive): 回される
 出す形 (start): 回し出す
 尊敬語 (honorific): 回される
 お〜になる (honorific): お回しになる
@@ -1306,7 +1306,7 @@ to cool down (intransitive) #card
 なかった形: 冷えなかった
 ば形 (if): 冷えれば
 可能形 (can): 冷えられる
-られる形 (is done by): 冷えられる
+あれる形 (passive): 冷えられる
 出す形 (start): 冷え出す
 尊敬語 (honorific): 冷えられる
 お〜になる (honorific): お冷えになる
@@ -1325,7 +1325,7 @@ to cool (transitive) #card
 なかった形: 冷やさなかった
 ば形 (if): 冷やせば
 可能形 (can): 冷やせる
-られる形 (is done by): 冷やされる
+あれる形 (passive): 冷やされる
 出す形 (start): 冷やし出す
 尊敬語 (honorific): 冷やされる
 お〜になる (honorific): お冷やしになる
@@ -1344,7 +1344,7 @@ to wet (transitive) #card
 なかった形: 濡らさなかった
 ば形 (if): 濡らせば
 可能形 (can): 濡らせる
-られる形 (is done by): 濡らされる
+あれる形 (passive): 濡らされる
 出す形 (start): 濡らし出す
 尊敬語 (honorific): 濡らされる
 お〜になる (honorific): お濡らしになる
@@ -1369,7 +1369,7 @@ to get wet (intransitive) #card
 なかった形: 濡れなかった
 ば形 (if): 濡れれば
 可能形 (can): 濡れられる
-られる形 (is done by): 濡れられる
+あれる形 (passive): 濡れられる
 出す形 (start): 濡れ出す
 尊敬語 (honorific): 濡れられる
 お〜になる (honorific): お濡れになる
@@ -1396,7 +1396,7 @@ to be boiled (intransitive) #card
 なかった形: 沸かなかった
 ば形 (if): 沸けば
 可能形 (can): 沸ける
-られる形 (is done by): 沸かれる
+あれる形 (passive): 沸かれる
 出す形 (start): 沸き出す
 尊敬語 (honorific): 沸かれる
 お〜になる (honorific): お沸きになる
@@ -1415,7 +1415,7 @@ to boil (transitive) #card
 なかった形: 沸かさなかった
 ば形 (if): 沸かせば
 可能形 (can): 沸かせる
-られる形 (is done by): 沸かされる
+あれる形 (passive): 沸かされる
 出す形 (start): 沸かし出す
 尊敬語 (honorific): 沸かされる
 お〜になる (honorific): お沸かしになる
@@ -1434,7 +1434,7 @@ to be stopped (intransitive) #card
 なかった形: 止まらなかった
 ば形 (if): 止まれば
 可能形 (can): 止まれる
-られる形 (is done by): 止まられる
+あれる形 (passive): 止まられる
 出す形 (start): 止まり出す
 尊敬語 (honorific): 止まられる
 お〜になる (honorific): お止まりになる
@@ -1461,7 +1461,7 @@ to stop (transitive) #card
 なかった形: 止めなかった
 ば形 (if): 止めれば
 可能形 (can): 止められる
-られる形 (is done by): 止められる
+あれる形 (passive): 止められる
 出す形 (start): 止め出す
 尊敬語 (honorific): 止められる
 お〜になる (honorific): お止めになる
@@ -1486,7 +1486,7 @@ to wake up (intransitive) #k #card
 なかった形: 起きなかった
 ば形 (if): 起きれば
 可能形 (can): 起きられる
-られる形 (is done by): 起きられる
+あれる形 (passive): 起きられる
 出す形 (start): 起き出す
 尊敬語 (honorific): 起きられる
 お〜になる (honorific): お起きになる
@@ -1505,7 +1505,7 @@ to wake up (transitive) #k #card
 なかった形: 起こさなかった
 ば形 (if): 起こせば
 可能形 (can): 起こせる
-られる形 (is done by): 起こされる
+あれる形 (passive): 起こされる
 出す形 (start): 起こし出す
 尊敬語 (honorific): 起こされる
 お〜になる (honorific): お起こしになる
@@ -1524,7 +1524,7 @@ to fall (intransitive) #card
 なかった形: 倒れなかった
 ば形 (if): 倒れれば
 可能形 (can): 倒れられる
-られる形 (is done by): 倒れられる
+あれる形 (passive): 倒れられる
 出す形 (start): 倒れ出す
 尊敬語 (honorific): 倒れられる
 お〜になる (honorific): お倒れになる
@@ -1543,7 +1543,7 @@ to knock down (transitive) #card
 なかった形: 倒さなかった
 ば形 (if): 倒せば
 可能形 (can): 倒せる
-られる形 (is done by): 倒される
+あれる形 (passive): 倒される
 出す形 (start): 倒し出す
 尊敬語 (honorific): 倒される
 お〜になる (honorific): お倒しになる
@@ -1834,7 +1834,7 @@ to associate with / to go out with #card
 なかった形: 付き合わなかった
 ば形 (if): 付き合えば
 可能形 (can): 付き合える
-られる形 (is done by): 付き合われる
+あれる形 (passive): 付き合われる
 出す形 (start): 付き合い出す
 尊敬語 (honorific): 付き合われる
 お〜になる (honorific): お付き合いになる

@@ -578,7 +578,7 @@ Examples
 
 #w 土曜日に友達といっしょに昼ご飯を食べて、映画を見て、カラオケに行きました（どようび、ともだち、えいが、み）- I went to eat lunch with my friend, then we watched a movie and went to karaoke,
 
-## vocabulary
+# Summary
 
  Would you like to go skiing together? #card
 ほんやく: いっしょに スキーに行きませんか（だい、か） 
@@ -1074,10 +1074,6 @@ Examples
 ほんやく: 土曜日に友達といっしょに昼ご飯を食べて、映画を見て、カラオケに行きました（どようび、ともだち、えいが、み）
 <!--ID: 1763036595752-->
 
-
-
-
- Czasowniki:
 
 to invite, zachęcać, nakłaniać #wc #card
 ほんやく: 誘う（さそ）  

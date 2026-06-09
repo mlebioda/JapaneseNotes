@@ -379,7 +379,7 @@ to go regularly, attend #k #card
 なかった形: 通わなかった
 ば形 (if): 通えば
 可能形 (can): 通える
-られる形 (is done by): 通われる
+あれる形 (passive): 通われる
 出す形 (start): 通い出す
 尊敬語 (honorific): 通われる
 お〜になる (honorific): お通いになる
@@ -426,7 +426,7 @@ go through #k #card
 なかった形: 通らなかった
 ば形 (if): 通れば
 可能形 (can): 通れる
-られる形 (is done by): 通られる
+あれる形 (passive): 通られる
 出す形 (start): 通り出す
 尊敬語 (honorific): 通られる
 お〜になる (honorific): お通りになる

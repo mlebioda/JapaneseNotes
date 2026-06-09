@@ -375,122 +375,175 @@ more polite
  Rzeczowniki:
 
  where is a meeting room #card
-Tłumaczenie: 会議室は どこに ありますか (かいぎしつ)
+ほんやく: 会議室は どこに ありますか (かいぎしつ)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
 <!--ID: 1761557180386-->
 
 
  conference room #card
-Tłumaczenie: 会議室（かいぎしつ) 
+ほんやく: 会議室（かいぎしつ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
 <!--ID: 1761557180388-->
 
 
  Be able to ask and understand locations #card
-Tłumaczenie: 場所を聞くことと答えを理解することができる（ばしょ,き, こた, りかい) 
+ほんやく: 場所を聞くことと答えを理解することができる（ばしょ,き, こた, りかい) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_解.html">解</a>
 <!--ID: 1761557180389-->
 
 
  czynność pytania, forma rzeczownikowa od czasownika #card
-Tłumaczenie: 聞くこと（きく）
+ほんやく: 聞くこと（きく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1761557180390-->
 
 
  odpowiedź #card
-Tłumaczenie: **答え（こたえ）** 
+ほんやく: **答え（こたえ）** 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 <!--ID: 1761557180391-->
 
 
  rzeczownik: „zrozumienie”.   #card
-Tłumaczenie: **理解（りかい）** 
+ほんやく: **理解（りかい）** 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_解.html">解</a>
 <!--ID: 1761557180392-->
 
 
  formalne, świadome, intelektualne „rozumieć, pojmować”. #card
-Tłumaczenie: **理解する（りかいする）** 
+ほんやく: **理解する（りかいする）** 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_解.html">解</a>
 <!--ID: 1761557180393-->
 
 
   how to use koko, soko and asoko #card
-Tłumaczenie: ここ、そこ、あそこ　の使い方（つかいかた）
+ほんやく: ここ、そこ、あそこ　の使い方（つかいかた）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1761557180394-->
 
 
  „numbers 100 and above” #card
-Tłumaczenie: 百以上の数字の読み方（ひゃくいじょう、すうじ） 
+ほんやく: 百以上の数字の読み方（ひゃくいじょう、すうじ） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_百.html">百</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_以.html">以</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_読.html">読</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1761557180395-->
 
 
  „i więcej”, „powyżej” #card
-Tłumaczenie: **以上（いじょう）** 
+ほんやく: **以上（いじょう）** 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_以.html">以</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1761557180396-->
 
 
  conversation #card
-Tłumaczenie: 会話（かいわ）
+ほんやく: 会話（かいわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1761557180397-->
 
 
  overseas #card
-Tłumaczenie: 海外（かいがい) 
+ほんやく: 海外（かいがい) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <!--ID: 1761557180398-->
 
 
 部（ぶ） #card
-Tłumaczenie: 
+ほんやく: 
 <!--ID: 1761557180399-->
 
 
  overseas department #card
-Tłumaczenie: 海外部（かいがいぶ) 
+ほんやく: 海外部（かいがいぶ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <!--ID: 1761557180400-->
 
 
  sales department #k #card
-Tłumaczenie: 営業部（えいぎょうぶ) 
+ほんやく: 営業部（えいぎょうぶ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_営.html">営</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <!--ID: 1761557180401-->
 
 
  personel department #card
-Tłumaczenie: 人事部（じんじぶ）
+ほんやく: 人事部（じんじぶ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <!--ID: 1761557180402-->
 
 
  office work #card
-Tłumaczenie: 事務（じむ) 
+ほんやく: 事務（じむ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_務.html">務</a>
 <!--ID: 1761557180403-->
 
 
  pocket notebook #card
-Tłumaczenie: 手帳（てちょう）
+ほんやく: 手帳（てちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帳.html">帳</a>
 <!--ID: 1761557180404-->
 
 
  notebook #card
-Tłumaczenie: ノット 
+ほんやく: ノット 
 <!--ID: 1761557180405-->
 
 
  business card  #card
-Tłumaczenie: 名刺（めいし）
+ほんやく: 名刺（めいし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_刺.html">刺</a>
 <!--ID: 1761557180406-->
 
 
  fountain pen, wieczne pióro #card
-Tłumaczenie: 万年筆（まんねんひつ）
+ほんやく: 万年筆（まんねんひつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_筆.html">筆</a>
 <!--ID: 1761557180407-->
 
 
  pencil #card
-Tłumaczenie: 鉛筆　（えんぴつ）
+ほんやく: 鉛筆　（えんぴつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鉛.html">鉛</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_筆.html">筆</a>
 <!--ID: 1761557180408-->
 
 
  ballpoint pen #card
-Tłumaczenie: ポールペン 
+ほんやく: ポールペン 
 <!--ID: 1761557180409-->
 
 
  personal computer #card
-Tłumaczenie: パソコン 
+ほんやく: パソコン 
 <!--ID: 1761557180410-->
 
 
@@ -500,372 +553,515 @@ computer #card
 
 
  desk #card
-Tłumaczenie: 机（つくえ）
+ほんやく: 机（つくえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
 <!--ID: 1761557180412-->
 
 
  chair #card
-Tłumaczenie: 椅子（いす）
+ほんやく: 椅子（いす）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_椅.html">椅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <!--ID: 1761557180413-->
 
 
  clock #card
-Tłumaczenie: 時計（とけい）
+ほんやく: 時計（とけい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <!--ID: 1761557180414-->
 
 
  picture #card
-Tłumaczenie: 絵（え）
+ほんやく: 絵（え）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_絵.html">絵</a>
 <!--ID: 1761557180415-->
 
 
  next to #card
-Tłumaczenie: 隣（となり）
+ほんやく: 隣（となり）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_隣.html">隣</a>
 <!--ID: 1761557180416-->
 
 
  meeting #card
-Tłumaczenie: 会議 (かいぎ) 
+ほんやく: 会議 (かいぎ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
 <!--ID: 1761557180417-->
 
 
  koko, polite #card
-Tłumaczenie: こちら 
+ほんやく: こちら 
 <!--ID: 1761557180418-->
 
 
  soko, polite #card
-Tłumaczenie: そちら 
+ほんやく: そちら 
 <!--ID: 1761557180419-->
 
 
  aoko, polite #card
-Tłumaczenie: あちら 
+ほんやく: あちら 
 <!--ID: 1761557180420-->
 
 
  doko, polite #card
-Tłumaczenie: どちら 
+ほんやく: どちら 
 <!--ID: 1761557180421-->
 
 
  dining hall, cafeteria #card
-Tłumaczenie: 食堂（しょくどう) 
+ほんやく: 食堂（しょくどう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_堂.html">堂</a>
 <!--ID: 1761557180422-->
 
 
  room #card
-Tłumaczenie: 部屋（へや) 
+ほんやく: 部屋（へや) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1761557180423-->
 
 
  reception desk #card
-Tłumaczenie: 受付（うけつけ) 
+ほんやく: 受付（うけつけ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_受.html">受</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 <!--ID: 1761557180424-->
 
 
  elevator #card
-Tłumaczenie: エレベーター　
+ほんやく: エレベーター　
 <!--ID: 1761557180425-->
 
 
  vending machine #card
-Tłumaczenie: 自動販売機（じどうはんばいき）
+ほんやく: 自動販売機（じどうはんばいき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_販.html">販</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_機.html">機</a>
 <!--ID: 1761557180426-->
 
 
  manager #card
-Tłumaczenie: 課長（かちょう) 
+ほんやく: 課長（かちょう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_課.html">課</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1761557180427-->
 
 
  general manager #card
-Tłumaczenie: 部長（ぶちょう) 
+ほんやく: 部長（ぶちょう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1761557180428-->
 
 
  CEO #card
-Tłumaczenie: 社長（しゃちょう) 
+ほんやく: 社長（しゃちょう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1761557180429-->
 
 
  on hundred milion #card
-Tłumaczenie: 億（おく) 
+ほんやく: 億（おく) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_億.html">億</a>
 <!--ID: 1761557180430-->
 
 
  The overseas department is on the third floor #card
-Tłumaczenie: 海外部は三階です（かいがい、さんがい）
+ほんやく: 海外部は三階です（かいがい、さんがい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_階.html">階</a>
 <!--ID: 1761557180431-->
 
 
  the general manager's room is over there #card
-Tłumaczenie: 部長の部屋はあそこです（ぶちょう、へや）
+ほんやく: 部長の部屋はあそこです（ぶちょう、へや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1761557180432-->
 
 
  The reception desk is on the first floor #card
-Tłumaczenie: 受付は一階です（うけつけ、いっかい) 
+ほんやく: 受付は一階です（うけつけ、いっかい) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_受.html">受</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_階.html">階</a>
 <!--ID: 1761557180433-->
 
 
  there is a vending machine #card
-Tłumaczenie: 自動販売機があります（じどうはんばいき) 
+ほんやく: 自動販売機があります（じどうはんばいき) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_販.html">販</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_機.html">機</a>
 <!--ID: 1761557180434-->
 
 
  there is a flower #card
-Tłumaczenie: 花があります (はな) 
+ほんやく: 花があります (はな) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1761557180435-->
 
 
  expressions #card
-Tłumaczenie: ひょうげん 
+ほんやく: ひょうげん 
 <!--ID: 1761557180436-->
 
 
  excuse me (when entering to room such a work place, office, ceo office and factory, interview) people reply, hai, douzo #card
-Tłumaczenie: しつれいします 
+ほんやく: しつれいします 
 <!--ID: 1761557180437-->
 
 
  well ,umm(start conversation, when hesitate to do something) #card
-Tłumaczenie: あのう 
+ほんやく: あのう 
 <!--ID: 1761557180438-->
 
 
  Um, are you Lan? #card
-Tłumaczenie: あのう、らんさんですか 
+ほんやく: あのう、らんさんですか 
 <!--ID: 1761557180439-->
 
 
  excuse me, pardon, im sorry, thank you #card
-Tłumaczenie: すみません 
+ほんやく: すみません 
 <!--ID: 1761557180440-->
 
 
  you're welcome #card
-Tłumaczenie: (いいえ）どういたしまして 
+ほんやく: (いいえ）どういたしまして 
 <!--ID: 1761557180441-->
 
 
  1 rzecz płaska  #card
-Tłumaczenie: 一枚（いちまい）
+ほんやく: 一枚（いちまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180442-->
 
 
  2 rzeczy płaskie  #card
-Tłumaczenie: 二枚（にまい）
+ほんやく: 二枚（にまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180443-->
 
 
  3 rzeczy płaskie  #card
-Tłumaczenie: 三枚（さんまい）
+ほんやく: 三枚（さんまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180444-->
 
 
  4 rzeczy płaskie  #card
-Tłumaczenie: 四枚（よんまい）
+ほんやく: 四枚（よんまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180445-->
 
 
  5 rzeczy płaskich #card
-Tłumaczenie: 五枚（ごまい）
+ほんやく: 五枚（ごまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180446-->
 
 
  6 rzeczy płaskich #card
-Tłumaczenie: 六枚（ろくまい）
+ほんやく: 六枚（ろくまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180447-->
 
 
  7 rzeczy płaskich #card
-Tłumaczenie: 七枚（ななまい）
+ほんやく: 七枚（ななまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180448-->
 
 
  8 rzeczy płaskich #card
-Tłumaczenie: 八枚（はちまい）
+ほんやく: 八枚（はちまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180449-->
 
 
  9 rzeczy płaskich #card
-Tłumaczenie: 九枚（きゅうまい）
+ほんやく: 九枚（きゅうまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180450-->
 
 
  10 rzeczy płaskich #card
-Tłumaczenie: 十枚（じゅうまい）
+ほんやく: 十枚（じゅうまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180451-->
 
 
  how many thin objects? #card
-Tłumaczenie: 何枚（なんまい）
+ほんやく: 何枚（なんまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180452-->
 
 
  where is the meeting room? #card
-Tłumaczenie: 会議室はどこですか？（会議室）
+ほんやく: 会議室はどこですか？（会議室）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
 <!--ID: 1761557180453-->
 
 
  where is toilet? #card
-Tłumaczenie: おてあらいはどちらですか 
+ほんやく: おてあらいはどちらですか 
 <!--ID: 1761557180454-->
 
 
  where is the general manager? #card
-Tłumaczenie: 部長はどちらにいますか 
+ほんやく: 部長はどちらにいますか 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1761557180455-->
 
 
  There is a chair and desk over there #card
-Tłumaczenie: あそこに椅子と机があります（いす、つくえ) 
+ほんやく: あそこに椅子と机があります（いす、つくえ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_椅.html">椅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
 <!--ID: 1761557180456-->
 
 
  there is a restroom next to the elevator #card
-Tłumaczenie: エレベーターの　となり に　トイレがあります 
+ほんやく: エレベーターの　となり に　トイレがあります 
 <!--ID: 1761557180457-->
 
 
  who is in the meeting room? #card
-Tłumaczenie: 会議室にだれがいますか (かいぎしつ) 
+ほんやく: 会議室にだれがいますか (かいぎしつ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
 <!--ID: 1761557180458-->
 
 
  The general manager is in the meeting room #card
-Tłumaczenie: 会議室に部長がいます（かいぎしつ、ぶちょう）
+ほんやく: 会議室に部長がいます（かいぎしつ、ぶちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1761557180459-->
 
 
  That picture is on MR Ando desk #card
-Tłumaczenie: あの写真はアンドさんの机の上にあります（しゃしん、つくえ）
+ほんやく: あの写真はアンドさんの机の上にあります（しゃしん、つくえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1761557180460-->
 
 
  The vending machine is next to the reception desk  #card
-Tłumaczenie: 自動販売機は受付隣にあります（じどうはんばいき、うけつけ, となり) 
+ほんやく: 自動販売機は受付隣にあります（じどうはんばいき、うけつけ, となり) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_販.html">販</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_機.html">機</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_受.html">受</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_隣.html">隣</a>
 <!--ID: 1761557180461-->
 
 
  Where is the CEO #card
-Tłumaczenie: 社長はどこにいますか（しゃちょう) 
+ほんやく: 社長はどこにいますか（しゃちょう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1761557180462-->
 
 
  Ceo is in that room #card
-Tłumaczenie:  社長はあの部屋にいます（しゃちょう、へや) 
+ほんやく:  社長はあの部屋にいます（しゃちょう、へや) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1761557180463-->
 
 
  1000 #card
-Tłumaczenie: 千（せん）
+ほんやく: 千（せん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
 <!--ID: 1761557180464-->
 
 
  2000 #card
-Tłumaczenie: 二千（にせん）
+ほんやく: 二千（にせん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
 <!--ID: 1761557180465-->
 
 
  3000 #card
-Tłumaczenie: 三千（さんぜん）
+ほんやく: 三千（さんぜん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
 <!--ID: 1761557180466-->
 
 
  4000 #card
-Tłumaczenie: 四千（よんせん）
+ほんやく: 四千（よんせん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
 <!--ID: 1761557180467-->
 
 
  5000 #card
-Tłumaczenie: 五千（ごせん）
+ほんやく: 五千（ごせん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
 <!--ID: 1761557180468-->
 
 
  6000 #card
-Tłumaczenie: 六千（ろくせん）
+ほんやく: 六千（ろくせん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
 <!--ID: 1761557180469-->
 
 
  7000 #card
-Tłumaczenie: 七千（ななせん）
+ほんやく: 七千（ななせん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
 <!--ID: 1761557180470-->
 
 
  8000 #card
-Tłumaczenie: はっせん（はっせん）
+ほんやく: はっせん（はっせん）
 <!--ID: 1761557180471-->
 
 
  9000 #card
-Tłumaczenie: 九千（きゅうせん) 
+ほんやく: 九千（きゅうせん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
 <!--ID: 1761557180472-->
 
 
   10 000 #card
-Tłumaczenie: 一万（いちまん) 
+ほんやく: 一万（いちまん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <!--ID: 1761557180473-->
 
 
     20 000 #card
-Tłumaczenie: 二万（にまん）
+ほんやく: 二万（にまん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <!--ID: 1761557180474-->
 
 
  30 000 #card
-Tłumaczenie: 三万（さんまん）
+ほんやく: 三万（さんまん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <!--ID: 1761557180475-->
 
 
   40 000 #card
-Tłumaczenie: 四万（よんまん) 
+ほんやく: 四万（よんまん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <!--ID: 1761557180476-->
 
 
    50 000 #card
-Tłumaczenie: 五万（ごまん） 
+ほんやく: 五万（ごまん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <!--ID: 1761557180477-->
 
 
  60 000 #card
-Tłumaczenie: 六万（ろくまん） 
+ほんやく: 六万（ろくまん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <!--ID: 1761557180478-->
 
 
  70 000 #card
-Tłumaczenie: 七万（ななまん） 
+ほんやく: 七万（ななまん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <!--ID: 1761557180479-->
 
 
  80 000 #card
-Tłumaczenie: 八万（はちまん） 
+ほんやく: 八万（はちまん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <!--ID: 1761557180480-->
 
 
  90 000 #card
-Tłumaczenie: 九万（きゅうまん） 
+ほんやく: 九万（きゅうまん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <!--ID: 1761557180481-->
 
 
  100 000 #card
-Tłumaczenie: 十万（じゅうまん) 
+ほんやく: 十万（じゅうまん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <!--ID: 1761557180482-->
 
 
  1 000 000 #card
-Tłumaczenie: 百万（ひゃくまん）
+ほんやく: 百万（ひゃくまん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_百.html">百</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <!--ID: 1761557180483-->
 
 
  10 000 000 #card
-Tłumaczenie: 一千万（いっせんまん）
+ほんやく: 一千万（いっせんまん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <!--ID: 1761557180484-->
 
 
  100 000 000 #card
-Tłumaczenie: 一億（いちおく）
+ほんやく: 一億（いちおく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_億.html">億</a>
 <!--ID: 1761557180485-->
 
 

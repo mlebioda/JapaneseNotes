@@ -334,13 +334,16 @@ to put in order / tidy something up #card
 た形: 片付けた
 ない形: 片付けない
 なかった形: 片付けなかった
-ば形: 片付ければ
-られる形: 片付けられる
-出す形: 片付け出す
-尊敬語: 片付けられる
-お〜になる: お片付けになる
-そう: 片付けそう
-意志形 (let\'s): 片付けよう
+ば形 (if): 片付ければ
+可能形 (can): 片付けられる
+あれる形 (passive): 片付けられる
+出す形 (start): 片付け出す
+尊敬語 (honorific): 片付けられる
+お〜になる (honorific): お片付けになる
+そう (looks like): 片付けそう
+おう (let's): 片付けよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_片.html">片</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 <!--ID: 1777104965302-->
 
 
@@ -352,13 +355,16 @@ to be put in order #card
 た形: 片付いた
 ない形: 片付かない
 なかった形: 片付かなかった
-ば形: 片付けば
-られる形: 片付かれる
-出す形: 片付き出す
-尊敬語: 片付かれる
-お〜になる: お片付きになる
-そう: 片付きそう
-意志形 (let\'s): 片付こう
+ば形 (if): 片付けば
+可能形 (can): 片付ける
+あれる形 (passive): 片付かれる
+出す形 (start): 片付き出す
+尊敬語 (honorific): 片付かれる
+お〜になる (honorific): お片付きになる
+そう (looks like): 片付きそう
+おう (let's): 片付こう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_片.html">片</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 <!--ID: 1777104965304-->
 
 
@@ -370,13 +376,15 @@ to burn #card
 た形: 燃えた
 ない形: 燃えない
 なかった形: 燃えなかった
-ば形: 燃えれば
-られる形: 燃えられる
-出す形: 燃え出す
-尊敬語: 燃えられる
-お〜になる: お燃えになる
-そう: 燃えそう
-意志形 (let\'s): 燃えよう
+ば形 (if): 燃えれば
+可能形 (can): 燃えられる
+あれる形 (passive): 燃えられる
+出す形 (start): 燃え出す
+尊敬語 (honorific): 燃えられる
+お〜になる (honorific): お燃えになる
+そう (looks like): 燃えそう
+おう (let's): 燃えよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_燃.html">燃</a>
 <!--ID: 1777104965305-->
 
 
@@ -388,13 +396,15 @@ to throw away #card
 た形: 捨てた
 ない形: 捨てない
 なかった形: 捨てなかった
-ば形: 捨てれば
-られる形: 捨てられる
-出す形: 捨て出す
-尊敬語: 捨てられる
-お〜になる: お捨てになる
-そう: 捨てそう
-意志形 (let\'s): 捨てよう
+ば形 (if): 捨てれば
+可能形 (can): 捨てられる
+あれる形 (passive): 捨てられる
+出す形 (start): 捨て出す
+尊敬語 (honorific): 捨てられる
+お〜になる (honorific): お捨てになる
+そう (looks like): 捨てそう
+おう (let's): 捨てよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_捨.html">捨</a>
 <!--ID: 1777104965306-->
 
 
@@ -406,13 +416,15 @@ to put into #k #card
 た形: 入れた
 ない形: 入れない
 なかった形: 入れなかった
-ば形: 入れれば
-られる形: 入れられる
-出す形: 入れ出す
-尊敬語: 入れられる
-お〜になる: お入れになる
-そう: 入れそう
-意志形 (let\'s): 入れよう
+ば形 (if): 入れれば
+可能形 (can): 入れられる
+あれる形 (passive): 入れられる
+出す形 (start): 入れ出す
+尊敬語 (honorific): 入れられる
+お〜になる (honorific): お入れになる
+そう (looks like): 入れそう
+おう (let's): 入れよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1777104965307-->
 
 
@@ -424,13 +436,16 @@ to propose / to apply for #card
 た形: 申し込んだ
 ない形: 申し込まない
 なかった形: 申し込まなかった
-ば形: 申し込めば
-られる形: 申し込まれる
-出す形: 申し込み出す
-尊敬語: 申し込まれる
-お〜になる: お申し込みになる
-そう: 申し込みそう
-意志形 (let\'s): 申し込もう
+ば形 (if): 申し込めば
+可能形 (can): 申し込める
+あれる形 (passive): 申し込まれる
+出す形 (start): 申し込み出す
+尊敬語 (honorific): 申し込まれる
+お〜になる (honorific): お申し込みになる
+そう (looks like): 申し込みそう
+おう (let's): 申し込もう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_申.html">申</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_込.html">込</a>
 <!--ID: 1777104965308-->
 
 
@@ -442,13 +457,15 @@ to be different from / to be wrong #card
 た形: 違った
 ない形: 違わない
 なかった形: 違わなかった
-ば形: 違えば
-られる形: 違われる
-出す形: 違い出す
-尊敬語: 違われる
-お〜になる: お違いになる
-そう: 違いそう
-意志形 (let\'s): 違おう
+ば形 (if): 違えば
+可能形 (can): 違える
+あれる形 (passive): 違われる
+出す形 (start): 違い出す
+尊敬語 (honorific): 違われる
+お〜になる (honorific): お違いになる
+そう (looks like): 違いそう
+おう (let's): 違おう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_違.html">違</a>
 <!--ID: 1777104965309-->
 
 
@@ -460,13 +477,15 @@ to carry #k #card
 た形: 運んだ
 ない形: 運ばない
 なかった形: 運ばなかった
-ば形: 運べば
-られる形: 運ばれる
-出す形: 運び出す
-尊敬語: 運ばれる
-お〜になる: お運びになる
-そう: 運びそう
-意志形 (let\'s): 運ぼう
+ば形 (if): 運べば
+可能形 (can): 運べる
+あれる形 (passive): 運ばれる
+出す形 (start): 運び出す
+尊敬語 (honorific): 運ばれる
+お〜になる (honorific): お運びになる
+そう (looks like): 運びそう
+おう (let's): 運ぼう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <!--ID: 1777104965310-->
 
 
@@ -478,13 +497,16 @@ to move (to a new location) #card
 た形: 引っ越した
 ない形: 引っ越さない
 なかった形: 引っ越さなかった
-ば形: 引っ越せば
-られる形: 引っ越される
-出す形: 引っ越し出す
-尊敬語: 引っ越される
-お〜になる: お引っ越しになる
-そう: 引っ越しそう
-意志形 (let\'s): 引っ越そう
+ば形 (if): 引っ越せば
+可能形 (can): 引っ越せる
+あれる形 (passive): 引っ越される
+出す形 (start): 引っ越し出す
+尊敬語 (honorific): 引っ越される
+お〜になる (honorific): お引っ越しになる
+そう (looks like): 引っ越しそう
+おう (let's): 引っ越そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_越.html">越</a>
 <!--ID: 1777104965311-->
 
 
@@ -496,13 +518,14 @@ to give something or do something for the speaker #card
 た形: くれた
 ない形: くれない
 なかった形: くれなかった
-ば形: くれれば
-られる形: くれられる
-出す形: くれ出す
-尊敬語: くれられる
-お〜になる: おくれになる
-そう: くれそう
-意志形 (let\'s): くれよう
+ば形 (if): くれれば
+可能形 (can): くれられる
+あれる形 (passive): くれられる
+出す形 (start): くれ出す
+尊敬語 (honorific): くれられる
+お〜になる (honorific): おくれになる
+そう (looks like): くれそう
+おう (let's): くれよう
 <!--ID: 1777104965312-->
 
 
@@ -514,37 +537,54 @@ to help #k #card
 た形: 手伝った
 ない形: 手伝わない
 なかった形: 手伝わなかった
-ば形: 手伝えば
-られる形: 手伝われる
-出す形: 手伝い出す
-尊敬語: 手伝われる
-お〜になる: お手伝いになる
-そう: 手伝いそう
-意志形 (let\'s): 手伝おう
+ば形 (if): 手伝えば
+可能形 (can): 手伝える
+あれる形 (passive): 手伝われる
+出す形 (start): 手伝い出す
+尊敬語 (honorific): 手伝われる
+お〜になる (honorific): お手伝いになる
+そう (looks like): 手伝いそう
+おう (let's): 手伝おう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伝.html">伝</a>
 <!--ID: 1777104965313-->
 
 
 
 Could you tell me where to throw away the trash please? #k #card
 ゴミを置く場所を教えてください（お、ばしょ、おし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_置.html">置</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <!--ID: 1777104965314-->
 
 
 
 product #k #card
 商品（しょうひん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_商.html">商</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
 <!--ID: 1777104965315-->
 
 
 
 I cleaned a room #k #card
 部屋を片付けました（へや、かたづ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_片.html">片</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 <!--ID: 1777104965316-->
 
 
 
 room was in good order #k #card
 部屋が片付いていた（へや、かたづ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_片.html">片</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 <!--ID: 1777104965317-->
 
 
@@ -557,72 +597,88 @@ trash #card
 
 to burn paper #k #card
 紙が燃える（かみ、も）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_燃.html">燃</a>
 <!--ID: 1777104965319-->
 
 
 
 a tree is burning #k #card
 木が燃えている（き、も）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_燃.html">燃</a>
 <!--ID: 1777104965320-->
 
 
 
 burnable trash #card
 燃えるごみ（も）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_燃.html">燃</a>
 <!--ID: 1777104965321-->
 
 
 
 non-burnable trash #card
 燃えないごみ（も）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_燃.html">燃</a>
 <!--ID: 1777104965322-->
 
 
 
 kitchen waste #k #card
 生ごみ（なま）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <!--ID: 1777104965323-->
 
 
 
 bulky trash #k #card
 粗大ごみ（そだい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_粗.html">粗</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <!--ID: 1777104965324-->
 
 
 
 paper #k #card
 紙（かみ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <!--ID: 1777104965325-->
 
 
 
 can #card
 缶（かん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_缶.html">缶</a>
 <!--ID: 1777104965326-->
 
 
 
 glove #k #card
 手袋（てぶくろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_袋.html">袋</a>
 <!--ID: 1777104965327-->
 
 
 
 bag / sack #card
 袋（ふくろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_袋.html">袋</a>
 <!--ID: 1777104965328-->
 
 
 
 garbage bag #card
 ごみ袋（ぶくろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_袋.html">袋</a>
 <!--ID: 1777104965329-->
 
 
 
 green #card
 緑（みどり）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_緑.html">緑</a>
 <!--ID: 1777104965330-->
 
 
@@ -641,84 +697,121 @@ pink #card
 
 to put the trash in #k #card
 ゴミを入れる（い）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1777104965333-->
 
 
 
 to put trash into the trash bag #k #card
 ゴミ袋にゴミを入れる（ぶくろ、い）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_袋.html">袋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1777104965334-->
 
 
 
 I put books into my bag #k #card
 カバンに本を入れました（ほん、い）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1777104965335-->
 
 
 
 to propose marriage #card
 けっこんを申し込む（もうしこむ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_申.html">申</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_込.html">込</a>
 <!--ID: 1777104965336-->
 
 
 
 to challenge somebody to a game #k #card
 試合を申し込む（しあい、もうしこむ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_申.html">申</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_込.html">込</a>
 <!--ID: 1777104965337-->
 
 
 
 to apply to a famous university #k #card
 有名な大学に申し込む（ゆうめい、だいがく、もうしこむ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_申.html">申</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_込.html">込</a>
 <!--ID: 1777104965338-->
 
 
 
 to apply for a job #k #card
 仕事を申し込む（しごと、もうしこむ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_申.html">申</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_込.html">込</a>
 <!--ID: 1777104965339-->
 
 
 
 the way to put out trash #k #card
 出し方（だ、かた）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1777104965340-->
 
 
 
 place #k #card
 場所（ばしょ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1777104965341-->
 
 
 
 a place for something #k #card
 置き場（お、ば）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_置.html">置</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1777104965342-->
 
 
 
 garbage disposal #k #card
 ゴミ置き場（お、ば）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_置.html">置</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1777104965343-->
 
 
 
 bicycle parking area #k #card
 自転車置き場（じてんしゃ、おきば）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_置.html">置</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1777104965344-->
 
 
 
 side #card
 横（よこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_横.html">横</a>
 <!--ID: 1777104965345-->
 
 
 
 neighborhood #k #card
 近所（きんじょ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1777104965346-->
 
 
@@ -731,132 +824,193 @@ and so on / etc. #card
 
 I have been to Japan, China, USA and so on #k #card
 私は日本、中国、アメリカ**など**に行ったことがあります
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1777104965348-->
 
 
 
 The bottles, cans etc. are non-burnable garbage #card
 ビンや缶などは燃えないごみです（かん、も）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_缶.html">缶</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_燃.html">燃</a>
 <!--ID: 1777104965349-->
 
 
 
 I'm different from my younger brother, I get up early in the morning #k #card
 私は弟**と違って**、朝早く起きます（おとうと、ちが、あさ、はや、お）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_違.html">違</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1777104965350-->
 
 
 
 colors are different #k #card
 色が違います（いろ、ちが）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_違.html">違</a>
 <!--ID: 1777104965351-->
 
 
 
 The answer is wrong #k #card
 答えが違っています（こた、ちが）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_違.html">違</a>
 <!--ID: 1777104965352-->
 
 
 
 parking lot #k #card
 駐車場（ちゅうしゃじょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駐.html">駐</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1777104965353-->
 
 
 
 parking / to park #k #card
 駐車（ちゅうしゃ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駐.html">駐</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <!--ID: 1777104965354-->
 
 
 
 box #card
 箱（はこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_箱.html">箱</a>
 <!--ID: 1777104965355-->
 
 
 
 trash can #card
 ごみ箱（ばこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_箱.html">箱</a>
 <!--ID: 1777104965356-->
 
 
 
 culture #k #card
 文化（ぶんか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_化.html">化</a>
 <!--ID: 1777104965357-->
 
 
 
 Kabuki (Japanese classical drama) #k #card
 歌舞伎（かぶき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_舞.html">舞</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伎.html">伎</a>
 <!--ID: 1777104965358-->
 
 
 
 Noh (Japanese classical drama) #card
 能（のう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_能.html">能</a>
 <!--ID: 1777104965359-->
 
 
 
 tardiness / to be late (for something scheduled) #card
 遅刻（ちこく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遅.html">遅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_刻.html">刻</a>
 <!--ID: 1777104965360-->
 
 
 
 move to a new home #k #card
 新しい家に引っ越す（あたら、いえ、ひっこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_越.html">越</a>
 <!--ID: 1777104965361-->
 
 
 
 moving (to a new location) #card
 引っ越し（ひ、こ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_越.html">越</a>
 <!--ID: 1777104965362-->
 
 
 
 to move to a new location (made from verb) #card
 引っ越しをする（ひっこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_越.html">越</a>
 <!--ID: 1777104965363-->
 
 
 
 cherry blossom viewing #k #card
 花見（はなみ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1777104965364-->
 
 
 
 to do cherry blossom viewing #k #card
 花見をする（はなみ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1777104965365-->
 
 
 
 Would you like to go to cherry blossom viewing with me? #k #card
 一緒に花見に行きませんか（いっしょ、はなみ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_緒.html">緒</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1777104965366-->
 
 
 
 Ueno Park #k #card
 上野公園（うえの、こうえん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_公.html">公</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_園.html">園</a>
 <!--ID: 1777104965367-->
 
 
 
 mobile phone #k #card
 携帯電話（けいたい、でんわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_携.html">携</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帯.html">帯</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1777104965368-->
 
 
 
 refrigerator #card
 冷蔵庫（れいぞうこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冷.html">冷</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_蔵.html">蔵</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_庫.html">庫</a>
 <!--ID: 1777104965369-->
 
 
@@ -887,12 +1041,17 @@ toy #card
 
 driving / to drive #k #card
 運転（うんてん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1777104965374-->
 
 
 
 driver #k #card
 運転手（うんてんしゅ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1777104965375-->
 
 
@@ -917,228 +1076,414 @@ after that, and also #card
 
 I will wash my hands, **and then** eat the meal #k #card
 手を洗って、それから、ご飯を食べます（て、あら、ごはん、た）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洗.html">洗</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1777104965379-->
 
 
 
 Please buy tea, **and also** some sweets #k #card
 お茶、それから、お菓子を買ってください（ちゃ、かし、か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_茶.html">茶</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_菓.html">菓</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1777104965380-->
 
 
 
 Yesterday I went to a Japanese restaurant. I ate sushi, soba and so on #k #card
 昨日、日本料理を食べに行きました。すし**とか**、そば**とか**を食べました
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1777104965381-->
 
 
 
 A: What is bulky trash? B: Chairs, bicycles, TVs and so on #k #card
 A: 粗大ゴミは何ですか（そだい）B: 椅子とか、自転車とか、テレビとかは粗大ゴミです（いす、じてんしゃ、そだい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_粗.html">粗</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_椅.html">椅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <!--ID: 1777104965382-->
 
 
 
 Do you know a little about Japanese culture? B: Yes, I have watched Kabuki and Noh etc. #k #card
 A: 日本の文化は少し分かりますか。B: はい、歌舞伎とか、脳とかを見たことがあります（ぶんか、かぶき、のう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_化.html">化</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_舞.html">舞</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伎.html">伎</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_脳.html">脳</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1777104965383-->
 
 
 
 Because I caught a cold, I was absent from school yesterday #k #card
 風邪を引いたので昨日学校を休みました（かぜ、ひ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_邪.html">邪</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <!--ID: 1777104965384-->
 
 
 
 Because the train was late this morning, I was late to school #k #card
 今朝電車が遅れたので、学校に遅刻しました（けさ、でんしゃ、おく、がっこう、ちこく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遅.html">遅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_刻.html">刻</a>
 <!--ID: 1777104965385-->
 
 
 
 Because I will work early tomorrow, I will sleep early tonight #k #card
 明日仕事が早いので、今晩早く寝るね（あした、しごと、はや、こんばん、はや、ね）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晩.html">晩</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寝.html">寝</a>
 <!--ID: 1777104965386-->
 
 
 
 Because it is quiet here, I think I want to move here #k #card
 ここは静かなので、引越ししたいと思います（しず、ひっ、こ、おも）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_静.html">静</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_越.html">越</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
 <!--ID: 1777104965387-->
 
 
 
 Because it's summer, let's go to the beach #k #card
 もう夏なので、海に行きましょう（なつ、うみ、い）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1777104965388-->
 
 
 
 A: I want to go cherry-blossom viewing, where would be good? B: As for cherry blossom viewing, I think Ueno Park is good #k #card
 A：花見に行きたいんですが、どこがいいですか。B: 花見**なら**、上野公園がいいと思います（はなみ、い、うえの、こうえん、おも）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_公.html">公</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_園.html">園</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
 <!--ID: 1777104965389-->
 
 
 
 What kind of sports can you do? I can't play baseball, but as for soccer I can play #k #card
 A: どんなスポーツができますか。B: 野球はできないですが、サッカーならできます（やきゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_球.html">球</a>
 <!--ID: 1777104965390-->
 
 
 
 It is forbidden to use the cellphone in the hospital #k #card
 病院では、携帯電話をかけてはいけません（びょういん、けいたいでんわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_携.html">携</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帯.html">帯</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1777104965391-->
 
 
 
 Don't tell the other people #k #card
 みんなには言わないでください（い）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1777104965392-->
 
 
 
 Starting tomorrow is a holiday #k #card
 明日からは休みです（あした、やす）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <!--ID: 1777104965393-->
 
 
 
 It is forbidden to smoke in this room #k #card
 この部屋ではタバコを吸ってはいけません（へや、す）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_吸.html">吸</a>
 <!--ID: 1777104965394-->
 
 
 
 President, could you please sign? #k #card
 社長、サインをしていただけませんか（しゃちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1777104965395-->
 
 
 
 Mr. Takahashi, could you teach me how to read this kanji? #k #card
 高橋先生、この漢字の読み方を教えていただけませんか（たかはし、せんせい、かんじ、よ、かた、おし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_橋.html">橋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_漢.html">漢</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_読.html">読</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <!--ID: 1777104965396-->
 
 
 
 Would you clean your desk? #k #card
 机の上を片付けていただけませんか（つくえ、うえ、かたづ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_片.html">片</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 <!--ID: 1777104965397-->
 
 
 
 I bought a toy for my younger brother #k #card
 私は弟におもちゃを買ってあげました（おとうと、か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1777104965398-->
 
 
 
 I will help you with the homework #k #card
 宿題を手伝ってあげます（しゅくだい、てつだ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_宿.html">宿</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伝.html">伝</a>
 <!--ID: 1777104965399-->
 
 
 
 I will make a boxed lunch for my younger sister #k #card
 妹に弁当を作ってあげます（いもうと、べんとう、つく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弁.html">弁</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1777104965400-->
 
 
 
 I will lend Mr. Yamada a Chinese language book #k #card
 山田さんに中国語の本を貸してあげます（やまだ、ちゅうごくご、ほん、か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <!--ID: 1777104965401-->
 
 
 
 Raj will help me with the moving #k #card
 ラジさんは私の引っ越しに手伝ってくれます（ひっこ、てつだ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_越.html">越</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伝.html">伝</a>
 <!--ID: 1777104965402-->
 
 
 
 Miss Ando taught me Japanese #k #card
 安藤さんは日本語を教えてくれました（あんどう、にほんご、おし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_藤.html">藤</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <!--ID: 1777104965403-->
 
 
 
 My mom threw out the trash in my room for me #k #card
 母は私の部屋のごみを捨ててくれました（はは、わたし、へや、す）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_捨.html">捨</a>
 <!--ID: 1777104965404-->
 
 
 
 Thank you for helping me #k #card
 手伝ってくれて、ありがとうございました（てつだ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伝.html">伝</a>
 <!--ID: 1777104965405-->
 
 
 
 Miss Ando lent me a book (I asked her for it) #k #card
 私はあんどうさん**に**本を貸してもらいました（か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <!--ID: 1777104965406-->
 
 
 
 Because the bag was too heavy, Raj helped me carry it #k #card
 このかばんは重すぎるので、運ぶ時、ラジさん**に**手伝ってもらいました（おも、はこ、とき、てつだ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伝.html">伝</a>
 <!--ID: 1777104965407-->
 
 
 
 Because I wanted to know when the next train was, the station staff told me #k #card
 次の電車がいつ来るかを知りたかったので、駅員**に**教えてもらいました（つぎ、でんしゃ、く、し、えきいん、おし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_次.html">次</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <!--ID: 1777104965408-->
 
 
 
 My mom always cooks dinner for me #k #card
 いつも母に晩ご飯を作ってもらいます（はは、ばん、はん、つく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晩.html">晩</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1777104965409-->
 
 
 
 There is a book **left** on the desk (someone put it) #k #card
 机の上に本が置いてあります（つくえ、うえ、ほん、お）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_置.html">置</a>
 <!--ID: 1777104965410-->
 
 
 
 The burnable waste has already **been taken** out #k #card
 燃えるごみはもう出してあります（も、だ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_燃.html">燃</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1777104965411-->
 
 
 
 I have already **applied** for traveling #k #card
 旅行を申し込んであります（りょこう、もう、こ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_申.html">申</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_込.html">込</a>
 <!--ID: 1777104965412-->
 
 
 
 Yamada gave a present to my younger sister #k #card
 山田さんは私の妹にプレゼントをくれました（いもうと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
 <!--ID: 1777104965413-->
 
 
 
 A friend gave me a ticket for a movie #k #card
 友達は映画のチケットをくれました（ともだち、えいが）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <!--ID: 1777104965414-->
 
 
 
 My friend gave me a flower #k #card
 友達は私に花をくれました
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1777104965415-->
 
 
 
 My elder brother gave his friend flowers #k #card
 私の兄は友達に花をあげました（あに、はな）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1777104965416-->
 
 

@@ -403,7 +403,7 @@ Nominalising - Changing to nouns
  ---
 
 
-when the materials are done, could you please contact me? #k #card
+when the materials preparation is done, could you please contact me? #k #card
 資料（しりょう）の準備（じゅんび）ができたら、連絡（れんらく）してもらいませんか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_資.html">資</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
@@ -615,7 +615,7 @@ to enjoy #k #card
 なかった形: 楽しまなかった
 ば形 (if): 楽しめば
 可能形 (can): 楽しめる
-られる形 (is done by): 楽しまれる
+あれる形 (passive): 楽しまれる
 出す形 (start): 楽しみ出す
 尊敬語 (honorific): 楽しまれる
 お〜になる (honorific): お楽しみになる
@@ -634,7 +634,7 @@ to feel sad #card
 なかった形: 悲しまなかった
 ば形 (if): 悲しめば
 可能形 (can): 悲しめる
-られる形 (is done by): 悲しまれる
+あれる形 (passive): 悲しまれる
 出す形 (start): 悲しみ出す
 尊敬語 (honorific): 悲しまれる
 お〜になる (honorific): お悲しみになる
@@ -779,7 +779,7 @@ to reach (to arrive, about something, not a person) #card
 なかった形: 届かなかった
 ば形 (if): 届けば
 可能形 (can): 届ける
-られる形 (is done by): 届かれる
+あれる形 (passive): 届かれる
 出す形 (start): 届き出す
 尊敬語 (honorific): 届かれる
 お〜になる (honorific): お届きになる
@@ -798,7 +798,7 @@ to deliver #card
 なかった形: 届けなかった
 ば形 (if): 届ければ
 可能形 (can): 届けられる
-られる形 (is done by): 届けられる
+あれる形 (passive): 届けられる
 出す形 (start): 届け出す
 尊敬語 (honorific): 届けられる
 お〜になる (honorific): お届けになる
@@ -969,7 +969,7 @@ to make something dirty #card
 なかった形: 汚さなかった
 ば形 (if): 汚せば
 可能形 (can): 汚せる
-られる形 (is done by): 汚される
+あれる形 (passive): 汚される
 出す形 (start): 汚し出す
 尊敬語 (honorific): 汚される
 お〜になる (honorific): お汚しになる
@@ -988,7 +988,7 @@ to get dirty #card
 なかった形: 汚れなかった
 ば形 (if): 汚れれば
 可能形 (can): 汚れられる
-られる形 (is done by): 汚れられる
+あれる形 (passive): 汚れられる
 出す形 (start): 汚れ出す
 尊敬語 (honorific): 汚れられる
 お〜になる (honorific): お汚れになる
@@ -1007,7 +1007,7 @@ to pass through #k #card
 なかった形: 通らなかった
 ば形 (if): 通れば
 可能形 (can): 通れる
-られる形 (is done by): 通られる
+あれる形 (passive): 通られる
 出す形 (start): 通り出す
 尊敬語 (honorific): 通られる
 お〜になる (honorific): お通りになる
@@ -1026,7 +1026,7 @@ to disappear / get lost / run out (intransitive) #card
 なかった形: 無くならなかった
 ば形 (if): 無くなれば
 可能形 (can): 無くなれる
-られる形 (is done by): 無くなられる
+あれる形 (passive): 無くなられる
 出す形 (start): 無くなり出す
 尊敬語 (honorific): 無くなられる
 お〜になる (honorific): お無くなりになる

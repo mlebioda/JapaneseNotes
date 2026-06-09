@@ -650,765 +650,1108 @@ Example:
 ## vocab
 
  what year #card
-Tłumaczenie: 何年（なんねん）
+ほんやく: 何年（なんねん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1761797631631-->
 
 
   year #card
-Tłumaczenie: 今年（ことし）
+ほんやく: 今年（ことし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1761797631633-->
 
 
  next year #card
-Tłumaczenie: 来年（らいねん） 
+ほんやく: 来年（らいねん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1761797631634-->
 
 
  last year #card
-Tłumaczenie: 去年（きょねん）
+ほんやく: 去年（きょねん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1761797631635-->
 
 
  this month #card
-Tłumaczenie: 今月（こんげつ） 
+ほんやく: 今月（こんげつ） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631636-->
 
 
  next month #card
-Tłumaczenie: 来月（らいげつ）
+ほんやく: 来月（らいげつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631637-->
 
 
  last month #card
-Tłumaczenie: 先月（せんげつ）
+ほんやく: 先月（せんげつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631638-->
 
 
   week #card
-Tłumaczenie: 週（しゅう）
+ほんやく: 週（しゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
 <!--ID: 1761797631639-->
 
 
  this week #card
-Tłumaczenie: 今週（こんしゅう）
+ほんやく: 今週（こんしゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
 <!--ID: 1761797631640-->
 
 
  next week #card
-Tłumaczenie: 来週（らいしゅう）
+ほんやく: 来週（らいしゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
 <!--ID: 1761797631641-->
 
 
  yesterday #card
-Tłumaczenie: 昨日（きのう）
+ほんやく: 昨日（きのう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631642-->
 
 
  day before yesterday #card
-Tłumaczenie: 一昨日（おととい）
+ほんやく: 一昨日（おととい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631643-->
 
 
  day after tomorrow #card
-Tłumaczenie: 明後日（あさって）
+ほんやく: 明後日（あさって）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631644-->
 
 
  what minute #card
-Tłumaczenie: 何分（なんぷん）
+ほんやく: 何分（なんぷん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631645-->
 
 
  second #card
-Tłumaczenie: 秒（びょう）
+ほんやく: 秒（びょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秒.html">秒</a>
 <!--ID: 1761797631646-->
 
 
  back #card
-Tłumaczenie: 前（まえ）
+ほんやく: 前（まえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <!--ID: 1761797631647-->
 
 
  front #card
-Tłumaczenie: 後ろ（うしろ) 
+ほんやく: 後ろ（うしろ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
 <!--ID: 1761797631648-->
 
 
  this morning #card
-Tłumaczenie: 今朝（けさ）
+ほんやく: 今朝（けさ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <!--ID: 1761797631649-->
 
 
  this evening #card
-Tłumaczenie: 今晩（こんばん） 
+ほんやく: 今晩（こんばん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晩.html">晩</a>
 <!--ID: 1761797631650-->
 
 
  post office #card
-Tłumaczenie: 郵便局（ゆうびんきょく）
+ほんやく: 郵便局（ゆうびんきょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_郵.html">郵</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_便.html">便</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_局.html">局</a>
 <!--ID: 1761797631651-->
 
 
  library #card
-Tłumaczenie: 図書館（としょかん） 
+ほんやく: 図書館（としょかん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_図.html">図</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1761797631652-->
 
 
  cinema #card
-Tłumaczenie: 映画館（えいがかん) 
+ほんやく: 映画館（えいがかん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1761797631653-->
 
 
  supermarket #card
-Tłumaczenie: スーパー 
+ほんやく: スーパー 
 <!--ID: 1761797631654-->
 
 
  department store (japanese name) #card
-Tłumaczenie: 百貨店（ひゃっかてん）
+ほんやく: 百貨店（ひゃっかてん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_百.html">百</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貨.html">貨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <!--ID: 1761797631655-->
 
 
  hospital #card
-Tłumaczenie: 病院（びょういん）
+ほんやく: 病院（びょういん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <!--ID: 1761797631656-->
 
 
  vegetable shop #card
-Tłumaczenie: 八百屋（やおや）
+ほんやく: 八百屋（やおや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_百.html">百</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1761797631657-->
 
 
  art museum #card
-Tłumaczenie: 美術館（びじゅつかん ) 
+ほんやく: 美術館（びじゅつかん ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_美.html">美</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_術.html">術</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1761797631658-->
 
 
  holiday #card
-Tłumaczenie: 祝日（しゅくじつ）
+ほんやく: 祝日（しゅくじつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_祝.html">祝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631659-->
 
 
  weekend #card
-Tłumaczenie: 週末（しゅうまつ) 
+ほんやく: 週末（しゅうまつ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_末.html">末</a>
 <!--ID: 1761797631660-->
 
 
  truth, really #card
-Tłumaczenie: 本当（ほんとう）
+ほんやく: 本当（ほんとう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <!--ID: 1761797631661-->
 
 
  question #card
-Tłumaczenie: 質問（しつもん）
+ほんやく: 質問（しつもん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_質.html">質</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
 <!--ID: 1761797631662-->
 
 
  1999r #card
-Tłumaczenie: 1994年（せんきゅうひゃくきゅうじゅうきゅう**よ**ねん） 
+ほんやく: 1994年（せんきゅうひゃくきゅうじゅうきゅう**よ**ねん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1761797631663-->
 
 
  what year is it? #card
-Tłumaczenie: 今年は何年ですか（ことし、なんねん）
+ほんやく: 今年は何年ですか（ことし、なんねん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <!--ID: 1761797631664-->
 
 
  what year is next year #card
-Tłumaczenie: 来年は何年ですか（らいねん、なんねん) 
+ほんやく: 来年は何年ですか（らいねん、なんねん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <!--ID: 1761797631665-->
 
 
  4 lata (okres) #card
-Tłumaczenie: 四年(間)（よねんかん）
+ほんやく: 四年(間)（よねんかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1761797631666-->
 
 
  april #card
-Tłumaczenie: 四月（しがつ） 
+ほんやく: 四月（しがつ） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631667-->
 
 
  july #card
-Tłumaczenie: 七月（しちがつ）
+ほんやく: 七月（しちがつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631668-->
 
 
  September #card
-Tłumaczenie: 九月（くがつ）
+ほんやく: 九月（くがつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631669-->
 
 
  1 miesiąc #card
-Tłumaczenie: 一か月(間)（いっかげつかん) 
+ほんやく: 一か月(間)（いっかげつかん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631670-->
 
 
  2 miesiące #card
-Tłumaczenie: 二か月(間)（にかげつかん）
+ほんやく: 二か月(間)（にかげつかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631671-->
 
 
  3 miesiące #card
-Tłumaczenie: 三か月(間)（さんかげつかん) 
+ほんやく: 三か月(間)（さんかげつかん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631672-->
 
 
  4 miesiące #card
-Tłumaczenie: 四か月(間)（よんかげつかん) 
+ほんやく: 四か月(間)（よんかげつかん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631673-->
 
 
  5 miesięcy #card
-Tłumaczenie: 五か月(間)（ごかげつかん）
+ほんやく: 五か月(間)（ごかげつかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631674-->
 
 
  6 miesięcy #card
-Tłumaczenie: 六か月(間)（ろっかげつかん) 
+ほんやく: 六か月(間)（ろっかげつかん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631675-->
 
 
  7 miesięcy #card
-Tłumaczenie: 七か月(間)（ななかげつかん）
+ほんやく: 七か月(間)（ななかげつかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631676-->
 
 
  8 miesięcy #card
-Tłumaczenie: 八か月(間)（はちかげつかん) 
+ほんやく: 八か月(間)（はちかげつかん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631677-->
 
 
  9 miesięcy #card
-Tłumaczenie: 九か月(間)（きゅうかげつかん) 
+ほんやく: 九か月(間)（きゅうかげつかん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631678-->
 
 
  10 miesięcy #card
-Tłumaczenie: 十か月(間)（じゅっかげつかん) 
+ほんやく: 十か月(間)（じゅっかげつかん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631679-->
 
 
  12 miesiecy #card
-Tłumaczenie: 十二か月（かん）(じゅうにかげつ) 
+ほんやく: 十二か月（かん）(じゅうにかげつ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631680-->
 
 
  this day #card
-Tłumaczenie: この日(ひ) 
+ほんやく: この日(ひ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631681-->
 
 
  mother's day #card
-Tłumaczenie: 母の日（ははのひ）
+ほんやく: 母の日（ははのひ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631682-->
 
 
  Tuestay #card
-Tłumaczenie: 火曜日（かようび）
+ほんやく: 火曜日（かようび）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631683-->
 
 
  Wednesday #card
-Tłumaczenie: 水曜日（すいようび）
+ほんやく: 水曜日（すいようび）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631684-->
 
 
  Thursday #card
-Tłumaczenie: 木曜日（木曜日）
+ほんやく: 木曜日（木曜日）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631685-->
 
 
  Friday #card
-Tłumaczenie: 金曜日（金曜日）
+ほんやく: 金曜日（金曜日）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631686-->
 
 
  Saturday #card
-Tłumaczenie: 土曜日（土曜日）
+ほんやく: 土曜日（土曜日）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_土.html">土</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631687-->
 
 
  what day of the week #card
-Tłumaczenie: 何曜日（なんようび）
+ほんやく: 何曜日（なんようび）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631688-->
 
 
  one week   #card
-Tłumaczenie: 一週間（いっしゅうかん）
+ほんやく: 一週間（いっしゅうかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631689-->
 
 
  two weeks   #card
-Tłumaczenie: 二週間（にしゅうかん）
+ほんやく: 二週間（にしゅうかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631690-->
 
 
  three weeks   #card
-Tłumaczenie: 三週間（さんしゅうかん）
+ほんやく: 三週間（さんしゅうかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631691-->
 
 
  four weeks   #card
-Tłumaczenie: 四週間（よんしゅうかん）
+ほんやく: 四週間（よんしゅうかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631692-->
 
 
  five weeks   #card
-Tłumaczenie: 五週間（ごしゅうかん）
+ほんやく: 五週間（ごしゅうかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631693-->
 
 
  six weeks   #card
-Tłumaczenie: 六週間（ろくしゅうかん）
+ほんやく: 六週間（ろくしゅうかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631694-->
 
 
  seven weeks   #card
-Tłumaczenie: 七週間（ななしゅうかん）
+ほんやく: 七週間（ななしゅうかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631695-->
 
 
  eight weeks   #card
-Tłumaczenie: 八週間（はっしゅうかん）
+ほんやく: 八週間（はっしゅうかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631696-->
 
 
  nine weeks   #card
-Tłumaczenie: 九週間（きゅうしゅうかん）
+ほんやく: 九週間（きゅうしゅうかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631697-->
 
 
  ten weeks #card
-Tłumaczenie: 十週間（じゅっしゅうかん）
+ほんやく: 十週間（じゅっしゅうかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631698-->
 
 
  1st day   #card
-Tłumaczenie: 一日（ついたち）
+ほんやく: 一日（ついたち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631699-->
 
 
  2nd day   #card
-Tłumaczenie: 二日（ふつか）
+ほんやく: 二日（ふつか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631700-->
 
 
  3rd day   #card
-Tłumaczenie: 三日（みっか）
+ほんやく: 三日（みっか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631701-->
 
 
  4th day   #card
-Tłumaczenie: 四日（よっか）
+ほんやく: 四日（よっか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631702-->
 
 
  5th day   #card
-Tłumaczenie: 五日（いつか）
+ほんやく: 五日（いつか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631703-->
 
 
  6th day   #card
-Tłumaczenie: 六日（むいか）
+ほんやく: 六日（むいか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631704-->
 
 
  7th day   #card
-Tłumaczenie: 七日（なのか）
+ほんやく: 七日（なのか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631705-->
 
 
  8th day   #card
-Tłumaczenie: 八日（ようか）
+ほんやく: 八日（ようか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631706-->
 
 
  9th day   #card
-Tłumaczenie: 九日（ここのか）
+ほんやく: 九日（ここのか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631707-->
 
 
  10th day   #card
-Tłumaczenie: 十日（とおか）
+ほんやく: 十日（とおか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631708-->
 
 
  11th day   #card
-Tłumaczenie: 十一日（じゅういちにち）
+ほんやく: 十一日（じゅういちにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631709-->
 
 
  12th day   #card
-Tłumaczenie: 十二日（じゅうににち）
+ほんやく: 十二日（じゅうににち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631710-->
 
 
  13th day   #card
-Tłumaczenie: 十三日（じゅうさんにち）
+ほんやく: 十三日（じゅうさんにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631711-->
 
 
  14th day**   #card
-Tłumaczenie: **十四日（じゅうよっか）
+ほんやく: **十四日（じゅうよっか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631712-->
 
 
  15th day   #card
-Tłumaczenie: 十五日（じゅうごにち）
+ほんやく: 十五日（じゅうごにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631713-->
 
 
  16th day   #card
-Tłumaczenie: 十六日（じゅうろくにち）
+ほんやく: 十六日（じゅうろくにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631714-->
 
 
  17th day   #card
-Tłumaczenie: 十七日（じゅうしちにち）
+ほんやく: 十七日（じゅうしちにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631715-->
 
 
  18th day   #card
-Tłumaczenie: 十八日（じゅうはちにち）
+ほんやく: 十八日（じゅうはちにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631716-->
 
 
  19th day**   #card
-Tłumaczenie: **十九日（じゅうくにち）
+ほんやく: **十九日（じゅうくにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631717-->
 
 
  20th day**   #card
-Tłumaczenie: **二十日（はつか）
+ほんやく: **二十日（はつか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631718-->
 
 
  21st day   #card
-Tłumaczenie: 二十一日（にじゅういちにち）
+ほんやく: 二十一日（にじゅういちにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631719-->
 
 
  24th day**   #card
-Tłumaczenie: **二十四日（にじゅうよっか）
+ほんやく: **二十四日（にじゅうよっか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631720-->
 
 
  27th day   #card
-Tłumaczenie: 二十七日（にじゅうしちにち）
+ほんやく: 二十七日（にじゅうしちにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631721-->
 
 
  29th day**   #card
-Tłumaczenie: **二十九日（にじゅうくにち）
+ほんやく: **二十九日（にじゅうくにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631722-->
 
 
  30th day   #card
-Tłumaczenie: 三十日（さんじゅうにち）
+ほんやく: 三十日（さんじゅうにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631723-->
 
 
  31st day #card
-Tłumaczenie: 三十一日（さんじゅういちにち）
+ほんやく: 三十一日（さんじゅういちにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631724-->
 
 
  one day   #card
-Tłumaczenie: いちにち 
+ほんやく: いちにち 
 <!--ID: 1761797631725-->
 
 
  two days   #card
-Tłumaczenie: ふつか（かん）
+ほんやく: ふつか（かん）
 <!--ID: 1761797631726-->
 
 
  three days   #card
-Tłumaczenie: みっか（かん）
+ほんやく: みっか（かん）
 <!--ID: 1761797631727-->
 
 
  four days   #card
-Tłumaczenie: よっか（かん）
+ほんやく: よっか（かん）
 <!--ID: 1761797631728-->
 
 
  five days   #card
-Tłumaczenie: いつか（かん）
+ほんやく: いつか（かん）
 <!--ID: 1761797631729-->
 
 
  six days   #card
-Tłumaczenie: むいか（かん）
+ほんやく: むいか（かん）
 <!--ID: 1761797631730-->
 
 
  seven days   #card
-Tłumaczenie: なのか（かん）
+ほんやく: なのか（かん）
 <!--ID: 1761797631731-->
 
 
  eight days   #card
-Tłumaczenie: ようか（かん）
+ほんやく: ようか（かん）
 <!--ID: 1761797631732-->
 
 
  nine days   #card
-Tłumaczenie: ここのか（かん）
+ほんやく: ここのか（かん）
 <!--ID: 1761797631733-->
 
 
  ten days #card
-Tłumaczenie: とおか（かん）
+ほんやく: とおか（かん）
 <!--ID: 1761797631734-->
 
 
  1 month 2 days #card
-Tłumaczenie: 一か月二日間（いっかげつ ふつかかん) 
+ほんやく: 一か月二日間（いっかげつ ふつかかん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631735-->
 
 
  4 o'clock #card
-Tłumaczenie: 四時（よじ）
+ほんやく: 四時（よじ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1761797631736-->
 
 
  7 o'clock #card
-Tłumaczenie: 七時（しちじ）
+ほんやく: 七時（しちじ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1761797631737-->
 
 
  9 o'clock #card
-Tłumaczenie: 九時（くじ）
+ほんやく: 九時（くじ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1761797631738-->
 
 
  1 minute #card
-Tłumaczenie: 一分（いっぷん）
+ほんやく: 一分（いっぷん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631739-->
 
 
  2 minutes #card
-Tłumaczenie: 二分（にふん）
+ほんやく: 二分（にふん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631740-->
 
 
  3 minutes #card
-Tłumaczenie: 三分（さんぷん）
+ほんやく: 三分（さんぷん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631741-->
 
 
  4 minutes #card
-Tłumaczenie: 四分（よんぷん) 
+ほんやく: 四分（よんぷん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631742-->
 
 
  5 minutes #card
-Tłumaczenie: 五分（ごふん）
+ほんやく: 五分（ごふん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631743-->
 
 
  6 minutes #card
-Tłumaczenie: 六分（ろっぷん）
+ほんやく: 六分（ろっぷん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631744-->
 
 
  7 minute #card
-Tłumaczenie: 七分（ななふん）
+ほんやく: 七分（ななふん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631745-->
 
 
  8 minutes #card
-Tłumaczenie: 八分（はっぷん）
+ほんやく: 八分（はっぷん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631746-->
 
 
  9 minutes #card
-Tłumaczenie: 九分（きゅうふん）
+ほんやく: 九分（きゅうふん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631747-->
 
 
  10 minutes #card
-Tłumaczenie: 十分（じゅっぷん）
+ほんやく: 十分（じゅっぷん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631748-->
 
 
  14 minutes #card
-Tłumaczenie: 十四分（じゅうよんぷん) 
+ほんやく: 十四分（じゅうよんぷん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631749-->
 
 
  30 minutes / half hour #card
-Tłumaczenie: 三十分・半（さんじゅうっぷん・はん）
+ほんやく: 三十分・半（さんじゅうっぷん・はん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_半.html">半</a>
 <!--ID: 1761797631750-->
 
 
  what minute #card
-Tłumaczenie: 何分（なんぷん) 
+ほんやく: 何分（なんぷん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1768451605974-->
 
 
  14 godzin i 34 minut  #card
-Tłumaczenie: 十四時間三十四ぷ（じゅうよじかん さんじゅうよんぷん） 
+ほんやく: 十四時間三十四ぷ（じゅうよじかん さんじゅうよんぷん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
 <!--ID: 1761797631751-->
 
 
  meal #card
-Tłumaczenie: ご飯（はん）
+ほんやく: ご飯（はん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1761797631752-->
 
 
  morning #card
-Tłumaczenie: 朝（あさ）
+ほんやく: 朝（あさ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <!--ID: 1761797631753-->
 
 
  breakfast #card
-Tłumaczenie: 朝ご飯（あさ、はん) 
+ほんやく: 朝ご飯（あさ、はん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1761797631754-->
 
 
  day time #card
-Tłumaczenie: 昼（ひる）
+ほんやく: 昼（ひる）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
 <!--ID: 1761797631755-->
 
 
 　lunch #card
-Tłumaczenie: 昼ごはん（ひる、はん）
+ほんやく: 昼ごはん（ひる、はん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
 <!--ID: 1761797631756-->
 
 
  evening (sunset to bedtime) #card
-Tłumaczenie: 晩(ばん) 
+ほんやく: 晩(ばん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晩.html">晩</a>
 <!--ID: 1761797631757-->
 
 
  dinner #card
-Tłumaczenie: 晩ご飯（ばんごはん）
+ほんやく: 晩ご飯（ばんごはん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晩.html">晩</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1761797631758-->
 
 
  night (sunset to sunrise) #card
-Tłumaczenie: 夜（よる）
+ほんやく: 夜（よる）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1761797631759-->
 
 
  side** #card
-Tłumaczenie: **側（がわ）
+ほんやく: **側（がわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_側.html">側</a>
 <!--ID: 1761797631760-->
 
 
  right side #card
-Tłumaczenie: 右側（みぎがわ）
+ほんやく: 右側（みぎがわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_右.html">右</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_側.html">側</a>
 <!--ID: 1761797631761-->
 
 
  left side #card
-Tłumaczenie: 左側（ひだりがわ）
+ほんやく: 左側（ひだりがわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_左.html">左</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_側.html">側</a>
 <!--ID: 1761797631762-->
 
 
  front side #card
-Tłumaczenie: 前側（まえがわ）
+ほんやく: 前側（まえがわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_側.html">側</a>
 <!--ID: 1761797631763-->
 
 
  back side #card
-Tłumaczenie: 後ろ側（うしろがわ）
+ほんやく: 後ろ側（うしろがわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_側.html">側</a>
 <!--ID: 1761797631764-->
 
 
  there is a cinema behind the bank #card
-Tłumaczenie: 銀行の後ろ側に映画館があります（ぎんこう、うし、えいがかん）
+ほんやく: 銀行の後ろ側に映画館があります（ぎんこう、うし、えいがかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_側.html">側</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1761797631765-->
 
 
  let me see/well/umm #card
-Tłumaczenie: えっと・ええと 
+ほんやく: えっと・ええと 
 <!--ID: 1761797631766-->
 
 
  What happened? #card
-Tłumaczenie: どうしましたか 
+ほんやく: どうしましたか 
 <!--ID: 1761797631767-->
 
 
  That's all right #card
-Tłumaczenie: だいじょうぶです 
+ほんやく: だいじょうぶです 
 <!--ID: 1761797631768-->
 
 
  Are you all right? #card
-Tłumaczenie: だいじょうぶですか 
+ほんやく: だいじょうぶですか 
 <!--ID: 1761797631769-->
 
 
  Really? #card
-Tłumaczenie: 本当ですか（ほんとう）
+ほんやく: 本当ですか（ほんとう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <!--ID: 1761797631770-->
 
 
  good！ #card
-Tłumaczenie: よかった！
+ほんやく: よかった！
 <!--ID: 1761797631771-->
 
 
  how to tell time #card
-Tłumaczenie: 時間の言い方（じかん、いいかた）
+ほんやく: 時間の言い方（じかん、いいかた）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1761797631772-->
 
 
  How to say dates #card
-Tłumaczenie: 年月日の言い方（ねんがっぴ、いいかた）
+ほんやく: 年月日の言い方（ねんがっぴ、いいかた）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1761797631773-->
 
 
  date (full date) #card
-Tłumaczenie: 年月日 (ねんがっぴ) 
+ほんやく: 年月日 (ねんがっぴ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631774-->
 
 
  how to say periods of time #card
-Tłumaczenie: 期間の言い方（きかん、いいかた）
+ほんやく: 期間の言い方（きかん、いいかた）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_期.html">期</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1761797631775-->
 
 
  period of time #card
-Tłumaczenie: 期間(きかん) 
+ほんやく: 期間(きかん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_期.html">期</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631776-->
 
 
  Is today September 8th or 8th? #card
-Tłumaczenie: 今日は九月 八日ですか、九日です**か**（くがつ、ようか）
+ほんやく: 今日は九月 八日ですか、九日です**か**（くがつ、ようか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
 <!--ID: 1761797631777-->
 
 
  Is that a movie theatre on an art museum? #card
-Tłumaczenie: あそこは映画館ですか、美術館ですか（えいがかん、びじゅつかん）
+ほんやく: あそこは映画館ですか、美術館ですか（えいがかん、びじゅつかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_美.html">美</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_術.html">術</a>
 <!--ID: 1761797631778-->
 
 
  Is this Mr Ando's magazine or Mr. Yamada's Magazine? #card
-Tłumaczenie: これは アンドさんの ざっしですか、山田さんのざっしですか 
+ほんやく: これは アンドさんの ざっしですか、山田さんのざっしですか 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1761797631779-->
 
 
  Nie wiem, czy to po japońsku, czy po angielsku. #card
-Tłumaczenie: これは日本語（にほんご）か英語（えいご）か分（わ）かりません 
+ほんやく: これは日本語（にほんご）か英語（えいご）か分（わ）かりません 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631780-->
 
 
   Nie wiem, czy to danie jest smaczne, czy niesmaczne. #card
-Tłumaczenie: この料理（りょうり）はおいしいかまずいか分（わ）かりません。
+ほんやく: この料理（りょうり）はおいしいかまずいか分（わ）かりません。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631781-->
 
 
   Nie zdecydowałem, czy pójdę, czy nie pójdę. #card
-Tłumaczenie:  行（い）くか行（い）かないか、まだ決（き）めていません 
+ほんやく:  行（い）くか行（い）かないか、まだ決（き）めていません 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_決.html">決</a>
 <!--ID: 1761797631782-->
 
 
   Martwię się, czy będzie padać, czy nie #card
 雨（あめ）が降（ふ）るか降（ふ）らないか心配（しんぱい）です。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_配.html">配</a>
 <!--ID: 1761797631783-->

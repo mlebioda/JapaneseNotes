@@ -110,7 +110,7 @@ def skeleton(tag, japanese, translation):
             "なかった形: ",
             "ば形 (if): ",
             "可能形 (can): ",
-            "られる形 (is done by): ",
+            "あれる形 (passive): ",
             "出す形 (start): ",
             "尊敬語 (honorific): ",
             "お〜になる (honorific): ",

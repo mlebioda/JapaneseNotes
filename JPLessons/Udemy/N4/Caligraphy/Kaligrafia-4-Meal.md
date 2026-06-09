@@ -528,7 +528,7 @@ get a taste of #k #card
 なかった形: 味わわなかった
 ば形 (if): 味わえば
 可能形 (can): 味わえる
-られる形 (is done by): 味わわれる
+あれる形 (passive): 味わわれる
 出す形 (start): 味わい出す
 尊敬語 (honorific): 味わわれる
 お〜になる (honorific): お味わいになる

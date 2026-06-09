@@ -441,8 +441,6 @@ Structure
 
 # Summary
 
- Rzeczowniki:
-
  it won't be very cold this week #card
 ほんやく: 今週はあまり寒くないです（さむ）
 <!--ID: 1763177150127-->
@@ -1008,9 +1006,6 @@ Structure
 <!--ID: 1763177150449-->
 
 
-
-
- Czasowniki:
 
 uruchomić, wykonywać czynność #wc #card
 ほんやく: 掛ける（か）  

@@ -2,13 +2,13 @@
 name: verb-conjugation
 description: >
   Authoritative reference for Japanese verb type detection and all 13 conjugation
-  forms used by fill-templates and update-templates skills.
+  forms used by fill-templates and templates-update skills.
 ---
 
 # Verb Conjugation Reference
 
 This file is the single source of truth for verb conjugation rules.
-Both `.cowork/skills/fill-templates.md` and `.cowork/skills/update-templates.md` defer here.
+Both `.cowork/skills/fill-templates.md` and `.cowork/skills/templates-update.md` defer here.
 
 ---
 
@@ -28,9 +28,9 @@ If still uncertain after applying the heuristic, web-search `[verb] godan ichida
 ## Godan (u-verbs) — conjugation table by ending kana
 
 The 13 form labels, in canonical order:
-`ます形`, `て形`, `た形`, `ない形`, `なかった形`, `ば形 (if)`, `可能形 (can)`, `られる形 (is done by)`, `出す形 (start)`, `尊敬語 (honorific)`, `お〜になる (honorific)`, `そう (looks like)`, `おう (let's)`
+`て形`, `た形`, `ます形`, `出す形 (start)`, `そう (looks like)`, `お〜になる (honorific)`, `ない形`, `なかった形`, `受身形 (passive)`, `尊敬語 (honorific)`, `ば形 (if)`, `可能形 (can)`, `おう形 (let's)`
 
-| Ending | ます stem | て形 | た形 | ない形 | なかった形 | ば形 | 可能形 | られる形 | 出す形 | 意志形 |
+| Ending | ます stem | て形 | た形 | ない形 | なかった形 | ば形 | 可能形 | 受身形 | 出す形 | 意志形 |
 |--------|----------|------|------|--------|-----------|------|--------|---------|--------|--------|
 | う | い | って | った | わない | わなかった | えば | える | われる | い出す | おう |
 | く | き | いて | いた | かない | かなかった | けば | ける | かれる | き出す | こう |
@@ -43,10 +43,10 @@ The 13 form labels, in canonical order:
 | る | り | って | った | らない | らなかった | れば | れる | られる | り出す | ろう |
 
 Notes for godan:
-- `尊敬語 (honorific)` = same as `られる形` value
+- `尊敬語 (honorific)` = same as `受身形 (passive)` value
 - `お〜になる (honorific)` = お + ます stem + になる (e.g. お渡りになる)
 - `そう (looks like)` = ます stem + そう (e.g. 渡りそう)
-- `おう (let's)` = 意志形 column above
+- `おう形 (let's)` = 意志形 column above
 
 ---
 
@@ -63,12 +63,12 @@ Stem = verb minus final る.
 | なかった形 | stem + なかった | 食べなかった |
 | ば形 (if) | stem + れば | 食べれば |
 | 可能形 (can) | stem + られる | 食べられる |
-| られる形 (is done by) | stem + られる | 食べられる |
+| 受身形 (passive) | stem + られる | 食べられる |
 | 出す形 (start) | stem + 出す | 食べ出す |
-| 尊敬語 (honorific) | = られる形 | 食べられる |
+| 尊敬語 (honorific) | = 受身形 | 食べられる |
 | お〜になる (honorific) | お + stem + になる | お食べになる |
 | そう (looks like) | stem + そう | 食べそう |
-| おう (let's) | stem + よう | 食べよう |
+| おう形 (let's) | stem + よう | 食べよう |
 
 ---
 
@@ -102,19 +102,19 @@ Stem = verb minus final る.
 なかった形: 来なかった
 ば形 (if): 来れば
 可能形 (can): 来られる
-られる形 (is done by): 来られる
+あれる形 (passive):  来られる
 出す形 (start): 来出す
 尊敬語 (honorific): 来られる
 お〜になる (honorific): お出でになる
 そう (looks like): 来そう
-おう (let's): 来よう
+おう形 (let's): 来よう
 ```
 
 ---
 
 ## 尊敬語 and お〜になる derivation rules
 
-- `尊敬語 (honorific)` is always the same value as `られる形 (is done by)`.
+- `尊敬語 (honorific)` is always the same value as `受身形 (passive)`.
 - `お〜になる (honorific)` = お + ます stem + になる.  
   Example: 渡る → ます stem り → お渡りになる.  
   Exception: 来る → お出でになる (fixed).

@@ -390,7 +390,7 @@ to start (I start something) #k #card
 なかった形: 始めなかった
 ば形 (if): 始めれば
 可能形 (can): 始められる
-られる形 (is done by): 始められる
+あれる形 (passive): 始められる
 出す形 (start): 始め出す
 尊敬語 (honorific): 始められる
 お〜になる (honorific): お始めになる
@@ -417,7 +417,7 @@ begin (starts on its own) #k #card
 なかった形: 始まらなかった
 ば形 (if): 始まれば
 可能形 (can): 始まれる
-られる形 (is done by): 始まられる
+あれる形 (passive): 始まられる
 出す形 (start): 始まり出す
 尊敬語 (honorific): 始まられる
 お〜になる (honorific): お始まりになる
@@ -476,7 +476,7 @@ end (on its own) #k #card
 なかった形: 終わらなかった
 ば形 (if): 終われば
 可能形 (can): 終われる
-られる形 (is done by): 終わられる
+あれる形 (passive): 終わられる
 出す形 (start): 終わり出す
 尊敬語 (honorific): 終わられる
 お〜になる (honorific): お終わりになる
@@ -503,7 +503,7 @@ finish (someone actively finishes smth) #k #card
 なかった形: 終えなかった
 ば形 (if): 終えれば
 可能形 (can): 終えられる
-られる形 (is done by): 終えられる
+あれる形 (passive): 終えられる
 出す形 (start): 終え出す
 尊敬語 (honorific): 終えられる
 お〜になる (honorific): お終えになる
@@ -561,7 +561,7 @@ build #k #card
 なかった形: 建てなかった
 ば形 (if): 建てれば
 可能形 (can): 建てられる
-られる形 (is done by): 建てられる
+あれる形 (passive): 建てられる
 出す形 (start): 建て出す
 尊敬語 (honorific): 建てられる
 お〜になる (honorific): お建てになる
