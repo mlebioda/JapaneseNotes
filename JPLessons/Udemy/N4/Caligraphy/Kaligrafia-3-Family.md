@@ -464,10 +464,17 @@ My father is a teacher at the private university #k #card
 <!--ID: 1780855042802-->
 
 
-by elder brother #k #card
-兄（あに） older brother#w 私の兄（あに）
+older brother #k #card
+兄（あに）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
+<!--ID: 1781012605916-->
+
+
+
+by elder brother #k #card
+私の兄（あに）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <!--ID: 1780855042803-->
 
 
@@ -686,19 +693,19 @@ My younger sister is my only sibling #k #card
 
 serve #k #card
 ほんやく: 仕える（つか）
-ます形: 仕えます
 て形: 仕えて
 た形: 仕えた
+ます形: 仕えます
+出す形 (start): 仕え出す
+そう (looks like): 仕えそう
+お〜になる (honorific): お仕えになる
 ない形: 仕えない
 なかった形: 仕えなかった
+あれる形 (passive): 仕えられる
+尊敬語 (honorific): 仕えられる
 ば形 (if): 仕えれば
 可能形 (can): 仕えられる
-あれる形 (passive): 仕えられる
-出す形 (start): 仕え出す
-尊敬語 (honorific): 仕えられる
-お〜になる (honorific): お仕えになる
-そう (looks like): 仕えそう
-おう (let's): 仕えよう
+おう形 (let's): 仕えよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <!--ID: 1780855042830-->
 

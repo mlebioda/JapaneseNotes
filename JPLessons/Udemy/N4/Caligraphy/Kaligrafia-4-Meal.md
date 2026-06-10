@@ -521,19 +521,19 @@ taste #k #card
 
 get a taste of #k #card
 ほんやく: 味わう（あじ）
-ます形: 味わいます
 て形: 味わって
 た形: 味わった
+ます形: 味わいます
+出す形 (start): 味わい出す
+そう (looks like): 味わいそう
+お〜になる (honorific): お味わいになる
 ない形: 味わわない
 なかった形: 味わわなかった
+あれる形 (passive): 味わわれる
+尊敬語 (honorific): 味わわれる
 ば形 (if): 味わえば
 可能形 (can): 味わえる
-あれる形 (passive): 味わわれる
-出す形 (start): 味わい出す
-尊敬語 (honorific): 味わわれる
-お〜になる (honorific): お味わいになる
-そう (looks like): 味わいそう
-おう (let's): 味わおう
+おう形 (let's): 味わおう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <!--ID: 1780855042654-->
 

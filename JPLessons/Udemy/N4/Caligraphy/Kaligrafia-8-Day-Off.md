@@ -220,465 +220,691 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
  Rzeczowniki:
 
  shortcut #card
-Tłumaczenie: 近道（ちかみち）
+ほんやく: 近道（ちかみち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
 <!--ID: 1744994110150-->
 
-
  Your home is close to the university, isn't it? #card
-Tłumaczenie: あなたの家は大学に近いですね（ちか）
+ほんやく: あなたの家は大学に近いですね（ちか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <!--ID: 1744994110151-->
 
-
  Is the hospital near to the school? #card
-Tłumaczenie: 病院は学校に近いですか（びょういん、ちか）
+ほんやく: 病院は学校に近いですか（びょういん、ちか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <!--ID: 1744994110153-->
 
-
  neighhboorhood #card
-Tłumaczenie: 近所（きんじょ) 
+ほんやく: 近所（きんじょ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1744994110155-->
 
-
  in few days #card
-Tłumaczenie: 近日（きんじつ）
+ほんやく: 近日（きんじつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1744994110157-->
 
-
  There are no clinics in the neighbordhood #card
-Tłumaczenie: 近所に医院はありません（きんじょ、いいん）
+ほんやく: 近所に医院はありません（きんじょ、いいん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <!--ID: 1744994110159-->
 
-
  I will have dinner at a cafeteria in the neighborhood #card
-Tłumaczenie: 夕食は近所の食堂で食べます（ゆうしょく、きんじょ、しょくどう）
+ほんやく: 夕食は近所の食堂で食べます（ゆうしょく、きんじょ、しょくどう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_堂.html">堂</a>
 <!--ID: 1744994110161-->
 
-
  run a marathon course #card
-Tłumaczenie: マラソンコースを走る（はしる）
+ほんやく: マラソンコースを走る（はしる）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1744994110162-->
 
-
  I run for about 30 minutes every  #card
-Tłumaczenie: 毎朝、30分ぐらい走ります（まいあさ、ぷん、はし）
+ほんやく: 毎朝、30分ぐらい走ります（まいあさ、ぷん、はし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1744994110164-->
 
-
  Hey, let's run together #card
-Tłumaczenie: さあ、いっしょに走りましょう（はし）
+ほんやく: さあ、いっしょに走りましょう（はし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1744994110166-->
 
-
  Is that clothing store nearby? #card
-Tłumaczenie: その洋服屋を近いですか（ようふくや、ちか）
+ほんやく: その洋服屋を近いですか（ようふくや、ちか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <!--ID: 1744994110168-->
 
-
  We don't have time, so lets run #card
-Tłumaczenie: 時間がないから、走りましょう（はし）
+ほんやく: 時間がないから、走りましょう（はし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1744994110170-->
 
-
  run(mostly vechicles, technical, formal) #card
-Tłumaczenie: 走行（そうこう）
+ほんやく: 走行（そうこう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1744994110172-->
 
-
  runner #card
-Tłumaczenie: 走者（そうしゃ）
+ほんやく: 走者（そうしゃ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
 <!--ID: 1744994110174-->
 
-
  dog #card
-Tłumaczenie: 犬（いぬ）
+ほんやく: 犬（いぬ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <!--ID: 1744994110176-->
 
-
  puppy #card
-Tłumaczenie: 子犬（こいぬ）
+ほんやく: 子犬（こいぬ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <!--ID: 1744994110178-->
 
-
  I walk with my dog every morning #card
-Tłumaczenie: 夕方、犬と歩きます（ゆうがた、いぬ、ある）
+ほんやく: 夕方、犬と歩きます（ゆうがた、いぬ、ある）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1744994110180-->
 
-
  Japanese dog #card
-Tłumaczenie: 日本犬（にほんけん）
+ほんやく: 日本犬（にほんけん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <!--ID: 1744994110181-->
 
-
  fine dog (znany pies) #card
-Tłumaczenie: 名犬（めいけん）
+ほんやく: 名犬（めいけん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <!--ID: 1744994110183-->
 
-
  I have a japanese dog at home #card
-Tłumaczenie: 家で日本犬をかっています 
+ほんやく: 家で日本犬をかっています 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <!--ID: 1744994110185-->
 
-
  Is your dog a japanese dog? #card
-Tłumaczenie: あなたの犬は日本犬ですか(いぬ、にほんけん) 
+ほんやく: あなたの犬は日本犬ですか(いぬ、にほんけん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <!--ID: 1744994110190-->
 
-
  walk home  #card
-Tłumaczenie: 歩いて帰る（ある、かえ）
+ほんやく: 歩いて帰る（ある、かえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <!--ID: 1744994110193-->
 
-
  I walked to the company today #card
-Tłumaczenie: 私は今日会社まで歩きました（ある）
+ほんやく: 私は今日会社まで歩きました（ある）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1744994110195-->
 
-
  I walk to my father's house with my child on Sundays #card
-Tłumaczenie: 日曜日には子供と父の家まで歩きます（ある）
+ほんやく: 日曜日には子供と父の家まで歩きます（ある）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_供.html">供</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1744994110197-->
 
-
  walk #card
-Tłumaczenie: 散歩（さんぽ）
+ほんやく: 散歩（さんぽ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_散.html">散</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1744994110199-->
 
-
  sidewalk #card
-Tłumaczenie: 歩道（ほどう）
+ほんやく: 歩道（ほどう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
 <!--ID: 1744994110200-->
 
-
  sound #card
-Tłumaczenie: 音（おと）
+ほんやく: 音（おと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <!--ID: 1744994110202-->
 
-
  sound of the piano #card
-Tłumaczenie: ピアノの音（おと）
+ほんやく: ピアノの音（おと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <!--ID: 1744994110204-->
 
-
  sound fo rain #card
-Tłumaczenie: 雨音（あ**ま**おと）
+ほんやく: 雨音（あ**ま**おと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <!--ID: 1744994110206-->
 
-
  music #card
-Tłumaczenie: 音楽（おんがく）
+ほんやく: 音楽（おんがく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1744994110208-->
 
-
  musician #card
-Tłumaczenie: 音楽家（おんがくか）
+ほんやく: 音楽家（おんがくか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1744994110210-->
 
-
  voice(formal, technical) #card
-Tłumaczenie: 音声（おんせい）
+ほんやく: 音声（おんせい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_声.html">声</a>
 <!--ID: 1744994110211-->
 
-
  Do you know that musican's address? #card
-Tłumaczenie: あの音楽家の住所を知っていますか（おんがくか、じゅうしょ、し）
+ほんやく: あの音楽家の住所を知っていますか（おんがくか、じゅうしょ、し）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_住.html">住</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110214-->
 
-
  I enjoy music at home on my day off #card
-Tłumaczenie: 休日には家で音楽を楽しいます（きゅうじつ、おんがく、たの）
+ほんやく: 休日には家で音楽を楽しいます（きゅうじつ、おんがく、たの）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1744994110216-->
 
-
  this game is fun #card
-Tłumaczenie: このゲームは楽しいです（たの）
+ほんやく: このゲームは楽しいです（たの）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1744994110218-->
 
-
  I enjoyed the music on the record yesterday #card
-Tłumaczenie: 昨日はレコードで音楽を楽しみました（おんがく、たの）
+ほんやく: 昨日はレコードで音楽を楽しみました（おんがく、たの）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1744994110220-->
 
-
  The work of that company is fun #card
-Tłumaczenie: あの会社の仕事は楽しいですよ（たの）
+ほんやく: あの会社の仕事は楽しいですよ（たの）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1744994110221-->
 
-
  easy #card
-Tłumaczenie: 楽（らく）
+ほんやく: 楽（らく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1744994110223-->
 
-
  easy job #card
-Tłumaczenie: 楽な仕事（らく、しごと）
+ほんやく: 楽な仕事（らく、しごと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1744994110225-->
 
-
  western music #card
-Tłumaczenie: 洋楽（ようがく）
+ほんやく: 洋楽（ようがく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1744994110227-->
 
-
  That person is a musician #card
-Tłumaczenie: あの人は音楽家です（おんがくか）
+ほんやく: あの人は音楽家です（おんがくか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1744994110229-->
 
-
  know the culture #card
-Tłumaczenie: 文化を知る（びんか、しる）
+ほんやく: 文化を知る（びんか、しる）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_化.html">化</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110230-->
 
-
  notify contact information #card
-Tłumaczenie: 連絡先を知らせる（れんらくさき、し）
+ほんやく: 連絡先を知らせる（れんらくさき、し）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_連.html">連</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_絡.html">絡</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110232-->
 
-
  i know yamada #card
-Tłumaczenie: 山田さんを知っている（し）
+ほんやく: 山田さんを知っている（し）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110234-->
 
-
  notification #card
-Tłumaczenie: 知らせ(し) 
+ほんやく: 知らせ(し) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110236-->
 
-
  The notification come from the school #card
-Tłumaczenie: 学校からお知らせが来ました（し、き）
+ほんやく: 学校からお知らせが来ました（し、き）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1744994110238-->
 
-
  Do you know the classrom for the exam? #card
-Tłumaczenie: 試験の教室を知っていますか（しけん、きょうしつ）
+ほんやく: 試験の教室を知っていますか（しけん、きょうしつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_験.html">験</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110240-->
 
-
  acquaintance/znajomy #card
-Tłumaczenie: 知人（ちじん）
+ほんやく: 知人（ちじん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1744994110241-->
 
-
  prediction #card
-Tłumaczenie: 予知（よち）
+ほんやく: 予知（よち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_予.html">予</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110243-->
 
-
  song #card
-Tłumaczenie: 歌（うた）
+ほんやく: 歌（うた）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1744994110246-->
 
-
  sing a song #card
-Tłumaczenie: 歌を歌う（うた、うた）
+ほんやく: 歌を歌う（うた、うた）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1744994110247-->
 
-
  sister often sing a songs #card
-Tłumaczenie: 姉はよく歌を歌っています（あね、うた）
+ほんやく: 姉はよく歌を歌っています（あね、うた）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1744994110249-->
 
-
  The teacher sang an American song at the party #card
-Tłumaczenie: 先生はパーティでアメリカの歌を歌いました（うた）
+ほんやく: 先生はパーティでアメリカの歌を歌いました（うた）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1744994110251-->
 
-
  school song #card
-Tłumaczenie: 校歌（こうか）
+ほんやく: 校歌（こうか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1744994110253-->
 
-
  waka (japanese poetry) #card
-Tłumaczenie: 和歌（わか）
+ほんやく: 和歌（わか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_和.html">和</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1744994110255-->
 
-
  This is the school song of that school #card
-Tłumaczenie: これがあの学校の校歌です（こうか）
+ほんやく: これがあの学校の校歌です（こうか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1744994110257-->
 
-
  appeared on TV #card
-Tłumaczenie: テレビに映る（うつ）
+ほんやく: テレビに映る（うつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 <!--ID: 1744994110258-->
 
-
  movie #card
-Tłumaczenie: 映画（えいが）
+ほんやく: 映画（えいが）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <!--ID: 1744994110261-->
 
-
  kono, mmovie theater #card
-Tłumaczenie: 映画館（えいがかん）
+ほんやく: 映画館（えいがかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1744994110262-->
 
-
  I watch old movies on tv on my days off #card
-Tłumaczenie: 休日にはテレビで古い映画を見ます（きゅうじつ、えいが）
+ほんやく: 休日にはテレビで古い映画を見ます（きゅうじつ、えいが）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_古.html">古</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1744994110264-->
 
-
  hall #card
-Tłumaczenie: 会館（かいかん）
+ほんやく: 会館（かいかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1744994110266-->
 
-
  library #card
-Tłumaczenie: 図書館(としょかん) 
+ほんやく: 図書館(としょかん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_図.html">図</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1744994110267-->
 
-
  main building #card
-Tłumaczenie: 本館（ほんかん）
+ほんやく: 本館（ほんかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1744994110269-->
 
-
  Please come to the main  building of the uniwersity at 10 o'clock tommorow #card
-Tłumaczenie: 明日１０時に大学の本館に来てください（ほんかん、き）
+ほんやく: 明日１０時に大学の本館に来てください（ほんかん、き）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1744994110271-->
 
-
  The main building of the company is that white building #card
-Tłumaczenie: 会社の本館はあの白い建物です（ほんかん、しろ、たてもの）
+ほんやく: 会社の本館はあの白い建物です（ほんかん、しろ、たてもの）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1744994110273-->
 
-
  Let's go to the movie theater #card
-Tłumaczenie: 映画館へ行きましょう（えいがかん）
+ほんやく: 映画館へ行きましょう（えいがかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1744994110275-->
 
-
  night #card
-Tłumaczenie: 夜（よる）
+ほんやく: 夜（よる）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1744994110277-->
 
-
  I will study japanese at night at home #card
-Tłumaczenie: 夜は家で日本語を勉強します 
+ほんやく: 夜は家で日本語を勉強します 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勉.html">勉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1744994110278-->
 
-
  I study for an university exam at night #card
-Tłumaczenie: 夜は大学の試験勉強をします（しけんべんきょう）
+ほんやく: 夜は大学の試験勉強をします（しけんべんきょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_験.html">験</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勉.html">勉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1744994110280-->
 
-
  night sky #card
-Tłumaczenie: 夜空（よぞら）
+ほんやく: 夜空（よぞら）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <!--ID: 1744994110282-->
 
-
  this night #card
-Tłumaczenie: 今夜（こんや）
+ほんやく: 今夜（こんや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1744994110284-->
 
-
  day and night #card
-Tłumaczenie: 昼夜（ちゅうや）
+ほんやく: 昼夜（ちゅうや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1744994110286-->
 
-
  return to home #card
-Tłumaczenie: 家へ帰る（いえ、かえ）
+ほんやく: 家へ帰る（いえ、かえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <!--ID: 1744994110288-->
 
-
  When will you return to China? #card
-Tłumaczenie: あなたはいつ中国に帰りますか（ちゅうごく、かえ）
+ほんやく: あなたはいつ中国に帰りますか（ちゅうごく、かえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <!--ID: 1744994110290-->
 
-
  return to office #card
-Tłumaczenie: 帰社（きしゃ）
+ほんやく: 帰社（きしゃ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1744994110292-->
 
-
  return to country #card
-Tłumaczenie: 帰国（きこく）
+ほんやく: 帰国（きこく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1744994110294-->
 
-
  When will you return to the country? #card
-Tłumaczenie:  いつ帰国しますか（きこく）
+ほんやく:  いつ帰国しますか（きこく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1744994110296-->
 
-
  My elder brother returns from the company at 6 o'clock #card
-Tłumaczenie: 兄は会社から6時に帰ります（あに、かえ) 
+ほんやく: 兄は会社から6時に帰ります（あに、かえ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <!--ID: 1744994110298-->
 
-
  Mr Lin will return to his country tommorow #card
-Tłumaczenie: リンさんは明日帰国します（きこく）
+ほんやく: リンさんは明日帰国します（きこく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1744994110300-->
 
-
-
  run #card  
-Tłumaczenie: 走る（はし）  
-Forma masu: 走ります  
-Forma te: 走って  
-Forma ta: 走った  
-Forma nai: 走らない  
-Forma katta: 走らなかった
+ほんやく: 走る（はし）  
+て形: 走って
+た形: 走った
+ます形: 走ります
+出す形 (start): 走り出す
+そう (looks like): 走りそう
+お〜になる (honorific): お走りになる
+ない形: 走らない
+なかった形: 走らなかった
+あれる形 (passive): 走られる
+尊敬語 (honorific): 走られる
+ば形 (if): 走れば
+可能形 (can): 走れる
+おう形 (let's): 走ろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 
 walk #card  
-Tłumaczenie: 歩く（ある）  
-Forma masu: 歩きます  
-Forma te: 歩いて  
-Forma ta: 歩いた  
-Forma nai: 歩かない  
-Forma katta: 歩かなかった
+ほんやく: 歩く（ある）  
+て形: 歩いて
+た形: 歩いた
+ます形: 歩きます
+出す形 (start): 歩き出す
+そう (looks like): 歩きそう
+お〜になる (honorific): お歩きになる
+ない形: 歩かない
+なかった形: 歩かなかった
+あれる形 (passive): 歩かれる
+尊敬語 (honorific): 歩かれる
+ば形 (if): 歩けば
+可能形 (can): 歩ける
+おう形 (let's): 歩こう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 
 enjoy/cieszyć się #card  
-Tłumaczenie: 楽しむ（たのしむ）  
-Forma masu: 楽しみます  
-Forma te: 楽しんで  
-Forma ta: 楽しんだ  
-Forma nai: 楽しまない  
-Forma katta: 楽しまなかった
+ほんやく: 楽しむ（たのしむ）  
+て形: 楽しんで
+た形: 楽しんだ
+ます形: 楽しみます
+出す形 (start): 楽しみ出す
+そう (looks like): 楽しみそう
+お〜になる (honorific): お楽しみになる
+ない形: 楽しまない
+なかった形: 楽しまなかった
+あれる形 (passive): 楽しまれる
+尊敬語 (honorific): 楽しまれる
+ば形 (if): 楽しめば
+可能形 (can): 楽しめる
+おう形 (let's): 楽しもう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 
 to notify #card  
-Tłumaczenie: 知らせる（し）  
-Forma masu: 知らせます  
-Forma te: 知らせて  
-Forma ta: 知らせた  
-Forma nai: 知らせない  
-Forma katta: 知らせなかった
+ほんやく: 知らせる（し）  
+て形: 知らせて
+た形: 知らせた
+ます形: 知らせます
+出す形 (start): 知らせ出す
+そう (looks like): 知らせそう
+お〜になる (honorific): お知らせになる
+ない形: 知らせない
+なかった形: 知らせなかった
+あれる形 (passive): 知らせられる
+尊敬語 (honorific): 知らせられる
+ば形 (if): 知らせれば
+可能形 (can): 知らせられる
+おう形 (let's): 知らせよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 
 sing #card  
-Tłumaczenie: 歌う（うた）  
-Forma masu: 歌います  
-Forma te: 歌って  
-Forma ta: 歌った  
-Forma nai: 歌わない  
-Forma katta: 歌わなかった
+ほんやく: 歌う（うた）  
+て形: 歌って
+た形: 歌った
+ます形: 歌います
+出す形 (start): 歌い出す
+そう (looks like): 歌いそう
+お〜になる (honorific): お歌いになる
+ない形: 歌わない
+なかった形: 歌わなかった
+あれる形 (passive): 歌われる
+尊敬語 (honorific): 歌われる
+ば形 (if): 歌えば
+可能形 (can): 歌える
+おう形 (let's): 歌おう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 
 be reflected(odbijać się)/be projected #card  
-Tłumaczenie: 映る（うつ）  
-Forma masu: 映ります  
-Forma te: 映って  
-Forma ta: 映った  
-Forma nai: 映らない  
-Forma katta: 映らなかった
+ほんやく: 映る（うつ）  
+て形: 映って
+た形: 映った
+ます形: 映ります
+出す形 (start): 映り出す
+そう (looks like): 映りそう
+お〜になる (honorific): お映りになる
+ない形: 映らない
+なかった形: 映らなかった
+あれる形 (passive): 映られる
+尊敬語 (honorific): 映られる
+ば形 (if): 映れば
+可能形 (can): 映れる
+おう形 (let's): 映ろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 
 return #card  
-Tłumaczenie: 帰る（かえ）  
-Forma masu: 帰ります  
-Forma te: 帰って  
-Forma ta: 帰った  
-Forma nai: 帰らない  
-Forma katta: 帰らなかった
+ほんやく: 帰る（かえ）  
+て形: 帰って
+た形: 帰った
+ます形: 帰ります
+出す形 (start): 帰り出す
+そう (looks like): 帰りそう
+お〜になる (honorific): お帰りになる
+ない形: 帰らない
+なかった形: 帰らなかった
+あれる形 (passive): 帰られる
+尊敬語 (honorific): 帰られる
+ば形 (if): 帰れば
+可能形 (can): 帰れる
+おう形 (let's): 帰ろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 
 near #card  
-Tłumaczenie: 近い（ちか）  
-Forma przeszła: 近かった  
-Przeczenie: 近くない  
-Przysłówek: 近く
+ほんやく: 近い（ちか）  
+過去形: 近かった
+否定形: 近くない
+副詞形: 近く
+そう (looks like): 近そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 
 enjoyable/przyjemny, miły/fun #card  
-Tłumaczenie: 楽しい（たの）  
-Forma przeszła: 楽しかった  
-Przeczenie: 楽しくない  
-Przysłówek: 楽しく
+ほんやく: 楽しい（たの）  
+過去形: 楽しかった
+否定形: 楽しくない
+副詞形: 楽しく
+そう (looks like): 楽しそう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
+

@@ -411,19 +411,19 @@ Structure:
 
 to wrap / to pack #card
 ほんやく: 包む（つつむ）
-ます形: 包みます
 て形: 包んで
 た形: 包んだ
+ます形: 包みます
+出す形 (start): 包み出す
+そう (looks like): 包みそう
+お〜になる (honorific): お包みになる
 ない形: 包まない
 なかった形: 包まなかった
+あれる形 (passive): 包まれる
+尊敬語 (honorific): 包まれる
 ば形 (if): 包めば
 可能形 (can): 包める
-あれる形 (passive): 包まれる
-出す形 (start): 包み出す
-尊敬語 (honorific): 包まれる
-お〜になる (honorific): お包みになる
-そう (looks like): 包みそう
-おう (let's): 包もう
+おう形 (let's): 包もう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_包.html">包</a>
 <!--ID: 1778257577002-->
 
@@ -432,19 +432,19 @@ to wrap / to pack #card
 
 to be broken / to crack (by itself) + particle #card
 ほんやく: (が)割れる（われる）
-ます形: 割れます
 て形: 割れて
 た形: 割れた
+ます形: 割れます
+出す形 (start): 割れ出す
+そう (looks like): 割れそう
+お〜になる (honorific): お割れになる
 ない形: 割れない
 なかった形: 割れなかった
+あれる形 (passive): 割れられる
+尊敬語 (honorific): 割れられる
 ば形 (if): 割れれば
 可能形 (can): 割れられる
-あれる形 (passive): 割れられる
-出す形 (start): 割れ出す
-尊敬語 (honorific): 割れられる
-お〜になる (honorific): お割れになる
-そう (looks like): 割れそう
-おう (let's): 割れよう
+おう形 (let's): 割れよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_割.html">割</a>
 <!--ID: 1778257577004-->
 
@@ -453,19 +453,19 @@ to be broken / to crack (by itself) + particle #card
 
 to be in time (for) + particle #k #card
 ほんやく: (に)間に合う（まにあう）
-ます形: 間に合います
 て形: 間に合って
 た形: 間に合った
+ます形: 間に合います
+出す形 (start): 間に合い出す
+そう (looks like): 間に合いそう
+お〜になる (honorific): お間に合いになる
 ない形: 間に合わない
 なかった形: 間に合わなかった
+あれる形 (passive): 間に合われる
+尊敬語 (honorific): 間に合われる
 ば形 (if): 間に合えば
 可能形 (can): 間に合える
-あれる形 (passive): 間に合われる
-出す形 (start): 間に合い出す
-尊敬語 (honorific): 間に合われる
-お〜になる (honorific): お間に合いになる
-そう (looks like): 間に合いそう
-おう (let's): 間に合おう
+おう形 (let's): 間に合おう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1778257577005-->
@@ -475,19 +475,19 @@ to be in time (for) + particle #k #card
 
 to be in sight / can see + particle #k #card
 ほんやく: (が)見える（みえる）
-ます形: 見えます
 て形: 見えて
 た形: 見えた
+ます形: 見えます
+出す形 (start): 見え出す
+そう (looks like): 見えそう
+お〜になる (honorific): お見えになる
 ない形: 見えない
 なかった形: 見えなかった
+あれる形 (passive): 見えられる
+尊敬語 (honorific): 見えられる
 ば形 (if): 見えれば
 可能形 (can): 見えられる
-あれる形 (passive): 見えられる
-出す形 (start): 見え出す
-尊敬語 (honorific): 見えられる
-お〜になる (honorific): お見えになる
-そう (looks like): 見えそう
-おう (let's): 見えよう
+おう形 (let's): 見えよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1778257577006-->
 
@@ -496,19 +496,19 @@ to be in sight / can see + particle #k #card
 
 to reach one's ears / can hear + particle #k #card
 ほんやく: (が)聞こえる（きこえる）
-ます形: 聞こえます
 て形: 聞こえて
 た形: 聞こえた
+ます形: 聞こえます
+出す形 (start): 聞こえ出す
+そう (looks like): 聞こえそう
+お〜になる (honorific): お聞こえになる
 ない形: 聞こえない
 なかった形: 聞こえなかった
+あれる形 (passive): 聞こえられる
+尊敬語 (honorific): 聞こえられる
 ば形 (if): 聞こえれば
 可能形 (can): 聞こえられる
-あれる形 (passive): 聞こえられる
-出す形 (start): 聞こえ出す
-尊敬語 (honorific): 聞こえられる
-お〜になる (honorific): お聞こえになる
-そう (looks like): 聞こえそう
-おう (let's): 聞こえよう
+おう形 (let's): 聞こえよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1778257577007-->
 
@@ -517,19 +517,19 @@ to reach one's ears / can hear + particle #k #card
 
 to turn #card
 ほんやく: 曲がる（まがる）
-ます形: 曲がります
 て形: 曲がって
 た形: 曲がった
+ます形: 曲がります
+出す形 (start): 曲がり出す
+そう (looks like): 曲がりそう
+お〜になる (honorific): お曲がりになる
 ない形: 曲がらない
 なかった形: 曲がらなかった
+あれる形 (passive): 曲がられる
+尊敬語 (honorific): 曲がられる
 ば形 (if): 曲がれば
 可能形 (can): 曲がれる
-あれる形 (passive): 曲がられる
-出す形 (start): 曲がり出す
-尊敬語 (honorific): 曲がられる
-お〜になる (honorific): お曲がりになる
-そう (looks like): 曲がりそう
-おう (let's): 曲がろう
+おう形 (let's): 曲がろう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曲.html">曲</a>
 <!--ID: 1778257577008-->
 
@@ -538,19 +538,19 @@ to turn #card
 
 to be broken #card
 ほんやく: 壊れる（こわれる）
-ます形: 壊れます
 て形: 壊れて
 た形: 壊れた
+ます形: 壊れます
+出す形 (start): 壊れ出す
+そう (looks like): 壊れそう
+お〜になる (honorific): お壊れになる
 ない形: 壊れない
 なかった形: 壊れなかった
+あれる形 (passive): 壊れられる
+尊敬語 (honorific): 壊れられる
 ば形 (if): 壊れれば
 可能形 (can): 壊れられる
-あれる形 (passive): 壊れられる
-出す形 (start): 壊れ出す
-尊敬語 (honorific): 壊れられる
-お〜になる (honorific): お壊れになる
-そう (looks like): 壊れそう
-おう (let's): 壊れよう
+おう形 (let's): 壊れよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_壊.html">壊</a>
 <!--ID: 1778257577009-->
 

@@ -608,38 +608,38 @@ sad #card
 
 to enjoy #k #card
 ほんやく: 楽しむ(たのし)
-ます形: 楽しみます
 て形: 楽しんで
 た形: 楽しんだ
+ます形: 楽しみます
+出す形 (start): 楽しみ出す
+そう (looks like): 楽しみそう
+お〜になる (honorific): お楽しみになる
 ない形: 楽しまない
 なかった形: 楽しまなかった
+あれる形 (passive): 楽しまれる
+尊敬語 (honorific): 楽しまれる
 ば形 (if): 楽しめば
 可能形 (can): 楽しめる
-あれる形 (passive): 楽しまれる
-出す形 (start): 楽しみ出す
-尊敬語 (honorific): 楽しまれる
-お〜になる (honorific): お楽しみになる
-そう (looks like): 楽しみそう
-おう (let's): 楽しもう
+おう形 (let's): 楽しもう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1780755321494-->
 
 
 to feel sad #card
 ほんやく: 悲しむ(かなし)
-ます形: 悲しみます
 て形: 悲しんで
 た形: 悲しんだ
+ます形: 悲しみます
+出す形 (start): 悲しみ出す
+そう (looks like): 悲しみそう
+お〜になる (honorific): お悲しみになる
 ない形: 悲しまない
 なかった形: 悲しまなかった
+あれる形 (passive): 悲しまれる
+尊敬語 (honorific): 悲しまれる
 ば形 (if): 悲しめば
 可能形 (can): 悲しめる
-あれる形 (passive): 悲しまれる
-出す形 (start): 悲しみ出す
-尊敬語 (honorific): 悲しまれる
-お〜になる (honorific): お悲しみになる
-そう (looks like): 悲しみそう
-おう (let's): 悲しもう
+おう形 (let's): 悲しもう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悲.html">悲</a>
 <!--ID: 1780755321495-->
 
@@ -772,38 +772,38 @@ interpreter #k #card
 
 to reach (to arrive, about something, not a person) #card
 ほんやく: 届く(とど)
-ます形: 届きます
 て形: 届いて
 た形: 届いた
+ます形: 届きます
+出す形 (start): 届き出す
+そう (looks like): 届きそう
+お〜になる (honorific): お届きになる
 ない形: 届かない
 なかった形: 届かなかった
+あれる形 (passive): 届かれる
+尊敬語 (honorific): 届かれる
 ば形 (if): 届けば
 可能形 (can): 届ける
-あれる形 (passive): 届かれる
-出す形 (start): 届き出す
-尊敬語 (honorific): 届かれる
-お〜になる (honorific): お届きになる
-そう (looks like): 届きそう
-おう (let's): 届こう
+おう形 (let's): 届こう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_届.html">届</a>
 <!--ID: 1780755321514-->
 
 
 to deliver #card
 ほんやく: 届ける(とど)
-ます形: 届けます
 て形: 届けて
 た形: 届けた
+ます形: 届けます
+出す形 (start): 届け出す
+そう (looks like): 届けそう
+お〜になる (honorific): お届けになる
 ない形: 届けない
 なかった形: 届けなかった
+あれる形 (passive): 届けられる
+尊敬語 (honorific): 届けられる
 ば形 (if): 届ければ
 可能形 (can): 届けられる
-あれる形 (passive): 届けられる
-出す形 (start): 届け出す
-尊敬語 (honorific): 届けられる
-お〜になる (honorific): お届けになる
-そう (looks like): 届けそう
-おう (let's): 届けよう
+おう形 (let's): 届けよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_届.html">届</a>
 <!--ID: 1780755321515-->
 
@@ -962,76 +962,76 @@ shrine #k #card
 
 to make something dirty #card
 ほんやく: 汚す(よご)
-ます形: 汚します
 て形: 汚して
 た形: 汚した
+ます形: 汚します
+出す形 (start): 汚し出す
+そう (looks like): 汚しそう
+お〜になる (honorific): お汚しになる
 ない形: 汚さない
 なかった形: 汚さなかった
+あれる形 (passive): 汚される
+尊敬語 (honorific): 汚される
 ば形 (if): 汚せば
 可能形 (can): 汚せる
-あれる形 (passive): 汚される
-出す形 (start): 汚し出す
-尊敬語 (honorific): 汚される
-お〜になる (honorific): お汚しになる
-そう (looks like): 汚しそう
-おう (let's): 汚そう
+おう形 (let's): 汚そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_汚.html">汚</a>
 <!--ID: 1780755321537-->
 
 
 to get dirty #card
 ほんやく: 汚れる(よご)
-ます形: 汚れます
 て形: 汚れて
 た形: 汚れた
+ます形: 汚れます
+出す形 (start): 汚れ出す
+そう (looks like): 汚れそう
+お〜になる (honorific): お汚れになる
 ない形: 汚れない
 なかった形: 汚れなかった
+あれる形 (passive): 汚れられる
+尊敬語 (honorific): 汚れられる
 ば形 (if): 汚れれば
 可能形 (can): 汚れられる
-あれる形 (passive): 汚れられる
-出す形 (start): 汚れ出す
-尊敬語 (honorific): 汚れられる
-お〜になる (honorific): お汚れになる
-そう (looks like): 汚れそう
-おう (let's): 汚れよう
+おう形 (let's): 汚れよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_汚.html">汚</a>
 <!--ID: 1780755321538-->
 
 
 to pass through #k #card
 ほんやく: 通る(とお)
-ます形: 通ります
 て形: 通って
 た形: 通った
+ます形: 通ります
+出す形 (start): 通り出す
+そう (looks like): 通りそう
+お〜になる (honorific): お通りになる
 ない形: 通らない
 なかった形: 通らなかった
+あれる形 (passive): 通られる
+尊敬語 (honorific): 通られる
 ば形 (if): 通れば
 可能形 (can): 通れる
-あれる形 (passive): 通られる
-出す形 (start): 通り出す
-尊敬語 (honorific): 通られる
-お〜になる (honorific): お通りになる
-そう (looks like): 通りそう
-おう (let's): 通ろう
+おう形 (let's): 通ろう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
 <!--ID: 1780755321539-->
 
 
 to disappear / get lost / run out (intransitive) #card
 ほんやく: 無くなる(なくな)
-ます形: 無くなります
 て形: 無くなって
 た形: 無くなった
+ます形: 無くなります
+出す形 (start): 無くなり出す
+そう (looks like): 無くなりそう
+お〜になる (honorific): お無くなりになる
 ない形: 無くならない
 なかった形: 無くならなかった
+あれる形 (passive): 無くなられる
+尊敬語 (honorific): 無くなられる
 ば形 (if): 無くなれば
 可能形 (can): 無くなれる
-あれる形 (passive): 無くなられる
-出す形 (start): 無くなり出す
-尊敬語 (honorific): 無くなられる
-お〜になる (honorific): お無くなりになる
-そう (looks like): 無くなりそう
-おう (let's): 無くなろう
+おう形 (let's): 無くなろう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_無.html">無</a>
 <!--ID: 1780755321540-->
 

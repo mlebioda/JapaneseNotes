@@ -207,489 +207,725 @@ walk to temple and wait for me
  Rzeczowniki:
 
  bank #card
-Tłumaczenie: 銀行（ぎんこう）
+ほんやく: 銀行（ぎんこう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1746388496471-->
 
-
  silver #card
-Tłumaczenie: 銀色（ぎんいろ）
+ほんやく: 銀色（ぎんいろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496476-->
 
-
  This bank opened last month #card
-Tłumaczenie: この銀行は先月開店しました（ぎんこう、かいてん）
+ほんやく: この銀行は先月開店しました（ぎんこう、かいてん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <!--ID: 1746388496478-->
 
-
  I will be a bank clerk #card
-Tłumaczenie: 自分は銀行員になります（ぎんこういん、じぶん）
+ほんやく: 自分は銀行員になります（ぎんこういん、じぶん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1746388496480-->
 
-
  My elder brothe is the manager of this bank #card
-Tłumaczenie: 兄はこの銀行の店長です（あに、ぎんこう、てんちょう）
+ほんやく: 兄はこの銀行の店長です（あに、ぎんこう、てんちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1746388496482-->
 
-
  Is your younger brother also a bank clerk? #card
-Tłumaczenie: 弟さんも銀行員ですか（おとうと、ぎんこういん）
+ほんやく: 弟さんも銀行員ですか（おとうと、ぎんこういん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1746388496484-->
 
-
  Open the book #card
-Tłumaczenie: 本を開く（ほん、ひら）
+ほんやく: 本を開く（ほん、ひら）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388496486-->
 
-
  This door doesn't open (yo know) #card
-Tłumaczenie: このドアを開きませんよ（ひら）
+ほんやく: このドアを開きませんよ（ひら）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388496488-->
 
-
  door opens (by itself) #card
-Tłumaczenie: ドアが開く（あく） 
+ほんやく: ドアが開く（あく） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388496490-->
 
-
  open the window #card
-Tłumaczenie: まどを開ける（あ）
+ほんやく: まどを開ける（あ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388496492-->
 
-
  What time does this store open?  #card
-Tłumaczenie: この店は何時に開きますか（みせ、ひら）
+ほんやく: この店は何時に開きますか（みせ、ひら）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388496494-->
 
-
  Is this shop open on sundays too? #card
-Tłumaczenie: この店は日曜日も開いていますか（あ）
+ほんやく: この店は日曜日も開いていますか（あ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388496496-->
 
-
  store opening (but also bussines for the customers, like bank,) #card
-Tłumaczenie: 開店（かいてん）
+ほんやく: 開店（かいてん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <!--ID: 1746388496498-->
 
-
  school opening #card
-Tłumaczenie: 開校（かいこう）
+ほんやく: 開校（かいこう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
 <!--ID: 1746388496500-->
 
-
  the bank opens at 10 #card
-Tłumaczenie: 銀行の開店時間は１０時です（ぎんこう、かいてんじかん）
+ほんやく: 銀行の開店時間は１０時です（ぎんこう、かいてんじかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1746388496502-->
 
-
  oneself (formal) #card
-Tłumaczenie: 自ら（みずか）
+ほんやく: 自ら（みずか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <!--ID: 1746388496504-->
 
-
  reflect on oneself #card
-Tłumaczenie: 自らをかえりみる（みずか）
+ほんやく: 自らをかえりみる（みずか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <!--ID: 1746388496506-->
 
-
  oneself #card
-Tłumaczenie: 自分（じぶん）
+ほんやく: 自分（じぶん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1746388496508-->
 
-
  the company you work for #card
-Tłumaczenie: 自社（じしゃ）
+ほんやく: 自社（じしゃ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1746388496510-->
 
-
  is this an automatic door? #card
-Tłumaczenie: これは自動ドアですか (じどう) 
+ほんやく: これは自動ドアですか (じどう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1746388496512-->
 
-
  Is this car (automobile) a japanese car? #card
-Tłumaczenie: この自動車は日本の車ですか（じどうしゃ）
+ほんやく: この自動車は日本の車ですか（じどうしゃ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <!--ID: 1746388496514-->
 
-
  people move #card
-Tłumaczenie: 人が動く（ひと、うご）
+ほんやく: 人が動く（ひと、うご）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1746388496516-->
 
-
  automobile #card
-Tłumaczenie: 自動車（自動車) 
+ほんやく: 自動車（自動車) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <!--ID: 1746388496518-->
 
-
   automatic door  #card
-Tłumaczenie: 自動ドア（じどう）
+ほんやく: 自動ドア（じどう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1746388496519-->
 
-
  station attendant/pracownik #card
-Tłumaczenie: 駅員（えきいん）
+ほんやく: 駅員（えきいん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1746388496521-->
 
-
  station master #card
-Tłumaczenie: 駅長（えきちょう）
+ほんやく: 駅長（えきちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1746388496523-->
 
-
  station square/plac, near/front of  #card
-Tłumaczenie: 駅前（えきまえ）
+ほんやく: 駅前（えきまえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <!--ID: 1746388496525-->
 
-
  I'll go to the bank at hte front of the station #card
-Tłumaczenie: 駅前の銀行に行きます（えきまえ、ぎんこう）
+ほんやく: 駅前の銀行に行きます（えきまえ、ぎんこう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1746388496528-->
 
-
  Everyday, I go from the station to company #card
-Tłumaczenie: 毎日、駅から会社まで歩きます（あ）
+ほんやく: 毎日、駅から会社まで歩きます（あ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1746388496530-->
 
-
  gather members(zbierać) #card
-Tłumaczenie: 会員を集める（かいいん、あつ）
+ほんやく: 会員を集める（かいいん、あつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1746388496532-->
 
-
  gather at school/zebrać się w szkole #card
-Tłumaczenie: 学校に集まる（あつ）
+ほんやく: 学校に集まる（あつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1746388496534-->
 
-
  The teacher is collecting money from students for their trip #card
-Tłumaczenie: 先生は学生から旅行のお金を集めています（りょこう、あつ）
+ほんやく: 先生は学生から旅行のお金を集めています（りょこう、あつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1746388496536-->
 
-
  money collection #card
-Tłumaczenie: 集金（しゅうきん）
+ほんやく: 集金（しゅうきん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1746388496538-->
 
-
  assembly(złożyć) #card
-Tłumaczenie: 集合（しゅうごう）
+ほんやく: 集合（しゅうごう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1746388496540-->
 
-
  My yopunger brother is working in a bank to collect money #card
-Tłumaczenie: 弟は銀行で集金の仕事をしています（おとうと、ぎんこう、しゅうきん）
+ほんやく: 弟は銀行で集金の仕事をしています（おとうと、ぎんこう、しゅうきん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1746388496542-->
 
-
  The job of collecting money is not easy #card
-Tłumaczenie: 集金の仕事は楽じゃありませんね（しゅうきん、らく）
+ほんやく: 集金の仕事は楽じゃありませんね（しゅうきん、らく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1746388496545-->
 
-
  loan (2 writtings) (only money) #card
-Tłumaczenie: 貸金/貸し金（かしきん）
+ほんやく: 貸金/貸し金（かしきん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1746388496547-->
 
-
  rental house (2 writtings) (some one rents you) #card
-Tłumaczenie: 貸家/貸し家（かしや）
+ほんやく: 貸家/貸し家（かしや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1746388496549-->
 
-
  I livee in a rental house #card
-Tłumaczenie: 私は貸し家に住んでいます（かしや、す）
+ほんやく: 私は貸し家に住んでいます（かしや、す）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_住.html">住</a>
 <!--ID: 1746388496551-->
 
-
  Please, lend me car on sunday #card
-Tłumaczenie: 日曜日に車を貸してください（か）
+ほんやく: 日曜日に車を貸してください（か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <!--ID: 1746388496553-->
 
-
  Is there a rental house in this neighborhood? #card
-Tłumaczenie: この近所に貸し家ありませんか（きんじょ、かしや）
+ほんやく: この近所に貸し家ありませんか（きんじょ、かしや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1746388496555-->
 
-
  I borrowed money from the bank and lent it to my younger brother #card
-Tłumaczenie: 銀行からお金を借りて、弟に貸しました（ぎんこう、か、おとうと、か）
+ほんやく: 銀行からお金を借りて、弟に貸しました（ぎんこう、か、おとうと、か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <!--ID: 1746388496557-->
 
-
  loan (including boths sides, finance,legal contracts) #card
-Tłumaczenie: 貸借（たいしゃく）
+ほんやく: 貸借（たいしゃく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <!--ID: 1746388496559-->
 
-
  loan (Borrowing and lending (personal) #card
-Tłumaczenie: 借り貸し（か、か）
+ほんやく: 借り貸し（か、か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <!--ID: 1746388496561-->
 
-
  I borrowed money from my father #card
-Tłumaczenie: 父からお金を借りました（か）
+ほんやく: 父からお金を借りました（か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <!--ID: 1746388496563-->
 
-
  borrowed things(2 readings) #card
-Tłumaczenie: 借り物・借物（かりもの）
+ほんやく: 借り物・借物（かりもの）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1746388496565-->
 
-
  I borrowed money from the company and went on a trip to Hawaii #card
-Tłumaczenie: 会社からお金を借りて、ハワイ旅行に行きました（か、りょこう）
+ほんやく: 会社からお金を借りて、ハワイ旅行に行きました（か、りょこう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1746388496567-->
 
-
  debt #card
-Tłumaczenie: 借金（しゃっきん）
+ほんやく: 借金（しゃっきん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1746388496569-->
 
-
  renatl house (you renting) #card
-Tłumaczenie: 借家（しゃくや）
+ほんやく: 借家（しゃくや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1746388496571-->
 
-
  I borrowed money(debt) from the bank and bought a house #card
-Tłumaczenie: 銀行で借金して、家を買いました（ぎんこう、しゃっきん）
+ほんやく: 銀行で借金して、家を買いました（ぎんこう、しゃっきん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1746388496573-->
 
-
  money on hand #card
-Tłumaczenie: 有り金（ありがね）
+ほんやく: 有り金（ありがね）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1746388496576-->
 
-
 there is not much money on hand #card
-Tłumaczenie: 有り金は多くありません（ありがね、おお）
+ほんやく: 有り金は多くありません（ありがね、おお）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <!--ID: 1746388496578-->
 
-
  Ariake (name of the area) #card
-Tłumaczenie: 有明（ありあけ）
+ほんやく: 有明（ありあけ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1746388496580-->
 
-
  famous #card
-Tłumaczenie: 有名（ゆうめい）
+ほんやく: 有名（ゆうめい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1746388496582-->
 
-
  advantageous/korzystny #card
-Tłumaczenie: 有利（ゆうり）
+ほんやく: 有利（ゆうり）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_利.html">利</a>
 <!--ID: 1746388496584-->
 
-
  I joined a famous bank #card
-Tłumaczenie: 有名な銀行に入りました（ゆうめい、ぎんこう、は）
+ほんやく: 有名な銀行に入りました（ゆうめい、ぎんこう、は）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1746388496586-->
 
-
  That person is a famous banker #card
-Tłumaczenie: あの人は有名な銀行家ですよ（ゆうめい、ぎんこうか）
+ほんやく: あの人は有名な銀行家ですよ（ゆうめい、ぎんこうか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1746388496588-->
 
-
  Teacher is a famous writter (isn't it?) #card
-Tłumaczenie: 先生は有名な作家ですね（ゆうめい、さっか）
+ほんやく: 先生は有名な作家ですね（ゆうめい、さっか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1746388496591-->
 
-
  this time #card
-Tłumaczenie: この度（たび）
+ほんやく: この度（たび）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
 <!--ID: 1746388496592-->
 
-
  every time (someone) meets(someone) #card
-Tłumaczenie: 会うたび（あ、たび）
+ほんやく: 会うたび（あ、たび）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <!--ID: 1746388496595-->
 
-
  once #card
-Tłumaczenie: 一度（いちど） 
+ほんやく: 一度（いちど） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
 <!--ID: 1746388496597-->
 
-
  every time #card
-Tłumaczenie: 毎度（まいど）
+ほんやく: 毎度（まいど）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
 <!--ID: 1746388496598-->
 
-
  fiscal year #card
-Tłumaczenie: 年度（ねんど）
+ほんやく: 年度（ねんど）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
 <!--ID: 1746388496601-->
 
-
  I watn to go to that store one time (try) #card
-Tłumaczenie: あの店に一度行ってみたいです（いちど）
+ほんやく: あの店に一度行ってみたいです（いちど）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1746388496602-->
 
-
  thank you (for comming) every time #card
-Tłumaczenie: 毎度、ありがとうございます （まいど）
+ほんやく: 毎度、ありがとうございます （まいど）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
 <!--ID: 1746388496605-->
 
-
  There are few customers #card
-Tłumaczenie: お客が少ない（きゃく、すく）
+ほんやく: お客が少ない（きゃく、すく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_客.html">客</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1746388496607-->
 
-
  There are few speciality product in this town #card
-Tłumaczenie: この町は名物は少ないです（まち、めいぶつ、すく）
+ほんやく: この町は名物は少ないです（まち、めいぶつ、すく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_町.html">町</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1746388496609-->
 
-
  Add a little water (put in) #card
-Tłumaczenie: 水を少し入れる（すこ、い）
+ほんやく: 水を少し入れる（すこ、い）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1746388496611-->
 
-
  a little (formal, polite) #card
-Tłumaczenie: 少々（しょうしょう）
+ほんやく: 少々（しょうしょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1746388496613-->
 
-
  boy #card
-Tłumaczenie: 少年（しょうねん）
+ほんやく: 少年（しょうねん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1746388496615-->
 
-
  The store manager will come soon, so pleas wait a moment #card
-Tłumaczenie: 店長はすぐ来ますから、少々お待ちください（てんちょう、き、しょうしょう、ま) 
+ほんやく: 店長はすぐ来ますから、少々お待ちください（てんちょう、き、しょうしょう、ま) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1746388496617-->
 
-
  the food at this store/restaurant is a little expensive #card
-Tłumaczenie: この店の料理少々高いですよ （しょうしょう、たか）
+ほんやく: この店の料理少々高いですよ （しょうしょう、たか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <!--ID: 1746388496618-->
 
-
  Please wait a moment #card
-Tłumaczenie: 少し待ってください（ま）
+ほんやく: 少し待ってください（ま）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1746388496621-->
 
-
  the head of the office is waiting for you #card
-Tłumaczenie: 所長はあなたをお待ちしてます（しょちょう、ま）
+ほんやく: 所長はあなたをお待ちしてます（しょちょう、ま）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1746388496623-->
 
-
  waiting room #card
-Tłumaczenie: 待合室（まちあいしつ）
+ほんやく: 待合室（まちあいしつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
 <!--ID: 1746388496626-->
 
-
  invitation #card
-Tłumaczenie: 招待（しょうたい）
+ほんやく: 招待（しょうたい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_招.html">招</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1746388496628-->
 
-
  expectation #card
-Tłumaczenie: 期待（きたい）
+ほんやく: 期待（きたい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_期.html">期</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1746388496630-->
 
-
-
 someone opens something (more formal, abstract like company, store, book, soul) #card
-Tłumaczenie: 開く（ひら）  
-Forma masu: 開きます  
-Forma te: 開いて  
-Forma ta: 開いた  
-Forma nai: 開かない  
-Forma katta: 開かなかった
+ほんやく: 開く（ひら）  
+て形: 開いて
+た形: 開いた
+ます形: 開きます
+出す形 (start): 開き出す
+そう (looks like): 開きそう
+お〜になる (honorific): お開きになる
+ない形: 開かない
+なかった形: 開かなかった
+あれる形 (passive): 開かれる
+尊敬語 (honorific): 開かれる
+ば形 (if): 開けば
+可能形 (can): 開ける
+おう形 (let's): 開こう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388572896-->
 
-
 to open #card
-Tłumaczenie: 開ける（あ）  
-Forma masu: 開けます  
-Forma te: 開けて  
-Forma ta: 開けた  
-Forma nai: 開けない  
-Forma katta: 開けなかった
+ほんやく: 開ける（あ）  
+て形: 開けて
+た形: 開けた
+ます形: 開けます
+出す形 (start): 開け出す
+そう (looks like): 開けそう
+お〜になる (honorific): お開けになる
+ない形: 開けない
+なかった形: 開けなかった
+あれる形 (passive): 開けられる
+尊敬語 (honorific): 開けられる
+ば形 (if): 開ければ
+可能形 (can): 開けられる
+おう形 (let's): 開けよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388572901-->
 
-
 something opens by itself #card
-Tłumaczenie: 開く（あ）  
-Forma masu: 開きます  
-Forma te: 開いて  
-Forma ta: 開いた  
-Forma nai: 開かない  
-Forma katta: 開かなかった
+ほんやく: 開く（あ）  
+て形: 開いて
+た形: 開いた
+ます形: 開きます
+出す形 (start): 開き出す
+そう (looks like): 開きそう
+お〜になる (honorific): お開きになる
+ない形: 開かない
+なかった形: 開かなかった
+あれる形 (passive): 開かれる
+尊敬語 (honorific): 開かれる
+ば形 (if): 開けば
+可能形 (can): 開ける
+おう形 (let's): 開こう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388572905-->
 
-
 move #card
-Tłumaczenie: 動く（うご）  
-Forma masu: 動きます  
-Forma te: 動いて  
-Forma ta: 動いた  
-Forma nai: 動かない  
-Forma katta: 動かなかった
+ほんやく: 動く（うご）  
+て形: 動いて
+た形: 動いた
+ます形: 動きます
+出す形 (start): 動き出す
+そう (looks like): 動きそう
+お〜になる (honorific): お動きになる
+ない形: 動かない
+なかった形: 動かなかった
+あれる形 (passive): 動かれる
+尊敬語 (honorific): 動かれる
+ば形 (if): 動けば
+可能形 (can): 動ける
+おう形 (let's): 動こう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1746388572909-->
 
-
 collect/gather (stuff) #card
-Tłumaczenie: 集める（あつ）  
-Forma masu: 集めます  
-Forma te: 集めて  
-Forma ta: 集めた  
-Forma nai: 集めない  
-Forma katta: 集めなかった
+ほんやく: 集める（あつ）  
+て形: 集めて
+た形: 集めた
+ます形: 集めます
+出す形 (start): 集め出す
+そう (looks like): 集めそう
+お〜になる (honorific): お集めになる
+ない形: 集めない
+なかった形: 集めなかった
+あれる形 (passive): 集められる
+尊敬語 (honorific): 集められる
+ば形 (if): 集めれば
+可能形 (can): 集められる
+おう形 (let's): 集めよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1746388572913-->
 
-
 gather (on their own) #card
-Tłumaczenie: 集まる（あつ）  
-Forma masu: 集まります  
-Forma te: 集まって  
-Forma ta: 集まった  
-Forma nai: 集まらない  
-Forma katta: 集まらなかった
+ほんやく: 集まる（あつ）  
+て形: 集まって
+た形: 集まった
+ます形: 集まります
+出す形 (start): 集まり出す
+そう (looks like): 集まりそう
+お〜になる (honorific): お集まりになる
+ない形: 集まらない
+なかった形: 集まらなかった
+あれる形 (passive): 集まられる
+尊敬語 (honorific): 集まられる
+ば形 (if): 集まれば
+可能形 (can): 集まれる
+おう形 (let's): 集まろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1746388572918-->
 
-
 lend (to someone) #card
-Tłumaczenie: 貸す（かす）  
-Forma masu: 貸します  
-Forma te: 貸して  
-Forma ta: 貸した  
-Forma nai: 貸さない  
-Forma katta: 貸さなかった
+ほんやく: 貸す（かす）  
+て形: 貸して
+た形: 貸した
+ます形: 貸します
+出す形 (start): 貸し出す
+そう (looks like): 貸しそう
+お〜になる (honorific): お貸しになる
+ない形: 貸さない
+なかった形: 貸さなかった
+あれる形 (passive): 貸される
+尊敬語 (honorific): 貸される
+ば形 (if): 貸せば
+可能形 (can): 貸せる
+おう形 (let's): 貸そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <!--ID: 1746388572923-->
 
-
 borrow (from someone) #card
-Tłumaczenie: 借りる（か）  
-Forma masu: 借ります  
-Forma te: 借りて  
-Forma ta: 借りた  
-Forma nai: 借りない  
-Forma katta: 借りなかった
+ほんやく: 借りる（か）  
+て形: 借りて
+た形: 借りた
+ます形: 借ります
+出す形 (start): 借り出す
+そう (looks like): 借りそう
+お〜になる (honorific): お借りになる
+ない形: 借りない
+なかった形: 借りなかった
+あれる形 (passive): 借りられる
+尊敬語 (honorific): 借りられる
+ば形 (if): 借りれば
+可能形 (can): 借りられる
+おう形 (let's): 借りよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <!--ID: 1746388572927-->
 
-
 to exist/have #card
-Tłumaczenie: 有る（あ）  
-Forma masu: 有ります  
-Forma te: 有って  
-Forma ta: 有った  
-Forma nai: 無い（ない）  
-Forma katta: 無かった（なかった）
+ほんやく: 有る（あ）  
+て形: 有って
+た形: 有った
+ます形: 有ります
+出す形 (start): 有り出す
+そう (looks like): 有りそう
+お〜になる (honorific): お有りになる
+ない形: 無い（ない）
+なかった形: 無かった（なかった）
+あれる形 (passive): 有られる
+尊敬語 (honorific): 有られる
+ば形 (if): 有れば
+可能形 (can): 有れる
+おう形 (let's): 有ろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
 <!--ID: 1746388572931-->
 
-
 to wait #card
-Tłumaczenie: 待つ（ま）  
-Forma masu: 待ちます  
-Forma te: 待って  
-Forma ta: 待った  
-Forma nai: 待たない  
-Forma katta: 待たなかった
+ほんやく: 待つ（ま）  
+て形: 待って
+た形: 待った
+ます形: 待ちます
+出す形 (start): 待ち出す
+そう (looks like): 待ちそう
+お〜になる (honorific): お待ちになる
+ない形: 待たない
+なかった形: 待たなかった
+あれる形 (passive): 待たれる
+尊敬語 (honorific): 待たれる
+ば形 (if): 待てば
+可能形 (can): 待てる
+おう形 (let's): 待とう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1746388572936-->
-
-
 

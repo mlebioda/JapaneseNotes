@@ -580,19 +580,19 @@ peace of mind #k #card
 
 pour (wlać) #k #card
 ほんやく: 注ぐ（そそ）
-ます形: 注ぎます
 て形: 注いで
 た形: 注いだ
+ます形: 注ぎます
+出す形 (start): 注ぎ出す
+そう (looks like): 注ぎそう
+お〜になる (honorific): お注ぎになる
 ない形: 注がない
 なかった形: 注がなかった
+あれる形 (passive): 注がれる
+尊敬語 (honorific): 注がれる
 ば形 (if): 注げば
 可能形 (can): 注げる
-あれる形 (passive): 注がれる
-出す形 (start): 注ぎ出す
-尊敬語 (honorific): 注がれる
-お〜になる (honorific): お注ぎになる
-そう (looks like): 注ぎそう
-おう (let's): 注ごう
+おう形 (let's): 注ごう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <!--ID: 1780855042746-->
 
@@ -682,19 +682,19 @@ literature #k #card
 
 wear #k #card
 ほんやく: 着る（き）
-ます形: 着ます
 て形: 着て
 た形: 着た
+ます形: 着ます
+出す形 (start): 着出す
+そう (looks like): 着そう
+お〜になる (honorific): お着になる
 ない形: 着ない
 なかった形: 着なかった
+あれる形 (passive): 着られる
+尊敬語 (honorific): 着られる
 ば形 (if): 着れば
 可能形 (can): 着られる
-あれる形 (passive): 着られる
-出す形 (start): 着出す
-尊敬語 (honorific): 着られる
-お〜になる (honorific): お着になる
-そう (looks like): 着そう
-おう (let's): 着よう
+おう形 (let's): 着よう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <!--ID: 1780855042758-->
 
@@ -719,19 +719,19 @@ Today I wear nice clothes #k #card
 
 arrive #k #card
 ほんやく: 着く（つく）
-ます形: 着きます
 て形: 着いて
 た形: 着いた
+ます形: 着きます
+出す形 (start): 着き出す
+そう (looks like): 着きそう
+お〜になる (honorific): お着きになる
 ない形: 着かない
 なかった形: 着かなかった
+あれる形 (passive): 着かれる
+尊敬語 (honorific): 着かれる
 ば形 (if): 着けば
 可能形 (can): 着ける
-あれる形 (passive): 着かれる
-出す形 (start): 着き出す
-尊敬語 (honorific): 着かれる
-お〜になる (honorific): お着きになる
-そう (looks like): 着きそう
-おう (let's): 着こう
+おう形 (let's): 着こう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <!--ID: 1780855042761-->
 
@@ -783,7 +783,7 @@ many #k #card
 過去形: 多かった
 否定形: 多くない
 副詞形: 多く
-そう: 多そう
+そう (looks like): 多そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <!--ID: 1780855042767-->
 

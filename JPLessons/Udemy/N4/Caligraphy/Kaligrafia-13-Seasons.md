@@ -246,397 +246,637 @@ car + 2 + self/private. Transfer 2 private goods with a car
  Rzeczowniki:
 
  spring #card
-Tłumaczenie: 春（はる）
+ほんやく: 春（はる）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
 <!--ID: 1749744037652-->
 
 
  spring day #card
-Tłumaczenie: 春の日（はるのひ）
+ほんやく: 春の日（はるのひ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1749744037661-->
 
 
  spring is warm #card
-Tłumaczenie: 春はあたたかいです（はる）
+ほんやく: 春はあたたかいです（はる）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
 <!--ID: 1749744037663-->
 
 
  When does your spring vacation start? #card
-Tłumaczenie: 春休みはいつからですか（はるやす）
+ほんやく: 春休みはいつからですか（はるやす）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <!--ID: 1749744037665-->
 
 
  New year #card
-Tłumaczenie: 新春（しんしゅん）
+ほんやく: 新春（しんしゅん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
 <!--ID: 1749744037668-->
 
 
  youth #card
-Tłumaczenie: 青春（せいしゅん）
+ほんやく: 青春（せいしゅん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
 <!--ID: 1749744037670-->
 
 
  I enjoy my youth every day #card
-Tłumaczenie: 毎日青春を楽しんでいます（せいしゅん、たの）
+ほんやく: 毎日青春を楽しんでいます（せいしゅん、たの）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1749744037672-->
 
 
  I'll return to my father's house in the new year #card
-Tłumaczenie: 新春には父の家に帰ります（しんしゅん）
+ほんやく: 新春には父の家に帰ります（しんしゅん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <!--ID: 1749744037674-->
 
 
  summer #card
-Tłumaczenie: 夏（なつ）
+ほんやく: 夏（なつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
 <!--ID: 1749744037676-->
 
 
  summer  break #card
-Tłumaczenie: 夏休み（なつやすみ）
+ほんやく: 夏休み（なつやすみ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <!--ID: 1749744037678-->
 
 
  I'll travel abroad in the summer #card
-Tłumaczenie: 夏は海外旅行へ行きます（なつ、かいがい、りょこう）
+ほんやく: 夏は海外旅行へ行きます（なつ、かいがい、りょこう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1749744037680-->
 
 
  I'll travel to China in the summer #card
-Tłumaczenie: 夏には中国へ旅行します（なつ、りょこう）
+ほんやく: 夏には中国へ旅行します（なつ、りょこう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1749744037682-->
 
 
  early summer #card
-Tłumaczenie: 初夏（しょか）
+ほんやく: 初夏（しょか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_初.html">初</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
 <!--ID: 1749744037684-->
 
 
  the first day of summer #card
-Tłumaczenie: 立夏（りっか）
+ほんやく: 立夏（りっか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
 <!--ID: 1749744037686-->
 
 
  early, fast #card
-Tłumaczenie: 早い（はや）
+ほんやく: 早い（はや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <!--ID: 1749744037688-->
 
 
  wake up early, ranny ptaszek #card
-Tłumaczenie: 早起き（はやおき）
+ほんやく: 早起き（はやおき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1749744037690-->
 
 
  Please come to work 1 hour early tommorow #card
-Tłumaczenie: 明日は1時間早く出社してください（はや、しゅっしゃ）
+ほんやく: 明日は1時間早く出社してください（はや、しゅっしゃ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1749744037692-->
 
 
  My mother especially gets up early in the summer. #card
-Tłumaczenie: 母は夏は特別に早起きです（なつ、とくべつ、はやお）
+ほんやく: 母は夏は特別に早起きです（なつ、とくべつ、はやお）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1749744037694-->
 
 
  Do you always get up early? #card
-Tłumaczenie: あなたはいつも早起きですか（はやお）
+ほんやく: あなたはいつも早起きですか（はやお）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1749744037696-->
 
 
  early sprig #card
-Tłumaczenie: 早春（そうしゅん）
+ほんやく: 早春（そうしゅん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
 <!--ID: 1749744037698-->
 
 
  early morning #card
-Tłumaczenie: 早朝（そうちょう）
+ほんやく: 早朝（そうちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <!--ID: 1749744037700-->
 
 
  I run around the neighborhood early in the morning. #card
-Tłumaczenie: 早朝に近所を走ります（そうちょう、きんじょ、はし）
+ほんやく: 早朝に近所を走ります（そうちょう、きんじょ、はし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1749744037702-->
 
 
  going to work #card
-Tłumaczenie: 出社(しゅっしゃ) 
+ほんやく: 出社(しゅっしゃ)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1749744037704-->
 
 
  I wake up at 7:00 in morning #card
-Tłumaczenie: 朝の七時に起きる（あさ、しちじ、お) 
+ほんやく: 朝の七時に起きる（あさ、しちじ、お)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1749744037706-->
 
 
  I wake up my elder brother at 8:00 #card
-Tłumaczenie: 八時に兄を起こす（はちじ、あに、お）
+ほんやく: 八時に兄を起こす（はちじ、あに、お）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1749744037708-->
 
 
  What time do you wake up in the morning? #card
-Tłumaczenie: 朝は何時に起きますか（お）
+ほんやく: 朝は何時に起きますか（お）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1749744037710-->
 
 
  Please wake me up at 6 tommorow #card
-Tłumaczenie: 明日は６じに起こしてください（お）
+ほんやく: 明日は６じに起こしてください（お）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1749744037711-->
 
 
  starting bussiness #card
-Tłumaczenie: 起業（きぎょう）
+ほんやく: 起業（きぎょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1749744037713-->
 
 
  start #card
-Tłumaczenie: 起動（きどう get up + move）
+ほんやく: 起動（きどう get up + move）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1749744037715-->
 
 
  This car is slow to start #card
-Tłumaczenie: この車の起動がおそいです（きどう）
+ほんやく: この車の起動がおそいです（きどう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1749744037717-->
 
 
  autumn, fall #card
-Tłumaczenie: 秋（あき）
+ほんやく: 秋（あき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
 <!--ID: 1749744037719-->
 
 
  autumn breeze #card
-Tłumaczenie: 秋風（あきかぜ）
+ほんやく: 秋風（あきかぜ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <!--ID: 1749744037721-->
 
 
  autumn sky #card
-Tłumaczenie: 秋の空（あきのそろ）
+ほんやく: 秋の空（あきのそろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <!--ID: 1749744037723-->
 
 
  early atumn #card
-Tłumaczenie: 新秋（しんしゅう）
+ほんやく: 新秋（しんしゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
 <!--ID: 1749744037725-->
 
 
  the closing day of the show #card
-Tłumaczenie: 千秋楽（せんしゅうらく）
+ほんやく: 千秋楽（せんしゅうらく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1749744037727-->
 
 
  wind #card
-Tłumaczenie: 風（かぜ）
+ほんやく: 風（かぜ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <!--ID: 1749744037729-->
 
 
  gale (gejl) wichura #card
-Tłumaczenie: 大風（おおかぜ）
+ほんやく: 大風（おおかぜ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <!--ID: 1749744037731-->
 
 
  move fast against the wind #card
-Tłumaczenie: 風を切る（かぜ、き）
+ほんやく: 風を切る（かぜ、き）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1749744037733-->
 
 
  I like the autumn breeze very much #card
-Tłumaczenie: 秋風がとても好きです（あきかぜ）
+ほんやく: 秋風がとても好きです（あきかぜ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <!--ID: 1749744037735-->
 
 
  Autumn breeze always makes me feel good. #card
-Tłumaczenie: 秋風はいつも気持ちがいいですね（あきかぜ、きも）
+ほんやく: 秋風はいつも気持ちがいいですね（あきかぜ、きも）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 <!--ID: 1749744037737-->
 
 
  strong wind #card
-Tłumaczenie: 強風（きょうふう）
+ほんやく: 強風（きょうふう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <!--ID: 1749744037740-->
 
 
  wind and rain #card
-Tłumaczenie: 風雨（ふうう）
+ほんやく: 風雨（ふうう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <!--ID: 1749744037742-->
 
 
  The event was canceled due to strong winds #card
-Tłumaczenie: イベントは強風で中止されました（きょうふう、ちゅうし）
+ほんやく: イベントは強風で中止されました（きょうふう、ちゅうし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_止.html">止</a>
 <!--ID: 1749744037745-->
 
 
  Yesterday was a though day because of the strong wind #card
-Tłumaczenie: 昨日は強風で大変でした（きのう、きょうふう、たいへん）
+ほんやく: 昨日は強風で大変でした（きのう、きょうふう、たいへん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
 <!--ID: 1749744037747-->
 
 
  blue sky #card
-Tłumaczenie: 青空（あおぞら) 
+ほんやく: 青空（あおぞら)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <!--ID: 1749744037749-->
 
 
  sky blue (color) #card
-Tłumaczenie: 空色（そらいろ）
+ほんやく: 空色（そらいろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1749744037751-->
 
 
  My younger brother is wearing a sky blue sweater #card
-Tłumaczenie: 弟は空色のセーターを着ています（おとうと、そらいろ、き）
+ほんやく: 弟は空色のセーターを着ています（おとうと、そらいろ、き）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <!--ID: 1749744037753-->
 
 
  put #card
-Tłumaczenie: 空元気（からげんき）
+ほんやく: 空元気（からげんき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <!--ID: 1749744037755-->
 
 
  air #card
-Tłumaczenie: 空気（くうき）
+ほんやく: 空気（くうき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <!--ID: 1749744037757-->
 
 
  blank #card
-Tłumaczenie: 空白（くうはく）
+ほんやく: 空白（くうはく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1749744037759-->
 
 
  bright #card
-Tłumaczenie: 明るい（あか）
+ほんやく: 明るい（あか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1749744037761-->
 
 
  bright sky #card
-Tłumaczenie: 明るい空（あか、そら）
+ほんやく: 明るい空（あか、そら）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <!--ID: 1749744037763-->
 
 
  cheerful person #card
-Tłumaczenie: 明るい人（あか、ひと）
+ほんやく: 明るい人（あか、ひと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1749744037765-->
 
 
  The light in the company president's office is bright #card
-Tłumaczenie: 社長室の電気は明るいです（しゃちょう、でんき、あか）
+ほんやく: 社長室の電気は明るいです（しゃちょう、でんき、あか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1749744037767-->
 
 
  The blue sky in autumn is bright and fun #card
-Tłumaczenie: 秋の青空は明るくて、楽しいです（あき、あおぞら、あか、たの）
+ほんやく: 秋の青空は明るくて、楽しいです（あき、あおぞら、あか、たの）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1749744037769-->
 
 
  The light in the library is bright enough #card
-Tłumaczenie: 図書館の電気は十分明るいですよ（としょかん、でんき、じゅうぶん、あか）
+ほんやく: 図書館の電気は十分明るいですよ（としょかん、でんき、じゅうぶん、あか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_図.html">図</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1749744037771-->
 
 
  clear #card
-Tłumaczenie: 明らか（あき) 
+ほんやく: 明らか（あき)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1749744037773-->
 
 
  to clarify #card
-Tłumaczenie: 明らかにする (あき) 
+ほんやく: 明らかにする (あき)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1749744037775-->
 
 
  Please clarify your plan #card
-Tłumaczenie: 計画を明らかにしてください（けいかく、あき）
+ほんやく: 計画を明らかにしてください（けいかく、あき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1749744037777-->
 
 
  perfectly obvious #card
-Tłumaczenie: 火を見るより明らか（日、見、あき）
+ほんやく: 火を見るより明らか（日、見、あき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1749744037778-->
 
 
  civilization #card
-Tłumaczenie: 文明（ぶんめい）
+ほんやく: 文明（ぶんめい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1749744037780-->
 
 
  I'm doing research on chinese civilization #card
-Tłumaczenie: 中国文明を研究しています（ちゅうごく、ぶんめい、けんきゅう）
+ほんやく: 中国文明を研究しています（ちゅうごく、ぶんめい、けんきゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749744037782-->
 
 
  next year (litwerary, rarely used) #card
-Tłumaczenie: 明年（みょうねん）
+ほんやく: 明年（みょうねん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1749744037784-->
 
 
  We are planing to build a factory in India next year #card
-Tłumaczenie: 明年インドで工場を作る予定です（みょうねん、こうじょう、つく、よてい）
+ほんやく: 明年インドで工場を作る予定です（みょうねん、こうじょう、つく、よてい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_工.html">工</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_予.html">予</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_定.html">定</a>
 <!--ID: 1749744037786-->
 
 
  winter #card
-Tłumaczenie: 冬（ふゆ）
+ほんやく: 冬（ふゆ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
 <!--ID: 1749744037788-->
 
 
  winter break #card
-Tłumaczenie: 冬休み（ふゆやす）
+ほんやく: 冬休み（ふゆやす）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <!--ID: 1749744037790-->
 
 
  evergreen tree #card
-Tłumaczenie: 冬木（ふゆき）
+ほんやく: 冬木（ふゆき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
 <!--ID: 1749744037792-->
 
 
  I walk with my dogs in nearby fields and hills in the winter #card
-Tłumaczenie: 冬には近くの野山を犬と歩きます（ふゆ、ちか、のやま、ある）
+ほんやく: 冬には近くの野山を犬と歩きます（ふゆ、ちか、のやま、ある）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1749744037794-->
 
 
  I'll travel to Havaii with friends during winter break #card
-Tłumaczenie: 冬休みには、友達とハワイへ旅行します（ふゆやす、ともだち、りょこう）
+ほんやく: 冬休みには、友達とハワイへ旅行します（ふゆやす、ともだち、りょこう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1749744037796-->
 
 
  The winter in this region is though because of strong winf #card
-Tłumaczenie: この地方では冬は強風で大変です（ちほう、ふゆ、きょうふう、たいへん）
+ほんやく: この地方では冬は強風で大変です（ちほう、ふゆ、きょうふう、たいへん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_地.html">地</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
 <!--ID: 1749744037798-->
 
 
  What will you do in the winter break which starts from tommorow? #card
-Tłumaczenie: 明日からの冬休みには何をしますか（ふゆやすみ）
+ほんやく: 明日からの冬休みには何をしますか（ふゆやすみ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <!--ID: 1749744037799-->
 
 
  early winter #card
-Tłumaczenie: 初冬（しょとう）
+ほんやく: 初冬（しょとう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_初.html">初</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
 <!--ID: 1749744037801-->
 
 
  last winter #card
-Tłumaczenie: 昨冬（さくとう）
+ほんやく: 昨冬（さくとう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
 <!--ID: 1749744037804-->
 
 
  fields and hills #card
-Tłumaczenie: 野山（のやま）
+ほんやく: 野山（のやま）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <!--ID: 1749744037806-->
 
 
  middle of the field #card
-Tłumaczenie: 野中（のなか）
+ほんやく: 野中（のなか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <!--ID: 1749744037808-->
 
 
  I walk around neaby fields and hills in the winter #card
-Tłumaczenie: 冬は近くの野山を歩きます（ふゆ、ちか、のやま、ある）
+ほんやく: 冬は近くの野山を歩きます（ふゆ、ちか、のやま、ある）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1749744037810-->
 
 
  I often go camping outdoors during summer break #card
-Tłumaczenie: 夏休みは、よく野外へキャンプに行きます（なつやす、やがい）
+ほんやく: 夏休みは、よく野外へキャンプに行きます（なつやす、やがい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1749744037812-->
 
 
  outdoor  #card
-Tłumaczenie: 野外（やがい）
+ほんやく: 野外（やがい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <!--ID: 1749744037814-->
 
 
  hilly area #card
-Tłumaczenie: 山野（さんや）
+ほんやく: 山野（さんや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
 <!--ID: 1749744037818-->
 
 
@@ -644,82 +884,129 @@ Tłumaczenie: 山野（さんや）
 夏休みは、よく野外へきゃんぷ
 
  go (to carry legs) #card
-Tłumaczenie: 足を運ぶ（あし、はこ）
+ほんやく: 足を運ぶ（あし、はこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <!--ID: 1749744037822-->
 
 
  transportation #card
-Tłumaczenie: 運送（うんそう）
+ほんやく: 運送（うんそう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1749744037824-->
 
 
  excercise #card
-Tłumaczenie: 運動（うんどう）
+ほんやく: 運動（うんどう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1749744037827-->
 
 
  strong luck #card
-Tłumaczenie: 運が強い（うん、つよ）
+ほんやく: 運が強い（うん、つよ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1749744037829-->
 
 
  That person is a bus driver #card
-Tłumaczenie: あの人はバスの運転手です（うんてんしゅう）
+ほんやく: あの人はバスの運転手です（うんてんしゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1749744037831-->
 
 
  I'm doing the transportation work by truck #card
-Tłumaczenie: トラックで運送の仕事をしています（うんそう、しごと）
+ほんやく: トラックで運送の仕事をしています（うんそう、しごと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1749744037833-->
 
 
  It is difficult to drive such a big bus, isn't it? #card
-Tłumaczenie: こんな大きいバスの運転はむずかしいでしょう（うんてん）
+ほんやく: こんな大きいバスの運転はむずかしいでしょう（うんてん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1749744037835-->
 
 
  fall down on snowy road #card
-Tłumaczenie: 雪道で転ぶ（ゆきみち、ころ） 
+ほんやく: 雪道で転ぶ（ゆきみち、ころ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雪.html">雪</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1749744037837-->
 
 
  make the ball roll #card
-Tłumaczenie: ボールを転がす（ころ）
+ほんやく: ボールを転がす（ころ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1749744037839-->
 
 
  drive #card
-Tłumaczenie: 運転（うんてん）
+ほんやく: 運転（うんてん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1749744037841-->
 
 
  driver  #card
-Tłumaczenie: 運転手（うんてんしゅ）
+ほんやく: 運転手（うんてんしゅ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1749744037843-->
 
 
  change of job/bussiness #card
-Tłumaczenie: 転業（てんぎょう）
+ほんやく: 転業（てんぎょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1749744037845-->
 
 
  I will change my job soon #card
-Tłumaczenie: 近く転業します（ちか、てんぎょう）
+ほんやく: 近く転業します（ちか、てんぎょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1749744037847-->
 
 
  Who drives this car? #card
-Tłumaczenie: この車はだれが運転しますか（うんてん）
+ほんやく: この車はだれが運転しますか（うんてん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1749744037849-->
 
 
  I have a bad physical condition, so i am planning to change my job #card
-Tłumaczenie: 体が悪いので、転業を計画しています（からだ、わる、てんぎょう、けいかく）
+ほんやく: 体が悪いので、転業を計画しています（からだ、わる、てんぎょう、けいかく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <!--ID: 1749744037851-->
 
 
  I will change jobns since my current job is no so good. #card
-Tłumaczenie: 今の仕事はよくないので、転業します（てんぎょう）
+ほんやく: 今の仕事はよくないので、転業します（てんぎょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1749744037853-->
 
 
@@ -728,72 +1015,136 @@ Tłumaczenie: 今の仕事はよくないので、転業します（てんぎょ
  Czasowniki:
 
 to enjyoi #card
-Tłumaczenie: 楽しむ（たの）  
-Forma masu: たのしみます  
-Forma te: たのしんで  
-Forma ta: たのしんだ  
-Forma nai: たのしまない  
-Forma katta: たのしまなかった
+ほんやく: 楽しむ（たの）
+て形: たのしんで
+た形: たのしんだ
+ます形: たのしみます
+出す形 (start): たのしみだす
+そう (looks like): たのしみそう
+お〜になる (honorific): おたのしみになる
+ない形: たのしまない
+なかった形: たのしまなかった
+受身形 (passive): たのしまれる
+尊敬語 (honorific): たのしまれる
+ば形 (if): たのしめば
+可能形 (can): たのしめる
+おう形 (let's): たのしもう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1749744037854-->
 
 
 to get up #card
-Tłumaczenie: 起きる（お）  
-Forma masu: おきます  
-Forma te: おきて  
-Forma ta: おきた  
-Forma nai: おきない  
-Forma katta: おきなかった
+ほんやく: 起きる（お）
+て形: おきて
+た形: おきた
+ます形: おきます
+出す形 (start): おきだす
+そう (looks like): おきそう
+お〜になる (honorific): おおきになる
+ない形: おきない
+なかった形: おきなかった
+受身形 (passive): おきられる
+尊敬語 (honorific): おきられる
+ば形 (if): おきれば
+可能形 (can): おきられる
+おう形 (let's): おきよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1749744037856-->
 
 
 wake someone up #card
-Tłumaczenie: 起こす（お）  
-Forma masu: おこします  
-Forma te: おこして  
-Forma ta: おこした  
-Forma nai: おこさない  
-Forma katta: おこさなかった
+ほんやく: 起こす（お）
+て形: おこして
+た形: おこした
+ます形: おこします
+出す形 (start): おこしだす
+そう (looks like): おこしそう
+お〜になる (honorific): おおこしになる
+ない形: おこさない
+なかった形: おこさなかった
+受身形 (passive): おこされる
+尊敬語 (honorific): おこされる
+ば形 (if): おこせば
+可能形 (can): おこせる
+おう形 (let's): おこそう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1749744037858-->
 
 
 być odwołanym / zostać anulowanym #card
-Tłumaczenie: 中止される(ちゅうし)  
-Forma masu: 中止されます  
-Forma te: 中止されて  
-Forma ta: 中止された  
-Forma nai: 中止されない  
-Forma katta: 中止されなかった
+ほんやく: 中止される(ちゅうし)
+て形: 中止されて
+た形: 中止された
+ます形: 中止されます
+出す形 (start): 中止され出す
+そう (looks like): 中止されそう
+お〜になる (honorific): お中止されになる
+ない形: 中止されない
+なかった形: 中止されなかった
+受身形 (passive): 中止されられる
+尊敬語 (honorific): 中止されられる
+ば形 (if): 中止されれば
+可能形 (can): 中止されられる
+おう形 (let's): 中止されよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_止.html">止</a>
 <!--ID: 1749744037860-->
 
 
 to carry #card
-Tłumaczenie: 運ぶ（はこぶ）  
-Forma masu: はこびます  
-Forma te: はこんで  
-Forma ta: はこんだ  
-Forma nai: はこばない  
-Forma katta: はこばなかった
+ほんやく: 運ぶ（はこぶ）
+て形: はこんで
+た形: はこんだ
+ます形: はこびます
+出す形 (start): はこびだす
+そう (looks like): はこびそう
+お〜になる (honorific): おはこびになる
+ない形: はこばない
+なかった形: はこばなかった
+受身形 (passive): はこばれる
+尊敬語 (honorific): はこばれる
+ば形 (if): はこべば
+可能形 (can): はこべる
+おう形 (let's): はこぼう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <!--ID: 1749744037862-->
 
 
 to roll #card
-Tłumaczenie: 転ぶ（ころ）  
-Forma masu: ころびます  
-Forma te: ころんで  
-Forma ta: ころんだ  
-Forma nai: ころばない  
-Forma katta: ころばなかった
+ほんやく: 転ぶ（ころ）
+て形: ころんで
+た形: ころんだ
+ます形: ころびます
+出す形 (start): ころびだす
+そう (looks like): ころびそう
+お〜になる (honorific): おころびになる
+ない形: ころばない
+なかった形: ころばなかった
+受身形 (passive): ころばれる
+尊敬語 (honorific): ころばれる
+ば形 (if): ころべば
+可能形 (can): ころべる
+おう形 (let's): ころぼう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1749744037864-->
 
 
 make something rool #card
-Tłumaczenie: 転がす（ころ）  
-Forma masu: ころがします  
-Forma te: ころがして  
-Forma ta: ころがした  
-Forma nai: ころがさない  
-Forma katta: ころがさなかった
+ほんやく: 転がす（ころ）
+て形: ころがして
+た形: ころがした
+ます形: ころがします
+出す形 (start): ころがしだす
+そう (looks like): ころがしそう
+お〜になる (honorific): おころがしになる
+ない形: ころがさない
+なかった形: ころがさなかった
+受身形 (passive): ころがされる
+尊敬語 (honorific): ころがされる
+ば形 (if): ころがせば
+可能形 (can): ころがせる
+おう形 (let's): ころがそう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1749744037866-->
 
 

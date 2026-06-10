@@ -14,7 +14,9 @@ Both `.cowork/skills/fill-templates.md` and `.cowork/skills/templates-update.md`
 
 ## Verb type heuristic
 
-- Ends in `える` or `いる` → **ichidan** (e.g. 食べる, 起きる)
+- Ends in `える` or `いる` → **ichidan** (e.g. 食べる, 起きる, あげる, 調べる)  
+  E-row kana (char before る): え け げ せ ぜ て で ね へ べ ぺ め れ  
+  I-row kana (char before る): い き ぎ し じ ち ぢ に ひ び ぴ み り
 - Ends in any other kana + `る` → **godan** (e.g. 渡る, 走る)
 - Ends in `く`,`ぐ`,`す`,`つ`,`ぬ`,`ぶ`,`む`,`う` → always **godan**
 - `来る` → **kuru** (use fixed forms table below)
@@ -114,7 +116,7 @@ Stem = verb minus final る.
 
 ## 尊敬語 and お〜になる derivation rules
 
-- `尊敬語 (honorific)` is always the same value as `受身形 (passive)`.
+- `尊敬語 (honorific)` is always the same value as `受身形 (passive)` — plain form, **never add ます** (e.g. 履かれる, not 履かれます).
 - `お〜になる (honorific)` = お + ます stem + になる.  
   Example: 渡る → ます stem り → お渡りになる.  
   Exception: 来る → お出でになる (fixed).

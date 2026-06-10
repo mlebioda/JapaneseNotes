@@ -584,19 +584,19 @@ preparation / to prepare + verb #card
 
 to do one's best #card
 ほんやく: 頑張る (がんば)
-ます形: 頑張ります
 て形: 頑張って
 た形: 頑張った
+ます形: 頑張ります
+出す形 (start): 頑張り出す
+そう (looks like): 頑張りそう
+お〜になる (honorific): お頑張りになる
 ない形: 頑張らない
 なかった形: 頑張らなかった
+あれる形 (passive): 頑張られる
+尊敬語 (honorific): 頑張られる
 ば形 (if): 頑張れば
 可能形 (can): 頑張れる
-あれる形 (passive): 頑張られる
-出す形 (start): 頑張り出す
-尊敬語 (honorific): 頑張られる
-お〜になる (honorific): お頑張りになる
-そう (looks like): 頑張りそう
-おう (let's): 頑張ろう
+おう形 (let's): 頑張ろう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頑.html">頑</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_張.html">張</a>
 <!--ID: 1779388974996-->
@@ -683,19 +683,19 @@ laboratory #k #card
 
 to invite #card
 ほんやく: 誘う (さそ)
-ます形: 誘います
 て形: 誘って
 た形: 誘った
+ます形: 誘います
+出す形 (start): 誘い出す
+そう (looks like): 誘いそう
+お〜になる (honorific): お誘いになる
 ない形: 誘わない
 なかった形: 誘わなかった
+あれる形 (passive): 誘われる
+尊敬語 (honorific): 誘われる
 ば形 (if): 誘えば
 可能形 (can): 誘える
-あれる形 (passive): 誘われる
-出す形 (start): 誘い出す
-尊敬語 (honorific): 誘われる
-お〜になる (honorific): お誘いになる
-そう (looks like): 誘いそう
-おう (let's): 誘おう
+おう形 (let's): 誘おう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_誘.html">誘</a>
 <!--ID: 1779388975008-->
 
@@ -716,19 +716,19 @@ promise / to promise + verb, acceptance #card
 
 to protect / to keep #card
 ほんやく: 守る (まも)
-ます形: 守ります
 て形: 守って
 た形: 守った
+ます形: 守ります
+出す形 (start): 守り出す
+そう (looks like): 守りそう
+お〜になる (honorific): お守りになる
 ない形: 守らない
 なかった形: 守らなかった
+あれる形 (passive): 守られる
+尊敬語 (honorific): 守られる
 ば形 (if): 守れば
 可能形 (can): 守れる
-あれる形 (passive): 守られる
-出す形 (start): 守り出す
-尊敬語 (honorific): 守られる
-お〜になる (honorific): お守りになる
-そう (looks like): 守りそう
-おう (let's): 守ろう
+おう形 (let's): 守ろう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_守.html">守</a>
 <!--ID: 1779388975011-->
 
@@ -810,19 +810,19 @@ Ginza line #k #card
 
 to spend / to pass #card
 ほんやく: 過ごす (すご)
-ます形: 過ごします
 て形: 過ごして
 た形: 過ごした
+ます形: 過ごします
+出す形 (start): 過ごし出す
+そう (looks like): 過ごしそう
+お〜になる (honorific): お過ごしになる
 ない形: 過ごさない
 なかった形: 過ごさなかった
+あれる形 (passive): 過ごされる
+尊敬語 (honorific): 過ごされる
 ば形 (if): 過ごせば
 可能形 (can): 過ごせる
-あれる形 (passive): 過ごされる
-出す形 (start): 過ごし出す
-尊敬語 (honorific): 過ごされる
-お〜になる (honorific): お過ごしになる
-そう (looks like): 過ごしそう
-おう (let's): 過ごそう
+おう形 (let's): 過ごそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_過.html">過</a>
 <!--ID: 1779388975022-->
 
@@ -836,19 +836,19 @@ plan / to plan + verb #card
 
 to slide #card
 ほんやく: 滑る (すべ)
-ます形: 滑ります
 て形: 滑って
 た形: 滑った
+ます形: 滑ります
+出す形 (start): 滑り出す
+そう (looks like): 滑りそう
+お〜になる (honorific): お滑りになる
 ない形: 滑らない
 なかった形: 滑らなかった
+あれる形 (passive): 滑られる
+尊敬語 (honorific): 滑られる
 ば形 (if): 滑れば
 可能形 (can): 滑れる
-あれる形 (passive): 滑られる
-出す形 (start): 滑り出す
-尊敬語 (honorific): 滑られる
-お〜になる (honorific): お滑りになる
-そう (looks like): 滑りそう
-おう (let's): 滑ろう
+おう形 (let's): 滑ろう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_滑.html">滑</a>
 <!--ID: 1779388975024-->
 
@@ -868,19 +868,19 @@ countryside / hometown #k #card
 
 to get used to + particle #card
 ほんやく: (に)慣れる (な)
-ます形: 慣れます
 て形: 慣れて
 た形: 慣れた
+ます形: 慣れます
+出す形 (start): 慣れ出す
+そう (looks like): 慣れそう
+お〜になる (honorific): お慣れになる
 ない形: 慣れない
 なかった形: 慣れなかった
+あれる形 (passive): 慣れられる
+尊敬語 (honorific): 慣れられる
 ば形 (if): 慣れれば
 可能形 (can): 慣れられる
-あれる形 (passive): 慣れられる
-出す形 (start): 慣れ出す
-尊敬語 (honorific): 慣れられる
-お〜になる (honorific): お慣れになる
-そう (looks like): 慣れそう
-おう (let's): 慣れよう
+おう形 (let's): 慣れよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_慣.html">慣</a>
 <!--ID: 1779388975027-->
 
@@ -926,19 +926,19 @@ address #k #card
 
 to drop / to throw down #card
 ほんやく: 落す (おと)
-ます形: 落します
 て形: 落して
 た形: 落した
+ます形: 落します
+出す形 (start): 落し出す
+そう (looks like): 落しそう
+お〜になる (honorific): お落しになる
 ない形: 落さない
 なかった形: 落さなかった
+あれる形 (passive): 落される
+尊敬語 (honorific): 落される
 ば形 (if): 落せば
 可能形 (can): 落せる
-あれる形 (passive): 落される
-出す形 (start): 落し出す
-尊敬語 (honorific): 落される
-お〜になる (honorific): お落しになる
-そう (looks like): 落しそう
-おう (let's): 落そう
+おう形 (let's): 落そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_落.html">落</a>
 <!--ID: 1779388975033-->
 
@@ -1005,19 +1005,19 @@ yamada reliably does his work #k #card
 
 to hold #card
 ほんやく: つかまる
-ます形: つかまります
 て形: つかまって
 た形: つかまった
+ます形: つかまります
+出す形 (start): つかまり出す
+そう (looks like): つかまりそう
+お〜になる (honorific): おつかまりになる
 ない形: つかまらない
 なかった形: つかまらなかった
+あれる形 (passive): つかまられる
+尊敬語 (honorific): つかまられる
 ば形 (if): つかまれば
 可能形 (can): つかまれる
-あれる形 (passive): つかまられる
-出す形 (start): つかまり出す
-尊敬語 (honorific): つかまられる
-お〜になる (honorific): おつかまりになる
-そう (looks like): つかまりそう
-おう (let's): つかまろう
+おう形 (let's): つかまろう
 <!--ID: 1779388975043-->
 
 
@@ -1073,19 +1073,19 @@ failed exam #k #card
 
 to win + particle #card
 ほんやく: (に)勝つ (か)
-ます形: 勝ちます
 て形: 勝って
 た形: 勝った
+ます形: 勝ちます
+出す形 (start): 勝ち出す
+そう (looks like): 勝ちそう
+お〜になる (honorific): お勝ちになる
 ない形: 勝たない
 なかった形: 勝たなかった
+あれる形 (passive): 勝たれる
+尊敬語 (honorific): 勝たれる
 ば形 (if): 勝てば
 可能形 (can): 勝てる
-あれる形 (passive): 勝たれる
-出す形 (start): 勝ち出す
-尊敬語 (honorific): 勝たれる
-お〜になる (honorific): お勝ちになる
-そう (looks like): 勝ちそう
-おう (let's): 勝とう
+おう形 (let's): 勝とう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勝.html">勝</a>
 <!--ID: 1779388975051-->
 
@@ -1100,19 +1100,19 @@ Team A beat Team B in the soccer game #k #card
 
 to lose + particle #card
 ほんやく: (に)負ける (ま)
-ます形: 負けます
 て形: 負けて
 た形: 負けた
+ます形: 負けます
+出す形 (start): 負け出す
+そう (looks like): 負けそう
+お〜になる (honorific): お負けになる
 ない形: 負けない
 なかった形: 負けなかった
+あれる形 (passive): 負けられる
+尊敬語 (honorific): 負けられる
 ば形 (if): 負ければ
 可能形 (can): 負けられる
-あれる形 (passive): 負けられる
-出す形 (start): 負け出す
-尊敬語 (honorific): 負けられる
-お〜になる (honorific): お負けになる
-そう (looks like): 負けそう
-おう (let's): 負けよう
+おう形 (let's): 負けよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_負.html">負</a>
 <!--ID: 1779388975053-->
 

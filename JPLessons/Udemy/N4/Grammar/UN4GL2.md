@@ -329,19 +329,19 @@ Structure:
 
 to put in order / tidy something up #card
 ほんやく: (を)片付ける（かたづける）
-ます形: 片付けます
 て形: 片付けて
 た形: 片付けた
+ます形: 片付けます
+出す形 (start): 片付け出す
+そう (looks like): 片付けそう
+お〜になる (honorific): お片付けになる
 ない形: 片付けない
 なかった形: 片付けなかった
+あれる形 (passive): 片付けられる
+尊敬語 (honorific): 片付けられる
 ば形 (if): 片付ければ
 可能形 (can): 片付けられる
-あれる形 (passive): 片付けられる
-出す形 (start): 片付け出す
-尊敬語 (honorific): 片付けられる
-お〜になる (honorific): お片付けになる
-そう (looks like): 片付けそう
-おう (let's): 片付けよう
+おう形 (let's): 片付けよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_片.html">片</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 <!--ID: 1777104965302-->
@@ -350,19 +350,19 @@ to put in order / tidy something up #card
 
 to be put in order #card
 ほんやく: (が)片付く（かたづく）
-ます形: 片付きます
 て形: 片付いて
 た形: 片付いた
+ます形: 片付きます
+出す形 (start): 片付き出す
+そう (looks like): 片付きそう
+お〜になる (honorific): お片付きになる
 ない形: 片付かない
 なかった形: 片付かなかった
+あれる形 (passive): 片付かれる
+尊敬語 (honorific): 片付かれる
 ば形 (if): 片付けば
 可能形 (can): 片付ける
-あれる形 (passive): 片付かれる
-出す形 (start): 片付き出す
-尊敬語 (honorific): 片付かれる
-お〜になる (honorific): お片付きになる
-そう (looks like): 片付きそう
-おう (let's): 片付こう
+おう形 (let's): 片付こう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_片.html">片</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 <!--ID: 1777104965304-->
@@ -371,19 +371,19 @@ to be put in order #card
 
 to burn #card
 ほんやく: (が)燃える（もえる）
-ます形: 燃えます
 て形: 燃えて
 た形: 燃えた
+ます形: 燃えます
+出す形 (start): 燃え出す
+そう (looks like): 燃えそう
+お〜になる (honorific): お燃えになる
 ない形: 燃えない
 なかった形: 燃えなかった
+あれる形 (passive): 燃えられる
+尊敬語 (honorific): 燃えられる
 ば形 (if): 燃えれば
 可能形 (can): 燃えられる
-あれる形 (passive): 燃えられる
-出す形 (start): 燃え出す
-尊敬語 (honorific): 燃えられる
-お〜になる (honorific): お燃えになる
-そう (looks like): 燃えそう
-おう (let's): 燃えよう
+おう形 (let's): 燃えよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_燃.html">燃</a>
 <!--ID: 1777104965305-->
 
@@ -391,19 +391,19 @@ to burn #card
 
 to throw away #card
 ほんやく: 捨てる（すてる）
-ます形: 捨てます
 て形: 捨てて
 た形: 捨てた
+ます形: 捨てます
+出す形 (start): 捨て出す
+そう (looks like): 捨てそう
+お〜になる (honorific): お捨てになる
 ない形: 捨てない
 なかった形: 捨てなかった
+あれる形 (passive): 捨てられる
+尊敬語 (honorific): 捨てられる
 ば形 (if): 捨てれば
 可能形 (can): 捨てられる
-あれる形 (passive): 捨てられる
-出す形 (start): 捨て出す
-尊敬語 (honorific): 捨てられる
-お〜になる (honorific): お捨てになる
-そう (looks like): 捨てそう
-おう (let's): 捨てよう
+おう形 (let's): 捨てよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_捨.html">捨</a>
 <!--ID: 1777104965306-->
 
@@ -411,19 +411,19 @@ to throw away #card
 
 to put into #k #card
 ほんやく: 入れる（いれる）
-ます形: 入れます
 て形: 入れて
 た形: 入れた
+ます形: 入れます
+出す形 (start): 入れ出す
+そう (looks like): 入れそう
+お〜になる (honorific): お入れになる
 ない形: 入れない
 なかった形: 入れなかった
+あれる形 (passive): 入れられる
+尊敬語 (honorific): 入れられる
 ば形 (if): 入れれば
 可能形 (can): 入れられる
-あれる形 (passive): 入れられる
-出す形 (start): 入れ出す
-尊敬語 (honorific): 入れられる
-お〜になる (honorific): お入れになる
-そう (looks like): 入れそう
-おう (let's): 入れよう
+おう形 (let's): 入れよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1777104965307-->
 
@@ -431,19 +431,19 @@ to put into #k #card
 
 to propose / to apply for #card
 ほんやく: 申し込む（もうしこむ）
-ます形: 申し込みます
 て形: 申し込んで
 た形: 申し込んだ
+ます形: 申し込みます
+出す形 (start): 申し込み出す
+そう (looks like): 申し込みそう
+お〜になる (honorific): お申し込みになる
 ない形: 申し込まない
 なかった形: 申し込まなかった
+あれる形 (passive): 申し込まれる
+尊敬語 (honorific): 申し込まれる
 ば形 (if): 申し込めば
 可能形 (can): 申し込める
-あれる形 (passive): 申し込まれる
-出す形 (start): 申し込み出す
-尊敬語 (honorific): 申し込まれる
-お〜になる (honorific): お申し込みになる
-そう (looks like): 申し込みそう
-おう (let's): 申し込もう
+おう形 (let's): 申し込もう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_申.html">申</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_込.html">込</a>
 <!--ID: 1777104965308-->
@@ -452,19 +452,19 @@ to propose / to apply for #card
 
 to be different from / to be wrong #card
 ほんやく: (と/が)違う（ちがう）
-ます形: 違います
 て形: 違って
 た形: 違った
+ます形: 違います
+出す形 (start): 違い出す
+そう (looks like): 違いそう
+お〜になる (honorific): お違いになる
 ない形: 違わない
 なかった形: 違わなかった
+あれる形 (passive): 違われる
+尊敬語 (honorific): 違われる
 ば形 (if): 違えば
 可能形 (can): 違える
-あれる形 (passive): 違われる
-出す形 (start): 違い出す
-尊敬語 (honorific): 違われる
-お〜になる (honorific): お違いになる
-そう (looks like): 違いそう
-おう (let's): 違おう
+おう形 (let's): 違おう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_違.html">違</a>
 <!--ID: 1777104965309-->
 
@@ -472,19 +472,19 @@ to be different from / to be wrong #card
 
 to carry #k #card
 ほんやく: 運ぶ（はこぶ）
-ます形: 運びます
 て形: 運んで
 た形: 運んだ
+ます形: 運びます
+出す形 (start): 運び出す
+そう (looks like): 運びそう
+お〜になる (honorific): お運びになる
 ない形: 運ばない
 なかった形: 運ばなかった
+あれる形 (passive): 運ばれる
+尊敬語 (honorific): 運ばれる
 ば形 (if): 運べば
 可能形 (can): 運べる
-あれる形 (passive): 運ばれる
-出す形 (start): 運び出す
-尊敬語 (honorific): 運ばれる
-お〜になる (honorific): お運びになる
-そう (looks like): 運びそう
-おう (let's): 運ぼう
+おう形 (let's): 運ぼう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <!--ID: 1777104965310-->
 
@@ -492,19 +492,19 @@ to carry #k #card
 
 to move (to a new location) #card
 ほんやく: (へ・に)引っ越す（ひっこす）
-ます形: 引っ越します
 て形: 引っ越して
 た形: 引っ越した
+ます形: 引っ越します
+出す形 (start): 引っ越し出す
+そう (looks like): 引っ越しそう
+お〜になる (honorific): お引っ越しになる
 ない形: 引っ越さない
 なかった形: 引っ越さなかった
+あれる形 (passive): 引っ越される
+尊敬語 (honorific): 引っ越される
 ば形 (if): 引っ越せば
 可能形 (can): 引っ越せる
-あれる形 (passive): 引っ越される
-出す形 (start): 引っ越し出す
-尊敬語 (honorific): 引っ越される
-お〜になる (honorific): お引っ越しになる
-そう (looks like): 引っ越しそう
-おう (let's): 引っ越そう
+おう形 (let's): 引っ越そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_越.html">越</a>
 <!--ID: 1777104965311-->
@@ -513,38 +513,38 @@ to move (to a new location) #card
 
 to give something or do something for the speaker #card
 ほんやく: くれる
-ます形: くれます
 て形: くれて
 た形: くれた
+ます形: くれます
+出す形 (start): くれ出す
+そう (looks like): くれそう
+お〜になる (honorific): おくれになる
 ない形: くれない
 なかった形: くれなかった
+あれる形 (passive): くれられる
+尊敬語 (honorific): くれられる
 ば形 (if): くれれば
 可能形 (can): くれられる
-あれる形 (passive): くれられる
-出す形 (start): くれ出す
-尊敬語 (honorific): くれられる
-お〜になる (honorific): おくれになる
-そう (looks like): くれそう
-おう (let's): くれよう
+おう形 (let's): くれよう
 <!--ID: 1777104965312-->
 
 
 
 to help #k #card
 ほんやく: 手伝う（てつだう）
-ます形: 手伝います
 て形: 手伝って
 た形: 手伝った
+ます形: 手伝います
+出す形 (start): 手伝い出す
+そう (looks like): 手伝いそう
+お〜になる (honorific): お手伝いになる
 ない形: 手伝わない
 なかった形: 手伝わなかった
+あれる形 (passive): 手伝われる
+尊敬語 (honorific): 手伝われる
 ば形 (if): 手伝えば
 可能形 (can): 手伝える
-あれる形 (passive): 手伝われる
-出す形 (start): 手伝い出す
-尊敬語 (honorific): 手伝われる
-お〜になる (honorific): お手伝いになる
-そう (looks like): 手伝いそう
-おう (let's): 手伝おう
+おう形 (let's): 手伝おう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伝.html">伝</a>
 <!--ID: 1777104965313-->

@@ -141,72 +141,94 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
  Rzeczowniki:
 
  top of the mountain #card
-Tłumaczenie: 山の上(やまのうえ) 
+ほんやく: 山の上(やまのうえ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1761658965598-->
 
 
  near the river #card
-Tłumaczenie: 川の近く(かわのちかく) 
+ほんやく: 川の近く(かわのちかく) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_川.html">川</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <!--ID: 1761658965600-->
 
 
  river (formal name, river category)  #card
-Tłumaczenie: 河川（かせん）
+ほんやく: 河川（かせん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_河.html">河</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_川.html">川</a>
 <!--ID: 1761658965602-->
 
 
  ceiling #card
-Tłumaczenie: 天井（てんじょう) 
+ほんやく: 天井（てんじょう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_井.html">井</a>
 <!--ID: 1761658965603-->
 
 
  tenpura #card
-Tłumaczenie: 天ぷら（てん) 
+ほんやく: 天ぷら（てん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <!--ID: 1761658965604-->
 
 
  feeling #card
-Tłumaczenie: 気持ち (きもち) 
+ほんやく: 気持ち (きもち) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 <!--ID: 1761658965605-->
 
 
  rice field #card
-Tłumaczenie: 田んぼ（た）
+ほんやく: 田んぼ（た）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1761658965606-->
 
 
  rural district, countryside #card
-Tłumaczenie: 田園（でんえん）
+ほんやく: 田園（でんえん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_園.html">園</a>
 <!--ID: 1761658965607-->
 
 
  water #card
-Tłumaczenie: 水田（すいでん) 
+ほんやく: 水田（すいでん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1761658965608-->
 
 
  heavy rain #card
-Tłumaczenie: 大雨(おおあめ) 
+ほんやく: 大雨(おおあめ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <!--ID: 1761658965609-->
 
 
  rainy day #card
-Tłumaczenie: あめのひ（あめのひ) 
+ほんやく: あめのひ（あめのひ) 
 <!--ID: 1761658965610-->
 
 
  thunderstorm #card
-Tłumaczenie: 雷雨(らいう) 
+ほんやく: 雷雨(らいう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雷.html">雷</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <!--ID: 1761658965611-->
 
 
  rainy season #card
-Tłumaczenie: 雨季(うき) 
+ほんやく: 雨季(うき) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_季.html">季</a>
 <!--ID: 1761658965612-->
 
 
  chair/krzeslo #card
-Tłumaczenie: いす 
+ほんやく: いす 
 <!--ID: 1761658965613-->
 
 

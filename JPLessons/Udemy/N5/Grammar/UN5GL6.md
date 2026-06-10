@@ -1585,19 +1585,19 @@ to hurry #card
 
 straight  #card
 ほんやく: まっすぐ（な）
+そう (looks like): まっすぐそう
 過去形: —  
 否定形: —  
 副詞形: —  
-そう (looks like): まっすぐそう
 <!--ID: 1762324555142-->
 
 
 
 close by, immediately, right/just #card
 ほんやく: すぐ（な）
+そう (looks like): すぐそう
 過去形: —  
 否定形: —  
 副詞形: —  
-そう (looks like): すぐそう
 <!--ID: 1762324555143-->
 

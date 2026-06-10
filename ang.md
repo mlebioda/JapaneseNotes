@@ -1234,3 +1234,6 @@ mound
  actually 
  in fact
  to take somebody along with
+ to be excused 
+ to what extent
+ to praise

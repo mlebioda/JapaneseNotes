@@ -13,6 +13,8 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL8-I-Was-Asked-to-do-Work-related-t
 #w 把握(はあく)(する) - to grasp / to fully understand + verb
 #w 理解する - to understand through practice
 
+#w いや - unpleasant / hate / no way
+
 ---
 
 #w 大きさ(おおきさ) - size
@@ -153,8 +155,12 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL8-I-Was-Asked-to-do-Work-related-t
 #w この船（ふね）の大きさは（おお）どれぐらいありますか - how large (size) is this ship?
 #wc **褒める(ほめる)** — to praise / to compliment
 
+#w 招待(しょうたい)(する) - invitation / to invite + verb (formal)
 
+#w さっき - just now / a moment ago
+#w 知(し)らない人(ひと) - stranger
 
+#w 小説（しょうせつ）- novel
 # ひょうげん
 
 
@@ -164,17 +170,19 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL8-I-Was-Asked-to-do-Work-related-t
 #w どれぐらい日本(にほん)にいる予定(よてい)ですか。 - How long do you plan to be in Japan?
 #w あれ。 - Eh? / Ah!
 #w あれ？私（わたし）の財布（さいふ）は？ - EH? Where is my wallet?
-
+#wc 踏む(ふ) - to step (on)
 # 文法
 
 ## 受身系（うけみけい）- passive form
+
+### What is?
 
 Active form:
 - 先生（せんせい）は学生（がくせい）を褒（ほ）める　- The teacher praise students
 Passive form
 - 学生（がくせい）は 先生（せんせい）に褒（ほ）め**られる**　- Students are praised by teacher
 
-How to make passive form:
+### Making verbs-passive form
 
 **Group 1 (G1) — う verbs** Change the last kana to its あ-row equivalent + れる
 - う → われる
@@ -204,12 +212,165 @@ How to make passive form:
 **Group 3 (G3) — irregular**
 - する → される — to do → to be done
 - くる → こられる — to come → to be come to
-### Examples
+
+### Use cases 
+
+#### N1 + は  + N2 + に + V「passive form」- **N1 was V by N2**
+##### Structure
+-  N1 + は  + N2 + に + V「passive form」- **N1 was V by N2**
+	- 私（わたし）は母（はは）**に**叱**られました**（しか） - I was scolded by my mom
+
+##### Examples
 
 #w 先生（せんせい）は学生（がくせい）を褒（ほ）める　- The teacher praise students
 #w 先生（せんせい）は学生（がくせい）に褒（ほ）め**られる**　- The teacher praise students
 
+#w 私（わたし）は母（はは）に叱られました（しか） - I was scolded by my mom
+
+#w 安藤(あんどう)さんは部長(ぶちょう)にほめられました。 - Miss Ando was praised by the general manager.
+#w わたしとラジさんは社長(しゃちょう)にパーティーに招待(しょうたい)されました。 - Raj and I were invited to a party by the company president.
+#w さっき知(し)らない人(ひと)に道(みち)を聞(き)かれました。 - I was asked about the way by a stranger just now.
+
+---
+#### N1 + は  + N2 + に N3 + を + V「passive form」- representing bad/good result of action on someone
+##### Structure
+-  N1 + は  + N2 + に N3 + を + V「passive form」- representing bad result of action
+	- N1 - receives bad action (can be omitted when it obvious)
+	- N2 - initiate the action
+	- N3 - is the thing that is harmed (body or possession) 
+	- Example:
+		- 電車（でんしゃ）の中（なか）で私（わたし）**は**となりの人（ひと）**に**足（あし）**を**ふまれました - The person next to me stepped on my foot on train
+	- Good action examples:
+		- 私(わたし)は先生(せんせい)に作文(さくぶん)を褒(ほ)められた。 - I was praised by the teacher for my composition.
+
+##### Examples
+ #w 電車（でんしゃ）の中（なか）で私（わたし）**は**となりの人（ひと）**に**足（あし）**を**ふまれました - The person next to me stepped on my foot on train
+
+#w A: その手（て）、どうしたの？ B: 犬（犬）に手（て）をかまれちゃった - A: What's wrong with your hand? B: I had my hand bitten by a dog
+
+#w 弟(おとうと)は泥棒(どろぼう)にさいふを盗(ぬす)まれました。 - My younger brother had his wallet stolen by a thief.
+#w 妹(いもうと)**に**大好(だいす)きなケーキ**を**全部(ぜんぶ)食(た)べ**られた**。 - My favorite cake was eaten entirely by my younger sister.
+
+#w 私(わたし)は先生(せんせい)に作文(さくぶん)を褒(ほ)められた。 - I was praised by the teacher for my composition.
+
+
+---
+#### N + は/が + V 「passive form」- passing informations
+##### Structure
+- N + は/が + V 「passive form」
+	- Use cases
+		- express something or facts that are important
+			- この寺(てら)は江戸時代(えどじだい)に建(た)てられました。 - The temple was built in the Edo Period.
+		- Multiple people or speaker cannot identify the initiators of the action
+			- この小説（しょうせつ）は世界中（せかいじゅう）で読まれています（よ） - This novel is read all over the world
+
+##### Examples
+#w この小説（しょうせつ）**は**世界中（せかいじゅう）で読ま**れています**（よ） - This novel is read all over the world
+
+#w この寺(てら)は江戸時代(えどじだい)に建(た)てられました。 - The temple was built in the Edo Period.
+#w この絵(え)は17世紀(せいき)に描(か)かれました。 - This picture was drawn in the 17th century.
+#w 電報(でんぽう)はいつ発明(はつめい)されたの？ - When was the telegram invented?
+
 ---
 
+#### N + は/が N + から/で + V 「passive form」- Material, ingredient
+##### Structure
+-  N + は/が N + から/で + V 「passive form」- Material, ingredient
+	1. から - made from (material transforms completely) 
+		1. ワインは葡萄（ぶどう）**から** 作られました（つく） - wine is made **from** grapes
+	2. で - made of (material is still visible)
+		1. この家（いえ）は木（き）で作られました（つく）- this house is made **of** wood
+##### Examples
+
+#w ワインは葡萄（ぶどう）**から** 作られました（つく） - wine is made from grapes
+#w この家（いえ）は木（き）**で**作られました（つく）- this house is made from wood
+
+---
+
+## 。。。ても。。。
+
+### Use cases 
+#### 。。。ても。。。- even if, even though
+
+- A ても B - B happens regardless of the situation of A
+- Often used with 
+	- たとえ
+	- もし
+
+##### Structure
+- V「て」も。。。
+- いadj　 (く)ても。。。
+	- 寒（さむ）**くても**泳（およ）ぎます - I will swim even if it is cold
+- V「ない」(く)ても。。。  - (behaves here as adjective)
+	- まだ時間（じかん）があるから、急（いそ）がな**くても** 電車（でんしゃ）に間に合います（まにあいます）- Because we still have time left, we can catch train **even if** we are not in a hurry
+- なadj　でも。。。
+	- いや**でも**、宿題（しゅくだい）をやらなくちゃ - I still have to do homework **even though** I hate it
+- N　　　でも。。。
+	- **たとえ**雨（あめ）**でも** 自転車（じてんしゃ）で学校（がっこう）に行きます（い）- I go to shool by bicycle **even if** its rains
+
+##### Examples
+
+#w まだ時間（じかん）があるから、急（いそ）がなく**ても** 電車（でんしゃ）に間に合います（まにあいます）- Because we still have time left, we can catch train **even if** we are not in a hurry
+
+#w 寒（さむ）**くても**泳（およ）ぎます - I will swim even if it is cold
+
+#w いや**でも**、宿題（しゅくだい）をやらなくちゃ - I still have to do homework **even though** I hate it
+
+#w たとえ.... + ても - Even if structure (emphasize no matter what)　more stronger 
+
+#w **たとえ**雨（あめ）**でも** 自転車（じてんしゃ）で学校（がっこう）に行きます（い）- **Even if** its rains, I go to school by bicycle (emphasize no matter what)
+
+---
+### interrogative + ても.... - no matter
+
+interrogatives are:
+- **何(なに/なん)** — what
+- **誰(だれ)** — who
+- **どこ** — where
+- **いつ** — when
+- **なぜ/どうして** — why
+- **どう/どのように** — how
+- **どれ** — which (of many)
+- **どちら** — which (of two) / where (polite)
+- **いくつ** — how many
+- **いくら** — how much (price)
+- **どのくらい/どれぐらい** — how long / how much (extent)
+
+#### Structure
+
+- 何(なに) — no matter what / anything:
+    - 何(なに)を言(い)われても気持(きも)ちは変(か)わらない。 - No matter what you say, my feelings won't change.
+- 誰(だれ) — no matter who / anyone:
+    - 誰(だれ)に聞(き)いても答(こた)えがわからない。 - No matter who I ask, nobody knows the answer.
+- どこ — no matter where / anywhere:
+    - どこに行(い)っても友達(ともだち)ができる。 - No matter where I go, I make friends.
+- いつ — no matter when / anytime:
+    - いつ電話(でんわ)しても出(で)ない。 - No matter when I call, he doesn't answer.
+- どんな — no matter what kind / any kind:
+    - どんな歌(うた)でも歌(うた)える。 - I can sing any song.
+- いくら — no matter how much:
+    - いくら食(た)べても太(ふと)らない。 - No matter how much I eat, I don't gain weight.
+
+
+#### Examples
+
+#w 何(なに)を言(い)われても、わたしの気持(きも)ちは変(か)わりません。 - No matter what you say to me, my feelings won't change.
+#w 山田(やまだ)さんはどんな歌(うた)でも歌(うた)える。 - Mr. Yamada can sing any song.
+
+#w 何(なに)を言(い)われても気持(きも)ちは変(か)わらない。 - No matter what you say, my feelings won't change.
+#w 何(なに)でも食(た)べられる。 - I can eat anything.
+
+#w 誰(だれ)に聞(き)いても答(こた)えがわからない。 - No matter who I ask, nobody knows the answer. 
+#w 誰(だれ)でも間違(まちが)える。 - Anyone can make mistakes.
+
+#w いつ電話(でんわ)しても出(で)ない。 - No matter when I call, he doesn't answer. 
+#w いつでも来(き)てください。 - Please come anytime.
+
+
+
+#w どんな歌(うた)でも歌(うた)える。 - I can sing any song. #w どんなに難(むずか)しくても諦(あきら)めない。 - No matter how hard it is, I won't give up.
+
+#w いくら食(た)べても太(ふと)らない。 - No matter how much I eat, I don't gain weight.
 
 # Summary
+

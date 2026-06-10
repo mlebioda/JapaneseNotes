@@ -131,22 +131,30 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
  Rzeczowniki:
 
  chiba prefecture #card
-Tłumaczenie: 千葉県（ちばけん) 
+ほんやく: 千葉県（ちばけん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_葉.html">葉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_県.html">県</a>
 <!--ID: 1776605751279-->
 
 
  all nations, narody świata  #card
-Tłumaczenie: 万国（ばんこく）
+ほんやく: 万国（ばんこく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1776605751280-->
 
 
  draw a circle #card
-Tłumaczenie: 円を書く（えん、か）
+ほんやく: 円を書く（えん、か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_円.html">円</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1776605751281-->
 
 
  circle #card
-Tłumaczenie: 円（えん） 
+ほんやく: 円（えん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_円.html">円</a>
 <!--ID: 1761660075874-->
 
 
@@ -154,107 +162,148 @@ Tłumaczenie: 円（えん）
 円い（まるい）– okrągły (kształt)
 
  ta moneta jest okrągła #card
-Tłumaczenie: このコインは円いです 
+ほんやく: このコインは円いです 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_円.html">円</a>
 <!--ID: 1761660075880-->
 
 
  in front of the river #card
-Tłumaczenie: 川の前（かわのまえ) 
+ほんやく: 川の前（かわのまえ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_川.html">川</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <!--ID: 1776605751282-->
 
 
  name #card
-Tłumaczenie: 名前（なまえ）
+ほんやく: 名前（なまえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <!--ID: 1761660075887-->
 
 
  the first half #card
-Tłumaczenie: 前半（ぜんはん) 
+ほんやく: 前半（ぜんはん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_半.html">半</a>
 <!--ID: 1776605751283-->
 
 
  przed południem  #card
-Tłumaczenie: 午前（ごぜん） 
+ほんやく: 午前（ごぜん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_午.html">午</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <!--ID: 1761660075894-->
 
 
  there is a rice field behind the mountain #card
-Tłumaczenie: 山の後ろに田んぼがあります（やま、うし）
+ほんやく: 山の後ろに田んぼがあります（やま、うし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1776605751285-->
 
 
  to drink coffee later #card
-Tłumaczenie: 後で、コーヒーを飲む 
+ほんやく: 後で、コーヒーを飲む 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
 <!--ID: 1776605751286-->
 
 
  back and forth (tam i z powrotem) #card
-Tłumaczenie: 前後（ぜんご) 
+ほんやく: 前後（ぜんご) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
 <!--ID: 1776605751288-->
 
 
  the latter half #card
-Tłumaczenie: 後半（こうはん）
+ほんやく: 後半（こうはん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_半.html">半</a>
 <!--ID: 1776605751289-->
 
 
  look at the left side #card
-Tłumaczenie: 左を見る（ひだり、み) 
+ほんやく: 左を見る（ひだり、み) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_左.html">左</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1776605751290-->
 
 
  right hand #card
-Tłumaczenie: 右手（みぎて) 
+ほんやく: 右手（みぎて) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_右.html">右</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1776605751291-->
 
 
  left and right #card
-Tłumaczenie: 左右（さゆう) 
+ほんやく: 左右（さゆう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_左.html">左</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_右.html">右</a>
 <!--ID: 1776605751292-->
 
 
  top of the mountain #card
-Tłumaczenie: 山の上（やまのうえ) 
+ほんやく: 山の上（やまのうえ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1776605751293-->
 
 
  an elevator goes up #card
-Tłumaczenie: エレベータが上がる（あ) 
+ほんやく: エレベータが上がる（あ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1776605751294-->
 
 
   water ski #card
-Tłumaczenie: 水上スキー 
+ほんやく: 水上スキー 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1776605751295-->
 
 
  good at #card
-Tłumaczenie: 上手な(じょうず) 
+ほんやく: 上手な(じょうず) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1761660075928-->
 
 
  under the desk #card
-Tłumaczenie: 机の下（つくえ、した) 
+ほんやく: 机の下（つくえ、した) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <!--ID: 1776605751297-->
 
 
  elevator goes down #card
-Tłumaczenie: エレベーターが下がる（さ) 
+ほんやく: エレベーターが下がる（さ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <!--ID: 1776605751298-->
 
 
  subway #card
-Tłumaczenie: 地下鉄（ちかてつ) 
+ほんやく: 地下鉄（ちかてつ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_地.html">地</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鉄.html">鉄</a>
 <!--ID: 1776605751299-->
 
 
  up and down #card
-Tłumaczenie: 上下（じょうげ) 
+ほんやく: 上下（じょうげ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <!--ID: 1776605751300-->
 
 
  poor at #card
-Tłumaczenie: 下手な（へた） 
+ほんやく: 下手な（へた） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1761660075945-->
 
 
@@ -263,68 +312,104 @@ Tłumaczenie: 下手な（へた）
  Czasowniki:
  
 turn left(noun can be verb) #card
-Tłumaczenie: 左折（させつ)  
-Forma masu: させつします  
-Forma te: させつして  
-Forma ta: させつした  
-Forma nai: させつしない  
-Forma katta: させつしなかった  
-Forma ba: させつすれば
+ほんやく: 左折（させつ)  
+ます形: させつします  
+て形: させつして  
+た形: させつした  
+ない形: させつしない  
+なかった形: させつしなかった  
+ば形 (if): させつすれば
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_左.html">左</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_折.html">折</a>
 <!--ID: 1761660075950-->
 
 
 turn right (noun can be verb) #card
-Tłumaczenie: 右折（うせつ)  
-Forma masu: うせつします  
-Forma te: うせつして  
-Forma ta: うせつした  
-Forma nai: うせつしない  
-Forma katta: うせつしなかった  
-Forma ba: うせつすれば
+ほんやく: 右折（うせつ)  
+ます形: うせつします  
+て形: うせつして  
+た形: うせつした  
+ない形: うせつしない  
+なかった形: うせつしなかった  
+ば形 (if): うせつすれば
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_右.html">右</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_折.html">折</a>
 <!--ID: 1761660075953-->
 
 
 go up (object rise) #card
-Tłumaczenie: 上がる（あ）  
-Forma masu: あがります  
-Forma te: あがって  
-Forma ta: あがった  
-Forma nai: あがらない  
-Forma katta: あがらなかった  
-Forma ba: あがれば
+ほんやく: 上がる（あ）  
+て形: あがって
+た形: あがった
+ます形: あがります
+出す形 (start): あがり出す
+そう (looks like): あがりそう
+お〜になる (honorific): お上がりになる
+ない形: あがらない
+なかった形: あがらなかった
+受身形 (passive): あがられる
+尊敬語 (honorific): あがられる
+ば形 (if): あがれば
+可能形 (can): あがれる
+おう形 (let's): あがろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1761660075955-->
 
 
 to go up, to climb, ascend (someone) #card
-Tłumaczenie: 上る（のぼ）  
-Forma masu: のぼります  
-Forma te: のぼって  
-Forma ta: のぼった  
-Forma nai: のぼらない  
-Forma katta: のぼらなかった  
-Forma ba: のぼれば
+ほんやく: 上る（のぼ）  
+て形: のぼって
+た形: のぼった
+ます形: のぼります
+出す形 (start): のぼり出す
+そう (looks like): のぼりそう
+お〜になる (honorific): お上りになる
+ない形: のぼらない
+なかった形: のぼらなかった
+受身形 (passive): のぼられる
+尊敬語 (honorific): のぼられる
+ば形 (if): のぼれば
+可能形 (can): のぼれる
+おう形 (let's): のぼろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1761660075958-->
 
 
 go down (object) #card
-Tłumaczenie: 下がる（さ）  
-Forma masu: さがります  
-Forma te: さがって  
-Forma ta: さがった  
-Forma nai: さがらない  
-Forma katta: さがらなかった  
-Forma ba: さがれば
+ほんやく: 下がる（さ）  
+て形: さがって
+た形: さがった
+ます形: さがります
+出す形 (start): さがり出す
+そう (looks like): さがりそう
+お〜になる (honorific): お下がりになる
+ない形: さがらない
+なかった形: さがらなかった
+受身形 (passive): さがられる
+尊敬語 (honorific): さがられる
+ば形 (if): さがれば
+可能形 (can): さがれる
+おう形 (let's): さがろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <!--ID: 1761660075961-->
 
 
 to go down(someone) #card
-Tłumaczenie: 下る（くだ）  
-Forma masu: くだります  
-Forma te: くだって  
-Forma ta: くだった  
-Forma nai: くだらない  
-Forma katta: くだらなかった  
-Forma ba: くだれば
+ほんやく: 下る（くだ）  
+て形: くだって
+た形: くだった
+ます形: くだります
+出す形 (start): くだり出す
+そう (looks like): くだりそう
+お〜になる (honorific): お下りになる
+ない形: くだらない
+なかった形: くだらなかった
+受身形 (passive): くだられる
+尊敬語 (honorific): くだられる
+ば形 (if): くだれば
+可能形 (can): くだれる
+おう形 (let's): くだろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <!--ID: 1761660075964-->
 
 

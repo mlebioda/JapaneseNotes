@@ -309,7 +309,7 @@ hot #k #card
 過去形: 熱かった
 否定形: 熱くない
 副詞形: 熱く
-そう: 熱そう
+そう (looks like): 熱そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
 <!--ID: 1780853103433-->
 
@@ -372,19 +372,19 @@ My younger brother has a high fever #k #card
 
 to go regularly, attend #k #card
 ほんやく: 通う（かよ）
-ます形: 通います
 て形: 通って
 た形: 通った
+ます形: 通います
+出す形 (start): 通い出す
+そう (looks like): 通いそう
+お〜になる (honorific): お通いになる
 ない形: 通わない
 なかった形: 通わなかった
+あれる形 (passive): 通われる
+尊敬語 (honorific): 通われる
 ば形 (if): 通えば
 可能形 (can): 通える
-あれる形 (passive): 通われる
-出す形 (start): 通い出す
-尊敬語 (honorific): 通われる
-お〜になる (honorific): お通いになる
-そう (looks like): 通いそう
-おう (let's): 通おう
+おう形 (let's): 通おう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
 <!--ID: 1780853103466-->
 
@@ -419,19 +419,19 @@ I'm attending this university #k #card
 
 go through #k #card
 ほんやく: 通る（とお)
-ます形: 通ります
 て形: 通って
 た形: 通った
+ます形: 通ります
+出す形 (start): 通り出す
+そう (looks like): 通りそう
+お〜になる (honorific): お通りになる
 ない形: 通らない
 なかった形: 通らなかった
+あれる形 (passive): 通られる
+尊敬語 (honorific): 通られる
 ば形 (if): 通れば
 可能形 (can): 通れる
-あれる形 (passive): 通られる
-出す形 (start): 通り出す
-尊敬語 (honorific): 通られる
-お〜になる (honorific): お通りになる
-そう (looks like): 通りそう
-おう (let's): 通ろう
+おう形 (let's): 通ろう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
 <!--ID: 1780853103483-->
 
@@ -449,7 +449,7 @@ narrow #card
 過去形: 細かった
 否定形: 細くない
 副詞形: 細く
-そう: 細そう
+そう (looks like): 細そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_細.html">細</a>
 <!--ID: 1780853103492-->
 

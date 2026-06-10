@@ -12,11 +12,14 @@
   "past-negative:": "なかった形:",
   "conditional:": "ば形 (if):",
   "ba-form:": "ば形 (if):",
+  "ば形:": "ば形 (if):",
   "potential:": "可能形 (can):",
+  "られる形:": "可能形 (can):",
   "passive:": "あれる形 (passive): ",
   "られる形 (is done by):": "あれる形 (passive): ",
   "あれる形 (is done by):": "あれる形 (passive): ",
   "inceptive:": "出す形 (start):",
+  "出す形:": "出す形 (start):",
   "honorific:": "尊敬語 (honorific):",
   "volitional:": "おう形 (let's):",
   "ou-form:": "おう形 (let's):",
@@ -39,5 +42,9 @@
   "past form:": "過去形:",
   "negative form:": "否定形:",
   "adverb:": "副詞形:",
-  "adverbial:": "副詞形:"
+  "adverbial:": "副詞形:",
+  "Forma dasu:": "出す形 (start):",
+  "Forma rareru:": "あれる形 (passive): ",
+  "尊敬語:": "尊敬語 (honorific):",
+  "お〜になる:": "お〜になる (honorific):"
 }

@@ -219,439 +219,684 @@ A **knife (刂)** is used to **cut** or **separate** something from another (**�
  Rzeczowniki:
 
  wash rice #card
-Tłumaczenie: お米を研ぐ（こめ、と）
+ほんやく: お米を研ぐ（こめ、と）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
 <!--ID: 1749742879258-->
 
-
  research #card
-Tłumaczenie: 研究（けんきゅう）
+ほんやく: 研究（けんきゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879263-->
 
-
  what is that teacher researching? #card
-Tłumaczenie: あの先生は何を研究していますか（けんきゅう）
+ほんやく: あの先生は何を研究していますか（けんきゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879266-->
 
-
  get at the truth/dotrzeć do prawdy #card
-Tłumaczenie: 真理を究める（しんり、きわ）
+ほんやく: 真理を究める（しんり、きわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879269-->
 
-
  the person who mastered the field #card
-Tłumaczenie: その道を究めた人（みち、きわ、ひと）
+ほんやく: その道を究めた人（みち、きわ、ひと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1749742879271-->
 
-
  scholar/uczony #card
-Tłumaczenie: 学究（がっきゅう）
+ほんやく: 学究（がっきゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879273-->
 
-
  My younger brtother is studying a foreign language #card
-Tłumaczenie: 弟は外国語を研究しています（おとうと、がいこくご、けんきゅう）
+ほんやく: 弟は外国語を研究しています（おとうと、がいこくご、けんきゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879275-->
 
-
  are you also studying Japanese literature (research) #card
-Tłumaczenie: あなたも日本文学を研究していますか（ぶんがく、けんきゅう）
+ほんやく: あなたも日本文学を研究していますか（ぶんがく、けんきゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879277-->
 
-
  I mainly studied English at this university #card
-Tłumaczenie: 大学で主に英語を学んだ（おも、えいご、まな）
+ほんやく: 大学で主に英語を学んだ（おも、えいご、まな）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1749742879279-->
 
-
  mainly #card
-Tłumaczenie: 主(に)（おも) 
+ほんやく: 主(に)（おも) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <!--ID: 1749742879281-->
 
-
  This building is **mainly** made of wood #card
-Tłumaczenie: この建物は**主に**木でできています（たてもの、おも）
+ほんやく: この建物は**主に**木でできています（たてもの、おも）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
 <!--ID: 1749742879283-->
 
-
  owner(possession not status) #card
-Tłumaczenie: 持ち主（も、ぬし）
+ほんやく: 持ち主（も、ぬし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <!--ID: 1749742879285-->
 
-
  landlord #card
-Tłumaczenie: 家主（やぬし）
+ほんやく: 家主（やぬし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <!--ID: 1749742879287-->
 
-
  are you owner of that car? #card
-Tłumaczenie: あの車の待ち主はあなたですか(まちぬし) 
+ほんやく: あの車の待ち主はあなたですか(まちぬし) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <!--ID: 1749742879289-->
 
-
  owner but status/husband #card
-Tłumaczenie: 主人（しゅじん）
+ほんやく: 主人（しゅじん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1749742879291-->
 
-
  storekeeper #card
-Tłumaczenie: 店主（てんしゅ）
+ほんやく: 店主（てんしゅ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <!--ID: 1749742879293-->
 
-
  Sister's elder husband is a doctor #card
-Tłumaczenie: 姉の主人は医者です（あね、しゅじん、いしゃ）
+ほんやく: 姉の主人は医者です（あね、しゅじん、いしゃ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
 <!--ID: 1749742879300-->
 
-
 The owner of this store is that person #card
-Tłumaczenie: この店の主人はあの人です（みせ、しゅじん、ひと）
+ほんやく: この店の主人はあの人です（みせ、しゅじん、ひと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1749742879303-->
 
-
  My husband's job is **mainly** trading with foreing countries #card
-Tłumaczenie: 主人の仕事は主に海外**との**売買です（しゅじん、おも、かいがい、ばいばい）
+ほんやく: 主人の仕事は主に海外**との**売買です（しゅじん、おも、かいがい、ばいばい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1749742879305-->
 
-
  say #card
-Tłumaczenie: 言う（い）
+ほんやく: 言う（い）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1749742879307-->
 
-
  start talking #card
-Tłumaczenie: 言い出す（い、だ）
+ほんやく: 言い出す（い、だ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1749742879309-->
 
-
  I am Smitch #card
-Tłumaczenie: 私はスミスと言います（い）
+ほんやく: 私はスミスと言います（い）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1749742879311-->
 
-
  Who said such a thing? #card
-Tłumaczenie: だれがそんなことを言いましたか（い) 
+ほんやく: だれがそんなことを言いましたか（い) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1749742879313-->
 
-
  language #card
-Tłumaczenie: 言語（げんご）
+ほんやく: 言語（げんご）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1749742879315-->
 
-
  lingwistyka (nauka o języku) #card
-Tłumaczenie: 言語学（げんごがく) 
+ほんやく: 言語学（げんごがく) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1749742879317-->
 
-
  quote #card
-Tłumaczenie: 名言（めいげん）
+ほんやく: 名言（めいげん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1749742879319-->
 
-
  What language did you study at the university? #card
-Tłumaczenie: 大学ではどんな言語を勉強しました（げんご）
+ほんやく: 大学ではどんな言語を勉強しました（げんご）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勉.html">勉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1749742879322-->
 
-
  I am studying linguistics #card
-Tłumaczenie: 私は言語学を学んでいます（げんご、まな）
+ほんやく: 私は言語学を学んでいます（げんご、まな）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1749742879324-->
 
-
  society (how the world works, life in general, changing times) #card
-Tłumaczenie: 世の中（よのなか）
+ほんやく: 世の中（よのなか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <!--ID: 1749742879326-->
 
-
  this world #card
-Tłumaczenie: この世 (このよ) 
+ほんやく: この世 (このよ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
 <!--ID: 1749742879329-->
 
-
  world  #card
-Tłumaczenie: 世界（せかい）
+ほんやく: 世界（せかい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_界.html">界</a>
 <!--ID: 1749742879331-->
 
-
  society #card
-Tłumaczenie: 世間（せけん）
+ほんやく: 世間（せけん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1749742879334-->
 
-
  I am planinning on traveling around the world now #card
-Tłumaczenie: 今、私は世界旅行を計画しています（せかいりょこう、けいかく）
+ほんやく: 今、私は世界旅行を計画しています（せかいりょこう、けいかく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_界.html">界</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <!--ID: 1749742879336-->
 
-
  The society of Japan is different from the united states #card
-Tłumaczenie: 日本の世の中はアメリカとは違います（よのなか、ちが）
+ほんやく: 日本の世の中はアメリカとは違います（よのなか、ちが）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_違.html">違</a>
 <!--ID: 1749742879339-->
 
-
  sakaigawa (new/old kanji) #card
-Tłumaczenie: 境川/界川（さかいがわ）
+ほんやく: 境川/界川（さかいがわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_境.html">境</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_川.html">川</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_界.html">界</a>
 <!--ID: 1749742879341-->
 
-
  educational world #card
-Tłumaczenie: 教育界（きょういくかい）
+ほんやく: 教育界（きょういくかい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_育.html">育</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_界.html">界</a>
 <!--ID: 1749742879342-->
 
-
  Teacher mr. Tanaka is a famous person in the educational world #card
-Tłumaczenie: 田中先生は教育界の有名人です（きょういくかい、ゆうめいじん）
+ほんやく: 田中先生は教育界の有名人です（きょういくかい、ゆうめいじん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_育.html">育</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_界.html">界</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1749742879344-->
 
-
  new clothes #card
-Tłumaczenie: 新しい服（あたらしい、ふく）
+ほんやく: 新しい服（あたらしい、ふく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
 <!--ID: 1749742879346-->
 
-
  newspaper #card
-Tłumaczenie: 新聞（しんぶん）
+ほんやく: 新聞（しんぶん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1749742879348-->
 
-
  new research #card
-Tłumaczenie: 新研究（しんけんきゅう) 
+ほんやく: 新研究（しんけんきゅう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879350-->
 
-
  new employee #card
-Tłumaczenie: 新入社員（しんにゅうしゃいん）
+ほんやく: 新入社員（しんにゅうしゃいん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1749742879352-->
 
-
  That white building is a newspaper publisher #card
-Tłumaczenie: あの白い建物は新聞社です（しろ、たてもの、しんぶんしゃ）
+ほんやく: あの白い建物は新聞社です（しろ、たてもの、しんぶんしゃ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1749742879354-->
 
-
  yesterday i bought map of the Tokio #card
-Tłumaczenie: 昨日新しい東京の地図を買いました（ちず）
+ほんやく: 昨日新しい東京の地図を買いました（ちず）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_地.html">地</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_図.html">図</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1749742879356-->
 
-
  Do you have today's newspaper #card
-Tłumaczenie: 今日の新聞はありますか(しんぶん) 
+ほんやく: 今日の新聞はありますか(しんぶん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1749742879358-->
 
-
  New research will be announced at tommorows academic conference #card
-Tłumaczenie: 明日の学会で新研究が発表されます（がっかい、しんけんきゅう、はっぴょう）
+ほんやく: 明日の学会で新研究が発表されます（がっかい、しんけんきゅう、はっぴょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_発.html">発</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_表.html">表</a>
 <!--ID: 1749742879360-->
 
-
  problem (question) #card
-Tłumaczenie: 問題（もんだい）question subject 
+ほんやく: 問題（もんだい）question subject 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <!--ID: 1749742879362-->
 
-
  topic #card
-Tłumaczenie: 話題（わだい）talk about subject 
+ほんやく: 話題（わだい）talk about subject 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <!--ID: 1749742879364-->
 
-
  title #card
-Tłumaczenie: 題名（だいめい）name of the topic
+ほんやく: 題名（だいめい）name of the topic
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1749742879366-->
 
-
  I will make the exam question tomorrow #card
-Tłumaczenie: 試験問題は明日作ります（しけんもんだい、あした、つく） 
+ほんやく: 試験問題は明日作ります（しけんもんだい、あした、つく） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_験.html">験</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1749742879369-->
 
-
  The exam questins at this university are difficult #card
-Tłumaczenie: この大学の試験問題はむずかしいですよ（しけんもんだい）
+ほんやく: この大学の試験問題はむずかしいですよ（しけんもんだい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_験.html">験</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <!--ID: 1749742879372-->
 
-
   What is the title of your lecture? #card
-Tłumaczenie: あなたのレクチャーの題名は何ですか（だいめい）
+ほんやく: あなたのレクチャーの題名は何ですか（だいめい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <!--ID: 1749742879374-->
 
-
  That company has many problems #card
-Tłumaczenie: あの会社は問題が多いですね（もんだい、おお）
+ほんやく: あの会社は問題が多いですね（もんだい、おお）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <!--ID: 1749742879377-->
 
-
  special, especiallu #card
-Tłumaczenie: 特別（とくべつ）
+ほんやく: 特別（とくべつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1749742879380-->
 
-
  special features #card
-Tłumaczenie: 特色（とくしょく）
+ほんやく: 特色（とくしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1749742879383-->
 
-
  This is a special research #card
-Tłumaczenie: これは特別な研究です（とくべつ、けんきょう）
+ほんやく: これは特別な研究です（とくべつ、けんきょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879385-->
 
-
  What are the features of this car? #card
-Tłumaczenie: この車はどんな特色がありますか（とくしょく）
+ほんやく: この車はどんな特色がありますか（とくしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1749742879388-->
 
-
  This is a special research, so the uniwersity will pay for it #card
-Tłumaczenie: これは特別な研究ですから、大学がお金を出します（とくべつ、けんきゅう、だ）
+ほんやく: これは特別な研究ですから、大学がお金を出します（とくべつ、けんきゅう、だ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1749742879391-->
 
-
  The characteristics of this projec is that the tsask is very easy #card
-Tłumaczenie: この企画の特色は作業がやさしいことです(きかく、とくしょく、さぎょう) 
+ほんやく: この企画の特色は作業がやさしいことです(きかく、とくしょく、さぎょう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_企.html">企</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1749742879393-->
 
-
  farawell #card
-Tłumaczenie: 別れ（わか）
+ほんやく: 別れ（わか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1749742879396-->
 
-
  I decided to leave my friends and study baroad by myself #card
-Tłumaczenie: 友だちと別れて、一人で留学することにしました（わか、りゅうがく）
+ほんやく: 友だちと別れて、一人で留学することにしました（わか、りゅうがく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1749742879398-->
 
-
  alias #card
-Tłumaczenie: 別名（べつめい）
+ほんやく: 別名（べつめい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1749742879401-->
 
-
  another room #card
-Tłumaczenie: 別室（べっしつ）
+ほんやく: 別室（べっしつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
 <!--ID: 1749742879402-->
 
-
  The special research will begin from tomorrow #card
-Tłumaczenie: 明日から特別な研究が始まります（とくべつ、けんきゅう,は) 
+ほんやく: 明日から特別な研究が始まります（とくべつ、けんきゅう,は) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
 <!--ID: 1749742879404-->
 
-
  anxiety #card
-Tłumaczenie: 不安（ふあん）
+ほんやく: 不安（ふあん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <!--ID: 1749742879406-->
 
-
  inadequate, insufficient #card
-Tłumaczenie: 不十分（ふじゅうぶん）
+ほんやく: 不十分（ふじゅうぶん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1749742879408-->
 
-
  Fis is not needed for this dish #card
-Tłumaczenie: この料理には魚は不用ですよ（りょうり、さかな、ふよう）
+ほんやく: この料理には魚は不用ですよ（りょうり、さかな、ふよう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_魚.html">魚</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879410-->
 
-
  Because I will buy a special computer, I borrowed money from bank, but it is still insufficient #card
-Tłumaczenie: 特別なコンピューターを買うので、銀行からお金を借りましたが、まだ不十分です（とくべつ、が、ぎんこう、かね、か、ふじゅうぶん）
+ほんやく: 特別なコンピューターを買うので、銀行からお金を借りましたが、まだ不十分です（とくべつ、が、ぎんこう、かね、か、ふじゅうぶん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1749742879412-->
 
-
  Please collect unnecessary items here #card
-Tłumaczenie: 不要な品物はここに集めて下さい（ふよう、しなもの、あつ）
+ほんやく: 不要な品物はここに集めて下さい（ふよう、しなもの、あつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_要.html">要</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <!--ID: 1749742879414-->
 
-
  clumsy(klamzi)/niezdarny #card
-Tłumaczenie: 不器用（ぶきよう）
+ほんやく: 不器用（ぶきよう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_器.html">器</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879416-->
 
-
  learning using tablet #card
-Tłumaczenie: タブレットを用いた学習（もち、がくしゅう）
+ほんやく: タブレットを用いた学習（もち、がくしゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_習.html">習</a>
 <!--ID: 1749742879419-->
 
-
  this is used for medicine #card
-Tłumaczenie: これは薬に持ちられます(くすり、もち) 
+ほんやく: これは薬に持ちられます(くすり、もち) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_薬.html">薬</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 <!--ID: 1749742879421-->
 
-
  unnecessary #card
-Tłumaczenie: 不用（ふよう）
+ほんやく: 不用（ふよう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879423-->
 
-
  use #card
-Tłumaczenie: 使用（しよう） 
+ほんやく: 使用（しよう） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879425-->
 
-
  company use #card
-Tłumaczenie: 社用（しゃよう）
+ほんやく: 社用（しゃよう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879427-->
 
-
  Please use my computer for this work #card
-Tłumaczenie: その仕事には私のパソコンを使用してください（しよう）
+ほんやく: その仕事には私のパソコンを使用してください（しよう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879429-->
 
-
  is this car for company use? #card
-Tłumaczenie: この車は社用ですか（しゃよう）
+ほんやく: この車は社用ですか（しゃよう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879431-->
 
-
  This book is unnecessary #card
-Tłumaczenie: この書物は不用です（しょもつ、ふよう）
+ほんやく: この書物は不用です（しょもつ、ふよう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879433-->
 
-
  My elder brother travels to the USA for business #card
-Tłumaczenie: 兄は社用でアメリカに行っています（あに、しゃよう）
+ほんやく: 兄は社用でアメリカに行っています（あに、しゃよう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1749742879435-->
 
-
 sharpen #card
-Tłumaczenie: 研ぐ（とぐ）  
-Forma masu: とぎます  
-Forma te: といで  
-Forma ta: といだ  
-Forma nai: とがない  
-Forma katta: とがなかった
+ほんやく: 研ぐ（とぐ）  
+て形: 研いで
+た形: 研いだ
+ます形: 研ぎます
+出す形 (start): 研ぎ出す
+そう (looks like): 研ぎそう
+お〜になる (honorific): お研ぎになる
+ない形: 研がない
+なかった形: 研がなかった
+あれる形 (passive): 研がれる
+尊敬語 (honorific): 研がれる
+ば形 (if): 研げば
+可能形 (can): 研げる
+おう形 (let's): 研ごう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
 <!--ID: 1749742894466-->
 
-
 to master #card
-Tłumaczenie: 究める（きわ）  
-Forma masu: きわめます  
-Forma te: きわめて  
-Forma ta: きわめた  
-Forma nai: きわめない  
-Forma katta: きわめなかった
+ほんやく: 究める（きわ）  
+て形: 究めて
+た形: 究めた
+ます形: 究めます
+出す形 (start): 究め出す
+そう (looks like): 究めそう
+お〜になる (honorific): お究めになる
+ない形: 究めない
+なかった形: 究めなかった
+あれる形 (passive): 究められる
+尊敬語 (honorific): 究められる
+ば形 (if): 究めれば
+可能形 (can): 究められる
+おう形 (let's): 究めよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742894470-->
 
-
 to separate #card
-Tłumaczenie: 別れる（わかれる）  
-Forma masu: わかれます  
-Forma te: わかれて  
-Forma ta: わかれた  
-Forma nai: わかれない  
-Forma katta: わかれなかった
+ほんやく: 別れる（わかれる）  
+て形: 別れて
+た形: 別れた
+ます形: 別れます
+出す形 (start): 別れ出す
+そう (looks like): 別れそう
+お〜になる (honorific): お別れになる
+ない形: 別れない
+なかった形: 別れなかった
+あれる形 (passive): 別れられる
+尊敬語 (honorific): 別れられる
+ば形 (if): 別れれば
+可能形 (can): 別れられる
+おう形 (let's): 別れよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1749742894472-->
 
-
 use (academic, official, technical) #card
-Tłumaczenie: 用いる（もち）  
-Forma masu: もちいます  
-Forma te: もちいて  
-Forma ta: もちいた  
-Forma nai: もちいない  
-Forma katta: もちいなかった
+ほんやく: 用いる（もち）  
+て形: 用いて
+た形: 用いた
+ます形: 用います
+出す形 (start): 用い出す
+そう (looks like): 用いそう
+お〜になる (honorific): お用いになる
+ない形: 用いない
+なかった形: 用いなかった
+あれる形 (passive): 用いられる
+尊敬語 (honorific): 用いられる
+ば形 (if): 用いれば
+可能形 (can): 用いられる
+おう形 (let's): 用いよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742894474-->
 
 new #card
-Tłumaczenie: 新しい（あたら
-Forma przeszła: 新しかった 
-Przeczenie: 新しくない  
-Przysłówek: 新しく
+ほんやく: 新しい（あたら
+過去形: 新しかった
+否定形: 新しくない
+副詞形: 新しく
+そう (looks like): 新しそう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <!--ID: 1749742976483-->
-
 

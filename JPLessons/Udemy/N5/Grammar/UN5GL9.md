@@ -537,11 +537,18 @@ Difference between よ and ね
 
  This restaurant is delicious and very famous #card
 ほんやく: この店は美味しくてとても有名ですよ（店、おいし、ゆうめい) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_美.html">美</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465822921-->
 
 
  Being able to order food in restaurant #card
 ほんやく: レストランで注文ができること（ちゅうもん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <!--ID: 1763465822923-->
 
 
@@ -557,96 +564,150 @@ Difference between よ and ね
 
  polite counter suffix for people  #k #card
 ほんやく: 名（めい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465822926-->
 
 
  famous person #k #card
 ほんやく: 有名な人（ゆうめい、ひと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1763465822927-->
 
 
  famous movie #k #card
 ほんやく: 有名な映画（ゆうめい、えいが）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <!--ID: 1763465822928-->
 
 
  a lively town #k #card
 ほんやく: 賑やかな町（にぎ、まち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_賑.html">賑</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_町.html">町</a>
 <!--ID: 1763465822929-->
 
 
  busy street #k #card
 ほんやく: 賑やかな道（にぎ、みち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_賑.html">賑</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
 <!--ID: 1763465822930-->
 
 
  quiet library #k #card
 ほんやく: 静かな図書館（しず、としょかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_静.html">静</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_図.html">図</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1763465822931-->
 
 
  a quiet night #card
 ほんやく: 静かな夜（しずか、よる) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_静.html">静</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1763465822932-->
 
 
  My home is at a convenient place #k #card
 ほんやく: 私の家は便利な所にあります（べんり、ところ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_便.html">便</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_利.html">利</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1763465822933-->
 
 
  My home is at a convenient place #k #card
 ほんやく: 私の家は不便な所にあります（ふべん、ところ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_便.html">便</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1768451605976-->
 
 
  place (specific physical) #k #card
 ほんやく: 場所（ばしょ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1763465822934-->
 
 
  place (overall, physical and abstract) #k #card
 ほんやく: 所（ところ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1763465822935-->
 
 
  This bag is very durable #card
 ほんやく: このカバンはとても丈夫です（じょうぶ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丈.html">丈</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夫.html">夫</a>
 <!--ID: 1763465822936-->
 
 
  all right/OK #card
 ほんやく: 大丈夫（だいじょうぶ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丈.html">丈</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夫.html">夫</a>
 <!--ID: 1763465822937-->
 
 
  a serious person #card
 ほんやく: 真面目な人（まじめ、ひと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1763465822938-->
 
 
  a fine peroson #card
 ほんやく: 立派な人（りっぱ、ひと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_派.html">派</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1763465822939-->
 
 
  I will go to the post office when i have time #card
 ほんやく: 暇な時に郵便局に行きます（ひま、ゆうびんきょく) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_暇.html">暇</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_郵.html">郵</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_便.html">便</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_局.html">局</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1763465822940-->
 
 
  person with a lot of free time #card
 ほんやく: 暇な人（ひま、ひと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_暇.html">暇</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1763465822941-->
 
 
  road / street  #k #card
 ほんやく: 道（みち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
 <!--ID: 1763465822942-->
 
 
  town  #k #card
 ほんやく: 町 / 街（まち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_町.html">町</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_街.html">街</a>
 <!--ID: 1763465822943-->
 
 
@@ -662,51 +723,68 @@ Difference between よ and ね
 
  beef rice bowl  #k #card
 ほんやく: 牛丼（ぎゅうどん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丼.html">丼</a>
 <!--ID: 1763465822946-->
 
 
  yakiniku (Japanese grilled meat) #k   #card
 ほんやく: 焼肉（やきにく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_焼.html">焼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <!--ID: 1763465822947-->
 
 
  meat  #k #card
 ほんやく: 肉（にく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <!--ID: 1763465822948-->
 
 
  chicken #k #card
 ほんやく: 鶏肉（とりにく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鶏.html">鶏</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <!--ID: 1763465822949-->
 
 
  pork  #k #card
 ほんやく: 豚肉（ぶたにく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_豚.html">豚</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <!--ID: 1763465822950-->
 
 
  beef  #k #card
 ほんやく: 牛肉（ぎゅうにく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <!--ID: 1763465822951-->
 
 
  kura  #card
 ほんやく: 鶏（にわとり）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鶏.html">鶏</a>
 <!--ID: 1763465822952-->
 
 
  drób #card
 ほんやく: 家禽（かきん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_禽.html">禽</a>
 <!--ID: 1763465822953-->
 
 
  vegetable   #card
 ほんやく: 野菜（やさい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_菜.html">菜</a>
 <!--ID: 1763465822954-->
 
 
  yakisoba / fried noodles   #card
 ほんやく: 焼きそば（やきそば）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_焼.html">焼</a>
 <!--ID: 1763465822955-->
 
 
@@ -737,26 +815,38 @@ Difference between よ and ね
 
  tangerine  / mandarynka #card
 ほんやく: 蜜柑（みかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_蜜.html">蜜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_柑.html">柑</a>
 <!--ID: 1763465822961-->
 
 
  pear   #card
 ほんやく: 梨（なし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_梨.html">梨</a>
 <!--ID: 1763465822962-->
 
 
  set meal  #k #card
 ほんやく: 定食（ていしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_定.html">定</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763465822963-->
 
 
  #k tenpura set #card
 ほんやく: 天ぷら定食（てん、ていしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_定.html">定</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763465822964-->
 
 
  #k jp grilled meat set #card
 ほんやく: 焼肉定食（やきにく、ていしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_焼.html">焼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_定.html">定</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763465822965-->
 
 
@@ -767,46 +857,70 @@ Difference between よ and ね
 
  order / to order  #w  #card
 ほんやく: (ご)注文（する）（ちゅうもん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <!--ID: 1763465822967-->
 
 
  to order food #card
 ほんやく: 食事を注文する（しょくじ、ちゅうもん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <!--ID: 1763465822968-->
 
 
  what do you order #card
 ほんやく: 何を注文しますか（なに、ちゅうもん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <!--ID: 1763465822969-->
 
 
  I ordered sushi #card
 ほんやく: すしを注文しました（ちゅうもん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <!--ID: 1763465822970-->
 
 
  payment (often in restaurant)/ to pay #k   #card
 ほんやく: #wc (お)会計（かいけい, meet, measure）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <!--ID: 1763465822971-->
 
 
  bill please #k #card
 ほんやく: お会計おねがいします（かいけい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <!--ID: 1763465822972-->
 
 
  #k to split the bill (pay sepatately) #card
 ほんやく: 別々**で**会計する（べつべつ、かいけい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <!--ID: 1763465822973-->
 
 
  currency #card
 ほんやく: 貨幣（かへい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貨.html">貨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_幣.html">幣</a>
 <!--ID: 1763465822974-->
 
 
  japanese currency #card
 ほんやく: 日本の貨幣（かへい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貨.html">貨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_幣.html">幣</a>
 <!--ID: 1763465822975-->
 
 
@@ -817,16 +931,21 @@ Difference between よ and ね
 
  time  #w  #card
 ほんやく: 時（とき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1763465822977-->
 
 
  bussy time #k #card
 ほんやく: いそがしい時（とき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1763465822978-->
 
 
  at work #k  #card
 ほんやく: 仕事の時 (とき) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1763465822979-->
 
 
@@ -837,26 +956,45 @@ Difference between よ and ね
 
  japanese life is fun #k #card
 ほんやく: 日本の生活は楽しいです（せいかつ、たの）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_活.html">活</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1763465822981-->
 
 
  i live in tokio #k #card
 ほんやく: 東京で生活します（とうきょう、せいかつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_活.html">活</a>
 <!--ID: 1763465822982-->
 
 
  that person doesn't work, life is hard #card
 ほんやく: あの人は仕事をしません。生活はたいへんです 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_活.html">活</a>
 <!--ID: 1763465822983-->
 
 
  what time did you return home yesterday? #card
 ほんやく: 昨日いつ家に帰りましたか（きのう、かえ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <!--ID: 1763465822984-->
 
 
  let's return together #card
 ほんやく: いっしょに帰りましょう（かえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <!--ID: 1763465822985-->
 
 
@@ -872,26 +1010,37 @@ Difference between よ and ね
 
  please enter the room #card
 ほんやく: 部屋へどうぞ（へや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1763465822988-->
 
 
  may I take your order  #k #card
 ほんやく: ご注文は（ごちゅうもん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <!--ID: 1763465822989-->
 
 
  May I take your order? (very polite way) #card
 ほんやく: ご注文は何なさいますか（ごちゅうもん、なに）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <!--ID: 1763465822990-->
 
 
  please  (orders, ask for favour) #card
 ほんやく: お願いします（おね） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_願.html">願</a>
 <!--ID: 1763465822991-->
 
 
  one black tea and one coffee, please #card
 ほんやく: 紅茶一つ、コーヒー 一つ をおねがいします（こうちゃ,ひとつ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紅.html">紅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_茶.html">茶</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <!--ID: 1763465822992-->
 
 
@@ -902,11 +1051,18 @@ Difference between よ and ね
 
  please wait a moment #k #card
 ほんやく: 少々お待ちください（しょうしょうおまちください） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1763465822994-->
 
 
  are you paying together or separately  #k #card
 ほんやく: お会計はご一緒ですか、別々ですか（おかいけい,いっしょ、べつべつ） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_緒.html">緒</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1763465822995-->
 
 
@@ -917,51 +1073,61 @@ Difference between よ and ね
 
  one item #counter   #card
 ほんやく: 一つ（ひとつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <!--ID: 1763465822997-->
 
 
  two items #counter   #card
 ほんやく: 二つ（ふたつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
 <!--ID: 1763465822998-->
 
 
  three items #counter   #card
 ほんやく: 三つ（みっつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
 <!--ID: 1763465822999-->
 
 
  four items #counter   #card
 ほんやく: 四つ（よっつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
 <!--ID: 1763465823000-->
 
 
  five items #counter   #card
 ほんやく: 五つ（いつつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
 <!--ID: 1763465823001-->
 
 
  six items #counter   #card
 ほんやく: 六つ（むっつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
 <!--ID: 1763465823002-->
 
 
  seven items #counter   #card
 ほんやく: 七つ（ななつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
 <!--ID: 1763465823003-->
 
 
  eight items #counter   #card
 ほんやく: 八つ（やっつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
 <!--ID: 1763465823004-->
 
 
  nine items #counter   #card
 ほんやく: 九つ（ここのつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
 <!--ID: 1763465823005-->
 
 
  ten items #counter #card
 ほんやく: 十（とお）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
 <!--ID: 1763465823006-->
 
 
@@ -972,306 +1138,471 @@ Difference between よ and ね
 
  How many apples are on the desk? #card
 ほんやく: つくえの上にりんごがいくつありますか（うえ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1763465823008-->
 
 
  #k Today, my mother bought 2 apples (2 kolejnosci czytania liczba #card
 ほんやく: 今日は母は(二つ**の**リンゴを/リンゴを２つ）買いました 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1763465823009-->
 
 
  There are 5 apples on the desk #card
 ほんやく: 机の上に りんごが 五つあります（つくえ、うえ、いつつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
 <!--ID: 1763465823010-->
 
 
  one small thing** #counter   #card
 ほんやく: **一個（いっこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823011-->
 
 
  two small things #counter   #card
 ほんやく: 二個（にこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823012-->
 
 
  three small things #counter   #card
 ほんやく: 三個（さんこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823013-->
 
 
  four small things #counter   #card
 ほんやく: 四個（よんこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823014-->
 
 
  five small things #counter   #card
 ほんやく: 五個（ごこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823015-->
 
 
  six small things** #counter   #card
 ほんやく: **六個（ろっこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823016-->
 
 
  seven small things #counter   #card
 ほんやく: 七個（ななこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823017-->
 
 
  eight small things** #counter   #card
 ほんやく: **八個（はっこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823018-->
 
 
  nine small things #counter   #card
 ほんやく: 九個（きゅうこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823019-->
 
 
  ten small things #counter #card
 ほんやく: 十個（じっこ / じゅっこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823020-->
 
 
  11 small items #counter   #card
 ほんやく: 十一個（じゅういっこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823021-->
 
 
  16 small items #counter   #card
 ほんやく: 十六個（じゅうろっこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823022-->
 
 
  18 small items #counter #card
 ほんやく: 十八個（じゅうはっこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823023-->
 
 
  20 small items #counter   #card
 ほんやく: 二十個（にじゅっこ / にじゅうこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823024-->
 
 
  21 small items #counter   #card
 ほんやく: 二十一個（にじゅういっこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823025-->
 
 
  26 small items #counter   #card
 ほんやく: 二十六個（にじゅうろっこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823026-->
 
 
  28 small items #counter #card
 ほんやく: 二十八個（にじゅうはっこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823027-->
 
 
  30 small items #counter   #card
 ほんやく: 三十個（さんじゅっこ / さんじゅうこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823028-->
 
 
  40 small items #counter   #card
 ほんやく: 四十個（よんじゅっこ / よんじゅうこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823029-->
 
 
  50 small items #counter #card
 ほんやく: 五十個（ごじゅっこ / ごじゅうこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823030-->
 
 
  how many small things? #card
 ほんやく: 何個(なんこ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823031-->
 
 
  eat one apple   #card
 ほんやく: りんごを一個（いっこ）食べる 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763465823032-->
 
 
  buy two eggs   #card
 ほんやく: 卵（たまご）を二個（にこ）買う 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_卵.html">卵</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1763465823033-->
 
 
  hold three balls   #card
 ほんやく: ボールを三個（さんこ）持つ 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 <!--ID: 1763465823034-->
 
 
  receive four candies   #card
 ほんやく: キャンディーを四個（よんこ）もらう 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <!--ID: 1763465823035-->
 
 
  ate five mandarins   #card
 ほんやく: みかんを五個（ごこ）食べた 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763465823036-->
 
 
  collect six stones   #card
 ほんやく: 石（いし）を六個（ろっこ）集める （あつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_石.html">石</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1763465823037-->
 
 
  bake seven cookies   #card
 ほんやく: クッキーを七個（ななこ）焼く 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_焼.html">焼</a>
 <!--ID: 1763465823038-->
 
 
  carry eight boxes   #card
 ほんやく: 箱（はこ）を八個（はっこ）運ぶ 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_箱.html">箱</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <!--ID: 1763465823039-->
 
 
  attach nine buttons   #card
 ほんやく: ボタンを九個（きゅうこ）付ける 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 <!--ID: 1763465823040-->
 
 
  bought ten chocolates (pralinki, nie plaskie) #card
 ほんやく: チョコを十個（じゅっこ）買った 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1763465823041-->
 
 
  two people (polite) #k   #card
 ほんやく: 二名（にめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823042-->
 
 
  three people (polite) #k   #card
 ほんやく: 三名（さんめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823043-->
 
 
  four people (polite) #k   #card
 ほんやく: 四名（よんめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823044-->
 
 
  five people (polite) #k   #card
 ほんやく: 五名（ごめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823045-->
 
 
  six people (polite) #k   #card
 ほんやく: 六名（ろくめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823046-->
 
 
  seven people (polite) #k   #card
 ほんやく: 七名（ななめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823047-->
 
 
  eight people (polite) #k   #card
 ほんやく: 八名（はちめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823048-->
 
 
  nine people (polite) #k   #card
 ほんやく: 九名（きゅうめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823049-->
 
 
  ten people (polite) #k #card
 ほんやく: 十名（じゅうめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823050-->
 
 
  fifteen people (polite) #k   #card
 ほんやく: 十五名（じゅうごめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823051-->
 
 
  twenty three people (polite) #card
 ほんやく: 二十三名（にじゅうさんめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823052-->
 
 
  twenty people (polite) #k   #card
 ほんやく: 二十名（にじゅうめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823053-->
 
 
  thirty people (polite) #k   #card
 ほんやく: 三十名（さんじゅうめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823054-->
 
 
  forty people (polite) #k   #card
 ほんやく: 四十名（よんじゅうめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823055-->
 
 
  fifty people (polite) #k   #card
 ほんやく: 五十名（ごじゅうめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823056-->
 
 
  sixty people (polite) #k   #card
 ほんやく: 六十名（ろくじゅうめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823057-->
 
 
  seventy people (polite) #k   #card
 ほんやく: 七十名（ななじゅうめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823058-->
 
 
  eighty people (polite) #k   #card
 ほんやく: 八十名（はちじゅうめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823059-->
 
 
  ninety people (polite) #k   #card
 ほんやく: 九十名（きゅうじゅうめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823060-->
 
 
  one hundred people (polite) #k #card
 ほんやく: 百名（ひゃくめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_百.html">百</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823061-->
 
 
  how many people (polite, and more polite) #k #card
 ほんやく: 何名(さま)ですか（なんめい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823062-->
 
 
  very (adverb) #card
 ほんやく: 大変（たいへん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
 <!--ID: 1763465823063-->
 
 
  big mistake #card
 ほんやく: 大変なミス（たいへん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
 <!--ID: 1763465823064-->
 
 
  difficult/intensive life #card
 ほんやく: 大変な生活（たいへん、せいかつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_活.html">活</a>
 <!--ID: 1763465823065-->
 
 
  tough job #card
 ほんやく: 大変な仕事（たいへん、しごと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1763465823066-->
 
 
  very big #card
 ほんやく: 大変大きい（たいへん、おおきい) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
 <!--ID: 1763465823067-->
 
 
  very far #card
 ほんやく: 大変遠い（たいへん、とおい) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遠.html">遠</a>
 <!--ID: 1763465823068-->
 
 
@@ -1282,11 +1613,13 @@ Difference between よ and ね
 
  many people #card
 ほんやく: たくさんの人 (ひと) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1763465823070-->
 
 
  many books #card
 ほんやく: たくさんの本 (ほん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <!--ID: 1763465823071-->
 
 
@@ -1297,6 +1630,7 @@ Difference between よ and ね
 
  lets eat a lot #card
 ほんやく: たくさん食べましょう 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763465823073-->
 
 
@@ -1307,46 +1641,65 @@ Difference between よ and ね
 
  usual job #card
 ほんやく: いつもの仕事（しごと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1763465823075-->
 
 
  usual life #card
 ほんやく: いつもの生活（せいかつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_活.html">活</a>
 <!--ID: 1763465823076-->
 
 
  That person always travels #card
 ほんやく: あの人はいつも旅行します（りょこう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1763465823077-->
 
 
  its always quiet here #card
 ほんやく: ここはいつも静かです（しず）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_静.html">静</a>
 <!--ID: 1763465823078-->
 
 
  i always  go sleep at 10 #card
 ほんやく: 私はいつも１０時にねます (じ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1763465823079-->
 
 
  separated room #card
 ほんやく: 別々の部屋（べつべつ、へや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1763465823080-->
 
 
  separated desk #card
 ほんやく: 別々の机（べつべつ、つくえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
 <!--ID: 1763465823081-->
 
 
 Are the bills separate? #w #card
 ほんやく: お会計は別々ですか（かいけい、べつべつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1763465823082-->
 
 
  we will pay separately #card
 ほんやく: 別々におねがいします (べつべつ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1763465823083-->
 
 
@@ -1357,26 +1710,44 @@ Are the bills separate? #w #card
 
  I and mr Yamada eat lunch separately #k #card
 ほんやく: 私と山田さんは別々に昼ご飯を食べます(べつべつ、ひるごはん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763465823085-->
 
 
  let's go there individually #card
 ほんやく: 別々にあそこに行きましょう（べつべつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1763465823086-->
 
 
  mr yamada seriousness #k #card
 ほんやく: 山田さんの真面目な所（まじめ、ところ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1763465823087-->
 
 
  my grandfather's house (place) #k #card
 ほんやく: おじいさんの所（ところ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1763465823088-->
 
 
  I came at good time #k #card
 ほんやく: いい所に来ました（ところ、き）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1763465823089-->
 
 
@@ -1392,6 +1763,7 @@ Are the bills separate? #w #card
 
  was lively #card
 ほんやく: 賑やかでした（にぎ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_賑.html">賑</a>
 <!--ID: 1763465823092-->
 
 
@@ -1407,46 +1779,79 @@ Are the bills separate? #w #card
 
  study quietly #card
 ほんやく: しずかに 勉強する 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勉.html">勉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1763465823095-->
 
 
  my sister is quietly sleeping #card
 ほんやく: 妹は静かに寝ています（いもうと、しず、ね） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_静.html">静</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寝.html">寝</a>
 <!--ID: 1763465823096-->
 
 
  we will pay separately #card
 ほんやく: べつべつに会計します（かいけい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <!--ID: 1768451605977-->
 
 
  Mr. Yamada works hard #card
 ほんやく: 山田さんは真面目に働いています（やまだ、まじめ、はたら） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_働.html">働</a>
 <!--ID: 1763465823097-->
 
 
  my high school teacher is serious #card
 ほんやく: 私の高校の先生は真面目です（こうこう、まじめ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
 <!--ID: 1763465823098-->
 
 
  I didn't have much free time yesterday #card
 ほんやく: 私は昨日ひま ではありませんでした 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1763465823099-->
 
 
  this town is very busy #card
 ほんやく: この町はとてもにぎやかです（まち） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_町.html">町</a>
 <!--ID: 1763465823100-->
 
 
  it is not famous there #card
 ほんやく: あそこは有名ではありません（ゆうめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823101-->
 
 
  last week's work was difficult #card
 ほんやく: 先週の仕事は大変でした（せんしゅう、しごと、たいへん） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
 <!--ID: 1763465823102-->
 
 
@@ -1457,61 +1862,111 @@ Are the bills separate? #w #card
 
  that is a solid building #card
 ほんやく: あれは丈夫な建物です（じょうぶ、たてもの） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丈.html">丈</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夫.html">夫</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1763465823104-->
 
 
  He is a serious and respectable person #card
 ほんやく: 真面目で立派な人です（はじめ、りっぱ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_派.html">派</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1763465823105-->
 
 
  The room is very big, quiet and cheap #card
 ほんやく: この部屋は広くて しずかで安いです(へや、やす) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <!--ID: 1763465823106-->
 
 
  A:what kind of person is Mr. Yamada B: he is an interesting person #card
 ほんやく: A: 山田さんはどんな人ですか（やまだ、ひと）B: おもしろい人です（ひと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1763465823107-->
 
 
  A: What kind of place is Akihabara? B: Its very busy place #card
 ほんやく: 秋葉原はどんな所ですか（ところ）B: とてもにぎやかな 所です 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_葉.html">葉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_原.html">原</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1763465823108-->
 
 
  because I will come back early today, let's watch a movie together #card
 ほんやく: きょうは早く帰りますから、いっしょに映画を見ましょう（はや、かえ、えいが、み） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1763465823109-->
 
 
  because it is nice weather, let's go for a walk #card
 ほんやく: 天気がいいですから、散歩しましょう（てんき、さんぽ） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_散.html">散</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1763465823110-->
 
 
  because I will get up early tomorrow, I will sleep early tonight #card
 ほんやく: 明日早く起きますから、今晩早く寝ます（あした、はや、お、こんばん、はや、ね） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晩.html">晩</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寝.html">寝</a>
 <!--ID: 1763465823111-->
 
 
  how is a new house? B: Its convinient, because is close to the station 2style #card
 ほんやく: A: 新しい家はどうですか B: とてもべんりです。駅に近いですから 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <!--ID: 1763465823112-->
 
 
  Is a lot of people in this restaurant. isn't is? B: Because here is a very famous nee #card
 ほんやく: A: このレストランにたくさん人がいますね B: ここは有名ですからね (ゆうめい) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823113-->
 
 
  this restaurant is very famous, you know #card
 ほんやく: この店はとても有名ですよ（みせ、ゆうめい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823114-->
 
 
  my house is far from the station, you know #card
 ほんやく: わたしの家から駅までは遠いですよ（いえ、えき、とお） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遠.html">遠</a>
 <!--ID: 1763465823115-->
 
 
@@ -1522,23 +1977,35 @@ Are the bills separate? #w #card
 
  today is hot, isn't it? #card
 ほんやく: 今日はあついですね 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1763465823117-->
 
 
  tomorrow will be hot, you know #card
 ほんやく: 明日はあついですよ 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1763465823118-->
 
 
 payment (often in restaurant)/ to pay #k #wc #card
 ほんやく: (お)会計（かいけい）  
-ます形: かいけいします  
-て形: かいけいして  
-た形: かいけいした  
-ない形: かいけいしない  
-かった形: かいけいしなかった  
-ば形: かいけいすれば  
-出す形: かいけいしだす
+て形: 会計して
+た形: 会計した
+ます形: 会計します
+出す形 (start): 会計しだす
+そう (looks like): 会計しそう
+お〜になる (honorific): お会計しになる
+ない形: 会計しない
+なかった形: 会計しなかった
+あれる形 (passive):  会計される
+尊敬語 (honorific): 会計される
+ば形 (if): 会計すれば
+可能形 (can): 会計できる
+おう形 (let's): 会計しよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <!--ID: 1763465823119-->
 
 
@@ -1546,13 +2013,21 @@ payment (often in restaurant)/ to pay #k #wc #card
 
 life / to live （prowadzic zycie, miec styl zycia) #k #card
 ほんやく: 生活する（せいかつ）  
-ます形: せいかつします  
-て形: せいかつして  
-た形: せいかつした  
-ない形: せいかつしない  
-かった形: せいかつしなかった  
-ば形: せいかつすれば  
-出す形: せいかつしだす
+て形: 生活して
+た形: 生活した
+ます形: 生活します
+出す形 (start): 生活しだす
+そう (looks like): 生活しそう
+お〜になる (honorific): お生活しになる
+ない形: 生活しない
+なかった形: 生活しなかった
+あれる形 (passive):  生活される
+尊敬語 (honorific): 生活される
+ば形 (if): 生活すれば
+可能形 (can): 生活できる
+おう形 (let's): 生活しよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_活.html">活</a>
 <!--ID: 1763465823120-->
 
 
@@ -1560,13 +2035,20 @@ life / to live （prowadzic zycie, miec styl zycia) #k #card
 
 to get up #wc #card
 ほんやく: 起きる（おきる）  
-ます形: おきます  
-て形: おきて  
-た形: おきた  
-ない形: おきない  
-かった形: おきなかった  
-ば形: おきれば  
-出す形: おきだす
+て形: 起きて
+た形: 起きた
+ます形: 起きます
+出す形 (start): 起きだす
+そう (looks like): 起きそう
+お〜になる (honorific): お起きになる
+ない形: 起きない
+なかった形: 起きなかった
+あれる形 (passive):  起きられる
+尊敬語 (honorific): 起きられる
+ば形 (if): 起きれば
+可能形 (can): 起きられる
+おう形 (let's): 起きよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1763465823121-->
 
 
@@ -1576,9 +2058,12 @@ Przymiotniki:
 
 famous #k #wp #card
 ほんやく: 有名（ゆうめい）  
-Forma przeszła: ゆうめいでした  
-Przeczenie: ゆうめいではありません  
-Przysłówek: ゆうめいに
+過去形: ゆうめいでした  
+否定形: ゆうめいではありません  
+副詞形: ゆうめいに
+そう (looks like): 有名そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823122-->
 
 
@@ -1586,9 +2071,11 @@ Przysłówek: ゆうめいに
 
 lively / busy #wp #card
 ほんやく: 賑やか（にぎやか）  
-Forma przeszła: にぎやかでした  
-Przeczenie: にぎやかではありません  
-Przysłówek: にぎやかに
+過去形: にぎやかでした  
+否定形: にぎやかではありません  
+副詞形: にぎやかに
+そう (looks like): 賑やかそう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_賑.html">賑</a>
 <!--ID: 1763465823123-->
 
 
@@ -1596,9 +2083,11 @@ Przysłówek: にぎやかに
 
 quiet #wp #card
 ほんやく: 静か（しずか）  
-Forma przeszła: しずかでした  
-Przeczenie: しずかではありません  
-Przysłówek: しずかに
+過去形: しずかでした  
+否定形: しずかではありません  
+副詞形: しずかに
+そう (looks like): 静かそう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_静.html">静</a>
 <!--ID: 1763465823124-->
 
 
@@ -1606,9 +2095,12 @@ Przysłówek: しずかに
 
 convenient #wp #card
 ほんやく: 便利（べんり）  
-Forma przeszła: べんりでした  
-Przeczenie: べんりではありません  
-Przysłówek: べんりに
+過去形: べんりでした  
+否定形: べんりではありません  
+副詞形: べんりに
+そう (looks like): 便利そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_便.html">便</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_利.html">利</a>
 <!--ID: 1763465823125-->
 
 
@@ -1616,9 +2108,12 @@ Przysłówek: べんりに
 
 inconvenient #wp #card
 ほんやく: 不便（ふべん）  
-Forma przeszła: ふべんでした  
-Przeczenie: ふべんではありません  
-Przysłówek: ふべんに
+過去形: ふべんでした  
+否定形: ふべんではありません  
+副詞形: ふべんに
+そう (looks like): 不便そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_便.html">便</a>
 <!--ID: 1763465823126-->
 
 
@@ -1626,9 +2121,12 @@ Przysłówek: ふべんに
 
 strong / solid / durable #wp #card
 ほんやく: 丈夫（じょうぶ）  
-Forma przeszła: じょうぶでした  
-Przeczenie: じょうぶではありません  
-Przysłówek: じょうぶに
+過去形: じょうぶでした  
+否定形: じょうぶではありません  
+副詞形: じょうぶに
+そう (looks like): 丈夫そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丈.html">丈</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夫.html">夫</a>
 <!--ID: 1763465823127-->
 
 
@@ -1636,9 +2134,13 @@ Przysłówek: じょうぶに
 
 serious / honest #k #wp #card
 ほんやく: 真面目（まじめ）  
-Forma przeszła: まじめでした  
-Przeczenie: まじめではありません  
-Przysłówek: まじめに
+過去形: まじめでした  
+否定形: まじめではありません  
+副詞形: まじめに
+そう (looks like): 真面目そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
 <!--ID: 1763465823128-->
 
 
@@ -1646,9 +2148,12 @@ Przysłówek: まじめに
 
 fine / respectable / impressive #k #wp #card
 ほんやく: 立派（りっぱ）  
-Forma przeszła: りっぱでした  
-Przeczenie: りっぱではありません  
-Przysłówek: りっぱに
+過去形: りっぱでした  
+否定形: りっぱではありません  
+副詞形: りっぱに
+そう (looks like): 立派そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_派.html">派</a>
 <!--ID: 1763465823129-->
 
 
@@ -1656,9 +2161,12 @@ Przysłówek: りっぱに
 
 regrettable #wp #card
 ほんやく: 残念（ざんねん）  
-Forma przeszła: ざんねんでした  
-Przeczenie: ざんねんではありません  
-Przysłówek: ざんねんに
+過去形: ざんねんでした  
+否定形: ざんねんではありません  
+副詞形: ざんねんに
+そう (looks like): 残念そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_残.html">残</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_念.html">念</a>
 <!--ID: 1763465823130-->
 
 
@@ -1666,9 +2174,11 @@ Przysłówek: ざんねんに
 
 free (not busy) #wp #card
 ほんやく: 暇（ひま）  
-Forma przeszła: ひまでした  
-Przeczenie: ひまではありません  
-Przysłówek: ひまに
+過去形: ひまでした  
+否定形: ひまではありません  
+副詞形: ひまに
+そう (looks like): 暇そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_暇.html">暇</a>
 <!--ID: 1763465823131-->
 
 
@@ -1676,9 +2186,12 @@ Przysłówek: ひまに
 
 difficult / hard (adjective) #k #wp #card
 ほんやく: 大変（たいへん）  
-Forma przeszła: たいへんでした  
-Przeczenie: たいへんではありません  
-Przysłówek: たいへんに
+過去形: たいへんでした  
+否定形: たいへんではありません  
+副詞形: たいへんに
+そう (looks like): 大変そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
 <!--ID: 1763465823132-->
 
 
@@ -1686,8 +2199,10 @@ Przysłówek: たいへんに
 
 separation / separately / split #wp #card
 ほんやく: 別々（べつべつ）  
-Forma przeszła: べつべつでした  
-Przeczenie: べつべつではありません  
-Przysłówek: べつべつに
+過去形: べつべつでした  
+否定形: べつべつではありません  
+副詞形: べつべつに
+そう (looks like): 別々そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1763465823133-->
 

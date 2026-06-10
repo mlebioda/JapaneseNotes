@@ -117,10 +117,12 @@ Determine card type from the (now-normalized) block:
 
 | Condition | Card type |
 |-----------|-----------|
-| Has `ほんやく:` AND has `ます形:` or `て形:` rows | `#wc` verb (non-suru) |
-| Has `ほんやく:` AND has `過去形:` row | `#wp` adjective |
-| Has `ほんやく:` only (no form rows) | `#wc` suru verb — skip Repairs 3 and 3b |
-| No `ほんやく:` line | `#w` noun/expression — skip Repairs 3, 3b, 4, and 4b |
+| Title line contains `#wc` AND block has `ます形:` or `て形:` rows | `#wc` verb (non-suru) |
+| Title line contains `#wc` AND no form rows | `#wc` suru verb — skip Repairs 3 and 3b |
+| Title line contains `#wp` | `#wp` adjective |
+| Title line contains neither `#wc` nor `#wp` | `#w` noun/expression — skip Repairs 3, 3b, 4, and 4b |
+
+Note: `#w` blocks in existing files often carry a `ほんやく:` label on the second line as a legacy fill artifact. This does **not** make them suru verbs — the title marker is the authoritative type signal. Do not strip the `ほんやく:` label from `#w` blocks; the canonical template simply does not require it.
 
 ---
 

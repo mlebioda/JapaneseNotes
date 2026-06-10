@@ -576,170 +576,170 @@ Structure:
 
 to do / to give / to run (a company), to work #card
 ほんやく: (を)やる
-ます形: やります
 て形: やって
 た形: やった
+ます形: やります
+出す形 (start): やり出す
+そう (looks like): やりそう
+お〜になる (honorific): おやりになる
 ない形: やらない
 なかった形: やらなかった
+あれる形 (passive): やられる
+尊敬語 (honorific): やられる
 ば形 (if): やれば
 可能形 (can): やれる
-あれる形 (passive): やられる
-出す形 (start): やり出す
-尊敬語 (honorific): やられる
-お〜になる (honorific): おやりになる
-そう (looks like): やりそう
-おう (let's): やろう
+おう形 (let's): やろう
 <!--ID: 1776268643596-->
 
 
 to look for #card
 ほんやく: 探す（さがす）
-ます形: 探します
 て形: 探して
 た形: 探した
+ます形: 探します
+出す形 (start): 探し出す
+そう (looks like): 探しそう
+お〜になる (honorific): お探しになる
 ない形: 探さない
 なかった形: 探さなかった
+あれる形 (passive): 探される
+尊敬語 (honorific): 探される
 ば形 (if): 探せば
 可能形 (can): 探せる
-あれる形 (passive): 探される
-出す形 (start): 探し出す
-尊敬語 (honorific): 探される
-お〜になる (honorific): お探しになる
-そう (looks like): 探しそう
-おう (let's): 探そう
+おう形 (let's): 探そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_探.html">探</a>
 <!--ID: 1776268643597-->
 
 
 to find #k #card
 ほんやく: 見つける（みつける）
-ます形: 見つけます
 て形: 見つけて
 た形: 見つけた
+ます形: 見つけます
+出す形 (start): 見つけ出す
+そう (looks like): 見つけそう
+お〜になる (honorific): お見つけになる
 ない形: 見つけない
 なかった形: 見つけなかった
+あれる形 (passive): 見つけられる
+尊敬語 (honorific): 見つけられる
 ば形 (if): 見つければ
 可能形 (can): 見つけられる
-あれる形 (passive): 見つけられる
-出す形 (start): 見つけ出す
-尊敬語 (honorific): 見つけられる
-お〜になる (honorific): お見つけになる
-そう (looks like): 見つけそう
-おう (let's): 見つけよう
+おう形 (let's): 見つけよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1776268643598-->
 
 
 to be late #card
 ほんやく: 遅れる（おくれる）
-ます形: 遅れます
 て形: 遅れて
 た形: 遅れた
+ます形: 遅れます
+出す形 (start): 遅れ出す
+そう (looks like): 遅れそう
+お〜になる (honorific): お遅れになる
 ない形: 遅れない
 なかった形: 遅れなかった
+あれる形 (passive): 遅れられる
+尊敬語 (honorific): 遅れられる
 ば形 (if): 遅れれば
 可能形 (can): 遅れられる
-あれる形 (passive): 遅れられる
-出す形 (start): 遅れ出す
-尊敬語 (honorific): 遅れられる
-お〜になる (honorific): お遅れになる
-そう (looks like): 遅れそう
-おう (let's): 遅れよう
+おう形 (let's): 遅れよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遅.html">遅</a>
 <!--ID: 1776268643599-->
 
 
 to cry #card
 ほんやく: 泣く（なく）
-ます形: 泣きます
 て形: 泣いて
 た形: 泣いた
+ます形: 泣きます
+出す形 (start): 泣き出す
+そう (looks like): 泣きそう
+お〜になる (honorific): お泣きになる
 ない形: 泣かない
 なかった形: 泣かなかった
+あれる形 (passive): 泣かれる
+尊敬語 (honorific): 泣かれる
 ば形 (if): 泣けば
 可能形 (can): 泣ける
-あれる形 (passive): 泣かれる
-出す形 (start): 泣き出す
-尊敬語 (honorific): 泣かれる
-お〜になる (honorific): お泣きになる
-そう (looks like): 泣きそう
-おう (let's): 泣こう
+おう形 (let's): 泣こう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_泣.html">泣</a>
 <!--ID: 1776268643600-->
 
 
 to search / to look up #card
 ほんやく: (を)調べる（しらべる）
-ます形: 調べます
 て形: 調べて
 た形: 調べた
+ます形: 調べます
+出す形 (start): 調べ出す
+そう (looks like): 調べそう
+お〜になる (honorific): お調べになる
 ない形: 調べない
 なかった形: 調べなかった
+あれる形 (passive): 調べられる
+尊敬語 (honorific): 調べられる
 ば形 (if): 調べれば
 可能形 (can): 調べられる
-あれる形 (passive): 調べられる
-出す形 (start): 調べ出す
-尊敬語 (honorific): 調べられる
-お〜になる (honorific): お調べになる
-そう (looks like): 調べそう
-おう (let's): 調べよう
+おう形 (let's): 調べよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_調.html">調</a>
 <!--ID: 1776268643601-->
 
 
 to close / zamknąć #card
 ほんやく: 閉める（しめる）
-ます形: 閉めます
 て形: 閉めて
 た形: 閉めた
+ます形: 閉めます
+出す形 (start): 閉め出す
+そう (looks like): 閉めそう
+お〜になる (honorific): お閉めになる
 ない形: 閉めない
 なかった形: 閉めなかった
+あれる形 (passive): 閉められる
+尊敬語 (honorific): 閉められる
 ば形 (if): 閉めれば
 可能形 (can): 閉められる
-あれる形 (passive): 閉められる
-出す形 (start): 閉め出す
-尊敬語 (honorific): 閉められる
-お〜になる (honorific): お閉めになる
-そう (looks like): 閉めそう
-おう (let's): 閉めよう
+おう形 (let's): 閉めよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_閉.html">閉</a>
 <!--ID: 1776268643602-->
 
 
 to pass / too much #card
 ほんやく: 過ぎる（すぎる）
-ます形: 過ぎます
 て形: 過ぎて
 た形: 過ぎた
+ます形: 過ぎます
+出す形 (start): 過ぎ出す
+そう (looks like): 過ぎそう
+お〜になる (honorific): お過ぎになる
 ない形: 過ぎない
 なかった形: 過ぎなかった
+あれる形 (passive): 過ぎられる
+尊敬語 (honorific): 過ぎられる
 ば形 (if): 過ぎれば
 可能形 (can): 過ぎられる
-あれる形 (passive): 過ぎられる
-出す形 (start): 過ぎ出す
-尊敬語 (honorific): 過ぎられる
-お〜になる (honorific): お過ぎになる
-そう (looks like): 過ぎそう
-おう (let's): 過ぎよう
+おう形 (let's): 過ぎよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_過.html">過</a>
 <!--ID: 1776268643603-->
 
 
 to be built / completed / to be able to #k #card
 ほんやく: 出来る（できる）
-ます形: 出来ます
 て形: 出来て
 た形: 出来た
+ます形: 出来ます
+出す形 (start): 出来出す
+そう (looks like): 出来そう
+お〜になる (honorific): お出来になる
 ない形: 出来ない
 なかった形: 出来なかった
+あれる形 (passive): 出来られる
+尊敬語 (honorific): 出来られる
 ば形 (if): 出来れば
 可能形 (can): 出来れる
-あれる形 (passive): 出来られる
-出す形 (start): 出来出す
-尊敬語 (honorific): 出来られる
-お〜になる (honorific): お出来になる
-そう (looks like): 出来そう
-おう (let's): 出来よう
+おう形 (let's): 出来よう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1776268643604-->
@@ -747,57 +747,57 @@ to be built / completed / to be able to #k #card
 
 to get wet #card
 ほんやく: 濡れる（ぬれる）
-ます形: 濡れます
 て形: 濡れて
 た形: 濡れた
+ます形: 濡れます
+出す形 (start): 濡れ出す
+そう (looks like): 濡れそう
+お〜になる (honorific): お濡れになる
 ない形: 濡れない
 なかった形: 濡れなかった
+あれる形 (passive): 濡れられる
+尊敬語 (honorific): 濡れられる
 ば形 (if): 濡れれば
 可能形 (can): 濡れられる
-あれる形 (passive): 濡れられる
-出す形 (start): 濡れ出す
-尊敬語 (honorific): 濡れられる
-お〜になる (honorific): お濡れになる
-そう (looks like): 濡れそう
-おう (let's): 濡れよう
+おう形 (let's): 濡れよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_濡.html">濡</a>
 <!--ID: 1776268643605-->
 
 
 to carry / hold / take #card
 ほんやく: 取る（とる）
-ます形: 取ります
 て形: 取って
 た形: 取った
+ます形: 取ります
+出す形 (start): 取り出す
+そう (looks like): 取りそう
+お〜になる (honorific): お取りになる
 ない形: 取らない
 なかった形: 取らなかった
+あれる形 (passive): 取られる
+尊敬語 (honorific): 取られる
 ば形 (if): 取れば
 可能形 (can): 取れる
-あれる形 (passive): 取られる
-出す形 (start): 取り出す
-尊敬語 (honorific): 取られる
-お〜になる (honorific): お取りになる
-そう (looks like): 取りそう
-おう (let's): 取ろう
+おう形 (let's): 取ろう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_取.html">取</a>
 <!--ID: 1776268643606-->
 
 
 to take (photo) #card
 ほんやく: 撮る（とる）
-ます形: 撮ります
 て形: 撮って
 た形: 撮った
+ます形: 撮ります
+出す形 (start): 撮り出す
+そう (looks like): 撮りそう
+お〜になる (honorific): お撮りになる
 ない形: 撮らない
 なかった形: 撮らなかった
+あれる形 (passive): 撮られる
+尊敬語 (honorific): 撮られる
 ば形 (if): 撮れば
 可能形 (can): 撮れる
-あれる形 (passive): 撮られる
-出す形 (start): 撮り出す
-尊敬語 (honorific): 撮られる
-お〜になる (honorific): お撮りになる
-そう (looks like): 撮りそう
-おう (let's): 撮ろう
+おう形 (let's): 撮ろう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_撮.html">撮</a>
 <!--ID: 1776268643607-->
 

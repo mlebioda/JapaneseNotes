@@ -383,19 +383,19 @@ Is the work still not finished? #k #card
 
 to start (I start something) #k #card
 ほんやく: 始める（はじ）
-ます形: 始めます
 て形: 始めて
 た形: 始めた
+ます形: 始めます
+出す形 (start): 始め出す
+そう (looks like): 始めそう
+お〜になる (honorific): お始めになる
 ない形: 始めない
 なかった形: 始めなかった
+あれる形 (passive): 始められる
+尊敬語 (honorific): 始められる
 ば形 (if): 始めれば
 可能形 (can): 始められる
-あれる形 (passive): 始められる
-出す形 (start): 始め出す
-尊敬語 (honorific): 始められる
-お〜になる (honorific): お始めになる
-そう (looks like): 始めそう
-おう (let's): 始めよう
+おう形 (let's): 始めよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
 <!--ID: 1780855042427-->
 
@@ -410,19 +410,19 @@ Start the movie #k #card
 
 begin (starts on its own) #k #card
 ほんやく: 始まる（はじ）
-ます形: 始まります
 て形: 始まって
 た形: 始まった
+ます形: 始まります
+出す形 (start): 始まり出す
+そう (looks like): 始まりそう
+お〜になる (honorific): お始まりになる
 ない形: 始まらない
 なかった形: 始まらなかった
+あれる形 (passive): 始まられる
+尊敬語 (honorific): 始まられる
 ば形 (if): 始まれば
 可能形 (can): 始まれる
-あれる形 (passive): 始まられる
-出す形 (start): 始まり出す
-尊敬語 (honorific): 始まられる
-お〜になる (honorific): お始まりになる
-そう (looks like): 始まりそう
-おう (let's): 始まろう
+おう形 (let's): 始まろう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
 <!--ID: 1780855042433-->
 
@@ -469,19 +469,19 @@ my company's starting time is 9Am #k #card
 
 end (on its own) #k #card
 ほんやく: 終わる（お）
-ます形: 終わります
 て形: 終わって
 た形: 終わった
+ます形: 終わります
+出す形 (start): 終わり出す
+そう (looks like): 終わりそう
+お〜になる (honorific): お終わりになる
 ない形: 終わらない
 なかった形: 終わらなかった
+あれる形 (passive): 終わられる
+尊敬語 (honorific): 終わられる
 ば形 (if): 終われば
 可能形 (can): 終われる
-あれる形 (passive): 終わられる
-出す形 (start): 終わり出す
-尊敬語 (honorific): 終わられる
-お〜になる (honorific): お終わりになる
-そう (looks like): 終わりそう
-おう (let's): 終わろう
+おう形 (let's): 終わろう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_終.html">終</a>
 <!--ID: 1780855042449-->
 
@@ -496,19 +496,19 @@ lesson ends #k #card
 
 finish (someone actively finishes smth) #k #card
 ほんやく: 終える（お）
-ます形: 終えます
 て形: 終えて
 た形: 終えた
+ます形: 終えます
+出す形 (start): 終え出す
+そう (looks like): 終えそう
+お〜になる (honorific): お終えになる
 ない形: 終えない
 なかった形: 終えなかった
+あれる形 (passive): 終えられる
+尊敬語 (honorific): 終えられる
 ば形 (if): 終えれば
 可能形 (can): 終えられる
-あれる形 (passive): 終えられる
-出す形 (start): 終え出す
-尊敬語 (honorific): 終えられる
-お〜になる (honorific): お終えになる
-そう (looks like): 終えそう
-おう (let's): 終えよう
+おう形 (let's): 終えよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_終.html">終</a>
 <!--ID: 1780855042454-->
 
@@ -554,19 +554,19 @@ I'll stay home all day on sunday #k #card
 
 build #k #card
 ほんやく: 建てる（た）
-ます形: 建てます
 て形: 建てて
 た形: 建てた
+ます形: 建てます
+出す形 (start): 建て出す
+そう (looks like): 建てそう
+お〜になる (honorific): お建てになる
 ない形: 建てない
 なかった形: 建てなかった
+あれる形 (passive): 建てられる
+尊敬語 (honorific): 建てられる
 ば形 (if): 建てれば
 可能形 (can): 建てられる
-あれる形 (passive): 建てられる
-出す形 (start): 建て出す
-尊敬語 (honorific): 建てられる
-お〜になる (honorific): お建てになる
-そう (looks like): 建てそう
-おう (let's): 建てよう
+おう形 (let's): 建てよう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
 <!--ID: 1780855042469-->
 

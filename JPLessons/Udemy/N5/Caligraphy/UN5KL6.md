@@ -133,182 +133,259 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 
  --- 
 
+# Summary
 
 
  Rzeczowniki:
 
  beginning of the year #k #card
 ほんやく: 年の始め（とし, はじめ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
 <!--ID: 1763383998725-->
 
 
  year 2000 #k #card
 ほんやく: 二千年（にせんねん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1763383998728-->
 
 
  every day #k #card
 ほんやく: 毎日（まいにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1763383998729-->
 
 
  every year #k #card
 ほんやく: 毎年（まいとし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1763383998730-->
 
 
  that time #k #card
 ほんやく: その時（とき) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1763383998731-->
 
 
  4 o'clock #k #card
 ほんやく: 四時（よじ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1763383998732-->
 
 
  watch #k #card
 ほんやく: 時計（とけい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <!--ID: 1763383998733-->
 
 
  to divide the cake for three people #k #card
 ほんやく: ケーキを三人に分ける（さんにん、わ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1763383998734-->
 
 
  understand japanese language #k #card
 ほんやく: 日本語が分かる 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1763383998735-->
 
 
  enough #k #card
 ほんやく: 十分（じゅうぶん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1763383998736-->
 
 
  5 minute #k #card
 ほんやく: 五分（ごふん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1763383998737-->
 
 
  1 minute #k #card
 ほんやく: 一分（いっぷん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1763383998738-->
 
 
  before noon #k #card
 ほんやく: 午前（ごぜん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_午.html">午</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <!--ID: 1763383998739-->
 
 
  afternoon #k #card
 ほんやく: 午後（ごご）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_午.html">午</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
 <!--ID: 1763383998740-->
 
 
  between tree and tree #k #card
 ほんやく: 木と木の間 (あいだ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1763383998741-->
 
 
  during 3 years #k #card
 ほんやく: 三年の間（さんねん、あいだ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1763383998742-->
 
 
  time #k #card
 ほんやく: 時間（じかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1763383998743-->
 
 
  for a year #k #card
 ほんやく: 一年間（いちねんかん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1763383998744-->
 
 
  now, i'm studying #k #card
 ほんやく: 今、勉強します（いま、べんきょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勉.html">勉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1763383998745-->
 
 
  half #k #card
 ほんやく: 半分（はんぶん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_半.html">半</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1763383998746-->
 
 
  5:30 #k #card
 ほんやく: 五時半（ごじはん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_半.html">半</a>
 <!--ID: 1763383998747-->
 
 
  half day #k #card
 ほんやく: 半日（はんにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_半.html">半</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1763383998748-->
 
 
  morning sun #k #card
 ほんやく: 朝日（あさひ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1763383998749-->
 
 
  breakfast not formal#k #card
 ほんやく: 朝ご飯（あさ、はん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1763383998750-->
 
 
  breakfast formal #w #card
 ほんやく: 朝食（ちょうしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763383998751-->
 
 
  lunch break #k #card
 ほんやく: 昼休み（ひるやすみ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <!--ID: 1763383998752-->
 
 
  lunch (not formal) #k #card
 ほんやく: 昼ご飯（ひるごはん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1763383998753-->
 
 
  lunch formal #k #card
 ほんやく: 昼食（ちゅうしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763383998754-->
 
 
  setting sun #k #card
 ほんやく: 夕日（ゆうひ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1763383998755-->
 
 
  dinner #k #card
 ほんやく: 夕食（ゆうしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763383998756-->
 
 
  evening #k #card
 ほんやく: 夕方（ゆうがた）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1763383998757-->
 
 
  it becomes night #k #card
 ほんやく: 夜になる（よる）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1763383998758-->
 
 
  sklep calodobowy #card
 ほんやく: 夜店（よみせ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <!--ID: 1763383998759-->
 
 
  tonight #card
 ほんやく: 今夜（こんや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1763383998760-->
 
 
  late night snack #card
 ほんやく: 夜食（やしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763383998761-->
 
 
@@ -318,13 +395,20 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 
  understand #k #wc #card
 ほんやく: 分かる（わ）  
-ます形: わかります  
-て形: わかって  
-た形: わかった  
-ない形: わからない  
-かった形: わからなかった  
-ば形: わかれば  
-出す形: わかりだす
+て形: わかって
+た形: わかった
+ます形: わかります
+出す形 (start): わかり出す
+そう (looks like): わかりそう
+お〜になる (honorific): お分かりになる
+ない形: わからない
+なかった形: わからなかった
+受身形 (passive): わかられる
+尊敬語 (honorific): わかられる
+ば形 (if): わかれば
+可能形 (can): わかれる
+おう形 (let's): わかろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1763383998762-->
 
 
@@ -332,13 +416,20 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 
 to divide #k #wc #card
 ほんやく: 分ける（わ）  
-ます形: わけます  
-て形: わけて  
-た形: わけた  
-ない形: わけない  
-かった形: わけなかった  
-ば形: わければ  
-出す形: わけだす
+て形: わけて
+た形: わけた
+ます形: わけます
+出す形 (start): わけ出す
+そう (looks like): わけそう
+お〜になる (honorific): お分けになる
+ない形: わけない
+なかった形: わけなかった
+受身形 (passive): わけられる
+尊敬語 (honorific): わけられる
+ば形 (if): わければ
+可能形 (can): わけられる
+おう形 (let's): わけよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1763383998763-->
 
 
@@ -346,13 +437,21 @@ to divide #k #wc #card
 
 to be on time #k #wc #card
 ほんやく: 間に合う（ま、に）  
-ます形: まにあいます  
-て形: まにあって  
-た形: まにあった  
-ない形: まにあわない  
-かった形: まにあわなかった  
-ば形: まにあえば  
-出す形: まにあいだす
+て形: まにあって
+た形: まにあった
+ます形: まにあいます
+出す形 (start): まにあい出す
+そう (looks like): まにあいそう
+お〜になる (honorific): お間に合いになる
+ない形: まにあわない
+なかった形: まにあわなかった
+受身形 (passive): まにあわれる
+尊敬語 (honorific): まにあわれる
+ば形 (if): まにあえば
+可能形 (can): まにあえる
+おう形 (let's): まにあおう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1763383998764-->
 
 

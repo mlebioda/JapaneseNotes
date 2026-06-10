@@ -131,204 +131,287 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 #w 名人（めいじん）- master
 
 
- --- 
+# Summary
 
 
 
  Rzeczowniki:
 
  eye drops #card
-Tłumaczenie: 目薬（めぐすり）
+ほんやく: 目薬（めぐすり）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_薬.html">薬</a>
 <!--ID: 1761890414716-->
 
 
  first day #card
-Tłumaczenie: 1日目（いちにちめ ) 
+ほんやく: 1日目（いちにちめ ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
 <!--ID: 1761890414722-->
 
 
  first day of the trip i traveled to kyoto #card
-Tłumaczenie: 旅行の1日目に京都へ行きました（りょこう、いちにちめ) 
+ほんやく: 旅行の1日目に京都へ行きました（りょこう、いちにちめ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <!--ID: 1761890414725-->
 
 
  aim #card
-Tłumaczenie: 目的（もくてき）
+ほんやく: 目的（もくてき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_的.html">的</a>
 <!--ID: 1761890414728-->
 
 
  our aim of the trip is to take a rest #card
-Tłumaczenie: 旅行の目的は休むことです(りょこう、もくてき、やす) 
+ほんやく: 旅行の目的は休むことです(りょこう、もくてき、やす) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_的.html">的</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <!--ID: 1761890414731-->
 
 
  human's mouth #card
-Tłumaczenie: 人の口（ひとのくち）
+ほんやく: 人の口（ひとのくち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_口.html">口</a>
 <!--ID: 1761890414734-->
 
 
  entrance #card
-Tłumaczenie: 入り口（いりぐち）
+ほんやく: 入り口（いりぐち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_口.html">口</a>
 <!--ID: 1761890414737-->
 
 
  exit #card
-Tłumaczenie: 出口（でぐち) 
+ほんやく: 出口（でぐち) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_口.html">口</a>
 <!--ID: 1761890414741-->
 
 
  population #card
-Tłumaczenie: 人口（じんこう）
+ほんやく: 人口（じんこう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_口.html">口</a>
 <!--ID: 1761890414743-->
 
 
  ear #card
-Tłumaczenie: 耳（みみ）
+ほんやく: 耳（みみ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_耳.html">耳</a>
 <!--ID: 1761890414745-->
 
 
  ear and eye #card
-Tłumaczenie: 耳目（じもく）
+ほんやく: 耳目（じもく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_耳.html">耳</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
 <!--ID: 1761890414748-->
 
 
 przyciągać uwagę #card
 **耳目を集める（じもくをあつめる）**
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_耳.html">耳</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1761890414751-->
 
 
  a diary #card
-Tłumaczenie: 手帳（てちょう）
+ほんやく: 手帳（てちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帳.html">帳</a>
 <!--ID: 1761890414754-->
 
 
  driver #card
-Tłumaczenie: 運転手（うんてんしゅ）
+ほんやく: 運転手（うんてんしゅ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1761890414758-->
 
 
  good at #card
-Tłumaczenie: 上手(じょうず) 
+ほんやく: 上手(じょうず) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1761890414763-->
 
 
  poor at #card
-Tłumaczenie: 下手（へた） 
+ほんやく: 下手（へた） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1761890414766-->
 
 
  leg/ feet #card
-Tłumaczenie: 足（あし）
+ほんやく: 足（あし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1761890414770-->
 
 
  quick on one's feet #card
-Tłumaczenie: 足がはやい（あし）
+ほんやく: 足がはやい（あし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1761890414772-->
 
 
  one is enough #card
-Tłumaczenie: 一つで足りる（ひとつ、た）
+ほんやく: 一つで足りる（ひとつ、た）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1761890414775-->
 
 
  two pairs of shoes #card
-Tłumaczenie: 二足（にそく）
+ほんやく: 二足（にそく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1761890414778-->
 
 
  an excursion(trip) #card
-Tłumaczenie: 遠足（えんそく）
+ほんやく: 遠足（えんそく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遠.html">遠</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1761890414781-->
 
 
  power, strength #card
-Tłumaczenie: 力（ちから）
+ほんやく: 力（ちから）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
 <!--ID: 1761890414783-->
 
 
  One's power is strong #card
-Tłumaczenie: 力が強い（ちから、つよい）
+ほんやく: 力が強い（ちから、つよい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1761890414786-->
 
 
  psychical strenght #card
-Tłumaczenie: 体力（たいりょく）
+ほんやく: 体力（たいりょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
 <!--ID: 1761890414789-->
 
 
  a sumo wrestler #card
-Tłumaczenie: 力士（りきし）
+ほんやく: 力士（りきし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_士.html">士</a>
 <!--ID: 1761890414792-->
 
 
  father (own, and smone, social context) #card
-Tłumaczenie: 父親（父おや）
+ほんやく: 父親（父おや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
 <!--ID: 1761890414795-->
 
 
  grandfather #card
-Tłumaczenie: 祖父（そふ）
+ほんやく: 祖父（そふ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_祖.html">祖</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <!--ID: 1761890414798-->
 
 
  mother (own, and smone, social context) #card
-Tłumaczenie: 母親（ははおや）
+ほんやく: 母親（ははおや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
 <!--ID: 1761890414800-->
 
 
  grandmother #card
-Tłumaczenie: 祖母（そぼ） 
+ほんやく: 祖母（そぼ） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_祖.html">祖</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <!--ID: 1761890414803-->
 
 
  homeland #card
-Tłumaczenie: 母国（ぼこく）
+ほんやく: 母国（ぼこく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1761890414806-->
 
 
  im a man #card
-Tłumaczenie: 私は男です（おとこ）
+ほんやく: 私は男です（おとこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_男.html">男</a>
 <!--ID: 1761890414808-->
 
 
  male #card
-Tłumaczenie: 男性（だんせい）
+ほんやく: 男性（だんせい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_男.html">男</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_性.html">性</a>
 <!--ID: 1761890414810-->
 
 
  the oldest brother #card
-Tłumaczenie: 長男（ちょうなん）
+ほんやく: 長男（ちょうなん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_男.html">男</a>
 <!--ID: 1761890414813-->
 
 
  female #card
-Tłumaczenie: 女性（じょせい) 
+ほんやく: 女性（じょせい) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_女.html">女</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_性.html">性</a>
 <!--ID: 1761890414815-->
 
 
  boy #card
-Tłumaczenie: 男子（だんし）
+ほんやく: 男子（だんし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_男.html">男</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <!--ID: 1761890414819-->
 
 
  girl #card
-Tłumaczenie: 女子（じょし） 
+ほんやく: 女子（じょし） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_女.html">女</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <!--ID: 1761890414821-->
 
 
  human being #card
-Tłumaczenie: 人間（にんげん）
+ほんやく: 人間（にんげん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761890414826-->
 
 
  name #card
-Tłumaczenie: 名前（なまえ）
+ほんやく: 名前（なまえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <!--ID: 1761890414829-->
 
 
  master #card
-Tłumaczenie: 名人（めいじん）
+ほんやく: 名人（めいじん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1761890414832-->
 
 
@@ -337,13 +420,21 @@ Tłumaczenie: 名人（めいじん）
  Czasowniki:
 
 be enough/sufficient #card
-Tłumaczenie: 足りる（た）  
-Forma masu: たります  
-Forma te: たりて  
-Forma ta: たりた  
-Forma nai: たりない  
-Forma katta: たりなかった  
-Forma ba: たりれば
+ほんやく: 足りる（た）  
+て形: たりて
+た形: たりた
+ます形: たります
+出す形 (start): たり出す
+そう (looks like): たりそう
+お〜になる (honorific): お足りになる
+ない形: たりない
+なかった形: たりなかった
+受身形 (passive): たりられる
+尊敬語 (honorific): たりられる
+ば形 (if): たりれば
+可能形 (can): たりられる
+おう形 (let's): たりよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1761890414836-->
 
 

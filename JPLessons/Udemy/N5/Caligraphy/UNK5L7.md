@@ -147,221 +147,311 @@ podobne kanji
  --- 
 
 
-
- Rzeczowniki:
+# Summary
 
  high price (expensive) #k #card
 ほんやく: 値段高い（ねだん、たかい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_値.html">値</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_段.html">段</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <!--ID: 1763555106602-->
 
 
  strong yen #k #card
 ほんやく: 円高（えんだか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_円.html">円</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <!--ID: 1763555106605-->
 
 
  high school student #k #card
 ほんやく: 高校生（こうこうせい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <!--ID: 1763555106606-->
 
 
  big mountain #k #card
 ほんやく: 大きい山（おお、やま）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <!--ID: 1763555106607-->
 
 
  university #k #card
 ほんやく: 大学（だいがく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1763555106608-->
 
 
  tournament #k #card
 ほんやく: 大会（たいかい） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <!--ID: 1763555106609-->
 
 
  middle #k #card
 ほんやく: 中（なか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <!--ID: 1763555106610-->
 
 
  inside of the school #k #card
 ほんやく: 学校の中（がっこう、なか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <!--ID: 1763555106611-->
 
 
  China #k #card
 ほんやく: 中国（ちゅうごく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1763555106612-->
 
 
  a middle school student #k  #card
 ほんやく: 中学生（ちゅうがくせい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <!--ID: 1763555106613-->
 
 
  center #card
 ほんやく: 中心（ちゅうしん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <!--ID: 1763555106614-->
 
 
  all day #k #card
 ほんやく: 一日中（いちにちじゅう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <!--ID: 1763555106615-->
 
 
  small #k #card
 ほんやく: 小さい（ちい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_小.html">小</a>
 <!--ID: 1763555106616-->
 
 
  stream #k #card
 ほんやく: 小川（おがわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_小.html">小</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_川.html">川</a>
 <!--ID: 1763555106617-->
 
 
  puppy、small dog #k #card
 ほんやく: 小犬（こいぬ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_小.html">小</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <!--ID: 1763555106618-->
 
 
  elementary school #k #card
 ほんやく: 小学校（しょうがっこう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_小.html">小</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
 <!--ID: 1763555106619-->
 
 
  long hair #card
 ほんやく: かみが長い（なが）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1763555106620-->
 
 
  ceo #card
 ほんやく: 社長（しゃちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1763555106621-->
 
 
  school principal #card
 ほんやく: 校長（こうちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1763555106622-->
 
 
  white #k #card
 ほんやく: 白 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1763555106623-->
 
 
  white house #k #card
 ほんやく: 白い家（しろ、いえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1763555106624-->
 
 
  pure white #k #card
 ほんやく: 真っ白（まっしろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1763555106625-->
 
 
  blank #card
 ほんやく: 空白（くうはく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1763555106626-->
 
 
  price #k #card
 ほんやく: 値段（ねだん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_値.html">値</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_段.html">段</a>
 <!--ID: 1763555106627-->
 
 
  cheap price #k #card
 ほんやく: ねだんが安い（やす）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <!--ID: 1763555106628-->
 
 
  to feel at ease/ poczuc sie bezpiecznie #k #card
 ほんやく: 安心する（あんしん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <!--ID: 1763555106629-->
 
 
  ulga, spokój #k #card
 ほんやく: 安心（あんしん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <!--ID: 1763555106630-->
 
 
  safety #k #card
 ほんやく: 安全（あんぜん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_全.html">全</a>
 <!--ID: 1763555106631-->
 
 
  new employee #k #card
 ほんやく: 新人（しんじん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1763555106632-->
 
 
  new year #k #card
 ほんやく: 新年（しんねん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1763555106633-->
 
 
  old school #k #card
 ほんやく: 古い学校（ふるい、がっこう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_古.html">古</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
 <!--ID: 1763555106634-->
 
 
  second hand/used #k #card
 ほんやく: 中古（ちゅうこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_古.html">古</a>
 <!--ID: 1763555106635-->
 
 
  used book #k #card
 ほんやく: 中古の本（ちゅうこ,ほん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_古.html">古</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <!--ID: 1763555106636-->
 
 
  many people #k #card
 ほんやく: 人が多い(ひと、おおい) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <!--ID: 1763555106637-->
 
 
  probably #k #card
 ほんやく: 多分（たぶん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1763555106638-->
 
 
  limited time #k #card
 ほんやく: 時間が少ない（じかん、すくない) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1763555106639-->
 
 
  a few, troche  #card
 ほんやく: 少し 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1763555106640-->
 
 
  it's rain a little #k #card
 ほんやく: 少し雨が降る（すこ、あめ、ふ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
 <!--ID: 1763555106641-->
 
 
  more or less #k #card
 ほんやく: 多少（たしょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1763555106642-->
 
 
  a little girl #k #card
 ほんやく: 少女（しょうじょ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_女.html">女</a>
 <!--ID: 1763555106643-->
 
 
  early time #k #card
 ほんやく: 時間が早い（じかん,はや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <!--ID: 1763555106644-->
 
 
  to get up early, early bird #k #card
 ほんやく: 早起き（はやおき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1763555106645-->
 
 
  early morning #k #card
 ほんやく: 早朝(そうちょう） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <!--ID: 1763555106646-->
 
 
@@ -371,81 +461,101 @@ podobne kanji
 
 high/expensive #k #wp #card
 ほんやく: 高い（たかい）  
-Forma przeszła: 高かった  
-Przeczenie: 高くない  
-Przysłówek: 高く
+過去形: 高かった
+否定形: 高くない
+副詞形: 高く
+そう (looks like): 高そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <!--ID: 1763555106647-->
 
 
 big #k #wp #card
 ほんやく: 大きい（おおきい）  
-Forma przeszła: 大きかった  
-Przeczenie: 大きくない  
-Przysłówek: 大きく
+過去形: 大きかった
+否定形: 大きくない
+副詞形: 大きく
+そう (looks like): 大きそう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <!--ID: 1763555106648-->
 
 
 long #wp #card
 ほんやく: 長い（ながい）  
-Forma przeszła: 長かった  
-Przeczenie: 長くない  
-Przysłówek: 長く
+過去形: 長かった
+否定形: 長くない
+副詞形: 長く
+そう (looks like): 長そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1763555106649-->
 
 
 white color #k #wp #card
 ほんやく: 白い（しろい）  
-Forma przeszła: 白かった  
-Przeczenie: 白くない  
-Przysłówek: 白く
+過去形: 白かった
+否定形: 白くない
+副詞形: 白く
+そう (looks like): 白そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1763555106650-->
 
 
 cheap #k #wp #card
 ほんやく: 安い（やすい）  
-Forma przeszła: 安かった  
-Przeczenie: 安くない  
-Przysłówek: 安く
+過去形: 安かった
+否定形: 安くない
+副詞形: 安く
+そう (looks like): 安そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <!--ID: 1763555106651-->
 
 
 new #k #wp #card
 ほんやく: 新しい（あたらしい）  
-Forma przeszła: 新しかった  
-Przeczenie: 新しくない  
-Przysłówek: 新しく
+過去形: 新しかった
+否定形: 新しくない
+副詞形: 新しく
+そう (looks like): 新しそう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <!--ID: 1763555106652-->
 
 
 old #k #wp #card
 ほんやく: 古い（ふるい）  
-Forma przeszła: 古かった  
-Przeczenie: 古くない  
-Przysłówek: 古く
+過去形: 古かった
+否定形: 古くない
+副詞形: 古く
+そう (looks like): 古そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_古.html">古</a>
 <!--ID: 1763555106653-->
 
 
 many, much #k #wp #card
 ほんやく: 多い（おおい）  
-Forma przeszła: 多かった  
-Przeczenie: 多くない  
-Przysłówek: 多く
+過去形: 多かった
+否定形: 多くない
+副詞形: 多く
+そう (looks like): 多そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <!--ID: 1763555106654-->
 
 
 malo, a little #wp #card
 ほんやく: 少ない（すくない）  
-Forma przeszła: 少なかった  
-Przeczenie: 少なくない  
-Przysłówek: 少なく
+過去形: 少なかった
+否定形: 少なくない
+副詞形: 少なく
+そう (looks like): 少なそう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1763555106655-->
 
 
 early #k #wp #card
 ほんやく: 早い（はやい）  
-Forma przeszła: 早かった  
-Przeczenie: 早くない  
-Przysłówek: 早く
+過去形: 早かった
+否定形: 早くない
+副詞形: 早く
+そう (looks like): 早そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <!--ID: 1763555106656-->
 
 

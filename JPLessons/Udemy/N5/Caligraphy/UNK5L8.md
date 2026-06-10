@@ -217,183 +217,244 @@ Say + tongue
 (ばい)
 #w 売買（する）（ばいばい）- sell and buy (N/V)
 
- --- 
+ 
+# Summary
 
-
-
- Rzeczowniki:
-
-
-
-
- --- 
-
-
-
- Rzeczowniki:
 
 to say one's thinking #k  #card
-Tłumaczenie: 考えを言う（かんが、い）
+ほんやく: 考えを言う（かんが、い）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_考.html">考</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1769684074746-->
 
 
 language #k  #card
-Tłumaczenie: 言語（げんご）
+ほんやく: 言語（げんご）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1769684074752-->
 
 
 message #k  #card
-Tłumaczenie: 伝言（でんごん）
+ほんやく: 伝言（でんごん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伝.html">伝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1769684074771-->
 
 
 to talk with friend #k  #card
-Tłumaczenie: 友達と話す（ともだち、はな）
+ほんやく: 友達と話す（ともだち、はな）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1769684074776-->
 
 
 rozmowa, talk noun (+verb) #k  #card
-Tłumaczenie: 話 (をする)（はなし）
+ほんやく: 話 (をする)（はなし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1769684074781-->
 
 
 to talk to mother (verb) #k  #card
-Tłumaczenie: 母と話をする（はは、はなし)
+ほんやく: 母と話をする（はは、はなし)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1769684074784-->
 
 
 conversation #k  #card
-Tłumaczenie: 会話（かいわ）
+ほんやく: 会話（かいわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1769684074789-->
 
 
 sign language #k  #card
-Tłumaczenie: 手話（しゅわ）
+ほんやく: 手話（しゅわ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1769684074792-->
 
 
 to tell the culture #k  #card
-Tłumaczenie: 文化を語る（ぶんか、かた）
+ほんやく: 文化を語る（ぶんか、かた）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_化.html">化</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1769684074797-->
 
 
 culture #k  #card
-Tłumaczenie: 文化 (ぶんか)
+ほんやく: 文化 (ぶんか)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_化.html">化</a>
 <!--ID: 1769684074802-->
 
 
 chinese language #k  #card
-Tłumaczenie: 中国語（ちゅうごくご）
+ほんやく: 中国語（ちゅうごくご）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1769684074806-->
 
 
 to read a book #k  #card
-Tłumaczenie: 本を読む
+ほんやく: 本を読む
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_読.html">読</a>
 <!--ID: 1769684074818-->
 
 
 reading a book (not natural) #k  #card
-Tłumaczenie: 読書（どくしょ）
+ほんやく: 読書（どくしょ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_読.html">読</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1769684074833-->
 
 
 to write words, signs #k  #card
-Tłumaczenie: 文字を書く（もじ、か）
+ほんやく: 文字を書く（もじ、か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1769684074840-->
 
 
 to write japanese #k  #card
-Tłumaczenie: 日本ほを書く（か）
+ほんやく: 日本ほを書く（か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1769684074844-->
 
 
 dictionary #k  #card
-Tłumaczenie: 辞書（じしょ）
+ほんやく: 辞書（じしょ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_辞.html">辞</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1769684074848-->
 
 
 to look at the mountain #k  #card
-Tłumaczenie: 山を見る（やま、み)
+ほんやく: 山を見る（やま、み)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1769684074854-->
 
 
 to show the note  #card
-Tłumaczenie: ノートを見せる (み)
+ほんやく: ノートを見せる (み)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1769684074867-->
 
 
 observe (learn by observing), visit (ogranized, like visit school, company) #k  #card
-Tłumaczenie: 見学する (けんがく)
+ほんやく: 見学する (けんがく)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1769684074871-->
 
 
 to listen to the voice #k  #card
-Tłumaczenie: 声を聞く（こえ, き)
+ほんやく: 声を聞く（こえ, き)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_声.html">声</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1769684074875-->
 
 
 hear the voice #k  #card
-Tłumaczenie: 音が聞こえる(おと、き）
+ほんやく: 音が聞こえる(おと、き）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1769684074880-->
 
 
 newspaper #k  #card
-Tłumaczenie: 新聞（しんぶん）
+ほんやく: 新聞（しんぶん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1769684074883-->
 
 
 sound #k  #card
-Tłumaczenie: 音(おと)
+ほんやく: 音(おと)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <!--ID: 1769684074886-->
 
 
 to give (conduct) a lesson #k  #card
-Tłumaczenie: 授業を行う（じゅぎょう、おこな)
+ほんやく: 授業を行う（じゅぎょう、おこな)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_授.html">授</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1769684074898-->
 
 
 a bank #k  #card
-Tłumaczenie: 銀行（銀行）
+ほんやく: 銀行（銀行）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1769684074903-->
 
 
 the first line #k  #card
-Tłumaczenie: 一行目（いちぎょうめ）
+ほんやく: 一行目（いちぎょうめ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
 <!--ID: 1769684074908-->
 
 
 People come #k  #card
-Tłumaczenie: 人が来る（ひと、くる）
+ほんやく: 人が来る（ひと、くる）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1769684074913-->
 
 
 my friend didn't come #k  #card
-Tłumaczenie: 友達が来ない（ともだち、こ）
+ほんやく: 友達が来ない（ともだち、こ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1769684074917-->
 
 
 teacher will come #k  #card
-Tłumaczenie: 先生が来ます（せんせい、き）
+ほんやく: 先生が来ます（せんせい、き）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1769684074921-->
 
 
 next year #k  #card
-Tłumaczenie: 来年（らいねん）
+ほんやく: 来年（らいねん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1769684074932-->
 
 
 to go outside of the house #k  #card
-Tłumaczenie: 家を出る
+ほんやく: 家を出る
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1769684074937-->
 
 
 to turn on water #k  #card
-Tłumaczenie: 水を出す（みず、だ）
+ほんやく: 水を出す（みず、だ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1769684074944-->
 
 
 to go out Noun #k  #card
-Tłumaczenie: 外出（がいしゅつ）
+ほんやく: 外出（がいしゅつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1769684074950-->
 
 
@@ -401,395 +462,546 @@ Tłumaczenie: 外出（がいしゅつ）
 外出です（がいしゅつ） – jestem poza domem / wyszedłem
 
 attendance #k  #card
-Tłumaczenie: 出席（しゅっせき）
+ほんやく: 出席（しゅっせき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_席.html">席</a>
 <!--ID: 1769684074954-->
 
 
 enter inside the house #k  #card
-Tłumaczenie: 家の中に入る（いえ、なか、はい)
+ほんやく: 家の中に入る（いえ、なか、はい)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1769684074965-->
 
 
 to put the book to the bag #k  #card
-Tłumaczenie: カバンに本を入れる（い）
+ほんやく: カバンに本を入れる（い）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1769684074971-->
 
 
 to enter school (N/V) #k  #card
-Tłumaczenie: 入学（する）(にゅうがく)
+ほんやく: 入学（する）(にゅうがく)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1769684074979-->
 
 
 food (casual) #k  #card
-Tłumaczenie: 食べ物
+ほんやく: 食べ物
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1769684074984-->
 
 
 to eat meat #k  #card
-Tłumaczenie: 肉を食べる（にく、た）
+ほんやく: 肉を食べる（にく、た）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1769684075000-->
 
 
 meal, little formal V/N #k  #card
-Tłumaczenie: 食事(する)(しょくじ)
+ほんやく: 食事(する)(しょくじ)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1769684075006-->
 
 
 food, artykul sporzywczy/ food product #k  #card
-Tłumaczenie: 食品（しょくひん）
+ほんやく: 食品（しょくひん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
 <!--ID: 1769684075014-->
 
 
 to eat meal in a restaurant #k  #card
-Tłumaczenie: レストランで食事をする（しょくじ）
+ほんやく: レストランで食事をする（しょくじ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1769684075019-->
 
 
 eat and drink (regulaminy itp) #k  #card
-Tłumaczenie: 飲食（いんしょく）
+ほんやく: 飲食（いんしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1769684075025-->
 
 
 it is forbidden to drink and eat here #k  #card
-Tłumaczenie: ここは飲食禁止です（いんしょく、きんし）
+ほんやく: ここは飲食禁止です（いんしょく、きんし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_禁.html">禁</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_止.html">止</a>
 <!--ID: 1769684075035-->
 
 
 zakaz  #card
-Tłumaczenie: 禁止 (きんし）
+ほんやく: 禁止 (きんし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_禁.html">禁</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_止.html">止</a>
 <!--ID: 1769684075040-->
 
 
 to stand in front of someone #k  #card
-Tłumaczenie: 目の前に立つ（め、まえ、た）
+ほんやく: 目の前に立つ（め、まえ、た）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <!--ID: 1769684075046-->
 
 
 national university #k  #card
-Tłumaczenie: 国立大学（こくりつだいがく）
+ほんやく: 国立大学（こくりつだいがく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1769684075052-->
 
 
 a stand up meal party #k  #card
-Tłumaczenie: 立食パーティー（りっしょく）
+ほんやく: 立食パーティー（りっしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1769684075059-->
 
 
 to rest a little bit #k  #card
-Tłumaczenie: 少し休む（すこ、やす）
+ほんやく: 少し休む（すこ、やす）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <!--ID: 1769684075068-->
 
 
 summer holiday #k  #card
-Tłumaczenie: 夏休み（なつ、やす）
+ほんやく: 夏休み（なつ、やす）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <!--ID: 1769684075073-->
 
 
 holiday #k  #card
-Tłumaczenie: 休日（きゅうじつ）
+ほんやく: 休日（きゅうじつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1769684075082-->
 
 
 to buy book #k  #card
-Tłumaczenie: 本を買う（ほん、か）
+ほんやく: 本を買う（ほん、か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1769684075085-->
 
 
 sell and buy (N/V) #k  #card
-Tłumaczenie: 売買（する）（ばいばい）
+ほんやく: 売買（する）（ばいばい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1769684075088-->
 
 
 
 to say #k  #card
 ほんやく: 言う（いう）
-ます形: 言います
 て形: 言って
 た形: 言った
+ます形: 言います
+出す形 (start): 言い出す
+そう (looks like): 言いそう
+お〜になる (honorific): おっしゃる
 ない形: 言わない
 なかった形: 言わなかった
-ば形: 言えば
-出す形: 言い出す
-そんけいご: いわれる
-お〜になる: おっしゃる
+受身形 (passive): いわれる
+尊敬語 (honorific): いわれる
+ば形 (if): 言えば
+可能形 (can): 言える
+おう形 (let's): 言おう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1769684075097-->
 
 
 talk #k  #card
 ほんやく: 話す（はなす）
-ます形: 話します
 て形: 話して
 た形: 話した
+ます形: 話します
+出す形 (start): 話し出す
+そう (looks like): 話しそう
+お〜になる (honorific): おはなしになる
 ない形: 話さない
 なかった形: 話さなかった
-ば形: 話せば
-出す形: 話し出す
-そんけいご: はなされる
-お〜になる: おはなしになる
+受身形 (passive): はなされる
+尊敬語 (honorific): はなされる
+ば形 (if): 話せば
+可能形 (can): 話せる
+おう形 (let's): 話そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1769684075101-->
 
 
 to tell, opowiedzieć (literacki styl) #k  #card
 ほんやく: 語る（かたる）
-ます形: 語ります
 て形: 語って
 た形: 語った
+ます形: 語ります
+出す形 (start): 語り出す
+そう (looks like): 語りそう
+お〜になる (honorific): おかたりになる
 ない形: 語らない
 なかった形: 語らなかった
-ば形: 語れば
-出す形: 語り出す
-そんけいご: かたられる
-お〜になる: おかたりになる
+受身形 (passive): かたられる
+尊敬語 (honorific): かたられる
+ば形 (if): 語れば
+可能形 (can): 語れる
+おう形 (let's): 語ろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1769684075107-->
 
 
 to read #k  #card
 ほんやく: 読む（よむ）
-ます形: 読みます
 て形: 読んで
 た形: 読んだ
+ます形: 読みます
+出す形 (start): 読み出す
+そう (looks like): 読みそう
+お〜になる (honorific): およみになる
 ない形: 読まない
 なかった形: 読まなかった
-ば形: 読めば
-出す形: 読み出す
-そんけいご: よまれる
-お〜になる: およみになる
+受身形 (passive): よまれる
+尊敬語 (honorific): よまれる
+ば形 (if): 読めば
+可能形 (can): 読める
+おう形 (let's): 読もう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_読.html">読</a>
 <!--ID: 1769684075115-->
 
 
 to write #k  #card
 ほんやく: 書く（かく）
-ます形: 書きます
 て形: 書いて
 た形: 書いた
+ます形: 書きます
+出す形 (start): 書き出す
+そう (looks like): 書きそう
+お〜になる (honorific): おかきになる
 ない形: 書かない
 なかった形: 書かなかった
-ば形: 書けば
-出す形: 書き出す
-そんけいご: かかれる
-お〜になる: おかきになる
+受身形 (passive): かかれる
+尊敬語 (honorific): かかれる
+ば形 (if): 書けば
+可能形 (can): 書ける
+おう形 (let's): 書こう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1769684075118-->
 
 
 to see  #card
 ほんやく: 見る（みる）
-ます形: 見ます
 て形: 見て
 た形: 見た
+ます形: 見ます
+出す形 (start): 見出す
+そう (looks like): 見そう
+お〜になる (honorific): ごらんになる
 ない形: 見ない
 なかった形: 見なかった
-ば形: 見れば
-出す形: 見出す
-そんけいご: みられる
-お〜になる: ごらんになる
+受身形 (passive): みられる
+尊敬語 (honorific): みられる
+ば形 (if): 見れば
+可能形 (can): 見られる
+おう形 (let's): 見よう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1769684075123-->
 
 
 to show  #card
 ほんやく: 見せる（みせる）
-ます形: 見せます
 て形: 見せて
 た形: 見せた
+ます形: 見せます
+出す形 (start): 見せ出す
+そう (looks like): 見せそう
+お〜になる (honorific): おみせになる
 ない形: 見せない
 なかった形: 見せなかった
-ば形: 見せれば
-出す形: 見せ出す
-そんけいご: みせられる
-お〜になる: おみせになる
+受身形 (passive): みせられる
+尊敬語 (honorific): みせられる
+ば形 (if): 見せれば
+可能形 (can): 見せられる
+おう形 (let's): 見せよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1769684075132-->
 
 
 to listen #k  #card
 ほんやく: 聞く（きく）
-ます形: 聞きます
 て形: 聞いて
 た形: 聞いた
+ます形: 聞きます
+出す形 (start): 聞き出す
+そう (looks like): 聞きそう
+お〜になる (honorific): おききになる
 ない形: 聞かない
 なかった形: 聞かなかった
-ば形: 聞けば
-出す形: 聞き出す
-そんけいご: きかれる
-お〜になる: おききになる
+受身形 (passive): きかれる
+尊敬語 (honorific): きかれる
+ば形 (if): 聞けば
+可能形 (can): 聞ける
+おう形 (let's): 聞こう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1769684075138-->
 
 
 to be heard, not actively hear #k  #card
 ほんやく: 聞こえる（きこえる）
-ます形: 聞こえます
 て形: 聞こえて
 た形: 聞こえた
+ます形: 聞こえます
+出す形 (start): 聞こえ出す
+そう (looks like): 聞こえそう
+お〜になる (honorific): ―
 ない形: 聞こえない
 なかった形: 聞こえなかった
-ば形: 聞こえれば
-出す形: 聞こえ出す
-そんけいご: きこえられる
-お〜になる: ―
+受身形 (passive): きこえられる
+尊敬語 (honorific): きこえられる
+ば形 (if): 聞こえれば
+可能形 (can): 聞こえられる
+おう形 (let's): 聞こえよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1769684075144-->
 
 
 to go #k  #card
 ほんやく: 行く（いく）
-ます形: 行きます
 て形: 行って
 た形: 行った
+ます形: 行きます
+出す形 (start): 行き出す
+そう (looks like): 行きそう
+お〜になる (honorific): おでかけになる
 ない形: 行かない
 なかった形: 行かなかった
-ば形: 行けば
-出す形: 行き出す
-そんけいご: いかれる
-お〜になる: おでかけになる
+受身形 (passive): いかれる
+尊敬語 (honorific): いかれる
+ば形 (if): 行けば
+可能形 (can): 行ける
+おう形 (let's): 行こう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1769684075151-->
 
 
 wykonywać, przeprowadzać, realizować (formalny) #k  #card
 ほんやく: 行う（おこなう）
-ます形: 行います
 て形: 行って
 た形: 行った
+ます形: 行います
+出す形 (start): 行い出す
+そう (looks like): 行いそう
+お〜になる (honorific): ―
 ない形: 行わない
-nかった形: 行わなかった
-ば形: 行えば
-出す形: 行い出す
-そんけいご: おこなわれる
-お〜になる: ―
+なかった形: 行わなかった
+受身形 (passive): おこなわれる
+尊敬語 (honorific): おこなわれる
+ば形 (if): 行えば
+可能形 (can): 行える
+おう形 (let's): 行おう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1769684075157-->
 
 
 to come #k  #card
 ほんやく: 来る（くる）
-ます形: 来ます（きます）
 て形: 来て（きて）
 た形: 来た（きた）
+ます形: 来ます（きます）
+出す形 (start): 来出す（きだす）
+そう (looks like): 来そう（きそう）
+お〜になる (honorific): おこしになる
 ない形: 来ない（こない）
 なかった形: 来なかった（こなかった）
-ば形: 来れば（くれば）
-出す形: 来出す
-そんけいご: こられる
-お〜になる: おこしになる
+受身形 (passive): こられる
+尊敬語 (honorific): こられる
+ば形 (if): 来れば（くれば）
+可能形 (can): 来られる（こられる）
+おう形 (let's): 来よう（こよう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1769684075168-->
 
 
 go out #k  #card
 ほんやく: 出る（でる）
-ます形: 出ます
 て形: 出て
 た形: 出た
+ます形: 出ます
+出す形 (start): 出出す
+そう (looks like): 出そう
+お〜になる (honorific): おでになる
 ない形: 出ない
 なかった形: 出なかった
-ば形: 出れば
-出す形: 出出す
-そんけいご: でられる
-お〜になる: おでになる
+受身形 (passive): でられる
+尊敬語 (honorific): でられる
+ば形 (if): 出れば
+可能形 (can): 出られる
+おう形 (let's): 出よう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1769684075175-->
 
 
 wyjmować / wysyłać #k  #card
 ほんやく: 出す（だす）
-ます形: 出します
 て形: 出して
 た形: 出した
+ます形: 出します
+出す形 (start): 出し出す
+そう (looks like): 出しそう
+お〜になる (honorific): おだしになる
 ない形: 出さない
 なかった形: 出さなかった
-ば形: 出せば
-出す形: 出し出す
-そんけいご: だされる
-お〜になる: おだしになる
+受身形 (passive): だされる
+尊敬語 (honorific): だされる
+ば形 (if): 出せば
+可能形 (can): 出せる
+おう形 (let's): 出そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1769684075181-->
 
 
 to enter #k  #card
 ほんやく: 入る（はいる）
-ます形: 入ります
 て形: 入って
 た形: 入った
+ます形: 入ります
+出す形 (start): 入り出す
+そう (looks like): 入りそう
+お〜になる (honorific): おはいりになる
 ない形: 入らない
 なかった形: 入らなかった
-ば形: 入れば
-出す形: 入り出す
-そんけいご: はいられる
-お〜になる: おはいりになる
+受身形 (passive): はいられる
+尊敬語 (honorific): はいられる
+ば形 (if): 入れば
+可能形 (can): 入れる
+おう形 (let's): 入ろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1769684075186-->
 
 
 to put in #k  #card
 ほんやく: 入れる（いれる）
-ます形: 入れます
 て形: 入れて
 た形: 入れた
+ます形: 入れます
+出す形 (start): 入れ出す
+そう (looks like): 入れそう
+お〜になる (honorific): おいれになる
 ない形: 入れない
 なかった形: 入れなかった
-ば形: 入れれば
-出す形: 入れ出す
-そんけいご: いれられる
-お〜になる: おいれになる
+受身形 (passive): いれられる
+尊敬語 (honorific): いれられる
+ば形 (if): 入れれば
+可能形 (can): 入れられる
+おう形 (let's): 入れよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1769684075190-->
 
 
 to eat #k  #card
 ほんやく: 食べる（たべる）
-ます形: 食べます
 て形: 食べて
 た形: 食べた
+ます形: 食べます
+出す形 (start): 食べ出す
+そう (looks like): 食べそう
+お〜になる (honorific): めしあがる
 ない形: 食べない
 なかった形: 食べなかった
-ば形: 食べれば
-出す形: 食べ出す
-そんけいご: たべられる
-お〜になる: めしあがる
+受身形 (passive): たべられる
+尊敬語 (honorific): たべられる
+ば形 (if): 食べれば
+可能形 (can): 食べられる
+おう形 (let's): 食べよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1769684075200-->
 
 
 to drink #k  #card
 ほんやく: 飲む（のむ）
-ます形: 飲みます
 て形: 飲んで
 た形: 飲んだ
+ます形: 飲みます
+出す形 (start): 飲み出す
+そう (looks like): 飲みそう
+お〜になる (honorific): おのみになる
 ない形: 飲まない
 なかった形: 飲まなかった
-ば形: 飲めば
-出す形: 飲み出す
-そんけいご: のまれる
-お〜になる: おのみになる
+受身形 (passive): のまれる
+尊敬語 (honorific): のまれる
+ば形 (if): 飲めば
+可能形 (can): 飲める
+おう形 (let's): 飲もう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
 <!--ID: 1769684075205-->
 
 
 to stand #k  #card
 ほんやく: 立つ（たつ）
-ます形: 立ちます
 て形: 立って
 た形: 立った
+ます形: 立ちます
+出す形 (start): 立ち出す
+そう (looks like): 立ちそう
+お〜になる (honorific): おたちになる
 ない形: 立たない
 なかった形: 立たなかった
-ば形: 立てば
-出す形: 立ち出す
-そんけいご: たたれる
-お〜になる: おたちになる
+受身形 (passive): たたれる
+尊敬語 (honorific): たたれる
+ば形 (if): 立てば
+可能形 (can): 立てる
+おう形 (let's): 立とう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <!--ID: 1769684075212-->
 
 
 to rest #k  #card
 ほんやく: 休む（やすむ）
-ます形: 休みます
 て形: 休んで
 た形: 休んだ
+ます形: 休みます
+出す形 (start): 休み出す
+そう (looks like): 休みそう
+お〜になる (honorific): おやすみになる
 ない形: 休まない
 なかった形: 休まなかった
-ば形: 休めば
-出す形: 休み出す
-そんけいご: やすまれる
-お〜になる: おやすみになる
+受身形 (passive): やすまれる
+尊敬語 (honorific): やすまれる
+ば形 (if): 休めば
+可能形 (can): 休める
+おう形 (let's): 休もう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <!--ID: 1769684075219-->
 
 
 to buy #k  #card
 ほんやく: 買う（かう）
-ます形: 買います
 て形: 買って
 た形: 買った
+ます形: 買います
+出す形 (start): 買い出す
+そう (looks like): 買いそう
+お〜になる (honorific): おかいになる
 ない形: 買わない
 なかった形: 買わなかった
-ば形: 買えば
-出す形: 買い出す
-そんけいご: かわれる
-お〜になる: おかいになる
+受身形 (passive): かわれる
+尊敬語 (honorific): かわれる
+ば形 (if): 買えば
+可能形 (can): 買える
+おう形 (let's): 買おう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1769684075225-->

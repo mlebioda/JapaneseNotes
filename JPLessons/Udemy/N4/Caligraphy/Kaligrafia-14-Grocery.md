@@ -227,502 +227,821 @@ rice + woman + whip
  Rzeczowniki:
 
  rice #card
-Tłumaczenie: 米（こめ) 
+ほんやく: 米（こめ)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <!--ID: 1749744829284-->
 
 
  eat rice #card
-Tłumaczenie: お米を食べる（こめ）
+ほんやく: お米を食べる（こめ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1749744829294-->
 
 
  do you make rice in this paddy field? #card
-Tłumaczenie: この水田で米を作りますか（すいでん、こめ、つく）
+ほんやく: この水田で米を作りますか（すいでん、こめ、つく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1749744829297-->
 
 
  United states of amerika #card
-Tłumaczenie: 米国（べいこく）
+ほんやく: 米国（べいこく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1749744829299-->
 
 
  cooked rice #card
-Tłumaczenie: 米飯（べいはん）
+ほんやく: 米飯（べいはん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1749744829302-->
 
 
  I bought this rice from USA #card
-Tłumaczenie: この米は米国から買いました（こめ、べいこく、か）
+ほんやく: この米は米国から買いました（こめ、べいこく、か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1749744829304-->
 
 
  Japanese staple food is rice (stejpul) podstawowe jedzenie japończyka #card
-Tłumaczenie: 日本人の主食は米です（しゅしょく,こめ）
+ほんやく: 日本人の主食は米です（しゅしょく,こめ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <!--ID: 1749744829306-->
 
 
  We are also producing rice in the US #card
-Tłumaczenie: 米国でも米を作っていますよ（べいこく、こめ、つく）
+ほんやく: 米国でも米を作っていますよ（べいこく、こめ、つく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1749744829309-->
 
 
  staple food/podstawowe jedzenie #card
-Tłumaczenie: 主食(しゅしょく) 
+ほんやく: 主食(しゅしょく)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1749744829311-->
 
 
  white rice #card
-Tłumaczenie: 白米（はくまい）
+ほんやく: 白米（はくまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <!--ID: 1749744829314-->
 
 
  new rice/beginner #card
-Tłumaczenie: 新米（しんまい）
+ほんやく: 新米（しんまい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <!--ID: 1749744829316-->
 
 
  I think white rice is good for cooked rikce after all. #card
-Tłumaczenie: やはり米飯は白米がいいよ思いますよ（べいはん、はくまい、おも）
+ほんやく: やはり米飯は白米がいいよ思いますよ（べいはん、はくまい、おも）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
 <!--ID: 1749744829319-->
 
 
  rice field #card
-Tłumaczenie: 田んぼ（たんぼ）
+ほんやく: 田んぼ（たんぼ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1749744829321-->
 
 
  paddy field (pola ryżowe, techniczme zalewane pola uprawne) #card
-Tłumaczenie: 水田（すいでん）
+ほんやく: 水田（すいでん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1749744829323-->
 
 
  garden/rural area #card
-Tłumaczenie: 田園（でんえん）
+ほんやく: 田園（でんえん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_園.html">園</a>
 <!--ID: 1749744829325-->
 
 
  Tanaka is the owner of this paddy field #card
-Tłumaczenie: 田中さんはこの水田の持ち主です（すいでん、もちぬし）
+ほんやく: 田中さんはこの水田の持ち主です（すいでん、もちぬし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <!--ID: 1749744829328-->
 
 
  The main(mainly) job of Tanaka companys is the trade of rice #card
-Tłumaczenie: 田中さんの会社の主な仕事は米の売買です（おも、こめ、ばいばい）
+ほんやく: 田中さんの会社の主な仕事は米の売買です（おも、こめ、ばいばい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1749744829330-->
 
 
  square #card
-Tłumaczenie: 広場（ひろば）
+ほんやく: 広場（ひろば）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1749744829333-->
 
 
  Mr Tanaka's rice field is spacious (isnt is?) #card
-Tłumaczenie: 田中さんの田んぼは広いですね（たん、ひろ）
+ほんやく: 田中さんの田んぼは広いですね（たん、ひろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
 <!--ID: 1749744829335-->
 
 
  This kithen is spacious (isn't  it) #card
-Tłumaczenie: この台所は広いですね（だいどころ、ひろ）
+ほんやく: この台所は広いですね（だいどころ、ひろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
 <!--ID: 1749744829337-->
 
 
  vast #card
-Tłumaczenie: 広大（こうだい）
+ほんやく: 広大（こうだい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <!--ID: 1749744829340-->
 
 
  advertisement #card
-Tłumaczenie: 広告（こうこく）
+ほんやく: 広告（こうこく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_告.html">告</a>
 <!--ID: 1749744829342-->
 
 
  typhoon #card
-Tłumaczenie: 台風（たいふう）
+ほんやく: 台風（たいふう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <!--ID: 1749744829344-->
 
 
  It seems that a typhoon will come tommorow　(forma wyrażająca zasłysaną informacje, przypuszczenie oparte na cudzych słowach) #card
-Tłumaczenie: 明日台風が来るらしいです（たいふう、く）
+ほんやく: 明日台風が来るらしいです（たいふう、く）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1749744829347-->
 
 
  kitchen #card
-Tłumaczenie: 台所（だいどころ）
+ほんやく: 台所（だいどころ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1749744829349-->
 
 
  3 cars #card
-Tłumaczenie: 三台の車（さんだいのくるま）
+ほんやく: 三台の車（さんだいのくるま）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <!--ID: 1749744829352-->
 
 
  There are 5 cars in my company #card
-Tłumaczenie: 私の会社に車が五台あります（ごだい）
+ほんやく: 私の会社に車が五台あります（ごだい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
 <!--ID: 1749744829354-->
 
 
  My father's house is on a height in his town/ dom mojego ojca znajduje się na wzgórzu w tym mieście #card
-Tłumaczenie: 父の家はこの町の高台にあります（まち、たかだい）
+ほんやく: 父の家はこの町の高台にあります（まち、たかだい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_町.html">町</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
 <!--ID: 1749744829356-->
 
 
  heights, high ground, wzgórze #card
-Tłumaczenie: 高台（たかだい）
+ほんやく: 高台（たかだい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
 <!--ID: 1749744829359-->
 
 
  Please bring groceries to the kitchen #card
-Tłumaczenie: 食料品は台所に運んでください（しょくりょうひん、だいどころ、はこ）
+ほんやく: 食料品は台所に運んでください（しょくりょうひん、だいどころ、はこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <!--ID: 1749744829361-->
 
 
  cow #card
-Tłumaczenie: 牛（うし）
+ほんやく: 牛（うし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
 <!--ID: 1749744829363-->
 
 
  There are many cows in the USA (aren't they) #card
-Tłumaczenie: 米国は牛が多いですね（べいこく、うし、おお）
+ほんやく: 米国は牛が多いですね（べいこく、うし、おお）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <!--ID: 1749744829367-->
 
 
  beef #card
-Tłumaczenie: 牛肉（ぎゅうにく）
+ほんやく: 牛肉（ぎゅうにく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <!--ID: 1749744829369-->
 
 
  beef tongue #card
-Tłumaczenie: 牛ダイ（ぎゅうだい）
+ほんやく: 牛ダイ（ぎゅうだい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
 <!--ID: 1749744829372-->
 
 
  Which do you like better, beef or chicken meat? #card
-Tłumaczenie: 牛肉と鳥肉とどちらが好きですか（ぎゅうにく、とりにく）
+ほんやく: 牛肉と鳥肉とどちらが好きですか（ぎゅうにく、とりにく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <!--ID: 1749744829375-->
 
 
  This restaurant if famous for beef dishes #card
-Tłumaczenie: この料理屋は牛肉が有名です（りょうりや、ぎゅうにく、ゆうめい）
+ほんやく: この料理屋は牛肉が有名です（りょうりや、ぎゅうにく、ゆうめい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1749744829377-->
 
 
  bird #card
-Tłumaczenie: 鳥（とり）
+ほんやく: 鳥（とり）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
 <!--ID: 1749744829380-->
 
 
  chicken dish #card
-Tłumaczenie: 鳥料理（とりりょうり）
+ほんやく: 鳥料理（とりりょうり）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <!--ID: 1749744829382-->
 
 
  entrance to the shinto shrine #card
-Tłumaczenie: 鳥居（とりい）
+ほんやく: 鳥居（とりい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_居.html">居</a>
 <!--ID: 1749744829385-->
 
 
  chicken meat #card
-Tłumaczenie: 鳥肉/鶏肉（とりにく）
+ほんやく: 鳥肉/鶏肉（とりにく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鶏.html">鶏</a>
 <!--ID: 1749744829387-->
 
 
  My mother likes chicken meat #card
-Tłumaczenie: 母は(鶏/鳥)肉が好きです（とりにく）
+ほんやく: 母は(鶏/鳥)肉が好きです（とりにく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鶏.html">鶏</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <!--ID: 1749744829389-->
 
 
  Would you like to go to eat some chicken dish? #card
-Tłumaczenie: 鳥料理を食べに行きませんか（とりりょうり）
+ほんやく: 鳥料理を食べに行きませんか（とりりょうり）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1749744829392-->
 
 
  swan #card
-Tłumaczenie: 白鳥（はくちょう）
+ほんやく: 白鳥（はくちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
 <!--ID: 1749744829394-->
 
 
  wild bird #card
-Tłumaczenie: 野鳥（やちょう）
+ほんやく: 野鳥（やちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
 <!--ID: 1749744829397-->
 
 
  two birds with one stone (idiom) throw one stone to get one bird #card
-Tłumaczenie: 一石二鳥（いっせきにちょう）
+ほんやく: 一石二鳥（いっせきにちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_石.html">石</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
 <!--ID: 1749744829399-->
 
 
  I like beef more than fish #card
-Tłumaczenie: 私は魚より、牛肉が好きです（さかなりょうり、ぎゅうにく）
+ほんやく: 私は魚より、牛肉が好きです（さかなりょうり、ぎゅうにく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_魚.html">魚</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <!--ID: 1749744829402-->
 
 
  surplus (surplas) nadwyżka, zysk #card
-Tłumaczenie: 黒字（くろじ）
+ほんやく: 黒字（くろじ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
 <!--ID: 1749744829404-->
 
 
  a defeat mark, znak porażki #card
-Tłumaczenie: 黒星（くろぼし）
+ほんやく: 黒星（くろぼし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_星.html">星</a>
 <!--ID: 1749744829406-->
 
 
  Is this black clothes for sale? #card
-Tłumaczenie: この黒い服は売り物ですか（くろ、ふく、うりもの）
+ほんやく: この黒い服は売り物ですか（くろ、ふく、うりもの）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1749744829409-->
 
 
  black color #card
-Tłumaczenie: 黒色（こくしょく） 
+ほんやく: 黒色（こくしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1749744829411-->
 
 
  black board #card
-Tłumaczenie: 黒板（こくばん）
+ほんやく: 黒板（こくばん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_板.html">板</a>
 <!--ID: 1749744829413-->
 
 
  my head feels heavy #card
-Tłumaczenie: 頭が重い（あたま、おも）
+ほんやく: 頭が重い（あたま、おも）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
 <!--ID: 1749744829416-->
 
 
   trees break under the weight of snow #card
-Tłumaczenie: 雪の重みで木がおれる（ゆき、おも、き）
+ほんやく: 雪の重みで木がおれる（ゆき、おも、き）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雪.html">雪</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
 <!--ID: 1749744829418-->
 
 
  My ybrother's bag is alsways heave #card
-Tłumaczenie: 弟のかばんはいつも重いです（おとうと、おも）
+ほんやく: 弟のかばんはいつも重いです（おとうと、おも）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
 <!--ID: 1749744829420-->
 
 
  That black car is mine (know?) #card
-Tłumaczenie: あの黒い車は私のですよ（くろ）
+ほんやく: あの黒い車は私のですよ（くろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <!--ID: 1749744829422-->
 
 
  critical #card
-Tłumaczenie: 重大（じゅうだい）
+ほんやく: 重大（じゅうだい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <!--ID: 1749744829425-->
 
 
  severe illness(sevyr illnes) ciężka choroba #card
-Tłumaczenie: 重病（じゅうびょう）
+ほんやく: 重病（じゅうびょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <!--ID: 1749744829427-->
 
 
  This is a critical problem, isn't it? #card
-Tłumaczenie: これは重大ンな問題ですね（じゅうだい、もんだい）
+ほんやく: これは重大ンな問題ですね（じゅうだい、もんだい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <!--ID: 1749744829429-->
 
 
  Mr smitch is seriously ill and is hospitalized (went to hospital) #card
-Tłumaczenie: スミスさんは重病で、入院しています（じゅうびょう、にゅういん）
+ほんやく: スミスさんは重病で、入院しています（じゅうびょう、にゅういん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <!--ID: 1749744829432-->
 
 
  this company has critical problem #card
-Tłumaczenie: この会社は重大な問題があります（じゅうだい、もんだい）
+ほんやく: この会社は重大な問題があります（じゅうだい、もんだい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <!--ID: 1749744829434-->
 
 
  leave hometown #card
-Tłumaczenie: ふるさとを去る（さ）
+ほんやく: ふるさとを去る（さ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
 <!--ID: 1749744829437-->
 
 
  summer passes #card
-Tłumaczenie: 夏が去る（なつ、さ）
+ほんやく: 夏が去る（なつ、さ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
 <!--ID: 1749744829439-->
 
 
  Did Mr. Smith already leave Japan? #card
-Tłumaczenie: スミスさんはもう日本を去りましたか（さ）
+ほんやく: スミスさんはもう日本を去りましたか（さ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
 <!--ID: 1749744829442-->
 
 
  My elder brother left his hometown and moved to Tokyou #card
-Tłumaczenie: 兄はふるさとを去って上京しました（さ、じょうきょう）
+ほんやく: 兄はふるさとを去って上京しました（さ、じょうきょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <!--ID: 1749744829445-->
 
 
  Mr. Smith will leave Japan immediately after graduating from the university #card
-Tłumaczenie: スミスさんは大学卒業後、すぐ日本を去ります（だいがくそつぎょうご、さ）
+ほんやく: スミスさんは大学卒業後、すぐ日本を去ります（だいがくそつぎょうご、さ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_卒.html">卒</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
 <!--ID: 1749744829449-->
 
 
   after collage #card
-Tłumaczenie: 大学卒業後 (だいがくそつぎょうご) 
+ほんやく: 大学卒業後 (だいがくそつぎょうご)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_卒.html">卒</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
 <!--ID: 1749744829454-->
 
 
   university graduate #card
-Tłumaczenie: 大学卒業 (だいがくそつぎょう) 
+ほんやく: 大学卒業 (だいがくそつぎょう)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_卒.html">卒</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1749744829458-->
 
 
  last year #card
-Tłumaczenie: 去年（きょねん）
+ほんやく: 去年（きょねん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1749744829462-->
 
 
  delete #card
-Tłumaczenie: 消去（しょうきょ）
+ほんやく: 消去（しょうきょ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
 <!--ID: 1749744829466-->
 
 
  I didn't travel abroad last year #card
-Tłumaczenie: 去年は海外旅行はしませんでした（きょねん、かいがいりょこう）
+ほんやく: 去年は海外旅行はしませんでした（きょねん、かいがいりょこう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1749744829470-->
 
 
  yamada san run fast #card
-Tłumaczenie: 山田さんは足が速い（あし、はや）
+ほんやく: 山田さんは足が速い（あし、はや）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_速.html">速</a>
 <!--ID: 1749744829473-->
 
 
  My feet hurt and I can't walk #card
-Tłumaczenie: 足が痛くて、歩けません（あし、いた、ある）
+ほんやく: 足が痛くて、歩けません（あし、いた、ある）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1749744829476-->
 
 
  the money is sufficient #card
-Tłumaczenie: お金が足りる（た）
+ほんやく: お金が足りる（た）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1749744829479-->
 
 
  I don't have enough time for this job #card
-Tłumaczenie: この仕事には時間が足りません（た）
+ほんやく: この仕事には時間が足りません（た）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1749744829482-->
 
 
  I want to buy this camera bud I don't have enough money #card
-Tłumaczenie: このカメラを買いたいですが、お金が足りませんよ（た）
+ほんやく: このカメラを買いたいですが、お金が足りませんよ（た）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1749744829485-->
 
 
  Did you have enough money for the trip? (czy wystarczyło) #card
-Tłumaczenie: 旅行の料金は足りましたか（りょこう、りょうきん、た）
+ほんやく: 旅行の料金は足りましたか（りょこう、りょうきん、た）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1749744829488-->
 
 
  lack #card
-Tłumaczenie: 不足（ふそく）
+ほんやく: 不足（ふそく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1749744829491-->
 
 
  enter the house with one's shoes on #card
-Tłumaczenie: 土足（どそく）
+ほんやく: 土足（どそく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_土.html">土</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1749744829494-->
 
 
  number of children #card
-Tłumaczenie: 子供の数（こども、かず）
+ほんやく: 子供の数（こども、かず）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_供.html">供</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <!--ID: 1749744829497-->
 
 
  number (of) #card
-Tłumaczenie: 数（かず）
+ほんやく: 数（かず）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <!--ID: 1749744829500-->
 
 
  This number is the number of yesterday's orders #card
-Tłumaczenie: この数字は昨日の注文の数です（すうじ、きのう、ちゅうもん、かず）
+ほんやく: この数字は昨日の注文の数です（すうじ、きのう、ちゅうもん、かず）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <!--ID: 1749744829502-->
 
 
  count children's shoes #card
-Tłumaczenie: 子供のくつを数える（かぞ）
+ほんやく: 子供のくつを数える（かぞ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_供.html">供</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <!--ID: 1749744829505-->
 
 
  I'm counting the number of cars #card
-Tłumaczenie: 車の数を数えています（かず、かぞ）
+ほんやく: 車の数を数えています（かず、かぞ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <!--ID: 1749744829508-->
 
 
  number as a symbol #card
-Tłumaczenie: 数字（すうじ）
+ほんやく: 数字（すうじ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
 <!--ID: 1749744829511-->
 
 
  math #card
-Tłumaczenie: 数学（すうがく）
+ほんやく: 数学（すうがく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1749744829514-->
 
 
  number of people #card
-Tłumaczenie: 人数（にんずう） 
+ほんやく: 人数（にんずう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <!--ID: 1749744829516-->
 
 
  The number of employes is 700 #card
-Tłumaczenie: 社員の人数は七百人です（しゃいん、にんず、ななひゃくにん）
+ほんやく: 社員の人数は七百人です（しゃいん、にんず、ななひゃくにん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_百.html">百</a>
 <!--ID: 1749744829519-->
 
 
 
 
 łamać się #card
-Tłumaczenie: おれる（折れる）  
-Forma masu: おれます  
-Forma te: おれて  
-Forma ta: おれた  
-Forma nai: おれない  
-Forma katta: おれなかった
+ほんやく: おれる（折れる）
+て形: おれて
+た形: おれた
+ます形: おれます
+出す形 (start): おれだす
+そう (looks like): おれそう
+お〜になる (honorific): おおれになる
+ない形: おれない
+なかった形: おれなかった
+受身形 (passive): おれられる
+尊敬語 (honorific): おれられる
+ば形 (if): おれれば
+可能形 (can): おれられる
+おう形 (let's): おれよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_折.html">折</a>
 <!--ID: 1749744843708-->
 
 
 leave #card
-Tłumaczenie: 去る（さ）  
-Forma masu: さります  
-Forma te: さって  
-Forma ta: さった  
-Forma nai: さらない  
-Forma katta: さらなかった
+ほんやく: 去る（さ）
+て形: さって
+た形: さった
+ます形: さります
+出す形 (start): さりだす
+そう (looks like): さりそう
+お〜になる (honorific): おさりになる
+ない形: さらない
+なかった形: さらなかった
+受身形 (passive): さられる
+尊敬語 (honorific): さられる
+ば形 (if): されば
+可能形 (can): される
+おう形 (let's): さろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
 <!--ID: 1749744843718-->
 
 
 be enogh, sufficient, wystarczać #card
-Tłumaczenie: 足りる（た）  
-Forma masu: たります  
-Forma te: たりて  
-Forma ta: たりた  
-Forma nai: たりない  
-Forma katta: たりなかった
+ほんやく: 足りる（た）
+て形: たりて
+た形: たりた
+ます形: たります
+出す形 (start): たりだす
+そう (looks like): たりそう
+お〜になる (honorific): おたりになる
+ない形: たりない
+なかった形: たりなかった
+受身形 (passive): たりられる
+尊敬語 (honorific): たりられる
+ば形 (if): たりれば
+可能形 (can): たりられる
+おう形 (let's): たりよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1749744843720-->
 
 
 count #card
-Tłumaczenie: 数える（かぞ）  
-Forma masu: かぞえます  
-Forma te: かぞえて  
-Forma ta: かぞえた  
-Forma nai: かぞえない  
-Forma katta: かぞえなかった
+ほんやく: 数える（かぞ）
+て形: かぞえて
+た形: かぞえた
+ます形: かぞえます
+出す形 (start): かぞえだす
+そう (looks like): かぞえそう
+お〜になる (honorific): おかぞえになる
+ない形: かぞえない
+なかった形: かぞえなかった
+受身形 (passive): かぞえられる
+尊敬語 (honorific): かぞえられる
+ば形 (if): かぞえれば
+可能形 (can): かぞえられる
+おう形 (let's): かぞえよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <!--ID: 1749744843722-->
 
 
 wide, spacious #card
-Tłumaczenie: 広い（ひろ）  
-Forma przeszła: 広かった  
-Przeczenie: 広くない  
-Przysłówek: 広く
+ほんやく: 広い（ひろ）
+過去形: 広かった
+否定形: 広くない
+副詞形: 広く
+そう (looks like): 広そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
 <!--ID: 1749744843724-->
 
 heavy #card
-Tłumaczenie: 重い（おも）  
-Forma przeszła: 重かった  
-Przeczenie: 重くない  
-Przysłówek: 重く
+ほんやく: 重い（おも）
+過去形: 重かった
+否定形: 重くない
+副詞形: 重く
+そう (looks like): 重そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
 <!--ID: 1749744849985-->
 
 
 black #card
-Tłumaczenie: 黒い（くろ）  
-Forma przeszła: 黒かった  
-Przeczenie: 黒くない  
-Przysłówek: 黒く
+ほんやく: 黒い（くろ）
+過去形: 黒かった
+否定形: 黒くない
+副詞形: 黒く
+そう (looks like): 黒そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <!--ID: 1749744843726-->
 
 

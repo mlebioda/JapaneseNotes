@@ -233,527 +233,726 @@ under the ground is the body without head covered in RED blood
  Rzeczowniki:
 
  letter #card
-Tłumaczenie: 手紙（てがみ）
+ほんやく: 手紙（てがみ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <!--ID: 1746388496635-->
 
-
  magic #card
-Tłumaczenie: 手品（てじな）
+ほんやく: 手品（てじな）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
 <!--ID: 1746388496637-->
 
-
  example #card
-Tłumaczenie: 手本（てほん）
+ほんやく: 手本（てほん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <!--ID: 1746388496640-->
 
-
  There are many OLD kanji in my father's letters #card
-Tłumaczenie: 父の手紙は古い漢字が多いです（てがみ、ふる、かんじ、おお）
+ほんやく: 父の手紙は古い漢字が多いです（てがみ、ふる、かんじ、おお）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_古.html">古</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_漢.html">漢</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <!--ID: 1746388496642-->
 
-
  driver #card
-Tłumaczenie: 運転手（うんてんしゅ）
+ほんやく: 運転手（うんてんしゅ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1746388496644-->
 
-
  singer #card
-Tłumaczenie: 歌手（かしゅ）
+ほんやく: 歌手（かしゅ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1746388496647-->
 
-
  paper #card
-Tłumaczenie: 紙（かみ）
+ほんやく: 紙（かみ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <!--ID: 1746388496649-->
 
-
  A letter came from my elder brother #card
-Tłumaczenie: 兄から手紙が来ました（てがみ、き）
+ほんやく: 兄から手紙が来ました（てがみ、き）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1746388496651-->
 
-
  Please cut this paper #card
-Tłumaczenie: この紙を切ってください（かみ、き）
+ほんやく: この紙を切ってください（かみ、き）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388496653-->
 
-
  I sent a letter to my mother yesterday? #card
-Tłumaczenie: 昨日、母に手紙を出しました（てがみ、だ）
+ほんやく: 昨日、母に手紙を出しました（てがみ、だ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1746388496655-->
 
-
  japanese paper #card
-Tłumaczenie: 和紙（わし）
+ほんやく: 和紙（わし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_和.html">和</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <!--ID: 1746388496657-->
 
-
  newspaper #card
-Tłumaczenie: 新聞紙（しんぶんし）
+ほんやく: 新聞紙（しんぶんし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <!--ID: 1746388496660-->
 
-
  to cut paper  #card
-Tłumaczenie: 紙を切る（かみ、き）
+ほんやく: 紙を切る（かみ、き）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388496662-->
 
-
  stamp #card
-Tłumaczenie: 切手（きって) 
+ほんやく: 切手（きって) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1746388496664-->
 
-
  My elder sister went to buy a stamp #card
-Tłumaczenie: 姉は切手を買いに行きましたよ（あえ、きって、か）
+ほんやく: 姉は切手を買いに行きましたよ（あえ、きって、か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1746388496668-->
 
-
  Please give me a stamp of 84 yen #card
-Tłumaczenie: ８４円の切手をください（きって）
+ほんやく: ８４円の切手をください（きって）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_円.html">円</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1746388496671-->
 
-
  kind #card
-Tłumaczenie: 親切（しんせつ）
+ほんやく: 親切（しんせつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388496674-->
 
-
  sorrowful #card
-Tłumaczenie: 切ない（せつない）
+ほんやく: 切ない（せつない）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388496676-->
 
-
  That teacher is very kind #card
-Tłumaczenie: あの先生はとても親切です（しんせつ）
+ほんやく: あの先生はとても親切です（しんせつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388496678-->
 
-
  errand (act of use, casual) #card
-Tłumaczenie: 使い（つか）
+ほんやく: 使い（つか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <!--ID: 1746388496680-->
 
-
  Please use this stamp #card
-Tłumaczenie: この切手を使ってください（きって、つか）
+ほんやく: この切手を使ってください（きって、つか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <!--ID: 1746388496682-->
 
-
  I'll use this fish for cooking #card
-Tłumaczenie: 料理にはこの魚を使います（りょうり、さかな、つか）
+ほんやく: 料理にはこの魚を使います（りょうり、さかな、つか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_魚.html">魚</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <!--ID: 1746388496684-->
 
-
  I;; will make notepad using this paper #card
-Tłumaczenie: この紙を使って、メモを作ります（かみ、つか、つく）
+ほんやく: この紙を使って、メモを作ります（かみ、つか、つく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1746388496686-->
 
-
  notepad #card
-Tłumaczenie: メモ 
+ほんやく: メモ 
 <!--ID: 1746388496687-->
 
-
  use /użycie/usage/technical #card
-Tłumaczenie: 使用（しよう）
+ほんやく: 使用（しよう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1746388496690-->
 
-
  You can use credit card at this store #card
-Tłumaczenie: この店でクレジットカードが使用できます（しよう）
+ほんやく: この店でクレジットカードが使用できます（しよう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1746388496692-->
 
-
  angel #card
-Tłumaczenie: 天使（てんし）
+ほんやく: 天使（てんし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <!--ID: 1746388496694-->
 
-
  to project on paper #card
-Tłumaczenie: 紙に写る（かみ、うつ）
+ほんやく: 紙に写る（かみ、うつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <!--ID: 1746388496696-->
 
-
  copy the example #card
-Tłumaczenie: 手本を写す（てほん、うつる）
+ほんやく: 手本を写す（てほん、うつる）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <!--ID: 1746388496698-->
 
-
  example #card
-Tłumaczenie: 手本（てほん）
+ほんやく: 手本（てほん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <!--ID: 1775624991146-->
 
-
  Who took(photographed) this picture? #card
-Tłumaczenie: この写真はだれが写しましたか(しゃしん、うつ) 
+ほんやく: この写真はだれが写しましたか(しゃしん、うつ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <!--ID: 1746388496700-->
 
-
  photo/picture #card
-Tłumaczenie: 写真（しゃしん）
+ほんやく: 写真（しゃしん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <!--ID: 1746388496702-->
 
-
  projection #card
-Tłumaczenie: 映写（えいしゃ）
+ほんやく: 映写（えいしゃ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <!--ID: 1746388496704-->
 
-
  This is a photo of my younger sister #card
-Tłumaczenie: これは妹の写真です（いもうと、しゃしん）
+ほんやく: これは妹の写真です（いもうと、しゃしん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <!--ID: 1746388496707-->
 
-
  serious #card
-Tłumaczenie: 真面目（まじめ）
+ほんやく: 真面目（まじめ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
 <!--ID: 1746388496709-->
 
-
  sincerity (szczerość) #card
-Tłumaczenie: 真心（まごころ）
+ほんやく: 真心（まごころ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <!--ID: 1746388496712-->
 
-
  Mr yamada is a serious person #card
-Tłumaczenie: 山田さんは真面目な人です（まじめ、ひと) 
+ほんやく: 山田さんは真面目な人です（まじめ、ひと) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1746388496714-->
 
-
  true  #card
-Tłumaczenie: 真（まこと）
+ほんやく: 真（まこと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <!--ID: 1746388496716-->
 
-
  true story #card
-Tłumaczenie: 真の話（まこと,はなし）
+ほんやく: 真の話（まこと,はなし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1746388496717-->
 
-
  innocen #card
-Tłumaczenie: 天真（てんしん）
+ほんやく: 天真（てんしん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <!--ID: 1746388496719-->
 
-
  truth #card
-Tłumaczenie: 真理（しんり）
+ほんやく: 真理（しんり）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <!--ID: 1746388496721-->
 
-
  send a letter #card
-Tłumaczenie: 手紙を送る（てがみ、おく）
+ほんやく: 手紙を送る（てがみ、おく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1746388496723-->
 
-
  I will send a letter to MR smith #card
-Tłumaczenie: スミスさんに手紙を送ります（てがみ、おく）
+ほんやく: スミスさんに手紙を送ります（てがみ、おく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1746388496725-->
 
-
  I send a picture of my family to my elder sister in France #card
-Tłumaczenie: フランスの姉に家族の写真を送りました（あね、かぞく、しゃしん、おく）
+ほんやく: フランスの姉に家族の写真を送りました（あね、かぞく、しゃしん、おく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1746388496727-->
 
-
  My father sends cards at christmas #card
-Tłumaczenie: 父はクリスマスにカード送ります（おく）
+ほんやく: 父はクリスマスにカード送ります（おく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1746388496729-->
 
-
  Mother sent me oranges #card
-Tłumaczenie: 母がオレンジを送ってくれました（はは、おく）
+ほんやく: 母がオレンジを送ってくれました（はは、おく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1746388496731-->
 
-
  remittance (sending money,przekaz) #card
-Tłumaczenie: 送金（そうきん）
+ほんやく: 送金（そうきん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1746388496733-->
 
-
  postage (opłata pocztowa) #card
-Tłumaczenie: 送料（そうりょう）
+ほんやく: 送料（そうりょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <!--ID: 1746388496734-->
 
-
  My mom send money (remittance to my younger brother in tokio) #card
-Tłumaczenie: 母は東京の弟に送金します (はは、おとうと、そうきん) 
+ほんやく: 母は東京の弟に送金します (はは、おとうと、そうきん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1746388496736-->
 
-
  I haven't received any money from my family this month #card
-Tłumaczenie: 今月はまだ家族から送金が来てません（かぞく、そうきん、き）
+ほんやく: 今月はまだ家族から送金が来てません（かぞく、そうきん、き）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1746388496738-->
 
-
  old name of kyoto  #card
-Tłumaczenie: 京都（みやこ）
+ほんやく: 京都（みやこ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <!--ID: 1746388496740-->
 
-
  tokyo #card
-Tłumaczenie: 東京（とうきょう）
+ほんやく: 東京（とうきょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <!--ID: 1746388496742-->
 
-
  go/come to tokyo #card
-Tłumaczenie: 上京（じょうきょう）
+ほんやく: 上京（じょうきょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <!--ID: 1746388496744-->
 
-
  My elder brother will go to Tokio tommorow #card
-Tłumaczenie: 兄は明日上京します (あに、あした、じょうきょう) 
+ほんやく: 兄は明日上京します (あに、あした、じょうきょう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <!--ID: 1746388496746-->
 
-
  Elder sister will go to tokio this month #card
-Tłumaczenie: 姉は今月上京します（あね、じょうきょう) 
+ほんやく: 姉は今月上京します（あね、じょうきょう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <!--ID: 1746388496748-->
 
-
  kyoto #card
-Tłumaczenie: 京都（きょうと） 
+ほんやく: 京都（きょうと） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <!--ID: 1746388496750-->
 
-
  beutiful flower #card
-Tłumaczenie: きれいな花（はな）
+ほんやく: きれいな花（はな）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1746388496751-->
 
-
  hanami #card
-Tłumaczenie: 花見（はなみ）
+ほんやく: 花見（はなみ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1746388496753-->
 
-
  It that you who PHOTOGRAPHED this picture of the flower? #card
-Tłumaczenie: この花の写真はあなたが写しましたか（はな、しゃしん、うつ）
+ほんやく: この花の写真はあなたが写しましたか（はな、しゃしん、うつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <!--ID: 1746388496755-->
 
-
  blooming/kwitnący #card
-Tłumaczenie: 開花（かいか）
+ほんやく: 開花（かいか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1746388496757-->
 
-
  national flower #card
-Tłumaczenie: 国花（こっか）
+ほんやく: 国花（こっか）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1746388496759-->
 
-
  blue color (whole) #card
-Tłumaczenie: 青色（あおいろ）
+ほんやく: 青色（あおいろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496761-->
 
-
  red color (whole) #card
-Tłumaczenie: 赤色（あかいろ）
+ほんやく: 赤色（あかいろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496763-->
 
-
  color #card
-Tłumaczenie: 色（いろ）
+ほんやく: 色（いろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496765-->
 
-
  colors of this photo is good #card
-Tłumaczenie: この写真の色はいいですね 
+ほんやく: この写真の色はいいですね 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496767-->
 
-
  What color sweater are going to buy? #card
-Tłumaczenie: どんな色のセーターを買いますか（いろ、か）
+ほんやく: どんな色のセーターを買いますか（いろ、か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1746388496769-->
 
-
  coloring (ubierać w kolor) #card
-Tłumaczenie: 着色（ちゃくしょく）
+ほんやく: 着色（ちゃくしょく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496771-->
 
-
  square poetry card (colored paper) #card
-Tłumaczenie: 色紙（しきし）
+ほんやく: 色紙（しきし）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <!--ID: 1746388496773-->
 
-
  deficit #card
-Tłumaczenie: 赤字（あかじ）
+ほんやく: 赤字（あかじ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
 <!--ID: 1746388496775-->
 
-
  This red flower is beautiful, isn't it? #card
-Tłumaczenie: あの赤い花はきれいですね（あか、はな）
+ほんやく: あの赤い花はきれいですね（あか、はな）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1746388496777-->
 
-
  red cross #card
-Tłumaczenie: 赤十字（せきじゅうじ）
+ほんやく: 赤十字（せきじゅうじ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
 <!--ID: 1746388496779-->
 
-
  equator/równik #card
-Tłumaczenie: 赤道（せきどう）
+ほんやく: 赤道（せきどう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
 <!--ID: 1746388496781-->
 
-
  I'm a member of the red cross #card
-Tłumaczenie: 私は赤十字の会員です（せきじゅうじ、かいいん）
+ほんやく: 私は赤十字の会員です（せきじゅうじ、かいいん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1746388496782-->
 
-
  member #card
-Tłumaczenie: 会員（かいいん）
+ほんやく: 会員（かいいん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1746388496785-->
 
-
  The countries on the equator are hot, aren't they #card
-Tłumaczenie: 赤道の国は熱いですねえ（せきどう、くに、あつ）
+ほんやく: 赤道の国は熱いですねえ（せきどう、くに、あつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
 <!--ID: 1746388496787-->
 
-
  inmature #card
-Tłumaczenie: 青くさい（あお）
+ほんやく: 青くさい（あお）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
 <!--ID: 1746388496789-->
 
-
  I'll buy this blue outfit #card
-Tłumaczenie: この青い服を買います（あおい、ふく、か）
+ほんやく: この青い服を買います（あおい、ふく、か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1746388496791-->
 
-
  young boy/man #card
-Tłumaczenie: 青年（せいねん）
+ほんやく: 青年（せいねん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1746388496793-->
 
-
  youth #card
-Tłumaczenie: 青春（せいしゅん）
+ほんやく: 青春（せいしゅん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
 <!--ID: 1746388496795-->
 
-
  That young man is the teacher's younger brother #card
-Tłumaczenie: あの青年は先生の弟です（せいねん、おとうと）
+ほんやく: あの青年は先生の弟です（せいねん、おとうと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <!--ID: 1746388496797-->
 
-
  yellow #card
-Tłumaczenie: 黄色（きいろ）
+ほんやく: 黄色（きいろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黄.html">黄</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496799-->
 
-
  brown #card
-Tłumaczenie: 茶色（ちゃいろ）
+ほんやく: 茶色（ちゃいろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_茶.html">茶</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496801-->
 
-
  white #card
-Tłumaczenie: 白色（しろいろ）
+ほんやく: 白色（しろいろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496804-->
 
-
  black #card
-Tłumaczenie: 黒色（くろいろ）
+ほんやく: 黒色（くろいろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496806-->
 
-
  purple #card
-Tłumaczenie: 紫色（むらさきいろ）
+ほんやく: 紫色（むらさきいろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紫.html">紫</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496807-->
 
-
  what color? #card
-Tłumaczenie: 何色（なにいろ）
+ほんやく: 何色（なにいろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496809-->
 
-
  greeemn #card
-Tłumaczenie: 緑色（みどりいろ）
+ほんやく: 緑色（みどりいろ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_緑.html">緑</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496811-->
-
-
-
 
  Czasowniki:
 
  nadać, wysłać, ale w kontekście fizycznym, list, dokument #card
-Tłumaczenie: 出す（だす）  
-Forma masu: 出します  
-Forma te: 出して  
-Forma ta: 出した  
-Forma nai: 出さない  
-Forma katta: 出さなかった
+ほんやく: 出す（だす）  
+て形: 出して
+た形: 出した
+ます形: 出します
+出す形 (start): 出し出す
+そう (looks like): 出しそう
+お〜になる (honorific): お出しになる
+ない形: 出さない
+なかった形: 出さなかった
+あれる形 (passive): 出される
+尊敬語 (honorific): 出される
+ば形 (if): 出せば
+可能形 (can): 出せる
+おう形 (let's): 出そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1746388572941-->
 
-
 to cut #card
-Tłumaczenie: 切る（きる）  
-Forma masu: 切ります  
-Forma te: 切って  
-Forma ta: 切った  
-Forma nai: 切らない  
-Forma katta: 切らなかった
+ほんやく: 切る（きる）  
+て形: 切って
+た形: 切った
+ます形: 切ります
+出す形 (start): 切り出す
+そう (looks like): 切りそう
+お〜になる (honorific): お切りになる
+ない形: 切らない
+なかった形: 切らなかった
+あれる形 (passive): 切られる
+尊敬語 (honorific): 切られる
+ば形 (if): 切れば
+可能形 (can): 切れる
+おう形 (let's): 切ろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388572943-->
 
-
 to use #card
-Tłumaczenie: 使う（つか）  
-Forma masu: 使います  
-Forma te: 使って  
-Forma ta: 使った  
-Forma nai: 使わない  
-Forma katta: 使わなかった
+ほんやく: 使う（つか）  
+て形: 使って
+た形: 使った
+ます形: 使います
+出す形 (start): 使い出す
+そう (looks like): 使いそう
+お〜になる (honorific): お使いになる
+ない形: 使わない
+なかった形: 使わなかった
+あれる形 (passive): 使われる
+尊敬語 (honorific): 使われる
+ば形 (if): 使えば
+可能形 (can): 使える
+おう形 (let's): 使おう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <!--ID: 1746388572946-->
 
-
 be projected #card
-Tłumaczenie: 写る（うつ）  
-Forma masu: 写ります  
-Forma te: 写って  
-Forma ta: 写った  
-Forma nai: 写らない  
-Forma katta: 写らなかった
+ほんやく: 写る（うつ）  
+て形: 写って
+た形: 写った
+ます形: 写ります
+出す形 (start): 写り出す
+そう (looks like): 写りそう
+お〜になる (honorific): お写りになる
+ない形: 写らない
+なかった形: 写らなかった
+あれる形 (passive): 写られる
+尊敬語 (honorific): 写られる
+ば形 (if): 写れば
+可能形 (can): 写れる
+おう形 (let's): 写ろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <!--ID: 1746388572949-->
 
-
 to copy/to photograph (more formal than take photo) #card
-Tłumaczenie: 写す（うつ）
-Forma masu: 写します
-Forma te: 写して
-Forma ta: 写した
-Forma nai: 写さない  
-Forma katta: 写さなかった
+ほんやく: 写す（うつ）
+て形: 写して
+た形: 写した
+ます形: 写します
+出す形 (start): 写し出す
+そう (looks like): 写しそう
+お〜になる (honorific): お写しになる
+ない形: 写さない
+なかった形: 写さなかった
+あれる形 (passive): 写される
+尊敬語 (honorific): 写される
+ば形 (if): 写せば
+可能形 (can): 写せる
+おう形 (let's): 写そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <!--ID: 1746388572953-->
 
-
 to send #card 
-Tłumaczenie: 送る（おく）  
-Forma masu: 送ります  
-Forma te: 送って  
-Forma ta: 送った  
-Forma nai: 送らない  
-Forma katta: 送らなかった
+ほんやく: 送る（おく）  
+て形: 送って
+た形: 送った
+ます形: 送ります
+出す形 (start): 送り出す
+そう (looks like): 送りそう
+お〜になる (honorific): お送りになる
+ない形: 送らない
+なかった形: 送らなかった
+あれる形 (passive): 送られる
+尊敬語 (honorific): 送られる
+ば形 (if): 送れば
+可能形 (can): 送れる
+おう形 (let's): 送ろう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1746388572956-->
 
-
 odwiedzać #card
-Tłumaczenie: 訪れる (おとず)  
-Forma masu: 訪れます  
-Forma te: 訪れて  
-Forma ta: 訪れた  
-Forma nai: 訪れない  
-Forma katta: 訪れなかった
+ほんやく: 訪れる (おとず)  
+て形: 訪れて
+た形: 訪れた
+ます形: 訪れます
+出す形 (start): 訪れ出す
+そう (looks like): 訪れそう
+お〜になる (honorific): お訪れになる
+ない形: 訪れない
+なかった形: 訪れなかった
+あれる形 (passive): 訪れられる
+尊敬語 (honorific): 訪れられる
+ば形 (if): 訪れれば
+可能形 (can): 訪れられる
+おう形 (let's): 訪れよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_訪.html">訪</a>
 <!--ID: 1746388572960-->
 
-
 red #card
-Tłumaczenie: 赤い（あか）  
-Forma przeszła: 赤かった  
-Przeczenie: 赤くない  
-Przysłówek: 赤く
+ほんやく: 赤い（あか）  
+過去形: 赤かった
+否定形: 赤くない
+副詞形: 赤く
+そう (looks like): 赤そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
 <!--ID: 1746388572963-->
 
-
 blue #card
-Tłumaczenie: 青い（あお）  
-Forma przeszła: 青かった  
-Przeczenie: 青くない  
-Przysłówek: 青く
+ほんやく: 青い（あお）  
+過去形: 青かった
+否定形: 青くない
+副詞形: 青く
+そう (looks like): 青そう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
 <!--ID: 1746388572966-->
-
 
