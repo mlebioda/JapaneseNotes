@@ -1,4 +1,7 @@
 # 自 - self
+
+## Occurences
 [[Kaligrafia-9-Banking#自 - self・みずか・ジ]]
----
-[[目 - eye]]
+
+### Parts
+[[目-eye]]

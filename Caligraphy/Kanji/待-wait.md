@@ -1,5 +1,8 @@
 # 待 - wait
+
+## Occurences
 [[Kaligrafia-9-Banking#待 - wait・ま、まち・タイ]]
----
-[[彳- to go]]
-[[寺 - świątynia]]
+
+### Parts
+[[彳-togo]]
+[[寺-świątynia]]

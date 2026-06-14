@@ -7,8 +7,8 @@
 
 ### Parts
 
-[[亠 - roof, something tall]]
-[[夕 - evening]]
+[[亠-roof,somethingtall]]
+[[夕-evening]]
 
 ### Mnemonic
 

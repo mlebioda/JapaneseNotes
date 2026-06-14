@@ -5,8 +5,8 @@
 
 ### Parts
 
-[[土 - ziemia]]
-[[也 - component]]
+[[土-soil]]
+[[也-component]]
 
 ### Mnemonic
 

@@ -5,8 +5,8 @@
 
 ### Parts
 
-[[大 - big]]
-[[丶- dot, sign]]
+[[大-big]]
+[[丶-dot,sign]]
 
 ### Mnemonic
 

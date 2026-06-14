@@ -1,9 +1,12 @@
 # 真 - real
+
+## Occurences
 [[Kaligrafia-10-Letter#真 - real・ま、まこと・シン]]
 
----
-[[目 - eye]]
-[[十 - ten, 10]]
-ground
+### Parts
+[[目-eye]]
+[[十-ten,10]]
+[[八-8]]
 
-[[八 - 8]]
+### Mnemonic
+ground

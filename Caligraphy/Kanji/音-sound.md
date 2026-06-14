@@ -5,9 +5,9 @@
 
 ### Parts
 
-[[立 - stand]]
-[[日 - sun]]
-[[意 - mind]]
+[[立-stand]]
+[[日-day]]
+[[意-mind]]
 
 ### Mnemonic
 

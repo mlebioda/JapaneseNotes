@@ -1,6 +1,9 @@
 # 度 - degree
+
+## Occurences
 [[Kaligrafia-9-Banking#度 - degree, frequency・たび・ド]]
----
-[[广 - component]]
-[[廿 - component]]
-[[又 - component]]
+
+### Parts
+[[广-canopy, small roof]]
+[[廿-component]]
+[[又-component]]

@@ -1,6 +1,8 @@
 # 切 - to cut
+
+## Occurences
 [[Kaligrafia-10-Letter#切 - cut・き・セツ]]
 
----
-[[刀 – nóż]]
-[[七 - 7]]
+### Parts
+[[刀-nóż]]
+[[七-7]]

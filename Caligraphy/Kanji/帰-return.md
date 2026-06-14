@@ -6,9 +6,9 @@
 
 ### Parts
 
-[[刂(刀) – knife]]
-[[彳- to go]]
-[[帚 - component]]
+[[刂(刀)–knife]]
+[[彳-togo]]
+[[帚-component]]
 
 ### Mnemonic
 

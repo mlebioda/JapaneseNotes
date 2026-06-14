@@ -5,8 +5,8 @@
 
 ### Parts
 
-[[日 - sun]]
-[[央 - center]]
+[[日-day]]
+[[央-center]]
 
 ### Mnemonic
 

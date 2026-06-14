@@ -5,8 +5,8 @@
 
 ### Parts
 
-[[止 - component]]
-[[少 - few]]
+[[止-component]]
+[[少-few]]
 
 ### Mnemonic
 

@@ -6,8 +6,8 @@
 
 ### Parts
 
-[[田 - rice field]]
-[[丁 - component]]
+[[田-ricefield]]
+[[丁-component]]
 
 ### Mnemonic
 

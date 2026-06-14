@@ -5,8 +5,8 @@
 
 ### Parts
 
-[[斤 - component]]
-[[辶 - road]]
+[[斤-component]]
+[[辶-road]]
 
 ### Mnemonic
 

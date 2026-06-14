@@ -9,8 +9,8 @@
 
 ### Parts
 
-[[十 - ten, 10]]
-[[口 – mouth, point, place]]
+[[十-ten,10]]
+[[口–mouth,point,place]]
 
 ### Mnemonic
 

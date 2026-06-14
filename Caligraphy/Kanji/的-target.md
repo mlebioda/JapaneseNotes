@@ -5,8 +5,8 @@
 
 ### Parts
 
-[[白 - white]]
-[[勺 - component]]
+[[白-white]]
+[[勺-component]]
 
 ### Mnemonic
 

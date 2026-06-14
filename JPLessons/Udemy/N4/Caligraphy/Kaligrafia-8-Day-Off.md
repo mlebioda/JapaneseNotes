@@ -52,7 +52,7 @@ morning.
 
 #w 家で日本犬をかっています - I have a japanese dog at home
 #w あなたの犬は日本犬ですか(いぬ、にほんけん) - Is your dog a japanese dog?
-## 歩 - walk・ある・ホ、ぽ
+## 歩 - walk・ある・ホ、ポ
 [[歩-walk]]
 ![[Pasted image 20250416182501.png]]
 To **walk**, you take a few (少) **steps**, then **stop** (止), then go again. 

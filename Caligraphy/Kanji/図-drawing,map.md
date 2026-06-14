@@ -5,11 +5,11 @@
 
 ### Parts
 
-[[口 – mouth, point, place]]
-[[乂 - to cross, cut]]
-[[丶- dot, sign]]
+[[口–mouth,point,place]]
+[[乂-tocross,cut]]
+[[丶-dot,sign]]
 [[囗 - component]]
-[[巛 - component]]
+[[巛-component]]
 
 ### Mnemonic
 

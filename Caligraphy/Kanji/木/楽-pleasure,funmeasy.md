@@ -5,8 +5,8 @@
 
 ### Parts
 
-[[白 - white]]
-[[木 - tree]]
+[[白-white]]
+[[木-tree]]
 
 ### Mnemonic
 

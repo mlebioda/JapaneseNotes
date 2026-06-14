@@ -1,4 +1,7 @@
 # 送 - send
+
+## Occurences
 [[Kaligrafia-10-Letter#送 - send・おく・ソウ]]
----
-[[辶 - road]]
+
+### Parts
+[[辶-road]]
