@@ -6,6 +6,6 @@
 [[Kaligrafia#店 - sklep みせ、テン]]
 
 ## Parts
-[[广 -  canopy, small roof]]
-[[占 - fortune]]
+[[广-canopy, small roof]]
+[[占-fortune]]
 

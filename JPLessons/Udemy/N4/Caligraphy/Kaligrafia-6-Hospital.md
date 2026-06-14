@@ -1,4 +1,4 @@
-TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL6-hospital
+TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL6-hospitall
 
 ## 病 - illness, disease・やまい・ビョウ
 [[病-illness]]
@@ -198,6 +198,7 @@ Under a ROOF (宀), you can finally REACH (至) your ROOM (室)."
  
 
 
+
 # Summary
 
  ---
@@ -206,35 +207,35 @@ Under a ROOF (宀), you can finally REACH (至) your ROOM (室)."
 illness (formal) #k #card
 病（やまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
-<!--ID: 1780853103377-->
+<!--ID: 1781251233613-->
 
 
 illness starts in the mind #k #card
 病は気から（やまい、き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
-<!--ID: 1780853103383-->
+<!--ID: 1781251233615-->
 
 
 my illness is very complicated #k #card
 私の病はとてもむずかしいです（やまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
-<!--ID: 1780853103386-->
+<!--ID: 1781251233617-->
 
 
 hospital #k #card
 病院 (びょういん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
-<!--ID: 1780853103391-->
+<!--ID: 1781251233618-->
 
 
 illness (commonly used term) #k #card
 病気（びょうき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
-<!--ID: 1780853103395-->
+<!--ID: 1781251233619-->
 
 
 what kind of illness does your younger sister have? #k #card
@@ -242,7 +243,7 @@ what kind of illness does your younger sister have? #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
-<!--ID: 1780853103399-->
+<!--ID: 1781251233620-->
 
 
 I was hospitalized at that hospital #k #card
@@ -250,14 +251,14 @@ I was hospitalized at that hospital #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
-<!--ID: 1780853103403-->
+<!--ID: 1781251233621-->
 
 
 hospitalization #k #card
 入院（にょういん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
-<!--ID: 1780853103408-->
+<!--ID: 1781251233622-->
 
 
 graduate from school #k #card
@@ -265,7 +266,7 @@ graduate from school #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
-<!--ID: 1780853103412-->
+<!--ID: 1781251233623-->
 
 
 Whih graduate school do you attend (szkoły wyższej) #k #card
@@ -274,7 +275,7 @@ Whih graduate school do you attend (szkoły wyższej) #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
-<!--ID: 1780853103416-->
+<!--ID: 1781251233624-->
 
 
 Which hospital is your elder brother hospitalized at? #k #card
@@ -283,7 +284,7 @@ Which hospital is your elder brother hospitalized at? #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
-<!--ID: 1780853103420-->
+<!--ID: 1781251233625-->
 
 
 My elder sister was hospitalized for febrile disease #k #card
@@ -293,7 +294,7 @@ My elder sister was hospitalized for febrile disease #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
-<!--ID: 1780853103424-->
+<!--ID: 1781251233626-->
 
 
 This is not a bad hospital #k #card
@@ -301,7 +302,7 @@ This is not a bad hospital #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
-<!--ID: 1780853103429-->
+<!--ID: 1781251233627-->
 
 
 hot #k #card
@@ -309,29 +310,29 @@ hot #k #card
 過去形: 熱かった
 否定形: 熱くない
 副詞形: 熱く
-そう (looks like): 熱そう
+そう: 熱そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
-<!--ID: 1780853103433-->
+<!--ID: 1781251233628-->
 
 
 hot tea #k #card
 熱いお茶（あついおちゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_茶.html">茶</a>
-<!--ID: 1780853103437-->
+<!--ID: 1781251233629-->
 
 
 heat, fever #k #card
 熱（ねつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
-<!--ID: 1780853103442-->
+<!--ID: 1781251233630-->
 
 
 high fever #k #card
 高熱（こうねつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
-<!--ID: 1780853103446-->
+<!--ID: 1781251233631-->
 
 
 my elder brother has a high fever now #k #card
@@ -340,7 +341,7 @@ my elder brother has a high fever now #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
-<!--ID: 1780853103450-->
+<!--ID: 1781251233632-->
 
 
 I have had a fever since yesterday #k #card
@@ -348,7 +349,7 @@ I have had a fever since yesterday #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
-<!--ID: 1780853103454-->
+<!--ID: 1781251233633-->
 
 
 I won't go to work because of the high fever #k #card
@@ -359,7 +360,7 @@ I won't go to work because of the high fever #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
-<!--ID: 1780853103458-->
+<!--ID: 1781251233634-->
 
 
 My younger brother has a high fever #k #card
@@ -367,26 +368,26 @@ My younger brother has a high fever #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
-<!--ID: 1780853103462-->
+<!--ID: 1781251233635-->
 
 
 to go regularly, attend #k #card
 ほんやく: 通う（かよ）
+ます形: 通います
 て形: 通って
 た形: 通った
-ます形: 通います
-出す形 (start): 通い出す
-そう (looks like): 通いそう
-お〜になる (honorific): お通いになる
 ない形: 通わない
 なかった形: 通わなかった
-あれる形 (passive): 通われる
-尊敬語 (honorific): 通われる
 ば形 (if): 通えば
 可能形 (can): 通える
-おう形 (let's): 通おう
+あれる形 (passive): 通われる
+出す形 (start): 通い出す
+尊敬語 (honorific): 通われる
+お〜になる (honorific): お通いになる
+そう (looks like): 通いそう
+おう (let's): 通おう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
-<!--ID: 1780853103466-->
+<!--ID: 1781251233636-->
 
 
 go to the library (regularly) #k #card
@@ -395,7 +396,7 @@ go to the library (regularly) #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
-<!--ID: 1780853103470-->
+<!--ID: 1781251233637-->
 
 
 The teacher goes to the hospital for his illness #k #card
@@ -406,7 +407,7 @@ The teacher goes to the hospital for his illness #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
-<!--ID: 1780853103474-->
+<!--ID: 1781251233638-->
 
 
 I'm attending this university #k #card
@@ -414,26 +415,26 @@ I'm attending this university #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
-<!--ID: 1780853103479-->
+<!--ID: 1781251233639-->
 
 
 go through #k #card
 ほんやく: 通る（とお)
+ます形: 通ります
 て形: 通って
 た形: 通った
-ます形: 通ります
-出す形 (start): 通り出す
-そう (looks like): 通りそう
-お〜になる (honorific): お通りになる
 ない形: 通らない
 なかった形: 通らなかった
-あれる形 (passive): 通られる
-尊敬語 (honorific): 通られる
 ば形 (if): 通れば
 可能形 (can): 通れる
-おう形 (let's): 通ろう
+あれる形 (passive): 通られる
+出す形 (start): 通り出す
+尊敬語 (honorific): 通られる
+お〜になる (honorific): お通りになる
+そう (looks like): 通りそう
+おう (let's): 通ろう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
-<!--ID: 1780853103483-->
+<!--ID: 1781251233640-->
 
 
 go through a narrow path #k #card
@@ -441,7 +442,7 @@ go through a narrow path #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_細.html">細</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
-<!--ID: 1780853103487-->
+<!--ID: 1781251233641-->
 
 
 narrow #card
@@ -449,23 +450,23 @@ narrow #card
 過去形: 細かった
 否定形: 細くない
 副詞形: 細く
-そう (looks like): 細そう
+そう: 細そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_細.html">細</a>
-<!--ID: 1780853103492-->
+<!--ID: 1781251233642-->
 
 
 go to the hospital #k #card
 通院（つういん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
-<!--ID: 1780853103496-->
+<!--ID: 1781251233643-->
 
 
 go to the school #k #card
 通学（つうがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
-<!--ID: 1780853103500-->
+<!--ID: 1781251233644-->
 
 
 I go to the hospital every day #k #card
@@ -474,35 +475,35 @@ I go to the hospital every day #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
-<!--ID: 1780853103504-->
+<!--ID: 1781251233645-->
 
 
 big body #k #card
 大きな体（おお、からだ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
-<!--ID: 1780853103508-->
+<!--ID: 1781251233646-->
 
 
 What part of your body is in pain? #k #card
 体のどこが痛いですか（からだ、いた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
-<!--ID: 1780853103512-->
+<!--ID: 1781251233647-->
 
 
 physical education #k #card
 体育（たいいく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_育.html">育</a>
-<!--ID: 1780853103516-->
+<!--ID: 1781251233648-->
 
 
 physical strenght #k #card
 体力（たいりょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
-<!--ID: 1780853103521-->
+<!--ID: 1781251233649-->
 
 
 My elder brother's physical strength is amazing #k #card
@@ -510,7 +511,7 @@ My elder brother's physical strength is amazing #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
-<!--ID: 1780853103527-->
+<!--ID: 1781251233650-->
 
 
 that persion is a physical education teacher #k #card
@@ -520,13 +521,13 @@ that persion is a physical education teacher #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_育.html">育</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
-<!--ID: 1780853103532-->
+<!--ID: 1781251233651-->
 
 
 bad #k #card
 悪い（わる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
-<!--ID: 1780853103536-->
+<!--ID: 1781251233652-->
 
 
 bad weather #k #card
@@ -534,7 +535,7 @@ bad weather #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
-<!--ID: 1780853103541-->
+<!--ID: 1781251233653-->
 
 
 The food at the hospital is not bad #k #card
@@ -544,34 +545,34 @@ The food at the hospital is not bad #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
-<!--ID: 1780853103545-->
+<!--ID: 1781251233654-->
 
 
 villain #k #card
 悪人（あくにん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
-<!--ID: 1780853103549-->
+<!--ID: 1781251233655-->
 
 
 bad disease #k #card
 悪病（あくびょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
-<!--ID: 1780853103553-->
+<!--ID: 1781251233656-->
 
 
 That men is not a bad person #k #card
 あの人は悪人じゃありません（あくにん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
-<!--ID: 1780853103558-->
+<!--ID: 1781251233657-->
 
 
 smart #k #card
 頭がいい（あたま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
-<!--ID: 1780853103563-->
+<!--ID: 1781251233658-->
 
 
 Mr. Yamada is smart (yo know) #k #card
@@ -579,7 +580,7 @@ Mr. Yamada is smart (yo know) #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
-<!--ID: 1780853103568-->
+<!--ID: 1781251233659-->
 
 
 initial letter #k #card
@@ -587,14 +588,14 @@ initial letter #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
-<!--ID: 1780853103572-->
+<!--ID: 1781251233660-->
 
 
 headache #k #card
 頭痛（ずつう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
-<!--ID: 1780853103576-->
+<!--ID: 1781251233661-->
 
 
 I have a fever and a hedache #k #card
@@ -602,26 +603,26 @@ I have a fever and a hedache #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
-<!--ID: 1780853103579-->
+<!--ID: 1781251233662-->
 
 
 presence #k #card
 出頭（しゅっとう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
-<!--ID: 1780853103582-->
+<!--ID: 1781251233663-->
 
 
 painful #k #card
 痛い（いたい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
-<!--ID: 1780853103585-->
+<!--ID: 1781251233664-->
 
 
 pain #k #card
 痛み（いたみ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
-<!--ID: 1780853103588-->
+<!--ID: 1781251233665-->
 
 
 I'll go to the hospital because I have a headache #k #card
@@ -631,7 +632,7 @@ I'll go to the hospital because I have a headache #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
-<!--ID: 1780853103590-->
+<!--ID: 1781251233666-->
 
 
 I have had a headache since this morning #k #card
@@ -640,7 +641,7 @@ I have had a headache since this morning #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
-<!--ID: 1780853103592-->
+<!--ID: 1781251233667-->
 
 
 My body hurts and I have a fever. #k #card
@@ -648,35 +649,35 @@ My body hurts and I have a fever. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
-<!--ID: 1780853103595-->
+<!--ID: 1781251233668-->
 
 
 enjoyable #k #card
 痛快（つうかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_快.html">快</a>
-<!--ID: 1780853103597-->
+<!--ID: 1781251233669-->
 
 
 doctor #k #card
 医者（いしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
-<!--ID: 1780853103600-->
+<!--ID: 1781251233670-->
 
 
 medicine/medical science #k #card
 医学（いがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
-<!--ID: 1780853103602-->
+<!--ID: 1781251233671-->
 
 
 clinic(no hospitalization) 2x #k #card
 医院・クリニック（いいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
-<!--ID: 1780853103604-->
+<!--ID: 1781251233672-->
 
 
 Is that person the doctor at this clinic? #k #card
@@ -686,7 +687,7 @@ Is that person the doctor at this clinic? #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
-<!--ID: 1780853103607-->
+<!--ID: 1781251233673-->
 
 
 Is the classroom for medical science here? #k #card
@@ -695,7 +696,7 @@ Is the classroom for medical science here? #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
-<!--ID: 1780853103609-->
+<!--ID: 1781251233674-->
 
 
 My younger brother is studying medical science #k #card
@@ -703,7 +704,7 @@ My younger brother is studying medical science #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
-<!--ID: 1780853103612-->
+<!--ID: 1781251233675-->
 
 
 My father (uczęszcza) goes to this clinic #k #card
@@ -712,7 +713,7 @@ My father (uczęszcza) goes to this clinic #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
-<!--ID: 1780853103616-->
+<!--ID: 1781251233676-->
 
 
 hospital personel #k #card
@@ -720,21 +721,21 @@ hospital personel #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
-<!--ID: 1780853103620-->
+<!--ID: 1781251233677-->
 
 
 villain(bad person) #k #card
 悪者（わるもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
-<!--ID: 1780853103623-->
+<!--ID: 1781251233678-->
 
 
 scholar(uczony) #k #card
 学者（がくしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
-<!--ID: 1780853103628-->
+<!--ID: 1781251233679-->
 
 
 this doctor is a good doctor (with respect) #k #card
@@ -743,7 +744,7 @@ this doctor is a good doctor (with respect) #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
-<!--ID: 1780853103632-->
+<!--ID: 1781251233680-->
 
 
 There are only 2 doctors in that clinic #k #card
@@ -753,21 +754,21 @@ There are only 2 doctors in that clinic #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
-<!--ID: 1780853103636-->
+<!--ID: 1781251233681-->
 
 
 class room #k #card
 教室（きょうしつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
-<!--ID: 1780853103640-->
+<!--ID: 1781251233682-->
 
 
 hospital room #k #card
 病室（びょうしつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
-<!--ID: 1780853103644-->
+<!--ID: 1781251233683-->
 
 
 Your elder brother is in the hospital room #k #card
@@ -775,7 +776,7 @@ Your elder brother is in the hospital room #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
-<!--ID: 1780853103648-->
+<!--ID: 1781251233684-->
 
 
 Father is in the hospital room #k #card
@@ -783,21 +784,21 @@ Father is in the hospital room #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
-<!--ID: 1780853103652-->
+<!--ID: 1781251233685-->
 
 
 step, footing #k #card
 足元（あしもと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
-<!--ID: 1780853103657-->
+<!--ID: 1781251233686-->
 
 
 origin of fire #k #card
 火の元（ひのもと)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
-<!--ID: 1780853103662-->
+<!--ID: 1781251233687-->
 
 
 selling agency #k #card
@@ -805,28 +806,28 @@ selling agency #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_販.html">販</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
-<!--ID: 1780853103666-->
+<!--ID: 1781251233688-->
 
 
 fine/healthy/energetic #k #card
 元気（げんき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
-<!--ID: 1780853103670-->
+<!--ID: 1781251233689-->
 
 
 name of era gengou #k #card
 元号（げんごう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_号.html">号</a>
-<!--ID: 1780853103675-->
+<!--ID: 1781251233690-->
 
 
 element #k #card
 元素（げんそ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_素.html">素</a>
-<!--ID: 1780853103678-->
+<!--ID: 1781251233691-->
 
 
 My mother is hospitalized but she is doing fine #k #card
@@ -836,7 +837,7 @@ My mother is hospitalized but she is doing fine #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
-<!--ID: 1780853103682-->
+<!--ID: 1781251233692-->
 
 
 

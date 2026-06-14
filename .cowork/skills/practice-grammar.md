@@ -40,6 +40,7 @@ If user references a lesson by code only (e.g. `UN5GL14`), find the file under `
 7. **Run the session interactively** — present exercises one at a time. After each answer, grade it (see **Grading**), give brief feedback, ask the user to self-score 1–4 (fail / hard / good / easy). Accept the score, move to the next exercise.
 8. **After the last exercise** — write a summary of what went well and what needs more practice.
 9. **Persist results** — update `grammar-state.json` (see **Persistence**).
+10. **Write calendar file** — after writing `grammar-state.json`, write a new timestamped `japanese-grammar-review-<timestamp>.ics` file at the vault root (see **Calendar sync**).
 
 No confirmation needed at any step — start practicing immediately after the user triggers the skill.
 
@@ -104,22 +105,31 @@ For each grammar point, produce **one exercise per use case** (as extracted duri
 
 Pick the exercise type that best tests the specific use case:
 
-- **Translate to Japanese** — Polish/English prompt, user writes Japanese. Best for sentence-pattern grammar (てください, なくてもいい, だけ, が-contrast).
-- **Fill the blank** — Japanese sentence with a gap, user fills the grammar form. Best for verb conjugation and particle choice.
-- **Choose the correct form** — two or three candidate forms shown, user picks. Best for contrasts (Vない vs なくても, が vs で).
-- **Build from pieces** — scrambled words + particles, user assembles. Best for noun-modifying-verb patterns.
+- **Type 1 — Contextual production** — Situation described in English/Polish, no grammar named. Student writes natural Japanese. Claude internally knows the target grammar and grades on whether it was used correctly and naturally. Best for single nuanced words/expressions (ぜひ, きっと, etc.).
+- **Type 2 — Discrimination fill-in-blank** — One gap, four choices — ALL four must be genuinely confusable. Confusability definition: all four choices must be grammatically plausible in the given sentence; the lesson must contain at least two forms that share a morphological relationship with the target (e.g. all conditionals, all て-forms, all aspect pairs). ONLY used when there is a group of similar forms in the lesson. Never used for a single grammar point where the choice is obvious. Best for groups of similar forms (conditionals, て-forms, aspect pairs).
+- **Type 3 — Description → production** — Claude describes a concrete situation without naming or hinting at the grammar. Student must produce the correct form, counter, or structure. Best for counters, classifiers, specific constructions.
+- **Type 4 — JLPT sentence ordering (文の組み立て)** — A sentence is broken into scrambled fragments. One position is marked ★. Student places the fragments in the correct order. The grammar form is never named. Best for complex sentence-pattern grammar.
+- **Type 5 — JLPT passage grammar (文章の文法)** — A short natural paragraph (3–5 sentences) with one or two numbered blanks. Student picks which option fits the passage context. Surrounding sentences provide natural context clues, not grammar hints. Best for grammar points with rich context dependency.
+- **Type 6 — Bolded form → explain** — Claude writes a sentence with the target grammar bolded. Student explains: what does this form mean here, and why is it used (not a different form). Best for nuanced contrasts (e.g. ことにした vs つもり) and grammar points already seen in a prior session.
 
-**Furigana rule — mandatory.** Every kanji character that appears in an exercise (sentence, prompt, choices, fragments, hint text) **must** have furigana. Use vault inline style: kanji immediately followed by the reading in full-width parentheses, e.g. `名刺（めいし）`, `病院（びょういん）`, `食（た）べる`. Before outputting each exercise, scan every kanji in it and verify furigana is present — no exceptions, including words from the vocab pool, example sentences, and grammar point context.
+**Furigana rule — mandatory.** Every kanji character that appears anywhere in the exercise output **must** have furigana — no exceptions. This applies to every location: question text, answer options, feedback lines, hint text, example sentences, grammar-point context, and vocabulary pool words. Use vault inline style: kanji immediately followed by the reading in full-width parentheses, e.g. `名刺（めいし）`, `病院（びょういん）`, `食（た）べる`. Compound words are the most common failure point — every kanji in the compound needs its own reading. ✗ `来年、日本語の試験（しけん）を…` — 来年 and 日本語 are missing furigana. ✓ `来年（らいねん）、日本語（にほんご）の試験（しけん）を…` — every kanji covered. Before outputting each exercise, scan every kanji in every line and verify furigana is present.
 
 **Vocabulary rule** — content words in the exercise must come from the vocab pool (`# ごい` + `# ひょうげん`) first. Only reach for outside vocabulary if the pool cannot express the grammar point. Any outside vocabulary must be strict N5 level.
 
-**Weak-point bias** — if the state entry for this grammar point has `weak_points`, design the exercise so the answer requires getting that aspect right (e.g. if the weak point is "particle placement," the exercise must have the particle in the target answer).
+**Weak-point bias** — if the state entry for this grammar point has `weak_points`, design the exercise so the answer requires getting that aspect right (e.g. if the weak point is "particle placement," the exercise must have the particle in the target answer). For weak-point reinforcement (low SM-2 ease or recent failure), prefer Type 1 or Type 3. Avoid Types 5 and 6 when targeting known weak conjugations — those types test comprehension and meta-awareness, not production accuracy.
 
-**Variety** — across the session, rotate exercise types; avoid running five "translate to Japanese" in a row.
+**Type selection rule** — pick the type that best fits what the grammar point needs:
+- Single nuanced word/expression (ぜひ, きっと, etc.) → Type 1 or Type 6
+- Group of similar forms (conditionals, て-forms, aspect pairs) → Type 2 or Type 4; Type 2 requires all four choices to be genuinely confusable (see confusability definition above) — never use it for a single grammar point where the choice is obvious
+- Counters, classifiers, specific constructions → Type 3
+- Grammar points with rich context dependency → Type 5
+- Any grammar point the student has already seen in a prior session (recorded in grammar-state.json) → prefer Type 6
+
+**Variety rule** — vary types only when multiple types are equally valid for a given grammar point. Never override the pedagogically correct type just for variety.
 
 **Non-trivial exercise checklist — mandatory.** Before outputting any exercise, verify all three gates pass. If a gate fails, redesign the exercise (change type or rewrite the prompt) until it passes all three.
 
-**Gate 1 — Prompt does not leak the answer.** The prompt must not contain, quote, or directly name the exact form the user must produce. A prompt like "Translate to Japanese: 'I decided to go to graduate school'" is fine — the grammar form (ことにしました) is not named in the prompt. A prompt like "Use ことにする to say you decided to quit" fails because it names the target form; rewrite as a neutral translation or context prompt instead.
+**Gate 1 — Prompt does not leak the answer — grammar point name must not appear anywhere in the exercise shown to the student before they answer.** The prompt must not contain, quote, or directly name the exact form the user must produce. A prompt like "Translate to Japanese: 'I decided to go to graduate school'" is fine — the grammar form (ことにしました) is not named in the prompt. A prompt like "Use ことにする to say you decided to quit" fails because it names the target form; rewrite as a neutral translation or context prompt instead. The grammar point name is held internally by Claude and may appear in grading feedback after the student submits their answer — never before.
 
 **Gate 2 — Answer requires genuinely using the grammar point.** A native speaker who does not know this grammar point but knows vocabulary could not produce the answer by elimination or by copying surrounding text. If they could, upgrade the exercise type (e.g. fill-the-blank → translate-to-Japanese).
 
@@ -131,7 +141,7 @@ Pick the exercise type that best tests the specific use case:
 
 There are two modes — **batch** (default) and **interactive**. Pick batch unless the user explicitly asks for one-at-a-time.
 
-**Progress indicator — required.** Every exercise prompt MUST start with `Exercise <current> / <total>` so the user always knows where they are in the session. `<current>` is 1-based (first exercise is `1 / N`, last is `N / N`). The total is fixed at the start of the session and does not change mid-session.
+**Progress indicator — required.** Every exercise prompt MUST start with `Exercise <current> / <total>` so the user always knows where they are in the session. `<current>` is 1-based (first exercise is `1 / N`, last is `N / N`). The total is fixed at the start of the session and does not change mid-session. The exercise title shows only the number — never the grammar point name.
 
 ### Batch mode (default — works on flaky connections)
 
@@ -144,22 +154,22 @@ Layout for the batch prompt:
 ```
 Session: UN4GL7 — 14 exercises across 9 grammar points. Reply with all answers in one message (numbered or in order).
 
-Exercise 1 / 14 — grammar point: 名詞 + 中（ちゅう・じゅう）  [use case: ongoing state]
+Exercise 1 / 14
 Translate to Japanese: "The meeting is currently in progress."
 
-Exercise 2 / 14 — grammar point: 名詞 + 中（ちゅう・じゅう）  [use case: whole area / place]
+Exercise 2 / 14
 Translate to Japanese: "I travelled all around Japan."
 
-Exercise 3 / 14 — grammar point: Vないで ください
+Exercise 3 / 14
 Translate to Japanese: "Please don't use a cellphone in the hospital."
 
 …
 
-Exercise 14 / 14 — grammar point: Counter 本
+Exercise 14 / 14
 Fill the blank: ペンが ___ あります (3 pens).
 ```
 
-Note: the `[use case: ...]` label in the example above is shown here for illustration only — **omit it from the actual exercise output** so the label does not leak the tested structure to the user.
+Note: both the grammar point name and the `[use case: ...]` label are suppressed from all exercise output — Claude holds them internally only. The only visible header is `Exercise N / T`. Grammar point names are permitted in the post-session summary (session is over; exposure is appropriate for review).
 
 Layout for the grading reply (single message):
 
@@ -187,7 +197,7 @@ Self-score each one 1–4 (1=fail, 2=hard, 3=good, 4=easy). Reply with the 7 sco
 Present one exercise, wait for the answer, grade, ask for the self-score, then move to the next.
 
 ```
-Exercise 3 / 7 — grammar point: Vない なくてもいいです
+Exercise 3 / 7
 
 Translate to Japanese: "You don't have to book a reservation."
 
@@ -237,6 +247,12 @@ Compare user's answer to the expected answer with tolerance:
 
 Weak-point strings should be short and categorical: `particle に placement`, `て-form of godan verbs`, `だけ vs しか`. Not free-form sentences.
 
+**Feedback format** — feedback must name the specific semantic or grammatical mismatch, not just flag the answer as wrong. Format: `"you used X (meaning/use) but the situation requires Y (meaning/use)"`. Example: `"you used つもりです (future intention) but the situation calls for a completed decision → ことにした"`. Grammar point name is permitted in grading feedback after the student submits their answer.
+
+**Type 5 grading (passage grammar)** — mark correct or incorrect AND explain why the chosen option does not fit the passage context, citing the surrounding sentences as evidence. Also explain why the correct option does fit.
+
+**Type 6 grading (bolded form → explain)** — semantic evaluation, not right/wrong. Grade on: (a) whether the student correctly identified the meaning of the bolded form, and (b) whether they explained the contrast with the obvious alternative. Evaluate quality of explanation rather than matching a fixed answer.
+
 ---
 
 ## Session summary
@@ -256,7 +272,7 @@ Needs practice:
   ✗ Vplain + N (noun modifier)     score 2 — N が/の particle choice
   ✗ Counter 本                      score 1 — sound changes (いっぽん, さんぼん)
 
-Next review dates written to grammar-state.json.
+Next review dates written to grammar-state.json. Calendar file: japanese-grammar-review-<timestamp>.ics written to vault root.
 ```
 
 Rules:
@@ -312,6 +328,95 @@ Example entry shape:
 Keep JSON pretty-printed with 2-space indent so diffs are readable.
 
 No transcript file is written — the state JSON is the only output of a session.
+
+---
+
+## Calendar sync
+
+After every session, write a new timestamped file `japanese-grammar-review-<YYYYMMDDTHHMMSS>.ics` at the vault root. Each session file is self-contained — only the grammar points practiced this session are included. The user imports the new file after each session; old files are left untouched and do not need to be deleted. This is the only file Claude writes outside `.cowork/progress/`.
+
+**Only include grammar points practiced in the current session** — not everything in the JSON.
+
+Rules:
+- The set of session grammar point IDs is known at persistence time (the same set just written to JSON).
+- Read their new `next_review` dates from the freshly updated JSON.
+- Group grammar headers by date — one VEVENT per date, with headers in DESCRIPTION.
+- Use `DTSTART;VALUE=DATE:YYYYMMDD` (all-day events, no time zone).
+- SUMMARY: `Japanese Grammar Review — N point(s)`.
+- DESCRIPTION: newline-separated list of `grammar_header` values due that day.
+- PRODID: `-//Japanese Grammar Review//EN`
+
+Generate with Python (substitute `SESSION_IDS` with the actual list of IDs from this session):
+
+```python
+import json
+import uuid
+from datetime import date, timedelta
+from collections import defaultdict
+
+# NOTE: Replace VAULT_ROOT with the active session mount path for this vault.
+# Stable vault root (macOS): /Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP
+VAULT_ROOT = "/Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP"
+json_path  = f"{VAULT_ROOT}/.cowork/progress/grammar-state.json"
+session_ts = date.today().strftime("%Y%m%dT%H%M%S")
+ics_path   = f"{VAULT_ROOT}/japanese-grammar-review-{session_ts}.ics"
+
+session_ids = [...]  # list of grammar point IDs practiced this session
+
+with open(json_path) as f:
+    gp = json.load(f)["grammar_points"]
+
+by_date = defaultdict(list)
+for gid in session_ids:
+    entry = gp.get(gid)
+    if entry:
+        d = entry.get("next_review", "")
+        if d:
+            by_date[d].append(entry.get("grammar_header", gid))
+
+def fold(line: str) -> str:
+    """Fold a single ICS content line to max 75 octets per RFC 5545 §3.1."""
+    encoded = line.encode("utf-8")
+    if len(encoded) <= 75:
+        return line
+    out = []
+    while len(encoded) > 75:
+        chunk = encoded[:75].decode("utf-8", errors="ignore")
+        while len(chunk.encode("utf-8")) > 75:
+            chunk = chunk[:-1]
+        out.append(chunk)
+        encoded = b" " + encoded[len(chunk.encode("utf-8")):]
+    out.append(encoded.decode("utf-8"))
+    return "\r\n".join(out)
+
+lines = [
+    "BEGIN:VCALENDAR",
+    "VERSION:2.0",
+    "PRODID:-//Japanese Grammar Review//EN",
+    "CALSCALE:GREGORIAN",
+]
+for d in sorted(by_date):
+    headers = by_date[d]
+    dt_date = date.fromisoformat(d[:10])
+    dtstr   = dt_date.strftime("%Y%m%d")
+    dt_end  = (dt_date + timedelta(days=1)).strftime("%Y%m%d")
+    lines += [
+        "BEGIN:VEVENT",
+        f"DTSTART;VALUE=DATE:{dtstr}",
+        f"DTEND;VALUE=DATE:{dt_end}",
+        f"SUMMARY:Japanese Grammar Review — {len(headers)} point(s)",
+        "DESCRIPTION:" + "\\n".join(headers),
+        f"UID:{dtstr}-{session_ts}-{str(uuid.uuid4())[:8]}@japanese-notes",
+        "END:VEVENT",
+    ]
+lines.append("END:VCALENDAR")
+
+with open(ics_path, "w", encoding="utf-8") as f:
+    f.write("\r\n".join(fold(l) for l in lines) + "\r\n")
+print(f"Written {len(by_date)} event(s) to {ics_path}")
+```
+
+After running, print a one-line confirmation: `Calendar updated — N event(s) written to japanese-grammar-review-<timestamp>.ics`.
 
 ---
 

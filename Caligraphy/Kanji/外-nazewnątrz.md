@@ -8,5 +8,5 @@
 
 ## Parts
 [[夕-evening]]
-[[卜- divination, wróżbiarstwo, to predict]]
+[[卜-divination, wróżbiarstwo, to predict]]
 

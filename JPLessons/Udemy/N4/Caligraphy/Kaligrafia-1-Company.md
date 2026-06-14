@@ -35,7 +35,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 
 #w デパート - department store
 ## 員 - member・かず・イン
-[[員memberかず・イン]]
+[[員-member]]
 
 ![[Pasted image 20250223164434.png]]
 (かず)
@@ -47,7 +47,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 #w 社員会（しゃいんかい）- employe meeting
 #w 社員会は三時からです (しゃいんかい) - The employee meeting is from 3 o'clock
 ## 曜 - day of week・ヨウ
-[[曜dayofweekヨウ]]
+[[曜-dayofweek]]
 
 
 ![[Pasted image 20250223164746.png]]
@@ -59,7 +59,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 ---
 
 ## 作 - make, work・つく・サ、サク
-[[作make,workつく・サ、サク]]
+[[作-make,work]]
 
 
 ![[Pasted image 20250224194550.png]]
@@ -75,7 +75,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 #w 作品（さくひん）- piece of work (completed creative work, book)
 
 ## 業 - work, industry・わざ・ギョウ、ゴウ
-[[業work,industryわざ・ギョウ、ゴウ]]
+[[業-work,industry]]
 
 
 ![[Pasted image 20250224195145.png]]
@@ -90,7 +90,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 
 (ごう) - advanced
 ## 始 - begin・はじ・シ
-[[始beginはじ・シ]]
+[[始-begin]]
 
 ![[Pasted image 20250224200545.png]]
 (はじ)
@@ -105,7 +105,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
 #w 始業時間（しぎょうじかん）-  starting time for work, czas rozpoczęcia pracy/szkoły
 #w 私の会社の始業時間は午前九時です（しぎょうじかん）- my company's starting time is 9Am
 ## 終 - finish・お・シュウ
-[[終-finishお・シユウ]]
+[[終-finish]]
 
 ![[Pasted image 20250224201551.png]]
 

@@ -65,3 +65,21 @@
 **Source**: uncommitted — skill-implementer
 
 ---
+
+## 2026-06-12 — vault-system-diagram.puml
+
+**Classification**: new-feature
+**What happened**: The vault system diagram was regenerated after accumulating drift from multiple unrecorded additions: two new top-level skills (reading-jlpt, templates-update), a new references package, corrected directory names (Kaligrafia/ → Caligraphy/), missing .ics output node for practice-grammar, and tightened agent notes across all five agents.
+**Rule**: **[Rule]** A documentation agent must be triggered after every skill or agent change, not only after major milestones — a diagram that accumulates multiple stale entries becomes misleading enough to cause misrouting in A2A design reviews.
+**Source**: uncommitted — documentation
+
+---
+
+## 2026-06-14 — docs/vault-system-diagram.puml
+
+**Classification**: new-feature
+**What happened**: Diagram regenerated after kanji-headers rewrite and kanji-file addition; kanji-file was added as a new component, kanji-headers call-chain annotation corrected to show delegation to kanji-file per kanji, update-kanji-list marked DEPRECATED, and minor clarifications applied to update-grammar, commit, scribe, and extract-grammar notes.
+**Rule**: **[Rule]** When a documentation agent regenerates a diagram, it must explicitly verify and correct all inter-skill chain annotations (not only component existence) — a diagram that lists a new skill but retains the old, incorrect call-chain annotation is more misleading than one with a missing node.
+**Source**: uncommitted — documentation
+
+---

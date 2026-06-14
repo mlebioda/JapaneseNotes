@@ -4,7 +4,9 @@
 [[Kaligrafia#生 urodzić się - う・む、う・まれる／せい]]
 [[KaligrafiaPodsumowanie#生]]
 [[KaligrafiaS4L7#生]]
+
 ---
+
 [[丿 - component]]
 [[土 - ziemia]]
 [[青 - blue]]

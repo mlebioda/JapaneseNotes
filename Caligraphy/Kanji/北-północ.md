@@ -5,4 +5,4 @@
 [[KaligrafiaS4L4#北]]
 
 ---
-[[匕 - spoon, transformation]]
+[[匕-spoon, transformation]]

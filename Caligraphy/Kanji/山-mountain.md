@@ -4,4 +4,4 @@
 [[UN5KL1#山 - mountain・やま・サン]]
 
 ---
-[[出-go out,take outで(る)、だ(す)・シュツ、シュッ]]
+[[出-go out,take out]]

@@ -1,6 +1,6 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL5-Shopping
 ## 買 - buy・か、かい・バイ
-[[買-buyか(う)・バイ]]
+[[買-buy]]
 
 ![[Pasted image 20250330131512.png|179]]
 
@@ -25,7 +25,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL5-Shopping
 
 **(ばい)**
 売買（ばいばい） - trade
-#w 商売（しょうばい）- business
+#w 商売（しょうばい）- business, trade, commerce
 #w あの人の仕事は車の売買です（ひと、しごと、くるま、ばいばい) - His job is trading cars
 #w あなたの仕事は建物の売買ですね（たてもの、ばいばい）- your job is trading buildings, right?
 ## 洋 - western/ocean・ヨウ
@@ -235,7 +235,7 @@ this car is not for sale #k #card
 <!--ID: 1780855042701-->
 
 
-business #k #card
+business, trade, commerce #k #card
 商売（しょうばい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_商.html">商</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>

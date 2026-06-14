@@ -42,6 +42,7 @@ Every lesson file contains:
 - Git is the rollback mechanism — no `.bak` files. Before a destructive edit, ensure pending changes are committed (commit a "WIP" snapshot if needed), then edit; commit the change separately.
 - When user references a lesson by number (e.g. "UNGL15"), find the file automatically
 - Never create files directly in the vault root (`/ObsidianJP/`) unless explicitly asked
+  - Approved exception: `.ics` calendar files written by the practice-grammar skill (`japanese-grammar-review-<timestamp>.ics`). These are intentionally placed at the vault root for easy drag-and-drop calendar import.
 
 ## Image extraction format
 When the user sends an image and asks to "extract", output vocabulary lines in this format:
@@ -73,9 +74,12 @@ No `Tłumaczenie:` keyword. No confirmation step required.
 Skills are defined in .cowork/skills/ — load the relevant skill before acting.
 
 - kanji-headers — format kanji tables from images into structured markdown headers
-- practice-grammar — interactive grammar drill for a lesson file; reads only `# 文法` + `# Vocabulary` (grammar topics) and `# ごい` + `# ひょうげん` (vocab pool). Writes results to `.cowork/progress/grammar-state.json` (SM-2 lite). Trigger: "let's practice <lesson>"
+- kanji-file — process a single kanji into a standalone `Caligraphy/Kanji/<kanji>.md` file: reads existing file or creates new, inserts structured table (readings, strokes, meanings, mnemonics, examples), links radicals/primitives. Trigger: "kanji file <kanji>", "create kanji file <kanji>"
+- practice-grammar — interactive grammar drill for a lesson file; reads only `# 文法` + `# Vocabulary` (grammar topics) and `# ごい` + `# ひょうげん` (vocab pool). Writes results to `.cowork/progress/grammar-state.json` (SM-2 lite) and generates a timestamped `.ics` calendar file (`japanese-grammar-review-<timestamp>.ics`) at the vault root for easy calendar import. Trigger: "let's practice <lesson>"
 - summarize-grammar — add a single lesson's grammar points to the topic-grouped index at `/grammar-index/`. One topic file per topic; entries are wikilinks (no copied text); a point may appear in multiple topics. Trigger: "summarize <lesson>"
 - templates-update — audit and repair already-filled Anki card templates in a lesson's `# Summary` section: normalize field names, fill missing forms, verify conjugation/adjective form correctness, fix kanji links, and reposition `<!--ID:-->` lines. Triggers: "templates-update [file]", "update templates [file]", "repair templates [file]", "fix templates [file]"
+- reading-jlpt — JLPT N4 reading comprehension drill on user-pasted passages. Auto-detects passage type (短文/中文/情報検索), flags above-N4 vocab, generates multiple-choice questions, explains results, suggests vocabulary, writes session file to `JPLessons/Reading/`. Chains to fill-templates. Trigger: "practice reading [passage]", "reading drill", "jlpt reading [passage]"
+- update-kanji-list — **DEPRECATED**. Use `kanji-file` instead for per-kanji standalone file processing.
 
 **lesson-to-web/** (skills for extracting lesson content into published grammar-index files):
 - lesson-to-web/extract-grammar — extract grammar points from a lesson's 文法 section into standalone files under grammar-index/grammar/. Also classifies each file into grammar-index/ topic files. Trigger: "extract grammar from <lesson>"
@@ -109,3 +113,4 @@ Agents are defined in `.claude/agents/`. For any task involving skills or agents
 - Never modify files in .cowork/ without permission. Always ask and explain what do you want to modify.
 - Never remove files without my permission
 - Don't use git commands without permission
+- When the user says "run implementer", "use skill-implementer", or similar, always spawn the skill-implementer agent — never implement the changes directly yourself. If the first spawn gets stuck, re-spawn with a fully self-contained prompt.

@@ -131,7 +131,7 @@ roof, legs and work
 #w 空気（くうき）- air
 #w 空白（くうはく）- blank
 ## 明 - bright・あか、あき・メイ、ミョウ
-[[明-brightあか、あき・メイ、ミョウ]]
+[[明-bright]]
 ![[Pasted image 20250610203231.png]]
 **(あか)**
 #w 明るい（あか）- bright

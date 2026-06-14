@@ -4,7 +4,7 @@
 [[Kaligrafia-6-Hospital#熱 - fever, heat・あつ・ネツ]]
 
 ### Parts
-[[坴 - eightfold earth]]
+[[坴-eightfold earth]]
 [[丸 - round]]
 [[灬-fire]]
 

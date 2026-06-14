@@ -1,72 +1,89 @@
 ---
 name: kanji-headers
 description: >
-  Extract kanji from a file headers and write structured markdown headers directly into a target
-  file. Use this skill whenever the user provides a filename — whether
-  they say "kanji headers", or similar. Writes kanji headers plus
-  a # Summary section at the end of the file.
+  Processes a calligraphy lesson file: ensures a kanji reference file exists in Caligraphy/Kanji/
+  or Caligraphy/Primitives/ for each kanji found in ## headers (creating files when missing, then
+  calling kanji-file on each), fixes ## header formatting in-place, writes verified wikilinks
+  under each ## header, and appends new kanji characters to KanjiList.md. Does not write a
+  # Summary section or delegate to update-kanji-list.
 ---
 
 # Kanji Headers Skill
 
+## Trigger
+
+User provides a **filename** (calligraphy lesson file in the vault). User may say "kanji headers
+[file]", or similar.
+
+---
+
 ## Workflow
 
-User provides: a **filename** (target file in the vault).
+User provides: a **filename** (target lesson file in the vault).
 
-1. Read the target file
-2. Extract all kanji from the file Headers. For each kanji, search `Caligraphy/Kanji/**/漢*` and record the result in a per-run map:
+**Step 1 — Read the lesson file.**
+
+Read the target lesson file in full. Identify all `##` header lines that contain a kanji character
+(format: `## Kanji - meaning・kun・on`). Collect the list of distinct kanji characters found.
+
+**Step 2 — Ensure kanji reference files exist.**
+
+For each kanji character found in `##` headers:
+
+1. Search `Caligraphy/Kanji/` and `Caligraphy/Primitives/` recursively for any file whose name
+   **starts with that kanji character**. Use glob: `Caligraphy/Kanji/**/漢*` and
+   `Caligraphy/Primitives/漢*`.
+2. Record the result in a `kanji-file-map` (built as searches complete — no search is repeated):
    ```
    kanji-file-map[漢] = "漢-kanji,china"   # found — filename without .md
    kanji-file-map[電] = null               # not found
    ```
-   Build this map as you perform the searches so no search is repeated.
-3. Write the formatted kanji blocks to the file, followed by `# Summary`
-4. Save the file
-5. Run the `update-kanji-list` workflow on the same file, passing `kanji-file-map` as the `[kanji-file-map]` input (load `.cowork/skills/update-kanji-list.md` and follow its instructions)
+3. **If found** → note the exact filename (no `.md`, no path). Then load `.cowork/skills/kanji-file.md`
+   and call the `kanji-file` skill on that file.
+4. **If not found** → create a new file in `Caligraphy/Kanji/` using the naming convention
+   `kanji-meaning.md` (no spaces around hyphen; first English meaning word, lowercase). Example:
+   `電-electricity.md`. Then update `kanji-file-map` with the new filename. Then call `kanji-file`
+   on the newly created file.
 
-## File output structure
+Cycle guard: if a component character is already being processed in the current call stack, skip
+the recursive `kanji-file` call and log a warning.
+
+**Step 3 — Fix `##` header line formats in the lesson file in-place.**
+
+For each `##` header line identified in Step 1, verify and correct the format to:
 
 ```
-[existing file content, if any]
-
 ## Kanji - meaning・kun・on
-[[Kanji-meaning]]
-
-**(reading 1)**
-
-**(reading 2)**
-
----
-
-## Kanji - meaning・kun・on
-[[Kanji-meaning]]
-
-...
-
----
-
-# Summary
 ```
 
-If the file already has a `# Summary` line, replace everything from that line onward with the new kanji blocks + `# Summary`. Never modify content above the existing `# Summary`.
+Rules:
+- Use `・` (middle dot, U+30FB) as separator between sections.
+- If the kanji has no kun reading, omit it: `## 電 - electricity・デン`
+- If the kanji has no on reading, omit it: `## 何 - what・なに、なん`
+- Multiple readings in the same category are comma-separated: `## 家 - house・いえ、や・カ、ケ`
+- Do NOT touch content inside blocks: reading lines, `---`, `## Parts`, or any other line.
+- `# Summary` and everything below it is strictly off-limits — do not read or modify.
 
-### Link under each header
+**Step 4 — Write verified wikilinks under each `##` header.**
 
-Immediately after each `## header` line, there must be a wikilink to the corresponding kanji file in `Caligraphy/Kanji/`. Always verify the link — whether adding a new one or correcting an existing one.
+Immediately after each `## header` line, ensure a wikilink exists to the corresponding kanji file.
+All files are now guaranteed to exist (from Step 2).
 
-**File names in `Caligraphy/Kanji/` are not consistent and may be in subdirectories** — do not guess the name or path from a pattern. Instead, search recursively under `Caligraphy/Kanji/` for any file whose name **starts with the kanji character** and use the exact filename (without `.md`) as the wikilink.
+- Use the filename recorded in `kanji-file-map` (exact filename, no path, no `.md`): `[[漢-kanji,china]]`
+- If a wikilink already exists under the header, verify it matches the `kanji-file-map` entry. If
+  it does not match, correct it.
+- Place the wikilink on the line immediately following the `##` header, before any reading lines.
 
-If a wikilink already exists under the header, verify it matches the actual filename found by the search. If it does not match, correct it.
+**Step 5 — Update `KanjiList.md`.**
 
-Use a recursive glob: `Caligraphy/Kanji/**/漢*` — this matches both `Caligraphy/Kanji/漢-china.md` and `Caligraphy/Kanji/艹/漢-kanji,china.md`.
+This is the last write operation.
 
-The wikilink uses only the **filename** (no path): `[[漢-kanji,china]]`.
+- Read `KanjiList.md` (vault root) in full.
+- Collect all kanji characters processed in this run.
+- Append any character not already present in `KanjiList.md`, one character per line.
+- Never add duplicates.
 
-Example lookup for 漢: search `Caligraphy/Kanji/**/漢*` → result is `Caligraphy/Kanji/艹/漢-kanji,china.md` → use `[[漢-kanji,china]]`.
-
-If no matching file exists, use `[[Kanji-firstMeaningWord]]` as a placeholder — it will be created by the `update-kanji-list` skill.
-
-> **Note:** When `update-kanji-list` creates a new file for a kanji that had no existing file, the wikilink written by `kanji-headers` may not yet match the actual filename. After `update-kanji-list` completes, re-derive the wikilink from the actual filename that was created (post-creation), not from the placeholder.
+---
 
 ## Header format rules
 
@@ -76,6 +93,8 @@ If no matching file exists, use `[[Kanji-firstMeaningWord]]` as a placeholder �
 - If the kanji has **no on reading**, omit it: `## 何 - what・なに、なん`
 - Multiple readings in the same category are comma-separated in the header: `## 家 - house・いえ、や・カ、ケ`
 
+---
+
 ## Content block rules
 
 - Each reading goes on its **own line**, wrapped in bold parentheses: `**(くるま)**`
@@ -84,26 +103,26 @@ If no matching file exists, use `[[Kanji-firstMeaningWord]]` as a placeholder �
 - Keep hyphens on variant readings: `**(-がた)**`, `**(-ゴク)**`
 - Keep verb inflection as-is: `**(あ（う）)**`
 
+---
+
 ## Scope boundary
 
-`kanji-headers` writes `## Kanji - …` headers and reading blocks only. It does **not** touch `## Parts` blocks or component (primitive) files. Those are handled exclusively by `update-kanji-list` Step 3 (component linking). If a kanji file already contains a `## Parts` section, leave it untouched.
+`kanji-headers` writes `## Kanji - …` headers and wikilinks in the lesson file, and updates
+`KanjiList.md`. It does **not** touch `## Parts` blocks, `### Mnemonic`, `### Parts`, or
+component (primitive) files directly — those are handled exclusively by the `kanji-file` skill.
+If a kanji file already contains a `## Parts` section, leave it untouched.
 
-## Extraction from images
+`# Summary` and everything below it in any lesson file is strictly off-limits.
 
-Read each row carefully:
-- Column 1: Kanji character
-- Column 2: Kun-yomi (hiragana) — may be empty
-- Column 3: On-yomi (katakana) — may be empty
-- Column 4: Stroke count (ignore)
-- Column 5: English meaning
+---
 
-Produce all kanji in the order they appear in the table.
+## Example output
 
-## Example output (end of file)
+This shows the target format for correctly formatted blocks, not a from-scratch write.
 
 ```markdown
 ## 車 - car・くるま・シャ
-[[車 - car]]          ← exact filename found in Caligraphy/Kanji/
+[[車-car]]          ← exact filename found in Caligraphy/Kanji/
 
 **(くるま)**
 
@@ -123,12 +142,19 @@ Produce all kanji in the order they appear in the table.
 
 **(なに)**
 
-
 **(なん)**
 
 ---
-
-# Summary
 ```
 
-Note: the wikilink format varies per file — always use the actual filename.
+Note: the wikilink format varies per file — always use the actual filename found or created.
+
+---
+
+## Never touch
+
+- Lesson files' `# Summary` sections and everything below (strictly off-limits)
+- `<!--ID: -->` lines anywhere
+- `TARGET DECK` lines
+- `## Parts`, `### Parts`, `### Mnemonic` content in kanji files (handled by `kanji-file`)
+- Do not run `git push` or any remote git operation

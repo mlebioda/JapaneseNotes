@@ -8,7 +8,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 **()**
 
 ## 千 - 1000・ち・セン
-[[千-1000ち・セン]]
+[[千-1000]]
 
 **(ち)**
 #w 千葉県（ちばけん) - chiba prefecture
@@ -16,7 +16,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 **(セン)**
 
 ## 万 - 10 000・マン、バン
-[[万-10000マン,バン]]
+[[万-10000]]
 
 **(まん)**
 

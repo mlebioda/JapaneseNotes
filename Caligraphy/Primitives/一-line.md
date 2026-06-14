@@ -1,4 +1,4 @@
-# 一 - component
+# 一 - line
 ---
 [[上 - above]]
 [[下 - under]]

@@ -212,7 +212,8 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 #w  いつ帰国しますか（きこく）- When will you return to the country?
 #w 兄は会社から6時に帰ります（あに、かえ) - My elder brother returns from the company at 6 o'clock
 
-#w リンさんは明日帰国します（きこく）- Mr Lin will return to his country tommorow
+#w リンさんは明日帰国します（きこく）- Mr Lin will return to his country tomorrow
+
  --- 
 
 # Summary

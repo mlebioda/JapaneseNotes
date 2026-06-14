@@ -1212,28 +1212,382 @@ even so
 6) The plan had flaws; even so, it worked better than we expected.
 <!--ID: 1779034130007-->
 
+mocno; stanowczo
+Definition: W sposób pewny, zdecydowany lub trwały; bez wahania lub niestabilności.
+1) Trzymał drabinę mocno, żeby się nie przewróciła.
+2) Stanowczo odmówił zmiany swojej decyzji.
+3) Dyrektor mocno wierzył w swój zespół. #card
+firmly
+/ˈfɜːrmli/
+4) He held the ladder firmly so it wouldn't fall.
+5) She firmly refused to change her decision.
+6) The director firmly believed in his team.
+<!--ID: 1781111865099-->
+
+
+
+
+
+orzeźwiający
+Definition: Dodający energii i świeżości; pobudzający zmysły, często w odniesieniu do zimnego lub świeżego powietrza.
+1) Poranny spacer w orzeźwiającym powietrzu świetnie mi zrobił.
+2) Zimny prysznic był bardzo orzeźwiający po długim treningu.
+3) Górskie powietrze jest wyjątkowo orzeźwiające i dodaje sił. #card
+bracing
+/ˈbreɪsɪŋ/
+4) A morning walk in the bracing air did me a lot of good.
+5) A cold shower was very bracing after a long workout.
+6) The mountain air is particularly bracing and invigorating.
+<!--ID: 1781111865108-->
+
+
+
+
+
+wiarygodny
+Definition: Zasługujący na wiarę lub zaufanie; przekonujący i możliwy do przyjęcia jako prawdziwy.
+1) Policja uznała zeznania świadka za wiarygodne.
+2) Potrzebujemy wiarygodnego źródła informacji przed publikacją artykułu.
+3) Jego wyjaśnienie brzmiało wiarygodnie, więc mu uwierzyłam. #card
+credible
+/ˈkredɪbl/
+4) The police found the witness's testimony credible.
+5) We need a credible source of information before publishing the article.
+6) His explanation sounded credible, so I believed him.
+<!--ID: 1781111865111-->
+
+
+
+
+
+niezawodnie; rzetelnie
+Definition: W sposób godny zaufania i konsekwentny; tak, że można na czymś lub kimś polegać.
+1) Ten samochód działa niezawodnie od dziesięciu lat.
+2) Zawsze rzetelnie wykonuje swoje obowiązki, nawet pod presją.
+3) System automatycznie i niezawodnie tworzy kopie zapasowe danych. #card
+reliably
+/rɪˈlaɪəbli/
+4) This car has been running reliably for ten years.
+5) She always performs her duties reliably, even under pressure.
+6) The system automatically and reliably backs up data.
+<!--ID: 1781111865114-->
+
+
+
+
+
+właściwie; należycie; porządnie
+Definition: W odpowiedni, prawidłowy lub stosowny sposób; zgodnie z zasadami lub oczekiwaniami.
+⚠ Rejestr — „porządnie" jest bardziej potoczne. Bardziej formalna alternatywa: „należycie", „właściwie".
+1) Upewnij się, że właściwie zamknąłeś wszystkie okna przed wyjazdem.
+2) Należycie wypełnił wszystkie formalności wymagane przez urząd.
+3) Zanim zaczniesz gotować, porządnie umyj ręce. #card
+properly
+/ˈprɒpəli/
+4) Make sure you have properly closed all the windows before leaving.
+5) He properly completed all the formalities required by the office.
+6) Before you start cooking, wash your hands properly.
+<!--ID: 1781111865117-->
+
+
+
+
+
+zwyczajowo; nałogowo
+Definition: W sposób wynikający z przyzwyczajenia lub nawyku; regularnie i automatycznie, jako utrwalony wzorzec zachowania.
+1) Zwyczajowo pije kawę rano, zanim przeczyta wiadomości.
+2) Nałogowo sprawdzał telefon co kilka minut.
+3) Zwyczajowo chodzili razem na spacer w niedzielne popołudnia. #card
+habitually
+/həˈbɪtʃuəli/
+4) He habitually drinks coffee in the morning before reading the news.
+5) She habitually checked her phone every few minutes.
+6) They habitually went for a walk together on Sunday afternoons.
+<!--ID: 1781111865120-->
+
+
+
+
+
+nienaruszony; nieuszkodzony
+Definition: Pozostający w stanie kompletnym i nieuszkodzonym; bez żadnych ubytków, zniszczeń ani strat.
+1) Po trzęsieniu ziemi stary kościół pozostał nienaruszony.
+2) Mimo wypadku jej kręgosłup pozostał nieuszkodzony.
+3) Chciał mieć pewność, że paczka dotrze do odbiorcy cała. #card
+intact
+/ɪnˈtækt/
+4) After the earthquake, the old church remained intact.
+5) Despite the accident, her spine remained intact.
+6) He wanted to make sure the package arrived intact.
+<!--ID: 1781111865123-->
+
+
+
+
+
+przedstawiający; ukazujący
+Definition: Pokazujący lub opisujący coś bądź kogoś w formie obrazu, tekstu lub innego medium; imiesłów czynny od czasownika „depict".
+1) Obraz przedstawiający bitwę pod Grunwaldem wisi w muzeum.
+2) Film ukazujący życie codzienne w XIX wieku zdobył wiele nagród.
+3) Znaleziono starożytny fresk przedstawiający bogów olimpijskich. #card
+depicting
+/dɪˈpɪktɪŋ/
+4) A painting depicting the Battle of Grunwald hangs in the museum.
+5) A film depicting everyday life in the 19th century won many awards.
+6) An ancient fresco depicting Olympic gods was discovered.
+<!--ID: 1781111865129-->
+
+
+
+
+
+mieć coś zrobić; być zobowiązanym do czegoś
+Definition: Wyrażenie oznaczające oczekiwanie, obowiązek lub wcześniejsze ustalenie; coś, co ktoś powinien zrobić zgodnie z planem lub umową.
+1) Miałeś przyjść o dziewiątej — spóźniłeś się o godzinę.
+2) Ona ma dziś odebrać dzieci ze szkoły, bo mąż jest w pracy.
+3) Film miał się skończyć o dziesiątej, ale trwał znacznie dłużej. #card
+be supposed to
+/biː səˈpəʊzd tuː/
+4) You were supposed to come at nine — you're an hour late.
+5) She is supposed to pick up the kids from school today because her husband is at work.
+6) The film was supposed to end at ten, but it went on much longer.
+<!--ID: 1781111865133-->
+
+
+
+
+
+złożony; związek; teren ogrodzony
+Definition: (1. przym.) Składający się z kilku części lub elementów. (2. rzecz.) Substancja chemiczna zbudowana z dwóch lub więcej pierwiastków. (3. rzecz.) Zamknięty, ogrodzony teren z budynkami.
+⚠ Wieloznaczność — trzy odrębne znaczenia. Możliwe osobne fiszki dla każdego z nich.
+1) „Samolot" to wyraz złożony z dwóch członów.
+2) Woda to związek chemiczny złożony z wodoru i tlenu.
+3) Dyplomaci mieszkali na terenie ogrodzonym ambasady. #card
+compound
+/ˈkɒmpaʊnd/
+4) "Airplane" is a compound word made of two parts.
+5) Water is a chemical compound made of hydrogen and oxygen.
+6) The diplomats lived in the embassy compound.
+<!--ID: 1781111865137-->
+
+
+
+
+
+kopiec; nasyp; wzgórek
+Definition: Naturalne lub sztuczne wzniesienie ziemi; usypany pagórek z ziemi, kamieni lub gruzu.
+1) Dzieci zbudowały kopiec z piasku na plaży.
+2) Archeolodzy odkryli pradawny kopiec pogrzebowy na polu.
+3) Na nasypie kolejowym rosły dzikie kwiaty. #card
+mound
+/maʊnd/
+4) The children built a mound of sand on the beach.
+5) Archaeologists discovered an ancient burial mound in the field.
+6) Wild flowers grew on the railway mound.
+<!--ID: 1781111865140-->
+
+
+
+
+
+karcić; łajać; besztać
+Definition: Ostro upominać lub ganić kogoś za złe zachowanie lub błąd; robić komuś wymówki.
+⚠ Rejestr — „besztać" jest bardziej potoczne i ekspresywne. Neutralna alternatywa: „karcić", „upominać".
+1) Nauczyciel skarcił ucznia za rozmawianie podczas lekcji.
+2) Mama zbeształa dzieci za to, że wybiegły na ulicę bez patrzenia.
+3) Szef łajał pracownika za spóźnione oddanie raportu. #card
+to scold
+/skəʊld/
+4) The teacher scolded the student for talking during the lesson.
+5) Mum scolded the children for running out onto the street without looking.
+6) The boss scolded the employee for submitting the report late.
+<!--ID: 1781111865143-->
+
+
+
+
+
+chwytać; pojmować
+Definition: (1) Fizycznie: mocno trzymać lub chwycić coś ręką. (2) Mentalnie: zrozumieć lub pojąć coś, zwłaszcza coś trudnego lub abstrakcyjnego.
+⚠ Wieloznaczność — dwa odrębne znaczenia: fizyczne (chwytać) i mentalne (pojmować). Możliwe osobne fiszki.
+1) Chwyciła go za rękę, żeby nie wpadł do wody.
+2) Trudno mi pojąć, jak on mógł popełnić taki błąd.
+3) Dzieci szybko pojmują nowe koncepcje, gdy są dobrze wytłumaczone. #card
+to grasp
+/ɡrɑːsp/
+4) She grasped his hand so he wouldn't fall into the water.
+5) I find it hard to grasp how he could make such a mistake.
+6) Children quickly grasp new concepts when they are well explained.
+<!--ID: 1781111865148-->
+
+
+
+
+
+właściwie; tak naprawdę; w rzeczywistości
+Definition: Używane dla podkreślenia prawdziwego stanu rzeczy, często w kontraście do tego, co ktoś myślał lub oczekiwał; w istocie.
+⚠ Rejestr — „tak naprawdę" jest bardziej potoczne. Bardziej formalna alternatywa: „w rzeczywistości", „w istocie".
+1) Myślałem, że film będzie nudny, ale właściwie był całkiem dobry.
+2) Tak naprawdę nie wiem, co mam teraz zrobić.
+3) W rzeczywistości sytuacja jest znacznie bardziej skomplikowana, niż myślisz. #card
+actually
+/ˈæktʃuəli/
+4) I thought the film would be boring, but it was actually quite good.
+5) I actually don't know what to do now.
+6) The situation is actually far more complicated than you think.
+<!--ID: 1781111865151-->
+
+
+
+
+
+w rzeczywistości; w istocie; faktycznie
+Definition: Wyrażenie wzmacniające lub podkreślające prawdziwość stwierdzenia; służy do wprowadzenia dodatkowego faktu lub kontrastu wobec wcześniejszej opinii.
+⚠ Uwaga — „in fact" i „actually" są podobne, lecz „in fact" jest zazwyczaj bardziej formalne i służy do wzmocnienia argumentu lub podania dowodu.
+1) Myślałem, że go znam, ale w rzeczywistości nigdy go nie spotkałem.
+2) Projekt był trudny — w istocie był najtrudniejszym, jaki kiedykolwiek realizowałem.
+3) Twierdzi, że jest wegetarianinem, ale faktycznie je mięso. #card
+in fact
+/ɪn fækt/
+4) I thought I knew him, but in fact I had never met him.
+5) The project was difficult — in fact, it was the hardest I had ever done.
+6) He claims to be a vegetarian, but in fact he eats meat.
+<!--ID: 1781111865153-->
+
+
+
+
+
+zabrać kogoś ze sobą
+Definition: Wziąć kogoś jako towarzysza podczas wyjścia lub podróży; nie zostawiać kogoś samego, lecz zabrać go razem z sobą.
+1) Czy mogę zabrać ze sobą przyjaciółkę na tę imprezę?
+2) Zabrała dzieci ze sobą na zakupy, bo nie miała z kim ich zostawić.
+3) Szef zabrał ze sobą asystentkę na konferencję w Berlinie. #card
+to take somebody along (with)
+/teɪk ˈsʌmbədi əˈlɒŋ wɪð/
+4) Can I take a friend along with me to the party?
+5) She took the children along with her shopping as she had no one to leave them with.
+6) The boss took his assistant along with him to the conference in Berlin.
+<!--ID: 1781111865157-->
+
+
+
+
+
+zostać zwolnionym; być usprawiedliwionym
+Definition: Otrzymać pozwolenie na opuszczenie miejsca lub nieprzestrzeganie obowiązku; zostać zwolnionym z odpowiedzialności lub zobowiązania.
+1) Uczniowie zostali zwolnieni z ostatniej lekcji z powodu zebrania szkolnego.
+2) Czy mogę zostać zwolniony z tego zadania? Mam ważne spotkanie.
+3) Sędzia uznał, że oskarżony może zostać usprawiedliwiony ze względu na okoliczności. #card
+to be excused
+/biː ɪkˈskjuːzd/
+4) The students were excused from the last lesson due to a school meeting.
+5) May I be excused from this task? I have an important meeting.
+6) The judge ruled that the defendant could be excused given the circumstances.
+<!--ID: 1781111865162-->
+
+
+
+
+
+w jakim stopniu; do jakiego stopnia
+Definition: Wyrażenie pytające lub wprowadzające, które określa zakres lub miarę czegoś; jak bardzo lub jak dalece coś jest prawdziwe lub ma miejsce.
+1) W jakim stopniu technologia wpływa na nasze codzienne życie?
+2) Zastanawiam się, do jakiego stopnia możemy ufać tej informacji.
+3) Raport analizuje, w jakim stopniu zmiany klimatu dotykają regiony polarne. #card
+to what extent
+/tuː wɒt ɪkˈstent/
+4) To what extent does technology influence our daily lives?
+5) I wonder to what extent we can trust this information.
+6) The report analyses to what extent climate change affects polar regions.
+<!--ID: 1781111865166-->
+
+
+
+
+
+chwalić; wychwalać; pochwalić
+Definition: Wyrażać uznanie lub aprobatę dla kogoś lub czegoś; mówić o kimś lub czymś z podziwem i uznaniem.
+⚠ Rejestr — „wychwalać" jest bardziej intensywne i może brzmieć przesadnie lub ironicznie. Neutralna forma: „chwalić", „pochwalić".
+1) Nauczycielka pochwaliła ucznia za doskonałą pracę domową.
+2) Krytycy wychwalali ten film jako arcydzieło kina.
+3) Mama zawsze chwali córkę za jej wytrwałość w nauce. #card
+to praise
+/preɪz/
+4) The teacher praised the student for excellent homework.
+5) Critics praised the film as a masterpiece of cinema.
+6) Mum always praises her daughter for her perseverance in studying.
+<!--ID: 1781111865170-->
+
+
+
+
+
+podwładny; podrzędny
+Definition: (1. rzecz.) Osoba zajmująca niższe stanowisko w hierarchii służbowej; pracownik podlegający komuś. (2. przym.) Zajmujący niższe miejsce w hierarchii lub strukturze; zależny od czegoś nadrzędnego.
+⚠ Wieloznaczność — „podwładny" jako rzeczownik (osoba) i „podrzędny" jako przymiotnik. Możliwe osobne fiszki.
+1) Szef zawsze traktował swoich podwładnych z szacunkiem.
+2) Zdanie podrzędne nie może istnieć samodzielnie bez zdania głównego.
+3) W tej organizacji podwładni mają niewiele możliwości decyzyjnych. #card
+subordinate
+/səˈbɔːdɪnət/
+4) The boss always treated his subordinates with respect.
+5) A subordinate clause cannot exist independently without the main clause.
+6) In this organisation, subordinates have very few decision-making opportunities.
+<!--ID: 1781111865175-->
+
+
+
+pogłębiać; nasilać; pogarszać
+Definition: Sprawiać, że coś złego staje się jeszcze gorsze lub bardziej intensywne; zwiększać nasilenie problemu lub trudności.
+1) Brak snu tylko pogłębiał jego problemy z koncentracją.
+2) Nowe przepisy naliczyły dodatkowe odsetki, nasilając dług.
+3) Zamiast pomóc, jego komentarz tylko pogorszył sytuację. #card
+to compound
+/kəmˈpaʊnd/
+4) The lack of sleep only compounded his concentration problems.
+5) The new regulations added extra interest, compounding the debt.
+6) Instead of helping, his comment only compounded the situation.
+<!--ID: 1781111865179-->
+
+
+
+
+
+uchwyt; uścisk; zasięg; rozumienie
+Definition: (1) Fizycznie: mocny chwyt lub trzymanie czegoś. (2) Przenośnie: zdolność do kontrolowania lub wpływania na coś; zakres rozumienia lub wiedzy o czymś.
+1) Wyrwał jej torebkę z uchwytu i uciekł.
+2) Władza dyktatora nad krajem zaczynała słabnąć.
+3) Te pojęcia matematyczne wykraczają poza zasięg jego rozumienia. #card
+a grasp
+/ɡrɑːsp/
+4) He snatched her bag from her grasp and ran away.
+5) The dictator's grasp on the country was beginning to weaken.
+6) These mathematical concepts are beyond his grasp.
+<!--ID: 1781111865183-->
+
+
+
+
+
+podporządkowywać; uzależniać
+Definition: Stawiać coś lub kogoś na niższym miejscu w hierarchii ważności; sprawiać, że coś jest zależne od czegoś innego lub mu podległe.
+1) Nauczył się podporządkowywać własne potrzeby dobru zespołu.
+2) W tej firmie wszystko jest podporządkowane zyskom finansowym.
+3) Nie powinnaś podporządkowywać swojej kariery jego ambicjom. #card
+to subordinate
+/səˈbɔːdɪneɪt/
+4) He learned to subordinate his own needs to the good of the team.
+5) In this company, everything is subordinated to financial profit.
+6) You shouldn't subordinate your career to his ambitions.
+<!--ID: 1781111865187-->
+
+
+febrile
+
 
 # TODO
 
-firmly
-bracing
-credible
-reliably
-properly
-habitually
-intact
 - how to recognize goups of verbs
 
-depicting
-be supposed to
-
-compound
-mound
- to scold 
- to grasp
- actually 
- in fact
- to take somebody along with
- to be excused 
- to what extent
- to praise
+I might not make it to the train.

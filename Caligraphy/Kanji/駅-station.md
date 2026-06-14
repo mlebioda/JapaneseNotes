@@ -8,6 +8,6 @@
 ## Parts
 
 [[馬-koń]]
-[[尺 - shaku, measure of length]]
+[[尺-shaku, measure of length]]
 
 

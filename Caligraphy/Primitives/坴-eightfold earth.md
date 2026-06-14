@@ -1,4 +1,4 @@
 坴 - eightfold earth
 
-## Occurences
+## Occurrences
 [[熱-fever]]

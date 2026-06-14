@@ -236,7 +236,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL9-Basic-Nouns
 ---
 
 ## 英 - superior・ひで・エイ
-[[英 - england,english, superior]]
+[[英-england,english, superior]]
 
 ![[Pasted image 20260419151959.png|205]]
 

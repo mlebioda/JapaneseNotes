@@ -27,6 +27,7 @@ You may ONLY read from and write to the `Plans/` directory (vault root: `/Users/
 - `BanBanAkademi/` — notes from BanBanAkademi course
 - `.cowork/skills/` — skill definition files (loaded by Claude before acting)
 - `.cowork/progress/` — persistent state files (e.g. SM-2 spaced repetition state)
+- `.claude/commands/` — slash command stubs, one per skill, mirroring the skill's subdirectory path (e.g. `lesson-to-web/extract-grammar.md`)
 - Never create files directly in the vault root
 
 ## Lesson file structure
@@ -51,6 +52,15 @@ Every lesson file has:
 | practice-grammar | `.cowork/skills/practice-grammar.md` | Interactive SM-2 grammar drill from a lesson file. Reads `# 文法` + `# Vocabulary` sections. State persisted in `.cowork/progress/grammar-state.json`. |
 | summarize-grammar | `.cowork/skills/summarize-grammar.md` | Adds a lesson's grammar points to topic files in `grammar-index/`. One file per topic, wikilinks only. |
 | fill-templates | `.cowork/skills/fill-templates.md` | Generates Anki card content (the `# Summary` section) for a lesson file from vocabulary tagged with `#w`/`#wc`/`#wp`. |
+| templates-update | `.cowork/skills/templates-update.md` | Audits and repairs already-filled Anki card templates in a lesson's `# Summary` section: normalizes field names, fills missing forms, verifies conjugations, fixes kanji links. |
+| reading-jlpt | `.cowork/skills/reading-jlpt.md` | JLPT N4 reading comprehension drill on user-pasted passages. Auto-detects passage type, generates multiple-choice questions, writes session file to `JPLessons/Reading/`. |
+| lesson-to-web/extract-grammar | `.cowork/skills/lesson-to-web/extract-grammar.md` | Extracts grammar points from a lesson's 文法 section into standalone files under `grammar-index/grammar/`. Also classifies each file into topic files. |
+| lesson-to-web/extract-vocabulary | `.cowork/skills/lesson-to-web/extract-vocabulary.md` | Extracts vocabulary lines from a lesson into `Vocabulary/words-extracted.md`. |
+| lesson-to-web/update-grammar | `.cowork/skills/lesson-to-web/update-grammar.md` | Full post-processing pipeline: chains preprocess → review → structure → see-also. |
+| lesson-to-web/preprocess-grammar | `.cowork/skills/lesson-to-web/preprocess-grammar.md` | Step 1: tag removal, Polish detection, furigana fixes, typos (mechanical, no user gates). |
+| lesson-to-web/review-grammar | `.cowork/skills/lesson-to-web/review-grammar.md` | Step 2: correctness check and missing info suggestions (user-gated). |
+| lesson-to-web/structure-grammar | `.cowork/skills/lesson-to-web/structure-grammar.md` | Step 3: structure enforcement, Structure 1 vs 2 (user confirmation). |
+| lesson-to-web/see-also-grammar | `.cowork/skills/lesson-to-web/see-also-grammar.md` | Step 4: populate ## See also, set `proofread: true`. |
 
 ## How to collaborate on a plan
 
@@ -90,6 +100,7 @@ Brief description of the chosen approach and key trade-offs.
 ## Steps
 1. Step one — file path(s) involved, what changes
 2. Step two — ...
+3. Create `.claude/commands/<name>.md` — slash command stub pointing to the skill
 ...
 
 ## Risks
@@ -103,6 +114,7 @@ Brief description of the chosen approach and key trade-offs.
 
 - [ ] Task one
 - [ ] Task two
+- [ ] Create `.claude/commands/<name>.md` slash command stub
 - [ ] ...
 ```
 
@@ -111,6 +123,7 @@ Brief description of the chosen approach and key trade-offs.
 - Keep plans concrete and file-level.
 - Flag anything that risks plugin export data (`<!--ID:-->` lines, `TARGET DECK`, `# Summary` section).
 - When updating an existing plan, edit the file in place — don't create duplicates.
+- For every new skill, include a step to create `.claude/commands/<name>.md` — a slash command stub that invokes the skill. For skills with subcommands (e.g. `lesson-to-web/*`), create the matching subdirectory under `.claude/commands/`.
 
 ## Error handling
 

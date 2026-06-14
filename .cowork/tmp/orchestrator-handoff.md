@@ -1,1 +1,1 @@
-SLUG: orchestrator-bash-loophole
+SLUG: planner-slash-command-awareness

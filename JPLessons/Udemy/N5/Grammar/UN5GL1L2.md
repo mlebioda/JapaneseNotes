@@ -294,9 +294,6 @@ Ne - seeking approval, emphasizing / isn’t it?
 - これ/それ/あれ, どれ 
 
 
-
-# Summary
-
 ## 文法
 
 ### Numbers
@@ -450,7 +447,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 ##### Structure
 - これ/それ/あれ, どれ
 
-## Vocabulary
+# Summary
 
  Rzeczowniki:
 

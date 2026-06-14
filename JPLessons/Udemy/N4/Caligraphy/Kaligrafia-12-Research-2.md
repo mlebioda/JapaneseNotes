@@ -106,7 +106,7 @@ rice field + heart
 #w その車の前に立って下さい（た）- Please stand in front of the car
 
 ## 英 - British, England・エイ
-[[英 - england,english, superior]]
+[[英-england,english, superior]]
 ![[Pasted image 20250529084335.png]]
 大 + cover and grass.   Britain is a bif island covered with grass
 **(えい)**

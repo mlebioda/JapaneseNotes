@@ -1,6 +1,6 @@
 [[仕-official,serve]]
 [[休-torest]]
-[[作make,workつく・サ、サク]]
+[[作-make,work]]
 
 
 ---

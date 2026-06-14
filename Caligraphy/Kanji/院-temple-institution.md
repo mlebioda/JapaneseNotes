@@ -3,7 +3,7 @@
 
 ### Parts
 [[阝-component]]
-[[完 - perfect]]
+[[完-perfect]]
 [[宀-roof,building]]
 [[元-original]]
 

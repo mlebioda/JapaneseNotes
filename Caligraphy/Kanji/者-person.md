@@ -4,7 +4,7 @@
 [[Kaligrafia-6-Hospital#者 - person・もの・シャ]]
 
 ### Parts
-[[耂 - old man]]
+[[耂-old man]]
 [[日-sun]]
 
 ### Mnemonic

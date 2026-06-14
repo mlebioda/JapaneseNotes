@@ -5,4 +5,4 @@
 [[Kaligrafia#安 - tani やす・い／あん]]
 ---
 [[宀-roof,building]]
-[[女-womanおんな・ジョ]]
+[[女-woman]]

@@ -4,7 +4,7 @@
 [[Kaligrafia-6-Hospital#医 - medical・イ]]
 
 ### Parts
-[[匚 - box]]
+[[匚-box]]
 [[矢-component]]
 
 ### Mnemonic

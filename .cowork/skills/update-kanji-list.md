@@ -1,3 +1,6 @@
+> **DEPRECATED** — superseded by `kanji-headers` (Steps 2 & 5) and the new `kanji-file`
+> skill. Do not invoke directly. Retained for reference only until confirmed safe to delete.
+
 # Skill: update-kanji-list
 
 ## Purpose

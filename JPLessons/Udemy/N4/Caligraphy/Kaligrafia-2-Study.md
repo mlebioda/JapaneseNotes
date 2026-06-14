@@ -109,11 +109,11 @@ Manufacturer produces new style, and run a TEST asking customers to speak their 
 ![[Pasted image 20250305192441.png]]
 
 **(こころ)**
-#wc 試みる（こころ）- test, attempting (more formal or attempting somethin new)
+#wc 試みる（こころ）- test, attempting (more formal or attempting something new)
 #wc 試み（こころ）- experiment (attempt, someone makes an effort to rty something)
 
 **(ため)**
-#wc 試す（ため）- test (everyday situations)
+#wc 試す（ため）- to test (everyday situations)
 
 
 **(し)**
@@ -212,7 +212,7 @@ Gate, mouth
  ---
 
 
-endeavor、usiłować, dążyć, to work for smb #k #card
+to strive / to make an effort (rzadkie, literackie) #k #card
 ほんやく: 勉める (つと)
 て形: 勉めて
 た形: 勉めた
@@ -528,7 +528,7 @@ please, write roman letter #k #card
 <!--ID: 1780855042238-->
 
 
-test, attempting (more formal or attempting somethin new) #k #card
+to test, attempting (more formal or attempting something new) #k #card
 ほんやく: 試みる（こころ）
 て形: 試みて
 た形: 試みた
@@ -553,7 +553,7 @@ experiment (attempt, someone makes an effort to rty something) #k #card
 <!--ID: 1780855042246-->
 
 
-test (everyday situations) #k #card
+to test (everyday situations) #k #card
 ほんやく: 試す（ため）
 て形: 試して
 た形: 試した
