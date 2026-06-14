@@ -6,7 +6,6 @@
 ### Parts
 
 [[白-white]]
-[[勺-component]]
 
 ### Mnemonic
 

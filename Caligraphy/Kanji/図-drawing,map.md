@@ -9,7 +9,6 @@
 [[乂-tocross,cut]]
 [[丶-dot,sign]]
 [[囗 - component]]
-[[巛-component]]
 
 ### Mnemonic
 

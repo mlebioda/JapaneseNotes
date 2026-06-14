@@ -8,6 +8,5 @@
 ---
 
 [[宀-roof,building]]
-[[豕-component]]
 
 

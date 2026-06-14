@@ -5,7 +5,6 @@
 [[KaligrafiaS7L2#悪 - zły わる・アク 、お]]
 
 ### Parts
-[[亜-component]]
 [[心-heart]]
 
 ### Mnemonic

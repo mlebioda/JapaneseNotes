@@ -5,7 +5,6 @@
 
 ### Parts
 [[匚-box]]
-[[矢-component]]
 
 ### Mnemonic
 

@@ -5,4 +5,3 @@
 
 ### Parts
 [[冖-roof,cover]]
-[[与-component]]

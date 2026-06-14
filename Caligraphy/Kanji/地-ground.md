@@ -6,7 +6,6 @@
 ### Parts
 
 [[土-soil]]
-[[也-component]]
 
 ### Mnemonic
 

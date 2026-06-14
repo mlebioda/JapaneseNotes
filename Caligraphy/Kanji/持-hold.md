@@ -6,7 +6,6 @@
 
 ### Parts
 
-[[扌-component]]
 [[寺 - świątynia]]
 
 ### Mnemonic

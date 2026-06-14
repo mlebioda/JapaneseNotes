@@ -4,8 +4,6 @@
 [[Kaligrafia-6-Hospital#病 - illness, disease・やまい・ビョウ]]
 
 ### Parts
-[[疒-component]]
-[[丙-component]]
 
 ### Mnemonic
 

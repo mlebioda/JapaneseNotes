@@ -5,7 +5,6 @@
 
 ### Parts
 [[辶-road]]
-[[甬-component]]
 
 ### Mnemonic
 

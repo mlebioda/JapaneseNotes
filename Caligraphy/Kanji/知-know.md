@@ -7,7 +7,6 @@
 
 ### Parts
 
-[[矢-component]]
 [[口–mouth,point,place]]
 
 ### Mnemonic

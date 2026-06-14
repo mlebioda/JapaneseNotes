@@ -9,5 +9,4 @@
 
 ### Parts
 [[小-small]]
-[[丿-component]]
 [[歩-walk]]

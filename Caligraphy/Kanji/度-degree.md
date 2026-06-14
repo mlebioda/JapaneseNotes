@@ -5,5 +5,3 @@
 
 ### Parts
 [[广-canopy, small roof]]
-[[廿-component]]
-[[又-component]]

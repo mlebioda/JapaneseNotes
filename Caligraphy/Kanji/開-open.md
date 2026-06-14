@@ -5,4 +5,3 @@
 
 ### Parts
 [[門-gate]]
-[[开-component]]

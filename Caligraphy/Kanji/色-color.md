@@ -5,4 +5,3 @@
 
 ### Parts
 [[人-person]]
-[[巴-component]]

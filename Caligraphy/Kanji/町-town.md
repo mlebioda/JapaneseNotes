@@ -7,7 +7,6 @@
 ### Parts
 
 [[田-ricefield]]
-[[丁-component]]
 
 ### Mnemonic
 

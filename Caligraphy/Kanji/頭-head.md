@@ -4,8 +4,6 @@
 [[Kaligrafia-6-Hospital#頭 - head・あたま、かしら・ズ、トウ]]
 
 ### Parts
-[[豆-component]]
-[[頁-component]]
 
 ### Mnemonic
 

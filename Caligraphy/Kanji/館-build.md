@@ -6,7 +6,6 @@
 ### Parts
 
 [[食-eat,meal]]
-[[官-component]]
 
 ### Mnemonic
 

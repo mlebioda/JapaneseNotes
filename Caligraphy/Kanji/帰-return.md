@@ -8,7 +8,6 @@
 
 [[刂(刀)–knife]]
 [[彳-togo]]
-[[帚-component]]
 
 ### Mnemonic
 

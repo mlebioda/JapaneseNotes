@@ -5,4 +5,3 @@
 
 ### Parts
 [[亻-person]]
-[[吏-component]]

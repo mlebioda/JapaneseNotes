@@ -5,8 +5,6 @@
 
 ### Parts
 
-[[夭-component]]
-[[止-component]]
 [[起-cause]]
 
 ### Mnemonic

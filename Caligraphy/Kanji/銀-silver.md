@@ -5,4 +5,3 @@
 
 ### Parts
 [[金-gold]]
-[[艮-component]]
