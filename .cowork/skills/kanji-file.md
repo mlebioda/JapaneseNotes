@@ -33,7 +33,19 @@ ask the user whether to create the file).
 
 ## Workflow
 
-### Step 1 — Web fetch
+### Step A — Check `### Mnemonic` before fetching
+
+Read the kanji file and check whether a `### Mnemonic` section exists and contains non-empty
+content (ignoring blank lines).
+
+- **Non-empty** → skip Steps B and C entirely; proceed to Step D using the existing mnemonic text.
+- **Empty or absent** → proceed to Step B (web fetch).
+
+---
+
+### Step B — Web fetch (conditional)
+
+Only runs when Step A determined the mnemonic is absent or empty.
 
 Fetch the mnemonic page from:
 
@@ -41,65 +53,76 @@ Fetch the mnemonic page from:
 https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_X.html
 ```
 
-where `X` is the Unicode code point of the kanji character in decimal (e.g. `è¿` → `36817`).
+where `X` is the Unicode code point of the kanji character in decimal (e.g. `近` → `36817`).
 
 From the fetched HTML, extract:
 
 - `id="idFeldErklar"` → **mnemonic phrase** (short memorable sentence)
-- `id="idFeldErlaeter"` → **component explanation** (describes the visual components; the sole
-  source for `### Parts` in Step 3)
+- `id="idFeldErlaeter"` → **component explanation** (describes the visual components)
 
-Store both in a `fetch-result` map keyed by the kanji character:
-
-```
-fetch-result[近] = { mnemonic: "...", explanation: "..." }
-```
-
-**On fetch failure** (network error, 404, missing element IDs): skip `### Mnemonic` and
-`### Parts` for this kanji; log a warning in the completion report; do not abort the run.
-
-This step runs once per invocation. Results are used by Steps 2 and 3.
+**On fetch failure** (network error, 404, missing element IDs): log a warning in the completion
+report; skip Steps C and D for this kanji; do not abort the run.
 
 ---
 
-### Step 2 — Write/update `### Mnemonic`
+### Step C — Write `### Mnemonic` from web data (conditional)
 
-Using the `fetch-result` for this kanji:
+Only runs after a successful Step B.
 
-1. Write the **component explanation** text first (from `idFeldErlaeter`).
-2. Write the **mnemonic phrase** text below it on a new line (from `idFeldErklar`).
+Write to `### Mnemonic`:
 
-If a `### Mnemonic` section already exists in the kanji file, **overwrite its content** with the
-newly fetched data. Do not preserve the old content.
+1. Component explanation text (from `idFeldErlaeter`) on the first line.
+2. Mnemonic phrase text (from `idFeldErklar`) on the next line.
 
-If the fetch failed (Step 1), skip this step entirely.
+This overwrites any previously empty `### Mnemonic` section.
+
+After writing, the settled mnemonic text is the content just written, and Step D will use it.
 
 ---
 
-### Step 3 — Write/update `### Parts`
+### Step D — Scan mnemonic for CJK characters → write `### Parts`
 
-Parse **component characters** from the component explanation text (from `idFeldErlaeter`) using
-positional keywords:
+Scan the settled `### Mnemonic` text (either the existing text from Step A, or the text just
+written in Step C) for CJK characters in the following Unicode ranges:
 
-```
-Left:, Right:, Top:, Bottom:, Below:, Above:, Inside:, Outside:, Center:
-```
+- CJK Unified Ideographs: U+4E00–U+9FFF
+- CJK Unified Ideographs Extension A: U+3400–U+4DBF
+- CJK Radicals Supplement / Kangxi Radicals: U+2E80–U+2FFF
 
-For each component character found:
+Skip hiragana and katakana — they are not components.
+Skip the kanji being processed itself (do not add a self-reference to `### Parts`).
 
-1. **Search `Caligraphy/Primitives/`** recursively for a file whose name starts with that
-   character. If found, record the filename (no `.md`, no path).
-2. **If not found**, search `Caligraphy/Kanji/` recursively for the same character.
-3. **If still not found**, create a new file in `Caligraphy/Primitives/` using naming convention
-   `character-name.md` (no spaces around hyphen; English name taken from the word immediately
-   following the character in the explanation text, lowercase). Then recursively call `kanji-file`
-   on the new component file.
+For each CJK character found:
 
-**Cycle guard:** before any recursive `kanji-file` call, check whether the target character is
-already being processed in the current call stack. If yes, skip the recursive call and log a
-warning: `CYCLE GUARD: skipped recursive call for [character] — already in progress`.
+1. **Already linked in `### Parts`** → skip (no duplicate).
+2. **Not yet in `### Parts`**:
+   a. Search `Caligraphy/Primitives/` recursively for a file whose name starts with that
+      character. If found, add wikilink to `### Parts`.
+   b. If not found, search `Caligraphy/Kanji/` recursively. If found, add wikilink to
+      `### Parts`.
+   c. If not found in either location:
+      - Extract the English name from the word **immediately adjacent** to the CJK character in
+        the mnemonic text (prefer the word that follows; fall back to the word before).
+        Example: `"axe 斤"` → name = `axe`; `"斤 axe"` → name = `axe`.
+      - If no adjacent English word is found, use the hex code point as the name: `u<XXXX>`.
+        Log a warning: `WARN: no adjacent English word for [char]`.
+      - If two CJK characters appear adjacent with no separating Latin word, skip name extraction
+        for both and log the warning above — do not create primitive files for them.
+      - Create `Caligraphy/Primitives/<character>-<name>.md` with minimal content:
+        ```
+        # <character>
+        ## Occurences
+        [[<current-kanji-filename>]]
+        ```
+        If `Caligraphy/Primitives/` does not exist, create it first.
+        If the file already exists (e.g. created concurrently), do not overwrite it.
+      - Add wikilink `[[<character>-<name>]]` to `### Parts` of the current kanji file.
 
-Write wikilinks to all resolved component files under `### Parts`:
+**Cycle guard**: before creating or processing any new primitive file, verify the target character
+is not already in the current call stack. If it is, skip it and log:
+`CYCLE GUARD: skipped [character] — already in progress`.
+
+Write the final `### Parts` section:
 
 ```
 ### Parts
@@ -109,9 +132,10 @@ Write wikilinks to all resolved component files under `### Parts`:
 
 - Use exact filename, no path, no `.md`.
 - De-duplicate: each wikilink appears at most once.
-- If a `### Parts` section already exists, overwrite its content with the newly resolved links.
-
-If the fetch failed (Step 1), skip this step entirely.
+- Preserve links already present in `### Parts` that were not derived from this scan
+  (e.g. manually added links).
+- If a `### Parts` section already exists, overwrite its generated content but preserve any
+  manually added links.
 
 ---
 
@@ -151,8 +175,8 @@ Move them under `## Occurences`:
 
 After all writes are complete:
 
-1. Verify `## Occurences` exists in the file. If it is still missing (e.g. Steps 1 and 5 both
-   produced nothing), add an empty `## Occurences` section.
+1. Verify `## Occurences` exists in the file. If it is still missing (e.g. Steps A–D and Step 5
+   produced no links to migrate), add an empty `## Occurences` section.
 2. Scan all lines under `## Occurences` and `### Parts`. For each line that contains a link:
    - If it is a valid wikilink (`[[…]]`) → OK.
    - If it is plain text that looks like a link (e.g. a bare kanji or an unbracketed filename)
@@ -180,15 +204,27 @@ order.
 
 ## Completion report
 
-After all steps finish, output a summary:
+After all steps finish, output a summary. Two examples — one where the mnemonic was already
+present (skipping web fetch), one where it was absent (fetch required):
+
+```
+kanji-file: 斤
+  Step A — mnemonic check: non-empty (skipping web fetch)
+  Step D — ### Parts: 2 components found in mnemonic ([[木-tree]], [[口-mouth]])
+  Step 4 — link verification: 3 links checked, 0 fixed
+  Step 5 — bare link migration: 0 links moved
+  Step 6 — consistency check: OK
+  Warnings: none
+```
 
 ```
 kanji-file: 近
-  Step 1 — fetch: OK (mnemonic and explanation retrieved)
-  Step 2 — ### Mnemonic: written
-  Step 3 — ### Parts: 2 components resolved ([[貝-shell]], [[刀-sword]])
-  Step 4 — link verification: 3 links checked, 1 fixed ([[貝 - muszla]] → [[貝-muszla]])
-  Step 5 — bare link migration: 2 links moved to ## Occurences
+  Step A — mnemonic check: empty
+  Step B — web fetch: OK
+  Step C — ### Mnemonic: written
+  Step D — ### Parts: 1 component found ([[斤-axe]]), 1 primitive created (Caligraphy/Primitives/斤-axe.md)
+  Step 4 — link verification: 2 links checked, 0 fixed
+  Step 5 — bare link migration: 0 links moved
   Step 6 — consistency check: OK
   Warnings: none
 ```

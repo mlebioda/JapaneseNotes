@@ -213,3 +213,12 @@
 **Source**: uncommitted — skill-implementer
 
 ---
+
+## 2026-06-14 — kanji-file.md
+
+**Classification**: improvement
+**What happened**: The always-fetch + positional-keyword component parser (Steps 1–3) in kanji-file was replaced with a conditional mnemonic-driven flow (Steps A–D): skip the web fetch when ### Mnemonic already has content, and scan the settled mnemonic text for CJK codepoints to populate ### Parts instead of parsing Left:/Right:/Top: keywords.
+**Rule**: **[Rule]** When a skill step produces data that is also expressed as Unicode characters in a text field already written to the file, scan that text field for the relevant codepoints instead of parsing positional keywords — scanning codepoints is robust to phrasing variation; keyword parsing is not.
+**Source**: uncommitted — skill-implementer
+
+---

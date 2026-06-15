@@ -1588,6 +1588,13 @@ febrile
 
 # TODO
 
-- how to recognize goups of verbs
+- how to recognize gorups of verbs
 
 I might not make it to the train.
+to gather
+comforter
+I gave up tabacco
+distribute
+handouts
+span
+taking up 

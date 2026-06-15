@@ -8,6 +8,8 @@
 
 [[刂(刀)–knife]]
 [[彳-togo]]
+[[帚-broom]]
+[[冖-roof,cover]]
 
 ### Mnemonic
 

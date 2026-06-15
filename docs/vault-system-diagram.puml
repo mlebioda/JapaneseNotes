@@ -148,7 +148,7 @@ package "Skills (top-level)" {
       "templates <lesson>"
     reads: JPLessons/<lesson>, KanjiList.md
     writes: JPLessons/<lesson> (# Summary section only)
-    script: fill_extract.py, kanji-links.py
+    scripts: fill_extract.py, kanji-links.py
     references: verb-conjugation.md, adj-forms.md, kanji-links.md
   end note
 
@@ -387,7 +387,7 @@ KanjiHeaders --> CaligraphyDir : writes (new kanji files)
 KanjiHeaders --> KanjiList : writes
 
 KanjiFile ..> CaligraphyDir : reads
-KanjiFile --> CaligraphyDir : writes (### Mnemonic, ### Parts, ## Occurences)
+KanjiFile --> CaligraphyDir : writes (Mnemonic, Parts, Occurences)
 
 UpdateKanjiList ..> Lessons : reads
 UpdateKanjiList ..> CaligraphyDir : reads

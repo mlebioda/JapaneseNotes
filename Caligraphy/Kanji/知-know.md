@@ -7,6 +7,8 @@
 
 ### Parts
 
+[[矢-arrow]]
+[[天-heaven]]
 [[口–mouth,point,place]]
 
 ### Mnemonic

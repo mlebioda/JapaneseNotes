@@ -6,6 +6,10 @@
 ### Parts
 
 [[食-eat,meal]]
+[[良-good]]
+[[官-government]]
+[[宀-roof,building]]
+[[呂-rooms]]
 
 ### Mnemonic
 

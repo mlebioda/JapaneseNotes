@@ -7,6 +7,8 @@
 
 [[大-big]]
 [[丶-dot,sign]]
+[[人-person]]
+[[一-line]]
 
 ### Mnemonic
 

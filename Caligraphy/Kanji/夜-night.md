@@ -9,6 +9,8 @@
 
 [[亠-roof,somethingtall]]
 [[夕-evening]]
+[[人-person]]
+[[月-moon,flesh,body]]
 
 ### Mnemonic
 

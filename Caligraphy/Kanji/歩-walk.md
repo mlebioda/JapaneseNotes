@@ -1,11 +1,13 @@
 # 歩 - walk
 
 ## Occurences
-[[Kaligrafia-8-Day-Off#歩 - walk・ある・ホ、ぽ]]
+[[Kaligrafia-8-Day-Off#歩 - walk・ある・ホ、ポ]]
 
 ### Parts
 
+[[止-stop]]
 [[少-few]]
+[[小-small]]
 
 ### Mnemonic
 

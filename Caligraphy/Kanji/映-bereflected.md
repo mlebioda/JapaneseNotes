@@ -7,6 +7,8 @@
 
 [[日-day]]
 [[央-center]]
+[[大-big]]
+[[冂-yoke]]
 
 ### Mnemonic
 

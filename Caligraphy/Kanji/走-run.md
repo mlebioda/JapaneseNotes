@@ -6,6 +6,8 @@
 ### Parts
 
 [[起-cause]]
+[[土-soil]]
+[[足-feet]]
 
 ### Mnemonic
 

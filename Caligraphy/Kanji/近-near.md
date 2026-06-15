@@ -6,6 +6,7 @@
 ### Parts
 
 [[辶-road]]
+[[斤-axe]]
 
 ### Mnemonic
 

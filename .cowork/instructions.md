@@ -56,7 +56,7 @@ When the user sends an image and asks to "extract", output vocabulary lines in t
 Rules:
 - Extract the full phrase/sentence as it appears — do not break it into individual words unless the image clearly shows a vocabulary list
 - #w — nouns, expressions, sentences, adverbs
-- #wc — verbs (G1/G2/G3)
+- #wc — verbs (G1/G2/G3); append (transitive) or (intransitive) after the English translation, e.g. `#wc 食べる(たべ) - to eat (transitive)`
 - #wp — adjectives (い-adj / な-adj)
 - Readings are inline after each kanji word using ASCII parentheses: `kanji(reading)` — e.g. `明日(あした)の仕事(しごと)`
 - Katakana-only words have no reading in parentheses

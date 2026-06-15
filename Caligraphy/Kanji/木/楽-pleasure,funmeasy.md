@@ -7,6 +7,7 @@
 
 [[白-white]]
 [[木-tree]]
+[[冫-water]]
 
 ### Mnemonic
 

@@ -47,12 +47,12 @@
     "UN5GL1L2::onaji-noun": {
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL1L2.md",
       "grammar_header": "同じ + Noun (same)",
-      "last_reviewed": "2026-06-10",
-      "next_review": "2026-06-13",
-      "interval_days": 3,
-      "ease": 2.5,
-      "streak": 2,
-      "total_reviews": 2,
+      "last_reviewed": "2026-06-14",
+      "next_review": "2026-06-24",
+      "interval_days": 10,
+      "ease": 2.65,
+      "streak": 3,
+      "total_reviews": 3,
       "last_score": 4,
       "weak_points": []
     },
@@ -83,12 +83,12 @@
     "UN5GL1L2::kono-sono-ano": {
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL1L2.md",
       "grammar_header": "この/その/あの (demonstrative adjectives)",
-      "last_reviewed": "2026-06-10",
-      "next_review": "2026-06-13",
-      "interval_days": 3,
-      "ease": 2.5,
-      "streak": 2,
-      "total_reviews": 2,
+      "last_reviewed": "2026-06-14",
+      "next_review": "2026-06-24",
+      "interval_days": 10,
+      "ease": 2.65,
+      "streak": 3,
+      "total_reviews": 3,
       "last_score": 4,
       "weak_points": []
     },
@@ -107,37 +107,37 @@
     "UN4GL5::ikoukei-group-1": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
       "grammar_header": "いこうけい Group 1",
-      "last_reviewed": "2026-06-11",
-      "next_review": "2026-06-13",
-      "interval_days": 2,
-      "ease": 2.2,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 3,
+      "last_reviewed": "2026-06-14",
+      "next_review": "2026-06-20",
+      "interval_days": 6,
+      "ease": 2.35,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 4,
       "weak_points": []
     },
     "UN4GL5::ikoukei-group-2": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
       "grammar_header": "いこうけい Group 2",
-      "last_reviewed": "2026-06-11",
-      "next_review": "2026-06-13",
-      "interval_days": 2,
-      "ease": 2.2,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 3,
+      "last_reviewed": "2026-06-14",
+      "next_review": "2026-06-20",
+      "interval_days": 6,
+      "ease": 2.35,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 4,
       "weak_points": []
     },
     "UN4GL5::ikoukei-group-3": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
       "grammar_header": "いこうけい Group 3",
-      "last_reviewed": "2026-06-11",
-      "next_review": "2026-06-13",
-      "interval_days": 2,
-      "ease": 2.2,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 3,
+      "last_reviewed": "2026-06-14",
+      "next_review": "2026-06-20",
+      "interval_days": 6,
+      "ease": 2.35,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 4,
       "weak_points": []
     },
     "UN4GL5::volitional-to-omotteimasu": {
@@ -220,13 +220,13 @@
     "UN4GL5::tsumori-affirmative": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
       "grammar_header": "V「plain」つもりです (affirmative)",
-      "last_reviewed": "2026-06-12",
-      "next_review": "2026-06-13",
-      "interval_days": 1,
+      "last_reviewed": "2026-06-14",
+      "next_review": "2026-06-16",
+      "interval_days": 2,
       "ease": 2.2,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 2,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 3,
       "weak_points": [
         "particle を with suru verb (地理を研究する)",
         "extra に after 今から",
@@ -327,17 +327,18 @@
     "UN4GL5::joshi-mo-total-denial": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
       "grammar_header": "助詞＋も (interrogative — total denial)",
-      "last_reviewed": "2026-06-12",
-      "next_review": "2026-06-13",
+      "last_reviewed": "2026-06-14",
+      "next_review": "2026-06-15",
       "interval_days": 1,
-      "ease": 1.9,
-      "streak": 4,
-      "total_reviews": 4,
+      "ease": 1.75,
+      "streak": 5,
+      "total_reviews": 5,
       "last_score": 2,
       "weak_points": [
         "どこへも + negative verb (total denial pattern)",
         "足を怪我する (を not が)",
-        "どこへも spelling (へ not え)"
+        "どこへも spelling (へ not え)",
+        "total denial pattern not produced"
       ]
     },
     "UN4GL5::yasui-nikui": {
@@ -357,32 +358,35 @@
     "UN4GL6::transitive-and-intransitive-verbs": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
       "grammar_header": "Transitive and Intransitive verbs",
-      "last_reviewed": "2026-06-12",
-      "next_review": "2026-06-13",
-      "interval_days": 1,
+      "last_reviewed": "2026-06-14",
+      "next_review": "2026-06-16",
+      "interval_days": 2,
       "ease": 2.35,
-      "streak": 2,
-      "total_reviews": 2,
-      "last_score": 2,
+      "streak": 3,
+      "total_reviews": 3,
+      "last_score": 3,
       "weak_points": [
-        "開く (intransitive) confused with 開ける (transitive)"
+        "開く (intransitive) confused with 開ける (transitive)",
+        "風ので→風で (cause = で, no の needed)",
+        "割れた(intransitive) with を → 割った(transitive)"
       ]
     },
     "UN4GL6::vta-bakari": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
       "grammar_header": "V「た」ばかり",
-      "last_reviewed": "2026-06-12",
-      "next_review": "2026-06-13",
+      "last_reviewed": "2026-06-14",
+      "next_review": "2026-06-15",
       "interval_days": 1,
-      "ease": 2.3,
+      "ease": 2.1,
       "streak": 0,
-      "total_reviews": 2,
+      "total_reviews": 3,
       "last_score": 1,
       "weak_points": [
         "particle を with 決める",
         "negative form ていません",
         "たばかり pattern not produced",
-        "行き先に→行き先を (決める takes を)"
+        "行き先に→行き先を (決める takes を)",
+        "confused なくてはいけません with たばかり"
       ]
     },
     "UN4GL6::vplain-soudesu-souda": {
@@ -1346,17 +1350,18 @@
     "UN4GL3::vnakute-haikemasen": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL3.md",
       "grammar_header": "V「なくて」はいけません — must do",
-      "last_reviewed": "2026-06-12",
-      "next_review": "2026-06-13",
-      "interval_days": 1,
+      "last_reviewed": "2026-06-14",
+      "next_review": "2026-06-16",
+      "interval_days": 2,
       "ease": 1.85,
-      "streak": 2,
-      "total_reviews": 4,
-      "last_score": 2,
+      "streak": 3,
+      "total_reviews": 5,
+      "last_score": 3,
       "weak_points": [
         "持たなくては — 持つ→持たない→持たなくては",
         "ほうがいい (recommendation) vs なくてはいけません (obligation)",
-        "obligation vs advice contrast (なくてはいけません=must, ほうがいいです=advice)"
+        "obligation vs advice contrast (なくてはいけません=must, ほうがいいです=advice)",
+        "会議に→会議では (action location = で, topic/contrast = は)"
       ]
     },
     "UN4GL3::youni": {
