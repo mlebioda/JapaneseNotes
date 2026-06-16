@@ -1,1 +1,0 @@
-[[図 - drawing, map]]

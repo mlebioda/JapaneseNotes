@@ -1,6 +1,7 @@
 # 紙 - paper
 
 ## Occurences
-[[Kaligrafia-10-Letter#紙 - paper・かみ・シ]]
+[[UN4KL10-Letter#紙 - paper・かみ・シ]]
 
 ### Parts
+

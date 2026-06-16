@@ -55,6 +55,11 @@ https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_X.html
 
 where `X` is the Unicode code point of the kanji character in decimal (e.g. `近` → `36817`).
 
+**Rate-limit rule**: Fetches to kanji-trainer.org must be done sequentially — one at a time.
+Never issue parallel or concurrent requests to the site, even when `kanji-file` is called
+for multiple kanji in a single run. Wait for the current fetch (and any resulting writes) to
+complete before starting the next kanji.
+
 From the fetched HTML, extract:
 
 - `id="idFeldErklar"` → **mnemonic phrase** (short memorable sentence)
@@ -153,21 +158,33 @@ Classification rule:
      starts with the linked kanji character.
   2. If the link text does not match the actual filename (e.g. link is `[[貝 - muszla]]` but file
      is `貝-muszla.md`) → fix the link to match the actual filename.
-  3. If no file is found for the linked character, log a warning; do not remove the link.
+  3. If no file is found for the linked character, **remove the link from the file** and record it
+     in the completion report as `REMOVED: [[<link>]] — no file found`.
 
 ---
 
-### Step 5 — Bare link migration
+### Step 5 — Bare link migration and classification
 
 Collect all wikilinks that appear **outside any named `##` section** (i.e. links at the top of
 the file before any `##` heading, or between `##` headings without a section of their own).
 
-Move them under `## Occurences`:
+By the time Step 5 runs, Step 4 has already removed all broken links; every remaining bare link
+is verified to have a corresponding file in `Caligraphy/`.
 
-- If `## Occurences` does not exist, create it.
-- Append the collected wikilinks under `## Occurences`. Preserve all existing content already
-  under that section.
-- Do not duplicate links already present in `## Occurences`.
+Classify and move each bare link to the correct destination:
+
+- Bare links **without `#`** (component or kanji references — verified by Step 4) → move to
+  `### Parts`:
+  - If `### Parts` does not exist, create it.
+  - Append the link under `### Parts`. Preserve all existing content already under that section.
+  - Do not duplicate links already present in `### Parts`.
+- Bare links **containing `#`** (lesson occurrence links) → move to `## Occurences`:
+  - These should already be skipped by the "never touch `#` links" rule in Step 4; this branch
+    is a safety catch only.
+  - If `## Occurences` does not exist, create it.
+  - Append the link under `## Occurences`. Preserve all existing content already under that
+    section.
+  - Do not duplicate links already present in `## Occurences`.
 
 ---
 
@@ -177,11 +194,14 @@ After all writes are complete:
 
 1. Verify `## Occurences` exists in the file. If it is still missing (e.g. Steps A–D and Step 5
    produced no links to migrate), add an empty `## Occurences` section.
-2. Scan all lines under `## Occurences` and `### Parts`. For each line that contains a link:
+2. Verify **no bare links remain outside any named `##` section**. Steps 4–5 must have classified
+   and moved every bare link; if any remain, log a warning:
+   `WARN: unsectioned bare link remains after Steps 4–5: [link]`.
+3. Scan all lines under `## Occurences` and `### Parts`. For each line that contains a link:
    - If it is a valid wikilink (`[[…]]`) → OK.
    - If it is plain text that looks like a link (e.g. a bare kanji or an unbracketed filename)
      → log a warning: `WARN: malformed link in [section]: [line]`. Do not auto-fix.
-3. Report any warnings in the completion report.
+4. Report any warnings and any `REMOVED` entries in the completion report.
 
 ---
 
@@ -211,8 +231,8 @@ present (skipping web fetch), one where it was absent (fetch required):
 kanji-file: 斤
   Step A — mnemonic check: non-empty (skipping web fetch)
   Step D — ### Parts: 2 components found in mnemonic ([[木-tree]], [[口-mouth]])
-  Step 4 — link verification: 3 links checked, 0 fixed
-  Step 5 — bare link migration: 0 links moved
+  Step 4 — link verification: 3 links checked, 0 fixed, 0 removed
+  Step 5 — bare link migration: 0 links moved to ### Parts, 0 links moved to ## Occurences
   Step 6 — consistency check: OK
   Warnings: none
 ```
@@ -223,8 +243,19 @@ kanji-file: 近
   Step B — web fetch: OK
   Step C — ### Mnemonic: written
   Step D — ### Parts: 1 component found ([[斤-axe]]), 1 primitive created (Caligraphy/Primitives/斤-axe.md)
-  Step 4 — link verification: 2 links checked, 0 fixed
-  Step 5 — bare link migration: 0 links moved
+  Step 4 — link verification: 2 links checked, 0 fixed, 0 removed
+  Step 5 — bare link migration: 0 links moved to ### Parts, 0 links moved to ## Occurences
+  Step 6 — consistency check: OK
+  Warnings: none
+```
+
+```
+kanji-file: 千
+  Step A — mnemonic check: non-empty (skipping web fetch)
+  Step D — ### Parts: 1 component found in mnemonic ([[十-ten,10]])
+  Step 4 — link verification: 3 links checked, 0 fixed, 1 removed
+    REMOVED: [[丿 - component]] — no file found
+  Step 5 — bare link migration: 1 link moved to ### Parts ([[十-ten,10]]), 0 links moved to ## Occurences
   Step 6 — consistency check: OK
   Warnings: none
 ```

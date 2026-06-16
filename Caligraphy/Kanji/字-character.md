@@ -1,5 +1,5 @@
 # 字 - character
-[[Kaligrafia-2-Study#字 - letter・あざ・ジ]]
+[[UN4KL2-Study#字 - letter・あざ・ジ]]
 
 ---
 [[子 - child]]

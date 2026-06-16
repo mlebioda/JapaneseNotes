@@ -240,7 +240,7 @@ Structure:
 1. --------------1.  Arrive to America--- 2. Eat hamburger
 2. 1. went to america 1.Eat hamburger at the same time
 
-#w 家に帰ったとき、両親に会った (いえ・かえ・りょうしん・あ) - I met my parents after I came back home.
+#w 家に帰ったとき、両親に会った (いえ・かえ・りょうしん・あ) - I met my parents when I came back home.
 #w 家に帰るとき、両親に会った (いえ・かえ・りょうしん・あ) - I met my parents before going back home.
 
 
@@ -1398,7 +1398,7 @@ I ate hamburgers after I went to America #k #card
 
 
 
-I met my parents after I came back home. #k #card
+I met my parents when I came back home. #k #card
 家に帰ったとき、両親に会った (いえ・かえ・りょうしん・あ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>

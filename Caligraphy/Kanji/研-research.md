@@ -1,5 +1,5 @@
 # 研 - research
-[[Kaligrafia-11-Research#研 - research, sharpen・と・ケン]]
+[[UN4KL11-Research#研 - research, sharpen・と・ケン]]
 ---
 [[石 - component]]
 [[开 - component]]

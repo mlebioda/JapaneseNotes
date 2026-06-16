@@ -1,15 +1,9 @@
 # 近 - near
 
 ## Occurences
-[[Kaligrafia-8-Day-Off#近 - near・ちか・キン]]
+[[UN4KL8-Day-Off#近 - near・ちか・キン]]
 
 ### Parts
 
-[[辶-road]]
-[[斤-axe]]
-
 ### Mnemonic
 
-Left: movement 辶, right: axe 斤
-
-What the movement of an axe can reach is close.

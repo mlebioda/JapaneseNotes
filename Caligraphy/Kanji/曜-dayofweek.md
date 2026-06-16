@@ -1,5 +1,5 @@
 # 曜 day of week ヨウ
-[[Kaligrafia-1-Company#曜 day of week ヨウ]]
+[[UN4KL1-Company#曜 day of week ヨウ]]
 [[JPLessons/StrefaKursow/Kaligrafia#曜 - dzień tygodnia]]
 
 ---
@@ -8,4 +8,4 @@
 [[隹 - component]]
 
 ## Occurences
-[[Kaligrafia-1-Company#曜 - day of week・ヨウ]]
+[[UN4KL1-Company#曜 - day of week・ヨウ]]

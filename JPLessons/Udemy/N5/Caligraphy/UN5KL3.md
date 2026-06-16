@@ -1,6 +1,7 @@
 TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 
-## 目 - eye め ・ モク
+## 目 - eye・め・モク
+[[目-eye]]
 
 **(め)**  
 目（め）- eye
@@ -12,7 +13,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 **(もく)**
 #w 目的（もくてき）- aim
 #w 旅行の目的は休むことです(りょこう、もくてき、やす) - our aim of the trip is to take a rest
-## 口 - mouth くち、ぐち ・ コウ
+## 口 - mouth・くち、ぐち・コウ
+[[口–mouth,point,place]]
 
 **(くち)**  
 #w 人の口（ひとのくち）- human's mouth
@@ -24,7 +26,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 **(こう)**
 #w 人口（じんこう）- population
 
-## 耳 - ear みみ ・ ジ
+## 耳 - ear・みみ・ジ
+[[耳-ear]]
 ![[Pasted image 20251031133318.png]]
 **(みみ)**  
 #w 耳（みみ）- ear
@@ -32,8 +35,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 **(じ)**
 #w 耳目（じもく）- ear and eye
 #w **耳目を集める（じもくをあつめる）** – przyciągać uwagę
-## 手 - hand て ・ シュ
-[[手 - hand]]
+## 手 - hand・て・シュ
+[[手-hand]]
 
 **(て)**  
 #w 手帳（てちょう）- a diary
@@ -46,7 +49,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 
 (た)
 #w 下手（へた） - poor at
-## 足 - leg, foot あし、た（りる） ・ ソク
+## 足 - leg, foot・あし、た（りる）・ソク
+[[足-feet]]
 ![[Pasted image 20251031134113.png]]
 **(あし)**  
 #w 足（あし）- leg/ feet
@@ -59,7 +63,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 **(そく)**
 #w 二足（にそく）- two pairs of shoes
 #w 遠足（えんそく）- an excursion(trip)
-## 力 - power ちから ・ リョク、リキ
+## 力 - power・ちから・リョク、リキ
+[[力-power]]
 
 **(ちから)**
 #w 力（ちから）- power, strength
@@ -71,7 +76,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 **(りき)**
 #w 力士（りきし）- a sumo wrestler
 
-## 父 - father ちち ・ フ
+## 父 - father・ちち・フ
+[[父-father]]
 
 **(ちち)**  
 #w 父親（父おや）- father (own, and smone, social context)
@@ -79,7 +85,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 
 **(ふ)**
 #w 祖父（そふ）- grandfather
-## 母 - mother はは ・ ボ
+## 母 - mother・はは・ボ
+[[母-mother]]
 
 **(はは)**  
 #w 母親（ははおや）- mother (own, and smone, social context)
@@ -88,7 +95,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 #w 祖母（そぼ） - grandmother
 #w 母国（ぼこく）- homeland
 
-## 男 - man おとこ ・ ダン、ナン
+## 男 - man・おとこ・ダン、ナン
+[[男-man]]
 
 **(おとこ)**  
 お父さん - father my
@@ -100,21 +108,24 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 **(なん)**
 #w 長男（ちょうなん）- the oldest brother
 
-## 女 - woman おんな ・ ジョ
+## 女 - woman・おんな・ジョ
+[[女-woman]]
 
 **(おんな)**  
 
  
 **(じょ)**
 #w 女性（じょせい) - female
-## 子 - child こ ・ シ
+## 子 - child・こ・シ
+[[子-child]]
 
 **(こ)**  
 
 **(し)**
 #w 男子（だんし）- boy
 #w 女子（じょし） - girl
-## 人 - person ひと ・ ジン、ニン
+## 人 - person・ひと・ジン、ニン
+[[人-person]]
 
 **(ひと)**  
 
@@ -122,7 +133,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL3
 
 **(にん)**
 #w 人間（にんげん）- human being
-## 名 - name な ・ メイ
+## 名 - name・な・メイ
+[[名-name]]
 
 **(な)**  
 #w 名前（なまえ）- name

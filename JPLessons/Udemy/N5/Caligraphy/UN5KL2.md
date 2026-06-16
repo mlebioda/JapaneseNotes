@@ -102,7 +102,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 **(のぼ)**
 #wc 上る - to go up, to climb, ascend (someone)
 
-## 下 - under・した、さ（がる）・カ、げ
+## 下 - under・した、さ（がる）・カ、ゲ
 [[下-under]]
 
 **(した)**

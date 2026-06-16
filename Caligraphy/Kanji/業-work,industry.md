@@ -1,5 +1,5 @@
 # 業 work, industry  わざ・ギョウ、ゴウ
-[[Kaligrafia-1-Company#業 work, industry わざ・ギョウ、ゴウ]]
+[[UN4KL1-Company#業 work, industry わざ・ギョウ、ゴウ]]
 
 
 ---
@@ -8,4 +8,4 @@
 [[幺 - small thin]]
 
 ## Occurences
-[[Kaligrafia-1-Company#業 - work, industry・わざ・ギョウ、ゴウ]]
+[[UN4KL1-Company#業 - work, industry・わざ・ギョウ、ゴウ]]

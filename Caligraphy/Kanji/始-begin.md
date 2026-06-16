@@ -1,5 +1,5 @@
 # 始 begin はじ・シ
-[[Kaligrafia-1-Company#始 begin はじ・シ]]
+[[UN4KL1-Company#始 begin はじ・シ]]
 
 
 ---
@@ -8,4 +8,4 @@
 [[台 - stand]]
 
 ## Occurences
-[[Kaligrafia-1-Company#始 - begin・はじ・シ]]
+[[UN4KL1-Company#始 - begin・はじ・シ]]

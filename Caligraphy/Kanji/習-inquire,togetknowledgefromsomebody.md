@@ -1,5 +1,5 @@
 # 習 - inquire, to get knowledge from somebody
-[[Kaligrafia-2-Study#習 - learn, study・なら・シュウ]]
+[[UN4KL2-Study#習 - learn, study・なら・シュウ]]
 
 ---
 [[白 - white]]

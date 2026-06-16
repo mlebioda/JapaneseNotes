@@ -222,3 +222,48 @@
 **Source**: uncommitted — skill-implementer
 
 ---
+
+## 2026-06-15 — practice-grammar.md
+
+**Classification**: improvement
+**What happened**: Replaced four vague exercise types with six JLPT-aligned types (Contextual production, Discrimination fill-in-blank, Description→production, Sentence ordering, Passage grammar, Bolded form→explain), and added a deterministic type-selection algorithm, weak-point bias rule, hidden-target rule, and grading rules for the new types.
+**Rule**: **[Rule]** When designing a drill skill, define exercise types as a closed, named set aligned with the target exam format, and specify a deterministic selection algorithm — open-ended exercise variety produces inconsistent sessions and makes grading rules impossible to specify precisely.
+**Source**: uncommitted — skill-implementer
+
+---
+
+## 2026-06-15 — practice-grammar.md (scope-based batch extension)
+
+**Classification**: new-feature
+**What happened**: Practice-grammar extended with scope-based triggers, lazy lesson-file loading, batch split negotiation, a session-wide score buffer, and an optional Study Mode interlude — transforming the skill from a single-lesson driller into a full cross-lesson spaced-repetition engine.
+**Rule**: **[Rule]** When a drill skill grows to support cross-lesson scope queries, buffer all self-evaluation scores in a session scratch object and write the state file once at the very end — mid-session writes create partial state that is inconsistent if the session is interrupted.
+**Source**: uncommitted — skill-implementer
+
+---
+
+## 2026-06-15 — Plans/sequential-kanji-fetch-plan.md
+
+**Classification**: new-feature
+**What happened**: kanji-file and kanji-headers had no explicit instruction to serialize web fetches to kanji-trainer.org; a plan was created to add a rate-limit rule at the fetch step of each skill, preventing HTTP 429 errors when multiple kanji are processed in a single run.
+**Rule**: **[Rule]** When a skill fetches from an external site that enforces rate limits, add an explicit sequential-processing rule at the exact fetch step — never leave the serialization requirement implicit, as concurrent requests will be issued by default when multiple items are processed in a single run.
+**Source**: uncommitted — planner
+
+---
+
+## 2026-06-15 — kanji-headers.md
+
+**Classification**: missing-rule
+**What happened**: kanji-headers had no rule requiring sequential calls to kanji-file; without it parallel calls triggered HTTP 429 rate-limit errors from kanji-trainer.org when a lesson header contained multiple kanji.
+**Rule**: **[Rule]** When a skill calls a sub-skill that performs external web fetches, add an explicit sequential-call rule at the invocation step — "call one at a time, wait for completion before the next" — because parallel invocation is the default and will trigger rate-limit errors without this guard.
+**Source**: uncommitted — skill-implementer
+
+---
+
+## 2026-06-15 — Plans/kanji-file-bare-link-fix-plan.md
+
+**Classification**: bug-fix
+**What happened**: kanji-file's Step 5 sent all bare wikilinks to ## Occurences regardless of whether they were structural component links (should go to ### Parts) or lesson occurrence links; Step 4 kept broken bare links with only a warning instead of removing them.
+**Rule**: **[Rule]** When a skill migrates stale content into sections, it must classify each item's destination before migrating — a single-destination migration step silently misplaces items that belong to different sections, and broken items must be removed rather than preserved with a warning.
+**Source**: uncommitted — planner
+
+---

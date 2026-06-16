@@ -1,5 +1,5 @@
 # 早 - early
-[[Kaligrafia-13-Seasons#早 - early はよ・ソウ]]
+[[UN4KL13-Seasons#早 - early はよ・ソウ]]
 [[UNK5L7#早 - early はや（い）・ソウ]]
 ---
 [[日 - sun]]

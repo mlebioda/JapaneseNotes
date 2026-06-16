@@ -1,5 +1,5 @@
 # 重 - heavy
-[[Kaligrafia-14-Grocery#重 - heavy おも・ジュウ]]
+[[UN4KL14-Grocery#重 - heavy おも・ジュウ]]
 ---
 [[動 - movement]]
 [[千 - 1000 ち・セン]]

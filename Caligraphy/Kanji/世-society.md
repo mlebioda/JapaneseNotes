@@ -1,2 +1,2 @@
 # 世 - society
-[[Kaligrafia-11-Research#世 - society, world・よ・セ]]
+[[UN4KL11-Research#世 - society, world・よ・セ]]

@@ -1,5 +1,6 @@
 TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
-## 月 - moon, month つき・ゲツ, ガツ
+## 月 - moon,month・つき・ゲツ、ガツ
+[[月-moon,flesh,body]]
 
 **(つき)**  
 #w 今日は月がとてもきれいです - today, moon is very beautiful 
@@ -9,8 +10,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 
 **(がつ)**
 
-## 火 - fire ひ・カ
-[[火 - fire]]
+## 火 - fire・ひ・カ
+[[火-fire]]
 **(ひ)**
 
 #w 火は赤い（ひ、あか）- A fire is red #k
@@ -38,14 +39,15 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 #wc **消す（けす）** - zgasić, wyłączyć (ktoś)
 #w 火を消す(ひ、け） 。-  Zgasić ogień.
 
-## 水 - water みず・スイ
-[[水 - water みず・スイ]]
+## 水 - water・みず・スイ
+[[水-water]]
 **(みず)**
 #w 川の水（かわ、みず) - river water #k 
 
 **(すい)**
 #w 水曜日 - wednesday #k 
-## 木 - tree き・モク
+## 木 - tree・き・モク
+[[木-tree]]
 
 **(き)**  
 #w 木が育っている（き、そ）- tree is growing
@@ -53,14 +55,16 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 
 **(もく)**
 
-## 金 - gold, money かね・キン
+## 金 - gold,money・かね・キン
+[[金-gold]]
 
 **(かね)**  
 #w お金（かね）- money #k 
 
 **(きん)**
 #w 金曜日（きん）- Friday #k
-## 土 - soil つち・ド, ト
+## 土 - soil・つち・ド、ト
+[[土-soil]]
 
 **(つち)**  
 #w 土の上（つち、うえ）- on the ground #k
@@ -70,7 +74,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 
 **(と)**
 #w 土地（とち）- land
-## 日 - sun, day ひ, び・ニチ, ニ, ジツ
+## 日 - sun,day・ひ、び・ニチ、ニ、ジツ
+[[日-day]]
 
 **(ひ)**  
 #w 日の丸（ま）- nazwa na japonska flagę/ koło słońca  #k 
@@ -80,16 +85,16 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 **(に)**  
 **(じつ)**
 #w 休日（きゅうじつ）- holiday #k
-## 先 - previous, foregoing さき・セン
-[[先 - previous]]
+## 先 - previous,foregoing・さき・セン
+[[先-previous]]
 
 **(さき)**  
 #w 先に行く（さきにいく）- go ahead/go early #k
 
 **(せん)**
 #w 先日（せんじつ）-  the last day (not yesterday) #k
-## 生 - be born, live う(まれる), い(きる)・セイ
-[[生 - be born]]
+## 生 - be born,live・う(まれる)、い(きる)・セイ
+[[生-beborn]]
 
 **(う)**  
 #wc 生まれる（う）- to born #k
@@ -102,7 +107,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 #w 先生（せんせい）- teacher #k
 #w 生活（せいかつ) -  life #k
 
-## 学 - study まな(ぶ)・ガク, ガッ
+## 学 - study・まな(ぶ)・ガク、ガッ
+[[学-study]]
 
 **(まな)**  
 #wc 学ぶ（まな）- to learn (akademicki ton, np kierunki studiów ) #k
@@ -116,13 +122,15 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 
 **(がっ)**
 
-## 校 - school コウ
+## 校 - school・コウ
+[[校-school]]
 
 **(こう)**
 #w 校長 (こうちょう) - principal of the school #k
 #w 小学校（しょうがっこう） - primmary school #k
 #w 母校（ぼこう）- #k szkola macierzysta (do ktorej ktos uczeszczal)
-## 本 - book, root, origin もと・ホン, ポン, ボン
+## 本 - book,root,origin・もと・ホン、ポン、ボン
+[[本-book]]
 
 **(もと)**  
 
@@ -133,8 +141,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 
 **(ぼん)**
 
-## 友 - friend とも・ユウ
-[[友 - friend]]
+## 友 - friend・とも・ユウ
+[[友-friend]]
 
 **(とも)**
 #w 友達（ともだち）- friend, znajomy, kolega #k

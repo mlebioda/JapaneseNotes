@@ -1,5 +1,5 @@
 # 売 - to sell
-[[Kaligrafia-5-Shopping#売 - sell・う、うり・バイ]]
+[[UN4KL5-Shopping#売 - sell・う、うり・バイ]]
 
 ---
 

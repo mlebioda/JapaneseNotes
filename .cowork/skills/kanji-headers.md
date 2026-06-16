@@ -48,6 +48,11 @@ For each kanji character found in `##` headers:
 Cycle guard: if a component character is already being processed in the current call stack, skip
 the recursive `kanji-file` call and log a warning.
 
+**Sequential processing rule**: Process kanji one at a time. After calling `kanji-file` for
+a kanji (step 3 or 4 above), wait for it to complete fully before moving to the next kanji
+in the list. Never call `kanji-file` for multiple kanji in parallel. This prevents HTTP 429
+rate-limit errors from kanji-trainer.org.
+
 **Step 3 — Fix `##` header line formats in the lesson file in-place.**
 
 For each `##` header line identified in Step 1, verify and correct the format to:
