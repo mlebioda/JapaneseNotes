@@ -267,3 +267,12 @@
 **Source**: uncommitted — planner
 
 ---
+
+## 2026-06-16 — Plans/practice-grammar-scope-triggers-plan.md
+
+**Classification**: new-feature
+**What happened**: Plan created to add two mutually exclusive scope-based triggers to practice-grammar — "today's topics" (next_review == today) and "overdue topics" (next_review < today) — driven by the existing SM-2 state file.
+**Rule**: **[Rule]** When adding multiple scope-based trigger variants to a drill skill, define each scope as a mutually exclusive filter with an explicit date comparison operator (==, <, <=) and document which SM-2 field drives the filter — ambiguous or overlapping scopes produce unpredictable session content.
+**Source**: uncommitted — planner
+
+---

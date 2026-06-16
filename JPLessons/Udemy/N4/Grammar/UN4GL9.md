@@ -3,6 +3,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL
 
 # ごい
 #wc 憧（あこが）れる - to long for / to admire / to yearn for (intransitive)
+#w 角（かど）- corner (of a street or building)
+#wc 替（か）える - to replace / to swap (transitive)
+
 #w 入学許可（にゅうがくきょか）- admission / letter of acceptance
 #w 新入生（しんにゅうせい）- new student / freshman 
 #w オリエンテーション - orientation

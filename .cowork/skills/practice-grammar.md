@@ -21,6 +21,72 @@ User says any of:
 
 If user references a lesson by code only (e.g. `UN5GL14`), find the file under `JPLessons/Udemy/N<level>/Grammar/` — match by prefix, ignore trailing description in filename.
 
+Scope triggers (no lesson file needed — select from grammar-state.json):
+- "practice today's topics" / "practice grammar due today" / "drill today's grammar"
+  → scope = TODAY
+- "practice overdue topics" / "practice overdue grammar" / "drill overdue topics"
+  → scope = OVERDUE
+
+Scope triggers are matched before lesson-code detection. If no scope phrase and no lesson reference are found, fall through to existing ambiguity handling.
+
+---
+
+## Scope resolution
+
+This section runs when scope = TODAY or scope = OVERDUE. It produces `selected_entries` — a list of grammar point entries — which the session machinery then consumes exactly as if they came from a single lesson file.
+
+### TODAY flow
+
+1. Read `.cowork/progress/grammar-state.json`. If missing, treat state as empty.
+2. Filter entries: keep only those where `next_review` is a valid ISO date (YYYY-MM-DD) AND `next_review == today` (exact string equality). Entries where `next_review < today` are NOT included. Entries where `next_review > today` are NOT included.
+3. Apply edge-case skips (see **Edge cases** below).
+4. If 0 entries remain: print `Nothing is scheduled for today.` and stop.
+5. Print `N grammar points scheduled for today.` and proceed to session.
+
+### OVERDUE flow
+
+1. Read `.cowork/progress/grammar-state.json`. If missing, treat state as empty.
+2. Filter entries: keep only those where `next_review` is a valid ISO date (YYYY-MM-DD) AND `next_review < today` (strictly less than — NOT <= and NOT ==). Entries where `next_review == today` are NOT included.
+3. Apply edge-case skips (see **Edge cases** below).
+4. If 0 entries remain: print `No overdue grammar points — you're up to date.` and stop.
+5. Sort remaining entries by `next_review` ascending (oldest next_review first = most overdue first).
+6. Print `N grammar points are overdue. How many do you want to practice? (most overdue first, or 'all')` and wait for user reply.
+7. Parse user reply X — evaluated in this exact order:
+   - X is `"all"` → use all N entries (no extra message).
+   - X is a positive integer > N → use all N entries, print `Only N overdue points found — using all N.`
+   - X is a positive integer == N → use all N entries (no extra message).
+   - X is a positive integer < N → use the first X entries (already sorted oldest first).
+   - X is invalid (non-integer, negative, zero) → ask once more with identical prompt. If still invalid: print `Invalid selection — session cancelled.` and stop.
+8. Print `Starting session with X grammar points.` and proceed to session.
+
+### Multi-lesson file loading
+
+Once `selected_entries` is resolved:
+
+1. Collect unique `lesson_file` values from `selected_entries`.
+2. For each lesson file, read content up to `# Summary` using:
+   ```bash
+   awk '/^# Summary$/{exit} {print}' "$LESSON_FILE"
+   ```
+   Load lazily — only read a file on first demand. Each path is read at most once.
+3. For each selected entry, locate `grammar_header` in the loaded lesson slice by searching `# 文法` and `# Vocabulary` sections for a `## Heading` match. Strategy: exact → case-insensitive → whitespace-normalised. If no match: skip with warning. If more than one match (ambiguous): skip with warning.
+4. Build merged vocab pool: union of all `# ごい` + `# ひょうげん` tagged lines from all loaded lesson files. Deduplicate by Japanese form (full kanji+reading string). When the same form appears in multiple lesson files, keep the first occurrence (session-list order).
+5. If all lesson files fail to load: print `Error: no lesson files could be loaded — session cancelled.` and report all warnings. Stop.
+
+**N (the count shown to the user) is derived solely from `grammar-state.json`** — it equals the number of entries passing the date filter. Lesson-file load failures and warned-and-skipped entries do NOT reduce N.
+
+### Edge cases
+
+The following cause an entry to be skipped **silently** (no output):
+- `next_review` missing, null, empty, or not a parseable YYYY-MM-DD date.
+
+The following cause an entry to be skipped **with a warning line**:
+- `lesson_file` missing or empty.
+- `grammar_header` missing or empty.
+- Lesson file path not found on disk.
+- `grammar_header` not found in lesson file after all match strategies.
+- `grammar_header` matches more than one heading in the lesson file (ambiguous).
+
 ---
 
 ## Workflow
@@ -148,6 +214,30 @@ There are two modes — **batch** (default) and **interactive**. Pick batch unle
 Print **all** exercises at once in a single message. Number them, include the grammar point header, and put the prompt on its own. No expected answers, no hints that reveal the form. The user replies once with all answers (numbered or in order). Then grade everything in one follow-up message and ask for self-scores in one batch.
 
 The session header must show both the exercise count and the grammar point count. The `Exercise N / T` progress indicator uses the exercise count (total use cases), not the grammar point count.
+
+For scope sessions (TODAY / OVERDUE), use these header and footer formats instead of the single-lesson variants:
+
+**Session header — Today:**
+```
+Session: today's topics — N exercises across M grammar points (K lessons). Reply with all answers in one message.
+```
+
+**Session header — Overdue:**
+```
+Session: overdue topics — N exercises across M grammar points (K lessons). Reply with all answers in one message.
+```
+
+**Session summary footer — Today:**
+```
+Session complete — today's topics (N exercises across M grammar points)
+```
+
+**Session summary footer — Overdue:**
+```
+Session complete — overdue topics (N exercises across M grammar points)
+```
+
+K lessons = count of distinct lesson files successfully loaded. M = count of grammar points for which at least one exercise will be generated.
 
 Layout for the batch prompt:
 
@@ -425,3 +515,4 @@ After running, print a one-line confirmation: `Calendar updated — N event(s) w
 - `<!--ID: -->` lines
 - Anything inside the lesson file — this skill is **read-only on lessons**
 - Do not modify other skill files or the instructions file
+- `.cowork/instructions.md` trigger list needs updating after this implementation (requires explicit user permission before modifying)

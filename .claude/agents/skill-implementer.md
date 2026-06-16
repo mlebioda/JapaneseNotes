@@ -79,27 +79,11 @@ After all tasks for the session are done (or the user says they are finished), r
    - It does not contain any of the forbidden patterns: `<!--ID:`, `TARGET DECK`, `git push`.
    - If it is a skill file: it has a YAML front matter block with `name` and `description` fields.
    - If it is a skill file: it specifies what triggers it and what it must never do (lesson file writes, git push).
+   - If it is a skill file: run the **precision check** — read each step and ask "if I follow this instruction literally, do I know exactly what to produce?" For each step that fails this test (vague counts, unnamed types, "as applicable", "where relevant", "if needed" without a defined condition), rewrite it before marking the task complete. Specific checks: are counts explicit (e.g. "3–5 sentences" not "a few sentences")? Are exercise types named (e.g. "Type 1 — Contextual production" not "an appropriate exercise")? Are conditions for branching stated precisely (e.g. "if overdue_days > 0" not "if overdue")?
 3. Report the review result: "All checks passed" or list specific issues found.
 4. If issues are found, propose fixes and ask the user whether to apply them.
 
-### Step 4 — Notify Scribe (A2A)
-
-After the self-review, for every skill or agent file you created or modified, use the `Agent` tool to call the `scribe` agent:
-
-```
-subagent_type: scribe
-prompt:
-MODE: capture
-AGENT: skill-implementer
-CHANGED: <file path>
-REASON: <why this file was created or changed — quote from the plan or from user's stated reason>
-CLASSIFICATION: <new-feature | improvement | bug-fix | missing-rule | design-oversight>
-COMMIT: uncommitted
-```
-
-Call once per changed file. Do not wait for user confirmation — this is automatic.
-
-### Step 4.5 — Regenerate vault diagram (A2A)
+### Step 4 — Regenerate vault diagram (A2A)
 
 After all file changes are complete and all scribe calls have been made, if any file under `.claude/agents/` or `.cowork/skills/` was created, edited, or deleted during this session, call the `documentation` agent once to regenerate `docs/vault-system-diagram.puml`.
 
@@ -128,6 +112,33 @@ Present it with the label:
 ```
 
 This is display-only. Never run `git commit`, `git add`, or any git write command.
+
+### Step 6 — Present next agent options
+
+After presenting the commit message, show agent options:
+
+| Agent | What it does | Suggested? |
+|---|---|---|
+| `reviewer` | Verifies implementation quality and catches any remaining issues | ✓ Recommended |
+| `scribe` | Log this session or generate a blog post about the changes | Optional |
+| None | End session — work is complete | End here |
+
+Ask: **"Which agent should run next?"**
+
+**If user chose `reviewer`**, call it:
+
+```
+subagent_type: reviewer
+prompt:
+TARGET: <changed file — relative path, e.g. .cowork/skills/fill-templates.md>
+SCOPE: quick
+FOCUS: verify implementation matches plan and all A2A wiring is correct
+CONSTRAINT: Report findings only. Do NOT route to any other agent automatically — present options and wait for user choice.
+```
+
+**If user chose `scribe`**, ask which mode (capture / post / git-sweep / retrospect) and call accordingly.
+
+**If user chose none**, end the session.
 
 ## Skill file format
 
@@ -206,4 +217,4 @@ Never run: `git push`, `git commit`, `git add`, `git reset`, `git checkout`, `gi
 
 - **Plan or task file cannot be read** — report the specific path and error to the user and stop. Do not attempt to implement anything without a readable plan and task checklist.
 - **File write fails mid-task** — report the failure immediately with the target file path and error. Do not mark the task complete in the checklist. Ask the user how to proceed (retry / skip / abort).
-- **Scribe A2A call fails** — report the failure to the user but do not block the session. Note the missed capture in the session report so the user can manually trigger scribe later if needed. Continue with the commit message suggestion step.
+- **Documentation A2A call fails** — report the failure to the user but do not block the session. Continue with the commit message suggestion step.

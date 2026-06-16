@@ -75,7 +75,7 @@ Skills are defined in .cowork/skills/ — load the relevant skill before acting.
 
 - kanji-headers — format kanji tables from images into structured markdown headers
 - kanji-file — process a single kanji into a standalone `Caligraphy/Kanji/<kanji>.md` file: reads existing file or creates new, inserts structured table (readings, strokes, meanings, mnemonics, examples), links radicals/primitives. Trigger: "kanji file <kanji>", "create kanji file <kanji>"
-- practice-grammar — interactive grammar drill for a lesson file; reads only `# 文法` + `# Vocabulary` (grammar topics) and `# ごい` + `# ひょうげん` (vocab pool). Writes results to `.cowork/progress/grammar-state.json` (SM-2 lite) and generates a timestamped `.ics` calendar file (`japanese-grammar-review-<timestamp>.ics`) at the vault root for easy calendar import. Trigger: "let's practice <lesson>"
+- practice-grammar — interactive grammar drill for a lesson file; reads only `# 文法` + `# Vocabulary` (grammar topics) and `# ごい` + `# ひょうげん` (vocab pool). Writes results to `.cowork/progress/grammar-state.json` (SM-2 lite) and generates a timestamped `.ics` calendar file (`japanese-grammar-review-<timestamp>.ics`) at the vault root for easy calendar import. Trigger: "let's practice <lesson>". Also supports scope-based triggers: "practice today's topics" (drills grammar points with next_review == today) and "practice overdue topics" (drills past-due points, user picks how many).
 - summarize-grammar — add a single lesson's grammar points to the topic-grouped index at `/grammar-index/`. One topic file per topic; entries are wikilinks (no copied text); a point may appear in multiple topics. Trigger: "summarize <lesson>"
 - templates-update — audit and repair already-filled Anki card templates in a lesson's `# Summary` section: normalize field names, fill missing forms, verify conjugation/adjective form correctness, fix kanji links, and reposition `<!--ID:-->` lines. Triggers: "templates-update [file]", "update templates [file]", "repair templates [file]", "fix templates [file]"
 - reading-jlpt — JLPT N4 reading comprehension drill on user-pasted passages. Auto-detects passage type (短文/中文/情報検索), flags above-N4 vocab, generates multiple-choice questions, explains results, suggests vocabulary, writes session file to `JPLessons/Reading/`. Chains to fill-templates. Trigger: "practice reading [passage]", "reading drill", "jlpt reading [passage]"
@@ -93,21 +93,23 @@ Skills are defined in .cowork/skills/ — load the relevant skill before acting.
 
 ## Agent system
 
-Agents are defined in `.claude/agents/`. For any task involving skills or agents, use the **orchestrator** as the default entry point.
+Agents are defined in `.claude/agents/`. Start with **`reviewer`** for analysis tasks or **`planner`** if you already know what to build. Each agent presents a "which agent next?" menu at the end of its run — follow the prompts.
 
-**`orchestrator`** — default entry point. Routes tasks through: reviewer → planner → skill-implementer → scribe. Handles new features, fixes, and improvements. Use for anything that modifies `.cowork/skills/` or `.claude/agents/`.
+Pipeline: **reviewer → planner → skill-implementer → reviewer (optional)**
 
-**`reviewer`** — read-only analysis. Finds bugs, missing rules, A2A wiring issues, consistency problems. Called by orchestrator; can also be called directly for a standalone review.
+**`orchestrator`** — DEPRECATED. No longer the entry point. Use the pipeline above instead.
 
-**`planner`** — creates structured plans in `Plans/`. Called by orchestrator after reviewer. Accepts `REVIEWER_BRIEF` input for A2A use.
+**`reviewer`** — read-only analysis. Finds bugs, missing rules, A2A wiring issues, consistency problems. Entry point for any change task. At the end, presents agent options and suggests planner.
 
-**`skill-implementer`** — executes plans. Reads `Plans/`, writes to `.cowork/skills/` and `.claude/agents/`. Calls scribe after each changed file.
+**`planner`** — creates structured plans in `Plans/`. Accepts `REVIEWER_BRIEF` input for A2A use. Calls scribe (non-blocking), then presents agent options and suggests skill-implementer.
 
-**`scribe`** — logs captures and generates blog posts. Called automatically by other agents. Modes: `capture`, `git-sweep`, `retrospect`, `post`.
+**`skill-implementer`** — executes plans. Reads `Plans/`, writes to `.cowork/skills/` and `.claude/agents/`. Calls documentation agent automatically. At the end, presents agent options and suggests reviewer.
+
+**`scribe`** — logs captures and generates blog posts. Called automatically by planner only. Modes: `capture`, `git-sweep`, `retrospect`, `post`.
 
 **`documentation`** — generates and updates the vault system diagram (`docs/vault-system-diagram.puml`). Called automatically by skill-implementer after any agent or skill file change. Trigger: "generate diagram" or "update diagram".
 
-**`skill-updater`** — DEPRECATED. Use orchestrator instead.
+**`skill-updater`** — DEPRECATED. Use the reviewer → planner → skill-implementer pipeline instead.
 
 # Project rules
 - Never modify files in .cowork/ without permission. Always ask and explain what do you want to modify.

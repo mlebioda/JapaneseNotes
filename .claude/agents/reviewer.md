@@ -75,6 +75,7 @@ What situations does the file fail to handle? For each gap:
 - Describe the situation
 - Describe what the file currently does (even if wrong or silent)
 - Classify severity: **critical** (will cause errors or data loss), **moderate** (will produce wrong output), **minor** (cosmetic or rare)
+- **Predictability [standing check]** — for each step in the skill's workflow: can a reader follow it and predict the exact output without relying on model judgment about "what's applicable"? If a step says "generate appropriate exercises" or "explain as needed" or "add relevant examples", that is a moderate issue — the instruction relies on implicit knowledge rather than explicit rules. Flag each such step with the problematic phrase quoted.
 
 #### 2c — Cross-file consistency
 Compare against all other skill/agent files:
@@ -103,6 +104,7 @@ Independent of the requested review, find anything worth improving:
 - **Redundant steps** — confirmation loops, repeated reads, sequential steps that could be collapsed
 - **Clarity** — ambiguous instructions that would cause inconsistent behaviour across sessions
 - **Missing guardrails** — destructive operations without confirmation, missing "never do" list
+- **Precision [standing check]** — scan the workflow for soft language that survived check 2b: "as appropriate", "where relevant", "a few", "some", "several", "if needed" (without a defined condition), "naturally". For each occurrence, flag it as an [optional] precision improvement only if a more concrete rule is feasible (e.g. an exact count, a named condition, a named output type). Do not flag phrases where discretion is genuinely required and no concrete rule can be specified.
 
 Mark each suggestion **[optional]** to distinguish from issues.
 
@@ -134,33 +136,23 @@ Structure the output as:
 <numbered list>
 ```
 
-Then ask the user:
-> "Do you want me to route these findings to planner for implementation?"
+Then present agent options to the user:
 
-Wait for answer before proceeding to Step 4.
+| Agent | What it does | Suggested? |
+|---|---|---|
+| `planner` | Creates a structured plan from these findings for skill-implementer to execute | ✓ Recommended (if issues found) |
+| `skill-implementer` | Implements changes directly — only for trivial single-file fixes | — |
+| None | End session — findings stand on their own | If no action needed |
 
----
+Ask: **"Which agent should run next?"**
 
-### Step 4 — Notify Scribe (A2A)
-
-Regardless of what the user decides about planner, always call scribe:
-
-```
-subagent_type: scribe
-prompt:
-MODE: capture
-AGENT: reviewer
-CHANGED: <target file path>
-REASON: Review completed. Findings: <one sentence summary of most important issue>
-CLASSIFICATION: <design-oversight | missing-rule | bug-fix | improvement — pick the dominant one>
-COMMIT: uncommitted
-```
+Wait for the user's choice before proceeding to Step 4.
 
 ---
 
-### Step 5 — Route to Planner (A2A, if user confirms)
+### Step 4 — Route to chosen agent (A2A)
 
-If the user says yes, build a structured brief and call planner:
+**If user chose `planner`**, build a structured brief and call planner:
 
 ```
 subagent_type: planner
@@ -175,9 +167,9 @@ ISSUES:
 SUGGESTED_APPROACH: <optional — if reviewer has a clear implementation direction>
 ```
 
-Planner will create a plan file in `Plans/` and a task checklist. Implementer picks it up from there.
+**If user chose `skill-implementer`**, inform the user that a plan file is required — ask them to run planner first or confirm they want to proceed without a plan.
 
-If the user says no, end the session — findings are already logged in Scribe.
+**If user chose none**, end the session.
 
 ---
 
@@ -196,5 +188,5 @@ If the user says no, end the session — findings are already logged in Scribe.
 - Never write or edit any file
 - Never run destructive git commands
 - Never access `JPLessons/`
-- Always call scribe after completing an analysis (Step 4), even if the user declines planner routing
+- Never call scribe — logging is handled by planner
 - Never propose calling implementer directly — all implementation goes through planner first

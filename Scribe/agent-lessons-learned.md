@@ -101,3 +101,21 @@
 **Source**: uncommitted — documentation
 
 ---
+
+## 2026-06-16 — docs/vault-system-diagram.puml
+
+**Classification**: improvement
+**What happened**: Orchestrator was found in the active Agents package despite being deprecated; the diagram was regenerated with orchestrator correctly placed in the Deprecated package, all A2A edge annotations refreshed against actual agent file contents, and 15 skills confirmed with accurate chain and storage annotations.
+**Rule**: **[Rule]** When a diagram has both an active and a deprecated package, always verify the package placement of every component against the current agent/skill status — a deprecated agent listed in the active package is more misleading than a missing node, because it actively directs design reviews toward a component that should no longer be used.
+**Source**: uncommitted — documentation
+
+---
+
+## 2026-06-16 — docs/vault-system-diagram.puml (storage node granularity)
+
+**Classification**: improvement
+**What happened**: Diagram refined to split Caligraphy/ into Kanji/ and Primitives/ database nodes, add JPLessons/Reading/ as a separate node, rename VaultRoot to ICSRoot, add lesson-to-web/_conventions and _patterns as reference components, remove .cowork/tmp/ (deprecated-agent artefact), add Planner→Reviewer A2A edge, and standardise note formatting across all agents and skills.
+**Rule**: **[Rule]** When modelling storage access in a documentation diagram, split every directory that has meaningfully different read/write access patterns into separate database nodes — a single coarse node for a directory with distinct sub-directories hides which skill or agent touches which subtree, making access-rule audits unreliable.
+**Source**: uncommitted — documentation
+
+---

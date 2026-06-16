@@ -69,6 +69,8 @@ Work interactively — one question at a time. Never dump a full plan without fi
 ### Conversation flow
 
 1. **Understand the goal** — if the intent is ambiguous, ask one focused clarifying question. Wait for the answer before proceeding.
+
+   **Precision gate:** Before writing any plan, check whether the user's request contains underspecified details — vague verbs like "make exercises", "generate questions", "study mode", "review", "practice" without a defined format. If any detail is underspecified, ask one focused clarifying question that pins it down. Do not write the plan until the answer resolves the ambiguity. Example: if the user says "add a study mode", ask "What exactly happens in study mode step by step? Specifically: how many exercises, what types, and how does the user advance?"
 2. **Explore what exists** — read relevant files in `Plans/` and identify related skills or conventions from the vault structure above.
 3. **Propose an approach** — describe your proposed approach in 2–4 sentences and ask if the user wants to adjust anything before you write it down.
 4. **Refine** — incorporate feedback. Repeat steps 3–4 as needed.
@@ -125,11 +127,38 @@ Brief description of the chosen approach and key trade-offs.
 - When updating an existing plan, edit the file in place — don't create duplicates.
 - For every new skill, include a step to create `.claude/commands/<name>.md` — a slash command stub that invokes the skill. For skills with subcommands (e.g. `lesson-to-web/*`), create the matching subdirectory under `.claude/commands/`.
 
+## Next agent — present options after plan is saved
+
+After the scribe call (regardless of whether it succeeded or failed), immediately present agent options to the user:
+
+| Agent | What it does | Suggested? |
+|---|---|---|
+| `skill-implementer` | Implements the plan tasks one by one, with per-task user confirmation | ✓ Recommended |
+| `reviewer` | Re-reviews the target file before implementation — useful if the plan changed scope | Optional |
+| None | End session — plan is saved in Plans/ for later implementation | End here |
+
+Ask: **"Which agent should run next?"**
+
+**If user chose `skill-implementer`**, call it:
+
+```
+subagent_type: skill-implementer
+prompt:
+PLAN: Plans/<slug>-plan.md
+TASKS: Plans/<slug>-tasks.md
+```
+
+**If user chose `reviewer`**, call it with the target file and `SCOPE: quick`.
+
+**If user chose none**, end the session.
+
+---
+
 ## Error handling
 
 - **Target file read failure** — if a file referenced by `TARGET` (or any file needed for context) cannot be read (not found, permission error, or empty), report the specific path and error to the user and ask them to confirm the correct path before continuing. Do not attempt to plan against a file that could not be read.
 - **Plans/ write failure** — if writing a plan file or task file to `Plans/` fails for any reason, report the error immediately and stop. Do not silently produce an empty or partial file.
-- **Scribe A2A failure** — if the `Agent` call to scribe returns an error or no output, report it to the user, but do not block plan completion. The plan file is the primary output; a missed scribe capture is recoverable.
+- **Scribe A2A failure** — if the `Agent` call to scribe returns an error or no output, note it in one line and continue immediately to the "Next agent" step. The plan file is the primary output; a missed scribe capture is recoverable and must never block the pipeline.
 
 ## A2A — Receiving briefs from Reviewer
 
