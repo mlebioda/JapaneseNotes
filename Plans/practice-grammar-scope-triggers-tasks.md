@@ -5,7 +5,7 @@
 
 ---
 
-- [ ] **Task 1 — Extend `## Trigger` block with scope trigger phrases**
+- [x] **Task 1 — Extend `## Trigger` block with scope trigger phrases**
 
   Append to the existing `## Trigger` bullet list in `.cowork/skills/practice-grammar.md`:
 
@@ -20,7 +20,7 @@
   lesson reference are found, fall through to existing ambiguity handling.
   ```
 
-- [ ] **Task 2 — Insert `## Scope resolution` section before `## Workflow`**
+- [x] **Task 2 — Insert `## Scope resolution` section before `## Workflow`**
 
   Insert a new top-level section `## Scope resolution` immediately before the existing
   `## Workflow` section. It must contain the following subsections:
@@ -103,7 +103,7 @@
   warned-and-skipped entries do NOT reduce N; they are reported as warnings only.
   ```
 
-- [ ] **Task 3 — Add scope session header and footer formats to `## Interaction flow`**
+- [x] **Task 3 — Add scope session header and footer formats to `## Interaction flow`**
 
   In the `## Interaction flow` section, under the existing session-header layout block,
   add a note:
@@ -126,7 +126,7 @@
   K lessons = count of distinct lesson files successfully loaded for this session.
   ```
 
-- [ ] **Task 4 — Flag `instructions.md` trigger list update (do NOT modify the file)**
+- [x] **Task 4 — Flag `instructions.md` trigger list update (do NOT modify the file)**
 
   Do not modify `.cowork/instructions.md`. After implementation is confirmed working,
   the user must explicitly approve adding these trigger phrases to the `practice-grammar`
@@ -137,7 +137,7 @@
   Note this as a pending follow-up that requires user permission before touching
   `.cowork/instructions.md`.
 
-- [ ] **Task 5 — Self-review: verify filter boundary invariant**
+- [x] **Task 5 — Self-review: verify filter boundary invariant**
 
   After editing the skill file, re-read the new `## Scope resolution` section and
   confirm:

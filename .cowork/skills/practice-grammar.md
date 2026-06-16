@@ -4,7 +4,8 @@ description: >
   Interactive grammar practice session driven by a single lesson file. Extracts
   grammar points from the 文法 section, generates exercises using vocabulary from
   the Summary section (plus N5-level fillers), grades answers, and writes results
-  to the spaced-repetition state file so they can be prioritized by repeat-grammar.
+
+to the spaced-repetition state file so they can be prioritized by practice-grammar.
   Trigger: user says "let's practice <filename>", "practice <lesson>",
   "exercise <lesson>", or similar.
 ---
@@ -41,7 +42,7 @@ This section runs when scope = TODAY or scope = OVERDUE. It produces `selected_e
 2. Filter entries: keep only those where `next_review` is a valid ISO date (YYYY-MM-DD) AND `next_review == today` (exact string equality). Entries where `next_review < today` are NOT included. Entries where `next_review > today` are NOT included.
 3. Apply edge-case skips (see **Edge cases** below).
 4. If 0 entries remain: print `Nothing is scheduled for today.` and stop.
-5. Print `N grammar points scheduled for today.` and proceed to session.
+5. Print `count grammar points scheduled for today.` and proceed to session.
 
 ### OVERDUE flow
 
@@ -50,12 +51,12 @@ This section runs when scope = TODAY or scope = OVERDUE. It produces `selected_e
 3. Apply edge-case skips (see **Edge cases** below).
 4. If 0 entries remain: print `No overdue grammar points — you're up to date.` and stop.
 5. Sort remaining entries by `next_review` ascending (oldest next_review first = most overdue first).
-6. Print `N grammar points are overdue. How many do you want to practice? (most overdue first, or 'all')` and wait for user reply.
+6. Print `count grammar points are overdue. How many do you want to practice? (most overdue first, or 'all')` and wait for user reply.
 7. Parse user reply X — evaluated in this exact order:
-   - X is `"all"` → use all N entries (no extra message).
-   - X is a positive integer > N → use all N entries, print `Only N overdue points found — using all N.`
-   - X is a positive integer == N → use all N entries (no extra message).
-   - X is a positive integer < N → use the first X entries (already sorted oldest first).
+   - X is `"all"` → use all count entries (no extra message).
+   - X is a positive integer > count → use all count entries, print `Only count overdue points found — using all.`
+   - X is a positive integer == count → use all count entries (no extra message).
+   - X is a positive integer < count → use the first X entries (already sorted oldest first).
    - X is invalid (non-integer, negative, zero) → ask once more with identical prompt. If still invalid: print `Invalid selection — session cancelled.` and stop.
 8. Print `Starting session with X grammar points.` and proceed to session.
 
@@ -102,9 +103,23 @@ The following cause an entry to be skipped **with a warning line**:
 3. **Parse grammar topics** — from `# 文法` AND `# Vocabulary` sections (see **Parsing**)
 4. **Parse vocab pool** — from `#w`, `#wc`, `#wp` lines in `# ごい` AND `# ひょうげん` (see **Parsing**)
 5. **Load `.cowork/progress/grammar-state.json`** — if the file does not exist yet, treat state as empty. Pick up any prior `weak_points` for these grammar points so exercises can stress them.
-6. **Generate the exercise set** — one exercise per use case per grammar point (see **Exercise generation** and **Parsing — Use case extraction**). If a grammar point has recorded weak_points, bias the exercise(s) for matching use cases toward the weak aspect. Session total = sum of all use cases across all grammar points.
-7. **Run the session interactively** — present exercises one at a time. After each answer, grade it (see **Grading**), give brief feedback, ask the user to self-score 1–4 (fail / hard / good / easy). Accept the score, move to the next exercise.
-8. **After the last exercise** — write a summary of what went well and what needs more practice.
+6. **Batch-split (scope sessions only — skip for lesson sessions)**
+    After assembling `selected_entries`:
+    - Ask: "X topics selected. How many batches would you like to split these into?" Wait for a positive integer `num_batches`.
+    - If `num_batches` == 1 or the user says "none" / "no split": set `num_batches = 1` (no batch headers, no between-batch prompts).
+    - If `num_batches` > total topics: inform the user "Only X topics available — running as a single batch." and set `num_batches = 1`.
+    - If `num_batches` > 1: divide `selected_entries` evenly into `num_batches` ordered batches. First batch = entries 1 through ⌈total/num_batches⌉; last batch may be smaller. Do not reorder entries.
+    - If the user gives an invalid answer (non-integer, negative, zero): ask once more with the same prompt. If still invalid: set `num_batches = 1`.
+    - For lesson-triggered sessions: skip this step. Set `num_batches = 1`.
+7. **Run the session — batch loop**
+    For each batch B (1 to `num_batches`):
+    a. **Generate exercises for this batch's topics only** (see **Exercise generation** and **Parsing — Use case extraction**). Apply weak_point bias per topic. `N` = total exercises across the full session (sum across all batches, fixed after the first batch).
+    b. If `num_batches` > 1: print `Batch B / num_batches` before presenting exercises.
+    c. Present exercises for this batch (see **Interaction flow**). Collect user answers and self-scores.
+    d. Record self-scores and weak_points for this batch in memory. Do NOT write grammar-state.json yet.
+    e. If B < `num_batches`: print `Batch B / num_batches complete.` then ask `Ready for the next batch? (yes / stop)`. Wait for the user. If "stop": write grammar-state.json with all self-scores collected so far, write the .ics file, print the session summary for drilled topics only, and end the session. If "yes" or any affirmative: continue to next batch. If user asks a question, answer it and then ask again before proceeding.
+    f. Never skip a batch automatically — always wait for user confirmation before advancing.
+8. **After the last batch** — write the session summary (see **Session summary**).
 9. **Persist results** — update `grammar-state.json` (see **Persistence**).
 10. **Write calendar file** — after writing `grammar-state.json`, write a new timestamped `japanese-grammar-review-<timestamp>.ics` file at the vault root (see **Calendar sync**).
 
@@ -347,6 +362,8 @@ Weak-point strings should be short and categorical: `particle に placement`, `�
 
 ## Session summary
 
+**Batch sessions:** print the session summary once — after the last batch completes, or when the user types "stop". The summary covers only the grammar points that were actually drilled. Do not print a summary after each individual batch.
+
 After the last exercise, show a compact summary. Summarize at the **grammar point level** — SM-2 tracks per grammar point, not per exercise. If a grammar point had multiple exercises (multiple use cases), show the individual scores and the worst-case outcome determines the "Solid" vs "Needs practice" classification.
 
 ```
@@ -373,6 +390,8 @@ Rules:
 ---
 
 ## Persistence
+
+**Batch sessions:** accumulate all self-scores and weak_points across batches in memory during the session. Write grammar-state.json once — after the last batch completes, or immediately when the user types "stop". Only grammar points with collected self-scores are written; topics in batches never started are not written.
 
 One write at the end of the session: update `.cowork/progress/grammar-state.json`.
 
@@ -422,6 +441,8 @@ No transcript file is written — the state JSON is the only output of a session
 ---
 
 ## Calendar sync
+
+**Batch sessions:** write the .ics file once, immediately after grammar-state.json is written — whether the session completed normally or the user typed "stop". Only grammar points with collected self-scores are included.
 
 After every session, write a new timestamped file `japanese-grammar-review-<YYYYMMDDTHHMMSS>.ics` at the vault root. Each session file is self-contained — only the grammar points practiced this session are included. The user imports the new file after each session; old files are left untouched and do not need to be deleted. This is the only file Claude writes outside `.cowork/progress/`.
 
