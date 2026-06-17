@@ -268,6 +268,15 @@
 
 ---
 
+## 2026-06-16 — Plans/practice-grammar-study-mode-v2-plan.md
+
+**Classification**: new-feature
+**What happened**: Plan created to replace the passive "Ready for next batch?" between-batch prompt with a named-choice menu (Next batch / Study mode / Save & finish) and to add a Study Mode interlude offering topic selection, contextual explanation referencing the user's own answers, a 6-exercise mixed-type practice batch, and a follow-up question loop.
+**Rule**: **[Rule]** When a drill skill presents a between-round prompt, replace open-ended "ready?" confirmations with a named-choice menu that surfaces every available mode (drill, study, finish) — named choices make the study path discoverable and prevent users from continuing blindly when they need to review.
+**Source**: uncommitted — planner
+
+---
+
 ## 2026-06-16 — Plans/practice-grammar-scope-triggers-plan.md
 
 **Classification**: new-feature

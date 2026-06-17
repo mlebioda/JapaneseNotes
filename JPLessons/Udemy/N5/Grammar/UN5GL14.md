@@ -208,7 +208,7 @@ Structure
 #w 売らないでください（う）- please don't buy it
 #w 忘れないでください（わす) - please don't forget
 
-#w 消さないでください（け）- please don't turn on
+#w 消さないでください（け）- please don't turn off
 
 #w 病院（びょういん）で 携帯電話（けいたいでんわ）を 使（つか）わないでください。 - Proszę nie używać telefonu komórkowego w szpitalu。
 #w これから テストを 始（はじ）めますので、本（ほん）は 見（み）ないでください。 - Zaraz zaczniemy test, więc proszę nie patrzeć do książki。
@@ -1158,7 +1158,7 @@ please don't forget  #card
 <!--ID: 1775021395477-->
 
 
-please don't turn on  #card
+please don't turn off  #card
 ほんやく: 消さないでください（け）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 <!--ID: 1775021395478-->
@@ -2141,7 +2141,7 @@ show a photo please  #card
 <!--ID: 1775021395613-->
 
 
-伝える（つたえる）  #card
+to pass, to inform #card
 ほんやく: 伝える（つたえる）
 て形: 伝えて
 た形: 伝えた

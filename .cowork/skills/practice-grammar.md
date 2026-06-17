@@ -117,7 +117,24 @@ The following cause an entry to be skipped **with a warning line**:
     b. If `num_batches` > 1: print `Batch B / num_batches` before presenting exercises.
     c. Present exercises for this batch (see **Interaction flow**). Collect user answers and self-scores.
     d. Record self-scores and weak_points for this batch in memory. Do NOT write grammar-state.json yet.
-    e. If B < `num_batches`: print `Batch B / num_batches complete.` then ask `Ready for the next batch? (yes / stop)`. Wait for the user. If "stop": write grammar-state.json with all self-scores collected so far, write the .ics file, print the session summary for drilled topics only, and end the session. If "yes" or any affirmative: continue to next batch. If user asks a question, answer it and then ask again before proceeding.
+    e. After self-evaluation scores are collected for batch B:
+       - If B < `num_batches` (non-last batch): print `Batch B / num_batches complete.` then ask:
+         ```
+         Next batch / Study mode
+         ```
+         - "Next batch" (or equivalent affirmative) → continue to batch B+1.
+         - "Study mode" → enter Study Mode for the topics in batch B (see **Study Mode** section). After Study Mode exits, ask again: `Next batch / Finish` (same rules as Step 3 of Study Mode).
+         - If the user asks an off-topic question, answer it and re-present the same prompt.
+         - The prompt must always appear — never auto-advance to the next batch.
+       - If B == `num_batches` (last batch): ask:
+         ```
+         Study mode / Save & finish
+         ```
+         - "Study mode" → enter Study Mode for the topics in the last batch. After Study Mode exits, proceed to post-session (write state + calendar).
+         - "Save & finish" (or equivalent) → proceed to post-session.
+         - If the user asks an off-topic question, answer it and re-present the same prompt.
+         - The prompt must always appear — never auto-finish without user confirmation.
+       - **Early exit:** if the user types "stop" or "end" as a standalone message at any point mid-session, write grammar-state.json and .ics for all scores collected so far, print the partial session summary, and end immediately. "stop" is no longer offered as a named option in the between-batch prompt.
     f. Never skip a batch automatically — always wait for user confirmation before advancing.
 8. **After the last batch** — write the session summary (see **Session summary**).
 9. **Persist results** — update `grammar-state.json` (see **Persistence**).
@@ -222,7 +239,7 @@ Pick the exercise type that best tests the specific use case:
 
 There are two modes — **batch** (default) and **interactive**. Pick batch unless the user explicitly asks for one-at-a-time.
 
-**Progress indicator — required.** Every exercise prompt MUST start with `Exercise <current> / <total>` so the user always knows where they are in the session. `<current>` is 1-based (first exercise is `1 / N`, last is `N / N`). The total is fixed at the start of the session and does not change mid-session. The exercise title shows only the number — never the grammar point name.
+**Progress indicator — required.** Every exercise prompt MUST start with `Exercise <current> / <total>` so the user always knows where they are in the session. `<current>` is 1-based (first exercise is `1 / N`, last is `N / N`). The total is fixed at the start of the session and does not change mid-session. The exercise title shows only the number — never the grammar point name. Study Mode exercises use a local `study_counter` and are excluded from the session-wide progress indicator.
 
 ### Batch mode (default — works on flaky connections)
 
@@ -338,6 +355,144 @@ Record for each exercise: grammar_id, score (1–4), weak_points (array of short
 
 ---
 
+## Study Mode
+
+### Trigger
+
+Study Mode is entered only when the user selects "Study mode" from the between-batch prompt (see Workflow step 7e above). It cannot be entered from any other point in the session.
+
+---
+
+### Step 1 — Topic selection
+
+Present the list of grammar points from the just-completed batch (numbered). Ask:
+
+```
+Which topics from this batch do you want to review?
+  1. <grammar_header_1>
+  2. <grammar_header_2>
+  ...
+
+Reply with number(s), topic name(s), or "none" to skip.
+```
+
+- The user may name any subset (e.g. "1 3", "Counter 本", "all").
+- "None" or empty reply → treat as skipping the topic loop entirely and jump directly to Step 3. Step 3 already handles both cases (non-last batch: ask "Next batch / Finish"; last batch: proceed to post-session). Do not re-present the between-batch prompt.
+- If the user names a topic not in the current batch list, reply: "That topic is not in this batch. Please choose from the numbered list." and re-present the prompt once. If still not recognized: skip silently.
+
+Selected topics are processed in the order the user listed them (or in batch order if "all").
+
+---
+
+### Step 2 — For each selected topic
+
+Process each topic in sequence. For each topic:
+
+#### 2a. Explanation
+
+Produce a detailed explanation of the grammar point using the following sources (in priority order):
+
+1. Body text from the lesson file for this grammar point (structure blocks, examples, use cases) — always the primary source.
+2. Claude's built-in Japanese grammar knowledge.
+3. Web search (WebSearch / WebFetch) — only if the lesson body is thin (no structure block or fewer than 2 examples), or if the user explicitly requests "search for examples" or "find more online". If web tools fail or are unavailable, proceed with sources 1 and 2 without blocking.
+
+**Crucially:** reference the user's actual answer from this batch when explaining. If the user answered correctly, call that out and note why it worked. If the user answered incorrectly or scored 1–2, quote their answer, show the correct form, and explain the specific error.
+
+**Answer retrieval fallback:** If the user's answer for this grammar point cannot be retrieved from the session (e.g. the batch was stopped before this point was reached), fall back to: "Your answer was not recorded — here is the general explanation." Do not block or error.
+
+Format:
+
+```
+## <grammar_header>
+
+### Structure
+...
+
+### Meaning
+...
+
+### Examples
+...
+
+### Your answer this session
+You wrote: <user's answer (plain Japanese, no furigana)>
+<"Correct — because ..." or "Incorrect — <specific error explanation>">
+
+### Common mistakes
+<from weak_points if any, otherwise from known learner errors>
+```
+
+All kanji in the explanation must carry furigana (same furigana rule as exercise generation).
+
+#### 2b. Choice prompt
+
+After presenting the explanation, ask:
+
+```
+Practice / Next topic / Questions
+```
+
+#### 2c. Branch
+
+- **"Questions"** → the user asks a follow-up question about this topic. Answer it using lesson content + Claude's knowledge. Use web search only if the lesson content and Claude's knowledge are insufficient to answer the question fully (same threshold as the explanation step). After answering, re-present: `Practice / Next topic / Questions` (or `Practice / Continue / Questions` if this is the last selected topic — "Continue" exits Study Mode).
+- **"Next topic"** / **"Continue"** → if there is a next selected topic, move to it (skip to 2a); if this is the last selected topic, exit Study Mode and proceed to Step 3.
+- **"Practice"** → go to Step 2d.
+
+#### 2d. Study Mode practice
+
+Attempt one exercise per exercise type (Types 1–6 as defined in `## Exercise generation`). Each exercise targets this single grammar point. Apply all existing exercise generation rules (furigana rule, vocabulary rule, gate checks, confusability prerequisites, non-trivial exercise checklist). If a type cannot be validly constructed (fails its gate or a prerequisite such as Type 2 confusability), skip that type. Require at least 4 valid exercises; if fewer than 4 are valid, proceed with however many are valid — do not pad. Report any skipped types to the user after grading feedback.
+
+**Session counter:** Study Mode uses its own local counter `study_counter` (resets to 1 at the start of each topic's practice block). The session-wide exercise counter is frozen on Study Mode entry and restored on exit. Study Mode prompts show `Exercise study_counter / total_study` where `total_study` is the number of valid exercises generated for this topic.
+
+Present all valid exercises at once (batch layout, same as normal batch mode):
+
+```
+Study Mode — <grammar_header> (total_study exercises). Reply with all answers in one message.
+
+Exercise 1 / total_study
+...
+
+Exercise 2 / total_study
+...
+
+...
+
+Exercise total_study / total_study
+...
+```
+
+User replies once with all answers. Grade all in one follow-up message (same grading display rules as batch mode: ✓/✗ lines, You/OK/error, plain Japanese, no furigana in diffs).
+
+Do NOT ask for self-evaluation scores. Do NOT write any Study Mode results to grammar-state.json.
+
+After grading, ask:
+
+- If there are more selected topics remaining: `Next topic / Questions`
+- If this is the last selected topic: `Continue / Questions`
+
+Where "Continue" exits Study Mode and proceeds to Step 3.
+
+- **"Questions"** → user asks a follow-up question. Answer it. Re-present the same prompt (`Next topic / Questions` or `Continue / Questions` — same context rule applies).
+- **"Next topic"** → move to next selected topic (back to 2a).
+- **"Continue"** → exit Study Mode and proceed to Step 3.
+
+There is no self-evaluation step, no "Needs practice / Solid" summary for Study Mode exercises.
+
+---
+
+### Step 3 — After all selected topics are done
+
+When all selected topics have been processed (or the user chose "none"):
+
+- If not the last batch: ask `Next batch / Finish`
+  - "Next batch" → continue to batch B+1.
+  - "Finish" → proceed to post-session (write state + calendar) with all scores collected so far.
+- If the last batch: proceed directly to post-session (write state + calendar).
+
+The "Finish" option in Step 3 is a full early exit — write grammar-state.json and .ics for all scores collected so far, print the session summary, and end.
+
+---
+
 ## Grading
 
 Compare user's answer to the expected answer with tolerance:
@@ -391,7 +546,7 @@ Rules:
 
 ## Persistence
 
-**Batch sessions:** accumulate all self-scores and weak_points across batches in memory during the session. Write grammar-state.json once — after the last batch completes, or immediately when the user types "stop". Only grammar points with collected self-scores are written; topics in batches never started are not written.
+**Batch sessions:** accumulate all self-scores and weak_points across batches in memory during the session. Write grammar-state.json once — after the last batch completes, or immediately when the user types "stop". Only grammar points with collected self-scores are written; topics in batches never started are not written. Study Mode exercises are excluded from grammar-state.json — only self-evaluation scores from the main session exercises are written.
 
 One write at the end of the session: update `.cowork/progress/grammar-state.json`.
 

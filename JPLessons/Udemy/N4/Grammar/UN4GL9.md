@@ -5,7 +5,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL
 #wc 憧（あこが）れる - to long for / to admire / to yearn for (intransitive)
 #w 角（かど）- corner (of a street or building)
 #wc 替（か）える - to replace / to swap (transitive)
-
+#w 自身（じしん）- oneself / themselves
 #w 入学許可（にゅうがくきょか）- admission / letter of acceptance
 #w 新入生（しんにゅうせい）- new student / freshman 
 #w オリエンテーション - orientation
@@ -80,6 +80,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL
 #w 先生(せんせい)がプリントを配(くば)った。 - The teacher distributed the handouts.
 
 #w スーツ - suit
+#w 返事(へんじ)(する) - reply / response / to reply + verb
 
 ---
 
@@ -209,7 +210,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL
 
 #wp 若い(わか) - young
 
-
+#wc 役(やく)に立(た)つ - to be useful / to be of use (intransitive)
 # ひょうげん
 #w これで - now / here / well (transition phrase)　
 #w これで会議(かいぎ)は終(お)わります。 - Now, the meeting is over.
@@ -223,24 +224,24 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL
 #w さあ、わたしもよくわかりません。 - Well, I am not really sure either.
 #w A: 山田（やまだ）さんを知（し）っている B:  さあ - A: Do you know Yamada? No, I don't (interjection)
 
+遠慮(えんりょ)しなくても「いいですよ・かまいません」。  Please help yourself. (polite and less polite)
+
 # 文法
 
 ## 。。。はずです - should do/ought (logically)
 
 >Feeling of assurance as a result of some reasonable assumption - He is an English teacher so he should speak english
 
-
-
-|Pattern|Form|Meaning|Strength|Source|
-|---|---|---|---|---|
-|なければなりません|Vない + なければなりません|Must / have to (formal, rule-like)|★★★ strongest|UN5GL10 _(unprocessed)_|
-|なくてはいけません|Vない + くてはいけません|Must / have to (casual, personal reason)|★★★|UN4GL3 _(processed)_|
-|てはいけません|Vて + はいけません|Must not / forbidden|★★★ (prohibition)|UN4GL3 _(processed)_|
-|**はずです**|V dict/た + はずです|Should logically be / expect to (reasoned)|★★ expectation|UN4GL9 _(unprocessed)_|
-|ほうがいいです|Vた/Vない + ほうがいいです|Had better / you should (advice)|★★ advice|UN4GL4 _(processed)_|
-|必要がある|Vdict + 必要がある|There is a need to|★★★|UN4GL9 _(unprocessed)_|
-|なくてもいいです|Vない + なくてもいいです|Don't have to / no need|✗ negative obligation|UN5GL14 _(unprocessed)_|
-|てもいいです|Vて + もいいです|It's okay to / you may (permission)|✓ permission|UN5GL7 _(processed)_|
+| Pattern                  | Form               | Meaning                                    | Strength                  | Source       |
+| ------------------------ | ------------------ | ------------------------------------------ | ------------------------- | ------------ |
+| なければなりません/なくてはなりません      | Vない + なければなりません    | Must / have to (formal, rule-like)         | ★★★ strongest             | UN5GL10      |
+| なくてはいけません                | Vない + くてはいけません     | Must / have to (casual, personal reason)   | ★★★                       | UN4GL3       |
+| てはいけません                  | Vて + はいけません        | Must not / forbidden                       | ★★★ (prohibition)         | UN4GL3       |
+| はずです                     | V dict/た + はずです    | Should logically be / expect to (reasoned) | ★★ expectation            | UN4GL9       |
+| ほうがいいです                  | Vた/Vない + ほうがいいです   | Had better / you should (advice)           | ★★ advice                 | UN4GL4       |
+| 必要がある                    | Vdict + 必要がある      | There is a need to                         | ★★★                       | UN4GL9       |
+| **なくてもいいです/ なくてもかまいません** | **Vない + なくてもいいです** | **Don't have to / no need**                | **✗ negative obligation** | **UN5GL14 ** |
+| てもいいです                   | Vて + もいいです         | It's okay to / you may (permission)        | ✓ permission              | UN5GL7       |
 ### Structure
 
 Positive:
@@ -270,9 +271,43 @@ Positive:
 
 ---
 
-## 
+## なくてもいいです・なくてもかまいません - doesn't have to
 
+| Pattern                  | Form               | Meaning                                    | Strength                  | Source       |
+| ------------------------ | ------------------ | ------------------------------------------ | ------------------------- | ------------ |
+| なければなりません/なくてはなりません      | Vない + なければなりません    | Must / have to (formal, rule-like)         | ★★★ strongest             | UN5GL10      |
+| なくてはいけません                | Vない + くてはいけません     | Must / have to (casual, personal reason)   | ★★★                       | UN4GL3       |
+| てはいけません                  | Vて + はいけません        | Must not / forbidden                       | ★★★ (prohibition)         | UN4GL3       |
+| はずです                     | V dict/た + はずです    | Should logically be / expect to (reasoned) | ★★ expectation            | UN4GL9       |
+| ほうがいいです                  | Vた/Vない + ほうがいいです   | Had better / you should (advice)           | ★★ advice                 | UN4GL4       |
+| 必要がある                    | Vdict + 必要がある      | There is a need to                         | ★★★                       | UN4GL9       |
+| **なくてもいいです/ なくてもかまいません** | **Vない + なくてもいいです** | **Don't have to / no need**                | **✗ negative obligation** | **UN5GL14 ** |
+| てもいいです                   | Vて + もいいです         | It's okay to / you may (permission)        | ✓ permission              | UN5GL7       |
+|                          |                    |                                            |                           |              |
 
+### Structure
+- V「ない」なくてもいいです　・なくてもいい
+- V「ない」なくてもかまいません　・なくてもかまわない　- politer way of なくてもいい
+
+### Examples
+
+#w お茶(ちゃ)をどうぞ。遠慮(えんりょ)しなくても「いいですよ・かまいません」。 - Here is some tea. Please help yourself. (polite and less polite)
+#w 明日(あした)スーツを着(き)てこなくてもいいですか・かまいませんか」。 - Don't I have to wear (come wearing suit) a suit tomorrow? (polite and less polite)
+#w このメールに返事(へんじ)をしなくてもいい・かまわない」。 - You don't have to reply to this email. (polite and less polite, short)
+
+---
+## なくてはなりません・なければなりません - must, have to
+
+### Structure
+Both same meaning
+- V「ない」なくてはなりません
+- V「ない」なければなりません
+
+### Examples
+
+#w 明日(あした)台風(たいふう)が来(く)るので、イベントは中止(ちゅうし)しなくてはなりません。 - Because a typhoon will come tomorrow, the event has to be cancelled.
+#w 結婚式(けっこんしき)までに指輪(ゆびわ)を用意(ようい)しなくてはなりません。 - I must prepare the ring before the wedding ceremony.
+#w 目(め)が悪(わる)いから、毎日(まいにち)めがねをかけなくてはならない。 - Since I have poor eyesight, I have to wear glasses every day.
 
 ---
 
@@ -309,22 +344,42 @@ Positive:
 
 #w **このとおりに**、やってください。 - Please do it exactly **like this**.
 
+## のに。。。- for, to (to indicate the application of purpose)
+
+> Purpose of use
+### Structure
+- V「dict」 + のに。。。 - (V + の - nominalization)
+- N + のに。。。
+
+Often used with:
+- 使う（つか）、
+- 役に立つ（やくにたつ）、
+- 便利（べんり）、
+- いい、
+- 悪い（わる）
+
+### Examples
+
+#w スマートフォンは道(みち)を調(しら)べるのにとても便利(べんり)です。 - Smart phones are very convenient for searching roads.
+#w お酒(さけ)を飲(の)みすぎると、体(からだ)によくないです。 - If you drink too much alcohol, it is not good for your health.
+#w この写真(しゃしん)はレポートを作(つく)るのに使(つか)いたいです。 - I want to use this picture for (make) my report.
+
 
 ---
 # Vocabulary
 
 ## 必要(ひつよう) - essential / necessary
 
-| Pattern   | Form             | Meaning                                    | Strength              | Source                  |
-| --------- | ---------------- | ------------------------------------------ | --------------------- | ----------------------- |
-| なければなりません | Vない + なければなりません  | Must / have to (formal, rule-like)         | ★★★ strongest         | UN5GL10 _(unprocessed)_ |
-| なくてはいけません | Vない + くてはいけません   | Must / have to (casual, personal reason)   | ★★★                   | UN4GL3 _(processed)_    |
-| てはいけません   | Vて + はいけません      | Must not / forbidden                       | ★★★ (prohibition)     | UN4GL3 _(processed)_    |
-| **はずです**  | V dict/た + はずです  | Should logically be / expect to (reasoned) | ★★ expectation        | UN4GL9 _(unprocessed)_  |
-| ほうがいいです   | Vた/Vない + ほうがいいです | Had better / you should (advice)           | ★★ advice             | UN4GL4 _(processed)_    |
-| 必要がある     | Vdict + 必要がある    | There is a need to                         | ★★★                   | UN4GL9 _(unprocessed)_  |
-| なくてもいいです  | Vない + なくてもいいです   | Don't have to / no need                    | ✗ negative obligation | UN5GL14 _(unprocessed)_ |
-| てもいいです    | Vて + もいいです       | It's okay to / you may (permission)        | ✓ permission          | UN5GL7 _(processed)_    |
+| Pattern                  | Form               | Meaning                                    | Strength                  | Source       |
+| ------------------------ | ------------------ | ------------------------------------------ | ------------------------- | ------------ |
+| なければなりません/なくてはなりません      | Vない + なければなりません    | Must / have to (formal, rule-like)         | ★★★ strongest             | UN5GL10      |
+| なくてはいけません                | Vない + くてはいけません     | Must / have to (casual, personal reason)   | ★★★                       | UN4GL3       |
+| てはいけません                  | Vて + はいけません        | Must not / forbidden                       | ★★★ (prohibition)         | UN4GL3       |
+| はずです                     | V dict/た + はずです    | Should logically be / expect to (reasoned) | ★★ expectation            | UN4GL9       |
+| ほうがいいです                  | Vた/Vない + ほうがいいです   | Had better / you should (advice)           | ★★ advice                 | UN4GL4       |
+| 必要がある                    | Vdict + 必要がある      | There is a need to                         | ★★★                       | UN4GL9       |
+| **なくてもいいです/ なくてもかまいません** | **Vない + なくてもいいです** | **Don't have to / no need**                | **✗ negative obligation** | **UN5GL14 ** |
+| てもいいです                   | Vて + もいいです         | It's okay to / you may (permission)        | ✓ permission              | UN5GL7       |
 
 ### Use cases
 
