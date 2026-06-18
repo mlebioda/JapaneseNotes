@@ -548,6 +548,20 @@ Rules:
 
 **Batch sessions:** accumulate all self-scores and weak_points across batches in memory during the session. Write grammar-state.json once — after the last batch completes, or immediately when the user types "stop". Only grammar points with collected self-scores are written; topics in batches never started are not written. Study Mode exercises are excluded from grammar-state.json — only self-evaluation scores from the main session exercises are written.
 
+### Load control constants
+
+Constants are defined in `.cowork/progress/load-control-rules.json` (single source of truth). The Python script reads this file at startup. Current defaults:
+
+| Constant | Default | Meaning |
+|---|---|---|
+| DAILY_CAP | 10 | Max topics on any single day |
+| WEAK_CAP | 4 | Max topics with evaluation score 1 or 2 on any single day |
+| BLOCKED_WEEKDAY | 5 (Saturday) | No reviews placed on this weekday (Monday=0) |
+| SEARCH_WINDOW | 30 | Max days to search forward before fallback |
+| holidays_file | .cowork/progress/holidays.json | Path to holiday dates list |
+
+Additionally, dates listed in the holidays file are blocked identically to Saturdays.
+
 One write at the end of the session: update `.cowork/progress/grammar-state.json`.
 
 Read the file (create with `{"grammar_points": {}}` if missing). For each practiced grammar point:
@@ -567,6 +581,47 @@ Read the file (create with `{"grammar_points": {}}` if missing). For each practi
 - Compute `next_review = today + interval_days` (ISO date, YYYY-MM-DD).
 - Set `last_reviewed = today`, `last_score`, `total_reviews += 1`.
 - Merge weak_points: union with existing `weak_points`, deduped, keep most recent 5.
+
+### Load control (TODAY / OVERDUE scope only)
+
+For TODAY/OVERDUE scope sessions only — after computing SM-2 fields for all session topics, use a two-step write. The skill writes SM-2 fields first, then load-control.py places review dates.
+
+**Step A — Write SM-2 fields directly to grammar-state.json:**
+
+Read `grammar-state.json` (create with `{"grammar_points": {}}` if missing). For each practiced grammar point, update its entry with the computed SM-2 fields: `interval_days`, `ease`, `streak`, `total_reviews`, `weak_points`, `last_reviewed`, `last_score`, `score`. Also write identity fields `lesson_file` and `grammar_header`. Do NOT compute or write `next_review` — that is handled by Step B. Write the file (pretty-printed, 2-space indent).
+
+**Step B — Pipe minimal JSON to load-control.py for date placement:**
+
+Build a minimal JSON array with only the fields load-control.py needs — one element per grammar point in the session:
+
+```json
+[
+  {
+    "key": "<grammar_point_id>",
+    "lesson_file": "<lesson_file>",
+    "grammar_header": "<grammar_header>",
+    "interval_days": "<computed_interval>",
+    "score": "<min_score>"
+  }
+]
+```
+
+Always include `lesson_file` and `grammar_header` (identity fields — harmless for existing entries, required safety net for any edge case).
+
+Run:
+
+```bash
+echo '<json_array>' | python3 .cowork/scripts/load-control.py \
+  --state .cowork/progress/grammar-state.json \
+  --rules .cowork/progress/load-control-rules.json \
+  --today <today_ISO>
+```
+
+The script reads the updated state (SM-2 fields from Step A), computes `next_review` via `place_topics()`, and writes only `next_review` (plus identity fields) via `merge_and_write()`. Step A must complete (file written and closed) before Step B runs, since load-control.py reads the state file.
+
+The script prints a placement summary to stdout. Use the summary in the session output.
+
+For lesson-triggered sessions (not TODAY/OVERDUE): write grammar-state.json directly as before, including `next_review = today + interval_days` — load control does not apply.
 
 Example entry shape:
 

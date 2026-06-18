@@ -1,0 +1,7 @@
+{
+  "DAILY_CAP": 10,
+  "WEAK_CAP": 4,
+  "BLOCKED_WEEKDAY": 5,
+  "SEARCH_WINDOW": 30,
+  "holidays_file": ".cowork/progress/holidays.json"
+}

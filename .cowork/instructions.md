@@ -42,7 +42,7 @@ Every lesson file contains:
 - Git is the rollback mechanism — no `.bak` files. Before a destructive edit, ensure pending changes are committed (commit a "WIP" snapshot if needed), then edit; commit the change separately.
 - When user references a lesson by number (e.g. "UNGL15"), find the file automatically
 - Never create files directly in the vault root (`/ObsidianJP/`) unless explicitly asked
-  - Approved exception: `.ics` calendar files written by the practice-grammar skill (`japanese-grammar-review-<timestamp>.ics`). These are intentionally placed at the vault root for easy drag-and-drop calendar import.
+  - Approved exception: `.ics` calendar files written by the practice-grammar skill (`japanese-grammar-review-<timestamp>.ics`) and manage-holidays skill (`japanese-grammar-full-calendar-<timestamp>.ics`). These are intentionally placed at the vault root for easy drag-and-drop calendar import.
 
 ## Image extraction format
 When the user sends an image and asks to "extract", output vocabulary lines in this format:
@@ -79,6 +79,7 @@ Skills are defined in .cowork/skills/ — load the relevant skill before acting.
 - summarize-grammar — add a single lesson's grammar points to the topic-grouped index at `/grammar-index/`. One topic file per topic; entries are wikilinks (no copied text); a point may appear in multiple topics. Trigger: "summarize <lesson>"
 - templates-update — audit and repair already-filled Anki card templates in a lesson's `# Summary` section: normalize field names, fill missing forms, verify conjugation/adjective form correctness, fix kanji links, and reposition `<!--ID:-->` lines. Triggers: "templates-update [file]", "update templates [file]", "repair templates [file]", "fix templates [file]"
 - reading-jlpt — JLPT N4 reading comprehension drill on user-pasted passages. Auto-detects passage type (短文/中文/情報検索), flags above-N4 vocab, generates multiple-choice questions, explains results, suggests vocabulary, writes session file to `JPLessons/Reading/`. Chains to fill-templates. Trigger: "practice reading [passage]", "reading drill", "jlpt reading [passage]"
+- manage-holidays — manage holiday dates for the SRS load control system. Add/remove holidays (treated as blocked days like Saturdays), detect and redistribute colliding reviews, export a full-calendar .ics with all future review events and holidays. Reads/writes `.cowork/progress/holidays.json`. Trigger: "manage holidays", "add holiday <date>", "remove holiday <date>", "show holidays", "export calendar"
 - update-kanji-list — **DEPRECATED**. Use `kanji-file` instead for per-kanji standalone file processing.
 
 **lesson-to-web/** (skills for extracting lesson content into published grammar-index files):

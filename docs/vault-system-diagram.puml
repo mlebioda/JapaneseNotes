@@ -200,12 +200,16 @@ package "Skills (top-level)" {
   note right of PracticeGrammar
     trigger: "let's practice <lesson>", "practice <lesson>",
              "exercise <lesson>", "drill grammar in <lesson>"
+    scope triggers: "practice today's topics", "practice overdue topics"
     reads: JPLessons/<lesson> (before # Summary only via awk),
-           .cowork/progress/grammar-state.json
+           .cowork/progress/grammar-state.json,
+           .cowork/progress/load-control-rules.json
     writes: .cowork/progress/grammar-state.json (end of session),
             japanese-grammar-review-<timestamp>.ics (vault root)
-    SM-2 lite; exercise types: Type 1–6
+    SM-2 lite; exercise types: Type 1–6; batch splitting
     furigana mandatory on all exercise output
+    scripts: .cowork/scripts/load-control.py
+             (TODAY/OVERDUE scope sessions — date placement)
     runs python inline for calendar generation
     never writes lesson files
   end note
@@ -286,6 +290,24 @@ package "Skills (top-level)" {
     never commits .obsidian/, .DS_Store, .md.bak files
   end note
 
+  component [manage-holidays] as ManageHolidays <<skill>>
+  note right of ManageHolidays
+    trigger: "manage holidays", "add holiday <date(s)>",
+             "remove holiday <date(s)>", "show holidays",
+             "export calendar" / "full calendar export"
+    reads: .cowork/progress/holidays.json,
+           .cowork/progress/grammar-state.json,
+           .cowork/progress/load-control-rules.json
+    writes: .cowork/progress/holidays.json,
+            japanese-grammar-full-calendar-<timestamp>.ics (vault root)
+    scripts: .cowork/scripts/load-control.py
+             (redistribution of colliding reviews)
+    runs python inline for full .ics export (Step 4)
+    collision detection: finds reviews on new holiday dates
+    verification: checks no topics remain on holidays after redistribution
+    never writes lesson files
+  end note
+
 }
 
 ' ─── Skills (lesson-to-web) ───
@@ -307,6 +329,7 @@ package "Skills (lesson-to-web)" {
            grammar-index/*.md (existing taxonomy),
            _conventions.md
     writes: grammar-index/grammar/<slug>.md (new grammar files),
+            grammar-index/grammar/vocabulary/<subdir>/<slug>.md,
             grammar-index/ topic files (step 9),
             grammar-index/index.md (if new topic file),
             JPLessons/<lesson> (wikilink insertion only — Step 8)
@@ -482,6 +505,8 @@ TemplatesUpdate ..> Lessons : reads
 PracticeGrammar ..> Lessons : reads
 PracticeGrammar ..> ProgressDir : reads
 
+ManageHolidays ..> ProgressDir : reads
+
 ReadingJLPT ..> ReadingDir : reads (existence check)
 
 KanjiHeaders ..> Lessons : reads
@@ -515,6 +540,9 @@ TemplatesUpdate --> Lessons : writes (# Summary section)
 
 PracticeGrammar --> ProgressDir : writes (grammar-state.json)
 PracticeGrammar --> ICSRoot : writes (*.ics calendar file)
+
+ManageHolidays --> ProgressDir : writes (holidays.json)
+ManageHolidays --> ICSRoot : writes (full-calendar *.ics)
 
 ReadingJLPT --> ReadingDir : writes (session file)
 
