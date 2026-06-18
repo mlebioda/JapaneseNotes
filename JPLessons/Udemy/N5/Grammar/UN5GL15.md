@@ -228,9 +228,9 @@ Structure
 
 Structure:
 - V dict + とき。。。B - DO SOMETHIG AFTER SOMETHING
-	- アメリカへ行ったとき、ハンバーガー食べました - I ate hamburgers after I went to America
+	- アメリカへ行ったとき、ハンバーガー食べました - I ate hamburgers after(when) I went to America
 
-#w アメリカへ行ったとき、ハンバーガーを食べました - I ate hamburgers after I went to America
+#w アメリカへ行ったとき、ハンバーガーを食べました - I ate hamburgers after(when) I went to America
 
 ### Comparison
 
@@ -1390,7 +1390,7 @@ I often went to a park to see flowers when I was a student. #k #card
 
 
 
-I ate hamburgers after I went to America #k #card
+I ate hamburgers after(when) I went to America #k #card
 アメリカへ行ったとき、ハンバーガーを食べました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
