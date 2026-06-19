@@ -9,5 +9,8 @@ JPLessons/.obsidian/plugins — kopia/
 .obsidian/workspace-mobile.json
 .trash/
 
+# Python bytecode cache
+__pycache__/
+
 # macOS
 .DS_Store

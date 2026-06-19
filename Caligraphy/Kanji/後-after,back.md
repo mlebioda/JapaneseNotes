@@ -7,6 +7,10 @@
 
 
 ### Parts
+[[彳-walking]]
+[[糸-thread]]
+[[夂-legs]]
 
 ### Mnemonic
-
+Left: walking 彳, right: a variation of thread 糸, crossed legs 夂 (= here together as: thread around the legs = tied legs)
+He walks with handicap of tied legs and thus is: delayed.

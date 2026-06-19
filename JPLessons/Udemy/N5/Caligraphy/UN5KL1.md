@@ -113,7 +113,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 
 ()
 
-## 八 - 8・やっつ・チャチ
+## 八 - 8・やっつ・ハチ
 [[八-8]]
 
 ()
@@ -127,7 +127,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 
 ()
 
-## 十 - 10・とお・じゅう
+## 十 - 10・とお・ジュウ
 [[十-ten,10]]
 
 ()

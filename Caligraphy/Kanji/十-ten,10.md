@@ -14,4 +14,6 @@
 ### Parts
 
 ### Mnemonic
+十 itself is a radical meaning ten.
+Two crossed arms (with five fingers each) make: ten.
 

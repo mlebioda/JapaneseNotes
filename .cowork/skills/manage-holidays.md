@@ -156,120 +156,33 @@ Generate a single `.ics` file containing ALL future scheduled review events from
 3. **Group by date** -- group remaining entries by `next_review` date.
 
 4. **Generate review VEVENTs** -- one VEVENT per date:
-   - `SUMMARY: Japanese Grammar Review -- N point(s)`
+   - `SUMMARY: Japanese Grammar Review — N point(s)`
    - `DESCRIPTION:` newline-separated list of `grammar_header` values for that date (joined with `\\n` in the ICS DESCRIPTION field).
    - `DTSTART;VALUE=DATE:YYYYMMDD` / `DTEND;VALUE=DATE:YYYYMMDD+1` (all-day events, no time zone).
    - `UID: <YYYYMMDD>-full-export-<8-char-uuid>@japanese-notes`
 
 5. **Generate holiday VEVENTs** -- read `.cowork/progress/holidays.json`. For each holiday date >= today:
-   - `SUMMARY: Holiday -- No Review`
-   - `DESCRIPTION: Holiday -- no grammar reviews scheduled.`
+   - `SUMMARY: Holiday — No Review`
+   - `DESCRIPTION: Holiday — no grammar reviews scheduled.`
    - `DTSTART;VALUE=DATE:YYYYMMDD` / `DTEND;VALUE=DATE:YYYYMMDD+1` (all-day event).
    - `UID: <YYYYMMDD>-holiday-<8-char-uuid>@japanese-notes`
 
 6. **Write .ics file** -- write to vault root: `japanese-grammar-full-calendar-<YYYYMMDDTHHMMSS>.ics`
 
-   Use the following Python code (same `fold()` function as the practice-grammar calendar sync):
+   Run the following shell command (`VAULT_ROOT`, `SESSION_TS`, and `TODAY_ISO` are substituted by Claude at runtime). Use `datetime.now().strftime("%Y%m%dT%H%M%S")` for `SESSION_TS`:
 
-   ```python
-   import json
-   import uuid
-   from datetime import date, timedelta
-   from collections import defaultdict
-
-   VAULT_ROOT = "/Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP"
-   json_path = f"{VAULT_ROOT}/.cowork/progress/grammar-state.json"
-   holidays_path = f"{VAULT_ROOT}/.cowork/progress/holidays.json"
-   session_ts = date.today().strftime("%Y%m%dT%H%M%S")
-   ics_path = f"{VAULT_ROOT}/japanese-grammar-full-calendar-{session_ts}.ics"
-   today_str = date.today().isoformat()
-
-   # Load grammar state
-   try:
-       with open(json_path) as f:
-           gp = json.load(f).get("grammar_points", {})
-   except (FileNotFoundError, json.JSONDecodeError):
-       gp = {}
-
-   # Load holidays
-   try:
-       with open(holidays_path) as f:
-           holidays = sorted(json.load(f))
-   except (FileNotFoundError, json.JSONDecodeError):
-       holidays = []
-
-   # Group future reviews by date
-   by_date = defaultdict(list)
-   for gid, entry in gp.items():
-       nr = entry.get("next_review", "")
-       if nr and nr >= today_str:
-           by_date[nr].append(entry.get("grammar_header", gid))
-
-   def fold(line: str) -> str:
-       """Fold a single ICS content line to max 75 octets per RFC 5545."""
-       encoded = line.encode("utf-8")
-       if len(encoded) <= 75:
-           return line
-       out = []
-       while len(encoded) > 75:
-           chunk = encoded[:75].decode("utf-8", errors="ignore")
-           while len(chunk.encode("utf-8")) > 75:
-               chunk = chunk[:-1]
-           out.append(chunk)
-           encoded = b" " + encoded[len(chunk.encode("utf-8")):]
-       out.append(encoded.decode("utf-8"))
-       return "\r\n".join(out)
-
-   lines = [
-       "BEGIN:VCALENDAR",
-       "VERSION:2.0",
-       "PRODID:-//Japanese Grammar Review//EN",
-       "CALSCALE:GREGORIAN",
-   ]
-
-   # Review events
-   for d in sorted(by_date):
-       headers = by_date[d]
-       dt_date = date.fromisoformat(d[:10])
-       dtstr = dt_date.strftime("%Y%m%d")
-       dt_end = (dt_date + timedelta(days=1)).strftime("%Y%m%d")
-       lines += [
-           "BEGIN:VEVENT",
-           f"DTSTART;VALUE=DATE:{dtstr}",
-           f"DTEND;VALUE=DATE:{dt_end}",
-           f"SUMMARY:Japanese Grammar Review -- {len(headers)} point(s)",
-           "DESCRIPTION:" + "\\n".join(headers),
-           f"UID:{dtstr}-full-export-{str(uuid.uuid4())[:8]}@japanese-notes",
-           "END:VEVENT",
-       ]
-
-   # Holiday events
-   for h in holidays:
-       if h >= today_str:
-           dt_date = date.fromisoformat(h)
-           dtstr = dt_date.strftime("%Y%m%d")
-           dt_end = (dt_date + timedelta(days=1)).strftime("%Y%m%d")
-           lines += [
-               "BEGIN:VEVENT",
-               f"DTSTART;VALUE=DATE:{dtstr}",
-               f"DTEND;VALUE=DATE:{dt_end}",
-               "SUMMARY:Holiday -- No Review",
-               "DESCRIPTION:Holiday -- no grammar reviews scheduled.",
-               f"UID:{dtstr}-holiday-{str(uuid.uuid4())[:8]}@japanese-notes",
-               "END:VEVENT",
-           ]
-
-   lines.append("END:VCALENDAR")
-
-   with open(ics_path, "w", encoding="utf-8") as f:
-       f.write("\r\n".join(fold(l) for l in lines) + "\r\n")
-
-   review_count = len(by_date)
-   holiday_count = sum(1 for h in holidays if h >= today_str)
-   print(f"Full calendar exported: {review_count} review event(s) + {holiday_count} holiday event(s) written to {ics_path}")
+   ```bash
+   python3 .cowork/scripts/ics-export.py \
+     --mode full \
+     --state .cowork/progress/grammar-state.json \
+     --holidays .cowork/progress/holidays.json \
+     --output "<VAULT_ROOT>/japanese-grammar-full-calendar-<SESSION_TS>.ics" \
+     --today <TODAY_ISO>
    ```
 
-7. **Report** -- print the output from the script: `Full calendar exported: N review event(s) + M holiday event(s) written to <filename>.`
+   The script prints a summary to stdout (e.g. `Written N event(s) to <path>`) — use it in the report.
+
+7. **Report** -- print the script's stdout output to the user.
 
 ---
 

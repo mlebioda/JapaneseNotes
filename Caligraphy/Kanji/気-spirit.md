@@ -7,6 +7,10 @@
 [[KaligrafiaS3L7#気]]
 
 ### Parts
+[[气-steam]]
+[[㐅-cross]]
 
 ### Mnemonic
+Steam 气 with a cross 㐅 below.
+The steam hovers above the cross like a spirit.
 

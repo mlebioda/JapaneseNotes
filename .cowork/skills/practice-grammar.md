@@ -667,75 +667,16 @@ Rules:
 - DESCRIPTION: newline-separated list of `grammar_header` values due that day.
 - PRODID: `-//Japanese Grammar Review//EN`
 
-Generate with Python (substitute `SESSION_IDS` with the actual list of IDs from this session):
+Run the following shell command (substitute `SESSION_IDS_JSON_ARRAY` with the actual JSON array of grammar point IDs from this session). Use `datetime.now().strftime("%Y%m%dT%H%M%S")` for `SESSION_TS` to avoid same-day filename collisions:
 
-```python
-import json
-import uuid
-from datetime import date, timedelta
-from collections import defaultdict
-
-# NOTE: Replace VAULT_ROOT with the active session mount path for this vault.
-# Stable vault root (macOS): /Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP
-VAULT_ROOT = "/Users/michallebioda/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianJP"
-json_path  = f"{VAULT_ROOT}/.cowork/progress/grammar-state.json"
-session_ts = date.today().strftime("%Y%m%dT%H%M%S")
-ics_path   = f"{VAULT_ROOT}/japanese-grammar-review-{session_ts}.ics"
-
-session_ids = [...]  # list of grammar point IDs practiced this session
-
-with open(json_path) as f:
-    gp = json.load(f)["grammar_points"]
-
-by_date = defaultdict(list)
-for gid in session_ids:
-    entry = gp.get(gid)
-    if entry:
-        d = entry.get("next_review", "")
-        if d:
-            by_date[d].append(entry.get("grammar_header", gid))
-
-def fold(line: str) -> str:
-    """Fold a single ICS content line to max 75 octets per RFC 5545 §3.1."""
-    encoded = line.encode("utf-8")
-    if len(encoded) <= 75:
-        return line
-    out = []
-    while len(encoded) > 75:
-        chunk = encoded[:75].decode("utf-8", errors="ignore")
-        while len(chunk.encode("utf-8")) > 75:
-            chunk = chunk[:-1]
-        out.append(chunk)
-        encoded = b" " + encoded[len(chunk.encode("utf-8")):]
-    out.append(encoded.decode("utf-8"))
-    return "\r\n".join(out)
-
-lines = [
-    "BEGIN:VCALENDAR",
-    "VERSION:2.0",
-    "PRODID:-//Japanese Grammar Review//EN",
-    "CALSCALE:GREGORIAN",
-]
-for d in sorted(by_date):
-    headers = by_date[d]
-    dt_date = date.fromisoformat(d[:10])
-    dtstr   = dt_date.strftime("%Y%m%d")
-    dt_end  = (dt_date + timedelta(days=1)).strftime("%Y%m%d")
-    lines += [
-        "BEGIN:VEVENT",
-        f"DTSTART;VALUE=DATE:{dtstr}",
-        f"DTEND;VALUE=DATE:{dt_end}",
-        f"SUMMARY:Japanese Grammar Review — {len(headers)} point(s)",
-        "DESCRIPTION:" + "\\n".join(headers),
-        f"UID:{dtstr}-{session_ts}-{str(uuid.uuid4())[:8]}@japanese-notes",
-        "END:VEVENT",
-    ]
-lines.append("END:VCALENDAR")
-
-with open(ics_path, "w", encoding="utf-8") as f:
-    f.write("\r\n".join(fold(l) for l in lines) + "\r\n")
-print(f"Written {len(by_date)} event(s) to {ics_path}")
+```bash
+echo '<SESSION_IDS_JSON_ARRAY>' | python3 .cowork/scripts/ics-export.py \
+  --mode session \
+  --state .cowork/progress/grammar-state.json \
+  --output "<VAULT_ROOT>/japanese-grammar-review-<SESSION_TS>.ics"
 ```
+
+Note: `--today` is not passed in session mode (it is ignored -- session mode exports all requested keys regardless of date). The script prints a summary to stdout (e.g. `Written N event(s) to <path>`) -- use it in the session output.
 
 After running, print a one-line confirmation: `Calendar updated — N event(s) written to japanese-grammar-review-<timestamp>.ics`.
 

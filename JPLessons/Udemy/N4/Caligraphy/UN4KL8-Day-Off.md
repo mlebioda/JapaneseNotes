@@ -83,7 +83,6 @@ stand on the sun to hear SOUND on the concert
 
 #w あの音楽家の住所を知っていますか（おんがくか、じゅうしょ、し）- Do you know that musican's address?
 #w 休日には家で音楽を楽しいます（きゅうじつ、おんがく、たの）- I enjoy music at home on my day off
-#w 
 
 ## 楽 - fun, easy・たの、らく・ガク
 [[楽-pleasure,funmeasy]]

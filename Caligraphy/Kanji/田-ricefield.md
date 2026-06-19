@@ -14,6 +14,10 @@
 [[魚-fish]]
 
 ### Parts
+[[囗-field]]
+[[十-ten,10]]
 
 ### Mnemonic
+A field 囗 with four fragments 十.
+A big field is divided into four paddies.
 

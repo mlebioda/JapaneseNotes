@@ -1599,3 +1599,7 @@ handouts
 span
 taking up 
 wrap up
+acquaintance
+nebulizing
+Deliberating
+Mulling

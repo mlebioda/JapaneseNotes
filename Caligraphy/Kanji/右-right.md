@@ -9,6 +9,8 @@
 
 
 ### Parts
+[[口–mouth,point,place]]
 
 ### Mnemonic
-
+Left: hand ナ/ヨ (Shows a hand ナ with the forearm on the right and three fingers on the left.), right: mouth 口
+The hand for the mouth (= you eat with) is the: right.

@@ -7,6 +7,9 @@
 [[KaligrafiaS3L7#川]]
 
 ### Parts
+[[水-water]]
 
 ### Mnemonic
+The water 水 is simplified here as three lines and symbolizes the flow of the river.
+Three strokes stand for the flow of a river.
 

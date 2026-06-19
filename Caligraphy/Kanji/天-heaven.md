@@ -8,6 +8,10 @@
 
 
 ### Parts
+[[大-big]]
+[[一-1]]
 
 ### Mnemonic
+A large person 大 with the sky 一 above them.
+As wide as the spread arms of the big person is: the sky.
 

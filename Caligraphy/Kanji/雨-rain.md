@@ -7,6 +7,9 @@
 [[電-electricity]]
 
 ### Parts
+[[冂-obramowanie,granica]]
+[[一-1]]
 
 ### Mnemonic
+View out of a window 冂 into the rain. The upper line 一 is a rain cloud.
 

@@ -9,4 +9,6 @@
 ### Parts
 
 ### Mnemonic
+Picture of a mountain with three peaks.
+Image of a mountain with tree peaks
 

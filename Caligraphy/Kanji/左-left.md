@@ -9,6 +9,8 @@
 
 
 ### Parts
+[[工-workman]]
 
 ### Mnemonic
-
+Left: Hand ナ/ヨ (Shows a hand with the forearm at the right and three fingers to the left.), right: to build, work 工 (= image of a carpenter's square)
+The hand that assists, (=supports with the carpenter's square) is the left.
