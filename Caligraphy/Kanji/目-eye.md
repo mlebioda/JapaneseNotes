@@ -9,7 +9,10 @@
 [[着-wear]]
 [[自-self]]
 
+[[夏-summer]]
 ### Parts
+[[口–mouth,point,place]]
 
 ### Mnemonic
-
+An eye with a central pupil 口
+Image of an eye with a central pupil 口

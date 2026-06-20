@@ -1,5 +1,11 @@
-# 姉 - elder sister
+# 姉
+## Occurences
 [[UN4KL3-Family#姉 - elder sister・あね、ねえ・し]]
----
-[[女 - woman おんな ・ ジョ]]
-[[市 - component]]
+
+### Parts
+[[女-woman]]
+[[市-city]]
+
+### Mnemonic
+Left: woman 女, right: city/marketplace 市
+The woman in the city is my elder sister.

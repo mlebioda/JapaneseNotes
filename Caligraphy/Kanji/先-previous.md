@@ -8,6 +8,9 @@
 [[KaligrafiaS4L7#先]]
 
 ### Parts
+[[牛-cow]]
+[[儿-legs]]
 
 ### Mnemonic
-
+Top: variant of cow 牛, bottom: legs 儿
+A cow with only two legs walks preceding.

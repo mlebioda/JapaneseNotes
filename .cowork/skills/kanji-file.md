@@ -142,6 +142,25 @@ Write the final `### Parts` section:
 - If a `### Parts` section already exists, overwrite its generated content but preserve any
   manually added links.
 
+**Step D.5 — Update backlinks on referenced component files.**
+
+After writing `### Parts`, update `## Occurences` in each referenced component file (both
+primitives and kanji) to ensure the current kanji is listed as a backlink.
+
+For each wikilink in the final `### Parts` section:
+
+1. Open the component file (in `Caligraphy/Primitives/` or `Caligraphy/Kanji/`).
+2. Check whether `[[<current-kanji-filename>]]` already appears under `## Occurences`.
+3. **If already listed** → skip.
+4. **If not listed** → append `[[<current-kanji-filename>]]` to the `## Occurences` section.
+5. **If `## Occurences` does not exist** in the component file → create it and add the backlink.
+
+This ensures that newly created files get the backlink at creation time (Step D, item 2c), and
+pre-existing files also receive the backlink when they are referenced for the first time by a
+new kanji.
+
+Do not remove existing entries from `## Occurences` — only append missing ones.
+
 ---
 
 ### Step 4 — Link verification

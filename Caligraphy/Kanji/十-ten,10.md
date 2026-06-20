@@ -11,6 +11,8 @@
 [[計-measure]]
 [[午-noon]]
 
+[[度-degree]]
+[[世-society]]
 ### Parts
 
 ### Mnemonic

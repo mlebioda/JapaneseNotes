@@ -8,6 +8,8 @@
 [[KaligrafiaS6L11#手 て・シュ]]
 
 ### Parts
+[[扌-hand]]
 
 ### Mnemonic
-
+The kanji 手 uses the radical 扌 (hand), with several characters used for hand: ナ, 扌, 手, ヨ
+Image of a hand's palm with fingers spread and a wrinkle in the palm

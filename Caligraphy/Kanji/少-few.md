@@ -7,5 +7,10 @@
 [[Kaligrafia#少 - trochę/mało, niewiele すこ・し、すく・ない」／ショウ]]
 [[KaligrafiaS6L4#少　trochę]]
 
+[[歩-walk]]
 ### Parts
+[[小-small]]
 
+### Mnemonic
+Small 小 with an extra stroke ノ
+Such a small stroke is too little.

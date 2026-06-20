@@ -1,7 +1,7 @@
 TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL8-Basic verbs
 
-## 言 - say い・ゲン、ゴン
-[[言 - to say]]
+## 言 - say・い・ゲン、ゴン
+[[言-tosay]]
 (い)
 #wc 言う (い) - to say
 #w 考えを言う（かんが、い）- to say one's thinking
@@ -13,8 +13,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL8-Basic verbs
 #w 伝言（でんごん）- message
   
 ---
-## 話 - speak はな、はなし・ワ
-[[話 - to speak]]
+## 話 - speak・はな、はなし・ワ
+[[話-tospeak]]
 Say + tongue
 
 (はな)
@@ -32,8 +32,8 @@ Say + tongue
 
 --- 
 
-## 語 - word, language かた(る)・ゴ
-[[語 - word かた・ゴ]]
+## 語 - word, language・かた(る)・ゴ
+[[語-word]]
 (かたる)
 #wc 語る（かたる）- to tell, opowiedzieć (literacki styl)
 #w 文化を語る（ぶんか、かた）- to tell the culture
@@ -45,8 +45,8 @@ Say + tongue
 #w 中国語（ちゅうごくご） - chinese language
   
 
-## 読 - read よ・ドク
-[[読 - read よ・ドク]]
+## 読 - read・よ・ドク
+[[読-read]]
 (よ)
 #wc 読む (よ) - to read
 #w 本を読む - to read a book
@@ -55,8 +55,8 @@ Say + tongue
 #w 読書（どくしょ）- reading a book (not natural)
   
 
-## 書 - write, book か・ショ
-[[書 - write, book か・ショ]]
+## 書 - write, book・か・ショ
+[[書-write,book]]
 (か)
 #wc 書く (か) - to write
 #w 文字を書く（もじ、か）- to write words, signs
@@ -66,8 +66,8 @@ Say + tongue
 #w 辞書（じしょ）- dictionary
   
 
-## 見 - see み・ケン
-[[見 - see]]
+## 見 - see・み・ケン
+[[見-see]]
 (み)
 #wc 見る（み）- to see
 #w 山を見る（やま、み) - to look at the mountain
@@ -78,8 +78,8 @@ Say + tongue
 #w 見学する (けんがく) - observe (learn by observing), visit (ogranized, like visit school, company)
   
 ---
-## 聞 - listen き、き(こえる)・ブン
-[[聞 - to hear, ask]]
+## 聞 - listen・き、き(こえる)・ブン
+[[聞-tohear,ask]]
 (きく)
 #wc 聞く (き) - to listen
 #w 声を聞く（こえ, き) - to listen to the voice
@@ -94,8 +94,8 @@ Say + tongue
 #w 音(おと) - sound
 
 ---
-## 行 - go い(く)、おこな(う)・コウ、ギョウ
-[[行 - to go]]
+## 行 - go・い(く)、おこな(う)・コウ、ギョウ
+[[行-togo]]
 (いく)
 #wc 行く（い）- to go
 
@@ -110,8 +110,8 @@ Say + tongue
 #w 一行目（いちぎょうめ）- the first line
   
 ---
-## 来 - come く(る)、こ(ない)、き(ます)・ライ
-[[木 - tree]]
+## 来 - come・く(る)、こ(ない)、き(ます)・ライ
+[[来-come]]
 (くる)
 #wc 来る（く）- to come 
 #w 人が来る（ひと、くる）- People come
@@ -127,8 +127,8 @@ Say + tongue
 
   ---
 
-## 出 - go out, take out で(る)、だ(す)・シュツ、シュッ
-[[出 - go out, take out で(る)、だ(す)・シュツ、シュッ]]
+## 出 - go out, take out・で(る)、だ(す)・シュツ、シュッ
+[[出-go out,take out]]
 (でる)
 #wc 出る（で）- go out
 #w 家を出る - to go outside of the house
@@ -145,8 +145,8 @@ Say + tongue
 #w 出席（しゅっせき）- attendance
   
 
-## 入 - enter, put in はい(る)、い(れる)・ニュウ
-[[入 - enter, put in はい(る)、い(れる)・ニュウ]]
+## 入 - enter, put in・はい(る)、い(れる)・ニュウ
+[[入-enter,putin]]
 (はいる)
 #wc 入る（はい）- to enter
 #w 家の中に入る（いえ、なか、はい) - enter inside the house
@@ -159,8 +159,8 @@ Say + tongue
 #w 入学（する）(にゅうがく) - to enter school (N/V)
   
 
-## 食 - eat た(べる)・ショク
-[[食 - eat, meal]]
+## 食 - eat・た(べる)・ショク
+[[食-eat,meal]]
 (たべる)
 #wc 食べる - to eat
 #w 食べ物 - food (casual)
@@ -173,8 +173,8 @@ Say + tongue
 #w レストランで食事をする（しょくじ） - to eat meal in a restaurant
   
 
-## 飲 - drink の(む)・イン
-[[飲 - drink]]
+## 飲 - drink・の(む)・イン
+[[飲-drink]]
 (のむ)
 #wc 飲む（の) - to drink
 
@@ -183,8 +183,8 @@ Say + tongue
 #w ここは飲食禁止です（いんしょく、きんし）- it is forbidden to drink and eat here
   
 #w 禁止 (きんし）- zakaz
-## 立 - stand た(つ)・リツ、リッ
-[[立 - stand]]
+## 立 - stand・た(つ)・リツ、リッ
+[[立-stand]]
 (たつ)
 #wc 立つ(た) - to stand
 #w 目の前に立つ（め、まえ、た）- to stand in front of someone
@@ -197,8 +197,8 @@ Say + tongue
 
   
 
-## 休 - rest やす(む)・キュウ
-[[休 - to rest]]
+## 休 - rest・やす(む)・キュウ
+[[休-torest]]
 (やすむ)
 #wc 休む（やす）- to rest
 #w 少し休む（すこ、やす）- to rest a little bit
@@ -208,8 +208,8 @@ Say + tongue
 #w 休日（きゅうじつ）- holiday
 
 
-## 買 - buy か(う)・バイ
-[[買 - buy か(う)・バイ]]
+## 買 - buy・か(う)・バイ
+[[買-buy]]
 (かう)
 #wc 買う(か) - to buy
 #w 本を買う（ほん、か）- to buy book

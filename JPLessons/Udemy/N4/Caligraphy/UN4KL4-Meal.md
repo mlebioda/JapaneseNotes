@@ -1,7 +1,7 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL4-Meal
 
-## 朝 - morning あさ・チョウ
-[[朝 - morning]]
+## 朝 - morning・あさ・チョウ
+[[朝-morning]]
 ![[Pasted image 20250318211508.png]]
 日 (sun) + 十 (ten) + 早 (early)
 "In the **morning** (朝), at ten 日 rises 早 early, and moon hides
@@ -16,8 +16,8 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL4-Meal
 #w 朝食（ちょうしょく）- breakfast (polite)
 #w 朝食は何時に食べますか（ちょうしょく）？ - What time do you have breakfast (polite)
 
-## 飯 food, meal めし・ハン
-[[飯 - food]]
+## 飯 - food, meal・めし・ハン
+[[飯-food]]
 
 ![[Pasted image 20250318213108.png]]
 食 (eat) + 反 (oppose, return)
@@ -33,8 +33,8 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL4-Meal
 #w 朝ご飯（あさごはん）- breakfast
 
 #w 昼ご飯はだれと食べましたか - Who dit you have lunch with?
-## 昼 noon, daytime ひる・チュウ
-[[昼 - noon]]
+## 昼 - noon, daytime・ひる・チュウ
+[[昼-noon]]
 ![[Pasted image 20250318213729.png]]
 日 (sun) + 尺 (shaku, unit of measure)
 At **noon (昼)**, the **sun (日)** is at the highest **measure (尺)** in the sky, marking midday!"
@@ -51,7 +51,8 @@ At **noon (昼)**, the **sun (日)** is at the highest **measure (尺)** in the 
 **(チュウ)**
 #w 昼食（ちゅうしょく）- lunch(polite)
 
-## 夕 evening ゆう、セキ
+## 夕 - evening・ゆう・セキ
+[[夕-evening]]
 
 (ゆう)
 #w 夕ご飯（ゆうごはん）- dinner 
@@ -67,8 +68,8 @@ At **noon (昼)**, the **sun (日)** is at the highest **measure (尺)** in the 
 (セキ) - old vocabulary
 
 ---
-## 茶 tea チャ、サ
-[[茶 - tea]]
+## 茶 - tea・チャ、サ
+[[茶-tea]]
 ![[Pasted image 20250323135439.png]] 
 
 **Primitives:** 艹 (grass) + 人 (person) + 木 (tree)
@@ -80,7 +81,8 @@ _"A person (人) is sitting under a tree (木) surrounded by grass (艹), enjoyi
 **(さ)**
 #w 茶道（さどう）- tea ceremony
 
-## 飲 drink の・イン
+## 飲 - drink・の・イン
+[[飲-drink]]
 
 ![[Pasted image 20250323135745.png]]
 **Primitives:** 食 (eat, food) + 欠 (lack, yawn)
@@ -95,8 +97,8 @@ _"A person (人) is sitting under a tree (木) surrounded by grass (艹), enjoyi
 #w 飲料（いんりょう）- beverage - napoje(formal drinks)
 #w これは外国の飲料ですか(がきこく,いんりょう） - this is beverage from a foreign country?
 
-## 料 fee, material, ingredient　リョウ
-[[料 - fee]]
+## 料 - fee, material, ingredient・リョウ
+[[料-fee]]
 ![[Pasted image 20250323140128.png]]
 **Primitives:** 米 (rice) + 斗 (measuring cup)
 "To prepare a meal, you measure (斗) the rice (米), because **ingredients (料)** need precise amounts!"
@@ -108,8 +110,8 @@ _"A person (人) is sitting under a tree (木) surrounded by grass (艹), enjoyi
 #w この本の料金はいくらですか(りょうきん) - How much is this book?
 #w あの大学の試験料は高いですよ（しけんりょう）- examination fee at that university is expensive (informative)
 
-## 理 reason リ
-[[理 - reason]]
+## 理 - reason・リ
+[[理-reason]]
 ![[Pasted image 20250323140702.png]]
 **Primitives:** 王 (king) + 里 (village, hometown
 "A wise **king (王)** must use **logic (理)** to rule over his **village (里)** wisely."
@@ -119,8 +121,8 @@ _"A person (人) is sitting under a tree (木) surrounded by grass (艹), enjoyi
 #w 日本の料理はいかがですか（りょうり) - How is japanese food?
 #w この料理の料金はいくらですか （りょうり、りょうきん）- how much is this dish?
 
-##  堂 hall ドウ
-[[堂 - hall]]
+## 堂 - hall・ドウ
+[[堂-hall]]
 ![[Pasted image 20250325212343.png]]
 Wyobraź sobie **dużą halę** (堂) która stoi na **ziemi** (土), głowa pod dachem
 **(どう)**
@@ -129,8 +131,8 @@ Wyobraź sobie **dużą halę** (堂) która stoi na **ziemi** (土), głowa pod
 #w 会社の食堂で食べませんか（しょくどう）- shal we rat in  the cafeteria of the company?
 #w 夕ご飯はこの食堂で食べましょう（ゆう、はん、しょくどう）- let's eat dinner in this cafeteria
 
-## 味 taste あじ、ミ
-[[味 - taste]]
+## 味 - taste・あじ・ミ
+[[味-taste]]
 
 ![[Pasted image 20250325213221.png]]
 **Mnemonika:** Jeśli coś **jeszcze** (未) jest w **ustach** (口), to znaczy, że nadal możesz czuć jego **smak**.
@@ -144,8 +146,8 @@ Wyobraź sobie **dużą halę** (堂) która stoi na **ziemi** (土), głowa pod
 **(み)**
 #w 風味（ふうみ）- flavour
 #w 意味（いみ）- meaning
-## 肉 meat ニク
-[[肉 - meat]]
+## 肉 - meat・ニク
+[[肉-meat]]
 ![[Pasted image 20250325213509.png]]
 
 **Mnemonika:** Wyobraź sobie kawałek mięsa z **tłuszczem i ścięgnami**, który leży na desce do krojenia.
@@ -156,8 +158,8 @@ Wyobraź sobie **dużą halę** (堂) która stoi na **ziemi** (土), głowa pod
 #w 肉と魚とどちらがすきですか （にく、さかな） - what do you like bnetter, meat or fish?
 #w このホテルの肉料理はいいですよ（にくりょうり）- The meat dish in this hotel is good
 #w 夕食は肉を食べます（ゆうしょく）-  I eat meat for dinner
-## 魚 fish さかな、うお・ギョ
-[[魚 - fish]]
+## 魚 - fish・さかな、うお・ギョ
+[[魚-fish]]
 ![[Pasted image 20250325214108.png]]
 Wyobraź sobie **rybę** z wielkimi oczami (田), otwartymi ustami (⺈) i ogonem (灬), który chlupie w wodzie.
 

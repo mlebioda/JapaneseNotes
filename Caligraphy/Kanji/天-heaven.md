@@ -7,6 +7,8 @@
 [[KaligrafiaS3L8#天]]
 
 
+[[知-know]]
+[[送-send]]
 ### Parts
 [[大-big]]
 [[一-1]]

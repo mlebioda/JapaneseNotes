@@ -7,6 +7,8 @@
 [[KaligrafiaS6L4#友 - przyjaciel]]
 
 ### Parts
+[[又-hand]]
 
 ### Mnemonic
-
+Comprises twice the radical for hand: ナ and 又 as shaking hands
+They shake hands because they are friends.

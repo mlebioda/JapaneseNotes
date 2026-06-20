@@ -1,7 +1,7 @@
 TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 
-## 年 - year, age とし・ネン
-[[年 - year]]
+## 年 - year, age・とし・ネン
+[[年-year]]
 
 **(とし)**  
 #w 年の始め（とし, はじめ）- beginning of the year #k
@@ -10,14 +10,16 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 #w 二千年（にせんねん) - year 2000 #k
 
 ---
-## 毎 - every まい・マイ
+## 毎 - every・まい・マイ
+[[毎-every]]
 
 **(まい)**
 #w 毎日（まいにち）- every day #k
 #w 毎年（まいとし）- every year #k
 
 ---
-## 時 - time とき・ジ
+## 時 - time・とき・ジ
+[[時-time]]
 **(とき)**  
 #w その時（とき) - that time #k
 
@@ -26,8 +28,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 #w 時計（とけい）- watch #k
 
 ---
-## 分 - divide / understand / minute わ(ける)、わ(かる)・ブン、フン、プン
-[[分 - divide]]
+## 分 - divide / understand / minute・わ(ける)、わ(かる)・ブン、フン、プン
+[[分-divide]]
 
 **(わ)**
 #wc 分かる（わ) - understand #k
@@ -47,15 +49,16 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 #w 一分（いっぷん）- 1 minute #k
 
 ---
-## 午 - noon ご・ゴ
-[[午 - noon]]
+## 午 - noon・ご・ゴ
+[[午-noon]]
 
 **(ご)**
 #w 午前（ごぜん）- before noon #k
 #w 午後（ごご）- afternoon #k
 
 ---
-## 間 - between あいだ、ま・カン
+## 間 - between・あいだ、ま・カン
+[[間-timeperiod,between]]
 
 **(あいだ)**  
 #w 木と木の間 (あいだ) - between tree and tree #k
@@ -69,7 +72,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 #w 一年間（いちねんかん）- for a year #k
 
 ---
-## 今 - now いま・コン
+## 今 - now・いま・コン
+[[今-now]]
 
 **(いま)**  
 #w 今、勉強します（いま、べんきょう）- now, i'm studying #k
@@ -79,20 +83,22 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 今年 - this year
 今日(きょう) - today
 
-## 半 - half はん・ハン
+## 半 - half・はん・ハン
+[[半-half]]
 
 **(はん)**
 #w 半分（はんぶん）- half #k
 #w 五時半（ごじはん）- 5:30 #k
 #w 半日（はんにち）- half day #k
 
-## 週 - week しゅう・シュウ
+## 週 - week・しゅう・シュウ
+[[週-week]]
 
 **(しゅう)**
 
 
-## 朝 - morning あさ・チョウ
-[[朝 - morning]]
+## 朝 - morning・あさ・チョウ
+[[朝-morning]]
 
 **(あさ)**  
 #w 朝日（あさひ）- morning sun #k
@@ -100,8 +106,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 
 **(ちょう)**
 #w 朝食（ちょうしょく）- breakfast formal #w
-## 昼 - noon ひる・チュウ
-[[昼 - noon]]
+## 昼 - noon・ひる・チュウ
+[[昼-noon]]
 
 **(ひる)**  
 #w 昼休み（ひるやすみ）- lunch break #k
@@ -110,14 +116,15 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 **(ちゅう)**
 #w 昼食（ちゅうしょく）- lunch formal #k
 
-## 夕 - evening ゆう・ユウ
+## 夕 - evening・ゆう・ユウ
+[[夕-evening]]
 
 **(ゆう)**
 #w 夕日（ゆうひ）- setting sun #k
 #w 夕食（ゆうしょく）- dinner #k
 #w 夕方（ゆうがた）- evening #k
-## 夜 - night よる、よ・ヤ
-[[夜 - night]]
+## 夜 - night・よる、よ・ヤ
+[[夜-night]]
 
 **(よる)**  
 #w 夜になる（よる）- it becomes night #k

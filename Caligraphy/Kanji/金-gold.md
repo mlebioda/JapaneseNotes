@@ -6,7 +6,11 @@
 [[Kaligrafia#金 - złoto かね／キン]]
 [[KaligrafiaS3L4#金]]
 
+[[銀-silver]]
 ### Parts
+[[土-soil]]
+[[丷-arms]]
 
 ### Mnemonic
-
+From top: cover/lid, earth/soil 土, two gold nuggets 丷
+Covered in the ground is the gold.

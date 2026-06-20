@@ -6,6 +6,7 @@
 [[Kaligrafia#気 - duch  き]]
 [[KaligrafiaS3L7#気]]
 
+[[米-rice]]
 ### Parts
 [[气-steam]]
 [[㐅-cross]]

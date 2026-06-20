@@ -13,6 +13,7 @@
 [[車-car]]
 [[魚-fish]]
 
+[[野-field]]
 ### Parts
 [[囗-field]]
 [[十-ten,10]]

@@ -8,3 +8,6 @@
 [[持 - hold]]
 [[時 - time]]
 [[特 - especially]]
+[[持-hold]]
+[[待-wait]]
+[[特-especially]]

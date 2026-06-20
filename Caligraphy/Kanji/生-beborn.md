@@ -7,7 +7,11 @@
 [[KaligrafiaPodsumowanie#生]]
 [[KaligrafiaS4L7#生]]
 
+[[青-blue]]
+[[表-surface]]
 ### Parts
+[[丰-plant]]
 
 ### Mnemonic
-
+Emphasis ノ (a twig) at a growing plant 丰
+The branch on the growing plant represents life.
