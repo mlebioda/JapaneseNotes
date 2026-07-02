@@ -1603,3 +1603,16 @@ acquaintance
 nebulizing
 Deliberating
 Mulling
+gust
+auxiliary
+predicate
+hold back
+Outpatient visits
+earnest - makingsomething withh full efort
+interest
+obnoxious
+cherish
+amber
+sorrowful
+nudge
+drawer

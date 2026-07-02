@@ -1,7 +1,7 @@
 ---
 name: verb-conjugation
 description: >
-  Authoritative reference for Japanese verb type detection and all 13 conjugation
+  Authoritative reference for Japanese verb type detection and all 14 conjugation
   forms used by fill-templates and templates-update skills.
 ---
 
@@ -29,26 +29,27 @@ If still uncertain after applying the heuristic, web-search `[verb] godan ichida
 
 ## Godan (u-verbs) — conjugation table by ending kana
 
-The 13 form labels, in canonical order:
-`て形`, `た形`, `ます形`, `出す形 (start)`, `そう (looks like)`, `お〜になる (honorific)`, `ない形`, `なかった形`, `受身形 (passive)`, `尊敬語 (honorific)`, `ば形 (if)`, `可能形 (can)`, `おう形 (let's)`
+The 14 form labels, in canonical order:
+`て形`, `た形`, `ます形`, `出す形 (start)`, `そう (looks like)`, `お〜になる (honorific)`, `ない形`, `なかった形`, `受身形 (passive)`, `使役形 (make/let)`, `尊敬語 (honorific)`, `ば形 (if)`, `可能形 (can)`, `おう形 (let's)`
 
-| Ending | ます stem | て形 | た形 | ない形 | なかった形 | ば形 | 可能形 | 受身形 | 出す形 | 意志形 |
-|--------|----------|------|------|--------|-----------|------|--------|---------|--------|--------|
-| う | い | って | った | わない | わなかった | えば | える | われる | い出す | おう |
-| く | き | いて | いた | かない | かなかった | けば | ける | かれる | き出す | こう |
-| ぐ | ぎ | いで | いだ | がない | がなかった | げば | げる | がれる | ぎ出す | ごう |
-| す | し | して | した | さない | さなかった | せば | せる | される | し出す | そう |
-| つ | ち | って | った | たない | たなかった | てば | てる | たれる | ち出す | とう |
-| ぬ | に | んで | んだ | なない | ななかった | ねば | ねる | なれる | に出す | のう |
-| ぶ | び | んで | んだ | ばない | ばなかった | べば | べる | ばれる | び出す | ぼう |
-| む | み | んで | んだ | まない | まなかった | めば | める | まれる | み出す | もう |
-| る | り | って | った | らない | らなかった | れば | れる | られる | り出す | ろう |
+| Ending | ます stem | て形 | た形 | ない形 | なかった形 | ば形 | 可能形 | 受身形 | 使役形 | 出す形 | 意志形 |
+|--------|----------|------|------|--------|-----------|------|--------|---------|--------|--------|--------|
+| う | い | って | った | わない | わなかった | えば | える | われる | わせる | い出す | おう |
+| く | き | いて | いた | かない | かなかった | けば | ける | かれる | かせる | き出す | こう |
+| ぐ | ぎ | いで | いだ | がない | がなかった | げば | げる | がれる | がせる | ぎ出す | ごう |
+| す | し | して | した | さない | さなかった | せば | せる | される | させる | し出す | そう |
+| つ | ち | って | った | たない | たなかった | てば | てる | たれる | たせる | ち出す | とう |
+| ぬ | に | んで | んだ | なない | ななかった | ねば | ねる | なれる | なせる | に出す | のう |
+| ぶ | び | んで | んだ | ばない | ばなかった | べば | べる | ばれる | ばせる | び出す | ぼう |
+| む | み | んで | んだ | まない | まなかった | めば | める | まれる | ませる | み出す | もう |
+| る | り | って | った | らない | らなかった | れば | れる | られる | らせる | り出す | ろう |
 
 Notes for godan:
 - `尊敬語 (honorific)` = same as `受身形 (passive)` value
 - `お〜になる (honorific)` = お + ます stem + になる (e.g. お渡りになる)
 - `そう (looks like)` = ます stem + そう (e.g. 渡りそう)
 - `おう形 (let's)` = 意志形 column above
+- `使役形 (make/let)` = ない形 stem (あ/わ row) + せる
 
 ---
 
@@ -66,6 +67,7 @@ Stem = verb minus final る.
 | ば形 (if) | stem + れば | 食べれば |
 | 可能形 (can) | stem + られる | 食べられる |
 | 受身形 (passive) | stem + られる | 食べられる |
+| 使役形 (make/let) | stem + させる | 食べさせる |
 | 出す形 (start) | stem + 出す | 食べ出す |
 | 尊敬語 (honorific) | = 受身形 | 食べられる |
 | お〜になる (honorific) | お + stem + になる | お食べになる |
@@ -81,6 +83,17 @@ Stem = verb minus final る.
 - **Ichidan**: drop る + られる (食べる → 食べられる)
 - **来る** → 来られる
 - **する** → できる
+
+---
+
+## 使役形 — special cases
+
+- **Godan**: ない形 stem (あ-row) + せる, with the う-ending exception using わ instead of あ  
+  Examples: 書く → 書かせる, 飲む → 飲ませる, 話す → 話させる, 買う → 買わせる
+- **Ichidan**: drop る + させる  
+  Examples: 食べる → 食べさせる, 見る → 見させる
+- **する** → させる
+- **来る** → 来させる（こさせる）
 
 ---
 
@@ -105,6 +118,7 @@ Stem = verb minus final る.
 ば形 (if): 来れば
 可能形 (can): 来られる
 あれる形 (passive):  来られる
+使役形 (make/let): 来させる（こさせる）
 出す形 (start): 来出す
 尊敬語 (honorific): 来られる
 お〜になる (honorific): お出でになる

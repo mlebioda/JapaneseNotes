@@ -53,8 +53,11 @@ When the user sends an image and asks to "extract", output vocabulary lines in t
 #wp 難しい(むずか) - english
 ```
 
+RULE: Always extract the full phrase/sentence exactly as it appears in the image.
+Never split into individual words. One line per visual item on screen, not per word.
+Exception: only split if the image is explicitly a word-by-word vocabulary list.
+
 Rules:
-- Extract the full phrase/sentence as it appears — do not break it into individual words unless the image clearly shows a vocabulary list
 - #w — nouns, expressions, sentences, adverbs
 - #wc — verbs (G1/G2/G3); append (transitive) or (intransitive) after the English translation, e.g. `#wc 食べる(たべ) - to eat (transitive)`
 - #wp — adjectives (い-adj / な-adj)

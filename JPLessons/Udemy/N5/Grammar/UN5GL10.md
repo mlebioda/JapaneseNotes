@@ -1,5 +1,7 @@
 TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL10-I-will-go-to-Akihabara-to-buy-manga
 
+# ごい
+
 #w あきはばらへ まんがを買いに行きます - I will go to Akihabara to buy manga
 
 #w 自分の好き　嫌い　が言えること（じぶん、す、きら、い) - Be able to say likes and dislikes
@@ -13,7 +15,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL10-I-will-go-to-Akihabara-to-buy-m
 #w 活用(する）（かつよう）- odmiana / odmieniac
 
 
-## ごい
+
 
 #w 漫画（まんが） - comic book  #k
 #w テレビドラマ - TV drama  
@@ -141,7 +143,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL10-I-will-go-to-Akihabara-to-buy-m
 #w 読む(よ) - to read
 #w 見る(み) - to see, to watch
 
-## ひょうげん
+# ひょうげん
 
 #w いいですよ - it's fine
 
@@ -153,9 +155,9 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL10-I-will-go-to-Akihabara-to-buy-m
 
 # 文法
 
-### Personal pronouns
+## Personal pronouns
 
-I - lmn + Tachi
+### I - lmn + Tachi
 
 わたし - I (anyone can use it)
 #w わたくし - formal I, in public
@@ -165,7 +167,7 @@ I - lmn + Tachi
 
 Reszta たち dla plural
 
-YOU + tachi - l.mn
+### YOU + tachi - l.mn
 
 あなた - you - use さん to sound more polite
 #w おたく, そちら - 2x you (formal)
@@ -177,157 +179,6 @@ Third person - rather name + さん
 
 #w 彼（かれ）ら・たち - he  **l.p, l.mn** #k
 #w 彼女（かのじょ）ら・たち - she  **l.p, l.mn** #k
-
-
-## Vocabulary - others
-
-### 好き/嫌い - like/dislike
-
--  person/thing i like/dislike
-	- すき・きらい + な + N
-		- 好きな人 - person i like
-		- 嫌いな果物（きら、くだもの）- fruit i dislike
----
-- N + が + すき・きらい です - i (dis)like something
-	- 食べ物が好きです - i like food
-	- 魚が嫌いです（さかな、きら) - i don't like fish
----
-- N1 は N2 + が 好き/きらい　です - N (dis)like something
-	- 山田さんはカラオケが好きです - Yamada likes karaoke
----
-- Like/dislike very much
-	- 大好き（だいすき）/  大嫌い（だいきらい）
-		- 私は横浜が大好きです（よこはま）- i like Yokohama very much
-		- 彼は野菜が大嫌いです（かれ、やさい、だいきらい） - he dislike vegetables very much
-- Summary
-	- like
-		- 好き - like
-		- 大好き - very like
-	- dislike
-		- 嫌い（きら）- dislike
-		- 大嫌い（だいきら）- very dislike
-			- 私は苦いものが大嫌いです（にが、だいきらい）- He hate bitter things
-		- 好き + negation - don't like
-			- 好きではありません
-				-  彼は魚が好きではありません（さかな）- He doesn't like fish
-			- 好きじゃありません
-			- 好きじゃない
-
-#w 彼は魚が好きではありません（さかな）- He doesn't like fish
-#w 私は苦いものが大嫌いです（にが、だいきらい）- He hate bitter things
-
-#w 好きな人 - person i like
-#w 嫌いな果物（きら、くだもの）- fruit i dislike
-#w 私は横浜が大好きです（よこはま）- i like Yokohama very much #k
-
-#w 彼は野菜が大嫌いです（かれ、やさい、だいきらい） - he dislike vegetables very much #k
-
-### Be good/poor at 上手・下手
-
-Structure
-- N　が　上手・下手です
-	- For verbs
-		- V+こと
-
-
-#w 日本語が上手ですね - good at japanese #k
-
-#w 歌が下手ですね (うた) - bad at singing #k
-#w 彼女は絵が下手です（え、へた）- She is not good at drawing #k
-
-
-### どうして - why
-Structure
-- Sentence + どうしてですか
-	- 明日会社に行きませんどうしてですか（あした、かいしゃ） - A: Why dont you go to school tomorrow? 
-- どうして + sentence
-	- どうして漫画が好きですか（まんが、がす）- A: why do you like Manga?
-- Reply usualy ends with から
-
-#w A: 明日会社に行きませんどうしてですか（あした、かいしゃ）B: 明日は休みですから - A: Why dont you go to school tomorrow? B: Because is day off tomorrow. #k
-
-#w A: どうして漫画が好きですか（まんが、がす）B：とても面白いですから（おもしろい）- A: why do you like Manga? B: Because they are very interesting #k
-
-### どんな + N - what kind
-
-- Structure
-	- どんな + N
-		- どんな所がすきですか（ところ）- what kind of place do you like
-	- N1は　どんな　N2 ですか
-
-
-#w A:どんな所がすきですか B: しずかな所が好きです （ところ）- A: what kind of place do you like B: I like quiet places #k
-
-#w A: どんな食べ物が好きですか B:甘いものが好きです（あま） - A: what kind of food do you like? B: I like sweet things
-
-#w A: どんな色が好きですか（いろ）B: 白が好きです（しろ）- A: What color do you like? B: I like white
-
-
-
-
-## Verbs
-
-### 分かる - understand
-
-- N + が + 分かる
-	-  英語が分かる（えいご、わ）- to understand English
-- N1 は N2＋が分かる - N1 understands N2
-	- 彼はベトナム語が分かる - he understand Vietnamese
-- Adv + 分かります
-	- 少し分かります - Understand a little
-	- あまり分かりません - dont understand too well
-
-
-#w 英語が分かる（えいご、わ）- to understand English #k
-
-#w 彼はベトナム語が分かる - he understand Vietnamese #k
-
-#w あまり分かりません - dont understand too well
-#w 音楽が分かります (おんがく) - I understand music #k
-
-### 知る - to know
-
-Structure
-- を＋知っています
-- を＋知っていません
-
-#wc 知る（し）- to know
-#w A: 金閣寺 を 知っていますか B: はい、知っています（きんかくじ、し）- do you know kinkakuji?　B: Yes, i know
-
-#w この映画を知っていますか B：あまり知りません（えいが、し）- Do you know this movie? B: I don't know it very well
-
-
-
-
-### 返す（かえす）- to return
-
-Structure
-- N1 に N2 を 返す（かえ）- to return N2 to N1
-	- 図書館に本を返します（図書館、かえ）- I will return the book to the library 
-
-
-#w 本を返す（かえ）- to return a book
-#w 傘を返す(かさ、かえ) to return umbrella
-#w 図書館に本を返します（図書館、かえ）- I will return the book to the library #k
-#w 山田さんにDVDを返しました（かえ）- i returned DVD to Yamada
-
-### かかる - to spend/cost (time, money, effort)
-
-- Structure
-	- N＋が＋かかる
-		- お金がかかる - to cost money 
-	- Number + かかる (no が)
-		- １０００円かかる - cost 1000 yen
-
-#w かかる - to spend/cost 
-#w お金がかかる - to cost money  #k
-#w 時間がかかる - to take time (zajmuje) #k
-#w 三日間かかる（みっか）- it takes 3 days
-#w １０００円かかる(sen yen) - itcost 1000 yen
-
-#w この仕事は３か月かかる（しごと、さんかげつ） - this work takes 3 months #k
-#w 旅行はお金がたくさんかかります (りょこう) - traveling costs a lot of money
-
 
 ## Stopniowanie
 
@@ -390,87 +241,8 @@ Examples
 帰ります
 #w うち　へ　母の料理を食べ　に　帰りました (はは、りょうり, かえ) - I come back home to eat my mother's cooking 
 
-### Give, Get
 
-#### Give 
-
-#### あげる - to give
-
-Structure:
-- N0は N1 (person) + に + N2 を あげる - N0 gave to N1 N2
-	- アンドさんに仕事の資料をあげます（しりょう）- I gave miss Ando the work materials 
-
-
-#wc (を)あげる - to give (direction: me/my direction to someone )
-#w アンドさんに仕事の資料をあげます（しりょう）- I gave miss Ando the work materials 
-#w ラジさんはランさんに誕生日のプレゼントをあげました(たんじょうび) - Rai gave Lan a birthday present
-
-#w 本をあげる - to give a book
-#w さとうさんはおくさんに花をあげました - Mr. Sato gave his wife flowers
-
-####  貸す（か）- to lend
-Structure:
-- N0は N1 (person) + に + N2 を 貸す- N0 lend to N1 N2
-
-#w 先生は　学生に ノートを貸しました（か）- teacher lent the student a notebook
-
-#### 教える - to teach
-Structure:
-- N0は N1 (person) + に + N2 を 教える - N0 teached to N1 N2
-
-#w 弟に英語を教えます（おとうと、えいご、おし）- I teach my younger brother English
-
----
-
-### Receive
-#### もらう - to get
-
-- Structure
-	- N1 に N2 +を+ もらう - to get N2 from N1 (nacisk od kogo)
-		- 明日ワンさんにDVDをもらいます - I'll get DVD from mr Wang tommorow (nacisk na od kogo)
-	- N1 から N2+を+ もらう - to get N2 from N1 (nacisk na co sie dosalo) czesto od organizac
-		- 私は姉から切符をもらいました（あね、きっぷ）- I got ticket from older sister
-
-#wc もらう（もらう） - to receive  
-#w 時計をもらう（とけい）- to get watch
-#w 切手をもらう（きって）- to get postal stamp
-#w 私は姉 から 切符 を もらいました（あね、きっぷ）- I got ticket from older sister #k 
-#w 明日ワンさん に DVD を もらいます - I'll get DVD from mr Wang tomorrow (nacisk na od kogo) #k
-#w おっと　に　花　を　もらいました - I got flowers from my husband
-
-#w 郵便局から切手をもらいました（ゆうびんきょく、きって）- I got postal stamps from the post office
-
-#### 借りる（か）- to borrow
-
-Structure
-	- N1 に N2 +を+ 借りる - to borrow N2 from N1 (nacisk od kogo)
-	- - N1 から N2+を+ 借りる - to borrow N2 from N1 (nacisk na co sie dosalo) czesto od organizac
-
-#w ランさんは　あんどうさんに　旅行の本　を借りました（りょこう、か）- Lan san borrowed a travel book from Miss Ando
-
-#w ランさんは図書館から料理の本をもらいました (としょかん、りょうり) - Ran san borrowed book from organization
-
-#w 山田さんは銀行からお金を借りました（ぎんこう、かね、かり) - Mr Yamada borrowed money from the bank
-
-#### 習う（なら）- to study/get knowledge
-#w 習う（なら）- to learn (by practice, from somebody)
-
-Structure
-	- N1 に N2 +を+ 借りる - to get knowledge from N2 from N1 (nacisk od kogo)
-	- N1 から N2+を+ もらう - to get knowledge N2 from N1 (nacisk na co sie dosalo) czesto od organizac
-
-#w スミス先生に英語を習います（なら）- I learn english from mr smith
-
-
-
-Structure
-- N1 に N2 +を+ 借りる - to get N2 from N1 (nacisk od kogo)
-
-
-
-## 形容詞
-
-### N1　は　N2 が ADJです checha N1 (N2) jest adj
+## N1　は　N2 が ADJです checha N1 (N2) jest adj
 
 structure
 - N1　は　N2 が ADJです (no N1のN2) - podmiotem jest N1
@@ -496,13 +268,12 @@ Structure
 #w 土曜日 までに 大阪に戻ります - I'll return to Osaka by saturday
 #w 金曜日　までに　図書館に 本を返します（きんようび、としょかん, かえ）- I'll return a book to library by friday
 　
-### N(place) + まで + V - BY (do)
+## N(place) + まで + V - BY (do)
 Structure
 - N(place) + まで + V - BY (do)
 
 
-## Powinnosci
-### Vない＋なければなりません- I have to do
+## Vない＋なければなりません- I have to do
 
 kereba - if
 Vnai + kereba - if i don’t do V,  
@@ -539,6 +310,216 @@ Structure:
 #w この映画　とても面白いですね（えいが、おもしろ) - This movie is interesting, isn’t it? (abbreviation)
 
 #w いっしょに ご飯　　食べませんか（はん、たべ) - would you like to eat meal together? (abbreviation)
+# Vocabulary
+
+### 好き/嫌い - like/dislike
+
+-  person/thing i like/dislike
+	- すき・きらい + な + N
+		- 好きな人 - person i like
+		- 嫌いな果物（きら、くだもの）- fruit i dislike
+---
+- N + が + すき・きらい です - i (dis)like something
+	- 食べ物が好きです - i like food
+	- 魚が嫌いです（さかな、きら) - i don't like fish
+---
+- N1 は N2 + が 好き/きらい　です - N (dis)like something
+	- 山田さんはカラオケが好きです - Yamada likes karaoke
+---
+- Like/dislike very much
+	- 大好き（だいすき）/  大嫌い（だいきらい）
+		- 私は横浜が大好きです（よこはま）- i like Yokohama very much
+		- 彼は野菜が大嫌いです（かれ、やさい、だいきらい） - he dislike vegetables very much
+- Summary
+	- like
+		- 好き - like
+		- 大好き - very like
+	- dislike
+		- 嫌い（きら）- dislike
+		- 大嫌い（だいきら）- very dislike
+			- 私は苦いものが大嫌いです（にが、だいきらい）- He hate bitter things
+		- 好き + negation - don't like
+			- 好きではありません
+				-  彼は魚が好きではありません（さかな）- He doesn't like fish
+			- 好きじゃありません
+			- 好きじゃない
+
+#w 彼は魚が好きではありません（さかな）- He doesn't like fish
+#w 私は苦いものが大嫌いです（にが、だいきらい）- He hate bitter things
+
+#w 好きな人 - person i like
+#w 嫌いな果物（きら、くだもの）- fruit i dislike
+#w 私は横浜が大好きです（よこはま）- i like Yokohama very much #k
+
+#w 彼は野菜が大嫌いです（かれ、やさい、だいきらい） - he dislike vegetables very much #k
+
+## Be good/poor at 上手・下手
+
+Structure
+- N　が　上手・下手です
+	- For verbs
+		- V+こと
+
+
+#w 日本語が上手ですね - good at japanese #k
+
+#w 歌が下手ですね (うた) - bad at singing #k
+#w 彼女は絵が下手です（え、へた）- She is not good at drawing #k
+
+
+## どうして - why
+Structure
+- Sentence + どうしてですか
+	- 明日会社に行きませんどうしてですか（あした、かいしゃ） - A: Why dont you go to school tomorrow? 
+- どうして + sentence
+	- どうして漫画が好きですか（まんが、がす）- A: why do you like Manga?
+- Reply usualy ends with から
+
+#w A: 明日会社に行きませんどうしてですか（あした、かいしゃ）B: 明日は休みですから - A: Why dont you go to school tomorrow? B: Because is day off tomorrow. #k
+
+#w A: どうして漫画が好きですか（まんが、がす）B：とても面白いですから（おもしろい）- A: why do you like Manga? B: Because they are very interesting #k
+
+## どんな + N - what kind
+
+- Structure
+	- どんな + N
+		- どんな所がすきですか（ところ）- what kind of place do you like
+	- N1は　どんな　N2 ですか
+
+
+#w A:どんな所がすきですか B: しずかな所が好きです （ところ）- A: what kind of place do you like B: I like quiet places #k
+
+#w A: どんな食べ物が好きですか B:甘いものが好きです（あま） - A: what kind of food do you like? B: I like sweet things
+
+#w A: どんな色が好きですか（いろ）B: 白が好きです（しろ）- A: What color do you like? B: I like white
+
+## Verbs
+
+### 分かる - understand
+
+- N + が + 分かる
+	-  英語が分かる（えいご、わ）- to understand English
+- N1 は N2＋が分かる - N1 understands N2
+	- 彼はベトナム語が分かる - he understand Vietnamese
+- Adv + 分かります
+	- 少し分かります - Understand a little
+	- あまり分かりません - dont understand too well
+
+
+#w 英語が分かる（えいご、わ）- to understand English #k
+
+#w 彼はベトナム語が分かる - he understand Vietnamese #k
+
+#w あまり分かりません - dont understand too well
+#w 音楽が分かります (おんがく) - I understand music #k
+
+### 知る - to know
+
+Structure
+- を＋知っています
+- を＋知っていません
+
+#wc 知る（し）- to know
+#w A: 金閣寺 を 知っていますか B: はい、知っています（きんかくじ、し）- do you know kinkakuji?　B: Yes, i know
+
+#w この映画を知っていますか B：あまり知りません（えいが、し）- Do you know this movie? B: I don't know it very well
+
+### 返す（かえす）- to return
+
+Structure
+- N1 に N2 を 返す（かえ）- to return N2 to N1
+	- 図書館に本を返します（図書館、かえ）- I will return the book to the library 
+
+
+#w 本を返す（かえ）- to return a book
+#w 傘を返す(かさ、かえ) to return umbrella
+#w 図書館に本を返します（図書館、かえ）- I will return the book to the library #k
+#w 山田さんにDVDを返しました（かえ）- i returned DVD to Yamada
+
+### かかる - to spend/cost (time, money, effort)
+
+- Structure
+	- N＋が＋かかる
+		- お金がかかる - to cost money 
+	- Number + かかる (no が)
+		- １０００円かかる - cost 1000 yen
+
+#w かかる - to spend/cost 
+#w お金がかかる - to cost money  #k
+#w 時間がかかる - to take time (zajmuje) #k
+#w 三日間かかる（みっか）- it takes 3 days
+#w １０００円かかる(sen yen) - itcost 1000 yen
+
+#w この仕事は３か月かかる（しごと、さんかげつ） - this work takes 3 months #k
+#w 旅行はお金がたくさんかかります (りょこう) - traveling costs a lot of money
+
+
+### あげる - to give
+
+Structure:
+- N0は N1 (person) + に + N2 を あげる - N0 gave to N1 N2
+	- アンドさんに仕事の資料をあげます（しりょう）- I gave miss Ando the work materials 
+
+
+#wc (を)あげる - to give (direction: me/my direction to someone )
+#w アンドさんに仕事の資料をあげます（しりょう）- I gave miss Ando the work materials 
+#w ラジさんはランさんに誕生日のプレゼントをあげました(たんじょうび) - Rai gave Lan a birthday present
+
+#w 本をあげる - to give a book
+#w さとうさんはおくさんに花をあげました - Mr. Sato gave his wife flowers
+
+###  貸す（か）- to lend
+Structure:
+- N0は N1 (person) + に + N2 を 貸す- N0 lend to N1 N2
+
+#w 先生は　学生に ノートを貸しました（か）- teacher lent the student a notebook
+
+### 教える - to teach
+Structure:
+- N0は N1 (person) + に + N2 を 教える - N0 teached to N1 N2
+
+#w 弟に英語を教えます（おとうと、えいご、おし）- I teach my younger brother English
+
+### もらう - to get
+
+- Structure
+	- N1 に N2 +を+ もらう - to get N2 from N1 (nacisk od kogo)
+		- 明日ワンさんにDVDをもらいます - I'll get DVD from mr Wang tommorow (nacisk na od kogo)
+	- N1 から N2+を+ もらう - to get N2 from N1 (nacisk na co sie dosalo) czesto od organizac
+		- 私は姉から切符をもらいました（あね、きっぷ）- I got ticket from older sister
+
+#wc もらう（もらう） - to receive  
+#w 時計をもらう（とけい）- to get watch
+#w 切手をもらう（きって）- to get postal stamp
+#w 私は姉 から 切符 を もらいました（あね、きっぷ）- I got ticket from older sister #k 
+#w 明日ワンさん に DVD を もらいます - I'll get DVD from mr Wang tomorrow (nacisk na od kogo) #k
+#w おっと　に　花　を　もらいました - I got flowers from my husband
+
+#w 郵便局から切手をもらいました（ゆうびんきょく、きって）- I got postal stamps from the post office
+
+### 借りる（か）- to borrow
+
+Structure
+	- N1 に N2 +を+ 借りる - to borrow N2 from N1 (nacisk od kogo)
+	- - N1 から N2+を+ 借りる - to borrow N2 from N1 (nacisk na co sie dosalo) czesto od organizac
+
+#w ランさんは　あんどうさんに　旅行の本　を借りました（りょこう、か）- Lan san borrowed a travel book from Miss Ando
+
+#w ランさんは図書館から料理の本をもらいました (としょかん、りょうり) - Ran san borrowed book from organization
+
+#w 山田さんは銀行からお金を借りました（ぎんこう、かね、かり) - Mr Yamada borrowed money from the bank
+
+### 習う（なら）- to study/get knowledge
+#w 習う（なら）- to learn (by practice, from somebody)
+
+Structure
+	- N1 に N2 +を+ 借りる - to get knowledge from N2 from N1 (nacisk od kogo)
+	- N1 から N2+を+ もらう - to get knowledge N2 from N1 (nacisk na co sie dosalo) czesto od organizac
+
+#w スミス先生に英語を習います（なら）- I learn english from mr smith
+
+Structure
+- N1 に N2 +を+ 借りる - to get N2 from N1 (nacisk od kogo)
 
 ****
 # Summary

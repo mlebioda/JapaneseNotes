@@ -7,7 +7,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL10-Letter
 手（て）- hand
 #w 手紙（てがみ）- letter
 #w 手品（てじな）- magic
-#w 手本（てほん）- example
+#w 手本（てほん）- example (model to copy)
 #w 父の手紙は古い漢字が多いです（てがみ、ふる、かんじ、おお）- There are many OLD kanji in my father's letters
 
 
@@ -31,7 +31,7 @@ Paper is made from **1thread**, used by **clans** to write history.
 
 **(し)**
 #w 和紙（わし）- japanese paper
-#w 新聞紙（しんぶんし）- newspaper
+#w 新聞紙（しんぶんし）- newspaper paper
 ## 切 - cut・き・セツ
 [[切-tocut]]
 ![[Pasted image 20250429191136.png]]
@@ -81,7 +81,6 @@ A **copy** is made when you **cover** (冖) and **give** (与) (one + cover) a s
 #w 紙に写る（かみ、うつ）- to project on paper
 #w 手本を写す（てほん、うつる）- copy the example
 
-#w 手本（てほん）- example
 #w この写真はだれが写しましたか(しゃしん、うつ) - Who took(photographed) this picture?
 
 **(しゃ)**
@@ -107,12 +106,12 @@ Lying person on the **ground** practices mindfullnes, do not use **eyes**  to fe
 
 **(しん)**
 写真（しゃしん）- picture/photograph
-#w 天真（てんしん）- innocen
+#w 天真（てんしん）- innocent
 #w 真理（しんり）- truth
 ## 送 - send・おく・ソウ
 [[送-send]]
 ![[Pasted image 20250501123238.png]]
-You want to **send** **大** big package wih **one** **plant** 
+You want to **send** **大** big package with **one** **plant** 
 
 **(おく)**
 #wc 送る（おく）- to send
@@ -121,7 +120,7 @@ You want to **send** **大** big package wih **one** **plant**
 
 #w フランスの姉に家族の写真を送りました（あね、かぞく、しゃしん、おく）- I send a picture of my family to my elder sister in France
 
-#w 父はクリスマスにカード送ります（おく）- My father sends cards at christmas
+#w 父はクリスマスにカード送ります（おく）- My father sends cards at Christmas
 #w 母がオレンジを送ってくれました（はは、おく）- Mother sent me oranges
 
 **(そう)**
@@ -244,7 +243,7 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
 <!--ID: 1746388496637-->
 
- example #card
+ example (model to copy) #card
 ほんやく: 手本（てほん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -309,7 +308,7 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <!--ID: 1746388496657-->
 
- newspaper #card
+ newspaper paper #card
 ほんやく: 新聞紙（しんぶんし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
@@ -425,12 +424,6 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <!--ID: 1746388496698-->
-
- example #card
-ほんやく: 手本（てほん）
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
-<!--ID: 1775624991146-->
 
  Who took(photographed) this picture? #card
 ほんやく: この写真はだれが写しましたか(しゃしん、うつ) 

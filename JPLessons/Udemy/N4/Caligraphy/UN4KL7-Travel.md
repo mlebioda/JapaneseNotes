@@ -200,7 +200,7 @@ The road (道) is where your head (首) leads you as you walk (辶)
 #w 道しるべ（みち）- signpost(drogowskaz)
 
 #w この道はどこへ行きますか（みち）- where does this road lead to?
-#w 町内の町はよく知っています（ちょうない、みち、し）- I know the roads in the tow well
+#w 町内の道はよく知っています（ちょうない、みち、し）- I know the roads in the town well
 
 **(どう)**
 #w 北海道（ほっかいどう）- hokkaido
@@ -723,8 +723,8 @@ The road (道) is where your head (首) leads you as you walk (辶)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1744994110136-->
 
- I know the roads in the tow well #card
-ほんやく: 町内の町はよく知っています（ちょうない、みち、し）
+ I know the roads in the town well #card
+ほんやく: 町内の道はよく知っています（ちょうない、みち、し）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_町.html">町</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_内.html">内</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>

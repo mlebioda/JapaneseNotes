@@ -27,8 +27,7 @@ Imagine someone with an **axe** (斤) on a **moving** (辶) getting **near** you
 #wc 走る（はし）- run
 #w マラソンコースを走る（はしる）- run a marathon course
 
-#w 毎朝、30分ぐらい走ります（まいあさ、ぷん、はし）- I run for about 30 minutes every 
-morning.
+#w 毎朝、30分ぐらい走ります（まいあさ、ぷん、はし）- I run for about 30 minutes every morning.
 #w さあ、いっしょに走りましょう（はし）- Hey, let's run together
 
 #w その洋服屋を近いですか（ようふくや、ちか）- Is that clothing store nearby?
@@ -98,7 +97,7 @@ A **white** stringed instrument is hanging on a **tree** when its cold, Its FUN
 
 
 **(らく)**
-#w 楽（らく）- easy
+#w 楽（らく）- easy (not as task, mentaly..), comfortable, at ease
 #w 楽な仕事（らく、しごと）- easy job
 
 **(がく)**
@@ -276,7 +275,7 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1744994110162-->
 
- I run for about 30 minutes every  #card
+ I run for about 30 minutes every morning #card
 ほんやく: 毎朝、30分ぐらい走ります（まいあさ、ぷん、はし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
@@ -478,7 +477,7 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1744994110221-->
 
- easy #card
+ easy (not as task, mentaly..), comfortable, at ease #card
 ほんやく: 楽（らく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1744994110223-->

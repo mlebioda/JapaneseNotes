@@ -189,7 +189,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL1-I-will-call-you-as-soon-as-seat-
 #w 部屋がくらいですが。。。（へや）- The room is so dark (introducing topic) so please turn on the light can be ommited
 
 
-#w すみません。渋谷駅（しぶやえき）に行きたいんですが、どう行（い）きますか。- Przepraszam, chciałbym zapytać o drogę do stacji Shibuya.　（introducing topic) 
+#w すみません。渋谷駅（しぶやえき）に行きたいんですが、どう行（い）きますか。- Excuse me, I want to get to shibuya station, where should i go?.　（introducing topic) 
 
 #w ちょっと寒（さむ）いんですが、窓（まど）を閉（し）めてもいいですか。- Jest mi trochę zimno, czy mogę zamknąć okno?  (introducing topic)
 
@@ -1321,7 +1321,7 @@ The room is so dark... (introducing topic) #k #card
 <!--ID: 1776268643678-->
 
 
-Przepraszam, chciałbym zapytać o drogę do stacji Shibuya (introducing topic) #k #card
+Excuse me. I want to go to Akihabara station, how can I get there? (introducing topic) #k #card
 すみません。渋谷駅に行きたいんですが、どう行きますか（しぶやえき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_渋.html">渋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_谷.html">谷</a>

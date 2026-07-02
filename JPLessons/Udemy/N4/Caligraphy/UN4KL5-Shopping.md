@@ -103,7 +103,7 @@ Under a **roof (广)**, a **fortune-teller (占)** runs a **shop (店)** to pred
 **(ひん)**
 #w 食料品(しょくりょうひん) - grocery(żywność)
 #w 私はデパートで食料品を売っています（しょくりょうひん）- i sell groceries at the department store
-#w 作品（さくひん）- work
+#w 作品（さくひん）- piece of work
 
 ## 安 - cheap, safe・やす・アン
 [[安-cheap]]
@@ -514,7 +514,7 @@ i sell groceries at the department store #k #card
 <!--ID: 1780855042737-->
 
 
-work #k #card
+piece of work #k #card
 作品（さくひん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>

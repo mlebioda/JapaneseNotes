@@ -284,13 +284,24 @@ Structure
 **Key habit to build:** when listing parallel items, the second one takes **も** — 喉**も**痛くない, 食事**も**美味しい. It signals "...and also."
 
 Structure:
-- 。。。し、。。。し - spójnik
-	- V「dict・た」 し。。。
-	- いadj + し。。。
-	- なadj + だ + し。。。
-	- N + だ + し。。。
-	- IF you list reasons, you can use only one し
-		- 佐藤くんは足をけがしたし、あまり動けないよね。(さとう, あし, うご) - Mr. Sato injured his foot, so he can't move that much.
+- Attach し to every item in the list.
+    - V(dict/た) + し
+    - い-adj + し
+    - な-adj + だ + し
+    - N + だ + し  
+        Each し-clause = one reason/trait, equal weight. し itself already signals "this list isn't exhaustive — more exist."
+- Decide も per item independently. も is NOT tied to a fixed position (not "always item 2"). Attach it to whichever item you want to mark as "this one too, on top of the others."
+    - No も on an item → stated plainly.
+    - も on an item → explicitly flags it as one of several similar things.
+    - も can go on the first item, all items, some items, or none — it's about which items you tag, not where they sit in the list.
+- Typical patterns (usage tendencies, not rules):
+    - も on every item → emphasizes a shared category of traits. アイツはお金もないし、才能もない。
+    - も on the first item only → "and this isn't even the main reason." 天気もいいし、ピクニックに行かない？
+    - も on none → neutral, plain listing. Still fully grammatical.
+- Reason-list vs. description-list — same structure, different use:
+    - Reason-list: leads to a conclusion (softer than から/ので, implies unstated reasons too).
+    - Description-list: characterizes one subject, no conclusion required.
+- A single し-clause (no second item) is valid on its own — implies "and there's more I'm not saying."
 - Examples
 	- ジャパんホテルは部屋が広い**し**、食事も美味しい**し**、良いホテルだと思います（へや、ひろ、しょくじ、い、おも）- The rooms are big and the meals are delicious so I think Japan Hotel is a good hotel
 
@@ -307,6 +318,15 @@ Structure:
 
 #w 佐藤くんは足をけがした**し**、あまり動けないよね。(さとう, あし, うご) - Mr. Sato injured his foot, so he can't move that much.
 #w ごめん、今日飲み会に行けないわ。これから、仕事もある**し**…。(きょうの, かい, い, しごと) - Sorry, I can't go to the drinking party today. I have work to do...
+
+### Polish explaination
+
+> Najbliższy odpowiednik to spójnik **„i (do tego)/a poza tym/no i"** przy wymienianiu powodów.
+Po polsku też często wymieniamy kilka przyczyn i zostawiamy wniosek na końcu:
+> _Pokoje są duże, **i** jedzenie jest pyszne — to dobry hotel._
+Ale し ma jedną cechę, która odróżnia go od prostego „i" — **lista celowo nie jest wyczerpująca**. Sugerujesz, że powodów jest więcej, tylko ich nie wymieniasz. Trochę jak polskie **„no i..."** albo **„a poza tym..."**:
+> 熱は下がったし、喉も痛くないし、大丈夫です。  
+> _Gorączka opadła, no i gardło już nie boli — wszystko ok._
 
 ---
 
@@ -337,6 +357,26 @@ Structure:
 #w さいふを部屋に忘れ**てしまった・ちゃった**。(へや, わす) - I left my wallet in my room. (forgot, express regret) (formal and not formal)
 #w A: どうして、元気がないの？(げんき) B: 風邪をひいて**しまったんです・ちゃいます**。(かぜ) - A: Why do you look so down? B: I caught a cold.(express regret, explain)   (formal and not formal)
 #w 道に迷って**しまって・ちゃって**、遅れました。すみません。(みち, まよ, おく) - I got lost and was late. Sorry. (express regret) (formal and not formal)
+
+### Polish example
+
+> Najbliższe odpowiedniki to:
+> 
+**"Wziąłem i..."** / **"I tak..."** / **"No i..."**
+> 水を全部飲んでしまいました  
+> _No i wypiłem całą wodę..._  
+> _Wziąłem i wypiłem całą wodę..._
+> 
+Dla żalu/niechcący bardziej pasuje:
+> 財布（さいふ）を忘れてしまった  
+> _No i zapomniałem portfela..._  
+> _Niestety zapomniałem portfela._
+> 
+Albo tryb dokonany z emocją:
+> 花瓶（かびん）が割れてしまいました  
+> _Wazon się rozbił..._ (z westchnieniem)
+
+W polskim robimy to bardziej intonacją i kontekstem niż konkretnym słowem — nie ma jednego odpowiednika. てしまいました to ta chwila gdy mówisz _„no i..."_ albo _„niestety..."_ z rezygnacją w głosie.
 
 ## V「た・ない」 ほうがいいです - give advice or suggestion to the listener
 
@@ -398,6 +438,11 @@ Structure:
 
 #w ずっと - continuous / far / all the time
 
+>**ずっと** = flat line (unchanged duration): ずっと待っています — _waiting the whole time_  
+**てくる** = arrow to now (gradual change): 上手になってきた — _has been getting better_
+
+
+
 Structure:
 - ずっと + V/N - continue V
 	- Continue
@@ -421,6 +466,20 @@ Structure:
 #w ずっと前、彼女に会いました (まえ) - I met her a long time ago
 
 #w ランさんの日本語は、スミスさんよりずっと上手です（じょうず）- Lan's Japanese is much better than MR smith
+
+### Polish example
+**ずっと** → **"cały czas / bez przerwy / od dawna"**
+
+> ずっと待っています → _Czekam cały czas._
+
+**てくる** → **"coraz bardziej / z czasem / stopniowo"** (lub czas przeszły ciągły z efektem)
+
+> 上手（じょうず）になってきた → _Coraz lepiej mi idzie / Robiłem postępy._
+
+Różnica po polsku widoczna w:
+
+> ずっと勉強している → _Uczę się cały czas (bez przerwy)._  
+> 勉強してきた → _Uczyłem się (i teraz widać efekty)._
 
 ---
 
@@ -481,6 +540,23 @@ leaving hospital / to leave the hospital + verb #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <!--ID: 1779254557649-->
 
+to be salable (intransitive) #card
+ほんやく: 売れる（う）
+て形: 売れて
+た形: 売れた
+ます形: 売れます
+出す形 (start): 売れ出す
+そう (looks like): 売れそう
+お〜になる (honorific): お売れになる
+ない形: 売れない
+なかった形: 売れなかった
+あれる形 (passive): 売れられる
+尊敬語 (honorific): 売れられる
+ば形 (if): 売れれば
+可能形 (can): 売れられる
+おう形 (let's): 売れよう
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
+<!--ID: 1782322553079-->
 
 
 to break / to crack / to split #card

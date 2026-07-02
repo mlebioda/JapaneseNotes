@@ -465,7 +465,7 @@ Structure
 #w 中国を話す - speak in chinese
 
 ---
-## 質問 (しつもん）（する）- (to ask) question
+### 質問 (しつもん）（する）- (to ask) question
 
 Verb
 1. Nに質問する - to ask N a question
@@ -478,7 +478,7 @@ Verb
 
 #w 店員に質問する（てんいん、しつもん）- to ask  shop clerk a question
 
-## 答える - to answer
+### 答える - to answer
 
 1. N　に 答える(こた) - to answer N
 	1. 質問に答える（しつもん、こた）- to answer a question
@@ -487,7 +487,7 @@ Verb
 
 ---
 
-## 置く（お）- to put down
+### 置く（お）- to put down
 
 Structure
 - Nを Pに おく- put something N in P a location  or position
@@ -497,7 +497,7 @@ Structure
 
 #w 自転車を駅のとなりに置いてください（じてんしゃ、えき,お）- please park (put down) the bicycle near the station
 
-## 頼む（たの) - to ask(for help)/entrust
+### 頼む（たの) - to ask(for help)/entrust
 
 1. To ask for help
 	1. N に たのむ
@@ -516,7 +516,7 @@ Structure
 #w コピを頼む（たの）- to entrust with the copy
 #w 山田さんに私の仕事を頼みます（たの）- Ill ask Yamada to fork for me
 
-## 呼ぶ（よ）- to call, invite
+### 呼ぶ（よ）- to call, invite
 
 #wc 呼ぶ（よぶ）- to call /invite
 
@@ -538,7 +538,7 @@ Structure
 #w タクシーを呼ぶ(よ)  - to hail a cab
 #w 医者を呼ぶ（いしゃ, よ) - to call the doctor
 
-## 見せる（みせる） - to show  
+### 見せる（みせる） - to show  
 
 #wc 見せる（みせる） - to show  
 

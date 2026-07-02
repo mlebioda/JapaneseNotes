@@ -162,7 +162,6 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL11-Phone
 
 #w なる - to become
 
-## 表現
 
 #w .....お世話になりました (ありがとうございました) (せわ) - .....ocasion + Many thanks for everything you have done form me (farewell)
 #w 昨日は おせわになりました - thank you very much for (assistance) yesterday
@@ -174,14 +173,118 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL11-Phone
 #w (どうぞ)　お元気で - please take care of yourself (farewell) also in letters
 
 
----
----
-
-
 # 文法
-### Expressions
 
-#### まだ, not yet, still
+## N＋を　vs N＋は
+
+- rest of the sentence + N + を + V
+		- もう荷物をじゅんびしました - I have packed my suitcase (im the subject)
+- N + は + rest of the sentence
+		- 荷物はもうじゅんびしました - I have packed my suitcase (suitcase is subject)
+
+#w もう荷物をじゅんびしました(にもつ) - I have packed my suitcase (im the subject)
+#w 荷物はもうじゅんびしました(にもつ) - I have packed my suitcase (suitcase is subject)
+
+#w 朝ご飯は 家で  食べます（いえ、あさごはん、た) - I  eat breakfast at home (breakfast subject)
+
+#w 家で　朝ご飯 を 食べます - I  eat breakfast at home (i subject)
+
+#w お弁当は もう　作りました（べんとう、つく) - I have made a lunch box (lunchbox subject)
+#w  もう　お弁当　を　作りました（べんとう、つく) - I have made a lunch box (I subject)
+
+
+#w タバコは　ここで　吸ってもいいですか - Can i smoke here cigaretes? (cigaretes subject)
+#w ここで タバコを　吸ってもいいですか - Can i smoke here cigaretes? (I subject)
+
+---
+
+## V ている / ていない
+
+- V ている - present continous
+	- アンドさんは電話をかけています - miss ando is calling on the phone
+- V ていません - present continous negative
+
+#w アンドさんは電話をかけています - miss ando is calling on the phone
+#w 彼はあそこど座っています（すわ）- he is sitting over there
+#w 学生はしゅくだいをしています - the students are doing their homework
+
+#w 彼女はデパートで買い物しています　(かのじょ、かいもの) - she is shopping in the department store
+#w 妹はラジオを聞いています（いもうと、き）- My younger sis is listening to radio
+#w 鈴木さんは仕事をしていません、彼は昼ご飯を食べています（はたら、かれ、ひるごはん）- Mr suzuki is not working. He is eating lunch
+
+## か・も
+### 何か - something
+#w 何か - something
+
+Structure:
+- 何か + (を) + V
+	- 何かを食べますか - what will you eat?
+
+#w 何かを食べますか - what will you eat? (something)
+
+### 何も - nothing
+#w 何も - nothing
+
+Structure:
+- 何も  + V negative
+	- 何もありません - there is nothing
+
+#w 何もありません - there is nothing
+
+
+---
+
+###  だれか - someone
+#w だれか - someone, anybody
+
+Structure:
+- だれか + (が）+ V
+	- だれか(が)　来ましたか - Did anybody come?
+
+#w だれか(が)　来ましたか - Did anybody come?
+
+### だれも - nobodu
+#w だれも - nobody
+
+Structure:
+- だれも + V negative
+	- だれも来ませんでした - nobody came
+
+#w だれも来ませんでした - nobody came
+
+---
+
+### どこか - somewhere, anywhere
+#w どこか - somewhere, anywhere
+
+Structure
+- どこか（へ） + V negative[[]]
+	-  どこかへ行きますか - are you going somewhere?
+- Responses
+	- Negative
+		- いいえ、どこへも行きませんでした - No, i didn't go anywhere
+
+#w どこかへ行きますか - are you going somewhere?
+#w どこか（へ）旅行しますか - will you go anywhere for travelling?
+#w 去年の冬に　どこか　へ　行きましたか(きょねん,ふゆ) - Did you go somewhere last winter?
+
+#w いいえ、どこへも行きませんでした - No, i didn't go anywhere
+#w 空港に行く前に、どこにへ　行きませんか（くうこう、まえ) - Are you going somewhere before you go to the airport?
+
+### どこも/どこへも - nowhere
+#w どこも/どこへも - nowhere 2x
+
+Structure
+- どこ（へ）も + V negative
+
+#w どこへも行きません - i'm not going nowhere
+#w いいえ、どこも 行きません。ホテルにいます - no, I am not going anywhere. I will be in the hotel
+
+---
+
+# Vocabulary
+
+## まだ, not yet, still
 - Structure
 	- まだ　Vていません - **i haven't done something**
 		- 映画は　まだ　終わっていません (えいが、お) - the movie is not over yet
@@ -211,7 +314,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL11-Phone
 #w 週末まで まだ 二日間あります (しゅうまつ、ふつかかん) - There are 2 more days until the weekend 
 
 ---
-#### もう already, soon
+## もう already, soon
 
 Structure:
 - もう -  **already**
@@ -255,162 +358,7 @@ Structure:
 #w A: 山田さん、もう本を買いに行きましたか B: いいえ、まだ買っていません - mr yamada, have you gone out and bought the book yet? B: No - i haven't bought yet
 #w A: もう手紙を送りました（てがみ、おく) B: はい、もう送りました - A: have you sent the letter? B: yes i have sent
 
-### N＋を　vs N＋は
-
-- rest of the sentence + N + を + V
-		- もう荷物をじゅんびしました - I have packed my suitcase (im the subject)
-- N + は + rest of the sentence
-		- 荷物はもうじゅんびしました - I have packed my suitcase (suitcase is subject)
-
-#w もう荷物をじゅんびしました(にもつ) - I have packed my suitcase (im the subject)
-#w 荷物はもうじゅんびしました(にもつ) - I have packed my suitcase (suitcase is subject)
-
-#w 朝ご飯は 家で  食べます（いえ、あさごはん、た) - I  eat breakfast at home (breakfast subject)
-
-#w 家で　朝ご飯 を 食べます - I  eat breakfast at home (i subject)
-
-#w お弁当は もう　作りました（べんとう、つく) - I have made a lunch box (lunchbox subject)
-#w  もう　お弁当　を　作りました（べんとう、つく) - I have made a lunch box (I subject)
-
-
-#w タバコは　ここで　吸ってもいいですか - Can i smoke here cigaretes? (cigaretes subject)
-#w ここで タバコを　吸ってもいいですか - Can i smoke here cigaretes? (I subject)
-
----
-
-### V ている / ていない
-
-- V ている - present continous
-	- アンドさんは電話をかけています - miss ando is calling on the phone
-- V ていません - present continous negative
-
-#w アンドさんは電話をかけています - miss ando is calling on the phone
-#w 彼はあそこど座っています（すわ）- he is sitting over there
-#w 学生はしゅくだいをしています - the students are doing their homework
-
-#w 彼女はデパートで買い物しています　(かのじょ、かいもの) - she is shopping in the department store
-#w 妹はラジオを聞いています（いもうと、き）- My younger sis is listening to radio
-#w 鈴木さんは仕事をしていません、彼は昼ご飯を食べています（はたら、かれ、ひるごはん）- Mr suzuki is not working. He is eating lunch
-
-### Verbs
-#### 終わる・始まる  - finishes, begins
-
-Structure:
-- 。。。＋が ＋始まる/終わる
-	- 映画が始まる - movie begins
-
-#wc 終わる (おわる) - to finish (by itself) 
-#wc 始まる (はじまる) - to begin (event, itself)  
-
-#w 映画が始まる（えいが、はじ）- the movie begins
-#w 春が始まる（はる、はじ）- Spring begins
-
-#w 夏が終わる（なつ、お）- summer finishes
-
----
-
-#### 送る - send
-
-Structure
--  Xを送る - to send
-	- 荷物を送る（にもつ、おく）- to send baggage
-- Place + で Person を 送る - send off somebody
-	- 空港で友達を送りました - i saw my friend off at the airport
-
-#wc 送る (おくる) - to send 
-
-#w 荷物を送る（にもつ、おく）- to send baggage
-#w 手紙を送る（てがみ、おく) - to send letter
-
-#w 空港で友達を送りました - i saw my friend off at the airport
-
-#### なる - become
-- Structure
-	- adv（な）/N + なる
-		- 私は来年二十歳になる（らいねん、はたち）- i will become 20 years old next year
-	- adv (い→く) なる
-		- 来年はおいくつですか
-
-#w 私は来年二十歳になる（らいねん、はたち）- i will become 20 years old next year
-#w 山田さんは高校の先生いになりました(こうこう、せんせい) - yamada san became a high school teacher
-#w にわの桜の木が大きくなりました (さくら、おお) - the cherry tree in the garden became big
- #w 遅くなりました、すみません (おそ) - I applogize for the delay. Sorry
-#w A: 来年はおいくつですか（らいねん）B: 二十歳になります（はたち） - How old will you be next year? B: Ill be 20 yr old
-
-#w 日本語が上手になります - you have gotten better at Japanese
-
-### przyimki + ka/Mo
-
-#### 何か - something
-#w 何か - something
-
-Structure:
-- 何か + (を) + V
-	- 何かを食べますか - what will you eat?
-
-#w 何かを食べますか - what will you eat? (something)
-
-#### 何も - nothing
-#w 何も - nothing
-
-Structure:
-- 何も  + V negative
-	- 何もありません - there is nothing
-
-#w 何もありません - there is nothing
-
-
----
-
-####  だれか - someone
-#w だれか - someone, anybody
-
-Structure:
-- だれか + (が）+ V
-	- だれか(が)　来ましたか - Did anybody come?
-
-#w だれか(が)　来ましたか - Did anybody come?
-
-####  だれも - nobodu
-#w だれも - nobody
-
-Structure:
-- だれも + V negative
-	- だれも来ませんでした - nobody came
-
-#w だれも来ませんでした - nobody came
-
----
-
-#### どこか - somewhere, anywhere
-#w どこか - somewhere, anywhere
-
-Structure
-- どこか（へ） + V negative[[]]
-	-  どこかへ行きますか - are you going somewhere?
-- Responses
-	- Negative
-		- いいえ、どこへも行きませんでした - No, i didn't go anywhere
-
-#w どこかへ行きますか - are you going somewhere?
-#w どこか（へ）旅行しますか - will you go anywhere for travelling?
-#w 去年の冬に　どこか　へ　行きましたか(きょねん,ふゆ) - Did you go somewhere last winter?
-
-#w いいえ、どこへも行きませんでした - No, i didn't go anywhere
-#w 空港に行く前に、どこにへ　行きませんか（くうこう、まえ) - Are you going somewhere before you go to the airport?
-
-#### どこも/どこへも - nowhere
-#w どこも/どこへも - nowhere 2x
-
-Structure
-- どこ（へ）も + V negative
-
-#w どこへも行きません - i'm not going nowhere
-#w いいえ、どこも 行きません。ホテルにいます - no, I am not going anywhere. I will be in the hotel
-
----
-
-### 前に + V -  before
+## 前に + V -  before
 - Vdict ＋　前に + V (represent tense) 
 - Nの 前に + V (represent tense) 
 - A 前に B - To do B first, then do A
@@ -419,7 +367,7 @@ Structure
 #w 旅行の前に、新しいカメラを買います - I will buy a new camera before travelling
 #w 友達が家に来る前に、部屋を　掃除しました（ともだち、いえ、く、へや、そうじ) - I cleaned house before my friends came
 
-### 後で - after
+## 後で - after
 Structure:
 - Last verb define tense
 - Vた + 後で（あと) ....
@@ -433,7 +381,7 @@ Structure:
 #w 授業の後で　休みます（じゅぎょう、あと、やす）- I rest after class
 
 
-### から Specify order of things
+## から Specify order of things
 
 - Important
 	- Sentence + から + sentence - because
@@ -451,9 +399,10 @@ Structure:
 
 #w 切手を買ってから、手紙を送ります（きって、か、てがみ、おく) - I am going to send the letter after i buy stamp
 
-### numbers
 
-#### Years old
+## numbers
+
+### Years old
 
 #w number + 歳 (～さい) - ~ years old
 #w いっさい - 1 year old
@@ -471,6 +420,54 @@ Structure:
 #w なんさいいですか/おいくつですか for children - how old 2x
 
 #w A: お息子さんはいくつですか　B:　息子は八歳です (むすこ) - A: how old is your son? B: My son is 8 years old
+## Verbs
+### 終わる・始まる  - finishes, begins
+
+Structure:
+- 。。。＋が ＋始まる/終わる
+	- 映画が始まる - movie begins
+
+#wc 終わる (おわる) - to finish (by itself) 
+#wc 始まる (はじまる) - to begin (event, itself)  
+
+#w 映画が始まる（えいが、はじ）- the movie begins
+#w 春が始まる（はる、はじ）- Spring begins
+
+#w 夏が終わる（なつ、お）- summer finishes
+
+---
+
+### 送る - send
+
+Structure
+-  Xを送る - to send
+	- 荷物を送る（にもつ、おく）- to send baggage
+- Place + で Person を 送る - send off somebody
+	- 空港で友達を送りました - i saw my friend off at the airport
+
+#wc 送る (おくる) - to send 
+
+#w 荷物を送る（にもつ、おく）- to send baggage
+#w 手紙を送る（てがみ、おく) - to send letter
+
+#w 空港で友達を送りました - i saw my friend off at the airport
+
+### なる - become
+- Structure
+	- adv（な）/N + なる
+		- 私は来年二十歳になる（らいねん、はたち）- i will become 20 years old next year
+	- adv (い→く) なる
+		- 来年はおいくつですか
+
+#w 私は来年二十歳になる（らいねん、はたち）- i will become 20 years old next year
+#w 山田さんは高校の先生いになりました(こうこう、せんせい) - yamada san became a high school teacher
+#w にわの桜の木が大きくなりました (さくら、おお) - the cherry tree in the garden became big
+ #w 遅くなりました、すみません (おそ) - I applogize for the delay. Sorry
+#w A: 来年はおいくつですか（らいねん）B: 二十歳になります（はたち） - How old will you be next year? B: Ill be 20 yr old
+
+#w 日本語が上手になります - you have gotten better at Japanese
+
+
 
 
  --- 

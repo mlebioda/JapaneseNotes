@@ -103,19 +103,20 @@ def skeleton(tag, japanese, translation):
         return "\n".join([
             header,
             f"ほんやく: {japanese}",
-            "ます形: ",
             "て形: ",
             "た形: ",
+            "ます形: ",
+            "出す形 (start): ",
+            "そう (looks like): ",
+            "お〜になる (honorific): ",
             "ない形: ",
             "なかった形: ",
+            "あれる形 (passive): ",
+            "使役形 (make/let): ",
+            "尊敬語 (honorific): ",
             "ば形 (if): ",
             "可能形 (can): ",
-            "あれる形 (passive): ",
-            "出す形 (start): ",
-            "尊敬語 (honorific): ",
-            "お〜になる (honorific): ",
-            "そう (looks like): ",
-            "おう (let's): ",
+            "おう形 (let's): ",
         ])
 
     if tag == "#wp":

@@ -19,7 +19,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL7-when-materials-are-done-could-yo
 #w 大学生(だいがくせい) - university student
 #w 高等学校(こうとうがっこう) or 高校（こうこう） -  high school + abbreviation
 #w 専門学校(せんもんがっこう) - vocational school
-#w 講義(こうぎ) - class
+#w 講義(こうぎ) - lecture
 
 ---
 
@@ -540,7 +540,7 @@ vocational school #k #card
 <!--ID: 1780755321485-->
 
 
-class #card
+lecture #card
 講義(こうぎ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_講.html">講</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_義.html">義</a>
@@ -1112,7 +1112,7 @@ The meeting tomorrow starts at 9:00, doesn't it? #k #card
 <!--ID: 1780755321551-->
 
 
-Please note that he will leave for the United States tomorrow to study there. #k #card
+His departure date for studying abroad in America was tomorrow #k #card
 彼(かれ)のアメリカ留学(りゅうがく)の出発日(しゅっぱつび)は明日(あした)でした。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>

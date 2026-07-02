@@ -23,7 +23,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL9-you-dont-have-to-wear-suite-to-c
 #w 混む（こ）- to get crowded (intransitive)
 #w 残業（ざんぎょう）(する) - overtime / to work overtime + verb
 
-#wc 落とす（おと）- to drop / to lose (transitive) Used when someone accidentally drops or loses something physical  wallet, phone, keys. Almost always appears with てしまう
+#wc 落とす（お）- to drop / to lose (transitive) Used when someone accidentally drops or loses something physical  wallet, phone, keys. Almost always appears with てしまう
 
 ---
 
@@ -69,7 +69,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL9-you-dont-have-to-wear-suite-to-c
 
 #wc 揃う(そろ) - to gather
 
-#w 全員(ぜんいん) - everyone formal, precise
+#w 全員(ぜんいん) - everyone formal, whole group
 
 #w 集合(しゅうごう)(する) - getting together / to get together + verb
 #w 駅前(えきまえ)に集合(しゅうごう)してください。 - Please gather (get togeher) in front of the station.
@@ -613,7 +613,7 @@ overtime / to work overtime + verb #k #card
 
 
 to drop / to lose (transitive) Used when someone accidentally drops or loses something physical  wallet, phone, keys. Almost always appears with てしまう #card
-ほんやく: 落とす（おと）
+ほんやく: 落とす（お）
 ます形: 落とします
 て形: 落として
 た形: 落とした
@@ -852,7 +852,7 @@ to gather #card
 <!--ID: 1781717354827-->
 
 
-everyone formal, precise #k #card
+everyone formal, whole group #k #card
 全員(ぜんいん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_全.html">全</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
@@ -1617,7 +1617,7 @@ Now, the meeting is over. #k #card
 <!--ID: 1781717354910-->
 
 
-Well, everyone is here. #card
+Well, everyone is here (gathered). #card
 これでみんな揃(そろ)いました。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_揃.html">揃</a>
 <!--ID: 1781717354911-->

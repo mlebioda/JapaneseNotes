@@ -6,6 +6,7 @@ database ".claude/agents/" as AgentsDir
 database ".cowork/skills/" as SkillsDir
 database ".cowork/instructions.md" as Instructions
 database ".cowork/progress/" as ProgressDir
+database ".cowork/tmp/" as TmpDir
 database "Plans/" as PlansDir
 database "Scribe/" as ScribeDir
 database "docs/" as DocsDir
@@ -52,7 +53,10 @@ package "Agents" {
            grammar-index/, Vocabulary/,
            JPLessons/ (read-only context)
     writes: .cowork/skills/, .claude/agents/,
-            Plans/ (checkbox updates only)
+            Plans/ (checkbox updates only),
+            grammar-index/ (confirm-gated),
+            Vocabulary/ (confirm-gated),
+            .cowork/instructions.md (confirm-gated, extra caution)
     calls: scribe (A2A, per changed skill/agent file)
     calls: documentation (A2A, once after agent/skill changes)
     calls: reviewer (A2A, optional final check)
@@ -141,13 +145,19 @@ Documentation ..> Instructions : reads
 Scribe ..> SkillsDir : reads
 Scribe ..> AgentsDir : reads
 
+Orchestrator ..> PlansDir : reads
+
 ' ─── Agent → Storage writes ───
 Planner --> PlansDir : writes
 SkillImplementer --> SkillsDir : writes
 SkillImplementer --> AgentsDir : writes
 SkillImplementer --> PlansDir : writes (checkbox updates)
+SkillImplementer --> GrammarIndex : writes (confirm-gated)
+SkillImplementer --> VocabDir : writes (confirm-gated)
+SkillImplementer --> Instructions : writes (confirm-gated, rare)
 Documentation --> DocsDir : writes
 Scribe --> ScribeDir : writes
+Orchestrator --> TmpDir : writes (handoff slug only)
 
 ' ─── Skills (top-level) ───
 package "Skills (top-level)" {
@@ -204,13 +214,54 @@ package "Skills (top-level)" {
     reads: JPLessons/<lesson> (before # Summary only via awk),
            .cowork/progress/grammar-state.json,
            .cowork/progress/load-control-rules.json
-    writes: .cowork/progress/grammar-state.json (end of session),
-            japanese-grammar-review-<timestamp>.ics (vault root)
-    SM-2 lite; exercise types: Type 1–6; batch splitting
+    SM-2 lite; exercise types: Type 1-6; batch splitting
     furigana mandatory on all exercise output
+    chains to: practice-grammar-srs (session end / stop — persistence)
+    chains to: practice-grammar-study-mode (on demand — Study Mode)
+    never writes lesson files
+  end note
+
+  component [practice-grammar-srs] as PracticeGrammarSRS <<skill>>
+  note right of PracticeGrammarSRS
+    sub-skill: loaded by practice-grammar at session end or "stop"
+    reads: .cowork/progress/grammar-state.json,
+           .cowork/progress/load-control-rules.json
+    writes: .cowork/progress/grammar-state.json (SM-2 state update)
+    writes: vault root japanese-grammar-review-<timestamp>.ics
     scripts: .cowork/scripts/load-control.py
-             (TODAY/OVERDUE scope sessions — date placement)
-    runs python inline for calendar generation
+             (TODAY/OVERDUE scope — date placement via place_topics())
+             .cowork/scripts/ics-export.py (session calendar export)
+    two-step write for TODAY/OVERDUE: SM-2 fields first, then load-control.py
+    Study Mode exercises excluded — only main batch self-scores
+    never writes lesson files
+  end note
+
+  component [practice-grammar-study-mode] as PracticeGrammarStudy <<skill>>
+  note right of PracticeGrammarStudy
+    sub-skill: loaded on demand by practice-grammar on first Study Mode entry
+    entered only from between-batch prompt ("Study mode" option)
+    reads: JPLessons/<lesson> (lesson body for explanations)
+    may use web search for thin lesson content
+    never writes to grammar-state.json
+    Study Mode exercises excluded from SRS state
+    never writes lesson files
+  end note
+
+  component [manage-holidays] as ManageHolidays <<skill>>
+  note right of ManageHolidays
+    trigger: "manage holidays", "add holiday <date(s)>",
+             "remove holiday <date(s)>", "show holidays",
+             "export calendar" / "full calendar export"
+    reads: .cowork/progress/holidays.json,
+           .cowork/progress/grammar-state.json,
+           .cowork/progress/load-control-rules.json
+    writes: .cowork/progress/holidays.json,
+            japanese-grammar-full-calendar-<timestamp>.ics (vault root)
+    scripts: .cowork/scripts/load-control.py
+             (redistribution of colliding reviews)
+             .cowork/scripts/ics-export.py (full calendar export)
+    collision detection: finds reviews on new holiday dates
+    verification: checks no topics remain on holidays after redistribution
     never writes lesson files
   end note
 
@@ -288,24 +339,6 @@ package "Skills (top-level)" {
     always asks user for confirmation before commit/push (Step 3)
     never force push; never uses git add .
     never commits .obsidian/, .DS_Store, .md.bak files
-  end note
-
-  component [manage-holidays] as ManageHolidays <<skill>>
-  note right of ManageHolidays
-    trigger: "manage holidays", "add holiday <date(s)>",
-             "remove holiday <date(s)>", "show holidays",
-             "export calendar" / "full calendar export"
-    reads: .cowork/progress/holidays.json,
-           .cowork/progress/grammar-state.json,
-           .cowork/progress/load-control-rules.json
-    writes: .cowork/progress/holidays.json,
-            japanese-grammar-full-calendar-<timestamp>.ics (vault root)
-    scripts: .cowork/scripts/load-control.py
-             (redistribution of colliding reviews)
-    runs python inline for full .ics export (Step 4)
-    collision detection: finds reviews on new holiday dates
-    verification: checks no topics remain on holidays after redistribution
-    never writes lesson files
   end note
 
 }
@@ -474,6 +507,8 @@ GenerateDiagram --> DocsDir : writes
 ' ─── Skill chains ───
 KanjiHeaders --> KanjiFile : chains (per kanji — Step 2, sequential)
 ReadingJLPT --> FillTemplates : chains (optional — Step 7)
+PracticeGrammar --> PracticeGrammarSRS : chains (session end / stop)
+PracticeGrammar --> PracticeGrammarStudy : chains (on demand — Study Mode)
 UpdateGrammar --> PreprocessGrammar : chains (all mode)
 ExtractGrammar --> PreprocessGrammar : chains (optional — Step 10)
 PreprocessGrammar --> ReviewGrammar : chains (optional handoff)
@@ -504,6 +539,9 @@ TemplatesUpdate ..> Lessons : reads
 
 PracticeGrammar ..> Lessons : reads
 PracticeGrammar ..> ProgressDir : reads
+
+PracticeGrammarSRS ..> ProgressDir : reads
+PracticeGrammarStudy ..> Lessons : reads
 
 ManageHolidays ..> ProgressDir : reads
 
@@ -538,8 +576,8 @@ FillTemplates --> Lessons : writes (# Summary section)
 
 TemplatesUpdate --> Lessons : writes (# Summary section)
 
-PracticeGrammar --> ProgressDir : writes (grammar-state.json)
-PracticeGrammar --> ICSRoot : writes (*.ics calendar file)
+PracticeGrammarSRS --> ProgressDir : writes (grammar-state.json)
+PracticeGrammarSRS --> ICSRoot : writes (session *.ics)
 
 ManageHolidays --> ProgressDir : writes (holidays.json)
 ManageHolidays --> ICSRoot : writes (full-calendar *.ics)

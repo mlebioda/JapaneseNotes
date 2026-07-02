@@ -155,14 +155,14 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 
 # 文法
 
-### た形 + ことがあります - have you ever
+## た形 + ことがあります - have you ever
 
-- Structure
+### Structure
 	- た形＋ことがあります - have the exprience
 	- た形＋ことがあります - have you ever?
 		- あります
 		- ありません
-- Examlpes:
+### Examlpes:
 	- A: 富士山に登ったことがありますか B: はい、あります (ふじさん、のぼ) - Have you ever climbed Mt. Fuji (masu)
 	- A: ハッピー遊園地に行ったことある？B: ないよ (ゆうえんち) - Have you ever been to happy amusement park (stem)?
 
@@ -200,7 +200,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 
 
 
-### けど vs が - but
+## けど vs が - but
 
 - けど - more casual conversation
 	- このケーキは美味しいけど、とても高い（おいしい）- This cake is delicious but very expensive (casual)
@@ -212,7 +212,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 
 #w A: 明日ひま？B:　ひまだけど、どうしたの？ A: Are you free tomorrow? B: Yes, I am, what's the matter? (casual)
 
-### ていねいけい vs ふつうけい - polite form vs plain form
+## ていねいけい vs ふつうけい - polite form vs plain form
 
 - 丁寧形（ていねいけい）- polite form　- often used daily, express respect
 	- verbs
@@ -253,14 +253,12 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 
 #w 来年の夏富士山に登りに行く・行きます（らいねん、なつ、ふじさん、のぼ) - i will go to climb Mt. Fuji next summer (ふつうけい、ていねいけい) 
 
-#w 
 
+# Vocabulary
 
-### vocabulary
+## verbs
 
-#### verbs
-
-##### 　に＋登る（のぼ - climb)
+### に＋登る（のぼ - climb)
 
 Structure
 - X に　登る(のぼ) - to climb a X
@@ -271,7 +269,7 @@ Structure
 #w 木に登る（き、のぼ）- to climb a tree
 
 ---
-##### に ＋勝つ　（か）- to win
+### に ＋勝つ　（か）- to win
 Structure:
 - に＋かつ
 	- 試合に勝つ（しあい、か）- to win the game
@@ -284,7 +282,7 @@ Structure:
 #w 試合（しあい）- game, match (sport rivalry)
 
 ---
-##### が＋降る（ふ）- raining/snowing
+### が＋降る（ふ）- raining/snowing
 Structure
 - が + 降る
 	- 雨が降っています（あめ、ふる）- it is raining
@@ -293,7 +291,7 @@ Structure
 #w 雨が降っています（あめ、ふる）- it is raining
 
 ---
-##### が＋吹く（ふ）- blow
+### が＋吹く（ふ）- blow
 Structure
 - が + 吹く
 	-  風が吹いています（かぜ、ふく）- the wind is blowing
@@ -302,7 +300,7 @@ Structure
 #w 風が吹いています（かぜ、ふく）- the wind is blowing
 
 ---
-##### は + 晴れる (は) - to clear up
+### は + 晴れる (は) - to clear up
 Structure
 - は + 晴れる （は）
 	- 明日は晴れるでしょう（あした、は）- tomorrow will be fine weather

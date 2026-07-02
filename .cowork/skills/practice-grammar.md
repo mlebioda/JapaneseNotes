@@ -118,6 +118,12 @@ The following cause an entry to be skipped **with a warning line**:
     c. Present exercises for this batch (see **Interaction flow**). Collect user answers and self-scores.
     d. Record self-scores and weak_points for this batch in memory. Do NOT write grammar-state.json yet.
     e. After self-evaluation scores are collected for batch B:
+
+       > **BETWEEN-BATCH GATE — MANDATORY. After collecting self-scores for any batch,
+       > ALWAYS present the Study mode / Next batch prompt and wait for user input.
+       > NEVER auto-advance to the next batch or to post-session. This is the most
+       > important interaction rule in this skill.**
+
        - If B < `num_batches` (non-last batch): print `Batch B / num_batches complete.` then ask:
          ```
          Next batch / Study mode
@@ -134,13 +140,13 @@ The following cause an entry to be skipped **with a warning line**:
          - "Save & finish" (or equivalent) → proceed to post-session.
          - If the user asks an off-topic question, answer it and re-present the same prompt.
          - The prompt must always appear — never auto-finish without user confirmation.
-       - **Early exit:** if the user types "stop" or "end" as a standalone message at any point mid-session, write grammar-state.json and .ics for all scores collected so far, print the partial session summary, and end immediately. "stop" is no longer offered as a named option in the between-batch prompt.
+       - **Early exit:** if the user types "stop" or "end" as a standalone message at any point mid-session, load `practice-grammar-srs.md` and write grammar-state.json and .ics for all scores collected so far, print the partial session summary, and end immediately. "stop" is no longer offered as a named option in the between-batch prompt.
     f. Never skip a batch automatically — always wait for user confirmation before advancing.
 8. **After the last batch** — write the session summary (see **Session summary**).
-9. **Persist results** — update `grammar-state.json` (see **Persistence**).
-10. **Write calendar file** — after writing `grammar-state.json`, write a new timestamped `japanese-grammar-review-<timestamp>.ics` file at the vault root (see **Calendar sync**).
+9. **Persist results** — update `grammar-state.json` (see **Persistence and Calendar sync**).
+10. **Write calendar file** — after writing `grammar-state.json`, write a new timestamped `japanese-grammar-review-<timestamp>.ics` file at the vault root (see **Persistence and Calendar sync**).
 
-No confirmation needed at any step — start practicing immediately after the user triggers the skill.
+Don't skip any step. Start practicing immediately after the user triggers the skill.
 
 ---
 
@@ -357,139 +363,16 @@ Record for each exercise: grammar_id, score (1–4), weak_points (array of short
 
 ## Study Mode
 
-### Trigger
+On first Study Mode invocation, read `.cowork/skills/practice-grammar-study-mode.md`
+(skip re-reading if already in context). Pass to it:
+- `batch_topics`: list of grammar headers + body_text for topics in the just-completed batch
+- `user_answers`: the user's raw answers for each topic in this batch (keyed by grammar_header)
+- `batch_number` and `num_batches`: so Step 3 knows whether to ask "Next batch" or proceed to post-session
+- `is_last_batch`: boolean
+- `vocab_pool`: the session vocab pool (needed for Study Mode exercise generation)
+- `weak_points`: per grammar_point_id weak_points from grammar-state.json (for bias in practice exercises)
 
-Study Mode is entered only when the user selects "Study mode" from the between-batch prompt (see Workflow step 7e above). It cannot be entered from any other point in the session.
-
----
-
-### Step 1 — Topic selection
-
-Present the list of grammar points from the just-completed batch (numbered). Ask:
-
-```
-Which topics from this batch do you want to review?
-  1. <grammar_header_1>
-  2. <grammar_header_2>
-  ...
-
-Reply with number(s), topic name(s), or "none" to skip.
-```
-
-- The user may name any subset (e.g. "1 3", "Counter 本", "all").
-- "None" or empty reply → treat as skipping the topic loop entirely and jump directly to Step 3. Step 3 already handles both cases (non-last batch: ask "Next batch / Finish"; last batch: proceed to post-session). Do not re-present the between-batch prompt.
-- If the user names a topic not in the current batch list, reply: "That topic is not in this batch. Please choose from the numbered list." and re-present the prompt once. If still not recognized: skip silently.
-
-Selected topics are processed in the order the user listed them (or in batch order if "all").
-
----
-
-### Step 2 — For each selected topic
-
-Process each topic in sequence. For each topic:
-
-#### 2a. Explanation
-
-Produce a detailed explanation of the grammar point using the following sources (in priority order):
-
-1. Body text from the lesson file for this grammar point (structure blocks, examples, use cases) — always the primary source.
-2. Claude's built-in Japanese grammar knowledge.
-3. Web search (WebSearch / WebFetch) — only if the lesson body is thin (no structure block or fewer than 2 examples), or if the user explicitly requests "search for examples" or "find more online". If web tools fail or are unavailable, proceed with sources 1 and 2 without blocking.
-
-**Crucially:** reference the user's actual answer from this batch when explaining. If the user answered correctly, call that out and note why it worked. If the user answered incorrectly or scored 1–2, quote their answer, show the correct form, and explain the specific error.
-
-**Answer retrieval fallback:** If the user's answer for this grammar point cannot be retrieved from the session (e.g. the batch was stopped before this point was reached), fall back to: "Your answer was not recorded — here is the general explanation." Do not block or error.
-
-Format:
-
-```
-## <grammar_header>
-
-### Structure
-...
-
-### Meaning
-...
-
-### Examples
-...
-
-### Your answer this session
-You wrote: <user's answer (plain Japanese, no furigana)>
-<"Correct — because ..." or "Incorrect — <specific error explanation>">
-
-### Common mistakes
-<from weak_points if any, otherwise from known learner errors>
-```
-
-All kanji in the explanation must carry furigana (same furigana rule as exercise generation).
-
-#### 2b. Choice prompt
-
-After presenting the explanation, ask:
-
-```
-Practice / Next topic / Questions
-```
-
-#### 2c. Branch
-
-- **"Questions"** → the user asks a follow-up question about this topic. Answer it using lesson content + Claude's knowledge. Use web search only if the lesson content and Claude's knowledge are insufficient to answer the question fully (same threshold as the explanation step). After answering, re-present: `Practice / Next topic / Questions` (or `Practice / Continue / Questions` if this is the last selected topic — "Continue" exits Study Mode).
-- **"Next topic"** / **"Continue"** → if there is a next selected topic, move to it (skip to 2a); if this is the last selected topic, exit Study Mode and proceed to Step 3.
-- **"Practice"** → go to Step 2d.
-
-#### 2d. Study Mode practice
-
-Attempt one exercise per exercise type (Types 1–6 as defined in `## Exercise generation`). Each exercise targets this single grammar point. Apply all existing exercise generation rules (furigana rule, vocabulary rule, gate checks, confusability prerequisites, non-trivial exercise checklist). If a type cannot be validly constructed (fails its gate or a prerequisite such as Type 2 confusability), skip that type. Require at least 4 valid exercises; if fewer than 4 are valid, proceed with however many are valid — do not pad. Report any skipped types to the user after grading feedback.
-
-**Session counter:** Study Mode uses its own local counter `study_counter` (resets to 1 at the start of each topic's practice block). The session-wide exercise counter is frozen on Study Mode entry and restored on exit. Study Mode prompts show `Exercise study_counter / total_study` where `total_study` is the number of valid exercises generated for this topic.
-
-Present all valid exercises at once (batch layout, same as normal batch mode):
-
-```
-Study Mode — <grammar_header> (total_study exercises). Reply with all answers in one message.
-
-Exercise 1 / total_study
-...
-
-Exercise 2 / total_study
-...
-
-...
-
-Exercise total_study / total_study
-...
-```
-
-User replies once with all answers. Grade all in one follow-up message (same grading display rules as batch mode: ✓/✗ lines, You/OK/error, plain Japanese, no furigana in diffs).
-
-Do NOT ask for self-evaluation scores. Do NOT write any Study Mode results to grammar-state.json.
-
-After grading, ask:
-
-- If there are more selected topics remaining: `Next topic / Questions`
-- If this is the last selected topic: `Continue / Questions`
-
-Where "Continue" exits Study Mode and proceeds to Step 3.
-
-- **"Questions"** → user asks a follow-up question. Answer it. Re-present the same prompt (`Next topic / Questions` or `Continue / Questions` — same context rule applies).
-- **"Next topic"** → move to next selected topic (back to 2a).
-- **"Continue"** → exit Study Mode and proceed to Step 3.
-
-There is no self-evaluation step, no "Needs practice / Solid" summary for Study Mode exercises.
-
----
-
-### Step 3 — After all selected topics are done
-
-When all selected topics have been processed (or the user chose "none"):
-
-- If not the last batch: ask `Next batch / Finish`
-  - "Next batch" → continue to batch B+1.
-  - "Finish" → proceed to post-session (write state + calendar) with all scores collected so far.
-- If the last batch: proceed directly to post-session (write state + calendar).
-
-The "Finish" option in Step 3 is a full early exit — write grammar-state.json and .ics for all scores collected so far, print the session summary, and end.
+Follow the instructions in that file exactly.
 
 ---
 
@@ -544,141 +427,18 @@ Rules:
 
 ---
 
-## Persistence
+## Persistence and Calendar sync
 
-**Batch sessions:** accumulate all self-scores and weak_points across batches in memory during the session. Write grammar-state.json once — after the last batch completes, or immediately when the user types "stop". Only grammar points with collected self-scores are written; topics in batches never started are not written. Study Mode exercises are excluded from grammar-state.json — only self-evaluation scores from the main session exercises are written.
+After the last batch completes (or when the user types "stop"), read
+`.cowork/skills/practice-grammar-srs.md` and follow its instructions.
+Pass to it:
+- `session_scores`: dict keyed by grammar_point_id → `{min_score, weak_points, grammar_header, lesson_file}`
+- `session_grammar_ids`: ordered list of grammar_point_ids practiced this session
+- `today`: ISO date (YYYY-MM-DD)
+- `scope`: one of "lesson", "TODAY", "OVERDUE"
 
-### Load control constants
-
-Constants are defined in `.cowork/progress/load-control-rules.json` (single source of truth). The Python script reads this file at startup. Current defaults:
-
-| Constant | Default | Meaning |
-|---|---|---|
-| DAILY_CAP | 10 | Max topics on any single day |
-| WEAK_CAP | 4 | Max topics with evaluation score 1 or 2 on any single day |
-| BLOCKED_WEEKDAY | 5 (Saturday) | No reviews placed on this weekday (Monday=0) |
-| SEARCH_WINDOW | 30 | Max days to search forward before fallback |
-| holidays_file | .cowork/progress/holidays.json | Path to holiday dates list |
-
-Additionally, dates listed in the holidays file are blocked identically to Saturdays.
-
-One write at the end of the session: update `.cowork/progress/grammar-state.json`.
-
-Read the file (create with `{"grammar_points": {}}` if missing). For each practiced grammar point:
-
-- If no prior entry: create one with defaults — `interval_days: 1`, `ease: 2.5`, `streak: 0`, `total_reviews: 0`.
-- Apply the algorithm based on the score the user gave:
-
-| Score | interval_days update                         | ease update        | streak          |
-|-------|----------------------------------------------|--------------------|-----------------|
-| 1     | reset to 1                                   | `ease - 0.2` (min 1.3) | reset to 0  |
-| 2     | `max(1, round(interval * 1.2))`              | `ease - 0.15` (min 1.3) | +1          |
-| 3     | `max(1, round(interval * ease))`             | unchanged          | +1              |
-| 4     | `max(1, round(interval * ease * 1.3))`       | `ease + 0.15`      | +1              |
-
-- **Multi-exercise grammar points** — if a grammar point had more than one exercise in the session (multiple use cases), use the **minimum** self-score across all its exercises as the SM-2 input score. Rationale: if the user aced two of three use cases but failed one, they have not mastered the grammar point and should review it sooner. The `weak_points` are the union of all exercises' weak points for that grammar point.
-- If it's the first review (streak was 0 before), force `interval_days = 4` regardless of score (score ≥ 2 only; a score-1 first review still resets to 1 per the table).
-- Compute `next_review = today + interval_days` (ISO date, YYYY-MM-DD).
-- Set `last_reviewed = today`, `last_score`, `total_reviews += 1`.
-- Merge weak_points: union with existing `weak_points`, deduped, keep most recent 5.
-
-### Load control (TODAY / OVERDUE scope only)
-
-For TODAY/OVERDUE scope sessions only — after computing SM-2 fields for all session topics, use a two-step write. The skill writes SM-2 fields first, then load-control.py places review dates.
-
-**Step A — Write SM-2 fields directly to grammar-state.json:**
-
-Read `grammar-state.json` (create with `{"grammar_points": {}}` if missing). For each practiced grammar point, update its entry with the computed SM-2 fields: `interval_days`, `ease`, `streak`, `total_reviews`, `weak_points`, `last_reviewed`, `last_score`, `score`. Also write identity fields `lesson_file` and `grammar_header`. Do NOT compute or write `next_review` — that is handled by Step B. Write the file (pretty-printed, 2-space indent).
-
-**Step B — Pipe minimal JSON to load-control.py for date placement:**
-
-Build a minimal JSON array with only the fields load-control.py needs — one element per grammar point in the session:
-
-```json
-[
-  {
-    "key": "<grammar_point_id>",
-    "lesson_file": "<lesson_file>",
-    "grammar_header": "<grammar_header>",
-    "interval_days": "<computed_interval>",
-    "score": "<min_score>"
-  }
-]
-```
-
-Always include `lesson_file` and `grammar_header` (identity fields — harmless for existing entries, required safety net for any edge case).
-
-Run:
-
-```bash
-echo '<json_array>' | python3 .cowork/scripts/load-control.py \
-  --state .cowork/progress/grammar-state.json \
-  --rules .cowork/progress/load-control-rules.json \
-  --today <today_ISO>
-```
-
-The script reads the updated state (SM-2 fields from Step A), computes `next_review` via `place_topics()`, and writes only `next_review` (plus identity fields) via `merge_and_write()`. Step A must complete (file written and closed) before Step B runs, since load-control.py reads the state file.
-
-The script prints a placement summary to stdout. Use the summary in the session output.
-
-For lesson-triggered sessions (not TODAY/OVERDUE): write grammar-state.json directly as before, including `next_review = today + interval_days` — load control does not apply.
-
-Example entry shape:
-
-```json
-{
-  "grammar_points": {
-    "UN5GL14::vnaide-kudasai": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL14.md",
-      "grammar_header": "Vないで ください",
-      "last_reviewed": "2026-04-21",
-      "next_review": "2026-04-24",
-      "interval_days": 3,
-      "ease": 2.5,
-      "streak": 1,
-      "total_reviews": 1,
-      "last_score": 3,
-      "weak_points": []
-    }
-  }
-}
-```
-
-Keep JSON pretty-printed with 2-space indent so diffs are readable.
-
-No transcript file is written — the state JSON is the only output of a session.
-
----
-
-## Calendar sync
-
-**Batch sessions:** write the .ics file once, immediately after grammar-state.json is written — whether the session completed normally or the user typed "stop". Only grammar points with collected self-scores are included.
-
-After every session, write a new timestamped file `japanese-grammar-review-<YYYYMMDDTHHMMSS>.ics` at the vault root. Each session file is self-contained — only the grammar points practiced this session are included. The user imports the new file after each session; old files are left untouched and do not need to be deleted. This is the only file Claude writes outside `.cowork/progress/`.
-
-**Only include grammar points practiced in the current session** — not everything in the JSON.
-
-Rules:
-- The set of session grammar point IDs is known at persistence time (the same set just written to JSON).
-- Read their new `next_review` dates from the freshly updated JSON.
-- Group grammar headers by date — one VEVENT per date, with headers in DESCRIPTION.
-- Use `DTSTART;VALUE=DATE:YYYYMMDD` (all-day events, no time zone).
-- SUMMARY: `Japanese Grammar Review — N point(s)`.
-- DESCRIPTION: newline-separated list of `grammar_header` values due that day.
-- PRODID: `-//Japanese Grammar Review//EN`
-
-Run the following shell command (substitute `SESSION_IDS_JSON_ARRAY` with the actual JSON array of grammar point IDs from this session). Use `datetime.now().strftime("%Y%m%dT%H%M%S")` for `SESSION_TS` to avoid same-day filename collisions:
-
-```bash
-echo '<SESSION_IDS_JSON_ARRAY>' | python3 .cowork/scripts/ics-export.py \
-  --mode session \
-  --state .cowork/progress/grammar-state.json \
-  --output "<VAULT_ROOT>/japanese-grammar-review-<SESSION_TS>.ics"
-```
-
-Note: `--today` is not passed in session mode (it is ignored -- session mode exports all requested keys regardless of date). The script prints a summary to stdout (e.g. `Written N event(s) to <path>`) -- use it in the session output.
-
-After running, print a one-line confirmation: `Calendar updated — N event(s) written to japanese-grammar-review-<timestamp>.ics`.
+Study Mode exercises are excluded — only include grammar points that received
+self-evaluation scores from the main batch exercises.
 
 ---
 

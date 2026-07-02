@@ -69,16 +69,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL9-This-restaurant-is-delicious-and
 #w 暇な時に郵便局に行きます（ひま、ゆうびんきょく) - I will go to the post office when i have time
 #w 暇な人（ひま、ひと）- person with a lot of free time
 
-
 ---
-
-
-
-
----
-
-
-
 
 
 #w 道（みち）- road / street  #k
@@ -128,8 +119,6 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL9-This-restaurant-is-delicious-and
 
 ---
 
-
-
 #wc (お)会計（かいけい, meet, measure）- payment (often in restaurant)/ to pay #k  #w 
 #w お会計おねがいします（かいけい）- bill please #k
 #w 別々**で**会計する（べつべつ、かいけい）- #k to split the bill (pay sepatately)
@@ -160,7 +149,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL9-This-restaurant-is-delicious-and
 #w 昨日いつ家に帰りましたか（きのう、かえ) - what time did you return home yesterday?
 #w いっしょに帰りましょう（かえ）- let's return together
 
-## ひょうげん
+# ひょうげん
 
 #w いらっしゃいませ  - welcome (in shops, in home)  
 
@@ -249,7 +238,7 @@ Place + Thing (が) + number + arimasu
 
 #w 何個(なんこ) - how many small things?
 
-Examples
+#### Examples
 #w りんごを一個（いっこ）食べる - eat one apple  
 #w 卵（たまご）を二個（にこ）買う - buy two eggs  
 #w ボールを三個（さんこ）持つ - hold three balls  
@@ -300,95 +289,6 @@ Structure:
 	- しずかかな夜
 
 
-## Vocabulary
-
-### 大変(たいへん)
-
-- なadjective:
-#wp 大変(な)（たいへん）- difficult / hard (bad, serious) (adjective) #k
-
-Examples:
-#w 大変（たいへん）- very (adverb)
-#w 大変なミス（たいへん）- big mistake
-#w 大変な生活（たいへん、せいかつ）- difficult/intensive life
-#w 大変な仕事（たいへん、しごと）- tough job
-
-
-- Adverb:
-#w 大変大きい（たいへん、おおきい) - very big
-
-Examples
-#w 大変遠い（たいへん、とおい) - very far
-
-### たくさん
-
-
-#w たくさん - many
-Structure:
-- たくさん + の + noun
-	- たくさんの人 (ひと) - many people
-- たくさん + Verb
-
-Examples:
-#w たくさんの人 (ひと) - many people
-#w たくさんの本 (ほん) - many books
-
-
-#w みかん と かしが たくさんあります - there is a lot of oranges and pears
-#w たくさん食べましょう - lets eat a lot
-
-
-### いつも - always/usual
-
-#w いつも - always  (adverb), usual (noun)
-
-- Structure
-	- いつも＋の＋N - usual
-		- いつもの仕事（しごと）- usual job
-	- いつも+ verb (adverb)
-		- 
-
-
-
-#w いつもの仕事（しごと）- usual job
-#w いつもの生活（せいかつ）- usual life
-
-#w あの人はいつも旅行します（りょこう) - That person always travels
-#w ここはいつも静かです（しず）- its always quiet here
-#w 私はいつも１０時にねます (じ) - i always  go sleep at 10
-
-### 別々（べつべつ）
-
-Structure
-- 別々 +　に + V
-	- 私と山田さんは別々に昼ご飯を食べます(べつべつ、ひるごはん) - I and mr Yamada eat lunch separately
-	- 別々にあそこに行きましょう（べつべつ）- let's go there individually
-
-#wp 別々（べつべつ）- separation / separately / splited
-#w 別々の部屋（べつべつ、へや）- separated room
-#w 別々の机（べつべつ、つくえ）- separated desk
-#w お会計は別々ですか（かいけい、べつべつ）-Are the bills separate? #w
-#w 別々におねがいします (べつべつ) - we will pay separately
-#w いっしょ**で**おねがいします (べつべつ) - we will pay together
-
-
-#w 私と山田さんは別々に昼ご飯を食べます(べつべつ、ひるごはん) - I and mr Yamada eat lunch separately #k
-#w 別々にあそこに行きましょう（べつべつ）- let's go there individually
-
-### 所（ところ）
-1. Place (overal)
-	1. 静か所（しず、ところ）- quiet place
-2. Specifying a certain point or part
-	1. 山田さんの真面目な所（まじめ、ところ）- mr yamada seriousness
-3. Specyfing an address
-	1. おじいさんの所（ところ）- my grandfather's house (place)
-4. specifying timing
-	1. いい所に来ました（ところ、き）- I came at good time
-
-
-#w 山田さんの真面目な所（まじめ、ところ）- mr yamada seriousness #k
-#w おじいさんの所（ところ）- my grandfather's house (place) #k
-#w いい所に来ました（ところ、き）- I came at good time #k
 
 ## 形容詞
 
@@ -472,9 +372,7 @@ Structure: （Both positive, both negative)
 #w 真面目で立派な人です（はじめ、りっぱ）- He is a serious and respectable person
 #w この部屋は広くて しずかで安いです(へや、やす) - The room is very big, quiet and cheap
 
-## Expressions
-
-### N1 は どんな N2 ですか - What kind/sort of N2 is N1?
+## N1 は どんな N2 ですか - What kind/sort of N2 is N1?
 
 Structure:
 - N1 は どんな N2 ですか - What skind/ort of N2 is N1?
@@ -528,6 +426,92 @@ Difference between よ and ね
 
 
 
+# Vocabulary
+
+## 大変(たいへん)
+
+- なadjective:
+#wp 大変(な)（たいへん）- difficult / hard (bad, serious) (adjective) #k
+
+Examples:
+#w 大変（たいへん）- very (adverb)
+#w 大変なミス（たいへん）- big mistake
+#w 大変な生活（たいへん、せいかつ）- difficult/intensive life
+#w 大変な仕事（たいへん、しごと）- tough job
+
+
+- Adverb:
+#w 大変大きい（たいへん、おおきい) - very big
+
+Examples
+#w 大変遠い（たいへん、とおい) - very far
+
+## たくさん
+
+
+#w たくさん - many
+Structure:
+- たくさん + の + noun
+	- たくさんの人 (ひと) - many people
+- たくさん + Verb
+
+Examples:
+#w たくさんの人 (ひと) - many people
+#w たくさんの本 (ほん) - many books
+
+
+#w みかん と かしが たくさんあります - there is a lot of oranges and pears
+#w たくさん食べましょう - lets eat a lot
+
+
+## いつも - always/usual
+
+#w いつも - always  (adverb), usual (noun)
+
+- Structure
+	- いつも＋の＋N - usual
+		- いつもの仕事（しごと）- usual job
+	- いつも+ verb (adverb)
+
+#w いつもの仕事（しごと）- usual job
+#w いつもの生活（せいかつ）- usual life
+
+#w あの人はいつも旅行します（りょこう) - That person always travels
+#w ここはいつも静かです（しず）- its always quiet here
+#w 私はいつも１０時にねます (じ) - i always  go sleep at 10
+
+## 別々（べつべつ）
+
+Structure
+- 別々 +　に + V
+	- 私と山田さんは別々に昼ご飯を食べます(べつべつ、ひるごはん) - I and mr Yamada eat lunch separately
+	- 別々にあそこに行きましょう（べつべつ）- let's go there individually
+
+#wp 別々（べつべつ）- separation / separately / splited
+#w 別々の部屋（べつべつ、へや）- separated room
+#w 別々の机（べつべつ、つくえ）- separated desk
+#w お会計は別々ですか（かいけい、べつべつ）-Are the bills separate? #w
+#w 別々におねがいします (べつべつ) - we will pay separately
+#w いっしょ**で**おねがいします (べつべつ) - we will pay together
+
+
+#w 私と山田さんは別々に昼ご飯を食べます(べつべつ、ひるごはん) - I and mr Yamada eat lunch separately #k
+#w 別々にあそこに行きましょう（べつべつ）- let's go there individually
+
+## 所（ところ）
+1. Place (overal)
+	1. 静か所（しず、ところ）- quiet place
+2. Specifying a certain point or part
+	1. 山田さんの真面目な所（まじめ、ところ）- mr yamada seriousness
+3. Specyfing an address
+	1. おじいさんの所（ところ）- my grandfather's house (place)
+4. specifying timing
+	1. いい所に来ました（ところ、き）- I came at good time
+
+
+#w 山田さんの真面目な所（まじめ、ところ）- mr yamada seriousness #k
+#w おじいさんの所（ところ）- my grandfather's house (place) #k
+#w いい所に来ました（ところ、き）- I came at good time #k
 
 
 

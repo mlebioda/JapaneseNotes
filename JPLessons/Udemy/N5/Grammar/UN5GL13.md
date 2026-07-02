@@ -156,9 +156,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL13-I-want-to-buy-new-shoes
 
 # 文法
 
-### Want
-
-#### ほしい - i want N
+## ほしい - i want N
 Structure
 - Nouns
 	-  (私） N + が + ほしいです - I want N
@@ -202,8 +200,8 @@ Structure
 
 ---
 
-### Comparsions
-#### より than - comparing 2 things
+## Comparisons
+### より than - comparing 2 things
 
 Structure
 - N1  は　N2 より　Adj です
@@ -218,7 +216,7 @@ Structure
 
 ### comparsion どちら・ の方が (のほうが)
 Structure
-- N1 と N2と どちらが ADJ　ですか - wchich one is more adj N1 or n2
+- N1 と N2と どちらが ADJ　ですか - which one is more adj N1 or n2
 - N1 と N2 と どちら　**が** ADJ と思いますか - which one do you thing is adj N1, or N2
 - N1/N2 の方が ADJ です - N1/N2 is more adj
 - どちらも ADJ です - both are adj
@@ -256,7 +254,7 @@ Structure
 
 ---
 
-### ADJ＋の - substitute of noun
+## ADJ＋の - substitute of noun
 Structure
 - ADJ + の - adj one
 	- 白いの - white one
@@ -269,6 +267,40 @@ Structure
 
 ---
 
+### をください - please give me (common to lower ranking than you)
+Structure
+- N + を (amount) ください - please give me (common to lower ranking than you)
+	- ぎゅうにゅうをください - please give me milk
+	- 切手を２枚ください（きって）- please give me 2 tickets
+- When order use お願いしますcx
+
+#w ぎゅうにゅうをください - please give me milk
+#w 切手を２枚ください（きって）- please give me 2 tickets
+
+#w A: これをください B: はいかしこなりました - A: Please give me this B: Yes sir/madam
+
+#w A:82円の切手をください B: 何枚ですか  C: 一枚ください（えん、きって、なんまい）- A: Please give me 82 yen stamps B: How many do you want? C: One please
+
+---
+# Vocabulary
+
+## ちょうど - perfect situation/ just
+
+Structure
+- ちょうど + Adj/V - perfect situation
+	- サイズはちょうどいいです - the size is perfect
+- ちょうど + N - just (somethiong not missing)
+	- ちょうどバスが来ました - bus just came
+
+#wp ちょうど (+adj/V)（ちょうど） - just /dokładnie / akurat / w sam raz (represent perfect situation)
+
+#w サイズはちょうどいいです - the size is perfect
+
+#w ちょうどバスが来ました - bus just came
+#w ちょうど８時 - just 8 o'clock
+#w ちょうど 5000円 - just 5000 yen
+
+## Verbs
 ### I think - と思います 
 
 - Limited to first person
@@ -284,7 +316,7 @@ Structure
 	- どう思いますか・どう思う- what do you think?
 - Negative
 	- ないform と思います（おも）- i don't think that...
-		- ワンさんは まだ 寝ていない と思います（ね、おも）- I don't think Miss Wang is sleeping
+		- ワンさんは まだ 寝ていない と思います（ね、おも）- I think Miss Wang is not sleeping
 
 #w このビールは美味しいと思います（おいしい、おも）- I think this beer is delicious
 
@@ -296,7 +328,7 @@ Structure
 
 #w この白い服はどう思う？ B:いいと思う（ふく）- what do you think about this white dress(clothes)? B: I think is good
 
-#w ワンさんは まだ 寝ていない と思います（ね、おも）- I don't think Miss Wang is sleeping
+#w ワンさんは まだ 寝ていない と思います（ね、おも）- I think Miss Wang is not sleeping
 
 #w 明日 風が 強くないと思います（かぜ、つよ） I don't think the wind will be strong tomorrow
 
@@ -337,42 +369,6 @@ Indirect：
 #w 妹は週末コンサートに行くと言いました（いもうと、しゅうまつ）- My younger sister said she would go to a concert this weekend (indirect)
 
 #w 私はﾐハウと言います - I'm Michal (say)
-
-
-
-### をください - please give me (common to lower ranking than you)
-Structure
-- N + を (amount) ください - please give me (common to lower ranking than you)
-	- ぎゅうにゅうをください - please give me milk
-	- 切手を２枚ください（きって）- please give me 2 tickets
-- When order use お願いしますcx
-
-#w ぎゅうにゅうをください - please give me milk
-#w 切手を２枚ください（きって）- please give me 2 tickets
-
-#w A: これをください B: はいかしこなりました - A: Please give me this B: Yes sir/madam
-
-#w A:82円の切手をください B: 何枚ですか  C: 一枚ください（えん、きって、なんまい）- A: Please give me 82 yen stamps B: How many do you want? C: One please
-
----
-### Vocabulary
-
-#### ちょうど - perfect situation/ just
-
-Structure
-- ちょうど + Adj/V - perfect situation
-	- サイズはちょうどいいです - the size is perfect
-- ちょうど + N - just (somethiong not missing)
-	- ちょうどバスが来ました - bus just came
-
-#wp ちょうど (+adj/V)（ちょうど） - just /dokładnie / akurat / w sam raz (represent perfect situation)
-
-#w サイズはちょうどいいです - the size is perfect
-
-#w ちょうどバスが来ました - bus just came
-#w ちょうど８時 - just 8 o'clock
-#w ちょうど 5000円 - just 5000 yen
-
 
 ---
 
@@ -1122,7 +1118,7 @@ what do you think about this white dress(clothes)? B: I think is good #k  #card
 <!--ID: 1774708228478-->
 
 
-I don't think Miss Wang is sleeping #k  #card
+I think Miss Wang is not sleeping #k  #card
 ほんやく: ワンさんは まだ 寝ていない と思います（ね、おも）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寝.html">寝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>

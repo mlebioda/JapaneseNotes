@@ -222,35 +222,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL8-its-not-very-cold-this-week
 
 # 文法
 
-### verbs
-
-#### 泊まる（とまる）- to stay the night 
-#wc 泊まる（とまる）- to stay the night
-
-- Structure
-	- ....**に**泊まる 
-
----
-
-Examples:
-#w どこのホテルに泊まりますか（と）- Which hotel will you stay at?
-
-#w あきはばら駅に 近いホテルに泊まります（えき、ちか、と) - I will stay at hotel near Akihabara station
-
-#### 知る - to know
-
-- structure 
-	- Xを知っています - I know X
-	- Xを知りません - I dont know X (no te iru form)
-
-#wc 知る(を）（しる）- to know + particle  #k
-
-#w あのホテルを知っています（し）- I know that hotel
-#w 鈴木さんは山田さんを知っています (し）- suzuki knows yamada #k
-
-#w あの歌を知りません（うた、し）- i don't know that song
-
-### Adjectives 形容詞（けいようし）
+## Adjectives 形容詞（けいようし）
 
 2 types
 - い - add i when modify noun
@@ -258,7 +230,7 @@ Examples:
 - な - add な when modify noun
 	- 親切**な**人（しんせつ、ひと）- kind person
 
-#### い形容詞
+### い形容詞
 
 - Structures
 	- NはAdj です/か - N jest Adj
@@ -266,14 +238,14 @@ Examples:
 	- Nは Adj N2 です -N1 is N2Adj
 		- ホテルはあの白い建物です（しろ、たてもの）- hotel is that white building
 
-#####  い形容詞 Non Past
+####  い形容詞 Non Past
 
-###### Affirmative
+##### Affirmative
 Example
 - 広い（ひろい）- wide
 
 ---
-###### Negative
+##### Negative
 Structure
 - い→くない
 	- 広い→広くない（ひろ）- wide-> not wide
@@ -282,9 +254,9 @@ Structure
 #w 今週は寒くないです（こんしゅう、さむ）- it will be not cold this week
 
 ---
-##### い形容詞 Past
+#### い形容詞 Past
 
-###### Affirmative
+##### Affirmative
 Structure
 - い→かった
 	- せまい→せまかった was narrow
@@ -293,7 +265,7 @@ Structure
 #w 先週は寒かったです （せんしゅう、さむ）- last week was cold
 
 ---
-###### Negative
+##### Negative
 Structure
 - い→くなかった
 	- はやい→はやくなかった - wasn't fast
@@ -301,7 +273,7 @@ Structure
 
 #w 先週は寒くなかったです （せんしゅう、さむ）- last week wasn't cold
 
-### どうですか - How Is?
+## どうですか - How Is?
 
 - Ask about the listener
 	- idea
@@ -328,9 +300,9 @@ Past:
 
 ---
 
-### Adverbs
+## Adverbs
 
-Structure
+### Structure
 -  Nは + ADV + V
 	- (musi byc czoasownik)
 
@@ -338,9 +310,7 @@ How to make Adverb from Adjective?
 - い -> く
 	- 寒い（さむ) -> 寒く
 
----
-Examples
-い
+### Examples:
 
 #w 楽しく遊ぶ（たの、あそぶ）- to play joyfully #k
 #w 昨日早く寝ました（きのう、はや、ね）- I slept early yesterday
@@ -349,19 +319,18 @@ Examples
 #w 友達と楽しく 旅行しました（たの) - I went on a fun trip with my friend
 
 
-### Spójniki 
+## Spójniki 
 
-#### I/and
+### and
 
-##### い形容詞　wymienianie -  くて
-- Przy wymienianiu 2 lub więcej przymiotników 
+#### い -> くて
+- When listing more than 1
 
 Structure
 - Nは いadjくて....いadjです
 - Nは いadjくて....いadjくて....adjです
 - tense of the last adjective defines tense of all Adj
----
-Examples:
+##### Examples:
 
 #w この部屋は新し**くて** 広**い**です（へや、あたら、ひろ）- this room is new and wide #k
 
@@ -369,13 +338,13 @@ Examples:
 
 #w 天気が悪くて、とても寒かったです (てんき、わる、さむ) - the weather was really bad and cold
 
-#### BUT/ALE
-##### But  - ...  が ....
+### BUT
+#### But  - ...  が ....
 
 1. 1part - positive
 2. 2part - negative
 
-Structure
+##### Structure
 - 。。。。が、。。。  - 1 part positive, 2 negative
 - 。。。ですが、。。。 
 - 。。。ますが、。。。
@@ -385,8 +354,7 @@ Applicable for:
 - Verbs
 	- 明日京都に**行きますが**、夜に東京に戻ります（もど）- I will go to Kyoto tomorrow **but** I will come back to Tokio at night
 
----
-Examples:
+##### Examples:
 
 Adjectives: 
 
@@ -404,9 +372,9 @@ Verbs:
 
 #w 学校に行**きましたが**、先生に会いませんでした(あ) - I went to school but i did not meet the teacher #k
 
-### Partykuly
+## Particles
 
-#### は vs が
+### は vs が
 
 | は                | が                                               |
 | ---------------- | ----------------------------------------------- |
@@ -416,16 +384,16 @@ Verbs:
 |                  |                                                 |
 
 
-##### は
-Structure
+### は
+#### Structure
 - N1 は N2です - N2 describes N1 podmiot przed は
 
 #w ホテルはどれですか (podmiotem jest hotel) - Which one is Hotel podmiotem jest hotel
 
 #w 山田さんはだれですか - who is mr yamada? 
 
-##### が
-Structure
+### が
+#### Structure
 - N1 が N2です - N2 describes N1 (podmiot za が)
 
 #w あの白い建物がホテルです（しろ、たてもの）- that white building is hotel (hotel podmiot)
@@ -435,6 +403,37 @@ Structure
 
 #w 山田さんは大阪に行きます - (Jesli chodzi) Yamade, jedzie do osaki
 #w 山田さんが大阪に行きます(おおさか) - (Konkretnie to) Yamada jedzie do osaki
+
+
+
+# Vocabulary
+## Verbs
+
+### 泊まる（とまる）- to stay the night 
+#wc 泊まる（とまる）- to stay the night
+
+- Structure
+	- ....**に**泊まる 
+
+---
+
+Examples:
+#w どこのホテルに泊まりますか（と）- Which hotel will you stay at?
+
+#w あきはばら駅に 近いホテルに泊まります（えき、ちか、と) - I will stay at hotel near Akihabara station
+
+### 知る - to know
+
+- structure 
+	- Xを知っています - I know X
+	- Xを知りません - I dont know X (no te iru form)
+
+#wc 知る(を）（しる）- to know + particle  #k
+
+#w あのホテルを知っています（し）- I know that hotel
+#w 鈴木さんは山田さんを知っています (し）- suzuki knows yamada #k
+
+#w あの歌を知りません（うた、し）- i don't know that song
 
 
  --- 

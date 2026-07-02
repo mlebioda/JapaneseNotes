@@ -249,7 +249,7 @@ Structure:
 #w アメリカへ**行くとき**、ハンバーガーを食べました - I ate hamburgers **when** I went to America
 # Vocabulary
 
-### 趣味（しゅみ）- hobby
+## 趣味（しゅみ）- hobby
 
 Structure
 - ご趣味は何ですか（しゅみ、なん）- what is your hobby?
@@ -322,7 +322,6 @@ Structure
 #w 安藤さんはピアノを弾くことができます (あんどう・ひ) - Miss Ando can play piano.
 #w 鳥は空を飛ぶことができます (とり・そら・と) - Birds can fly in the sky.
 
-# Summary
 
 
 # Summary
@@ -1437,12 +1436,21 @@ what is your hobby? #k #card
 
 
 
-I am interested in sports. #w 母に料理の本をあげます。母の趣味は料理を作ることです (はは・りょうり・ほん・はは・しゅみ・りょうり・つく) - I will give my mom a cook book. My mom's hobby is cooking. #k #card
+I am interested in sports #k #card
 私の趣味はスポーツです (わたし・しゅみ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_趣.html">趣</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <!--ID: 1775624991283-->
+
+My mom's hobby is cooking. #card
+母の趣味は料理を作ることです はは・しゅみ・りょうり・つく) 
+<!--ID: 1782937352695-->
+
+
+I will give my mom a cook book. #card
+母に料理の本をあげます。(はは・りょうり・ほん・)
+<!--ID: 1782937352697-->
 
 
 

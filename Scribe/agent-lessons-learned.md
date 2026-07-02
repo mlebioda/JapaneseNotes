@@ -119,3 +119,12 @@
 **Source**: uncommitted — documentation
 
 ---
+
+## 2026-07-01 — docs/vault-system-diagram.puml
+
+**Classification**: bug-fix
+**What happened**: Diagram was missing write edges from SkillImplementer to grammar-index/, Vocabulary/, and .cowork/instructions.md; skill-implementer.md explicitly permits confirmation-gated writes to these paths, but the diagram only showed read edges, understating the component's actual write surface.
+**Rule**: **[Rule]** When a documentation diagram distinguishes read vs write access edges, always cross-check each edge against the source agent/skill file's explicit permission language (e.g. "confirm-gated write") — an access edge drawn as read-only when the source file grants confirm-gated write is a silent understatement of actual write surface, which undermines access-rule audits.
+**Source**: uncommitted — documentation
+
+---

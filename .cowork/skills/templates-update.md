@@ -25,7 +25,7 @@ description: >
 
 This skill defers to:
 - `.cowork/skills/references/card-templates.md` — canonical block structures and label alias table
-- `.cowork/skills/references/verb-conjugation.md` — verb type detection and all 13 conjugation form rules
+- `.cowork/skills/references/verb-conjugation.md` — verb type detection and all 14 conjugation form rules
 - `.cowork/skills/references/adj-forms.md` — adjective form derivation rules
 - `.cowork/skills/references/kanji-links.md` — kanji link generation procedure
 
@@ -128,8 +128,8 @@ Note: `#w` blocks in existing files often carry a `ほんやく:` label on the s
 
 #### Repair 3 — Fill missing verb forms (`#wc` non-suru only)
 
-Expected 13 form labels in canonical order (from `references/card-templates.md`):
-`て形`, `た形`, `ます形`, `出す形 (start)`, `そう (looks like)`, `お〜になる (honorific)`, `ない形`, `なかった形`, `受身形 (passive)`, `尊敬語 (honorific)`, `ば形 (if)`, `可能形 (can)`, `おう形 (let's)`
+Expected 14 form labels in canonical order (from `references/card-templates.md`):
+`て形`, `た形`, `ます形`, `出す形 (start)`, `そう (looks like)`, `お〜になる (honorific)`, `ない形`, `なかった形`, `受身形 (passive)`, `使役形 (make/let)`, `尊敬語 (honorific)`, `ば形 (if)`, `可能形 (can)`, `おう形 (let's)`
 
 For each expected label:
 - If the label line is present but its value is blank (e.g. `た形: `), compute the value and fill it.
@@ -147,7 +147,7 @@ After Repair 3 ensures all form lines exist, recompute every conjugation from sc
 
 Steps:
 1. Re-read the `ほんやく:` value (furigana stripped). Confirm verb type (godan / ichidan / kuru / suru — same detection as Repair 3).
-2. For each of the 13 form labels, compute the expected value using the verb type rules in `references/verb-conjugation.md`.
+2. For each of the 14 form labels, compute the expected value using the verb type rules in `references/verb-conjugation.md`.
 3. Compare computed value to stored value (character by character).
 4. If they differ, overwrite the stored value with the computed one. Record in the repair summary: label + old value → new value.
 
@@ -158,7 +158,7 @@ Skip conditions:
 - Suru verb cards (`#wc` with no form rows) — skip entirely.
 - Fields that were blank and just filled by Repair 3 — already correct, comparison is a no-op.
 
-**Risk note:** An incorrect verb-type classification will replace all 13 forms including any values the user manually corrected. Only apply Repair 3b when verb type is certain.
+**Risk note:** An incorrect verb-type classification will replace all 14 forms including any values the user manually corrected. Only apply Repair 3b when verb type is certain.
 
 ---
 

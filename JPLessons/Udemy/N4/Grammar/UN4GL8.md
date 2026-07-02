@@ -1,6 +1,6 @@
 TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL8-I-Was-Asked-to-do-Work-related-to-the-head-office-so-quiclkly-decided-to-come-here
 
-
+  
 # ごい
 
 #w 動詞(どうし)の受身形(うけみけい)が作(つく)れること - being able to make the verbs' passive form
@@ -8,7 +8,6 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL8-I-Was-Asked-to-do-Work-related-t
 #w 「ても」の使(つか)い方(かた) - how to use "ても"
 
 #w 受身形(うけみけい) - passive form
-#w 関連文法(かんれんぶんぽう)
 #w 関連文法(かんれんぶんぽう) - related grammar
 #w 把握(はあく)(する) - to grasp / to fully understand + verb
 #w 理解する - to understand through practice
@@ -459,7 +458,7 @@ passive form #card
 
 
 related grammar #k #card
-関連文法(かんれんぶんぽう)#w 関連文法(かんれんぶんぽう)
+関連文法(かんれんぶんぽう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_関.html">関</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_連.html">連</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
