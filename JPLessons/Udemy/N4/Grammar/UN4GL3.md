@@ -415,15 +415,17 @@ to wrap / to pack #card
 た形: 包んだ
 ます形: 包みます
 出す形 (start): 包み出す
-そう (looks like): 包みそう
+そう (looks): 包みそう
 お〜になる (honorific): お包みになる
 ない形: 包まない
 なかった形: 包まなかった
 あれる形 (passive): 包まれる
+使役形 (make/let): 包ませる
 尊敬語 (honorific): 包まれる
 ば形 (if): 包めば
 可能形 (can): 包める
 おう形 (let's): 包もう
+命令形 (imperative): 包め
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_包.html">包</a>
 <!--ID: 1778257577002-->
 
@@ -436,15 +438,17 @@ to be broken / to crack (by itself) + particle #card
 た形: 割れた
 ます形: 割れます
 出す形 (start): 割れ出す
-そう (looks like): 割れそう
+そう (looks): 割れそう
 お〜になる (honorific): お割れになる
 ない形: 割れない
 なかった形: 割れなかった
 あれる形 (passive): 割れられる
+使役形 (make/let): 割れさせる
 尊敬語 (honorific): 割れられる
 ば形 (if): 割れれば
 可能形 (can): 割れられる
 おう形 (let's): 割れよう
+命令形 (imperative): 割れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_割.html">割</a>
 <!--ID: 1778257577004-->
 
@@ -457,15 +461,17 @@ to be in time (for) + particle #k #card
 た形: 間に合った
 ます形: 間に合います
 出す形 (start): 間に合い出す
-そう (looks like): 間に合いそう
+そう (looks): 間に合いそう
 お〜になる (honorific): お間に合いになる
 ない形: 間に合わない
 なかった形: 間に合わなかった
 あれる形 (passive): 間に合われる
+使役形 (make/let): 間に合わせる
 尊敬語 (honorific): 間に合われる
 ば形 (if): 間に合えば
 可能形 (can): 間に合える
 おう形 (let's): 間に合おう
+命令形 (imperative): 間に合え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1778257577005-->
@@ -479,15 +485,17 @@ to be in sight / can see + particle #k #card
 た形: 見えた
 ます形: 見えます
 出す形 (start): 見え出す
-そう (looks like): 見えそう
+そう (looks): 見えそう
 お〜になる (honorific): お見えになる
 ない形: 見えない
 なかった形: 見えなかった
 あれる形 (passive): 見えられる
+使役形 (make/let): 見えさせる
 尊敬語 (honorific): 見えられる
 ば形 (if): 見えれば
 可能形 (can): 見えられる
 おう形 (let's): 見えよう
+命令形 (imperative): 見えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1778257577006-->
 
@@ -500,15 +508,17 @@ to reach one's ears / can hear + particle #k #card
 た形: 聞こえた
 ます形: 聞こえます
 出す形 (start): 聞こえ出す
-そう (looks like): 聞こえそう
+そう (looks): 聞こえそう
 お〜になる (honorific): お聞こえになる
 ない形: 聞こえない
 なかった形: 聞こえなかった
 あれる形 (passive): 聞こえられる
+使役形 (make/let): 聞こえさせる
 尊敬語 (honorific): 聞こえられる
 ば形 (if): 聞こえれば
 可能形 (can): 聞こえられる
 おう形 (let's): 聞こえよう
+命令形 (imperative): 聞こえろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1778257577007-->
 
@@ -521,15 +531,17 @@ to turn #card
 た形: 曲がった
 ます形: 曲がります
 出す形 (start): 曲がり出す
-そう (looks like): 曲がりそう
+そう (looks): 曲がりそう
 お〜になる (honorific): お曲がりになる
 ない形: 曲がらない
 なかった形: 曲がらなかった
 あれる形 (passive): 曲がられる
+使役形 (make/let): 曲がらせる
 尊敬語 (honorific): 曲がられる
 ば形 (if): 曲がれば
 可能形 (can): 曲がれる
 おう形 (let's): 曲がろう
+命令形 (imperative): 曲がれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曲.html">曲</a>
 <!--ID: 1778257577008-->
 
@@ -542,15 +554,17 @@ to be broken #card
 た形: 壊れた
 ます形: 壊れます
 出す形 (start): 壊れ出す
-そう (looks like): 壊れそう
+そう (looks): 壊れそう
 お〜になる (honorific): お壊れになる
 ない形: 壊れない
 なかった形: 壊れなかった
 あれる形 (passive): 壊れられる
+使役形 (make/let): 壊れさせる
 尊敬語 (honorific): 壊れられる
 ば形 (if): 壊れれば
 可能形 (can): 壊れられる
 おう形 (let's): 壊れよう
+命令形 (imperative): 壊れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_壊.html">壊</a>
 <!--ID: 1778257577009-->
 
@@ -562,7 +576,7 @@ nice / great / no need / very = とても #card
 過去形: —
 否定形: —
 副詞形: —
-そう: 結構そう
+そう (looks): 結構そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_結.html">結</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_構.html">構</a>
 <!--ID: 1778257577010-->

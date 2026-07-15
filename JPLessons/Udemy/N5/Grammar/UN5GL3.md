@@ -260,7 +260,7 @@ more polite
 
  --- 
 
-# Summary
+# Grammar Summary
 
 ## 文法
 
@@ -371,8 +371,7 @@ more polite
 一億（いちおく）- 100 000 000,
 
 
-## Vocabulary
- Rzeczowniki:
+# Summary
 
  where is a meeting room #card
 ほんやく: 会議室は どこに ありますか (かいぎしつ)

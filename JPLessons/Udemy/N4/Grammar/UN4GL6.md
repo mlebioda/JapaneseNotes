@@ -595,7 +595,7 @@ kind / gentle #card
 過去形: 優しかった
 否定形: 優しくない
 副詞形: 優しく
-そう: 優しそう
+そう (looks): 優しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_優.html">優</a>
 <!--ID: 1779824391530-->
 
@@ -606,15 +606,17 @@ to decorate #card
 た形: 飾った
 ます形: 飾ります
 出す形 (start): 飾り出す
-そう (looks like): 飾りそう
+そう (looks): 飾りそう
 お〜になる (honorific): お飾りになる
 ない形: 飾らない
 なかった形: 飾らなかった
 あれる形 (passive): 飾られる
+使役形 (make/let): 飾らせる
 尊敬語 (honorific): 飾られる
 ば形 (if): 飾れば
 可能形 (can): 飾れる
 おう形 (let's): 飾ろう
+命令形 (imperative): 飾れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飾.html">飾</a>
 <!--ID: 1779824391534-->
 
@@ -633,15 +635,17 @@ to select #card
 た形: 選んだ
 ます形: 選びます
 出す形 (start): 選び出す
-そう (looks like): 選びそう
+そう (looks): 選びそう
 お〜になる (honorific): お選びになる
 ない形: 選ばない
 なかった形: 選ばなかった
 あれる形 (passive): 選ばれる
+使役形 (make/let): 選ばせる
 尊敬語 (honorific): 選ばれる
 ば形 (if): 選べば
 可能形 (can): 選べる
 おう形 (let's): 選ぼう
+命令形 (imperative): 選べ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_選.html">選</a>
 <!--ID: 1779824391543-->
 
@@ -710,15 +714,17 @@ to open (intransitive) #k #card
 た形: 開いた
 ます形: 開きます
 出す形 (start): 開き出す
-そう (looks like): 開きそう
+そう (looks): 開きそう
 お〜になる (honorific): お開きになる
 ない形: 開かない
 なかった形: 開かなかった
 あれる形 (passive): 開かれる
+使役形 (make/let): 開かせる
 尊敬語 (honorific): 開かれる
 ば形 (if): 開けば
 可能形 (can): 開ける
 おう形 (let's): 開こう
+命令形 (imperative): 開け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1779824391580-->
 
@@ -729,15 +735,17 @@ to open (transitive) #k #card
 た形: 開けた
 ます形: 開けます
 出す形 (start): 開け出す
-そう (looks like): 開けそう
+そう (looks): 開けそう
 お〜になる (honorific): お開けになる
 ない形: 開けない
 なかった形: 開けなかった
 あれる形 (passive): 開けられる
+使役形 (make/let): 開けさせる
 尊敬語 (honorific): 開けられる
 ば形 (if): 開ければ
 可能形 (can): 開けられる
 おう形 (let's): 開けよう
+命令形 (imperative): 開けろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1779824391584-->
 
@@ -760,15 +768,17 @@ dissapear (transitive) #card
 た形: 消した
 ます形: 消します
 出す形 (start): 消し出す
-そう (looks like): 消しそう
+そう (looks): 消しそう
 お〜になる (honorific): お消しになる
 ない形: 消さない
 なかった形: 消さなかった
 あれる形 (passive): 消される
+使役形 (make/let): 消させる
 尊敬語 (honorific): 消される
 ば形 (if): 消せば
 可能形 (can): 消せる
 おう形 (let's): 消そう
+命令形 (imperative): 消せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 <!--ID: 1779824391597-->
 
@@ -779,15 +789,17 @@ to disappear  (intransitive) #card
 た形: 消えた
 ます形: 消えます
 出す形 (start): 消え出す
-そう (looks like): 消えそう
+そう (looks): 消えそう
 お〜になる (honorific): お消えになる
 ない形: 消えない
 なかった形: 消えなかった
 あれる形 (passive): 消えられる
+使役形 (make/let): 消えさせる
 尊敬語 (honorific): 消えられる
 ば形 (if): 消えれば
 可能形 (can): 消えられる
 おう形 (let's): 消えよう
+命令形 (imperative): 消えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 <!--ID: 1779824391601-->
 
@@ -805,15 +817,17 @@ to fix (transitive) #card
 た形: 直した
 ます形: 直します
 出す形 (start): 直し出す
-そう (looks like): 直しそう
+そう (looks): 直しそう
 お〜になる (honorific): お直しになる
 ない形: 直さない
 なかった形: 直さなかった
 あれる形 (passive): 直される
+使役形 (make/let): 直させる
 尊敬語 (honorific): 直される
 ば形 (if): 直せば
 可能形 (can): 直せる
 おう形 (let's): 直そう
+命令形 (imperative): 直せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_直.html">直</a>
 <!--ID: 1779824391610-->
 
@@ -824,15 +838,17 @@ to fix (object) (intransitive) #card
 た形: 直った
 ます形: 直ります
 出す形 (start): 直り出す
-そう (looks like): 直りそう
+そう (looks): 直りそう
 お〜になる (honorific): お直りになる
 ない形: 直らない
 なかった形: 直らなかった
 あれる形 (passive): 直られる
+使役形 (make/let): 直らせる
 尊敬語 (honorific): 直られる
 ば形 (if): 直れば
 可能形 (can): 直れる
 おう形 (let's): 直ろう
+命令形 (imperative): 直れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_直.html">直</a>
 <!--ID: 1779824391614-->
 
@@ -851,15 +867,17 @@ to cure (injury / illness) (transitive) #card
 た形: 治した
 ます形: 治します
 出す形 (start): 治し出す
-そう (looks like): 治しそう
+そう (looks): 治しそう
 お〜になる (honorific): お治しになる
 ない形: 治さない
 なかった形: 治さなかった
 あれる形 (passive): 治される
+使役形 (make/let): 治させる
 尊敬語 (honorific): 治される
 ば形 (if): 治せば
 可能形 (can): 治せる
 おう形 (let's): 治そう
+命令形 (imperative): 治せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_治.html">治</a>
 <!--ID: 1779824391622-->
 
@@ -870,15 +888,17 @@ to cure (injury / illness) (intransitive) #card
 た形: 治った
 ます形: 治ります
 出す形 (start): 治り出す
-そう (looks like): 治りそう
+そう (looks): 治りそう
 お〜になる (honorific): お治りになる
 ない形: 治らない
 なかった形: 治らなかった
 あれる形 (passive): 治られる
+使役形 (make/let): 治らせる
 尊敬語 (honorific): 治られる
 ば形 (if): 治れば
 可能形 (can): 治れる
 おう形 (let's): 治ろう
+命令形 (imperative): 治れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_治.html">治</a>
 <!--ID: 1779824391626-->
 
@@ -896,15 +916,17 @@ to be broken #card
 た形: 壊れた
 ます形: 壊れます
 出す形 (start): 壊れ出す
-そう (looks like): 壊れそう
+そう (looks): 壊れそう
 お〜になる (honorific): お壊れになる
 ない形: 壊れない
 なかった形: 壊れなかった
 あれる形 (passive): 壊れられる
+使役形 (make/let): 壊れさせる
 尊敬語 (honorific): 壊れられる
 ば形 (if): 壊れれば
 可能形 (can): 壊れられる
 おう形 (let's): 壊れよう
+命令形 (imperative): 壊れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_壊.html">壊</a>
 <!--ID: 1779824391635-->
 
@@ -915,15 +937,17 @@ to break #card
 た形: 壊した
 ます形: 壊します
 出す形 (start): 壊し出す
-そう (looks like): 壊しそう
+そう (looks): 壊しそう
 お〜になる (honorific): お壊しになる
 ない形: 壊さない
 なかった形: 壊さなかった
 あれる形 (passive): 壊される
+使役形 (make/let): 壊させる
 尊敬語 (honorific): 壊される
 ば形 (if): 壊せば
 可能形 (can): 壊せる
 おう形 (let's): 壊そう
+命令形 (imperative): 壊せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_壊.html">壊</a>
 <!--ID: 1779824391639-->
 
@@ -934,15 +958,17 @@ to be decided (intransitive) #card
 た形: 決まった
 ます形: 決まります
 出す形 (start): 決まり出す
-そう (looks like): 決まりそう
+そう (looks): 決まりそう
 お〜になる (honorific): お決まりになる
 ない形: 決まらない
 なかった形: 決まらなかった
 あれる形 (passive): 決まられる
+使役形 (make/let): 決まらせる
 尊敬語 (honorific): 決まられる
 ば形 (if): 決まれば
 可能形 (can): 決まれる
 おう形 (let's): 決まろう
+命令形 (imperative): 決まれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_決.html">決</a>
 <!--ID: 1779824391643-->
 
@@ -963,15 +989,17 @@ to decide (transitive) #card
 た形: 決めた
 ます形: 決めます
 出す形 (start): 決め出す
-そう (looks like): 決めそう
+そう (looks): 決めそう
 お〜になる (honorific): お決めになる
 ない形: 決めない
 なかった形: 決めなかった
 あれる形 (passive): 決められる
+使役形 (make/let): 決めさせる
 尊敬語 (honorific): 決められる
 ば形 (if): 決めれば
 可能形 (can): 決められる
 おう形 (let's): 決めよう
+命令形 (imperative): 決めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_決.html">決</a>
 <!--ID: 1779824391652-->
 
@@ -993,15 +1021,17 @@ to begin (transitive) #k #card
 た形: 始めた
 ます形: 始めます
 出す形 (start): 始め出す
-そう (looks like): 始めそう
+そう (looks): 始めそう
 お〜になる (honorific): お始めになる
 ない形: 始めない
 なかった形: 始めなかった
 あれる形 (passive): 始められる
+使役形 (make/let): 始めさせる
 尊敬語 (honorific): 始められる
 ば形 (if): 始めれば
 可能形 (can): 始められる
 おう形 (let's): 始めよう
+命令形 (imperative): 始めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
 <!--ID: 1779824391660-->
 
@@ -1020,15 +1050,17 @@ to start (intransitive) #k #card
 た形: 始まった
 ます形: 始まります
 出す形 (start): 始まり出す
-そう (looks like): 始まりそう
+そう (looks): 始まりそう
 お〜になる (honorific): お始まりになる
 ない形: 始まらない
 なかった形: 始まらなかった
 あれる形 (passive): 始まられる
+使役形 (make/let): 始まらせる
 尊敬語 (honorific): 始まられる
 ば形 (if): 始まれば
 可能形 (can): 始まれる
 おう形 (let's): 始まろう
+命令形 (imperative): 始まれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
 <!--ID: 1779824391668-->
 
@@ -1047,15 +1079,17 @@ to return (an object to previous state) (transitive) #card
 た形: 返った
 ます形: 返ります
 出す形 (start): 返り出す
-そう (looks like): 返りそう
+そう (looks): 返りそう
 お〜になる (honorific): お返りになる
 ない形: 返らない
 なかった形: 返らなかった
 あれる形 (passive): 返られる
+使役形 (make/let): 返らせる
 尊敬語 (honorific): 返られる
 ば形 (if): 返れば
 可能形 (can): 返れる
 おう形 (let's): 返ろう
+命令形 (imperative): 返れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_返.html">返</a>
 <!--ID: 1779824391676-->
 
@@ -1074,15 +1108,17 @@ to be returned (an object to previous state) (intransitive) #card
 た形: 返した
 ます形: 返します
 出す形 (start): 返し出す
-そう (looks like): 返しそう
+そう (looks): 返しそう
 お〜になる (honorific): お返しになる
 ない形: 返さない
 なかった形: 返さなかった
 あれる形 (passive): 返される
+使役形 (make/let): 返させる
 尊敬語 (honorific): 返される
 ば形 (if): 返せば
 可能形 (can): 返せる
 おう形 (let's): 返そう
+命令形 (imperative): 返せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_返.html">返</a>
 <!--ID: 1779824391685-->
 
@@ -1100,15 +1136,17 @@ to break (transitive) #card
 た形: 割った
 ます形: 割ります
 出す形 (start): 割り出す
-そう (looks like): 割りそう
+そう (looks): 割りそう
 お〜になる (honorific): お割りになる
 ない形: 割らない
 なかった形: 割らなかった
 あれる形 (passive): 割られる
+使役形 (make/let): 割らせる
 尊敬語 (honorific): 割られる
 ば形 (if): 割れば
 可能形 (can): 割れる
 おう形 (let's): 割ろう
+命令形 (imperative): 割れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_割.html">割</a>
 <!--ID: 1779824391693-->
 
@@ -1126,15 +1164,17 @@ to be broken (intransitive) #card
 た形: 割れた
 ます形: 割れます
 出す形 (start): 割れ出す
-そう (looks like): 割れそう
+そう (looks): 割れそう
 お〜になる (honorific): お割れになる
 ない形: 割れない
 なかった形: 割れなかった
 あれる形 (passive): 割れられる
+使役形 (make/let): 割れさせる
 尊敬語 (honorific): 割れられる
 ば形 (if): 割れれば
 可能形 (can): 割れられる
 おう形 (let's): 割れよう
+命令形 (imperative): 割れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_割.html">割</a>
 <!--ID: 1779824391702-->
 
@@ -1151,15 +1191,17 @@ to be attached #card
 た形: 付いた
 ます形: 付きます
 出す形 (start): 付き出す
-そう (looks like): 付きそう
+そう (looks): 付きそう
 お〜になる (honorific): お付きになる
 ない形: 付かない
 なかった形: 付かなかった
 あれる形 (passive): 付かれる
+使役形 (make/let): 付かせる
 尊敬語 (honorific): 付かれる
 ば形 (if): 付けば
 可能形 (can): 付ける
 おう形 (let's): 付こう
+命令形 (imperative): 付け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 <!--ID: 1779824391710-->
 
@@ -1170,15 +1212,17 @@ to attach / to turn on #card
 た形: 付けた
 ます形: 付けます
 出す形 (start): 付け出す
-そう (looks like): 付けそう
+そう (looks): 付けそう
 お〜になる (honorific): お付けになる
 ない形: 付けない
 なかった形: 付けなかった
 あれる形 (passive): 付けられる
+使役形 (make/let): 付けさせる
 尊敬語 (honorific): 付けられる
 ば形 (if): 付ければ
 可能形 (can): 付けられる
 おう形 (let's): 付けよう
+命令形 (imperative): 付けろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 <!--ID: 1779824391714-->
 
@@ -1189,15 +1233,17 @@ to be increased (intransitive) #card
 た形: 増えた
 ます形: 増えます
 出す形 (start): 増え出す
-そう (looks like): 増えそう
+そう (looks): 増えそう
 お〜になる (honorific): お増えになる
 ない形: 増えない
 なかった形: 増えなかった
 あれる形 (passive): 増えられる
+使役形 (make/let): 増えさせる
 尊敬語 (honorific): 増えられる
 ば形 (if): 増えれば
 可能形 (can): 増えられる
 おう形 (let's): 増えよう
+命令形 (imperative): 増えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_増.html">増</a>
 <!--ID: 1779824391718-->
 
@@ -1208,15 +1254,17 @@ to increase (transitive) #card
 た形: 増やした
 ます形: 増やします
 出す形 (start): 増やし出す
-そう (looks like): 増やしそう
+そう (looks): 増やしそう
 お〜になる (honorific): お増やしになる
 ない形: 増やさない
 なかった形: 増やさなかった
 あれる形 (passive): 増やされる
+使役形 (make/let): 増やさせる
 尊敬語 (honorific): 増やされる
 ば形 (if): 増やせば
 可能形 (can): 増やせる
 おう形 (let's): 増やそう
+命令形 (imperative): 増やせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_増.html">増</a>
 <!--ID: 1779824391722-->
 
@@ -1227,15 +1275,17 @@ to be burnt (intransitive) #card
 た形: 焼けた
 ます形: 焼けます
 出す形 (start): 焼け出す
-そう (looks like): 焼けそう
+そう (looks): 焼けそう
 お〜になる (honorific): お焼けになる
 ない形: 焼けない
 なかった形: 焼けなかった
 あれる形 (passive): 焼けられる
+使役形 (make/let): 焼けさせる
 尊敬語 (honorific): 焼けられる
 ば形 (if): 焼ければ
 可能形 (can): 焼けられる
 おう形 (let's): 焼けよう
+命令形 (imperative): 焼けろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_焼.html">焼</a>
 <!--ID: 1779824391726-->
 
@@ -1246,15 +1296,17 @@ to grill　（transitive) #card
 た形: 焼いた
 ます形: 焼きます
 出す形 (start): 焼き出す
-そう (looks like): 焼きそう
+そう (looks): 焼きそう
 お〜になる (honorific): お焼きになる
 ない形: 焼かない
 なかった形: 焼かなかった
 あれる形 (passive): 焼かれる
+使役形 (make/let): 焼かせる
 尊敬語 (honorific): 焼かれる
 ば形 (if): 焼けば
 可能形 (can): 焼ける
 おう形 (let's): 焼こう
+命令形 (imperative): 焼け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_焼.html">焼</a>
 <!--ID: 1779824391730-->
 
@@ -1265,15 +1317,17 @@ to turn (intransitive) #card
 た形: 回った
 ます形: 回ります
 出す形 (start): 回り出す
-そう (looks like): 回りそう
+そう (looks): 回りそう
 お〜になる (honorific): お回りになる
 ない形: 回らない
 なかった形: 回らなかった
 あれる形 (passive): 回られる
+使役形 (make/let): 回らせる
 尊敬語 (honorific): 回られる
 ば形 (if): 回れば
 可能形 (can): 回れる
 おう形 (let's): 回ろう
+命令形 (imperative): 回れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_回.html">回</a>
 <!--ID: 1779824391734-->
 
@@ -1284,15 +1338,17 @@ to turn (transitive) #card
 た形: 回した
 ます形: 回します
 出す形 (start): 回し出す
-そう (looks like): 回しそう
+そう (looks): 回しそう
 お〜になる (honorific): お回しになる
 ない形: 回さない
 なかった形: 回さなかった
 あれる形 (passive): 回される
+使役形 (make/let): 回させる
 尊敬語 (honorific): 回される
 ば形 (if): 回せば
 可能形 (can): 回せる
 おう形 (let's): 回そう
+命令形 (imperative): 回せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_回.html">回</a>
 <!--ID: 1779824391738-->
 
@@ -1303,15 +1359,17 @@ to cool down (intransitive) #card
 た形: 冷えた
 ます形: 冷えます
 出す形 (start): 冷え出す
-そう (looks like): 冷えそう
+そう (looks): 冷えそう
 お〜になる (honorific): お冷えになる
 ない形: 冷えない
 なかった形: 冷えなかった
 あれる形 (passive): 冷えられる
+使役形 (make/let): 冷えさせる
 尊敬語 (honorific): 冷えられる
 ば形 (if): 冷えれば
 可能形 (can): 冷えられる
 おう形 (let's): 冷えよう
+命令形 (imperative): 冷えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冷.html">冷</a>
 <!--ID: 1779824391742-->
 
@@ -1322,15 +1380,17 @@ to cool (transitive) #card
 た形: 冷やした
 ます形: 冷やします
 出す形 (start): 冷やし出す
-そう (looks like): 冷やしそう
+そう (looks): 冷やしそう
 お〜になる (honorific): お冷やしになる
 ない形: 冷やさない
 なかった形: 冷やさなかった
 あれる形 (passive): 冷やされる
+使役形 (make/let): 冷やさせる
 尊敬語 (honorific): 冷やされる
 ば形 (if): 冷やせば
 可能形 (can): 冷やせる
 おう形 (let's): 冷やそう
+命令形 (imperative): 冷やせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冷.html">冷</a>
 <!--ID: 1779824391746-->
 
@@ -1341,15 +1401,17 @@ to wet (transitive) #card
 た形: 濡らした
 ます形: 濡らします
 出す形 (start): 濡らし出す
-そう (looks like): 濡らしそう
+そう (looks): 濡らしそう
 お〜になる (honorific): お濡らしになる
 ない形: 濡らさない
 なかった形: 濡らさなかった
 あれる形 (passive): 濡らされる
+使役形 (make/let): 濡らさせる
 尊敬語 (honorific): 濡らされる
 ば形 (if): 濡らせば
 可能形 (can): 濡らせる
 おう形 (let's): 濡らそう
+命令形 (imperative): 濡らせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_濡.html">濡</a>
 <!--ID: 1779824391751-->
 
@@ -1366,15 +1428,17 @@ to get wet (intransitive) #card
 た形: 濡れた
 ます形: 濡れます
 出す形 (start): 濡れ出す
-そう (looks like): 濡れそう
+そう (looks): 濡れそう
 お〜になる (honorific): お濡れになる
 ない形: 濡れない
 なかった形: 濡れなかった
 あれる形 (passive): 濡れられる
+使役形 (make/let): 濡れさせる
 尊敬語 (honorific): 濡れられる
 ば形 (if): 濡れれば
 可能形 (can): 濡れられる
 おう形 (let's): 濡れよう
+命令形 (imperative): 濡れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_濡.html">濡</a>
 <!--ID: 1779824391759-->
 
@@ -1393,15 +1457,17 @@ to be boiled (intransitive) #card
 た形: 沸いた
 ます形: 沸きます
 出す形 (start): 沸き出す
-そう (looks like): 沸きそう
+そう (looks): 沸きそう
 お〜になる (honorific): お沸きになる
 ない形: 沸かない
 なかった形: 沸かなかった
 あれる形 (passive): 沸かれる
+使役形 (make/let): 沸かせる
 尊敬語 (honorific): 沸かれる
 ば形 (if): 沸けば
 可能形 (can): 沸ける
 おう形 (let's): 沸こう
+命令形 (imperative): 沸け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_沸.html">沸</a>
 <!--ID: 1779824391767-->
 
@@ -1412,15 +1478,17 @@ to boil (transitive) #card
 た形: 沸かした
 ます形: 沸かします
 出す形 (start): 沸かし出す
-そう (looks like): 沸かしそう
+そう (looks): 沸かしそう
 お〜になる (honorific): お沸かしになる
 ない形: 沸かさない
 なかった形: 沸かさなかった
 あれる形 (passive): 沸かされる
+使役形 (make/let): 沸かさせる
 尊敬語 (honorific): 沸かされる
 ば形 (if): 沸かせば
 可能形 (can): 沸かせる
 おう形 (let's): 沸かそう
+命令形 (imperative): 沸かせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_沸.html">沸</a>
 <!--ID: 1779824391774-->
 
@@ -1431,15 +1499,17 @@ to be stopped (intransitive) #card
 た形: 止まった
 ます形: 止まります
 出す形 (start): 止まり出す
-そう (looks like): 止まりそう
+そう (looks): 止まりそう
 お〜になる (honorific): お止まりになる
 ない形: 止まらない
 なかった形: 止まらなかった
 あれる形 (passive): 止まられる
+使役形 (make/let): 止まらせる
 尊敬語 (honorific): 止まられる
 ば形 (if): 止まれば
 可能形 (can): 止まれる
 おう形 (let's): 止まろう
+命令形 (imperative): 止まれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_止.html">止</a>
 <!--ID: 1779824391778-->
 
@@ -1458,15 +1528,17 @@ to stop (transitive) #card
 た形: 止めた
 ます形: 止めます
 出す形 (start): 止め出す
-そう (looks like): 止めそう
+そう (looks): 止めそう
 お〜になる (honorific): お止めになる
 ない形: 止めない
 なかった形: 止めなかった
 あれる形 (passive): 止められる
+使役形 (make/let): 止めさせる
 尊敬語 (honorific): 止められる
 ば形 (if): 止めれば
 可能形 (can): 止められる
 おう形 (let's): 止めよう
+命令形 (imperative): 止めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_止.html">止</a>
 <!--ID: 1779824391786-->
 
@@ -1483,15 +1555,17 @@ to wake up (intransitive) #k #card
 た形: 起きた
 ます形: 起きます
 出す形 (start): 起き出す
-そう (looks like): 起きそう
+そう (looks): 起きそう
 お〜になる (honorific): お起きになる
 ない形: 起きない
 なかった形: 起きなかった
 あれる形 (passive): 起きられる
+使役形 (make/let): 起きさせる
 尊敬語 (honorific): 起きられる
 ば形 (if): 起きれば
 可能形 (can): 起きられる
 おう形 (let's): 起きよう
+命令形 (imperative): 起きろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1779824391795-->
 
@@ -1502,15 +1576,17 @@ to wake up (transitive) #k #card
 た形: 起こした
 ます形: 起こします
 出す形 (start): 起こし出す
-そう (looks like): 起こしそう
+そう (looks): 起こしそう
 お〜になる (honorific): お起こしになる
 ない形: 起こさない
 なかった形: 起こさなかった
 あれる形 (passive): 起こされる
+使役形 (make/let): 起こさせる
 尊敬語 (honorific): 起こされる
 ば形 (if): 起こせば
 可能形 (can): 起こせる
 おう形 (let's): 起こそう
+命令形 (imperative): 起こせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1779824391799-->
 
@@ -1521,15 +1597,17 @@ to fall (intransitive) #card
 た形: 倒れた
 ます形: 倒れます
 出す形 (start): 倒れ出す
-そう (looks like): 倒れそう
+そう (looks): 倒れそう
 お〜になる (honorific): お倒れになる
 ない形: 倒れない
 なかった形: 倒れなかった
 あれる形 (passive): 倒れられる
+使役形 (make/let): 倒れさせる
 尊敬語 (honorific): 倒れられる
 ば形 (if): 倒れれば
 可能形 (can): 倒れられる
 おう形 (let's): 倒れよう
+命令形 (imperative): 倒れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_倒.html">倒</a>
 <!--ID: 1779824391803-->
 
@@ -1540,15 +1618,17 @@ to knock down (transitive) #card
 た形: 倒した
 ます形: 倒します
 出す形 (start): 倒し出す
-そう (looks like): 倒しそう
+そう (looks): 倒しそう
 お〜になる (honorific): お倒しになる
 ない形: 倒さない
 なかった形: 倒さなかった
 あれる形 (passive): 倒される
+使役形 (make/let): 倒させる
 尊敬語 (honorific): 倒される
 ば形 (if): 倒せば
 可能形 (can): 倒せる
 おう形 (let's): 倒そう
+命令形 (imperative): 倒せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_倒.html">倒</a>
 <!--ID: 1779824391807-->
 
@@ -1831,15 +1911,17 @@ to associate with / to go out with #card
 た形: 付き合った
 ます形: 付き合います
 出す形 (start): 付き合い出す
-そう (looks like): 付き合いそう
+そう (looks): 付き合いそう
 お〜になる (honorific): お付き合いになる
 ない形: 付き合わない
 なかった形: 付き合わなかった
 あれる形 (passive): 付き合われる
+使役形 (make/let): 付き合わせる
 尊敬語 (honorific): 付き合われる
 ば形 (if): 付き合えば
 可能形 (can): 付き合える
 おう形 (let's): 付き合おう
+命令形 (imperative): 付き合え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1779824391938-->

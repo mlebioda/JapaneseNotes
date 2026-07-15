@@ -437,15 +437,17 @@ be enough/sufficient #card
 た形: たりた
 ます形: たります
 出す形 (start): たり出す
-そう (looks like): たりそう
+そう (looks): たりそう
 お〜になる (honorific): お足りになる
 ない形: たりない
 なかった形: たりなかった
-受身形 (passive): たりられる
+あれる形 (passive): たりられる
+使役形 (make/let): たりさせる
 尊敬語 (honorific): たりられる
 ば形 (if): たりれば
 可能形 (can): たりられる
 おう形 (let's): たりよう
+命令形 (imperative): たりろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1761890414836-->
 

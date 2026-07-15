@@ -387,15 +387,17 @@ to start (I start something) #k #card
 た形: 始めた
 ます形: 始めます
 出す形 (start): 始め出す
-そう (looks like): 始めそう
+そう (looks): 始めそう
 お〜になる (honorific): お始めになる
 ない形: 始めない
 なかった形: 始めなかった
 あれる形 (passive): 始められる
+使役形 (make/let): 始めさせる
 尊敬語 (honorific): 始められる
 ば形 (if): 始めれば
 可能形 (can): 始められる
 おう形 (let's): 始めよう
+命令形 (imperative): 始めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
 <!--ID: 1780855042427-->
 
@@ -414,15 +416,17 @@ begin (starts on its own) #k #card
 た形: 始まった
 ます形: 始まります
 出す形 (start): 始まり出す
-そう (looks like): 始まりそう
+そう (looks): 始まりそう
 お〜になる (honorific): お始まりになる
 ない形: 始まらない
 なかった形: 始まらなかった
 あれる形 (passive): 始まられる
+使役形 (make/let): 始まらせる
 尊敬語 (honorific): 始まられる
 ば形 (if): 始まれば
 可能形 (can): 始まれる
 おう形 (let's): 始まろう
+命令形 (imperative): 始まれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
 <!--ID: 1780855042433-->
 
@@ -473,15 +477,17 @@ end (on its own) #k #card
 た形: 終わった
 ます形: 終わります
 出す形 (start): 終わり出す
-そう (looks like): 終わりそう
+そう (looks): 終わりそう
 お〜になる (honorific): お終わりになる
 ない形: 終わらない
 なかった形: 終わらなかった
 あれる形 (passive): 終わられる
+使役形 (make/let): 終わらせる
 尊敬語 (honorific): 終わられる
 ば形 (if): 終われば
 可能形 (can): 終われる
 おう形 (let's): 終わろう
+命令形 (imperative): 終われ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_終.html">終</a>
 <!--ID: 1780855042449-->
 
@@ -500,15 +506,17 @@ finish (someone actively finishes smth) #k #card
 た形: 終えた
 ます形: 終えます
 出す形 (start): 終え出す
-そう (looks like): 終えそう
+そう (looks): 終えそう
 お〜になる (honorific): お終えになる
 ない形: 終えない
 なかった形: 終えなかった
 あれる形 (passive): 終えられる
+使役形 (make/let): 終えさせる
 尊敬語 (honorific): 終えられる
 ば形 (if): 終えれば
 可能形 (can): 終えられる
 おう形 (let's): 終えよう
+命令形 (imperative): 終えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_終.html">終</a>
 <!--ID: 1780855042454-->
 
@@ -558,15 +566,17 @@ build #k #card
 た形: 建てた
 ます形: 建てます
 出す形 (start): 建て出す
-そう (looks like): 建てそう
+そう (looks): 建てそう
 お〜になる (honorific): お建てになる
 ない形: 建てない
 なかった形: 建てなかった
 あれる形 (passive): 建てられる
+使役形 (make/let): 建てさせる
 尊敬語 (honorific): 建てられる
 ば形 (if): 建てれば
 可能形 (can): 建てられる
 おう形 (let's): 建てよう
+命令形 (imperative): 建てろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
 <!--ID: 1780855042469-->
 

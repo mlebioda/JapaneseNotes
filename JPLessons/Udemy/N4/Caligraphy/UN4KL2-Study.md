@@ -218,15 +218,17 @@ to strive / to make an effort (rzadkie, literackie) #k #card
 た形: 勉めた
 ます形: 勉めます
 出す形 (start): 勉め出す
-そう (looks like): 勉めそう
+そう (looks): 勉めそう
 お〜になる (honorific): お勉めになる
 ない形: 勉めない
 なかった形: 勉めなかった
 あれる形 (passive): 勉められる
+使役形 (make/let): 勉めさせる
 尊敬語 (honorific): 勉められる
 ば形 (if): 勉めれば
 可能形 (can): 勉められる
 おう形 (let's): 勉めよう
+命令形 (imperative): 勉めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勉.html">勉</a>
 <!--ID: 1780855042141-->
 
@@ -259,7 +261,7 @@ strong #k #card
 過去形: 強かった
 否定形: 強くない
 副詞形: 強く
-そう (looks like): 強そう
+そう (looks): 強そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1780855042157-->
 
@@ -286,15 +288,17 @@ bluff, udawać twardego #k #card
 た形: 強がった
 ます形: 強がります
 出す形 (start): 強がり出す
-そう (looks like): 強がりそう
+そう (looks): 強がりそう
 お〜になる (honorific): お強がりになる
 ない形: 強がらない
 なかった形: 強がらなかった
 あれる形 (passive): 強がられる
+使役形 (make/let): 強がらせる
 尊敬語 (honorific): 強がられる
 ば形 (if): 強がれば
 可能形 (can): 強がれる
 おう形 (let's): 強がろう
+命令形 (imperative): 強がれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1780855042168-->
 
@@ -312,15 +316,17 @@ teach #k #card
 た形: 教えた
 ます形: 教えます
 出す形 (start): 教え出す
-そう (looks like): 教えそう
+そう (looks): 教えそう
 お〜になる (honorific): お教えになる
 ない形: 教えない
 なかった形: 教えなかった
 あれる形 (passive): 教えられる
+使役形 (make/let): 教えさせる
 尊敬語 (honorific): 教えられる
 ば形 (if): 教えれば
 可能形 (can): 教えられる
 おう形 (let's): 教えよう
+命令形 (imperative): 教えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <!--ID: 1780855042173-->
 
@@ -370,15 +376,17 @@ receive #card
 た形: 受けた
 ます形: 受けます
 出す形 (start): 受け出す
-そう (looks like): 受けそう
+そう (looks): 受けそう
 お〜になる (honorific): お受けになる
 ない形: 受けない
 なかった形: 受けなかった
 あれる形 (passive): 受けられる
+使役形 (make/let): 受けさせる
 尊敬語 (honorific): 受けられる
 ば形 (if): 受ければ
 可能形 (can): 受けられる
 おう形 (let's): 受けよう
+命令形 (imperative): 受けろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_受.html">受</a>
 <!--ID: 1780855042189-->
 
@@ -389,15 +397,17 @@ raise, wznosić, wychowywać #k #card
 た形: 育てた
 ます形: 育てます
 出す形 (start): 育て出す
-そう (looks like): 育てそう
+そう (looks): 育てそう
 お〜になる (honorific): お育てになる
 ない形: 育てない
 なかった形: 育てなかった
 あれる形 (passive): 育てられる
+使役形 (make/let): 育てさせる
 尊敬語 (honorific): 育てられる
 ば形 (if): 育てれば
 可能形 (can): 育てられる
 おう形 (let's): 育てよう
+命令形 (imperative): 育てろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_育.html">育</a>
 <!--ID: 1780855042191-->
 
@@ -434,15 +444,17 @@ grow, dorastanie #k #card
 た形: 育った
 ます形: 育ちます
 出す形 (start): 育ち出す
-そう (looks like): 育ちそう
+そう (looks): 育ちそう
 お〜になる (honorific): お育ちになる
 ない形: 育たない
 なかった形: 育たなかった
 あれる形 (passive): 育たれる
+使役形 (make/let): 育たせる
 尊敬語 (honorific): 育たれる
 ば形 (if): 育てば
 可能形 (can): 育てる
 おう形 (let's): 育とう
+命令形 (imperative): 育て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_育.html">育</a>
 <!--ID: 1780855042206-->
 
@@ -534,15 +546,17 @@ to test, attempting (more formal or attempting something new) #k #card
 た形: 試みた
 ます形: 試みます
 出す形 (start): 試み出す
-そう (looks like): 試みそう
+そう (looks): 試みそう
 お〜になる (honorific): お試みになる
 ない形: 試みない
 なかった形: 試みなかった
 あれる形 (passive): 試みられる
+使役形 (make/let): 試みさせる
 尊敬語 (honorific): 試みられる
 ば形 (if): 試みれば
 可能形 (can): 試みられる
 おう形 (let's): 試みよう
+命令形 (imperative): 試みろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
 <!--ID: 1780855042241-->
 
@@ -559,15 +573,17 @@ to test (everyday situations) #k #card
 た形: 試した
 ます形: 試します
 出す形 (start): 試し出す
-そう (looks like): 試しそう
+そう (looks): 試しそう
 お〜になる (honorific): お試しになる
 ない形: 試さない
 なかった形: 試さなかった
 あれる形 (passive): 試される
+使役形 (make/let): 試させる
 尊敬語 (honorific): 試される
 ば形 (if): 試せば
 可能形 (can): 試せる
 おう形 (let's): 試そう
+命令形 (imperative): 試せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
 <!--ID: 1780855042248-->
 
@@ -632,15 +648,17 @@ inquire(pytać) #k #card
 た形: 質した
 ます形: 質します
 出す形 (start): 質し出す
-そう (looks like): 質しそう
+そう (looks): 質しそう
 お〜になる (honorific): お質しになる
 ない形: 質さない
 なかった形: 質さなかった
 あれる形 (passive): 質される
+使役形 (make/let): 質させる
 尊敬語 (honorific): 質される
 ば形 (if): 質せば
 可能形 (can): 質せる
 おう形 (let's): 質そう
+命令形 (imperative): 質せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_質.html">質</a>
 <!--ID: 1780855042267-->
 
@@ -682,15 +700,17 @@ ask, zapytać (Often used in writing, legal language, or philosophical discussio
 た形: 問った
 ます形: 問います
 出す形 (start): 問い出す
-そう (looks like): 問いそう
+そう (looks): 問いそう
 お〜になる (honorific): お問いになる
 ない形: 問わない
 なかった形: 問わなかった
 あれる形 (passive): 問われる
+使役形 (make/let): 問わせる
 尊敬語 (honorific): 問われる
 ば形 (if): 問えば
 可能形 (can): 問える
 おう形 (let's): 問おう
+命令形 (imperative): 問え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
 <!--ID: 1780855042300-->
 
@@ -706,15 +726,17 @@ to answer #k #card
 た形: 答えた
 ます形: 答えます
 出す形 (start): 答え出す
-そう (looks like): 答えそう
+そう (looks): 答えそう
 お〜になる (honorific): お答えになる
 ない形: 答えない
 なかった形: 答えなかった
 あれる形 (passive): 答えられる
+使役形 (make/let): 答えさせる
 尊敬語 (honorific): 答えられる
 ば形 (if): 答えれば
 可能形 (can): 答えられる
 おう形 (let's): 答えよう
+命令形 (imperative): 答えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 <!--ID: 1780855042304-->
 
@@ -757,15 +779,17 @@ to learn through practice #k #card
 た形: 習った
 ます形: 習います
 出す形 (start): 習い出す
-そう (looks like): 習いそう
+そう (looks): 習いそう
 お〜になる (honorific): お習いになる
 ない形: 習わない
 なかった形: 習わなかった
 あれる形 (passive): 習われる
+使役形 (make/let): 習わせる
 尊敬語 (honorific): 習われる
 ば形 (if): 習えば
 可能形 (can): 習える
 おう形 (let's): 習おう
+命令形 (imperative): 習え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_習.html">習</a>
 <!--ID: 1780855042322-->
 

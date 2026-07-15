@@ -20,7 +20,7 @@ Stem = adjective minus final い.
 過去形:  stem + かった
 否定形:  stem + くない
 副詞形:  stem + く
-そう (looks like):    stem + そう
+そう (looks):    stem + そう
 ```
 
 ### Special case: いい / よい
@@ -29,7 +29,7 @@ Stem = adjective minus final い.
 過去形:  よかった
 否定形:  よくない
 副詞形:  よく
-そう (looks like):    よさそう
+そう (looks):    よさそう
 ```
 
 Both `いい` and `よい` use the `よ-` stem for all derived forms.
@@ -45,7 +45,7 @@ All conjugation fields that do not apply receive a dash.
 過去形:  —
 否定形:  —
 副詞形:  —
-そう (looks like):    base + そう   (e.g. 静か → 静かそう)
+そう (looks):    base + そう   (e.g. 静か → 静かそう)
 ```
 
 The base for `そう` is the plain な-adjective stem (without な or だ).
@@ -60,7 +60,7 @@ When a `#wp` line turns out to be an adverb or other non-adjective word:
 過去形:  —
 否定形:  —
 副詞形:  —
-そう (looks like):    —
+そう (looks):    —
 ```
 
 ---

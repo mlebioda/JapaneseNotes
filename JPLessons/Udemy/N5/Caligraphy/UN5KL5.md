@@ -289,7 +289,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 <!--ID: 1762954532421-->
 
 
- land #card
+ land (General everyday word.) #card
 ほんやく: 土地（とち）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_土.html">土</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_地.html">地</a>
@@ -431,15 +431,17 @@ płonąć samo #wc #card
 た形: もえた
 ます形: もえます
 出す形 (start): もえ出す
-そう (looks like): もえそう
+そう (looks): もえそう
 お〜になる (honorific): お燃えになる
 ない形: もえない
 なかった形: もえなかった
-受身形 (passive): もえられる
+あれる形 (passive): もえられる
+使役形 (make/let): もえさせる
 尊敬語 (honorific): もえられる
 ば形 (if): もえれば
 可能形 (can): もえられる
 おう形 (let's): もえよう
+命令形 (imperative): もえろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_燃.html">燃</a>
 <!--ID: 1762954532479-->
 
@@ -450,15 +452,17 @@ spalać coś (ktoś) #wc #card
 た形: もやした
 ます形: もやします
 出す形 (start): もやし出す
-そう (looks like): もやしそう
+そう (looks): もやしそう
 お〜になる (honorific): お燃やしになる
 ない形: もやさない
 なかった形: もやさなかった
-受身形 (passive): もやされる
+あれる形 (passive): もやされる
+使役形 (make/let): もやさせる
 尊敬語 (honorific): もやされる
 ば形 (if): もやせば
 可能形 (can): もやせる
 おう形 (let's): もやそう
+命令形 (imperative): もやせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_燃.html">燃</a>
 <!--ID: 1762954532483-->
 
@@ -469,15 +473,17 @@ zgasnąć, zniknąć, wyłączyć się (samo) #wc #card
 た形: きえた
 ます形: きえます
 出す形 (start): きえ出す
-そう (looks like): きえそう
+そう (looks): きえそう
 お〜になる (honorific): お消えになる
 ない形: きえない
 なかった形: きえなかった
-受身形 (passive): きえられる
+あれる形 (passive): きえられる
+使役形 (make/let): きえさせる
 尊敬語 (honorific): きえられる
 ば形 (if): きえれば
 可能形 (can): きえられる
 おう形 (let's): きえよう
+命令形 (imperative): きえろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 <!--ID: 1762954532486-->
 
@@ -488,15 +494,17 @@ zgasić, wyłączyć (ktoś) #wc #card
 た形: けした
 ます形: けします
 出す形 (start): けし出す
-そう (looks like): けしそう
+そう (looks): けしそう
 お〜になる (honorific): お消しになる
 ない形: けさない
 なかった形: けさなかった
-受身形 (passive): けされる
+あれる形 (passive): けされる
+使役形 (make/let): けさせる
 尊敬語 (honorific): けされる
 ば形 (if): けせば
 可能形 (can): けせる
 おう形 (let's): けそう
+命令形 (imperative): けせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 <!--ID: 1762954532489-->
 
@@ -507,15 +515,17 @@ to be born #k #wc #card
 た形: うまれた
 ます形: うまれます
 出す形 (start): うまれ出す
-そう (looks like): うまれそう
+そう (looks): うまれそう
 お〜になる (honorific): お生まれになる
 ない形: うまれない
 なかった形: うまれなかった
-受身形 (passive): うまれられる
+あれる形 (passive): うまれられる
+使役形 (make/let): うまれさせる
 尊敬語 (honorific): うまれられる
 ば形 (if): うまれれば
 可能形 (can): うまれられる
 おう形 (let's): うまれよう
+命令形 (imperative): うまれろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <!--ID: 1762954532493-->
 
@@ -526,15 +536,17 @@ to live #k #wc #card
 た形: いきた
 ます形: いきます
 出す形 (start): いき出す
-そう (looks like): いきそう
+そう (looks): いきそう
 お〜になる (honorific): お生きになる
 ない形: いきない
 なかった形: いきなかった
-受身形 (passive): いきられる
+あれる形 (passive): いきられる
+使役形 (make/let): いきさせる
 尊敬語 (honorific): いきられる
 ば形 (if): いきれば
 可能形 (can): いきられる
 おう形 (let's): いきよう
+命令形 (imperative): いきろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <!--ID: 1762954532495-->
 
@@ -545,15 +557,17 @@ to learn (akademicki ton, np. kierunki studiów) #k #wc #card
 た形: まなんだ
 ます形: まなびます
 出す形 (start): まなび出す
-そう (looks like): まなびそう
+そう (looks): まなびそう
 お〜になる (honorific): お学びになる
 ない形: まなばない
 なかった形: まなばなかった
-受身形 (passive): まなばれる
+あれる形 (passive): まなばれる
+使役形 (make/let): まなばせる
 尊敬語 (honorific): まなばれる
 ば形 (if): まなべば
 可能形 (can): まなべる
 おう形 (let's): まなぼう
+命令形 (imperative): まなべ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1762954532497-->
 

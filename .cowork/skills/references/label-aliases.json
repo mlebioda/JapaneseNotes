@@ -35,9 +35,9 @@
   "Forma przeszła:": "過去形:",
   "Przeczenie:": "否定形:",
   "Przysłówek:": "副詞形:",
-  "looks like:": "そう (looks like):",
-  "sou:": "そう (looks like):",
-  "そう:": "そう (looks like):",
+  "looks like:": "そう (looks):",
+  "sou:": "そう (looks):",
+  "そう:": "そう (looks):",
   "past:": "過去形:",
   "past form:": "過去形:",
   "negative form:": "否定形:",
@@ -51,5 +51,10 @@
   "使役形:": "使役形 (make/let):",
   "せる形:": "使役形 (make/let):",
   "させる形:": "使役形 (make/let):",
-  "Forma sprawcza:": "使役形 (make/let):"
+  "Forma sprawcza:": "使役形 (make/let):",
+  "imperative:": "命令形 (imperative):",
+  "命令形:": "命令形 (imperative):",
+  "ろ形:": "命令形 (imperative):",
+  "命令 (imperative):": "命令形 (imperative):",
+  "Forma rozkazująca:": "命令形 (imperative):"
 }

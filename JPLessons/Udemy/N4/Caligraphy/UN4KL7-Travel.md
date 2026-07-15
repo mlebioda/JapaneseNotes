@@ -401,7 +401,7 @@ The road (道) is where your head (首) leads you as you walk (辶)
 
  eye doctor #card
 ほんやく: 目医者（めいしゃ）
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_眼.html">眼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
 <!--ID: 1744994110049-->
@@ -576,7 +576,7 @@ The road (道) is where your head (首) leads you as you walk (辶)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <!--ID: 1744994110093-->
 
- in the town/neighborhood #card
+ in the town/neighborhood (local community area, popularr in administrative context) #card
 ほんやく: 町内（ちょうない）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_町.html">町</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_内.html">内</a>
@@ -622,7 +622,7 @@ The road (道) is where your head (首) leads you as you walk (辶)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <!--ID: 1744994110106-->
 
- land #card
+ land (property, piece of land. More formal/old-fashioned term, often implies ownership) #card
 ほんやく: 地所（じしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_地.html">地</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
@@ -727,6 +727,7 @@ The road (道) is where your head (首) leads you as you walk (辶)
 ほんやく: 町内の道はよく知っています（ちょうない、みち、し）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_町.html">町</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_内.html">内</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110138-->
 
@@ -755,15 +756,17 @@ to measure #card
 た形: 計った
 ます形: 計ります
 出す形 (start): 計り出す
-そう (looks like): 計りそう
+そう (looks): 計りそう
 お〜になる (honorific): お計りになる
 ない形: 計らない
 なかった形: 計らなかった
 あれる形 (passive): 計られる
+使役形 (make/let): 計らせる
 尊敬語 (honorific): 計られる
 ば形 (if): 計れば
 可能形 (can): 計れる
 おう形 (let's): 計ろう
+命令形 (imperative): 計れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <!--ID: 1744994110147-->
 
@@ -773,15 +776,17 @@ draw #card
 た形: 画いた
 ます形: 画きます
 出す形 (start): 画き出す
-そう (looks like): 画きそう
+そう (looks): 画きそう
 お〜になる (honorific): お画きになる
 ない形: 画かない
 なかった形: 画かなかった
 あれる形 (passive): 画かれる
+使役形 (make/let): 画かせる
 尊敬語 (honorific): 画かれる
 ば形 (if): 画けば
 可能形 (can): 画ける
 おう形 (let's): 画こう
+命令形 (imperative): 画け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 
 draw #card  
@@ -790,15 +795,17 @@ draw #card
 た形: 画いた
 ます形: 画きます
 出す形 (start): 画き出す
-そう (looks like): 画きそう
+そう (looks): 画きそう
 お〜になる (honorific): お画きになる
 ない形: 画かない
 なかった形: 画かなかった
 あれる形 (passive): 画かれる
+使役形 (make/let): 画かせる
 尊敬語 (honorific): 画かれる
 ば形 (if): 画けば
 可能形 (can): 画ける
 おう形 (let's): 画こう
+命令形 (imperative): 画け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_描.html">描</a>
 
@@ -808,15 +815,17 @@ to miss/ to be disconnected #card
 た形: 外れた
 ます形: 外れます
 出す形 (start): 外れ出す
-そう (looks like): 外れそう
+そう (looks): 外れそう
 お〜になる (honorific): お外れになる
 ない形: 外れない
 なかった形: 外れなかった
 あれる形 (passive): 外れられる
+使役形 (make/let): 外れさせる
 尊敬語 (honorific): 外れられる
 ば形 (if): 外れれば
 可能形 (can): 外れられる
 おう形 (let's): 外れよう
+命令形 (imperative): 外れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 
 attempt #card  
@@ -825,15 +834,17 @@ attempt #card
 た形: 図った
 ます形: 図ります
 出す形 (start): 図り出す
-そう (looks like): 図りそう
+そう (looks): 図りそう
 お〜になる (honorific): お図りになる
 ない形: 図らない
 なかった形: 図らなかった
 あれる形 (passive): 図られる
+使役形 (make/let): 図らせる
 尊敬語 (honorific): 図られる
 ば形 (if): 図れば
 可能形 (can): 図れる
 おう形 (let's): 図ろう
+命令形 (imperative): 図れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_図.html">図</a>
 
 hold/have/possess/posiadać #card  
@@ -842,14 +853,16 @@ hold/have/possess/posiadać #card
 た形: 持った
 ます形: 持ちます
 出す形 (start): 持ち出す
-そう (looks like): 持ちそう
+そう (looks): 持ちそう
 お〜になる (honorific): お持ちになる
 ない形: 持たない
 なかった形: 持たなかった
 あれる形 (passive): 持たれる
+使役形 (make/let): 持たせる
 尊敬語 (honorific): 持たれる
 ば形 (if): 持てば
 可能形 (can): 持てる
 おう形 (let's): 持とう
+命令形 (imperative): 持て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 

@@ -584,15 +584,17 @@ pour (wlać) #k #card
 た形: 注いだ
 ます形: 注ぎます
 出す形 (start): 注ぎ出す
-そう (looks like): 注ぎそう
+そう (looks): 注ぎそう
 お〜になる (honorific): お注ぎになる
 ない形: 注がない
 なかった形: 注がなかった
 あれる形 (passive): 注がれる
+使役形 (make/let): 注がせる
 尊敬語 (honorific): 注がれる
 ば形 (if): 注げば
 可能形 (can): 注げる
 おう形 (let's): 注ごう
+命令形 (imperative): 注げ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <!--ID: 1780855042746-->
 
@@ -686,15 +688,17 @@ wear #k #card
 た形: 着た
 ます形: 着ます
 出す形 (start): 着出す
-そう (looks like): 着そう
+そう (looks): 着そう
 お〜になる (honorific): お着になる
 ない形: 着ない
 なかった形: 着なかった
 あれる形 (passive): 着られる
+使役形 (make/let): 着させる
 尊敬語 (honorific): 着られる
 ば形 (if): 着れば
 可能形 (can): 着られる
 おう形 (let's): 着よう
+命令形 (imperative): 着ろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <!--ID: 1780855042758-->
 
@@ -723,15 +727,17 @@ arrive #k #card
 た形: 着いた
 ます形: 着きます
 出す形 (start): 着き出す
-そう (looks like): 着きそう
+そう (looks): 着きそう
 お〜になる (honorific): お着きになる
 ない形: 着かない
 なかった形: 着かなかった
 あれる形 (passive): 着かれる
+使役形 (make/let): 着かせる
 尊敬語 (honorific): 着かれる
 ば形 (if): 着けば
 可能形 (can): 着ける
 おう形 (let's): 着こう
+命令形 (imperative): 着け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <!--ID: 1780855042761-->
 
@@ -783,7 +789,7 @@ many #k #card
 過去形: 多かった
 否定形: 多くない
 副詞形: 多く
-そう (looks like): 多そう
+そう (looks): 多そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <!--ID: 1780855042767-->
 

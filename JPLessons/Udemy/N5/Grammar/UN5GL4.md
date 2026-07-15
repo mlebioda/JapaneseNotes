@@ -385,7 +385,7 @@ Example:
 
  --- 
 
-# Summary
+# Grammar Summary
 
 ## 文法
 
@@ -647,7 +647,7 @@ Example:
 
 
 
-## vocab
+# Summary
 
  what year #card
 ほんやく: 何年（なんねん）
@@ -894,6 +894,7 @@ Example:
 ほんやく: 四年(間)（よねんかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631666-->
 
 
@@ -922,6 +923,7 @@ Example:
 ほんやく: 一か月(間)（いっかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631670-->
 
 
@@ -929,6 +931,7 @@ Example:
 ほんやく: 二か月(間)（にかげつかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631671-->
 
 
@@ -936,6 +939,7 @@ Example:
 ほんやく: 三か月(間)（さんかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631672-->
 
 
@@ -943,6 +947,7 @@ Example:
 ほんやく: 四か月(間)（よんかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631673-->
 
 
@@ -950,6 +955,7 @@ Example:
 ほんやく: 五か月(間)（ごかげつかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631674-->
 
 
@@ -957,6 +963,7 @@ Example:
 ほんやく: 六か月(間)（ろっかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631675-->
 
 
@@ -964,6 +971,7 @@ Example:
 ほんやく: 七か月(間)（ななかげつかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631676-->
 
 
@@ -971,6 +979,7 @@ Example:
 ほんやく: 八か月(間)（はちかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631677-->
 
 
@@ -978,6 +987,7 @@ Example:
 ほんやく: 九か月(間)（きゅうかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631678-->
 
 
@@ -985,6 +995,7 @@ Example:
 ほんやく: 十か月(間)（じゅっかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631679-->
 
 

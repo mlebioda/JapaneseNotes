@@ -1616,3 +1616,7 @@ amber
 sorrowful
 nudge
 drawer
+As for
+to long for
+to admire
+back/refrain

@@ -427,15 +427,17 @@ to meet #k #card
 た形: 会った
 ます形: 会います
 出す形 (start): 会い出す
-そう (looks like): 会いそう
+そう (looks): 会いそう
 お〜になる (honorific): お会いになる
 ない形: 会わない
 なかった形: 会わなかった
-受身形 (passive): 会われる
+あれる形 (passive): 会われる
+使役形 (make/let): 会わせる
 尊敬語 (honorific): 会われる
 ば形 (if): 会えば
 可能形 (can): 会える
 おう形 (let's): 会おう
+命令形 (imperative): 会え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <!--ID: 1776605660624-->
 
@@ -577,15 +579,17 @@ to bloom, to blossom #card
 た形: 咲いた
 ます形: 咲きます
 出す形 (start): 咲き出す
-そう (looks like): 咲きそう
+そう (looks): 咲きそう
 お〜になる (honorific): お咲きになる
 ない形: 咲かない
 なかった形: 咲かなかった
-受身形 (passive): 咲かれる
+あれる形 (passive): 咲かれる
+使役形 (make/let): 咲かせる
 尊敬語 (honorific): 咲かれる
 ば形 (if): 咲けば
 可能形 (can): 咲ける
 おう形 (let's): 咲こう
+命令形 (imperative): 咲け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_咲.html">咲</a>
 <!--ID: 1776605660641-->
 

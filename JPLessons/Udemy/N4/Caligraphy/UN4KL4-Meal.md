@@ -527,15 +527,17 @@ get a taste of #k #card
 た形: 味わった
 ます形: 味わいます
 出す形 (start): 味わい出す
-そう (looks like): 味わいそう
+そう (looks): 味わいそう
 お〜になる (honorific): お味わいになる
 ない形: 味わわない
 なかった形: 味わわなかった
 あれる形 (passive): 味わわれる
+使役形 (make/let): 味わわせる
 尊敬語 (honorific): 味わわれる
 ば形 (if): 味わえば
 可能形 (can): 味わえる
 おう形 (let's): 味わおう
+命令形 (imperative): 味わえ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <!--ID: 1780855042654-->
 

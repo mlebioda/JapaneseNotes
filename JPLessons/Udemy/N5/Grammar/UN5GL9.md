@@ -1131,6 +1131,7 @@ Structure
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1763465823009-->
 
@@ -1353,7 +1354,7 @@ Structure
 
 
  bake seven cookies   #card
-ほんやく: クッキーを七個（ななこ）焼く 
+ほんやく: クッキーを七個（ななこ）焼(や)く 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_焼.html">焼</a>
@@ -1978,16 +1979,18 @@ payment (often in restaurant)/ to pay #k #wc #card
 て形: 会計して
 た形: 会計した
 ます形: 会計します
-出す形 (start): 会計しだす
-そう (looks like): 会計しそう
+出す形 (start): 会計し出す
+そう (looks): 会計しそう
 お〜になる (honorific): お会計しになる
 ない形: 会計しない
 なかった形: 会計しなかった
 あれる形 (passive):  会計される
+使役形 (make/let): 会計させる
 尊敬語 (honorific): 会計される
 ば形 (if): 会計すれば
 可能形 (can): 会計できる
 おう形 (let's): 会計しよう
+命令形 (imperative): 会計しろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <!--ID: 1763465823119-->
@@ -2000,16 +2003,18 @@ life / to live （prowadzic zycie, miec styl zycia) #k #card
 て形: 生活して
 た形: 生活した
 ます形: 生活します
-出す形 (start): 生活しだす
-そう (looks like): 生活しそう
+出す形 (start): 生活し出す
+そう (looks): 生活しそう
 お〜になる (honorific): お生活しになる
 ない形: 生活しない
 なかった形: 生活しなかった
 あれる形 (passive):  生活される
+使役形 (make/let): 生活させる
 尊敬語 (honorific): 生活される
 ば形 (if): 生活すれば
 可能形 (can): 生活できる
 おう形 (let's): 生活しよう
+命令形 (imperative): 生活しろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_活.html">活</a>
 <!--ID: 1763465823120-->
@@ -2022,16 +2027,18 @@ to get up #wc #card
 て形: 起きて
 た形: 起きた
 ます形: 起きます
-出す形 (start): 起きだす
-そう (looks like): 起きそう
+出す形 (start): 起き出す
+そう (looks): 起きそう
 お〜になる (honorific): お起きになる
 ない形: 起きない
 なかった形: 起きなかった
 あれる形 (passive):  起きられる
+使役形 (make/let): 起きさせる
 尊敬語 (honorific): 起きられる
 ば形 (if): 起きれば
 可能形 (can): 起きられる
 おう形 (let's): 起きよう
+命令形 (imperative): 起きろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1763465823121-->
 
@@ -2045,7 +2052,7 @@ famous #k #wp #card
 過去形: ゆうめいでした  
 否定形: ゆうめいではありません  
 副詞形: ゆうめいに
-そう (looks like): 有名そう
+そう (looks): 有名そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823122-->
@@ -2058,7 +2065,7 @@ lively / busy #wp #card
 過去形: にぎやかでした  
 否定形: にぎやかではありません  
 副詞形: にぎやかに
-そう (looks like): 賑やかそう
+そう (looks): 賑やかそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_賑.html">賑</a>
 <!--ID: 1763465823123-->
 
@@ -2070,7 +2077,7 @@ quiet #wp #card
 過去形: しずかでした  
 否定形: しずかではありません  
 副詞形: しずかに
-そう (looks like): 静かそう
+そう (looks): 静かそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_静.html">静</a>
 <!--ID: 1763465823124-->
 
@@ -2082,7 +2089,7 @@ convenient #wp #card
 過去形: べんりでした  
 否定形: べんりではありません  
 副詞形: べんりに
-そう (looks like): 便利そう
+そう (looks): 便利そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_便.html">便</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_利.html">利</a>
 <!--ID: 1763465823125-->
@@ -2095,7 +2102,7 @@ inconvenient #wp #card
 過去形: ふべんでした  
 否定形: ふべんではありません  
 副詞形: ふべんに
-そう (looks like): 不便そう
+そう (looks): 不便そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_便.html">便</a>
 <!--ID: 1763465823126-->
@@ -2108,7 +2115,7 @@ strong / solid / durable #wp #card
 過去形: じょうぶでした  
 否定形: じょうぶではありません  
 副詞形: じょうぶに
-そう (looks like): 丈夫そう
+そう (looks): 丈夫そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丈.html">丈</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夫.html">夫</a>
 <!--ID: 1763465823127-->
@@ -2121,7 +2128,7 @@ serious / honest #k #wp #card
 過去形: まじめでした  
 否定形: まじめではありません  
 副詞形: まじめに
-そう (looks like): 真面目そう
+そう (looks): 真面目そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
@@ -2135,7 +2142,7 @@ fine / respectable / impressive #k #wp #card
 過去形: りっぱでした  
 否定形: りっぱではありません  
 副詞形: りっぱに
-そう (looks like): 立派そう
+そう (looks): 立派そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_派.html">派</a>
 <!--ID: 1763465823129-->
@@ -2148,7 +2155,7 @@ regrettable #wp #card
 過去形: ざんねんでした  
 否定形: ざんねんではありません  
 副詞形: ざんねんに
-そう (looks like): 残念そう
+そう (looks): 残念そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_残.html">残</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_念.html">念</a>
 <!--ID: 1763465823130-->
@@ -2161,7 +2168,7 @@ free (not busy) #wp #card
 過去形: ひまでした  
 否定形: ひまではありません  
 副詞形: ひまに
-そう (looks like): 暇そう
+そう (looks): 暇そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_暇.html">暇</a>
 <!--ID: 1763465823131-->
 
@@ -2173,7 +2180,7 @@ difficult / hard (adjective) #k #wp #card
 過去形: たいへんでした  
 否定形: たいへんではありません  
 副詞形: たいへんに
-そう (looks like): 大変そう
+そう (looks): 大変そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
 <!--ID: 1763465823132-->
@@ -2186,7 +2193,7 @@ separation / separately / split #wp #card
 過去形: べつべつでした  
 否定形: べつべつではありません  
 副詞形: べつべつに
-そう (looks like): 別々そう
+そう (looks): 別々そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1763465823133-->
 

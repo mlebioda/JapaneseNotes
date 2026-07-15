@@ -962,38 +962,42 @@ rice field + heart
 
 represent, show, indicate #card
 ほんやく: 表す（あらわす）
-て形: あらわして
-た形: あらわした
-ます形: あらわします
-出す形 (start): あらわしだす
-そう (looks like): あらわしそう
-お〜になる (honorific): おあらわしになる
-ない形: あらわさない
-なかった形: あらわさなかった
-受身形 (passive): あらわされる
-尊敬語 (honorific): あらわされる
-ば形 (if): あらわせば
-可能形 (can): あらわせる
-おう形 (let's): あらわそう
+て形: 表して
+た形: 表した
+ます形: 表します
+出す形 (start): 表し出す
+そう (looks): 表しそう
+お〜になる (honorific): お表しになる
+ない形: 表さない
+なかった形: 表さなかった
+あれる形 (passive): 表される
+使役形 (make/let): 表させる
+尊敬語 (honorific): 表される
+ば形 (if): 表せば
+可能形 (can): 表せる
+おう形 (let's): 表そう
+命令形 (imperative): 表せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_表.html">表</a>
 <!--ID: 1749743105744-->
 
 
 to take somebody's place/ on behalf #card
 ほんやく: 代わる（かわる）
-て形: かわって
-た形: かわった
-ます形: かわります
-出す形 (start): かわりだす
-そう (looks like): かわりそう
-お〜になる (honorific): おかわりになる
-ない形: かわらない
-なかった形: かわらなかった
-受身形 (passive): かわられる
-尊敬語 (honorific): かわられる
-ば形 (if): かわれば
-可能形 (can): かわれる
-おう形 (let's): かわろう
+て形: 代わって
+た形: 代わった
+ます形: 代わります
+出す形 (start): 代わり出す
+そう (looks): 代わりそう
+お〜になる (honorific): お代わりになる
+ない形: 代わらない
+なかった形: 代わらなかった
+あれる形 (passive): 代わられる
+使役形 (make/let): 代わらせる
+尊敬語 (honorific): 代わられる
+ば形 (if): 代われば
+可能形 (can): 代われる
+おう形 (let's): 代わろう
+命令形 (imperative): 代われ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_代.html">代</a>
 <!--ID: 1749743105746-->
 

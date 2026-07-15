@@ -1613,16 +1613,18 @@ rozstawac sie、żegnać #k  #card
 て形: 別れて
 た形: 別れた
 ます形: 別れます
-出す形 (start): 別れだす
-そう (looks like): 別れそう
+出す形 (start): 別れ出す
+そう (looks): 別れそう
 お〜になる (honorific): お別れになる
 ない形: 別れない
 なかった形: 別れなかった
 あれる形 (passive):  別れられる
+使役形 (make/let): 別れさせる
 尊敬語 (honorific): 別れられる
 ば形 (if): 別れれば
 可能形 (can): 別れられる
 おう形 (let's): 別れよう
+命令形 (imperative): 別れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1769520858444-->
 
@@ -1631,16 +1633,18 @@ to wash  #card
 て形: 洗って
 た形: 洗った
 ます形: 洗います
-出す形 (start): 洗いだす
-そう (looks like): 洗いそう
+出す形 (start): 洗い出す
+そう (looks): 洗いそう
 お〜になる (honorific): お洗いになる
 ない形: 洗わない
 なかった形: 洗わなかった
 あれる形 (passive):  洗われる
+使役形 (make/let): 洗わせる
 尊敬語 (honorific): 洗われる
 ば形 (if): 洗えば
 可能形 (can): 洗える
 おう形 (let's): 洗おう
+命令形 (imperative): 洗え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洗.html">洗</a>
 <!--ID: 1769520858449-->
 
@@ -1649,16 +1653,18 @@ to take (a shower, have water on your whole body)  #card
 て形: 浴びて
 た形: 浴びた
 ます形: 浴びます
-出す形 (start): 浴びだす
-そう (looks like): 浴びそう
+出す形 (start): 浴び出す
+そう (looks): 浴びそう
 お〜になる (honorific): お浴びになる
 ない形: 浴びない
 なかった形: 浴びなかった
 あれる形 (passive):  浴びられる
+使役形 (make/let): 浴びさせる
 尊敬語 (honorific): 浴びられる
 ば形 (if): 浴びれば
 可能形 (can): 浴びられる
 おう形 (let's): 浴びよう
+命令形 (imperative): 浴びろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_浴.html">浴</a>
 <!--ID: 1769520858452-->
 
@@ -1667,16 +1673,18 @@ to brush  #card
 て形: 磨いて
 た形: 磨いた
 ます形: 磨きます
-出す形 (start): 磨きだす
-そう (looks like): 磨きそう
+出す形 (start): 磨き出す
+そう (looks): 磨きそう
 お〜になる (honorific): お磨きになる
 ない形: 磨かない
 なかった形: 磨かなかった
 あれる形 (passive):  磨かれる
+使役形 (make/let): 磨かせる
 尊敬語 (honorific): 磨かれる
 ば形 (if): 磨けば
 可能形 (can): 磨ける
 おう形 (let's): 磨こう
+命令形 (imperative): 磨け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_磨.html">磨</a>
 <!--ID: 1769520858458-->
 
@@ -1685,16 +1693,18 @@ to take (a picture / video) + particle  #card
 て形: 撮って
 た形: 撮った
 ます形: 撮ります
-出す形 (start): 撮りだす
-そう (looks like): 撮りそう
+出す形 (start): 撮り出す
+そう (looks): 撮りそう
 お〜になる (honorific): お撮りになる
 ない形: 撮らない
 なかった形: 撮らなかった
 あれる形 (passive):  撮られる
+使役形 (make/let): 撮らせる
 尊敬語 (honorific): 撮られる
 ば形 (if): 撮れば
 可能形 (can): 撮れる
 おう形 (let's): 撮ろう
+命令形 (imperative): 撮れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_撮.html">撮</a>
 <!--ID: 1769520858462-->
 
@@ -1703,16 +1713,18 @@ to make / to cook / to establish/ to manufacture #k  #card
 て形: 作って
 た形: 作った
 ます形: 作ります
-出す形 (start): 作りだす
-そう (looks like): 作りそう
+出す形 (start): 作り出す
+そう (looks): 作りそう
 お〜になる (honorific): お作りになる
 ない形: 作らない
 なかった形: 作らなかった
 あれる形 (passive):  作られる
+使役形 (make/let): 作らせる
 尊敬語 (honorific): 作られる
 ば形 (if): 作れば
 可能形 (can): 作れる
 おう形 (let's): 作ろう
+命令形 (imperative): 作れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1769520858467-->
 
@@ -1721,16 +1733,18 @@ to sit  #card
 て形: 座って
 た形: 座った
 ます形: 座ります
-出す形 (start): 座りだす
-そう (looks like): 座りそう
+出す形 (start): 座り出す
+そう (looks): 座りそう
 お〜になる (honorific): お座りになる
 ない形: 座らない
 なかった形: 座らなかった
 あれる形 (passive):  座られる
+使役形 (make/let): 座らせる
 尊敬語 (honorific): 座られる
 ば形 (if): 座れば
 可能形 (can): 座れる
 おう形 (let's): 座ろう
+命令形 (imperative): 座れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_座.html">座</a>
 <!--ID: 1769520858470-->
 
@@ -1739,16 +1753,18 @@ to hear / to listen #k  #card
 て形: 聞いて
 た形: 聞いた
 ます形: 聞きます
-出す形 (start): 聞きだす
-そう (looks like): 聞きそう
+出す形 (start): 聞き出す
+そう (looks): 聞きそう
 お〜になる (honorific): お聞きになる
 ない形: 聞かない
 なかった形: 聞かなかった
 あれる形 (passive):  聞かれる
+使役形 (make/let): 聞かせる
 尊敬語 (honorific): 聞かれる
 ば形 (if): 聞けば
 可能形 (can): 聞ける
 おう形 (let's): 聞こう
+命令形 (imperative): 聞け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1769520858475-->
 
@@ -1757,16 +1773,18 @@ to take out #k  #card
 て形: 出して
 た形: 出した
 ます形: 出します
-出す形 (start): 出しだす
-そう (looks like): 出しそう
+出す形 (start): 出し出す
+そう (looks): 出しそう
 お〜になる (honorific): お出しになる
 ない形: 出さない
 なかった形: 出さなかった
 あれる形 (passive):  出される
+使役形 (make/let): 出させる
 尊敬語 (honorific): 出される
 ば形 (if): 出せば
 可能形 (can): 出せる
 おう形 (let's): 出そう
+命令形 (imperative): 出せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1769520858478-->
 
@@ -1775,16 +1793,18 @@ to finish (by itself) #k  #card
 て形: 終わって
 た形: 終わった
 ます形: 終わります
-出す形 (start): 終わりだす
-そう (looks like): 終わりそう
+出す形 (start): 終わり出す
+そう (looks): 終わりそう
 お〜になる (honorific): お終わりになる
 ない形: 終わらない
 なかった形: 終わらなかった
 あれる形 (passive):  終わられる
+使役形 (make/let): 終わらせる
 尊敬語 (honorific): 終わられる
 ば形 (if): 終われば
 可能形 (can): 終われる
 おう形 (let's): 終わろう
+命令形 (imperative): 終われ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_終.html">終</a>
 <!--ID: 1769520858480-->
 
@@ -1793,16 +1813,18 @@ to begin (event, itself) #k  #card
 て形: 始まって
 た形: 始まった
 ます形: 始まります
-出す形 (start): 始まりだす
-そう (looks like): 始まりそう
+出す形 (start): 始まり出す
+そう (looks): 始まりそう
 お〜になる (honorific): お始まりになる
 ない形: 始まらない
 なかった形: 始まらなかった
 あれる形 (passive):  始まられる
+使役形 (make/let): 始まらせる
 尊敬語 (honorific): 始まられる
 ば形 (if): 始まれば
 可能形 (can): 始まれる
 おう形 (let's): 始まろう
+命令形 (imperative): 始まれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
 <!--ID: 1769520858483-->
 
@@ -1811,16 +1833,18 @@ to send #k  #card
 て形: 送って
 た形: 送った
 ます形: 送ります
-出す形 (start): 送りだす
-そう (looks like): 送りそう
+出す形 (start): 送り出す
+そう (looks): 送りそう
 お〜になる (honorific): お送りになる
 ない形: 送らない
 なかった形: 送らなかった
 あれる形 (passive):  送られる
+使役形 (make/let): 送らせる
 尊敬語 (honorific): 送られる
 ば形 (if): 送れば
 可能形 (can): 送れる
 おう形 (let's): 送ろう
+命令形 (imperative): 送れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1769520858488-->
 
@@ -1832,6 +1856,6 @@ dirty  #card
 過去形: 汚かった
 否定形: 汚くない
 副詞形: 汚く
-そう (looks like): 汚そう
+そう (looks): 汚そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_汚.html">汚</a>
 <!--ID: 1769520858490-->

@@ -588,15 +588,17 @@ to do one's best #card
 た形: 頑張った
 ます形: 頑張ります
 出す形 (start): 頑張り出す
-そう (looks like): 頑張りそう
+そう (looks): 頑張りそう
 お〜になる (honorific): お頑張りになる
 ない形: 頑張らない
 なかった形: 頑張らなかった
 あれる形 (passive): 頑張られる
+使役形 (make/let): 頑張らせる
 尊敬語 (honorific): 頑張られる
 ば形 (if): 頑張れば
 可能形 (can): 頑張れる
 おう形 (let's): 頑張ろう
+命令形 (imperative): 頑張れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頑.html">頑</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_張.html">張</a>
 <!--ID: 1779388974996-->
@@ -687,15 +689,17 @@ to invite #card
 た形: 誘った
 ます形: 誘います
 出す形 (start): 誘い出す
-そう (looks like): 誘いそう
+そう (looks): 誘いそう
 お〜になる (honorific): お誘いになる
 ない形: 誘わない
 なかった形: 誘わなかった
 あれる形 (passive): 誘われる
+使役形 (make/let): 誘わせる
 尊敬語 (honorific): 誘われる
 ば形 (if): 誘えば
 可能形 (can): 誘える
 おう形 (let's): 誘おう
+命令形 (imperative): 誘え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_誘.html">誘</a>
 <!--ID: 1779388975008-->
 
@@ -720,15 +724,17 @@ to protect / to keep #card
 た形: 守った
 ます形: 守ります
 出す形 (start): 守り出す
-そう (looks like): 守りそう
+そう (looks): 守りそう
 お〜になる (honorific): お守りになる
 ない形: 守らない
 なかった形: 守らなかった
 あれる形 (passive): 守られる
+使役形 (make/let): 守らせる
 尊敬語 (honorific): 守られる
 ば形 (if): 守れば
 可能形 (can): 守れる
 おう形 (let's): 守ろう
+命令形 (imperative): 守れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_守.html">守</a>
 <!--ID: 1779388975011-->
 
@@ -814,15 +820,17 @@ to spend / to pass #card
 た形: 過ごした
 ます形: 過ごします
 出す形 (start): 過ごし出す
-そう (looks like): 過ごしそう
+そう (looks): 過ごしそう
 お〜になる (honorific): お過ごしになる
 ない形: 過ごさない
 なかった形: 過ごさなかった
 あれる形 (passive): 過ごされる
+使役形 (make/let): 過ごさせる
 尊敬語 (honorific): 過ごされる
 ば形 (if): 過ごせば
 可能形 (can): 過ごせる
 おう形 (let's): 過ごそう
+命令形 (imperative): 過ごせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_過.html">過</a>
 <!--ID: 1779388975022-->
 
@@ -840,15 +848,17 @@ to slide #card
 た形: 滑った
 ます形: 滑ります
 出す形 (start): 滑り出す
-そう (looks like): 滑りそう
+そう (looks): 滑りそう
 お〜になる (honorific): お滑りになる
 ない形: 滑らない
 なかった形: 滑らなかった
 あれる形 (passive): 滑られる
+使役形 (make/let): 滑らせる
 尊敬語 (honorific): 滑られる
 ば形 (if): 滑れば
 可能形 (can): 滑れる
 おう形 (let's): 滑ろう
+命令形 (imperative): 滑れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_滑.html">滑</a>
 <!--ID: 1779388975024-->
 
@@ -872,15 +882,17 @@ to get used to + particle #card
 た形: 慣れた
 ます形: 慣れます
 出す形 (start): 慣れ出す
-そう (looks like): 慣れそう
+そう (looks): 慣れそう
 お〜になる (honorific): お慣れになる
 ない形: 慣れない
 なかった形: 慣れなかった
 あれる形 (passive): 慣れられる
+使役形 (make/let): 慣れさせる
 尊敬語 (honorific): 慣れられる
 ば形 (if): 慣れれば
 可能形 (can): 慣れられる
 おう形 (let's): 慣れよう
+命令形 (imperative): 慣れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_慣.html">慣</a>
 <!--ID: 1779388975027-->
 
@@ -895,6 +907,7 @@ to get used to tokyo #k #card
 
 to get used to a new job #k #card
 新しい仕事に慣れる（な）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_慣.html">慣</a>
@@ -930,15 +943,17 @@ to drop / to throw down #card
 た形: 落した
 ます形: 落します
 出す形 (start): 落し出す
-そう (looks like): 落しそう
+そう (looks): 落しそう
 お〜になる (honorific): お落しになる
 ない形: 落さない
 なかった形: 落さなかった
 あれる形 (passive): 落される
+使役形 (make/let): 落させる
 尊敬語 (honorific): 落される
 ば形 (if): 落せば
 可能形 (can): 落せる
 おう形 (let's): 落そう
+命令形 (imperative): 落せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_落.html">落</a>
 <!--ID: 1779388975033-->
 
@@ -1009,15 +1024,17 @@ to hold #card
 た形: つかまった
 ます形: つかまります
 出す形 (start): つかまり出す
-そう (looks like): つかまりそう
+そう (looks): つかまりそう
 お〜になる (honorific): おつかまりになる
 ない形: つかまらない
 なかった形: つかまらなかった
 あれる形 (passive): つかまられる
+使役形 (make/let): つかまらせる
 尊敬語 (honorific): つかまられる
 ば形 (if): つかまれば
 可能形 (can): つかまれる
 おう形 (let's): つかまろう
+命令形 (imperative): つかまれ
 <!--ID: 1779388975043-->
 
 
@@ -1077,15 +1094,17 @@ to win + particle #card
 た形: 勝った
 ます形: 勝ちます
 出す形 (start): 勝ち出す
-そう (looks like): 勝ちそう
+そう (looks): 勝ちそう
 お〜になる (honorific): お勝ちになる
 ない形: 勝たない
 なかった形: 勝たなかった
 あれる形 (passive): 勝たれる
+使役形 (make/let): 勝たせる
 尊敬語 (honorific): 勝たれる
 ば形 (if): 勝てば
 可能形 (can): 勝てる
 おう形 (let's): 勝とう
+命令形 (imperative): 勝て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勝.html">勝</a>
 <!--ID: 1779388975051-->
 
@@ -1104,15 +1123,17 @@ to lose + particle #card
 た形: 負けた
 ます形: 負けます
 出す形 (start): 負け出す
-そう (looks like): 負けそう
+そう (looks): 負けそう
 お〜になる (honorific): お負けになる
 ない形: 負けない
 なかった形: 負けなかった
 あれる形 (passive): 負けられる
+使役形 (make/let): 負けさせる
 尊敬語 (honorific): 負けられる
 ば形 (if): 負ければ
 可能形 (can): 負けられる
 おう形 (let's): 負けよう
+命令形 (imperative): 負けろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_負.html">負</a>
 <!--ID: 1779388975053-->
 
@@ -1129,7 +1150,7 @@ important #k #card
 過去形: —
 否定形: —
 副詞形: —
-そう: 大事そう
+そう (looks): 大事そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1779388975055-->
@@ -1505,6 +1526,7 @@ this computer was easy to use #k #card
 
 The new shoes are light and very easy to walk in. #k #card
 新しい靴は軽くて、とても歩きやすいです。(あたら、くつ、かる、ある)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_靴.html">靴</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_軽.html">軽</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>

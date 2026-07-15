@@ -24,7 +24,7 @@ Both `.cowork/skills/fill-templates.md` and `.cowork/skills/templates-update.md`
 た形: [value]
 ます形: [value]
 出す形 (start): [value]
-そう (looks like): [value]
+そう (looks): [value]
 お〜になる (honorific): [value]
 ない形: [value]
 なかった形: [value]
@@ -34,12 +34,13 @@ Both `.cowork/skills/fill-templates.md` and `.cowork/skills/templates-update.md`
 ば形 (if): [value]
 可能形 (can): [value]
 おう形 (let's): [value]
+命令形 (imperative): [value]
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_X.html">X</a>
 <!--ID: ...-->
 ```
 
 Notes:
-- The 14 form lines appear in the exact order above.
+- The 15 form lines appear in the exact order above.
 - One `<a href>` line per unique CJK kanji in the `ほんやく:` value (furigana stripped).
 - `<!--ID: ...-->` is the last non-blank line of the block, after all links.
 - Suru verbs (`する` in ほんやく: value) have no form lines — block ends at ほんやく: line.
@@ -54,7 +55,7 @@ Notes:
 過去形: [value]
 否定形: [value]
 副詞形: [value]
-そう (looks like): [value]
+そう (looks): [value]
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_X.html">X</a>
 <!--ID: ...-->
 ```

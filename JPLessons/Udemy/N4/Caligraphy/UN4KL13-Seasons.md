@@ -1016,57 +1016,63 @@ car + 2 + self/private. Transfer 2 private goods with a car
 
 to enjyoi #card
 ほんやく: 楽しむ（たの）
-て形: たのしんで
-た形: たのしんだ
-ます形: たのしみます
-出す形 (start): たのしみだす
-そう (looks like): たのしみそう
-お〜になる (honorific): おたのしみになる
-ない形: たのしまない
-なかった形: たのしまなかった
-受身形 (passive): たのしまれる
-尊敬語 (honorific): たのしまれる
-ば形 (if): たのしめば
-可能形 (can): たのしめる
-おう形 (let's): たのしもう
+て形: 楽しんで
+た形: 楽しんだ
+ます形: 楽しみます
+出す形 (start): 楽しみ出す
+そう (looks): 楽しみそう
+お〜になる (honorific): お楽しみになる
+ない形: 楽しまない
+なかった形: 楽しまなかった
+あれる形 (passive): 楽しまれる
+使役形 (make/let): 楽しませる
+尊敬語 (honorific): 楽しまれる
+ば形 (if): 楽しめば
+可能形 (can): 楽しめる
+おう形 (let's): 楽しもう
+命令形 (imperative): 楽しめ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1749744037854-->
 
 
 to get up #card
 ほんやく: 起きる（お）
-て形: おきて
-た形: おきた
-ます形: おきます
-出す形 (start): おきだす
-そう (looks like): おきそう
-お〜になる (honorific): おおきになる
-ない形: おきない
-なかった形: おきなかった
-受身形 (passive): おきられる
-尊敬語 (honorific): おきられる
-ば形 (if): おきれば
-可能形 (can): おきられる
-おう形 (let's): おきよう
+て形: 起きて
+た形: 起きた
+ます形: 起きます
+出す形 (start): 起き出す
+そう (looks): 起きそう
+お〜になる (honorific): お起きになる
+ない形: 起きない
+なかった形: 起きなかった
+あれる形 (passive): 起きられる
+使役形 (make/let): 起きさせる
+尊敬語 (honorific): 起きられる
+ば形 (if): 起きれば
+可能形 (can): 起きられる
+おう形 (let's): 起きよう
+命令形 (imperative): 起きろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1749744037856-->
 
 
 wake someone up #card
 ほんやく: 起こす（お）
-て形: おこして
-た形: おこした
-ます形: おこします
-出す形 (start): おこしだす
-そう (looks like): おこしそう
-お〜になる (honorific): おおこしになる
-ない形: おこさない
-なかった形: おこさなかった
-受身形 (passive): おこされる
-尊敬語 (honorific): おこされる
-ば形 (if): おこせば
-可能形 (can): おこせる
-おう形 (let's): おこそう
+て形: 起こして
+た形: 起こした
+ます形: 起こします
+出す形 (start): 起こし出す
+そう (looks): 起こしそう
+お〜になる (honorific): お起こしになる
+ない形: 起こさない
+なかった形: 起こさなかった
+あれる形 (passive): 起こされる
+使役形 (make/let): 起こさせる
+尊敬語 (honorific): 起こされる
+ば形 (if): 起こせば
+可能形 (can): 起こせる
+おう形 (let's): 起こそう
+命令形 (imperative): 起こせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1749744037858-->
 
@@ -1077,15 +1083,17 @@ być odwołanym / zostać anulowanym #card
 た形: 中止された
 ます形: 中止されます
 出す形 (start): 中止され出す
-そう (looks like): 中止されそう
+そう (looks): 中止されそう
 お〜になる (honorific): お中止されになる
 ない形: 中止されない
 なかった形: 中止されなかった
-受身形 (passive): 中止されられる
+あれる形 (passive): 中止されられる
+使役形 (make/let): 中止されさせる
 尊敬語 (honorific): 中止されられる
 ば形 (if): 中止されれば
 可能形 (can): 中止されられる
 おう形 (let's): 中止されよう
+命令形 (imperative): 中止されろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_止.html">止</a>
 <!--ID: 1749744037860-->
@@ -1093,57 +1101,63 @@ być odwołanym / zostać anulowanym #card
 
 to carry #card
 ほんやく: 運ぶ（はこぶ）
-て形: はこんで
-た形: はこんだ
-ます形: はこびます
-出す形 (start): はこびだす
-そう (looks like): はこびそう
-お〜になる (honorific): おはこびになる
-ない形: はこばない
-なかった形: はこばなかった
-受身形 (passive): はこばれる
-尊敬語 (honorific): はこばれる
-ば形 (if): はこべば
-可能形 (can): はこべる
-おう形 (let's): はこぼう
+て形: 運んで
+た形: 運んだ
+ます形: 運びます
+出す形 (start): 運び出す
+そう (looks): 運びそう
+お〜になる (honorific): お運びになる
+ない形: 運ばない
+なかった形: 運ばなかった
+あれる形 (passive): 運ばれる
+使役形 (make/let): 運ばせる
+尊敬語 (honorific): 運ばれる
+ば形 (if): 運べば
+可能形 (can): 運べる
+おう形 (let's): 運ぼう
+命令形 (imperative): 運べ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <!--ID: 1749744037862-->
 
 
 to roll #card
 ほんやく: 転ぶ（ころ）
-て形: ころんで
-た形: ころんだ
-ます形: ころびます
-出す形 (start): ころびだす
-そう (looks like): ころびそう
-お〜になる (honorific): おころびになる
-ない形: ころばない
-なかった形: ころばなかった
-受身形 (passive): ころばれる
-尊敬語 (honorific): ころばれる
-ば形 (if): ころべば
-可能形 (can): ころべる
-おう形 (let's): ころぼう
+て形: 転んで
+た形: 転んだ
+ます形: 転びます
+出す形 (start): 転び出す
+そう (looks): 転びそう
+お〜になる (honorific): お転びになる
+ない形: 転ばない
+なかった形: 転ばなかった
+あれる形 (passive): 転ばれる
+使役形 (make/let): 転ばせる
+尊敬語 (honorific): 転ばれる
+ば形 (if): 転べば
+可能形 (can): 転べる
+おう形 (let's): 転ぼう
+命令形 (imperative): 転べ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1749744037864-->
 
 
 make something rool #card
 ほんやく: 転がす（ころ）
-て形: ころがして
-た形: ころがした
-ます形: ころがします
-出す形 (start): ころがしだす
-そう (looks like): ころがしそう
-お〜になる (honorific): おころがしになる
-ない形: ころがさない
-なかった形: ころがさなかった
-受身形 (passive): ころがされる
-尊敬語 (honorific): ころがされる
-ば形 (if): ころがせば
-可能形 (can): ころがせる
-おう形 (let's): ころがそう
+て形: 転がして
+た形: 転がした
+ます形: 転がします
+出す形 (start): 転がし出す
+そう (looks): 転がしそう
+お〜になる (honorific): お転がしになる
+ない形: 転がさない
+なかった形: 転がさなかった
+あれる形 (passive): 転がされる
+使役形 (make/let): 転がさせる
+尊敬語 (honorific): 転がされる
+ば形 (if): 転がせば
+可能形 (can): 転がせる
+おう形 (let's): 転がそう
+命令形 (imperative): 転がせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1749744037866-->
 

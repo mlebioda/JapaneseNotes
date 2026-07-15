@@ -12,7 +12,7 @@ Save Claude context by automating safe, repetitive label-rename actions via a pr
 
 **File:** `.cowork/skills/references/label-aliases.json`
 
-A flat JSON dictionary mapping every known variant label to its canonical form. All 31 entries from the alias table currently in `.cowork/skills/references/card-templates.md` (lines 89–124) are included verbatim. The `そう:` → `そう (looks like):` mapping is an unconditional entry — no block-type qualifier, no special handling.
+A flat JSON dictionary mapping every known variant label to its canonical form. All 31 entries from the alias table currently in `.cowork/skills/references/card-templates.md` (lines 89–124) are included verbatim. The `そう:` → `そう (looks):` mapping is an unconditional entry — no block-type qualifier, no special handling.
 
 This file must exist before any other component is written or modified.
 
@@ -21,7 +21,7 @@ Example structure:
 {
   "Tłumaczenie:": "ほんやく:",
   "translation:": "ほんやく:",
-  "そう:": "そう (looks like):",
+  "そう:": "そう (looks):",
   ...
 }
 ```
@@ -64,15 +64,15 @@ Behaviour:
    ```
    The section heading is kept; only the table and usage rules are replaced.
 
-2. **Fix the `#wp` canonical template.** In the canonical `#wp` block, the form line currently reads `そう: [value]`. Change it to `そう (looks like): [value]` to match the canonical label used by `#wc` and the alias table.
+2. **Fix the `#wp` canonical template.** In the canonical `#wp` block, the form line currently reads `そう: [value]`. Change it to `そう (looks): [value]` to match the canonical label used by `#wc` and the alias table.
 
 All other sections remain unchanged.
 
 #### `adj-forms.md` — rename `そう:` label throughout
 
-The file currently uses `そう:` as the field label in all four rule blocks (い-adjective, special-case いい/よい, な-adjective, non-adjective). After this plan the canonical label for that field is `そう (looks like):`.
+The file currently uses `そう:` as the field label in all four rule blocks (い-adjective, special-case いい/よい, な-adjective, non-adjective). After this plan the canonical label for that field is `そう (looks):`.
 
-Replace every occurrence of `そう:` with `そう (looks like):` in the four code blocks. The section heading `## な-adjective — fill dashes (except そう)` uses `そう` as a concept name in prose — leave that unchanged. Only the label column entries inside code blocks are renamed.
+Replace every occurrence of `そう:` with `そう (looks):` in the four code blocks. The section heading `## な-adjective — fill dashes (except そう)` uses `そう` as a concept name in prose — leave that unchanged. Only the label column entries inside code blocks are renamed.
 
 ---
 
@@ -130,7 +130,7 @@ Do not skip ahead. A skills file referencing a JSON or script file that does not
 ## Risks
 
 - If `os.replace` is called with a temp file on a different filesystem than the target, the atomic swap may fail on some systems. Use `tempfile.NamedTemporaryFile` with `dir=os.path.dirname(target)` to keep temp and target on the same filesystem.
-- The `そう:` → `そう (looks like):` entry is unconditional across all block types. This is correct as designed (both `#wc` and `#wp` now use `そう (looks like):`), but implementers should confirm the `#wp` canonical template in `card-templates.md` is updated in Component 3 before relying on this.
+- The `そう:` → `そう (looks):` entry is unconditional across all block types. This is correct as designed (both `#wc` and `#wp` now use `そう (looks):`), but implementers should confirm the `#wp` canonical template in `card-templates.md` is updated in Component 3 before relying on this.
 - Case-insensitive fallback for ASCII keys must not apply to Japanese keys (e.g. `ほんやく：` with a full-width colon must remain an exact match, not lowercased). The script must check whether a key contains only ASCII before enabling the case-insensitive retry.
 - If `fill-templates.md` has no reference to the alias table, Component 5 requires no edit. The implementer must read the file before deciding.
 - Removing the alias table body from `card-templates.md` (Component 3) must not accidentally remove the section heading or any other section. The implementer must use a targeted Edit replacing only the table and usage rules, not the entire file.

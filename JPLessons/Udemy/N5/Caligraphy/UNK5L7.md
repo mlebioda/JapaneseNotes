@@ -468,7 +468,7 @@ high/expensive #k #wp #card
 過去形: 高かった
 否定形: 高くない
 副詞形: 高く
-そう (looks like): 高そう
+そう (looks): 高そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <!--ID: 1763555106647-->
 
@@ -478,7 +478,7 @@ big #k #wp #card
 過去形: 大きかった
 否定形: 大きくない
 副詞形: 大きく
-そう (looks like): 大きそう
+そう (looks): 大きそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <!--ID: 1763555106648-->
 
@@ -488,7 +488,7 @@ long #wp #card
 過去形: 長かった
 否定形: 長くない
 副詞形: 長く
-そう (looks like): 長そう
+そう (looks): 長そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1763555106649-->
 
@@ -498,7 +498,7 @@ white color #k #wp #card
 過去形: 白かった
 否定形: 白くない
 副詞形: 白く
-そう (looks like): 白そう
+そう (looks): 白そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1763555106650-->
 
@@ -508,7 +508,7 @@ cheap #k #wp #card
 過去形: 安かった
 否定形: 安くない
 副詞形: 安く
-そう (looks like): 安そう
+そう (looks): 安そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <!--ID: 1763555106651-->
 
@@ -518,7 +518,7 @@ new #k #wp #card
 過去形: 新しかった
 否定形: 新しくない
 副詞形: 新しく
-そう (looks like): 新しそう
+そう (looks): 新しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <!--ID: 1763555106652-->
 
@@ -528,7 +528,7 @@ old #k #wp #card
 過去形: 古かった
 否定形: 古くない
 副詞形: 古く
-そう (looks like): 古そう
+そう (looks): 古そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_古.html">古</a>
 <!--ID: 1763555106653-->
 
@@ -538,7 +538,7 @@ many, much #k #wp #card
 過去形: 多かった
 否定形: 多くない
 副詞形: 多く
-そう (looks like): 多そう
+そう (looks): 多そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <!--ID: 1763555106654-->
 
@@ -548,7 +548,7 @@ malo, a little #wp #card
 過去形: 少なかった
 否定形: 少なくない
 副詞形: 少なく
-そう (looks like): 少なそう
+そう (looks): 少なそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1763555106655-->
 
@@ -558,7 +558,7 @@ early #k #wp #card
 過去形: 早かった
 否定形: 早くない
 副詞形: 早く
-そう (looks like): 早そう
+そう (looks): 早そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <!--ID: 1763555106656-->
 

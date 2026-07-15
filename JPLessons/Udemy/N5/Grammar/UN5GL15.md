@@ -339,15 +339,17 @@ animal #k #card
 た形: 飛んだ
 ます形: 飛びます
 出す形 (start): 飛び出す
-そう (looks like): 飛びそう
+そう (looks): 飛びそう
 お〜になる (honorific): お飛びになる
 ない形: 飛ばない
 なかった形: 飛ばなかった
 あれる形 (passive): 飛ばれる
+使役形 (make/let): 飛ばせる
 尊敬語 (honorific): 飛ばれる
 ば形 (if): 飛べば
 可能形 (can): 飛べる
 おう形 (let's): 飛ぼう
+命令形 (imperative): 飛べ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飛.html">飛</a>
 <!--ID: 1776095689284-->
 
@@ -358,15 +360,17 @@ to do ones best #card
 た形: 頑張った
 ます形: 頑張ります
 出す形 (start): 頑張り出す
-そう (looks like): 頑張りそう
+そう (looks): 頑張りそう
 お〜になる (honorific): お頑張りになる
 ない形: 頑張らない
 なかった形: 頑張らなかった
 あれる形 (passive): 頑張られる
+使役形 (make/let): 頑張らせる
 尊敬語 (honorific): 頑張られる
 ば形 (if): 頑張れば
 可能形 (can): 頑張れる
 おう形 (let's): 頑張ろう
+命令形 (imperative): 頑張れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頑.html">頑</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_張.html">張</a>
 <!--ID: 1776095708538-->
@@ -550,7 +554,7 @@ more #card
 過去形: —
 否定形: —
 副詞形: —
-そう (looks like): —
+そう (looks): —
 <!--ID: 1775624991182-->
 
 
@@ -620,15 +624,17 @@ to disappear #card
 た形: 消えた
 ます形: 消えます
 出す形 (start): 消え出す
-そう (looks like): 消えそう
+そう (looks): 消えそう
 お〜になる (honorific): お消えになる
 ない形: 消えない
 なかった形: 消えなかった
 あれる形 (passive): 消えられる
+使役形 (make/let): 消えさせる
 尊敬語 (honorific): 消えられる
 ば形 (if): 消えれば
 可能形 (can): 消えられる
 おう形 (let's): 消えよう
+命令形 (imperative): 消えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 
 
@@ -691,15 +697,17 @@ to pull, to catch (a cold), to look up (shiraberu) (+particle) #card
 た形: 引いた
 ます形: 引きます
 出す形 (start): 引き出す
-そう (looks like): 引きそう
+そう (looks): 引きそう
 お〜になる (honorific): お引きになる
 ない形: 引かない
 なかった形: 引かなかった
 あれる形 (passive): 引かれる
+使役形 (make/let): 引かせる
 尊敬語 (honorific): 引かれる
 ば形 (if): 引けば
 可能形 (can): 引ける
 おう形 (let's): 引こう
+命令形 (imperative): 引け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
 <!--ID: 1776095747509-->
 
@@ -805,7 +813,7 @@ pain、hurt (particle) #card
 過去形: いたかった
 否定形: いたくない
 副詞形: いたく
-そう (looks like): いたそう
+そう (looks): いたそう
 <!--ID: 1775624991212-->
 
 
@@ -1068,15 +1076,17 @@ can #k #card
 た形: 出来た
 ます形: 出来ます
 出す形 (start): 出来出す
-そう (looks like): 出来そう
+そう (looks): 出来そう
 お〜になる (honorific): お出来になる
 ない形: 出来ない
 なかった形: 出来なかった
 あれる形 (passive): 出来られる
+使役形 (make/let): 出来させる
 尊敬語 (honorific): 出来られる
 ば形 (if): 出来れば
 可能形 (can): 出来られる
 おう形 (let's): 出来よう
+命令形 (imperative): 出来ろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1775624991244-->
@@ -1445,11 +1455,21 @@ I am interested in sports #k #card
 
 My mom's hobby is cooking. #card
 母の趣味は料理を作ることです はは・しゅみ・りょうり・つく) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_趣.html">趣</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1782937352695-->
 
 
 I will give my mom a cook book. #card
 母に料理の本をあげます。(はは・りょうり・ほん・)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <!--ID: 1782937352697-->
 
 
@@ -1460,15 +1480,17 @@ to hand over #card
 た形: 渡した
 ます形: 渡します
 出す形 (start): 渡し出す
-そう (looks like): 渡しそう
+そう (looks): 渡しそう
 お〜になる (honorific): お渡しになる
 ない形: 渡さない
 なかった形: 渡さなかった
 あれる形 (passive): 渡される
+使役形 (make/let): 渡させる
 尊敬語 (honorific): 渡される
 ば形 (if): 渡せば
 可能形 (can): 渡せる
 おう形 (let's): 渡そう
+命令形 (imperative): 渡せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_渡.html">渡</a>
 <!--ID: 1775624991284-->
 
@@ -1518,15 +1540,17 @@ to cross/ go overseas by plane or boat #card
 た形: 渡った
 ます形: 渡ります
 出す形 (start): 渡り出す
-そう (looks like): 渡りそう
+そう (looks): 渡りそう
 お〜になる (honorific): お渡りになる
 ない形: 渡らない
 なかった形: 渡らなかった
 あれる形 (passive): 渡られる
+使役形 (make/let): 渡らせる
 尊敬語 (honorific): 渡られる
 ば形 (if): 渡れば
 可能形 (can): 渡れる
 おう形 (let's): 渡ろう
+命令形 (imperative): 渡れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_渡.html">渡</a>
 <!--ID: 1775624991289-->
 

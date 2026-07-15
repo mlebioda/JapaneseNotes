@@ -580,15 +580,17 @@ to do / to give / to run (a company), to work #card
 た形: やった
 ます形: やります
 出す形 (start): やり出す
-そう (looks like): やりそう
+そう (looks): やりそう
 お〜になる (honorific): おやりになる
 ない形: やらない
 なかった形: やらなかった
 あれる形 (passive): やられる
+使役形 (make/let): やらせる
 尊敬語 (honorific): やられる
 ば形 (if): やれば
 可能形 (can): やれる
 おう形 (let's): やろう
+命令形 (imperative): やれ
 <!--ID: 1776268643596-->
 
 
@@ -598,15 +600,17 @@ to look for #card
 た形: 探した
 ます形: 探します
 出す形 (start): 探し出す
-そう (looks like): 探しそう
+そう (looks): 探しそう
 お〜になる (honorific): お探しになる
 ない形: 探さない
 なかった形: 探さなかった
 あれる形 (passive): 探される
+使役形 (make/let): 探させる
 尊敬語 (honorific): 探される
 ば形 (if): 探せば
 可能形 (can): 探せる
 おう形 (let's): 探そう
+命令形 (imperative): 探せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_探.html">探</a>
 <!--ID: 1776268643597-->
 
@@ -617,15 +621,17 @@ to find #k #card
 た形: 見つけた
 ます形: 見つけます
 出す形 (start): 見つけ出す
-そう (looks like): 見つけそう
+そう (looks): 見つけそう
 お〜になる (honorific): お見つけになる
 ない形: 見つけない
 なかった形: 見つけなかった
 あれる形 (passive): 見つけられる
+使役形 (make/let): 見つけさせる
 尊敬語 (honorific): 見つけられる
 ば形 (if): 見つければ
 可能形 (can): 見つけられる
 おう形 (let's): 見つけよう
+命令形 (imperative): 見つけろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1776268643598-->
 
@@ -636,15 +642,17 @@ to be late #card
 た形: 遅れた
 ます形: 遅れます
 出す形 (start): 遅れ出す
-そう (looks like): 遅れそう
+そう (looks): 遅れそう
 お〜になる (honorific): お遅れになる
 ない形: 遅れない
 なかった形: 遅れなかった
 あれる形 (passive): 遅れられる
+使役形 (make/let): 遅れさせる
 尊敬語 (honorific): 遅れられる
 ば形 (if): 遅れれば
 可能形 (can): 遅れられる
 おう形 (let's): 遅れよう
+命令形 (imperative): 遅れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遅.html">遅</a>
 <!--ID: 1776268643599-->
 
@@ -655,15 +663,17 @@ to cry #card
 た形: 泣いた
 ます形: 泣きます
 出す形 (start): 泣き出す
-そう (looks like): 泣きそう
+そう (looks): 泣きそう
 お〜になる (honorific): お泣きになる
 ない形: 泣かない
 なかった形: 泣かなかった
 あれる形 (passive): 泣かれる
+使役形 (make/let): 泣かせる
 尊敬語 (honorific): 泣かれる
 ば形 (if): 泣けば
 可能形 (can): 泣ける
 おう形 (let's): 泣こう
+命令形 (imperative): 泣け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_泣.html">泣</a>
 <!--ID: 1776268643600-->
 
@@ -674,15 +684,17 @@ to search / to look up #card
 た形: 調べた
 ます形: 調べます
 出す形 (start): 調べ出す
-そう (looks like): 調べそう
+そう (looks): 調べそう
 お〜になる (honorific): お調べになる
 ない形: 調べない
 なかった形: 調べなかった
 あれる形 (passive): 調べられる
+使役形 (make/let): 調べさせる
 尊敬語 (honorific): 調べられる
 ば形 (if): 調べれば
 可能形 (can): 調べられる
 おう形 (let's): 調べよう
+命令形 (imperative): 調べろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_調.html">調</a>
 <!--ID: 1776268643601-->
 
@@ -693,15 +705,17 @@ to close / zamknąć #card
 た形: 閉めた
 ます形: 閉めます
 出す形 (start): 閉め出す
-そう (looks like): 閉めそう
+そう (looks): 閉めそう
 お〜になる (honorific): お閉めになる
 ない形: 閉めない
 なかった形: 閉めなかった
 あれる形 (passive): 閉められる
+使役形 (make/let): 閉めさせる
 尊敬語 (honorific): 閉められる
 ば形 (if): 閉めれば
 可能形 (can): 閉められる
 おう形 (let's): 閉めよう
+命令形 (imperative): 閉めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_閉.html">閉</a>
 <!--ID: 1776268643602-->
 
@@ -712,15 +726,17 @@ to pass / too much #card
 た形: 過ぎた
 ます形: 過ぎます
 出す形 (start): 過ぎ出す
-そう (looks like): 過ぎそう
+そう (looks): 過ぎそう
 お〜になる (honorific): お過ぎになる
 ない形: 過ぎない
 なかった形: 過ぎなかった
 あれる形 (passive): 過ぎられる
+使役形 (make/let): 過ぎさせる
 尊敬語 (honorific): 過ぎられる
 ば形 (if): 過ぎれば
 可能形 (can): 過ぎられる
 おう形 (let's): 過ぎよう
+命令形 (imperative): 過ぎろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_過.html">過</a>
 <!--ID: 1776268643603-->
 
@@ -731,15 +747,17 @@ to be built / completed / to be able to #k #card
 た形: 出来た
 ます形: 出来ます
 出す形 (start): 出来出す
-そう (looks like): 出来そう
+そう (looks): 出来そう
 お〜になる (honorific): お出来になる
 ない形: 出来ない
 なかった形: 出来なかった
 あれる形 (passive): 出来られる
+使役形 (make/let): 出来させる
 尊敬語 (honorific): 出来られる
 ば形 (if): 出来れば
-可能形 (can): 出来れる
+可能形 (can): 出来られる
 おう形 (let's): 出来よう
+命令形 (imperative): 出来ろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1776268643604-->
@@ -751,15 +769,17 @@ to get wet #card
 た形: 濡れた
 ます形: 濡れます
 出す形 (start): 濡れ出す
-そう (looks like): 濡れそう
+そう (looks): 濡れそう
 お〜になる (honorific): お濡れになる
 ない形: 濡れない
 なかった形: 濡れなかった
 あれる形 (passive): 濡れられる
+使役形 (make/let): 濡れさせる
 尊敬語 (honorific): 濡れられる
 ば形 (if): 濡れれば
 可能形 (can): 濡れられる
 おう形 (let's): 濡れよう
+命令形 (imperative): 濡れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_濡.html">濡</a>
 <!--ID: 1776268643605-->
 
@@ -770,15 +790,17 @@ to carry / hold / take #card
 た形: 取った
 ます形: 取ります
 出す形 (start): 取り出す
-そう (looks like): 取りそう
+そう (looks): 取りそう
 お〜になる (honorific): お取りになる
 ない形: 取らない
 なかった形: 取らなかった
 あれる形 (passive): 取られる
+使役形 (make/let): 取らせる
 尊敬語 (honorific): 取られる
 ば形 (if): 取れば
 可能形 (can): 取れる
 おう形 (let's): 取ろう
+命令形 (imperative): 取れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_取.html">取</a>
 <!--ID: 1776268643606-->
 
@@ -789,15 +811,17 @@ to take (photo) #card
 た形: 撮った
 ます形: 撮ります
 出す形 (start): 撮り出す
-そう (looks like): 撮りそう
+そう (looks): 撮りそう
 お〜になる (honorific): お撮りになる
 ない形: 撮らない
 なかった形: 撮らなかった
 あれる形 (passive): 撮られる
+使役形 (make/let): 撮らせる
 尊敬語 (honorific): 撮られる
 ば形 (if): 撮れば
 可能形 (can): 撮れる
 おう形 (let's): 撮ろう
+命令形 (imperative): 撮れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_撮.html">撮</a>
 <!--ID: 1776268643607-->
 
@@ -807,7 +831,7 @@ strict / ścisły, ostry (charakter) #card
 過去形: きびしかった
 否定形: きびしくない
 副詞形: きびしく
-そう: きびしそう
+そう (looks): きびしそう
 <!--ID: 1776268643608-->
 
 
@@ -816,7 +840,7 @@ light / lekki #card
 過去形: 軽かった
 否定形: 軽くない
 副詞形: 軽く
-そう: 軽そう
+そう (looks): 軽そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_軽.html">軽</a>
 <!--ID: 1776268643609-->
 
@@ -826,7 +850,7 @@ heavy #k #card
 過去形: 重かった
 否定形: 重くない
 副詞形: 重く
-そう: 重そう
+そう (looks): 重そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
 <!--ID: 1776268643610-->
 
@@ -836,7 +860,7 @@ great / amazing / horrible #card
 過去形: すごかった
 否定形: すごくない
 副詞形: すごく
-そう: すごそう
+そう (looks): すごそう
 <!--ID: 1776268643611-->
 
 
@@ -845,7 +869,7 @@ soft #card
 過去形: やわらかかった
 否定形: やわらかくない
 副詞形: やわらかく
-そう: やわらかそう
+そう (looks): やわらかそう
 <!--ID: 1776268643612-->
 
 
@@ -854,7 +878,7 @@ hard #card
 過去形: かたかった
 否定形: かたくない
 副詞形: かたく
-そう: かたそう
+そう (looks): かたそう
 <!--ID: 1776268643613-->
 
 
@@ -863,7 +887,7 @@ glad #card
 過去形: 嬉しかった
 否定形: 嬉しくない
 副詞形: 嬉しく
-そう: 嬉しそう
+そう (looks): 嬉しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_嬉.html">嬉</a>
 <!--ID: 1776268643614-->
 
@@ -873,7 +897,7 @@ sad / smutny #card
 過去形: 悲しかった
 否定形: 悲しくない
 副詞形: 悲しく
-そう: 悲しそう
+そう (looks): 悲しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悲.html">悲</a>
 <!--ID: 1776268643615-->
 
@@ -883,7 +907,7 @@ serious / diligent / sumienny #k #card
 過去形: —
 否定形: —
 副詞形: —
-そう: 真面目そう
+そう (looks): 真面目そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>

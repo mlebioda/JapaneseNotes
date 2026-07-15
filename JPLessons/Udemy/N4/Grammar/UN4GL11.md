@@ -5,14 +5,10 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL11-The-manager-allowed-me-to-be-in
 
 #w 担当(たんとう)(する) - being in charge / to be in charge + verb
 
-#w 動詞(どうし)の使役形(しえきけい)が作(つく)れること - Being able to make the verbs' causative form
-#w 使役文(しえきぶん)の使(つか)い方(かた)を把握(はあく)すること - Master how to use causative sentences
-#w 目上(めうえ)の人(ひと)にある行動(こうどう)をする許可(きょか)を求(もと)めるときの丁寧(ていねい)な表現(ひょうげん) - Learn the polite expressions when asking superiors for permission
-
 
 #w 動詞(どうし)の使役形(しえきけい)が作(つく)れること - Being able to make the verbs' causative form
 #w 使役文(しえきぶん)の使(つか)い方(かた)を把握(はあく)すること - Master how to use causative sentences
-#w 目上(めうえ)の人(ひと)にある行動(こうどう)をする許可(きょか)を求(もと)めるときの丁寧(ていねい)な表現(ひょうげん) - Learn the polite expressions when asking superiors for permission
+#w 目上(めうえ)の人(ひと)にある行動(こうどう)をする許可(きょか)を求(もと)めるときの丁寧(ていねい)な表現(ひょうげん) - A polite expression used when asking a person of higher status (superior/senior) for permission to do a certain action
 
 
 #w 使役形(しえきけい) - causative form
@@ -229,7 +225,7 @@ Structure:
 #w 昨日(きのう)友達(ともだち)とけんかして、親(おや)は私(わたし)を友達(ともだち)に謝(あやま)らせた。 - Yesterday I had a fight with my friend, so my parents made me apologize to him.
 #w (あなたを)待(ま)たせて、ごめんなさい。 - Sorry to keep you waiting.(abbrieviated)
 
-#### Asking for permission to do something
+#### Make/let a person intransitive verb
 
 >Make/let a person intransitive verb
 
@@ -310,7 +306,7 @@ Master how to use causative sentences #k #card
 <!--ID: 1782937352705-->
 
 
-Learn the polite expressions when asking superiors for permission #k #card
+A polite expression used when asking a person of higher status (superior/senior) for permission to do a certain action #k #card
 目上(めうえ)の人(ひと)にある行動(こうどう)をする許可(きょか)を求(もと)めるときの丁寧(ていねい)な表現(ひょうげん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
@@ -325,6 +321,25 @@ Learn the polite expressions when asking superiors for permission #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_表.html">表</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_現.html">現</a>
 <!--ID: 1782937352706-->
+
+to seek / to request / to demand #card
+ほんやく: 求(もと)める
+て形: 求めて
+た形: 求めた
+ます形: 求めます
+出す形 (start): 求め出す
+そう (looks): 求めそう
+お〜になる (honorific): お求めになる
+ない形: 求めない
+なかった形: 求めなかった
+受身形 (passive): 求められる
+使役形 (make/let): 求めさせる
+尊敬語 (honorific): 求められる
+ば形 (if): 求めれば
+可能形 (can): 求められる
+おう形 (let's): 求めよう
+命令形 (imperative): 求めろ
+<!--ID: 1783425759741-->
 
 
 causative form #k #card
@@ -348,6 +363,15 @@ to grasp / to master + verb #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_把.html">把</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_握.html">握</a>
 <!--ID: 1782937352709-->
+
+a certain day / one day #card
+ある日（ひ）
+<!--ID: 1783425464320-->
+
+
+a certain action / some action #card
+ある行動（こうどう）
+<!--ID: 1783425464323-->
 
 
 superior / person of higher status #k #card
@@ -645,7 +669,7 @@ impossible #k #card
 過去形: —
 否定形: —
 副詞形: —
-そう: 無理(むり)そう
+そう (looks): 無理(むり)そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_無.html">無</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <!--ID: 1782937352749-->
@@ -783,7 +807,7 @@ freedom / free (like to say freely opinion) #k #card
 過去形: —
 否定形: —
 副詞形: —
-そう: 自由(じゆう)そう
+そう (looks): 自由(じゆう)そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_由.html">由</a>
 <!--ID: 1782937352767-->
@@ -844,7 +868,7 @@ to catch / to seize (transitive) #card
 た形: 捕(つか)まえた
 ます形: 捕(つか)まえます
 出す形 (start): 捕(つか)まえ出す
-そう (looks like): 捕(つか)まえそう
+そう (looks): 捕(つか)まえそう
 お〜になる (honorific): お捕(つか)まえになる
 ない形: 捕(つか)まえない
 なかった形: 捕(つか)まえなかった
@@ -854,6 +878,7 @@ to catch / to seize (transitive) #card
 ば形 (if): 捕(つか)まえれば
 可能形 (can): 捕(つか)まえられる
 おう形 (let's): 捕(つか)まえよう
+命令形 (imperative): 捕(つか)まえろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_捕.html">捕</a>
 <!--ID: 1782937352776-->
 
@@ -871,7 +896,7 @@ to move (transitive) #k #card
 た形: 動(うご)かした
 ます形: 動(うご)かします
 出す形 (start): 動(うご)かし出す
-そう (looks like): 動(うご)かしそう
+そう (looks): 動(うご)かしそう
 お〜になる (honorific): お動(うご)かしになる
 ない形: 動(うご)かさない
 なかった形: 動(うご)かさなかった
@@ -881,6 +906,7 @@ to move (transitive) #k #card
 ば形 (if): 動(うご)かせば
 可能形 (can): 動(うご)かせる
 おう形 (let's): 動(うご)かそう
+命令形 (imperative): 動(うご)かせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1782937352778-->
 
@@ -891,7 +917,7 @@ to live (intransitive) #k #card
 た形: 生(い)きた
 ます形: 生(い)きます
 出す形 (start): 生(い)き出す
-そう (looks like): 生(い)きそう
+そう (looks): 生(い)きそう
 お〜になる (honorific): お生(い)きになる
 ない形: 生(い)きない
 なかった形: 生(い)きなかった
@@ -901,6 +927,7 @@ to live (intransitive) #k #card
 ば形 (if): 生(い)きれば
 可能形 (can): 生(い)きられる
 おう形 (let's): 生(い)きよう
+命令形 (imperative): 生(い)きろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <!--ID: 1782937352779-->
 
@@ -975,7 +1002,7 @@ small / minor #card
 過去形: 細(こま)かかった
 否定形: 細(こま)かくない
 副詞形: 細(こま)かく
-そう: 細(こま)かそう
+そう (looks): 細(こま)かそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_細.html">細</a>
 <!--ID: 1782937352790-->
 
@@ -1006,7 +1033,7 @@ to trouble / to cause trouble (transitive) #card
 た形: 困(こま)らせた
 ます形: 困(こま)らせます
 出す形 (start): 困(こま)らせ出す
-そう (looks like): 困(こま)らせそう
+そう (looks): 困(こま)らせそう
 お〜になる (honorific): お困(こま)らせになる
 ない形: 困(こま)らせない
 なかった形: 困(こま)らせなかった
@@ -1016,6 +1043,7 @@ to trouble / to cause trouble (transitive) #card
 ば形 (if): 困(こま)らせれば
 可能形 (can): 困(こま)らせられる
 おう形 (let's): 困(こま)らせよう
+命令形 (imperative): 困(こま)らせろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_困.html">困</a>
 <!--ID: 1782937352794-->
 
@@ -1032,7 +1060,7 @@ to become fat (intransitive) #card
 た形: 太(ふと)った
 ます形: 太(ふと)ります
 出す形 (start): 太(ふと)り出す
-そう (looks like): 太(ふと)りそう
+そう (looks): 太(ふと)りそう
 お〜になる (honorific): お太(ふと)りになる
 ない形: 太(ふと)らない
 なかった形: 太(ふと)らなかった
@@ -1042,6 +1070,7 @@ to become fat (intransitive) #card
 ば形 (if): 太(ふと)れば
 可能形 (can): 太(ふと)れる
 おう形 (let's): 太(ふと)ろう
+命令形 (imperative): 太(ふと)れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_太.html">太</a>
 <!--ID: 1782937352796-->
 
@@ -1052,7 +1081,7 @@ to become thin (intransitive) #card
 た形: 痩（や）せた
 ます形: 痩（や）せます
 出す形 (start): 痩（や）せ出す
-そう (looks like): 痩（や）せそう
+そう (looks): 痩（や）せそう
 お〜になる (honorific): お痩（や）せになる
 ない形: 痩（や）せない
 なかった形: 痩（や）せなかった
@@ -1062,6 +1091,7 @@ to become thin (intransitive) #card
 ば形 (if): 痩（や）せれば
 可能形 (can): 痩（や）せられる
 おう形 (let's): 痩（や）せよう
+命令形 (imperative): 痩（や）せろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痩.html">痩</a>
 <!--ID: 1782937352797-->
 

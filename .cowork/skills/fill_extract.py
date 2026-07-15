@@ -107,7 +107,7 @@ def skeleton(tag, japanese, translation):
             "た形: ",
             "ます形: ",
             "出す形 (start): ",
-            "そう (looks like): ",
+            "そう (looks): ",
             "お〜になる (honorific): ",
             "ない形: ",
             "なかった形: ",
@@ -117,6 +117,7 @@ def skeleton(tag, japanese, translation):
             "ば形 (if): ",
             "可能形 (can): ",
             "おう形 (let's): ",
+            "命令形 (imperative): ",
         ])
 
     if tag == "#wp":

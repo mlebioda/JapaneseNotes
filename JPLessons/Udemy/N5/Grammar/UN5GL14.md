@@ -2147,15 +2147,17 @@ to pass, to inform #card
 た形: 伝えた
 ます形: 伝えます
 出す形 (start): 伝え出す
-そう (looks like): 伝えそう
+そう (looks): 伝えそう
 お〜になる (honorific): お伝えになる
 ない形: 伝えない
 なかった形: 伝えなかった
 あれる形 (passive):  伝えられる
+使役形 (make/let): 伝えさせる
 尊敬語 (honorific): 伝えられる
 ば形 (if): 伝えれば
 可能形 (can): 伝えられる
 おう形 (let's): 伝えよう
+命令形 (imperative): 伝えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伝.html">伝</a>
 <!--ID: 1775021395614-->
 
@@ -2166,15 +2168,17 @@ to talk / to speak  #card
 た形: 話した
 ます形: 話します
 出す形 (start): 話し出す
-そう (looks like): 話しそう
+そう (looks): 話しそう
 お〜になる (honorific): お話しになる
 ない形: 話さない
 なかった形: 話さなかった
 あれる形 (passive):  話される
+使役形 (make/let): 話させる
 尊敬語 (honorific): 話される
 ば形 (if): 話せば
 可能形 (can): 話せる
 おう形 (let's): 話そう
+命令形 (imperative): 話せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1775021395615-->
 
@@ -2185,15 +2189,17 @@ to answer  #card
 た形: 答えた
 ます形: 答えます
 出す形 (start): 答え出す
-そう (looks like): 答えそう
+そう (looks): 答えそう
 お〜になる (honorific): お答えになる
 ない形: 答えない
 なかった形: 答えなかった
 あれる形 (passive):  答えられる
+使役形 (make/let): 答えさせる
 尊敬語 (honorific): 答えられる
 ば形 (if): 答えれば
 可能形 (can): 答えられる
 おう形 (let's): 答えよう
+命令形 (imperative): 答えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 <!--ID: 1775021395616-->
 
@@ -2204,15 +2210,17 @@ to put down  #card
 た形: 置いた
 ます形: 置きます
 出す形 (start): 置き出す
-そう (looks like): 置きそう
+そう (looks): 置きそう
 お〜になる (honorific): お置きになる
 ない形: 置かない
 なかった形: 置かなかった
 あれる形 (passive):  置かれる
+使役形 (make/let): 置かせる
 尊敬語 (honorific): 置かれる
 ば形 (if): 置けば
 可能形 (can): 置ける
 おう形 (let's): 置こう
+命令形 (imperative): 置け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_置.html">置</a>
 <!--ID: 1775021395617-->
 
@@ -2223,15 +2231,17 @@ to sell  #card
 た形: 売った
 ます形: 売ります
 出す形 (start): 売り出す
-そう (looks like): 売りそう
+そう (looks): 売りそう
 お〜になる (honorific): お売りになる
 ない形: 売らない
 なかった形: 売らなかった
 あれる形 (passive):  売られる
+使役形 (make/let): 売らせる
 尊敬語 (honorific): 売られる
 ば形 (if): 売れば
 可能形 (can): 売れる
 おう形 (let's): 売ろう
+命令形 (imperative): 売れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
 <!--ID: 1775021395618-->
 
@@ -2242,15 +2252,17 @@ to have trouble, to struggle,  struggling with something, not knowing what to do
 た形: 困った
 ます形: 困ります
 出す形 (start): 困り出す
-そう (looks like): 困りそう
+そう (looks): 困りそう
 お〜になる (honorific): お困りになる
 ない形: 困らない
 なかった形: 困らなかった
 あれる形 (passive):  困られる
+使役形 (make/let): 困らせる
 尊敬語 (honorific): 困られる
 ば形 (if): 困れば
 可能形 (can): 困れる
 おう形 (let's): 困ろう
+命令形 (imperative): 困れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_困.html">困</a>
 <!--ID: 1775021395619-->
 
@@ -2261,15 +2273,17 @@ to work  (when somebody works in one place for a long time) particle  #card
 た形: 勤めた
 ます形: 勤めます
 出す形 (start): 勤め出す
-そう (looks like): 勤めそう
+そう (looks): 勤めそう
 お〜になる (honorific): お勤めになる
 ない形: 勤めない
 なかった形: 勤めなかった
 あれる形 (passive):  勤められる
+使役形 (make/let): 勤めさせる
 尊敬語 (honorific): 勤められる
 ば形 (if): 勤めれば
 可能形 (can): 勤められる
 おう形 (let's): 勤めよう
+命令形 (imperative): 勤めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勤.html">勤</a>
 <!--ID: 1775021395620-->
 
@@ -2280,15 +2294,17 @@ to help  (particle)  #card
 た形: 手伝った
 ます形: 手伝います
 出す形 (start): 手伝い出す
-そう (looks like): 手伝いそう
+そう (looks): 手伝いそう
 お〜になる (honorific): お手伝いになる
 ない形: 手伝わない
 なかった形: 手伝わなかった
 あれる形 (passive):  手伝われる
+使役形 (make/let): 手伝わせる
 尊敬語 (honorific): 手伝われる
 ば形 (if): 手伝えば
 可能形 (can): 手伝える
 おう形 (let's): 手伝おう
+命令形 (imperative): 手伝え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伝.html">伝</a>
 <!--ID: 1775021395621-->
@@ -2300,15 +2316,17 @@ to stand  #card
 た形: 立った
 ます形: 立ちます
 出す形 (start): 立ち出す
-そう (looks like): 立ちそう
+そう (looks): 立ちそう
 お〜になる (honorific): お立ちになる
 ない形: 立たない
 なかった形: 立たなかった
 あれる形 (passive):  立たれる
+使役形 (make/let): 立たせる
 尊敬語 (honorific): 立たれる
 ば形 (if): 立てば
 可能形 (can): 立てる
 おう形 (let's): 立とう
+命令形 (imperative): 立て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <!--ID: 1775021395622-->
 
@@ -2319,15 +2337,17 @@ to turn on  #card
 た形: 点けた
 ます形: 点けます
 出す形 (start): 点け出す
-そう (looks like): 点けそう
+そう (looks): 点けそう
 お〜になる (honorific): お点けになる
 ない形: 点けない
 なかった形: 点けなかった
 あれる形 (passive):  点けられる
+使役形 (make/let): 点けさせる
 尊敬語 (honorific): 点けられる
 ば形 (if): 点ければ
 可能形 (can): 点けられる
 おう形 (let's): 点けよう
+命令形 (imperative): 点けろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_点.html">点</a>
 <!--ID: 1775021395623-->
 
@@ -2338,31 +2358,38 @@ to turn off / erase  #card
 た形: 消した
 ます形: 消します
 出す形 (start): 消し出す
-そう (looks like): 消しそう
+そう (looks): 消しそう
 お〜になる (honorific): お消しになる
 ない形: 消さない
 なかった形: 消さなかった
 あれる形 (passive):  消される
+使役形 (make/let): 消させる
 尊敬語 (honorific): 消される
 ば形 (if): 消せば
 可能形 (can): 消せる
 おう形 (let's): 消そう
+命令形 (imperative): 消せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 <!--ID: 1775021395624-->
 
 
 attendance / to attend  #card
 ほんやく: 出席（しゅっせき）
-ます形: 出席します
 て形: 出席して
 た形: 出席した
+ます形: 出席します
+出す形 (start): 出席し出す
+そう (looks): 出席しそう
+お〜になる (honorific): ご出席になる
 ない形: 出席しない
 なかった形: 出席しなかった
-ば形 (if): 出席すれば
-可能形 (can): 出席される
-出す形 (start): 出席し出す
+あれる形 (passive):  出席される
+使役形 (make/let): 出席させる
 尊敬語 (honorific): 出席される
-お〜になる (honorific): ご出席になる
+ば形 (if): 出席すれば
+可能形 (can): 出席できる
+おう形 (let's): 出席しよう
+命令形 (imperative): 出席しろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_席.html">席</a>
 <!--ID: 1775021395625-->
@@ -2374,15 +2401,17 @@ to remember  #card
 た形: 覚えた
 ます形: 覚えます
 出す形 (start): 覚え出す
-そう (looks like): 覚えそう
+そう (looks): 覚えそう
 お〜になる (honorific): お覚えになる
 ない形: 覚えない
 なかった形: 覚えなかった
 あれる形 (passive):  覚えられる
+使役形 (make/let): 覚えさせる
 尊敬語 (honorific): 覚えられる
 ば形 (if): 覚えれば
 可能形 (can): 覚えられる
 おう形 (let's): 覚えよう
+命令形 (imperative): 覚えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_覚.html">覚</a>
 <!--ID: 1775021395626-->
 
@@ -2393,15 +2422,17 @@ to forget  #card
 た形: 忘れた
 ます形: 忘れます
 出す形 (start): 忘れ出す
-そう (looks like): 忘れそう
+そう (looks): 忘れそう
 お〜になる (honorific): お忘れになる
 ない形: 忘れない
 なかった形: 忘れなかった
 あれる形 (passive):  忘れられる
+使役形 (make/let): 忘れさせる
 尊敬語 (honorific): 忘れられる
 ば形 (if): 忘れれば
 可能形 (can): 忘れられる
 おう形 (let's): 忘れよう
+命令形 (imperative): 忘れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_忘.html">忘</a>
 <!--ID: 1775021395627-->
 
@@ -2412,15 +2443,17 @@ to use  #card
 た形: 使った
 ます形: 使います
 出す形 (start): 使い出す
-そう (looks like): 使いそう
+そう (looks): 使いそう
 お〜になる (honorific): お使いになる
 ない形: 使わない
 なかった形: 使わなかった
 あれる形 (passive):  使われる
+使役形 (make/let): 使わせる
 尊敬語 (honorific): 使われる
 ば形 (if): 使えば
 可能形 (can): 使える
 おう形 (let's): 使おう
+命令形 (imperative): 使え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <!--ID: 1775021395628-->
 
@@ -2431,15 +2464,17 @@ to be born  (passive form from うむ) + particle  #card
 た形: 生まれた
 ます形: 生まれます
 出す形 (start): 生まれ出す
-そう (looks like): 生まれそう
+そう (looks): 生まれそう
 お〜になる (honorific): お生まれになる
 ない形: 生まれない
 なかった形: 生まれなかった
 あれる形 (passive):  生まれられる
+使役形 (make/let): 生まれさせる
 尊敬語 (honorific): 生まれられる
 ば形 (if): 生まれれば
 可能形 (can): 生まれられる
 おう形 (let's): 生まれよう
+命令形 (imperative): 生まれろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <!--ID: 1775021395629-->
 
@@ -2450,15 +2485,17 @@ to raise, lift (up)  #card
 た形: 上げた
 ます形: 上げます
 出す形 (start): 上げ出す
-そう (looks like): 上げそう
+そう (looks): 上げそう
 お〜になる (honorific): お上げになる
 ない形: 上げない
 なかった形: 上げなかった
 あれる形 (passive):  上げられる
+使役形 (make/let): 上げさせる
 尊敬語 (honorific): 上げられる
 ば形 (if): 上げれば
 可能形 (can): 上げられる
 おう形 (let's): 上げよう
+命令形 (imperative): 上げろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1775021395630-->
 
@@ -2469,15 +2506,17 @@ to place, to put, to leave (something somewhere); to park (e.g. a bicycle)  #car
 た形: 置いた
 ます形: 置きます
 出す形 (start): 置き出す
-そう (looks like): 置きそう
+そう (looks): 置きそう
 お〜になる (honorific): お置きになる
 ない形: 置かない
 なかった形: 置かなかった
 あれる形 (passive):  置かれる
+使役形 (make/let): 置かせる
 尊敬語 (honorific): 置かれる
 ば形 (if): 置けば
 可能形 (can): 置ける
 おう形 (let's): 置こう
+命令形 (imperative): 置け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_置.html">置</a>
 <!--ID: 1775021395631-->
 
@@ -2488,15 +2527,17 @@ to ask / request  (particle)/Hoping someone will help you in something  #card
 た形: 頼んだ
 ます形: 頼みます
 出す形 (start): 頼み出す
-そう (looks like): 頼みそう
+そう (looks): 頼みそう
 お〜になる (honorific): お頼みになる
 ない形: 頼まない
 なかった形: 頼まなかった
 あれる形 (passive):  頼まれる
+使役形 (make/let): 頼ませる
 尊敬語 (honorific): 頼まれる
 ば形 (if): 頼めば
 可能形 (can): 頼める
 おう形 (let's): 頼もう
+命令形 (imperative): 頼め
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頼.html">頼</a>
 <!--ID: 1775021395632-->
 
@@ -2507,15 +2548,17 @@ to call /invite  #card
 た形: 呼んだ
 ます形: 呼びます
 出す形 (start): 呼び出す
-そう (looks like): 呼びそう
+そう (looks): 呼びそう
 お〜になる (honorific): お呼びになる
 ない形: 呼ばない
 なかった形: 呼ばなかった
 あれる形 (passive):  呼ばれる
+使役形 (make/let): 呼ばせる
 尊敬語 (honorific): 呼ばれる
 ば形 (if): 呼べば
 可能形 (can): 呼べる
 おう形 (let's): 呼ぼう
+命令形 (imperative): 呼べ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_呼.html">呼</a>
 <!--ID: 1775021395633-->
 
@@ -2526,15 +2569,17 @@ to show  #card
 た形: 見せた
 ます形: 見せます
 出す形 (start): 見せ出す
-そう (looks like): 見せそう
+そう (looks): 見せそう
 お〜になる (honorific): お見せになる
 ない形: 見せない
 なかった形: 見せなかった
 あれる形 (passive):  見せられる
+使役形 (make/let): 見せさせる
 尊敬語 (honorific): 見せられる
 ば形 (if): 見せれば
 可能形 (can): 見せられる
 おう形 (let's): 見せよう
+命令形 (imperative): 見せろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1775021395634-->
 
@@ -2544,7 +2589,7 @@ dangerous  #card
 過去形: 危なかった
 否定形: 危なくない
 副詞形: 危なく
-そう (looks like): 危なそう
+そう (looks): 危なさそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_危.html">危</a>
 <!--ID: 1775021395635-->
 
@@ -2554,7 +2599,7 @@ bright  #card
 過去形: 明るかった
 否定形: 明るくない
 副詞形: 明るく
-そう (looks like): 明るそう
+そう (looks): 明るそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1775021395636-->
 
@@ -2564,7 +2609,7 @@ dark  #card
 過去形: 暗かった
 否定形: 暗くない
 副詞形: 暗く
-そう (looks like): 暗そう
+そう (looks): 暗そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_暗.html">暗</a>
 <!--ID: 1775021395637-->
 
@@ -2574,7 +2619,7 @@ next  #card
 過去形: —
 否定形: —
 副詞形: —
-そう (looks like): —
+そう (looks): —
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_次.html">次</a>
 <!--ID: 1775021395638-->
 
@@ -2584,7 +2629,7 @@ first time (doing something)  #card
 過去形: —
 否定形: —
 副詞形: —
-そう (looks like): —
+そう (looks): —
 <!--ID: 1775021395639-->
 
  --- 

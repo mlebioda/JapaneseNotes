@@ -313,12 +313,21 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
  
 turn left(noun can be verb) #card
 ほんやく: 左折（させつ)  
-ます形: させつします  
 て形: させつして  
 た形: させつした  
+ます形: させつします  
+出す形 (start): させつし出す  
+そう (looks): させつしそう  
+お〜になる (honorific): ご左折になる  
 ない形: させつしない  
 なかった形: させつしなかった  
-ば形 (if): させつすれば
+あれる形 (passive): させつされる  
+使役形 (make/let): させつさせる  
+尊敬語 (honorific): させつされる  
+ば形 (if): させつすれば  
+可能形 (can): させつできる  
+おう形 (let's): させつしよう
+命令形 (imperative): させつしろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_左.html">左</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_折.html">折</a>
 <!--ID: 1761660075950-->
@@ -326,12 +335,21 @@ turn left(noun can be verb) #card
 
 turn right (noun can be verb) #card
 ほんやく: 右折（うせつ)  
-ます形: うせつします  
 て形: うせつして  
 た形: うせつした  
+ます形: うせつします  
+出す形 (start): うせつし出す  
+そう (looks): うせつしそう  
+お〜になる (honorific): ご右折になる  
 ない形: うせつしない  
 なかった形: うせつしなかった  
-ば形 (if): うせつすれば
+あれる形 (passive): うせつされる  
+使役形 (make/let): うせつさせる  
+尊敬語 (honorific): うせつされる  
+ば形 (if): うせつすれば  
+可能形 (can): うせつできる  
+おう形 (let's): うせつしよう
+命令形 (imperative): うせつしろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_右.html">右</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_折.html">折</a>
 <!--ID: 1761660075953-->
@@ -343,15 +361,17 @@ go up (object rise) #card
 た形: あがった
 ます形: あがります
 出す形 (start): あがり出す
-そう (looks like): あがりそう
+そう (looks): あがりそう
 お〜になる (honorific): お上がりになる
 ない形: あがらない
 なかった形: あがらなかった
-受身形 (passive): あがられる
+あれる形 (passive): あがられる
+使役形 (make/let): あがらせる
 尊敬語 (honorific): あがられる
 ば形 (if): あがれば
 可能形 (can): あがれる
 おう形 (let's): あがろう
+命令形 (imperative): あがれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1761660075955-->
 
@@ -362,15 +382,17 @@ to go up, to climb, ascend (someone) #card
 た形: のぼった
 ます形: のぼります
 出す形 (start): のぼり出す
-そう (looks like): のぼりそう
+そう (looks): のぼりそう
 お〜になる (honorific): お上りになる
 ない形: のぼらない
 なかった形: のぼらなかった
-受身形 (passive): のぼられる
+あれる形 (passive): のぼられる
+使役形 (make/let): のぼらせる
 尊敬語 (honorific): のぼられる
 ば形 (if): のぼれば
 可能形 (can): のぼれる
 おう形 (let's): のぼろう
+命令形 (imperative): のぼれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1761660075958-->
 
@@ -381,15 +403,17 @@ go down (object) #card
 た形: さがった
 ます形: さがります
 出す形 (start): さがり出す
-そう (looks like): さがりそう
+そう (looks): さがりそう
 お〜になる (honorific): お下がりになる
 ない形: さがらない
 なかった形: さがらなかった
-受身形 (passive): さがられる
+あれる形 (passive): さがられる
+使役形 (make/let): さがらせる
 尊敬語 (honorific): さがられる
 ば形 (if): さがれば
 可能形 (can): さがれる
 おう形 (let's): さがろう
+命令形 (imperative): さがれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <!--ID: 1761660075961-->
 
@@ -400,15 +424,17 @@ to go down(someone) #card
 た形: くだった
 ます形: くだります
 出す形 (start): くだり出す
-そう (looks like): くだりそう
+そう (looks): くだりそう
 お〜になる (honorific): お下りになる
 ない形: くだらない
 なかった形: くだらなかった
-受身形 (passive): くだられる
+あれる形 (passive): くだられる
+使役形 (make/let): くだらせる
 尊敬語 (honorific): くだられる
 ば形 (if): くだれば
 可能形 (can): くだれる
 おう形 (let's): くだろう
+命令形 (imperative): くだれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <!--ID: 1761660075964-->
 

@@ -345,6 +345,14 @@ Structure
 2. 2part - negative
 
 ##### Structure
+
+| Type  | Plain + が | Needs だ? |
+| ----- | --------- | -------- |
+| Verb  | 行くが       | No       |
+| い-adj | 高いが       | No       |
+| な-adj | 静かだが      | Yes      |
+| Noun  | 学生だが      | Yes      |
+
 - 。。。。が、。。。  - 1 part positive, 2 negative
 - 。。。ですが、。。。 
 - 。。。ますが、。。。
@@ -515,6 +523,7 @@ Examples:
  call to mother (2 ways) #card
 ほんやく: 母（に・へ）(する・掛ける)(か)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_掛.html">掛</a>
 <!--ID: 1763177150158-->
 
 
@@ -1284,16 +1293,18 @@ uruchomić, wykonywać czynność #wc #card
 て形: 掛けて
 た形: 掛けた
 ます形: 掛けます
-出す形 (start): 掛けだす
-そう (looks like): 掛けそう
+出す形 (start): 掛け出す
+そう (looks): 掛けそう
 お〜になる (honorific): お掛けになる
 ない形: 掛けない
 なかった形: 掛けなかった
 あれる形 (passive):  掛けられる
+使役形 (make/let): 掛けさせる
 尊敬語 (honorific): 掛けられる
 ば形 (if): 掛ければ
 可能形 (can): 掛けられる
 おう形 (let's): 掛けよう
+命令形 (imperative): 掛けろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_掛.html">掛</a>
 <!--ID: 1763177150452-->
 
@@ -1303,16 +1314,18 @@ to stay the night #wc #card
 て形: 泊まって
 た形: 泊まった
 ます形: 泊まります
-出す形 (start): 泊まりだす
-そう (looks like): 泊まりそう
+出す形 (start): 泊まり出す
+そう (looks): 泊まりそう
 お〜になる (honorific): お泊まりになる
 ない形: 泊まらない
 なかった形: 泊まらなかった
 あれる形 (passive):  泊まられる
+使役形 (make/let): 泊まらせる
 尊敬語 (honorific): 泊まられる
 ば形 (if): 泊まれば
 可能形 (can): 泊まれる
 おう形 (let's): 泊まろう
+命令形 (imperative): 泊まれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_泊.html">泊</a>
 <!--ID: 1763177150455-->
 
@@ -1322,16 +1335,18 @@ to know + particle #k #wc #card
 て形: 知って
 た形: 知った
 ます形: 知ります
-出す形 (start): 知りだす
-そう (looks like): 知りそう
+出す形 (start): 知り出す
+そう (looks): 知りそう
 お〜になる (honorific): お知りになる
 ない形: 知らない
 なかった形: 知らなかった
 あれる形 (passive):  知られる
+使役形 (make/let): 知らせる
 尊敬語 (honorific): 知られる
 ば形 (if): 知れば
 可能形 (can): 知れる
 おう形 (let's): 知ろう
+命令形 (imperative): 知れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1763177150458-->
 
@@ -1341,7 +1356,7 @@ busy #wp #card
 過去形: いそがしかった  
 否定形: いそがしくない  
 副詞形: いそがしく
-そう (looks like): 忙しそう
+そう (looks): 忙しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_忙.html">忙</a>
 <!--ID: 1763177150461-->
 
@@ -1351,7 +1366,7 @@ interesting #k #wp #card
 過去形: おもしろかった  
 否定形: おもしろくない  
 副詞形: おもしろく
-そう (looks like): 面白そう
+そう (looks): 面白そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1763177150464-->
@@ -1362,7 +1377,7 @@ fun #k #wp #card
 過去形: たのしかった  
 否定形: たのしくない  
 副詞形: たのしく
-そう (looks like): 楽しそう
+そう (looks): 楽しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1763177150466-->
 
@@ -1372,7 +1387,7 @@ difficult #wp #card
 過去形: むずかしかった  
 否定形: むずかしくない  
 副詞形: むずかしく
-そう (looks like): 難しそう
+そう (looks): 難しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_難.html">難</a>
 <!--ID: 1763177150469-->
 
@@ -1382,7 +1397,7 @@ easy / simple #wp #card
 過去形: やさしかった  
 否定形: やさしくない  
 副詞形: やさしく
-そう (looks like): 易しそう
+そう (looks): 易しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_易.html">易</a>
 <!--ID: 1763177150472-->
 
@@ -1392,7 +1407,7 @@ big #k #wp #card
 過去形: おおきかった  
 否定形: おおきくない  
 副詞形: おおきく
-そう (looks like): 大きそう
+そう (looks): 大きそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <!--ID: 1763177150474-->
 
@@ -1402,7 +1417,7 @@ small #k #wp #card
 過去形: ちいさかった  
 否定形: ちいさくない  
 副詞形: ちいさく
-そう (looks like): 小さそう
+そう (looks): 小さそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_小.html">小</a>
 <!--ID: 1763177150477-->
 
@@ -1412,7 +1427,7 @@ cold #wp #card
 過去形: さむかった  
 否定形: さむくない  
 副詞形: さむく
-そう (looks like): 寒そう
+そう (looks): 寒そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寒.html">寒</a>
 <!--ID: 1763177150480-->
 
@@ -1422,7 +1437,7 @@ hot #k #wp #card
 過去形: あつかった  
 否定形: あつくない  
 副詞形: あつく
-そう (looks like): 熱そう
+そう (looks): 熱そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_暑.html">暑</a>
 <!--ID: 1763177150482-->
@@ -1433,7 +1448,7 @@ high / tall / expensive #k #wp #card
 過去形: たかかった  
 否定形: たかくない  
 副詞形: たかく
-そう (looks like): 高そう
+そう (looks): 高そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <!--ID: 1763177150486-->
 
@@ -1443,7 +1458,7 @@ cheap #k #wp #card
 過去形: やすかった  
 否定形: やすくない  
 副詞形: やすく
-そう (looks like): 安そう
+そう (looks): 安そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <!--ID: 1763177150489-->
 
@@ -1453,7 +1468,7 @@ new #k #wp #card
 過去形: あたらしかった  
 否定形: あたらしくない  
 副詞形: あたらしく
-そう (looks like): 新しそう
+そう (looks): 新しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <!--ID: 1763177150492-->
 
@@ -1463,7 +1478,7 @@ old #k #wp #card
 過去形: ふるかった  
 否定形: ふるくない  
 副詞形: ふるく
-そう (looks like): 古そう
+そう (looks): 古そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_古.html">古</a>
 <!--ID: 1763177150495-->
 
@@ -1473,7 +1488,7 @@ good #wp #card
 過去形: よかった  
 否定形: よくない  
 副詞形: よく
-そう (looks like): よさそう
+そう (looks): よさそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_良.html">良</a>
 <!--ID: 1763177150498-->
 
@@ -1483,7 +1498,7 @@ bad #k #wp #card
 過去形: わるかった  
 否定形: わるくない  
 副詞形: わるく
-そう (looks like): 悪そう
+そう (looks): 悪そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
 <!--ID: 1763177150502-->
 
@@ -1493,7 +1508,7 @@ white #k #color #wp #card
 過去形: しろかった  
 否定形: しろくない  
 副詞形: しろく
-そう (looks like): 白そう
+そう (looks): 白そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1763177150505-->
 
@@ -1503,7 +1518,7 @@ black #k #color #wp #card
 過去形: くろかった  
 否定形: くろくない  
 副詞形: くろく
-そう (looks like): 黒そう
+そう (looks): 黒そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <!--ID: 1763177150507-->
 
@@ -1513,7 +1528,7 @@ red #k #color #wp #card
 過去形: あかかった  
 否定形: あかくない  
 副詞形: あかく
-そう (looks like): 赤そう
+そう (looks): 赤そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
 <!--ID: 1763177150510-->
 
@@ -1523,7 +1538,7 @@ blue #k #color #wp #card
 過去形: あおかった  
 否定形: あおくない  
 副詞形: あおく
-そう (looks like): 青そう
+そう (looks): 青そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
 
 yellow #k #color #wp #card
@@ -1531,7 +1546,7 @@ yellow #k #color #wp #card
 過去形: きいろかった  
 否定形: きいろくない  
 副詞形: きいろく
-そう (looks like): 黄色そう
+そう (looks): 黄色そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黄.html">黄</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1763177150514-->
@@ -1542,7 +1557,7 @@ brown #k #color #wp #card
 過去形: ちゃいろかった  
 否定形: ちゃいろくない  
 副詞形: ちゃいろく
-そう (looks like): 茶色そう
+そう (looks): 茶色そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_茶.html">茶</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1763177150518-->
@@ -1553,7 +1568,7 @@ cool (chłodny) #wp #card
 過去形: つめたかった  
 否定形: つめたくない  
 副詞形: つめたく
-そう (looks like): 冷たそう
+そう (looks): 冷たそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冷.html">冷</a>
 <!--ID: 1763177150520-->
 
@@ -1563,7 +1578,7 @@ warm #k #wp #card
 過去形: あたたかかった  
 否定形: あたたかくない  
 副詞形: あたたかく
-そう (looks like): 暖かそう
+そう (looks): 暖かそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_暖.html">暖</a>
 <!--ID: 1763177150522-->
 
@@ -1573,7 +1588,7 @@ near, close #k #wp #card
 過去形: ちかかった  
 否定形: ちかくない  
 副詞形: ちかく
-そう (looks like): 近そう
+そう (looks): 近そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <!--ID: 1763177150525-->
 
@@ -1583,7 +1598,7 @@ far #wp #card
 過去形: とおかった  
 否定形: とおくない  
 副詞形: とおく
-そう (looks like): 遠そう
+そう (looks): 遠そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遠.html">遠</a>
 <!--ID: 1763177150528-->
 
@@ -1593,7 +1608,7 @@ wide #wp #card
 過去形: ひろかった  
 否定形: ひろくない  
 副詞形: ひろく
-そう (looks like): 広そう
+そう (looks): 広そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
 <!--ID: 1763177150531-->
 
@@ -1603,7 +1618,7 @@ narrow #wp #card
 過去形: せまかった  
 否定形: せまくない  
 副詞形: せまく
-そう (looks like): 狭そう
+そう (looks): 狭そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_狭.html">狭</a>
 <!--ID: 1763177150534-->
 
@@ -1613,7 +1628,7 @@ early / fast #wp #card
 過去形: はやかった  
 否定形: はやくない  
 副詞形: はやく
-そう (looks like): 早そう
+そう (looks): 早そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_速.html">速</a>
 <!--ID: 1763177150537-->
@@ -1624,7 +1639,7 @@ late / slow #wp #card
 過去形: おそかった  
 否定形: おそくない  
 副詞形: おそく
-そう (looks like): 遅そう
+そう (looks): 遅そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遅.html">遅</a>
 <!--ID: 1763177150540-->
 
@@ -1634,7 +1649,7 @@ delicious (more polite) #wp #card
 過去形: おいしかった  
 否定形: おいしくない  
 副詞形: おいしく
-そう (looks like): 美味しそう
+そう (looks): 美味しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_美.html">美</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <!--ID: 1763177150543-->
@@ -1645,7 +1660,7 @@ delicious (less polite, często używane przez mężczyzn) #wp #card
 過去形: うまかった  
 否定形: うまくない  
 副詞形: うまく
-そう (looks like): うまそう
+そう (looks): うまそう
 <!--ID: 1763177150545-->
 
 
@@ -1654,7 +1669,7 @@ bad (not tasty) #wp #card
 過去形: まずかった  
 否定形: まずくない  
 副詞形: まずく
-そう (looks like): まずそう
+そう (looks): まずそう
 <!--ID: 1763177150548-->
 
 
@@ -1663,7 +1678,7 @@ short, niski #wp #card
 過去形: ひくかった  
 否定形: ひくくない  
 副詞形: ひくく
-そう (looks like): 低そう
+そう (looks): 低そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_低.html">低</a>
 <!--ID: 1763177150552-->
 

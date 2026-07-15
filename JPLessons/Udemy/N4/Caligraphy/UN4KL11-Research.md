@@ -6,7 +6,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL11-Research
 Imagine a **scholar** grinding a **stone (石)** carefully using both **hands/tools (幵**)** in order to **sharpen** it — not just physically, but mentally.
 
 **(と)**
-#wc 研ぐ（とぐ）- sharpen
+#wc 研ぐ（とぐ）- sharpen (blade, knife) / also washing rice
 #w お米を研ぐ（こめ、と）- wash rice
 
 **(けん)**
@@ -19,7 +19,7 @@ Imagine a **scholar** grinding a **stone (石)** carefully using both **hands/to
 
 **(きわ)**
 #w 真理を究める（しんり、きわ）- get at the truth/dotrzeć do prawdy
-#wc 究める（きわ）- to master
+#wc 究める（きわ）- to master　(something thoroughly, to investigate to the fullest extent, field of study)
 #w その道を究めた人（みち、きわ、ひと）- the person who mastered the field
 
 **(きゅう)**
@@ -27,7 +27,7 @@ Imagine a **scholar** grinding a **stone (石)** carefully using both **hands/to
 #w 学究（がっきゅう）- scholar/uczony
 研究（けんきゅう）- research
 
-#w 弟は外国語を研究しています（おとうと、がいこくご、けんきゅう）- My younger brtother is studying a foreign language
+#w 弟は外国語を研究しています（おとうと、がいこくご、けんきゅう）- My younger brother is doing research on foreign languages.
 #w あなたも日本文学を研究していますか（ぶんがく、けんきゅう）- are you also studying Japanese literature (research)
 ## 主 - mainly, one's master・おも、ぬし・シュ
 [[主-mainly,master]]
@@ -35,8 +35,8 @@ Imagine a **scholar** grinding a **stone (石)** carefully using both **hands/to
 candlestick
 
 **(おも)**
-#w 大学で主に英語を学んだ（おも、えいご、まな）- I mainly studied English at this university
 #w 主(に)（おも) - mainly
+#w 大学で主に英語を学んだ（おも、えいご、まな）- I mainly studied English at this university
 
 #w この建物は**主に**木でできています（たてもの、おも）- This building is **mainly** made of wood
 
@@ -47,18 +47,18 @@ candlestick
 #w あの車の待ち主はあなたですか(まちぬし) - are you owner of that car?
 
 **(しゅ)**
-#w 主人（しゅじん）- owner but status/husband
+#w 主人（しゅじん）- owner but status/husband (Carries a sense of authority — master over servants, pets, or a business.)
 #w 店主（てんしゅ）- storekeeper
 
 #w 姉の主人は医者です（あね、しゅじん、いしゃ）- Sister's elder husband is a doctor
 #w この店の主人はあの人です（みせ、しゅじん、ひと）-The owner of this store is that person
-#w 主人の仕事は主に海外**との**売買です（しゅじん、おも、かいがい、ばいばい）- My husband's job is **mainly** trading with foreing countries
+#w 主人の仕事は主に海外**との**売買です（しゅじん、おも、かいがい、ばいばい）- My husband's job is **mainly** trading with foreign countries
 ## 言 - language・い・ゲン
 [[言-tosay]]
 **(い)**
 #w 言う（い）- say
 
-#w 言い出す（い、だ）- start talking
+#w 言い出す（い、だ）- start talking (to bring up topic)
 #w 私はスミスと言います（い）- I am Smitch
 #w だれがそんなことを言いましたか（い) - Who said such a thing?
 
@@ -81,9 +81,9 @@ candlestick
 
 **(せ)**
 #w 世界（せかい）- world 
-#w 世間（せけん）- society
+#w 世間（せけん）- society (the social circle/your personal social bubble)
 
-#w 今、私は世界旅行を計画しています（せかいりょこう、けいかく）- I am planinning on traveling around the world now
+#w 今、私は世界旅行を計画しています（せかいりょこう、けいかく）- I am planning on traveling around the world now
 #w 日本の世の中はアメリカとは違います（よのなか、ちが）- The society of Japan is different from the united states
 
 
@@ -117,7 +117,7 @@ to make something **new (新)**, you **stand (立)** beside a **tree (木)** and
 #w 昨日新しい東京の地図を買いました（ちず）- yesterday i bought map of the Tokio
 #w 今日の新聞はありますか(しんぶん) - Do you have today's newspaper
 
-#w 明日の学会で新研究が発表されます（がっかい、しんけんきゅう、はっぴょう）- New research will be announced at tommorows academic conference
+#w 明日の学会で新研究が発表されます（がっかい、しんけんきゅう、はっぴょう）- New research will be announced at tomorrows academic conference
 
 
 
@@ -133,7 +133,7 @@ to make something **new (新)**, you **stand (立)** beside a **tree (木)** and
 #w 題名（だいめい）name of the topic- title
 
 #w 試験問題は明日作ります（しけんもんだい、あした、つく） - I will make the exam question tomorrow
-#w この大学の試験問題はむずかしいですよ（しけんもんだい）- The exam questins at this university are difficult
+#w この大学の試験問題はむずかしいですよ（しけんもんだい）- The exam questions at this university are difficult
 
 #w あなたのレクチャーの題名は何ですか（だいめい）-  What is the title of your lecture?
 #w あの会社は問題が多いですね（もんだい、おお）- That company has many problems
@@ -148,12 +148,12 @@ to make something **new (新)**, you **stand (立)** beside a **tree (木)** and
 cow + temple it’s sacred and **special (特)**,
 
 **(トク)**
-#w 特別（とくべつ）- special, especiallu
+#w 特別（とくべつ）- special, especially
 #w 特色（とくしょく）- special features
 #w これは特別な研究です（とくべつ、けんきょう）- This is a special research
 #w この車はどんな特色がありますか（とくしょく）- What are the features of this car?
-#w これは特別な研究ですから、大学がお金を出します（とくべつ、けんきゅう、だ）- This is a special research, so the uniwersity will pay for it
-#w この企画の特色は作業がやさしいことです(きかく、とくしょく、さぎょう) - The characteristics of this projec is that the tsask is very easy
+#w これは特別な研究ですから、大学がお金を出します（とくべつ、けんきゅう、だ）- This is a special research, so the university will pay for it
+#w この企画の特色は作業がやさしいことです(きかく、とくしょく、さぎょう) - The characteristics of this project is that the task is very easy
 ## 別 - distinction, separately・わか・ベツ
 [[別-distinction]]
 ![[Pasted image 20250525205442.png]]
@@ -163,13 +163,13 @@ A **knife (刂)** is used to **cut** or **separate** something from another (**�
 **(わか)**
 
 #wc 別れる（わかれる）- to separate
-#w 別れ（わか）- farawell
+#w 別れ（わか）- farewell
 
-#w 友だちと別れて、一人で留学することにしました（わか、りゅうがく）- I decided to leave my friends and study baroad by myself
+#w 友だちと別れて、一人で留学することにしました（わか、りゅうがく）- I decided to leave my friends and study abroad by myself
 
 **(べつ)**
 #w 別名（べつめい）- alias
-#w 別室（べっしつ）- another room
+#w 別室（べっしつ）- another(separate) room
 
 #w 明日から特別な研究が始まります（とくべつ、けんきゅう,は) - The special research will begin from tomorrow
 ## 不 - un-non・フ、ブ
@@ -185,6 +185,7 @@ A **knife (刂)** is used to **cut** or **separate** something from another (**�
 #w 特別なコンピューターを買うので、銀行からお金を借りましたが、まだ不十分です（とくべつ、が、ぎんこう、かね、か、ふじゅうぶん）- Because I will buy a special computer, I borrowed money from bank, but it is still insufficient
 
 #w 不要な品物はここに集めて下さい（ふよう、しなもの、あつ）- Please collect unnecessary items here
+#w 不要(ふよう) - unnecessary, not needed, not required.
 
 **(ぶ)**
 #w 不器用（ぶきよう）- clumsy(klamzi)/niezdarny
@@ -199,7 +200,7 @@ A **knife (刂)** is used to **cut** or **separate** something from another (**�
 #w これは薬に持ちられます(くすり、もち) - this is used for medicine
 
 **(よう)**
-#w 不用（ふよう）- unnecessary
+#w 不用（ふよう）- unused, no longer in use, disused.
 #w 使用（しよう） - use
 #w 社用（しゃよう）- company use
 
@@ -217,6 +218,12 @@ A **knife (刂)** is used to **cut** or **separate** something from another (**�
 # Summary
 
  Rzeczowniki:
+
+unnecessary, not needed, not required. #card
+不要(ふよう) 
+<!--ID: 1783488402623-->
+
+
 
  wash rice #card
 ほんやく: お米を研ぐ（こめ、と）
@@ -259,7 +266,7 @@ A **knife (刂)** is used to **cut** or **separate** something from another (**�
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879273-->
 
- My younger brtother is studying a foreign language #card
+ My younger brother is doing research on foreign languages. #card
 ほんやく: 弟は外国語を研究しています（おとうと、がいこくご、けんきゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
@@ -320,7 +327,7 @@ A **knife (刂)** is used to **cut** or **separate** something from another (**�
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <!--ID: 1749742879289-->
 
- owner but status/husband #card
+ owner but status/husband Carries a sense of authority — master over servants, pets, or a business. #card
 ほんやく: 主人（しゅじん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
@@ -365,7 +372,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1749742879307-->
 
- start talking #card
+ start talking (to bring up topic) #card
 ほんやく: 言い出す（い、だ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
@@ -436,7 +443,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_界.html">界</a>
 <!--ID: 1749742879331-->
 
- society #card
+ society (the social circle/community around you, your personal social bubble) #card
 ほんやく: 世間（せけん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
@@ -665,7 +672,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1749742879393-->
 
- farawell #card
+ farewell #card
 ほんやく: 別れ（わか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1749742879396-->
@@ -686,7 +693,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1749742879401-->
 
- another room #card
+ another (separate) room #card
 ほんやく: 別室（べっしつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
@@ -769,7 +776,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 <!--ID: 1749742879421-->
 
- unnecessary #card
+ unused, no longer in use, disused. #card
 ほんやく: 不用（ふよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
@@ -825,33 +832,37 @@ sharpen #card
 た形: 研いだ
 ます形: 研ぎます
 出す形 (start): 研ぎ出す
-そう (looks like): 研ぎそう
+そう (looks): 研ぎそう
 お〜になる (honorific): お研ぎになる
 ない形: 研がない
 なかった形: 研がなかった
 あれる形 (passive): 研がれる
+使役形 (make/let): 研がせる
 尊敬語 (honorific): 研がれる
 ば形 (if): 研げば
 可能形 (can): 研げる
 おう形 (let's): 研ごう
+命令形 (imperative): 研げ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
 <!--ID: 1749742894466-->
 
-to master #card
+to master (something thoroughly, to investigate to the fullest extent, field of study) #card
 ほんやく: 究める（きわ）  
 て形: 究めて
 た形: 究めた
 ます形: 究めます
 出す形 (start): 究め出す
-そう (looks like): 究めそう
+そう (looks): 究めそう
 お〜になる (honorific): お究めになる
 ない形: 究めない
 なかった形: 究めなかった
 あれる形 (passive): 究められる
+使役形 (make/let): 究めさせる
 尊敬語 (honorific): 究められる
 ば形 (if): 究めれば
 可能形 (can): 究められる
 おう形 (let's): 究めよう
+命令形 (imperative): 究めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742894470-->
 
@@ -861,15 +872,17 @@ to separate #card
 た形: 別れた
 ます形: 別れます
 出す形 (start): 別れ出す
-そう (looks like): 別れそう
+そう (looks): 別れそう
 お〜になる (honorific): お別れになる
 ない形: 別れない
 なかった形: 別れなかった
 あれる形 (passive): 別れられる
+使役形 (make/let): 別れさせる
 尊敬語 (honorific): 別れられる
 ば形 (if): 別れれば
 可能形 (can): 別れられる
 おう形 (let's): 別れよう
+命令形 (imperative): 別れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1749742894472-->
 
@@ -879,15 +892,17 @@ use (academic, official, technical) #card
 た形: 用いた
 ます形: 用います
 出す形 (start): 用い出す
-そう (looks like): 用いそう
+そう (looks): 用いそう
 お〜になる (honorific): お用いになる
 ない形: 用いない
 なかった形: 用いなかった
 あれる形 (passive): 用いられる
+使役形 (make/let): 用いさせる
 尊敬語 (honorific): 用いられる
 ば形 (if): 用いれば
 可能形 (can): 用いられる
 おう形 (let's): 用いよう
+命令形 (imperative): 用いろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742894474-->
 
@@ -896,7 +911,7 @@ new #card
 過去形: 新しかった
 否定形: 新しくない
 副詞形: 新しく
-そう (looks like): 新しそう
+そう (looks): 新しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <!--ID: 1749742976483-->
 

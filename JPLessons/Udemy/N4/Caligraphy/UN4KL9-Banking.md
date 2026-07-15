@@ -2,7 +2,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL9-Banking
 
 ## 銀 - silver・しろがね・ギン
 [[銀-silver]]
-![[Pasted image 20250422202626.png]]
+![[Pasted image 20250422202626.png|198]]
 Gold + stopping
 **(しろがね)** - not used much
 
@@ -16,7 +16,7 @@ Gold + stopping
 #w 弟さんも銀行員ですか（おとうと、ぎんこういん）- Is your younger brother also a bank clerk?
 ## 開 - open・ひら、あ・カイ
 [[開-open]]
-![[Pasted image 20250422203259.png]]
+![[Pasted image 20250422203259.png|236]]
 door + two hands + one
 **(ひら)**
 #wc 開く（ひら）- someone opens something (more forma, abstract like company, store, book, sould)
@@ -39,7 +39,7 @@ door + two hands + one
 #w 銀行の開店時間は１０時です（ぎんこう、かいてんじかん）- the bank opens at 10
 ## 自 - self・みずか・ジ
 [[自-self]]
-![[Pasted image 20250422204108.png]]
+![[Pasted image 20250422204108.png|303]]
 **(みずか)**
 #w 自ら（みずか）- oneself (formal)
 #w 自らをかえりみる（みずか）- reflect on oneself
@@ -53,7 +53,7 @@ door + two hands + one
 
 ## 動 - movement・うご・ドウ
 [[動-movement]]
-![[Pasted image 20250422204507.png]]
+![[Pasted image 20250422204507.png|212]]
 Only with strength (力) can you move (動) a heavy (重) object.
 **(うご)**
 #wc 動く（うご）- move
@@ -67,7 +67,7 @@ Only with strength (力) can you move (動) a heavy (重) object.
 
 ## 駅 - station・エキ
 [[駅-station]]
-![[Pasted image 20250425195218.png]]
+![[Pasted image 20250425195218.png|201]]
 
 **(えき)**
 #w 駅員（えきいん）- station attendant/pracownik
@@ -78,7 +78,7 @@ Only with strength (力) can you move (動) a heavy (重) object.
 #w 毎日、駅から会社まで歩きます（あ）- Everyday, I go from the station to company
 ## 集 - gather・あつ・シュウ
 [[集-gather]]
-![[Pasted image 20250425195710.png]]
+![[Pasted image 20250425195710.png|212]]
 Little birds (隹) gather in a tree (木) to rest together.
 **(あつ)**
 #wc 集める（あつ）- collect/gather (stuff)
@@ -90,14 +90,14 @@ Little birds (隹) gather in a tree (木) to rest together.
 
 **(しゅう)**
 #w 集金（しゅうきん）- money collection
-#w 集合（しゅうごう）- assembly(złożyć)
+#w 集合（しゅうごう）- assembly(złożyć), gather in specific place
 
 #w 弟は銀行で集金の仕事をしています（おとうと、ぎんこう、しゅうきん）- My yopunger brother is working in a bank to collect money
 #w 集金の仕事は楽じゃありませんね（しゅうきん、らく）- The job of collecting money is not easy
 
 ## 貸 - lend・か、かし・タイ
 [[貸-lend]]
-![[Pasted image 20250425200431.png]]
+![[Pasted image 20250425200431.png|258]]
 **(か)　(かし)**
 #wc 貸す（かす）- lend (to smone)
 
@@ -113,7 +113,7 @@ Little birds (隹) gather in a tree (木) to rest together.
 #w 貸借（たいしゃく）- loan (including boths sides, finance,legal contracts)
 ## 借 - borrow・か、かり・シャク
 [[借-borrow]]
-![[Pasted image 20250425201443.png]]
+![[Pasted image 20250425201443.png|276]]
 If Hummans borrows, and not give it back, spends day in jail
 **(か)**
 #wc 借りる（か）- borrow (from smb)
@@ -133,7 +133,7 @@ If Hummans borrows, and not give it back, spends day in jail
 ---
 ## 有 - have/exist・あ、あり・ユウ
 [[有-have,exist]]
-![[Pasted image 20250425202034.png]]
+![[Pasted image 20250425202034.png|243]]
 Moon under the wiata - looks like I have a passat
 **(あ)**
 #wc 有る（あ）- to exist/have
@@ -154,11 +154,11 @@ Moon under the wiata - looks like I have a passat
 
 ## 度 - degree, frequency・たび・ド
 [[度-degree]]
-![[Pasted image 20250426142150.png]]
+![[Pasted image 20250426142150.png|164]]
 "Every time (又) you return under the same roof (广), you measure something in the closed container
 **(たび)**
 #w この度（たび）- this time
-#w 会うたび（あ、たび）- every time (someone) meets(someone)
+#w 会う度（あ、たび）- every time (someone) meets(someone)
 
 **(ど)** - often counting, number of times
 #w 一度（いちど） - once
@@ -186,7 +186,7 @@ Moon under the wiata - looks like I have a passat
 #w この店の料理少々高いですよ （しょうしょう、たか）- the food at this store/restaurant is a little expensive
 ## 待 - wait・ま、まち・タイ
 [[待-wait]]
-![[Pasted image 20250426143109.png]]
+![[Pasted image 20250426143109.png|199]]
 walk to temple and wait for me
 **(ま)**
 #wc 待つ（ま）- to wait
@@ -436,7 +436,7 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1746388496538-->
 
- assembly(złożyć) #card
+ assembly(złożyć) , gather in specific place #card
 ほんやく: 集合（しゅうごう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
@@ -565,7 +565,7 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1746388496573-->
 
- money on hand #card
+ money on hand (every single penny) #card
 ほんやく: 有り金（ありがね）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
@@ -755,15 +755,17 @@ someone opens something (more formal, abstract like company, store, book, soul) 
 た形: 開いた
 ます形: 開きます
 出す形 (start): 開き出す
-そう (looks like): 開きそう
+そう (looks): 開きそう
 お〜になる (honorific): お開きになる
 ない形: 開かない
 なかった形: 開かなかった
 あれる形 (passive): 開かれる
+使役形 (make/let): 開かせる
 尊敬語 (honorific): 開かれる
 ば形 (if): 開けば
 可能形 (can): 開ける
 おう形 (let's): 開こう
+命令形 (imperative): 開け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388572896-->
 
@@ -773,15 +775,17 @@ to open #card
 た形: 開けた
 ます形: 開けます
 出す形 (start): 開け出す
-そう (looks like): 開けそう
+そう (looks): 開けそう
 お〜になる (honorific): お開けになる
 ない形: 開けない
 なかった形: 開けなかった
 あれる形 (passive): 開けられる
+使役形 (make/let): 開けさせる
 尊敬語 (honorific): 開けられる
 ば形 (if): 開ければ
 可能形 (can): 開けられる
 おう形 (let's): 開けよう
+命令形 (imperative): 開けろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388572901-->
 
@@ -791,15 +795,17 @@ something opens by itself #card
 た形: 開いた
 ます形: 開きます
 出す形 (start): 開き出す
-そう (looks like): 開きそう
+そう (looks): 開きそう
 お〜になる (honorific): お開きになる
 ない形: 開かない
 なかった形: 開かなかった
 あれる形 (passive): 開かれる
+使役形 (make/let): 開かせる
 尊敬語 (honorific): 開かれる
 ば形 (if): 開けば
 可能形 (can): 開ける
 おう形 (let's): 開こう
+命令形 (imperative): 開け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388572905-->
 
@@ -809,15 +815,17 @@ move #card
 た形: 動いた
 ます形: 動きます
 出す形 (start): 動き出す
-そう (looks like): 動きそう
+そう (looks): 動きそう
 お〜になる (honorific): お動きになる
 ない形: 動かない
 なかった形: 動かなかった
 あれる形 (passive): 動かれる
+使役形 (make/let): 動かせる
 尊敬語 (honorific): 動かれる
 ば形 (if): 動けば
 可能形 (can): 動ける
 おう形 (let's): 動こう
+命令形 (imperative): 動け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1746388572909-->
 
@@ -827,15 +835,17 @@ collect/gather (stuff) #card
 た形: 集めた
 ます形: 集めます
 出す形 (start): 集め出す
-そう (looks like): 集めそう
+そう (looks): 集めそう
 お〜になる (honorific): お集めになる
 ない形: 集めない
 なかった形: 集めなかった
 あれる形 (passive): 集められる
+使役形 (make/let): 集めさせる
 尊敬語 (honorific): 集められる
 ば形 (if): 集めれば
 可能形 (can): 集められる
 おう形 (let's): 集めよう
+命令形 (imperative): 集めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1746388572913-->
 
@@ -845,15 +855,17 @@ gather (on their own) #card
 た形: 集まった
 ます形: 集まります
 出す形 (start): 集まり出す
-そう (looks like): 集まりそう
+そう (looks): 集まりそう
 お〜になる (honorific): お集まりになる
 ない形: 集まらない
 なかった形: 集まらなかった
 あれる形 (passive): 集まられる
+使役形 (make/let): 集まらせる
 尊敬語 (honorific): 集まられる
 ば形 (if): 集まれば
 可能形 (can): 集まれる
 おう形 (let's): 集まろう
+命令形 (imperative): 集まれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1746388572918-->
 
@@ -863,15 +875,17 @@ lend (to someone) #card
 た形: 貸した
 ます形: 貸します
 出す形 (start): 貸し出す
-そう (looks like): 貸しそう
+そう (looks): 貸しそう
 お〜になる (honorific): お貸しになる
 ない形: 貸さない
 なかった形: 貸さなかった
 あれる形 (passive): 貸される
+使役形 (make/let): 貸させる
 尊敬語 (honorific): 貸される
 ば形 (if): 貸せば
 可能形 (can): 貸せる
 おう形 (let's): 貸そう
+命令形 (imperative): 貸せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <!--ID: 1746388572923-->
 
@@ -881,15 +895,17 @@ borrow (from someone) #card
 た形: 借りた
 ます形: 借ります
 出す形 (start): 借り出す
-そう (looks like): 借りそう
+そう (looks): 借りそう
 お〜になる (honorific): お借りになる
 ない形: 借りない
 なかった形: 借りなかった
 あれる形 (passive): 借りられる
+使役形 (make/let): 借りさせる
 尊敬語 (honorific): 借りられる
 ば形 (if): 借りれば
 可能形 (can): 借りられる
 おう形 (let's): 借りよう
+命令形 (imperative): 借りろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <!--ID: 1746388572927-->
 
@@ -899,15 +915,17 @@ to exist/have #card
 た形: 有った
 ます形: 有ります
 出す形 (start): 有り出す
-そう (looks like): 有りそう
+そう (looks): 有りそう
 お〜になる (honorific): お有りになる
 ない形: 無い（ない）
 なかった形: 無かった（なかった）
 あれる形 (passive): 有られる
+使役形 (make/let): 有らせる
 尊敬語 (honorific): 有られる
 ば形 (if): 有れば
 可能形 (can): 有れる
 おう形 (let's): 有ろう
+命令形 (imperative): 有れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
 <!--ID: 1746388572931-->
 
@@ -917,15 +935,17 @@ to wait #card
 た形: 待った
 ます形: 待ちます
 出す形 (start): 待ち出す
-そう (looks like): 待ちそう
+そう (looks): 待ちそう
 お〜になる (honorific): お待ちになる
 ない形: 待たない
 なかった形: 待たなかった
 あれる形 (passive): 待たれる
+使役形 (make/let): 待たせる
 尊敬語 (honorific): 待たれる
 ば形 (if): 待てば
 可能形 (can): 待てる
 おう形 (let's): 待とう
+命令形 (imperative): 待て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1746388572936-->
 

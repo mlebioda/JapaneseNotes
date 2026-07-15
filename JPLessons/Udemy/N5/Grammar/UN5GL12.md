@@ -919,6 +919,8 @@ i will go out now, but i will come back soon (casual) #k  #card
 
  A: Are you free tomorrow? B: Yes, I am, what's the matter? (casual) #k #card
 A: 明日ひま？B:　ひまだけど、どうしたの？
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1774708466607-->
 
 
@@ -1079,16 +1081,18 @@ to call/nazywać, zwracać się  #card
 て形: 呼んで
 た形: 呼んだ
 ます形: 呼びます
-出す形 (start): 呼びだす
-そう (looks like): 呼びそう
+出す形 (start): 呼び出す
+そう (looks): 呼びそう
 お〜になる (honorific): お呼びになる
 ない形: 呼ばない
 なかった形: 呼ばなかった
 あれる形 (passive):  呼ばれる
+使役形 (make/let): 呼ばせる
 尊敬語 (honorific): 呼ばれる
 ば形 (if): 呼べば
 可能形 (can): 呼べる
 おう形 (let's): 呼ぼう
+命令形 (imperative): 呼べ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_呼.html">呼</a>
 <!--ID: 1772768130854-->
 
@@ -1098,16 +1102,18 @@ to fall (rain/snow) (particle)  #card
 て形: 降って
 た形: 降った
 ます形: 降ります
-出す形 (start): 降りだす
-そう (looks like): 降りそう
+出す形 (start): 降り出す
+そう (looks): 降りそう
 お〜になる (honorific): お降りになる
 ない形: 降らない
 なかった形: 降らなかった
 あれる形 (passive):  降られる
+使役形 (make/let): 降らせる
 尊敬語 (honorific): 降られる
 ば形 (if): 降れば
 可能形 (can): 降れる
 おう形 (let's): 降ろう
+命令形 (imperative): 降れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
 <!--ID: 1772768130858-->
 
@@ -1117,16 +1123,18 @@ to blow (wind) (particle)  #card
 て形: 吹いて
 た形: 吹いた
 ます形: 吹きます
-出す形 (start): 吹きだす
-そう (looks like): 吹きそう
+出す形 (start): 吹き出す
+そう (looks): 吹きそう
 お〜になる (honorific): お吹きになる
 ない形: 吹かない
 なかった形: 吹かなかった
 あれる形 (passive):  吹かれる
+使役形 (make/let): 吹かせる
 尊敬語 (honorific): 吹かれる
 ば形 (if): 吹けば
 可能形 (can): 吹ける
 おう形 (let's): 吹こう
+命令形 (imperative): 吹け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_吹.html">吹</a>
 <!--ID: 1772768130862-->
 
@@ -1136,16 +1144,18 @@ to blow (wind) (particle)  #card
 て形: 留学して
 た形: 留学した
 ます形: 留学します
-出す形 (start): 留学しだす
-そう (looks like): 留学しそう
+出す形 (start): 留学し出す
+そう (looks): 留学しそう
 お〜になる (honorific): お留学しになる
 ない形: 留学しない
 なかった形: 留学しなかった
 あれる形 (passive):  留学される
+使役形 (make/let): 留学させる
 尊敬語 (honorific): 留学される
 ば形 (if): 留学すれば
 可能形 (can): 留学できる
 おう形 (let's): 留学しよう
+命令形 (imperative): 留学しろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1772768130866-->
@@ -1156,16 +1166,18 @@ to examine / to search/ check something that you either don't know or are  (part
 て形: 調べて
 た形: 調べた
 ます形: 調べます
-出す形 (start): 調べだす
-そう (looks like): 調べそう
+出す形 (start): 調べ出す
+そう (looks): 調べそう
 お〜になる (honorific): お調べになる
 ない形: 調べない
 なかった形: 調べなかった
 あれる形 (passive):  調べられる
+使役形 (make/let): 調べさせる
 尊敬語 (honorific): 調べられる
 ば形 (if): 調べれば
 可能形 (can): 調べられる
 おう形 (let's): 調べよう
+命令形 (imperative): 調べろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_調.html">調</a>
 <!--ID: 1772768130871-->
 
@@ -1175,16 +1187,18 @@ to go out to a certain destination (particle)  #card
 て形: 出かけて
 た形: 出かけた
 ます形: 出かけます
-出す形 (start): 出かけだす
-そう (looks like): 出かけそう
+出す形 (start): 出かけ出す
+そう (looks): 出かけそう
 お〜になる (honorific): お出かけになる
 ない形: 出かけない
 なかった形: 出かけなかった
 あれる形 (passive):  出かけられる
+使役形 (make/let): 出かけさせる
 尊敬語 (honorific): 出かけられる
 ば形 (if): 出かければ
 可能形 (can): 出かけられる
 おう形 (let's): 出かけよう
+命令形 (imperative): 出かけろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1772768130875-->
 
@@ -1194,16 +1208,18 @@ to climb (particle)  #card
 て形: 登って
 た形: 登った
 ます形: 登ります
-出す形 (start): 登りだす
-そう (looks like): 登りそう
+出す形 (start): 登り出す
+そう (looks): 登りそう
 お〜になる (honorific): お登りになる
 ない形: 登らない
 なかった形: 登らなかった
 あれる形 (passive):  登られる
+使役形 (make/let): 登らせる
 尊敬語 (honorific): 登られる
 ば形 (if): 登れば
 可能形 (can): 登れる
 おう形 (let's): 登ろう
+命令形 (imperative): 登れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_登.html">登</a>
 <!--ID: 1772768130879-->
 
@@ -1213,16 +1229,18 @@ to win  #card
 て形: 勝って
 た形: 勝った
 ます形: 勝ちます
-出す形 (start): 勝ちだす
-そう (looks like): 勝ちそう
+出す形 (start): 勝ち出す
+そう (looks): 勝ちそう
 お〜になる (honorific): お勝ちになる
 ない形: 勝たない
 なかった形: 勝たなかった
 あれる形 (passive):  勝たれる
+使役形 (make/let): 勝たせる
 尊敬語 (honorific): 勝たれる
 ば形 (if): 勝てば
 可能形 (can): 勝てる
 おう形 (let's): 勝とう
+命令形 (imperative): 勝て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勝.html">勝</a>
 <!--ID: 1772768130882-->
 
@@ -1232,16 +1250,18 @@ to fall (rain/snow) (particle)  #card
 て形: 降って
 た形: 降った
 ます形: 降ります
-出す形 (start): 降りだす
-そう (looks like): 降りそう
+出す形 (start): 降り出す
+そう (looks): 降りそう
 お〜になる (honorific): お降りになる
 ない形: 降らない
 なかった形: 降らなかった
 あれる形 (passive):  降られる
+使役形 (make/let): 降らせる
 尊敬語 (honorific): 降られる
 ば形 (if): 降れば
 可能形 (can): 降れる
 おう形 (let's): 降ろう
+命令形 (imperative): 降れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
 
 to blow (wind) (particle)  #card
@@ -1249,16 +1269,18 @@ to blow (wind) (particle)  #card
 て形: 吹いて
 た形: 吹いた
 ます形: 吹きます
-出す形 (start): 吹きだす
-そう (looks like): 吹きそう
+出す形 (start): 吹き出す
+そう (looks): 吹きそう
 お〜になる (honorific): お吹きになる
 ない形: 吹かない
 なかった形: 吹かなかった
 あれる形 (passive):  吹かれる
+使役形 (make/let): 吹かせる
 尊敬語 (honorific): 吹かれる
 ば形 (if): 吹けば
 可能形 (can): 吹ける
 おう形 (let's): 吹こう
+命令形 (imperative): 吹け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_吹.html">吹</a>
 
 to clear up (particle) weather  #card
@@ -1266,15 +1288,17 @@ to clear up (particle) weather  #card
 て形: 晴れて
 た形: 晴れた
 ます形: 晴れます
-出す形 (start): 晴れだす
-そう (looks like): 晴れそう
+出す形 (start): 晴れ出す
+そう (looks): 晴れそう
 お〜になる (honorific): お晴れになる
 ない形: 晴れない
 なかった形: 晴れなかった
 あれる形 (passive):  晴れられる
+使役形 (make/let): 晴れさせる
 尊敬語 (honorific): 晴れられる
 ば形 (if): 晴れれば
 可能形 (can): 晴れられる
 おう形 (let's): 晴れよう
+命令形 (imperative): 晴れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晴.html">晴</a>
 <!--ID: 1772768130891-->

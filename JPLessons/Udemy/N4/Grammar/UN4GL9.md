@@ -457,11 +457,13 @@ to long for / to admire / to yearn for (intransitive) #card
 ば形 (if): 憧れれば
 可能形 (can): 憧れられる
 あれる形 (passive): 憧れられる
+使役形 (make/let): 憧れさせる
 出す形 (start): 憧れ出す
 尊敬語 (honorific): 憧れられる
 お〜になる (honorific): お憧れになる
-そう (looks like): 憧れそう
-おう (let's): 憧れよう
+そう (looks): 憧れそう
+おう形 (let's): 憧れよう
+命令形 (imperative): 憧れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_憧.html">憧</a>
 <!--ID: 1781717354788-->
 
@@ -482,11 +484,13 @@ to replace / to swap (transitive) #card
 ば形 (if): 替えれば
 可能形 (can): 替えられる
 あれる形 (passive): 替えられる
+使役形 (make/let): 替えさせる
 出す形 (start): 替え出す
 尊敬語 (honorific): 替えられる
 お〜になる (honorific): お替えになる
-そう (looks like): 替えそう
-おう (let's): 替えよう
+そう (looks): 替えそう
+おう形 (let's): 替えよう
+命令形 (imperative): 替えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_替.html">替</a>
 <!--ID: 1781717354790-->
 
@@ -545,11 +549,13 @@ to be surprised #card
 ば形 (if): 驚けば
 可能形 (can): 驚ける
 あれる形 (passive): 驚かれる
+使役形 (make/let): 驚かせる
 出す形 (start): 驚き出す
 尊敬語 (honorific): 驚かれる
 お〜になる (honorific): お驚きになる
-そう (looks like): 驚きそう
-おう (let's): 驚こう
+そう (looks): 驚きそう
+おう形 (let's): 驚こう
+命令形 (imperative): 驚け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_驚.html">驚</a>
 <!--ID: 1781717354797-->
 
@@ -591,11 +597,13 @@ to give up #card
 ば形 (if): あきらめれば
 可能形 (can): あきらめられる
 あれる形 (passive): あきらめられる
+使役形 (make/let): あきらめさせる
 出す形 (start): あきらめ出す
 尊敬語 (honorific): あきらめられる
 お〜になる (honorific): おあきらめになる
-そう (looks like): あきらめそう
-おう (let's): あきらめよう
+そう (looks): あきらめそう
+おう形 (let's): あきらめよう
+命令形 (imperative): あきらめろ
 <!--ID: 1781717354802-->
 
 
@@ -622,11 +630,13 @@ to drop / to lose (transitive) Used when someone accidentally drops or loses som
 ば形 (if): 落とせば
 可能形 (can): 落とせる
 あれる形 (passive): 落とされる
+使役形 (make/let): 落とさせる
 出す形 (start): 落とし出す
 尊敬語 (honorific): 落とされる
 お〜になる (honorific): お落としになる
-そう (looks like): 落としそう
-おう (let's): 落とそう
+そう (looks): 落としそう
+おう形 (let's): 落とそう
+命令形 (imperative): 落とせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_落.html">落</a>
 <!--ID: 1781717354805-->
 
@@ -698,11 +708,13 @@ to stop (doing) (intransitive) #card
 ば形 (if): 止めば
 可能形 (can): 止める
 あれる形 (passive): 止まれる
+使役形 (make/let): 止ませる
 出す形 (start): 止み出す
 尊敬語 (honorific): 止まれる
 お〜になる (honorific): お止みになる
-そう (looks like): 止みそう
-おう (let's): 止もう
+そう (looks): 止みそう
+おう形 (let's): 止もう
+命令形 (imperative): 止め
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_止.html">止</a>
 <!--ID: 1781717354814-->
 
@@ -724,11 +736,13 @@ to stop (doing) (transitive) #card
 ば形 (if): 止めれば
 可能形 (can): 止められる
 あれる形 (passive): 止められる
+使役形 (make/let): 止めさせる
 出す形 (start): 止め出す
 尊敬語 (honorific): 止められる
 お〜になる (honorific): お止めになる
-そう (looks like): 止めそう
-おう (let's): 止めよう
+そう (looks): 止めそう
+おう形 (let's): 止めよう
+命令形 (imperative): 止めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_止.html">止</a>
 <!--ID: 1781717354816-->
 
@@ -773,11 +787,13 @@ to resign (work or position) #card
 ば形 (if): 辞めれば
 可能形 (can): 辞められる
 あれる形 (passive): 辞められる
+使役形 (make/let): 辞めさせる
 出す形 (start): 辞め出す
 尊敬語 (honorific): 辞められる
 お〜になる (honorific): お辞めになる
-そう (looks like): 辞めそう
-おう (let's): 辞めよう
+そう (looks): 辞めそう
+おう形 (let's): 辞めよう
+命令形 (imperative): 辞めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_辞.html">辞</a>
 <!--ID: 1781717354821-->
 
@@ -824,16 +840,18 @@ to go away from #card
 ば形 (if): 離れれば
 可能形 (can): 離れられる
 あれる形 (passive): 離れられる
+使役形 (make/let): 離れさせる
 出す形 (start): 離れ出す
 尊敬語 (honorific): 離れられる
 お〜になる (honorific): お離れになる
-そう (looks like): 離れそう
-おう (let's): 離れよう
+そう (looks): 離れそう
+おう形 (let's): 離れよう
+命令形 (imperative): 離れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_離.html">離</a>
 <!--ID: 1781717354826-->
 
 
-to gather #card
+to gather, to be complete / all present (intransitive) #card
 ほんやく: 揃う(そろ)
 ます形: 揃います
 て形: 揃って
@@ -843,11 +861,13 @@ to gather #card
 ば形 (if): 揃えば
 可能形 (can): 揃える
 あれる形 (passive): 揃われる
+使役形 (make/let): 揃わせる
 出す形 (start): 揃い出す
 尊敬語 (honorific): 揃われる
 お〜になる (honorific): お揃いになる
-そう (looks like): 揃いそう
-おう (let's): 揃おう
+そう (looks): 揃いそう
+おう形 (let's): 揃おう
+命令形 (imperative): 揃え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_揃.html">揃</a>
 <!--ID: 1781717354827-->
 
@@ -895,11 +915,13 @@ to distribute #card
 ば形 (if): 配れば
 可能形 (can): 配れる
 あれる形 (passive): 配られる
+使役形 (make/let): 配らせる
 出す形 (start): 配り出す
 尊敬語 (honorific): 配られる
 お〜になる (honorific): お配りになる
-そう (looks like): 配りそう
-おう (let's): 配ろう
+そう (looks): 配りそう
+おう形 (let's): 配ろう
+命令形 (imperative): 配れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_配.html">配</a>
 <!--ID: 1781717354833-->
 
@@ -934,11 +956,13 @@ to change (clothes) #k #card
 ば形 (if): 着替えれば
 可能形 (can): 着替えられる
 あれる形 (passive): 着替えられる
+使役形 (make/let): 着替えさせる
 出す形 (start): 着替え出す
 尊敬語 (honorific): 着替えられる
 お〜になる (honorific): お着替えになる
-そう (looks like): 着替えそう
-おう (let's): 着替えよう
+そう (looks): 着替えそう
+おう形 (let's): 着替えよう
+命令形 (imperative): 着替えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_替.html">替</a>
 <!--ID: 1781717354837-->
@@ -1117,7 +1141,7 @@ complicated #card
 過去形: —
 否定形: —
 副詞形: —
-そう: 複雑そう
+そう (looks): 複雑そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_複.html">複</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雑.html">雑</a>
 <!--ID: 1781717354861-->
@@ -1130,7 +1154,7 @@ modesty (to behave in a humble manner to other people) / to be reserved + verb #
 <!--ID: 1781717354862-->
 
 
-used when recommending something to someone, and when taking up someone recommendation #card
+without reserve/hesitation" = "feel free to..." / "don't hold back" / "go ahead." #card
 遠慮(えんりょ)なく
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遠.html">遠</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_慮.html">慮</a>
@@ -1203,11 +1227,13 @@ to be useful #k #card
 ば形 (if): 役に立てば
 可能形 (can): 役に立てる
 あれる形 (passive): 役に立たれる
+使役形 (make/let): 役に立たせる
 出す形 (start): 役に立ち出す
 尊敬語 (honorific): 役に立たれる
 お〜になる (honorific): お役に立ちになる
-そう (looks like): 役に立ちそう
-おう (let's): 役に立とう
+そう (looks): 役に立ちそう
+おう形 (let's): 役に立とう
+命令形 (imperative): 役に立て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_役.html">役</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <!--ID: 1781717354872-->
@@ -1223,11 +1249,13 @@ useful tool #k #card
 ば形 (if): 役に立てば
 可能形 (can): 役に立てる
 あれる形 (passive): 役に立たれる
+使役形 (make/let): 役に立たせる
 出す形 (start): 役に立ち出す
 尊敬語 (honorific): 役に立たれる
 お〜になる (honorific): お役に立ちになる
-そう (looks like): 役に立ちそう
-おう (let's): 役に立とう
+そう (looks): 役に立ちそう
+おう形 (let's): 役に立とう
+命令形 (imperative): 役に立て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_役.html">役</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
@@ -1245,11 +1273,13 @@ useful person #k #card
 ば形 (if): 役に立てば
 可能形 (can): 役に立てる
 あれる形 (passive): 役に立たれる
+使役形 (make/let): 役に立たせる
 出す形 (start): 役に立ち出す
 尊敬語 (honorific): 役に立たれる
 お〜になる (honorific): お役に立ちになる
-そう (looks like): 役に立ちそう
-おう (let's): 役に立とう
+そう (looks): 役に立ちそう
+おう形 (let's): 役に立とう
+命令形 (imperative): 役に立て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_役.html">役</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
@@ -1286,11 +1316,13 @@ to dry (transitive) #card
 ば形 (if): 乾かせば
 可能形 (can): 乾かせる
 あれる形 (passive): 乾かされる
+使役形 (make/let): 乾かさせる
 出す形 (start): 乾かし出す
 尊敬語 (honorific): 乾かされる
 お〜になる (honorific): お乾かしになる
-そう (looks like): 乾かしそう
-おう (let's): 乾かそう
+そう (looks): 乾かしそう
+おう形 (let's): 乾かそう
+命令形 (imperative): 乾かせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_乾.html">乾</a>
 <!--ID: 1781717354877-->
 
@@ -1353,11 +1385,13 @@ to rise (intransitive) #k #card
 ば形 (if): 上がれば
 可能形 (can): 上がれる
 あれる形 (passive): 上がられる
+使役形 (make/let): 上がらせる
 出す形 (start): 上がり出す
 尊敬語 (honorific): 上がられる
 お〜になる (honorific): お上がりになる
-そう (looks like): 上がりそう
-おう (let's): 上がろう
+そう (looks): 上がりそう
+おう形 (let's): 上がろう
+命令形 (imperative): 上がれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1781717354885-->
 
@@ -1380,11 +1414,13 @@ to raise (transitive) #k #card
 ば形 (if): 上げれば
 可能形 (can): 上げられる
 あれる形 (passive): 上げられる
+使役形 (make/let): 上げさせる
 出す形 (start): 上げ出す
 尊敬語 (honorific): 上げられる
 お〜になる (honorific): お上げになる
-そう (looks like): 上げそう
-おう (let's): 上げよう
+そう (looks): 上げそう
+おう形 (let's): 上げよう
+命令形 (imperative): 上げろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1781717354887-->
 
@@ -1407,11 +1443,13 @@ to fall (intransitive) #k #card
 ば形 (if): 下がれば
 可能形 (can): 下がれる
 あれる形 (passive): 下がられる
+使役形 (make/let): 下がらせる
 出す形 (start): 下がり出す
 尊敬語 (honorific): 下がられる
 お〜になる (honorific): お下がりになる
-そう (looks like): 下がりそう
-おう (let's): 下がろう
+そう (looks): 下がりそう
+おう形 (let's): 下がろう
+命令形 (imperative): 下がれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <!--ID: 1781717354889-->
 
@@ -1433,11 +1471,13 @@ to lower (transitive) #k #card
 ば形 (if): 下げれば
 可能形 (can): 下げられる
 あれる形 (passive): 下げられる
+使役形 (make/let): 下げさせる
 出す形 (start): 下げ出す
 尊敬語 (honorific): 下げられる
 お〜になる (honorific): お下げになる
-そう (looks like): 下げそう
-おう (let's): 下げよう
+そう (looks): 下げそう
+おう形 (let's): 下げよう
+命令形 (imperative): 下げろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <!--ID: 1781717354891-->
 
@@ -1455,7 +1495,7 @@ thick (for lines) #card
 過去形: 太かった
 否定形: 太くない
 副詞形: 太く
-そう: 太そう
+そう (looks): 太そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_太.html">太</a>
 <!--ID: 1781717354893-->
 
@@ -1465,7 +1505,7 @@ thin (for lines) #card
 過去形: 細かった
 否定形: 細くない
 副詞形: 細く
-そう: 細そう
+そう (looks): 細そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_細.html">細</a>
 <!--ID: 1781717354894-->
 
@@ -1475,7 +1515,7 @@ funny/strange(odd way) #card
 過去形: 可笑しかった
 否定形: 可笑しくない
 副詞形: 可笑しく
-そう: 可笑しそう
+そう (looks): 可笑しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_可.html">可</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_笑.html">笑</a>
 <!--ID: 1781717354895-->
@@ -1494,7 +1534,7 @@ strange(concerning way)/unusual #card
 過去形: —
 否定形: —
 副詞形: —
-そう: 変そう
+そう (looks): 変そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
 <!--ID: 1781717354897-->
 
@@ -1511,7 +1551,7 @@ enthusiastic (put heart) #k #card
 過去形: —
 否定形: —
 副詞形: —
-そう: 熱心そう
+そう (looks): 熱心そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <!--ID: 1781717354899-->
@@ -1562,11 +1602,13 @@ to welcome (transitive) (wait for someone's arrival) #card
 ば形 (if): 迎えれば
 可能形 (can): 迎えられる
 あれる形 (passive): 迎えられる
+使役形 (make/let): 迎えさせる
 出す形 (start): 迎え出す
 尊敬語 (honorific): 迎えられる
 お〜になる (honorific): お迎えになる
-そう (looks like): 迎えそう
-おう (let's): 迎えよう
+そう (looks): 迎えそう
+おう形 (let's): 迎えよう
+命令形 (imperative): 迎えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_迎.html">迎</a>
 <!--ID: 1781717354904-->
 
@@ -1599,7 +1641,7 @@ young #card
 過去形: 若かった
 否定形: 若くない
 副詞形: 若く
-そう: 若そう
+そう (looks): 若そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_若.html">若</a>
 <!--ID: 1781717354908-->
 
@@ -1804,7 +1846,7 @@ As planned, we will gather at 9 o'clock.  (2 readings) #k #card
 <!--ID: 1781717354931-->
 
 
-As I thought, Mr. Yamada's team won the soccer game yesterday. #k #card
+As for yesterday's soccer match, just as I thought, Mr. Yamada's team won. #k #card
 昨日(きのう)のサッカーの試合(しあい)は、思(おも)ったとおりに、山田(やまだ)さんのチームが勝(か)った。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1916,11 +1958,13 @@ put something on the top #card
 ば形 (if): かければ
 可能形 (can): かけられる
 あれる形 (passive): かけられる
+使役形 (make/let): かけさせる
 出す形 (start): かけ出す
 尊敬語 (honorific): かけられる
 お〜になる (honorific): おかけになる
-そう (looks like): かけそう
-おう (let's): かけよう
+そう (looks): かけそう
+おう形 (let's): かけよう
+命令形 (imperative): かけろ
 <!--ID: 1781717354943-->
 
 

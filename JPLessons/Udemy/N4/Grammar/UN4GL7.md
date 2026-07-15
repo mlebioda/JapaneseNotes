@@ -414,7 +414,7 @@ when the materials preparation is done, could you please contact me? #k #card
 <!--ID: 1780755321470-->
 
 
-expressions when you or others decide to take a course of action #k #card
+Expressions used when deciding on an action based on one's own or someone else's will/intention. #k #card
 自分(じぶん)や他人(たにん)の意志(いし)で行動(こうどう)を決(き)めるときの表現(ひょうげん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
@@ -430,7 +430,7 @@ expressions when you or others decide to take a course of action #k #card
 <!--ID: 1780755321472-->
 
 
-learning expressions for requesting others to do something #k #card
+Mastering expressions used when making requests of other people." #k #card
 他人(たにん)に依頼(いらい)する時(とき)の表現(ひょうげん)の習得(しゅうとく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_他.html">他</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
@@ -580,7 +580,7 @@ regrettable #card
 過去形: —
 否定形: —
 副詞形: —
-そう: 残念そう
+そう (looks): 残念そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_残.html">残</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_念.html">念</a>
 <!--ID: 1780755321491-->
@@ -591,7 +591,7 @@ fun #k #card
 過去形: 楽しかった
 否定形: 楽しくない
 副詞形: 楽しく
-そう: 楽しそう
+そう (looks): 楽しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1780755321492-->
 
@@ -601,7 +601,7 @@ sad #card
 過去形: 悲しかった
 否定形: 悲しくない
 副詞形: 悲しく
-そう: 悲しそう
+そう (looks): 悲しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悲.html">悲</a>
 <!--ID: 1780755321493-->
 
@@ -612,15 +612,17 @@ to enjoy #k #card
 た形: 楽しんだ
 ます形: 楽しみます
 出す形 (start): 楽しみ出す
-そう (looks like): 楽しみそう
+そう (looks): 楽しみそう
 お〜になる (honorific): お楽しみになる
 ない形: 楽しまない
 なかった形: 楽しまなかった
 あれる形 (passive): 楽しまれる
+使役形 (make/let): 楽しませる
 尊敬語 (honorific): 楽しまれる
 ば形 (if): 楽しめば
 可能形 (can): 楽しめる
 おう形 (let's): 楽しもう
+命令形 (imperative): 楽しめ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1780755321494-->
 
@@ -631,15 +633,17 @@ to feel sad #card
 た形: 悲しんだ
 ます形: 悲しみます
 出す形 (start): 悲しみ出す
-そう (looks like): 悲しみそう
+そう (looks): 悲しみそう
 お〜になる (honorific): お悲しみになる
 ない形: 悲しまない
 なかった形: 悲しまなかった
 あれる形 (passive): 悲しまれる
+使役形 (make/let): 悲しませる
 尊敬語 (honorific): 悲しまれる
 ば形 (if): 悲しめば
 可能形 (can): 悲しめる
 おう形 (let's): 悲しもう
+命令形 (imperative): 悲しめ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悲.html">悲</a>
 <!--ID: 1780755321495-->
 
@@ -776,15 +780,17 @@ to reach (to arrive, about something, not a person) #card
 た形: 届いた
 ます形: 届きます
 出す形 (start): 届き出す
-そう (looks like): 届きそう
+そう (looks): 届きそう
 お〜になる (honorific): お届きになる
 ない形: 届かない
 なかった形: 届かなかった
 あれる形 (passive): 届かれる
+使役形 (make/let): 届かせる
 尊敬語 (honorific): 届かれる
 ば形 (if): 届けば
 可能形 (can): 届ける
 おう形 (let's): 届こう
+命令形 (imperative): 届け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_届.html">届</a>
 <!--ID: 1780755321514-->
 
@@ -795,15 +801,17 @@ to deliver #card
 た形: 届けた
 ます形: 届けます
 出す形 (start): 届け出す
-そう (looks like): 届けそう
+そう (looks): 届けそう
 お〜になる (honorific): お届けになる
 ない形: 届けない
 なかった形: 届けなかった
 あれる形 (passive): 届けられる
+使役形 (make/let): 届けさせる
 尊敬語 (honorific): 届けられる
 ば形 (if): 届ければ
 可能形 (can): 届けられる
 おう形 (let's): 届けよう
+命令形 (imperative): 届けろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_届.html">届</a>
 <!--ID: 1780755321515-->
 
@@ -966,15 +974,17 @@ to make something dirty #card
 た形: 汚した
 ます形: 汚します
 出す形 (start): 汚し出す
-そう (looks like): 汚しそう
+そう (looks): 汚しそう
 お〜になる (honorific): お汚しになる
 ない形: 汚さない
 なかった形: 汚さなかった
 あれる形 (passive): 汚される
+使役形 (make/let): 汚させる
 尊敬語 (honorific): 汚される
 ば形 (if): 汚せば
 可能形 (can): 汚せる
 おう形 (let's): 汚そう
+命令形 (imperative): 汚せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_汚.html">汚</a>
 <!--ID: 1780755321537-->
 
@@ -985,15 +995,17 @@ to get dirty #card
 た形: 汚れた
 ます形: 汚れます
 出す形 (start): 汚れ出す
-そう (looks like): 汚れそう
+そう (looks): 汚れそう
 お〜になる (honorific): お汚れになる
 ない形: 汚れない
 なかった形: 汚れなかった
 あれる形 (passive): 汚れられる
+使役形 (make/let): 汚れさせる
 尊敬語 (honorific): 汚れられる
 ば形 (if): 汚れれば
 可能形 (can): 汚れられる
 おう形 (let's): 汚れよう
+命令形 (imperative): 汚れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_汚.html">汚</a>
 <!--ID: 1780755321538-->
 
@@ -1004,15 +1016,17 @@ to pass through #k #card
 た形: 通った
 ます形: 通ります
 出す形 (start): 通り出す
-そう (looks like): 通りそう
+そう (looks): 通りそう
 お〜になる (honorific): お通りになる
 ない形: 通らない
 なかった形: 通らなかった
 あれる形 (passive): 通られる
+使役形 (make/let): 通らせる
 尊敬語 (honorific): 通られる
 ば形 (if): 通れば
 可能形 (can): 通れる
 おう形 (let's): 通ろう
+命令形 (imperative): 通れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
 <!--ID: 1780755321539-->
 
@@ -1023,15 +1037,17 @@ to disappear / get lost / run out (intransitive) #card
 た形: 無くなった
 ます形: 無くなります
 出す形 (start): 無くなり出す
-そう (looks like): 無くなりそう
+そう (looks): 無くなりそう
 お〜になる (honorific): お無くなりになる
 ない形: 無くならない
 なかった形: 無くならなかった
 あれる形 (passive): 無くなられる
+使役形 (make/let): 無くならせる
 尊敬語 (honorific): 無くなられる
 ば形 (if): 無くなれば
 可能形 (can): 無くなれる
 おう形 (let's): 無くなろう
+命令形 (imperative): 無くなれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_無.html">無</a>
 <!--ID: 1780755321540-->
 
@@ -1565,7 +1581,7 @@ People are mortal (surely die) #k #card
 <!--ID: 1780755321598-->
 
 
-We will leave home early so that we will surely catch the train. #k #card
+So that I definitely make the train, I leave home early." / "I leave home early so I won't miss the train." #k #card
 必ず(かならず)電車(でんしゃ)に間(ま)に合(あ)うように、早(はや)く家(いえ)を出(で)ます。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_必.html">必</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>

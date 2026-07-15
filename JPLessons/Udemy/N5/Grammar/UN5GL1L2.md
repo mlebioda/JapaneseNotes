@@ -860,6 +860,8 @@ Ne - seeking approval, emphasizing / isn’t it?
 
  all #card
 ほんやく: 全部(ぜんぶ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_全.html">全</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 
  all photos are beautiful #card
 ほんやく: 写真は全部きれいです（しゃしん、ぜんぶ）
@@ -905,15 +907,17 @@ to remember, learn (words, dates) #card
 た形: 覚えた
 ます形: 覚えます
 出す形 (start): 覚え出す
-そう (looks like): 覚えそう
+そう (looks): 覚えそう
 お〜になる (honorific): お覚えになる
 ない形: 覚えない
 なかった形: 覚えなかった
 あれる形 (passive): 覚えられる
+使役形 (make/let): 覚えさせる
 尊敬語 (honorific): 覚えられる
 ば形 (if): 覚えれば
 可能形 (can): 覚えられる
 おう形 (let's): 覚えよう
+命令形 (imperative): 覚えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_覚.html">覚</a>
 <!--ID: 1761365301237-->
 
@@ -924,15 +928,17 @@ to give, to grant, to bestow, to provide #card
 た形: 与えた
 ます形: 与えます
 出す形 (start): 与え出す
-そう (looks like): 与えそう
+そう (looks): 与えそう
 お〜になる (honorific): お与えになる
 ない形: 与えない
 なかった形: 与えなかった
 あれる形 (passive): 与えられる
+使役形 (make/let): 与えさせる
 尊敬語 (honorific): 与えられる
 ば形 (if): 与えれば
 可能形 (can): 与えられる
 おう形 (let's): 与えよう
+命令形 (imperative): 与えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_与.html">与</a>
 <!--ID: 1761365301238-->
 
@@ -943,15 +949,17 @@ to store #card
 た形: 預けた
 ます形: 預けます
 出す形 (start): 預け出す
-そう (looks like): 預けそう
+そう (looks): 預けそう
 お〜になる (honorific): お預けになる
 ない形: 預けない
 なかった形: 預けなかった
 あれる形 (passive): 預けられる
+使役形 (make/let): 預けさせる
 尊敬語 (honorific): 預けられる
 ば形 (if): 預ければ
 可能形 (can): 預けられる
 おう形 (let's): 預けよう
+命令形 (imperative): 預けろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_預.html">預</a>
 <!--ID: 1761365301239-->
 

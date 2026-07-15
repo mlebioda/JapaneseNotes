@@ -1280,15 +1280,17 @@ to wear (clothing below the waist) #wc #card
 た形: 履いた
 ます形: 履きます
 出す形 (start): 履き出す
-そう (looks like): 履きそう
+そう (looks): 履きそう
 お〜になる (honorific): お履きになる
 ない形: 履かない
 なかった形: 履かなかった
 あれる形 (passive):  履かれる
+使役形 (make/let): 履かせる
 尊敬語 (honorific): 履かれる
 ば形 (if): 履けば
 可能形 (can): 履ける
 おう形 (let's): 履こう
+命令形 (imperative): 履け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_履.html">履</a>
 <!--ID: 1774708228498-->
 
@@ -1299,15 +1301,17 @@ put on (one's hat) #wc #card
 た形: 被った
 ます形: 被ります
 出す形 (start): 被り出す
-そう (looks like): 被りそう
+そう (looks): 被りそう
 お〜になる (honorific): お被りになる
 ない形: 被らない
 なかった形: 被らなかった
 あれる形 (passive):  被られる
+使役形 (make/let): 被らせる
 尊敬語 (honorific): 被られる
 ば形 (if): 被れば
 可能形 (can): 被れる
 おう形 (let's): 被ろう
+命令形 (imperative): 被れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_被.html">被</a>
 <!--ID: 1774708228499-->
 
@@ -1318,15 +1322,17 @@ to think #wc #k #card
 た形: 思った
 ます形: 思います
 出す形 (start): 思い出す
-そう (looks like): 思いそう
+そう (looks): 思いそう
 お〜になる (honorific): お思いになる
 ない形: 思わない
 なかった形: 思わなかった
 あれる形 (passive):  思われる
+使役形 (make/let): 思わせる
 尊敬語 (honorific): 思われる
 ば形 (if): 思えば
 可能形 (can): 思える
 おう形 (let's): 思おう
+命令形 (imperative): 思え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
 <!--ID: 1774708228500-->
 
@@ -1337,15 +1343,17 @@ to say #wc #k #card
 た形: 言った
 ます形: 言います
 出す形 (start): 言い出す
-そう (looks like): 言いそう
+そう (looks): 言いそう
 お〜になる (honorific): お言いになる
 ない形: 言わない
 なかった形: 言わなかった
 あれる形 (passive):  言われる
+使役形 (make/let): 言わせる
 尊敬語 (honorific): 言われる
 ば形 (if): 言えば
 可能形 (can): 言える
 おう形 (let's): 言おう
+命令形 (imperative): 言え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1774708228501-->
 
@@ -1356,15 +1364,17 @@ to wear (clothing above the waist) #wc #k #card
 た形: 着た
 ます形: 着ます
 出す形 (start): 着出す
-そう (looks like): 着そう
+そう (looks): 着そう
 お〜になる (honorific): お着になる
 ない形: 着ない
 なかった形: 着なかった
 あれる形 (passive):  着られる
+使役形 (make/let): 着させる
 尊敬語 (honorific): 着られる
 ば形 (if): 着れば
 可能形 (can): 着られる
 おう形 (let's): 着よう
+命令形 (imperative): 着ろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <!--ID: 1774708228502-->
 
@@ -1375,15 +1385,17 @@ take off (clothing) #wc #card
 た形: 脱いだ
 ます形: 脱ぎます
 出す形 (start): 脱ぎ出す
-そう (looks like): 脱ぎそう
+そう (looks): 脱ぎそう
 お〜になる (honorific): お脱ぎになる
 ない形: 脱がない
 なかった形: 脱がなかった
 あれる形 (passive):  脱がれる
+使役形 (make/let): 脱がせる
 尊敬語 (honorific): 脱がれる
 ば形 (if): 脱げば
 可能形 (can): 脱げる
 おう形 (let's): 脱ごう
+命令形 (imperative): 脱げ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_脱.html">脱</a>
 <!--ID: 1774708228503-->
 
@@ -1394,15 +1406,17 @@ to play (a musical instrument) #wc #card
 た形: 弾いた
 ます形: 弾きます
 出す形 (start): 弾き出す
-そう (looks like): 弾きそう
+そう (looks): 弾きそう
 お〜になる (honorific): お弾きになる
 ない形: 弾かない
 なかった形: 弾かなかった
 あれる形 (passive):  弾かれる
+使役形 (make/let): 弾かせる
 尊敬語 (honorific): 弾かれる
 ば形 (if): 弾けば
 可能形 (can): 弾ける
 おう形 (let's): 弾こう
+命令形 (imperative): 弾け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弾.html">弾</a>
 <!--ID: 1774708228504-->
 
@@ -1412,7 +1426,7 @@ personal #wp #k #card
 過去形: —
 否定形: —
 副詞形: —
-そう (looks like): 個人的そう
+そう (looks): 個人的そう
 敬語形: ご個人的
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
@@ -1425,7 +1439,7 @@ sure / of course #wp #card
 過去形: —
 否定形: —
 副詞形: —
-そう (looks like): —
+そう (looks): —
 敬語形: ごもっともです
 <!--ID: 1774708228506-->
 
@@ -1435,7 +1449,7 @@ want #wp #card
 過去形: 欲しかった
 否定形: 欲しくない
 副詞形: 欲しく
-そう (looks like): 欲しそう
+そう (looks): 欲しそう
 敬語形: お欲しい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_欲.html">欲</a>
 <!--ID: 1774708228507-->
@@ -1446,6 +1460,6 @@ just /dokładnie / akurat / w sam raz (represent perfect situation) #wp #card
 過去形: —
 否定形: —
 副詞形: —
-そう (looks like): —
+そう (looks): —
 敬語形: ちょうどよろしい
 <!--ID: 1774708228508-->

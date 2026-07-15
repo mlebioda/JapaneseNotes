@@ -697,15 +697,17 @@ serve #k #card
 た形: 仕えた
 ます形: 仕えます
 出す形 (start): 仕え出す
-そう (looks like): 仕えそう
+そう (looks): 仕えそう
 お〜になる (honorific): お仕えになる
 ない形: 仕えない
 なかった形: 仕えなかった
 あれる形 (passive): 仕えられる
+使役形 (make/let): 仕えさせる
 尊敬語 (honorific): 仕えられる
 ば形 (if): 仕えれば
 可能形 (can): 仕えられる
 おう形 (let's): 仕えよう
+命令形 (imperative): 仕えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <!--ID: 1780855042830-->
 

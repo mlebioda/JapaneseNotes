@@ -941,77 +941,85 @@ rice + woman + whip
 
 
 łamać się #card
-ほんやく: おれる（折れる）
-て形: おれて
-た形: おれた
-ます形: おれます
-出す形 (start): おれだす
-そう (looks like): おれそう
-お〜になる (honorific): おおれになる
-ない形: おれない
-なかった形: おれなかった
-受身形 (passive): おれられる
-尊敬語 (honorific): おれられる
-ば形 (if): おれれば
-可能形 (can): おれられる
-おう形 (let's): おれよう
+ほんやく: 折れる（お）
+て形: 折れて
+た形: 折れた
+ます形: 折れます
+出す形 (start): 折れ出す
+そう (looks): 折れそう
+お〜になる (honorific): お折れになる
+ない形: 折れない
+なかった形: 折れなかった
+あれる形 (passive): 折れられる
+使役形 (make/let): 折れさせる
+尊敬語 (honorific): 折れられる
+ば形 (if): 折れれば
+可能形 (can): 折れられる
+おう形 (let's): 折れよう
+命令形 (imperative): 折れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_折.html">折</a>
 <!--ID: 1749744843708-->
 
 
 leave #card
 ほんやく: 去る（さ）
-て形: さって
-た形: さった
-ます形: さります
-出す形 (start): さりだす
-そう (looks like): さりそう
-お〜になる (honorific): おさりになる
-ない形: さらない
-なかった形: さらなかった
-受身形 (passive): さられる
-尊敬語 (honorific): さられる
-ば形 (if): されば
-可能形 (can): される
-おう形 (let's): さろう
+て形: 去って
+た形: 去った
+ます形: 去ります
+出す形 (start): 去り出す
+そう (looks): 去りそう
+お〜になる (honorific): お去りになる
+ない形: 去らない
+なかった形: 去らなかった
+あれる形 (passive): 去られる
+使役形 (make/let): 去らせる
+尊敬語 (honorific): 去られる
+ば形 (if): 去れば
+可能形 (can): 去れる
+おう形 (let's): 去ろう
+命令形 (imperative): 去れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
 <!--ID: 1749744843718-->
 
 
 be enogh, sufficient, wystarczać #card
 ほんやく: 足りる（た）
-て形: たりて
-た形: たりた
-ます形: たります
-出す形 (start): たりだす
-そう (looks like): たりそう
-お〜になる (honorific): おたりになる
-ない形: たりない
-なかった形: たりなかった
-受身形 (passive): たりられる
-尊敬語 (honorific): たりられる
-ば形 (if): たりれば
-可能形 (can): たりられる
-おう形 (let's): たりよう
+て形: 足りて
+た形: 足りた
+ます形: 足ります
+出す形 (start): 足り出す
+そう (looks): 足りそう
+お〜になる (honorific): お足りになる
+ない形: 足りない
+なかった形: 足りなかった
+あれる形 (passive): 足りられる
+使役形 (make/let): 足りさせる
+尊敬語 (honorific): 足りられる
+ば形 (if): 足りれば
+可能形 (can): 足りられる
+おう形 (let's): 足りよう
+命令形 (imperative): 足りろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1749744843720-->
 
 
 count #card
 ほんやく: 数える（かぞ）
-て形: かぞえて
-た形: かぞえた
-ます形: かぞえます
-出す形 (start): かぞえだす
-そう (looks like): かぞえそう
-お〜になる (honorific): おかぞえになる
-ない形: かぞえない
-なかった形: かぞえなかった
-受身形 (passive): かぞえられる
-尊敬語 (honorific): かぞえられる
-ば形 (if): かぞえれば
-可能形 (can): かぞえられる
-おう形 (let's): かぞえよう
+て形: 数えて
+た形: 数えた
+ます形: 数えます
+出す形 (start): 数え出す
+そう (looks): 数えそう
+お〜になる (honorific): お数えになる
+ない形: 数えない
+なかった形: 数えなかった
+あれる形 (passive): 数えられる
+使役形 (make/let): 数えさせる
+尊敬語 (honorific): 数えられる
+ば形 (if): 数えれば
+可能形 (can): 数えられる
+おう形 (let's): 数えよう
+命令形 (imperative): 数えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <!--ID: 1749744843722-->
 
@@ -1021,7 +1029,7 @@ wide, spacious #card
 過去形: 広かった
 否定形: 広くない
 副詞形: 広く
-そう (looks like): 広そう
+そう (looks): 広そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
 <!--ID: 1749744843724-->
 
@@ -1030,7 +1038,7 @@ heavy #card
 過去形: 重かった
 否定形: 重くない
 副詞形: 重く
-そう (looks like): 重そう
+そう (looks): 重そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
 <!--ID: 1749744849985-->
 
@@ -1040,7 +1048,7 @@ black #card
 過去形: 黒かった
 否定形: 黒くない
 副詞形: 黒く
-そう (looks like): 黒そう
+そう (looks): 黒そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <!--ID: 1749744843726-->
 

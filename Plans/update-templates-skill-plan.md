@@ -67,7 +67,7 @@ The file should contain three sections:
 出す形 (start): [value]
 尊敬語 (honorific): [value]
 お〜になる (honorific): [value]
-そう (looks like): [value]
+そう (looks): [value]
 おう (let's): [value]
 <a href="...">kanji</a>
 <!--ID: ...-->
@@ -106,7 +106,7 @@ Beside the canonical blocks, the file should also contain a **label alias table*
 | `inceptive:` | `出す形 (start):` |
 | `honorific:` | `尊敬語 (honorific):` |
 | `volitional:` | `おう (let's):` |
-| `looks like:` | `そう (looks like):` |
+| `looks like:` | `そう (looks):` |
 | `past:` | `過去形:` |
 | `adverb:` | `副詞形:` |
 

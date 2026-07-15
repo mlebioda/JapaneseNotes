@@ -811,15 +811,17 @@ under the ground is the body without head covered in RED blood
 た形: 出した
 ます形: 出します
 出す形 (start): 出し出す
-そう (looks like): 出しそう
+そう (looks): 出しそう
 お〜になる (honorific): お出しになる
 ない形: 出さない
 なかった形: 出さなかった
 あれる形 (passive): 出される
+使役形 (make/let): 出させる
 尊敬語 (honorific): 出される
 ば形 (if): 出せば
 可能形 (can): 出せる
 おう形 (let's): 出そう
+命令形 (imperative): 出せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1746388572941-->
 
@@ -829,15 +831,17 @@ to cut #card
 た形: 切った
 ます形: 切ります
 出す形 (start): 切り出す
-そう (looks like): 切りそう
+そう (looks): 切りそう
 お〜になる (honorific): お切りになる
 ない形: 切らない
 なかった形: 切らなかった
 あれる形 (passive): 切られる
+使役形 (make/let): 切らせる
 尊敬語 (honorific): 切られる
 ば形 (if): 切れば
 可能形 (can): 切れる
 おう形 (let's): 切ろう
+命令形 (imperative): 切れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388572943-->
 
@@ -847,15 +851,17 @@ to use #card
 た形: 使った
 ます形: 使います
 出す形 (start): 使い出す
-そう (looks like): 使いそう
+そう (looks): 使いそう
 お〜になる (honorific): お使いになる
 ない形: 使わない
 なかった形: 使わなかった
 あれる形 (passive): 使われる
+使役形 (make/let): 使わせる
 尊敬語 (honorific): 使われる
 ば形 (if): 使えば
 可能形 (can): 使える
 おう形 (let's): 使おう
+命令形 (imperative): 使え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <!--ID: 1746388572946-->
 
@@ -865,15 +871,17 @@ be projected #card
 た形: 写った
 ます形: 写ります
 出す形 (start): 写り出す
-そう (looks like): 写りそう
+そう (looks): 写りそう
 お〜になる (honorific): お写りになる
 ない形: 写らない
 なかった形: 写らなかった
 あれる形 (passive): 写られる
+使役形 (make/let): 写らせる
 尊敬語 (honorific): 写られる
 ば形 (if): 写れば
 可能形 (can): 写れる
 おう形 (let's): 写ろう
+命令形 (imperative): 写れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <!--ID: 1746388572949-->
 
@@ -883,15 +891,17 @@ to copy/to photograph (more formal than take photo) #card
 た形: 写した
 ます形: 写します
 出す形 (start): 写し出す
-そう (looks like): 写しそう
+そう (looks): 写しそう
 お〜になる (honorific): お写しになる
 ない形: 写さない
 なかった形: 写さなかった
 あれる形 (passive): 写される
+使役形 (make/let): 写させる
 尊敬語 (honorific): 写される
 ば形 (if): 写せば
 可能形 (can): 写せる
 おう形 (let's): 写そう
+命令形 (imperative): 写せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <!--ID: 1746388572953-->
 
@@ -901,15 +911,17 @@ to send #card
 た形: 送った
 ます形: 送ります
 出す形 (start): 送り出す
-そう (looks like): 送りそう
+そう (looks): 送りそう
 お〜になる (honorific): お送りになる
 ない形: 送らない
 なかった形: 送らなかった
 あれる形 (passive): 送られる
+使役形 (make/let): 送らせる
 尊敬語 (honorific): 送られる
 ば形 (if): 送れば
 可能形 (can): 送れる
 おう形 (let's): 送ろう
+命令形 (imperative): 送れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1746388572956-->
 
@@ -919,15 +931,17 @@ odwiedzać #card
 た形: 訪れた
 ます形: 訪れます
 出す形 (start): 訪れ出す
-そう (looks like): 訪れそう
+そう (looks): 訪れそう
 お〜になる (honorific): お訪れになる
 ない形: 訪れない
 なかった形: 訪れなかった
 あれる形 (passive): 訪れられる
+使役形 (make/let): 訪れさせる
 尊敬語 (honorific): 訪れられる
 ば形 (if): 訪れれば
 可能形 (can): 訪れられる
 おう形 (let's): 訪れよう
+命令形 (imperative): 訪れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_訪.html">訪</a>
 <!--ID: 1746388572960-->
 
@@ -936,7 +950,7 @@ red #card
 過去形: 赤かった
 否定形: 赤くない
 副詞形: 赤く
-そう (looks like): 赤そう
+そう (looks): 赤そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
 <!--ID: 1746388572963-->
 
@@ -945,7 +959,7 @@ blue #card
 過去形: 青かった
 否定形: 青くない
 副詞形: 青く
-そう (looks like): 青そう
+そう (looks): 青そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
 <!--ID: 1746388572966-->
 

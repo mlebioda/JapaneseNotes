@@ -1570,16 +1570,18 @@ Structure
 て形: 言えて
 た形: 言えた
 ます形: 言えます
-出す形 (start): 言えだす
-そう (looks like): 言えそう
+出す形 (start): 言え出す
+そう (looks): 言えそう
 お〜になる (honorific): お言えになる
 ない形: 言えない
 なかった形: 言えなかった
 あれる形 (passive):  言えられる
+使役形 (make/let): 言えさせる
 尊敬語 (honorific): 言えられる
 ば形 (if): 言えれば
 可能形 (can): 言えられる
 おう形 (let's): 言えよう
+命令形 (imperative): 言えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1763701622793-->
 
@@ -1591,16 +1593,18 @@ to take, cost (time/money) #wc #card
 て形: かかって
 た形: かかった
 ます形: かかります
-出す形 (start): かかりだす
-そう (looks like): かかりそう
+出す形 (start): かかり出す
+そう (looks): かかりそう
 お〜になる (honorific): おかかりになる
 ない形: かからない
 なかった形: かからなかった
 あれる形 (passive):  かかられる
+使役形 (make/let): かからせる
 尊敬語 (honorific): かかられる
 ば形 (if): かかれば
 可能形 (can): かかれる
 おう形 (let's): かかろう
+命令形 (imperative): かかれ
 <!--ID: 1763701622794-->
 
 
@@ -1611,16 +1615,18 @@ to draw #wc #card
 て形: 描いて
 た形: 描いた
 ます形: 描きます
-出す形 (start): 描きだす
-そう (looks like): 描きそう
+出す形 (start): 描き出す
+そう (looks): 描きそう
 お〜になる (honorific): お描きになる
 ない形: 描かない
 なかった形: 描かなかった
 あれる形 (passive):  描かれる
+使役形 (make/let): 描かせる
 尊敬語 (honorific): 描かれる
 ば形 (if): 描けば
 可能形 (can): 描ける
 おう形 (let's): 描こう
+命令形 (imperative): 描け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_描.html">描</a>
 <!--ID: 1763701622795-->
 
@@ -1632,16 +1638,18 @@ to return (things) #wc #card
 て形: 返して
 た形: 返した
 ます形: 返します
-出す形 (start): 返しだす
-そう (looks like): 返しそう
+出す形 (start): 返し出す
+そう (looks): 返しそう
 お〜になる (honorific): お返しになる
 ない形: 返さない
 なかった形: 返さなかった
 あれる形 (passive):  返される
+使役形 (make/let): 返させる
 尊敬語 (honorific): 返される
 ば形 (if): 返せば
 可能形 (can): 返せる
 おう形 (let's): 返そう
+命令形 (imperative): 返せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_返.html">返</a>
 <!--ID: 1763701622796-->
 
@@ -1653,16 +1661,18 @@ to know #wc #card
 て形: 知って
 た形: 知った
 ます形: 知ります
-出す形 (start): 知りだす
-そう (looks like): 知りそう
+出す形 (start): 知り出す
+そう (looks): 知りそう
 お〜になる (honorific): お知りになる
 ない形: 知らない
 なかった形: 知らなかった
 あれる形 (passive):  知られる
+使役形 (make/let): 知らせる
 尊敬語 (honorific): 知られる
 ば形 (if): 知れば
 可能形 (can): 知れる
 おう形 (let's): 知ろう
+命令形 (imperative): 知れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1763701622797-->
 
@@ -1674,16 +1684,18 @@ to give (direction: me/my direction to someone) #wc #card
 て形: あげて
 た形: あげた
 ます形: あげます
-出す形 (start): あげだす
-そう (looks like): あげそう
+出す形 (start): あげ出す
+そう (looks): あげそう
 お〜になる (honorific): おあげになる
 ない形: あげない
 なかった形: あげなかった
 あれる形 (passive):  あげられる
+使役形 (make/let): あげさせる
 尊敬語 (honorific): あげられる
 ば形 (if): あげれば
 可能形 (can): あげられる
 おう形 (let's): あげよう
+命令形 (imperative): あげろ
 <!--ID: 1763701622798-->
 
 
@@ -1694,16 +1706,18 @@ to receive #wc #card
 て形: もらって
 た形: もらった
 ます形: もらいます
-出す形 (start): もらいだす
-そう (looks like): もらいそう
+出す形 (start): もらい出す
+そう (looks): もらいそう
 お〜になる (honorific): おもらいになる
 ない形: もらわない
 なかった形: もらわなかった
 あれる形 (passive):  もらわれる
+使役形 (make/let): もらわせる
 尊敬語 (honorific): もらわれる
 ば形 (if): もらえば
 可能形 (can): もらえる
 おう形 (let's): もらおう
+命令形 (imperative): もらえ
 <!--ID: 1763701622799-->
 
 
@@ -1717,7 +1731,7 @@ sweet #wp #card
 過去形: あまかった  
 否定形: あまくない  
 副詞形: あまく
-そう (looks like): 甘そう
+そう (looks): 甘そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_甘.html">甘</a>
 <!--ID: 1763701622800-->
 
@@ -1729,7 +1743,7 @@ spicy #wp #card
 過去形: からかった  
 否定形: からくない  
 副詞形: からく
-そう (looks like): 辛そう
+そう (looks): 辛そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_辛.html">辛</a>
 <!--ID: 1763701622801-->
 
@@ -1741,7 +1755,7 @@ bitter #wp #card
 過去形: にがかった  
 否定形: にがくない  
 副詞形: にがく
-そう (looks like): 苦そう
+そう (looks): 苦そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_苦.html">苦</a>
 <!--ID: 1763701622802-->
 
@@ -1753,7 +1767,7 @@ salty #wp #card
 過去形: しおからかった  
 否定形: しおからくない  
 副詞形: しおからく
-そう (looks like): 塩辛そう
+そう (looks): 塩辛そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_塩.html">塩</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_辛.html">辛</a>
 <!--ID: 1763701622803-->
@@ -1766,7 +1780,7 @@ sour #wp #card
 過去形: すっぱかった  
 否定形: すっぱくない  
 副詞形: すっぱく
-そう (looks like): 酸っぱそう
+そう (looks): 酸っぱそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_酸.html">酸</a>
 <!--ID: 1763701622804-->
 
@@ -1778,7 +1792,7 @@ thick (gęsty, mocny, intensywny) #wp #card
 過去形: こかった  
 否定形: こくない  
 副詞形: こく
-そう (looks like): 濃そう
+そう (looks): 濃そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_濃.html">濃</a>
 <!--ID: 1763701622805-->
 
@@ -1790,7 +1804,7 @@ thin (słaby smak, blady, rzadki) #wp #card
 過去形: うすかった  
 否定形: うすくない  
 副詞形: うすく
-そう (looks like): 薄そう
+そう (looks): 薄そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_薄.html">薄</a>
 <!--ID: 1763701622806-->
 
@@ -1802,6 +1816,6 @@ bright #wp #card
 過去形: あかるかった  
 否定形: あかるくない  
 副詞形: あかるく
-そう (looks like): 明るそう
+そう (looks): 明るそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1763701622807-->

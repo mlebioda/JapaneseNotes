@@ -406,15 +406,17 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 た形: わかった
 ます形: わかります
 出す形 (start): わかり出す
-そう (looks like): わかりそう
+そう (looks): わかりそう
 お〜になる (honorific): お分かりになる
 ない形: わからない
 なかった形: わからなかった
-受身形 (passive): わかられる
+あれる形 (passive): わかられる
+使役形 (make/let): わからせる
 尊敬語 (honorific): わかられる
 ば形 (if): わかれば
 可能形 (can): わかれる
 おう形 (let's): わかろう
+命令形 (imperative): わかれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1763383998762-->
 
@@ -427,15 +429,17 @@ to divide #k #wc #card
 た形: わけた
 ます形: わけます
 出す形 (start): わけ出す
-そう (looks like): わけそう
+そう (looks): わけそう
 お〜になる (honorific): お分けになる
 ない形: わけない
 なかった形: わけなかった
-受身形 (passive): わけられる
+あれる形 (passive): わけられる
+使役形 (make/let): わけさせる
 尊敬語 (honorific): わけられる
 ば形 (if): わければ
 可能形 (can): わけられる
 おう形 (let's): わけよう
+命令形 (imperative): わけろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1763383998763-->
 
@@ -448,15 +452,17 @@ to be on time #k #wc #card
 た形: まにあった
 ます形: まにあいます
 出す形 (start): まにあい出す
-そう (looks like): まにあいそう
+そう (looks): まにあいそう
 お〜になる (honorific): お間に合いになる
 ない形: まにあわない
 なかった形: まにあわなかった
-受身形 (passive): まにあわれる
+あれる形 (passive): まにあわれる
+使役形 (make/let): まにあわせる
 尊敬語 (honorific): まにあわれる
 ば形 (if): まにあえば
 可能形 (can): まにあえる
 おう形 (let's): まにあおう
+命令形 (imperative): まにあえ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1763383998764-->

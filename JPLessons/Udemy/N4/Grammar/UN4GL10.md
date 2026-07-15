@@ -461,11 +461,13 @@ to express / to show (transitive) #k #card
 ば形 (if): 表せば
 可能形 (can): 表せる
 あれる形 (passive): 表される
+使役形 (make/let): 表させる
 出す形 (start): 表し出す
 尊敬語 (honorific): 表される
 お〜になる (honorific): お表しになる
-そう (looks like): 表しそう
-おう (let's): 表そう
+そう (looks): 表しそう
+おう形 (let's): 表そう
+命令形 (imperative): 表せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_表.html">表</a>
 <!--ID: 1782213671839-->
 
@@ -489,7 +491,7 @@ nostalgic (miss) #card
 過去形: 懐かしかった
 否定形: 懐かしくない
 副詞形: 懐かしく
-そう: 懐かしそう
+そう (looks): 懐かしそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_懐.html">懐</a>
 <!--ID: 1782213671842-->
 
@@ -515,7 +517,7 @@ beautiful #card
 過去形: 美しかった
 否定形: 美しくない
 副詞形: 美しく
-そう: 美しそう
+そう (looks): 美しそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_美.html">美</a>
 <!--ID: 1782213671845-->
 
@@ -551,7 +553,7 @@ embarrassing #card
 過去形: 恥ずかしかった
 否定形: 恥ずかしくない
 副詞形: 恥ずかしく
-そう: 恥ずかしそう
+そう (looks): 恥ずかしそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_恥.html">恥</a>
 <!--ID: 1782213671849-->
 
@@ -649,7 +651,7 @@ sleepy #card
 過去形: 眠かった
 否定形: 眠くない
 副詞形: 眠く
-そう: 眠そう
+そう (looks): 眠そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_眠.html">眠</a>
 <!--ID: 1782213671863-->
 
@@ -659,7 +661,7 @@ scary #card
 過去形: 怖かった
 否定形: 怖くない
 副詞形: 怖く
-そう: 怖そう
+そう (looks): 怖そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_怖.html">怖</a>
 <!--ID: 1782213671864-->
 
@@ -669,7 +671,7 @@ important　（emotional, not practical) #k #card
 過去形: —
 否定形: —
 副詞形: —
-そう: 大切そう
+そう (looks): 大切そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1782213671865-->
@@ -750,11 +752,13 @@ to save (transitive) #card
 ば形 (if): 貯めれば
 可能形 (can): 貯められる
 あれる形 (passive): 貯められる
+使役形 (make/let): 貯めさせる
 出す形 (start): 貯め出す
 尊敬語 (honorific): 貯められる
 お〜になる (honorific): お貯めになる
-そう (looks like): 貯めそう
-おう (let's): 貯めよう
+そう (looks): 貯めそう
+おう形 (let's): 貯めよう
+命令形 (imperative): 貯めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貯.html">貯</a>
 <!--ID: 1782213671874-->
 
@@ -776,11 +780,13 @@ to pay (transitive) #card
 ば形 (if): 払えば
 可能形 (can): 払える
 あれる形 (passive): 払われる
+使役形 (make/let): 払わせる
 出す形 (start): 払い出す
 尊敬語 (honorific): 払われる
 お〜になる (honorific): お払いになる
-そう (looks like): 払いそう
-おう (let's): 払おう
+そう (looks): 払いそう
+おう形 (let's): 払おう
+命令形 (imperative): 払え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_払.html">払</a>
 <!--ID: 1782213671876-->
 
@@ -818,11 +824,13 @@ to fold (transitive) #card
 ば形 (if): 折れば
 可能形 (can): 折れる
 あれる形 (passive): 折られる
+使役形 (make/let): 折らせる
 出す形 (start): 折り出す
 尊敬語 (honorific): 折られる
 お〜になる (honorific): お折りになる
-そう (looks like): 折りそう
-おう (let's): 折ろう
+そう (looks): 折りそう
+おう形 (let's): 折ろう
+命令形 (imperative): 折れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_折.html">折</a>
 <!--ID: 1782213671880-->
 
@@ -837,11 +845,13 @@ to be broken (intransitive) #card
 ば形 (if): 折れれば
 可能形 (can): 折れられる
 あれる形 (passive): 折れられる
+使役形 (make/let): 折れさせる
 出す形 (start): 折れ出す
 尊敬語 (honorific): 折れられる
 お〜になる (honorific): お折れになる
-そう (looks like): 折れそう
-おう (let's): 折れよう
+そう (looks): 折れそう
+おう形 (let's): 折れよう
+命令形 (imperative): 折れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_折.html">折</a>
 <!--ID: 1782213671881-->
 
@@ -856,11 +866,13 @@ to press (transitive) #card
 ば形 (if): 押せば
 可能形 (can): 押せる
 あれる形 (passive): 押される
+使役形 (make/let): 押させる
 出す形 (start): 押し出す
 尊敬語 (honorific): 押される
 お〜になる (honorific): お押しになる
-そう (looks like): 押しそう
-おう (let's): 押そう
+そう (looks): 押しそう
+おう形 (let's): 押そう
+命令形 (imperative): 押せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_押.html">押</a>
 <!--ID: 1782213671882-->
 
@@ -903,7 +915,7 @@ deep #card
 過去形: 深かった
 否定形: 深くない
 副詞形: 深く
-そう: 深そう
+そう (looks): 深そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_深.html">深</a>
 <!--ID: 1782213671888-->
 
@@ -913,7 +925,7 @@ shallow #card
 過去形: 浅かった
 否定形: 浅くない
 副詞形: 浅く
-そう: 浅そう
+そう (looks): 浅そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_浅.html">浅</a>
 <!--ID: 1782213671889-->
 
@@ -970,7 +982,7 @@ with all my effort/earnest (it means doing something with full effort) #k #card
 過去形: —
 否定形: —
 副詞形: —
-そう: 一生懸命そう
+そう (looks): 一生懸命そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_懸.html">懸</a>
@@ -1010,11 +1022,13 @@ to lose (transitive) #card
 ば形 (if): 失くせば
 可能形 (can): 失くせる
 あれる形 (passive): 失くされる
+使役形 (make/let): 失くさせる
 出す形 (start): 失くし出す
 尊敬語 (honorific): 失くされる
 お〜になる (honorific): お失くしになる
-そう (looks like): 失くしそう
-おう (let's): 失くそう
+そう (looks): 失くしそう
+おう形 (let's): 失くそう
+命令形 (imperative): 失くせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_失.html">失</a>
 <!--ID: 1782213671900-->
 
@@ -1037,7 +1051,7 @@ strong #k #card
 過去形: 強かった
 否定形: 強くない
 副詞形: 強く
-そう: 強そう
+そう (looks): 強そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1782213671903-->
 
@@ -1047,7 +1061,7 @@ weak #card
 過去形: 弱かった
 否定形: 弱くない
 副詞形: 弱く
-そう: 弱そう
+そう (looks): 弱そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弱.html">弱</a>
 <!--ID: 1782213671904-->
 
@@ -1090,11 +1104,13 @@ to apologize (intransitive) #card
 ば形 (if): 謝れば
 可能形 (can): 謝れる
 あれる形 (passive): 謝られる
+使役形 (make/let): 謝らせる
 出す形 (start): 謝り出す
 尊敬語 (honorific): 謝られる
 お〜になる (honorific): お謝りになる
-そう (looks like): 謝りそう
-おう (let's): 謝ろう
+そう (looks): 謝りそう
+おう形 (let's): 謝ろう
+命令形 (imperative): 謝れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_謝.html">謝</a>
 <!--ID: 1782213671909-->
 
@@ -1104,7 +1120,7 @@ obnoxious / unpleasant (meaning like きらい) #card
 過去形: —
 否定形: —
 副詞形: —
-そう: 嫌そう
+そう (looks): 嫌そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_嫌.html">嫌</a>
 <!--ID: 1782213671910-->
 
@@ -1134,11 +1150,13 @@ to increase (intransitive) #card
 ば形 (if): 増えれば
 可能形 (can): 増えられる
 あれる形 (passive): 増えられる
+使役形 (make/let): 増えさせる
 出す形 (start): 増え出す
 尊敬語 (honorific): 増えられる
 お〜になる (honorific): お増えになる
-そう (looks like): 増えそう
-おう (let's): 増えよう
+そう (looks): 増えそう
+おう形 (let's): 増えよう
+命令形 (imperative): 増えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_増.html">増</a>
 <!--ID: 1782213671913-->
 

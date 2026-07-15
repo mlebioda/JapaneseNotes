@@ -128,3 +128,12 @@
 **Source**: uncommitted — documentation
 
 ---
+
+## 2026-07-07 — docs/vault-system-diagram.puml
+
+**Classification**: design-oversight
+**What happened**: A full regeneration of the diagram shrank it from 607 to 305 lines, collapsing storage-node splits (Caligraphy/Kanji, Caligraphy/Primitives, JPLessons/Reading, dedicated ICS root) and per-skill trigger/chain/read-write detail that had been deliberately added in the 2026-06-15/06-16 passes, even while adding two genuinely new audit findings (an orphaned skill not in the instructions.md registry, and a hardcoded-path inconsistency in fill-templates).
+**Rule**: **[Rule]** When regenerating a diagram or artifact "from scratch," diff the new version against the last committed version (and its own lessons-learned history) before finalizing — a regeneration should be a superset of prior improvements plus new findings, never a reset to a simpler baseline.
+**Source**: uncommitted — documentation
+
+---

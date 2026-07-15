@@ -1346,16 +1346,18 @@ to invite, zachęcać, nakłaniać #wc #card
 て形: 誘って
 た形: 誘った
 ます形: 誘います
-出す形 (start): 誘いだす
-そう (looks like): 誘いそう
+出す形 (start): 誘い出す
+そう (looks): 誘いそう
 お〜になる (honorific): お誘いになる
 ない形: 誘わない
 なかった形: 誘わなかった
 あれる形 (passive):  誘われる
+使役形 (make/let): 誘わせる
 尊敬語 (honorific): 誘われる
 ば形 (if): 誘えば
 可能形 (can): 誘える
 おう形 (let's): 誘おう
+命令形 (imperative): 誘え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_誘.html">誘</a>
 <!--ID: 1763036595755-->
 
@@ -1365,16 +1367,18 @@ to work #wc #card
 て形: 働いて
 た形: 働いた
 ます形: 働きます
-出す形 (start): 働きだす
-そう (looks like): 働きそう
+出す形 (start): 働き出す
+そう (looks): 働きそう
 お〜になる (honorific): お働きになる
 ない形: 働かない
 なかった形: 働かなかった
 あれる形 (passive):  働かれる
+使役形 (make/let): 働かせる
 尊敬語 (honorific): 働かれる
 ば形 (if): 働けば
 可能形 (can): 働ける
 おう形 (let's): 働こう
+命令形 (imperative): 働け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_働.html">働</a>
 <!--ID: 1763036595759-->
 
@@ -1384,16 +1388,18 @@ to sing #k #wc #card
 て形: 歌って
 た形: 歌った
 ます形: 歌います
-出す形 (start): 歌いだす
-そう (looks like): 歌いそう
+出す形 (start): 歌い出す
+そう (looks): 歌いそう
 お〜になる (honorific): お歌いになる
 ない形: 歌わない
 なかった形: 歌わなかった
 あれる形 (passive):  歌われる
+使役形 (make/let): 歌わせる
 尊敬語 (honorific): 歌われる
 ば形 (if): 歌えば
 可能形 (can): 歌える
 おう形 (let's): 歌おう
+命令形 (imperative): 歌え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1763036595763-->
 
@@ -1403,16 +1409,18 @@ to have, to possess, to hold/carry #k #wc #card
 て形: 持って
 た形: 持った
 ます形: 持ちます
-出す形 (start): 持ちだす
-そう (looks like): 持ちそう
+出す形 (start): 持ち出す
+そう (looks): 持ちそう
 お〜になる (honorific): お持ちになる
 ない形: 持たない
 なかった形: 持たなかった
 あれる形 (passive):  持たれる
+使役形 (make/let): 持たせる
 尊敬語 (honorific): 持たれる
 ば形 (if): 持てば
 可能形 (can): 持てる
 おう形 (let's): 持とう
+命令形 (imperative): 持て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 <!--ID: 1763036595768-->
 
@@ -1422,16 +1430,18 @@ to smoke #wc #card
 て形: 吸って
 た形: 吸った
 ます形: 吸います
-出す形 (start): 吸いだす
-そう (looks like): 吸いそう
+出す形 (start): 吸い出す
+そう (looks): 吸いそう
 お〜になる (honorific): お吸いになる
 ない形: 吸わない
 なかった形: 吸わなかった
 あれる形 (passive):  吸われる
+使役形 (make/let): 吸わせる
 尊敬語 (honorific): 吸われる
 ば形 (if): 吸えば
 可能形 (can): 吸える
 おう形 (let's): 吸おう
+命令形 (imperative): 吸え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_吸.html">吸</a>
 <!--ID: 1763036595772-->
 
@@ -1441,16 +1451,18 @@ to sleep #wc #card
 て形: 寝て
 た形: 寝た
 ます形: 寝ます
-出す形 (start): 寝だす
-そう (looks like): 寝そう
+出す形 (start): 寝出す
+そう (looks): 寝そう
 お〜になる (honorific): お寝になる
 ない形: 寝ない
 なかった形: 寝なかった
 あれる形 (passive):  寝られる
+使役形 (make/let): 寝させる
 尊敬語 (honorific): 寝られる
 ば形 (if): 寝れば
 可能形 (can): 寝られる
 おう形 (let's): 寝よう
+命令形 (imperative): 寝ろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寝.html">寝</a>
 <!--ID: 1763036595776-->
 
@@ -1460,16 +1472,18 @@ to live/reside #k #wc #card
 て形: 住んで
 た形: 住んだ
 ます形: 住みます
-出す形 (start): 住みだす
-そう (looks like): 住みそう
+出す形 (start): 住み出す
+そう (looks): 住みそう
 お〜になる (honorific): お住みになる
 ない形: 住まない
 なかった形: 住まなかった
 あれる形 (passive):  住まれる
+使役形 (make/let): 住ませる
 尊敬語 (honorific): 住まれる
 ば形 (if): 住めば
 可能形 (can): 住める
 おう形 (let's): 住もう
+命令形 (imperative): 住め
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_住.html">住</a>
 <!--ID: 1763036595780-->
 
@@ -1479,16 +1493,18 @@ to wait #k #wc #card
 て形: 待って
 た形: 待った
 ます形: 待ちます
-出す形 (start): 待ちだす
-そう (looks like): 待ちそう
+出す形 (start): 待ち出す
+そう (looks): 待ちそう
 お〜になる (honorific): お待ちになる
 ない形: 待たない
 なかった形: 待たなかった
 あれる形 (passive):  待たれる
+使役形 (make/let): 待たせる
 尊敬語 (honorific): 待たれる
 ば形 (if): 待てば
 可能形 (can): 待てる
 おう形 (let's): 待とう
+命令形 (imperative): 待て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1763036595783-->
 
