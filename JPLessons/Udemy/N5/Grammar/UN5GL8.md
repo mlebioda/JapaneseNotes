@@ -1298,9 +1298,8 @@ uruchomić, wykonywać czynność #wc #card
 お〜になる (honorific): お掛けになる
 ない形: 掛けない
 なかった形: 掛けなかった
-あれる形 (passive):  掛けられる
+あれる形 (passive/honorific):  掛けられる
 使役形 (make/let): 掛けさせる
-尊敬語 (honorific): 掛けられる
 ば形 (if): 掛ければ
 可能形 (can): 掛けられる
 おう形 (let's): 掛けよう
@@ -1319,9 +1318,8 @@ to stay the night #wc #card
 お〜になる (honorific): お泊まりになる
 ない形: 泊まらない
 なかった形: 泊まらなかった
-あれる形 (passive):  泊まられる
+あれる形 (passive/honorific):  泊まられる
 使役形 (make/let): 泊まらせる
-尊敬語 (honorific): 泊まられる
 ば形 (if): 泊まれば
 可能形 (can): 泊まれる
 おう形 (let's): 泊まろう
@@ -1340,9 +1338,8 @@ to know + particle #k #wc #card
 お〜になる (honorific): お知りになる
 ない形: 知らない
 なかった形: 知らなかった
-あれる形 (passive):  知られる
+あれる形 (passive/honorific):  知られる
 使役形 (make/let): 知らせる
-尊敬語 (honorific): 知られる
 ば形 (if): 知れば
 可能形 (can): 知れる
 おう形 (let's): 知ろう

@@ -13,16 +13,16 @@ Conjugation rules (confirmed):
 
 Worked example (飲む, approved by user):
 ```
-あれる形 (passive): 飲まれる
+あれる形 (passive/honorific): 飲まれる
 使役形 (make/let): 飲ませる
 尊敬語 (honorific): 召し上がる
 ```
 
 ## Steps
 
-1. **`.cowork/skills/fill_extract.py`** (around lines 103–119) — in the `#wc` skeleton block list, insert `"使役形 (make/let): "` immediately after `"あれる形 (passive): "` (line 114) and before `"尊敬語 (honorific): "` (line 115). This makes the script write the blank 使役形 row for every newly generated `#wc` skeleton.
+1. **`.cowork/skills/fill_extract.py`** (around lines 103–119) — in the `#wc` skeleton block list, insert `"使役形 (make/let): "` immediately after `"あれる形 (passive/honorific): "` (line 114) and before `"尊敬語 (honorific): "` (line 115). This makes the script write the blank 使役形 row for every newly generated `#wc` skeleton.
 
-2. **`.cowork/skills/references/card-templates.md`** — in the "Canonical #wc (verb) template" code block, insert `使役形 (make/let): [value]` between `あれる形 (passive):  [value]` and `尊敬語 (honorific): [value]`. Update the note "The 13 form lines appear in the exact order above." → "The 14 form lines appear in the exact order above."
+2. **`.cowork/skills/references/card-templates.md`** — in the "Canonical #wc (verb) template" code block, insert `使役形 (make/let): [value]` between `あれる形 (passive/honorific):  [value]` and `尊敬語 (honorific): [value]`. Update the note "The 13 form lines appear in the exact order above." → "The 14 form lines appear in the exact order above."
 
 3. **`.cowork/skills/references/verb-conjugation.md`**:
    - Frontmatter description: "all 13 conjugation forms" → "all 14 conjugation forms".

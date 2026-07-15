@@ -2151,9 +2151,8 @@ to pass, to inform #card
 お〜になる (honorific): お伝えになる
 ない形: 伝えない
 なかった形: 伝えなかった
-あれる形 (passive):  伝えられる
+あれる形 (passive/honorific):  伝えられる
 使役形 (make/let): 伝えさせる
-尊敬語 (honorific): 伝えられる
 ば形 (if): 伝えれば
 可能形 (can): 伝えられる
 おう形 (let's): 伝えよう
@@ -2172,9 +2171,8 @@ to talk / to speak  #card
 お〜になる (honorific): お話しになる
 ない形: 話さない
 なかった形: 話さなかった
-あれる形 (passive):  話される
+あれる形 (passive/honorific):  話される
 使役形 (make/let): 話させる
-尊敬語 (honorific): 話される
 ば形 (if): 話せば
 可能形 (can): 話せる
 おう形 (let's): 話そう
@@ -2193,9 +2191,8 @@ to answer  #card
 お〜になる (honorific): お答えになる
 ない形: 答えない
 なかった形: 答えなかった
-あれる形 (passive):  答えられる
+あれる形 (passive/honorific):  答えられる
 使役形 (make/let): 答えさせる
-尊敬語 (honorific): 答えられる
 ば形 (if): 答えれば
 可能形 (can): 答えられる
 おう形 (let's): 答えよう
@@ -2214,9 +2211,8 @@ to put down  #card
 お〜になる (honorific): お置きになる
 ない形: 置かない
 なかった形: 置かなかった
-あれる形 (passive):  置かれる
+あれる形 (passive/honorific):  置かれる
 使役形 (make/let): 置かせる
-尊敬語 (honorific): 置かれる
 ば形 (if): 置けば
 可能形 (can): 置ける
 おう形 (let's): 置こう
@@ -2235,9 +2231,8 @@ to sell  #card
 お〜になる (honorific): お売りになる
 ない形: 売らない
 なかった形: 売らなかった
-あれる形 (passive):  売られる
+あれる形 (passive/honorific):  売られる
 使役形 (make/let): 売らせる
-尊敬語 (honorific): 売られる
 ば形 (if): 売れば
 可能形 (can): 売れる
 おう形 (let's): 売ろう
@@ -2256,9 +2251,8 @@ to have trouble, to struggle,  struggling with something, not knowing what to do
 お〜になる (honorific): お困りになる
 ない形: 困らない
 なかった形: 困らなかった
-あれる形 (passive):  困られる
+あれる形 (passive/honorific):  困られる
 使役形 (make/let): 困らせる
-尊敬語 (honorific): 困られる
 ば形 (if): 困れば
 可能形 (can): 困れる
 おう形 (let's): 困ろう
@@ -2277,9 +2271,8 @@ to work  (when somebody works in one place for a long time) particle  #card
 お〜になる (honorific): お勤めになる
 ない形: 勤めない
 なかった形: 勤めなかった
-あれる形 (passive):  勤められる
+あれる形 (passive/honorific):  勤められる
 使役形 (make/let): 勤めさせる
-尊敬語 (honorific): 勤められる
 ば形 (if): 勤めれば
 可能形 (can): 勤められる
 おう形 (let's): 勤めよう
@@ -2298,9 +2291,8 @@ to help  (particle)  #card
 お〜になる (honorific): お手伝いになる
 ない形: 手伝わない
 なかった形: 手伝わなかった
-あれる形 (passive):  手伝われる
+あれる形 (passive/honorific):  手伝われる
 使役形 (make/let): 手伝わせる
-尊敬語 (honorific): 手伝われる
 ば形 (if): 手伝えば
 可能形 (can): 手伝える
 おう形 (let's): 手伝おう
@@ -2320,9 +2312,8 @@ to stand  #card
 お〜になる (honorific): お立ちになる
 ない形: 立たない
 なかった形: 立たなかった
-あれる形 (passive):  立たれる
+あれる形 (passive/honorific):  立たれる
 使役形 (make/let): 立たせる
-尊敬語 (honorific): 立たれる
 ば形 (if): 立てば
 可能形 (can): 立てる
 おう形 (let's): 立とう
@@ -2341,9 +2332,8 @@ to turn on  #card
 お〜になる (honorific): お点けになる
 ない形: 点けない
 なかった形: 点けなかった
-あれる形 (passive):  点けられる
+あれる形 (passive/honorific):  点けられる
 使役形 (make/let): 点けさせる
-尊敬語 (honorific): 点けられる
 ば形 (if): 点ければ
 可能形 (can): 点けられる
 おう形 (let's): 点けよう
@@ -2362,9 +2352,8 @@ to turn off / erase  #card
 お〜になる (honorific): お消しになる
 ない形: 消さない
 なかった形: 消さなかった
-あれる形 (passive):  消される
+あれる形 (passive/honorific):  消される
 使役形 (make/let): 消させる
-尊敬語 (honorific): 消される
 ば形 (if): 消せば
 可能形 (can): 消せる
 おう形 (let's): 消そう
@@ -2383,9 +2372,8 @@ attendance / to attend  #card
 お〜になる (honorific): ご出席になる
 ない形: 出席しない
 なかった形: 出席しなかった
-あれる形 (passive):  出席される
+あれる形 (passive/honorific):  出席される
 使役形 (make/let): 出席させる
-尊敬語 (honorific): 出席される
 ば形 (if): 出席すれば
 可能形 (can): 出席できる
 おう形 (let's): 出席しよう
@@ -2405,9 +2393,8 @@ to remember  #card
 お〜になる (honorific): お覚えになる
 ない形: 覚えない
 なかった形: 覚えなかった
-あれる形 (passive):  覚えられる
+あれる形 (passive/honorific):  覚えられる
 使役形 (make/let): 覚えさせる
-尊敬語 (honorific): 覚えられる
 ば形 (if): 覚えれば
 可能形 (can): 覚えられる
 おう形 (let's): 覚えよう
@@ -2426,9 +2413,8 @@ to forget  #card
 お〜になる (honorific): お忘れになる
 ない形: 忘れない
 なかった形: 忘れなかった
-あれる形 (passive):  忘れられる
+あれる形 (passive/honorific):  忘れられる
 使役形 (make/let): 忘れさせる
-尊敬語 (honorific): 忘れられる
 ば形 (if): 忘れれば
 可能形 (can): 忘れられる
 おう形 (let's): 忘れよう
@@ -2447,9 +2433,8 @@ to use  #card
 お〜になる (honorific): お使いになる
 ない形: 使わない
 なかった形: 使わなかった
-あれる形 (passive):  使われる
+あれる形 (passive/honorific):  使われる
 使役形 (make/let): 使わせる
-尊敬語 (honorific): 使われる
 ば形 (if): 使えば
 可能形 (can): 使える
 おう形 (let's): 使おう
@@ -2468,9 +2453,8 @@ to be born  (passive form from うむ) + particle  #card
 お〜になる (honorific): お生まれになる
 ない形: 生まれない
 なかった形: 生まれなかった
-あれる形 (passive):  生まれられる
+あれる形 (passive/honorific):  生まれられる
 使役形 (make/let): 生まれさせる
-尊敬語 (honorific): 生まれられる
 ば形 (if): 生まれれば
 可能形 (can): 生まれられる
 おう形 (let's): 生まれよう
@@ -2489,9 +2473,8 @@ to raise, lift (up)  #card
 お〜になる (honorific): お上げになる
 ない形: 上げない
 なかった形: 上げなかった
-あれる形 (passive):  上げられる
+あれる形 (passive/honorific):  上げられる
 使役形 (make/let): 上げさせる
-尊敬語 (honorific): 上げられる
 ば形 (if): 上げれば
 可能形 (can): 上げられる
 おう形 (let's): 上げよう
@@ -2510,9 +2493,8 @@ to place, to put, to leave (something somewhere); to park (e.g. a bicycle)  #car
 お〜になる (honorific): お置きになる
 ない形: 置かない
 なかった形: 置かなかった
-あれる形 (passive):  置かれる
+あれる形 (passive/honorific):  置かれる
 使役形 (make/let): 置かせる
-尊敬語 (honorific): 置かれる
 ば形 (if): 置けば
 可能形 (can): 置ける
 おう形 (let's): 置こう
@@ -2531,9 +2513,8 @@ to ask / request  (particle)/Hoping someone will help you in something  #card
 お〜になる (honorific): お頼みになる
 ない形: 頼まない
 なかった形: 頼まなかった
-あれる形 (passive):  頼まれる
+あれる形 (passive/honorific):  頼まれる
 使役形 (make/let): 頼ませる
-尊敬語 (honorific): 頼まれる
 ば形 (if): 頼めば
 可能形 (can): 頼める
 おう形 (let's): 頼もう
@@ -2552,9 +2533,8 @@ to call /invite  #card
 お〜になる (honorific): お呼びになる
 ない形: 呼ばない
 なかった形: 呼ばなかった
-あれる形 (passive):  呼ばれる
+あれる形 (passive/honorific):  呼ばれる
 使役形 (make/let): 呼ばせる
-尊敬語 (honorific): 呼ばれる
 ば形 (if): 呼べば
 可能形 (can): 呼べる
 おう形 (let's): 呼ぼう
@@ -2573,9 +2553,8 @@ to show  #card
 お〜になる (honorific): お見せになる
 ない形: 見せない
 なかった形: 見せなかった
-あれる形 (passive):  見せられる
+あれる形 (passive/honorific):  見せられる
 使役形 (make/let): 見せさせる
-尊敬語 (honorific): 見せられる
 ば形 (if): 見せれば
 可能形 (can): 見せられる
 おう形 (let's): 見せよう

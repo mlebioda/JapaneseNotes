@@ -343,9 +343,8 @@ animal #k #card
 お〜になる (honorific): お飛びになる
 ない形: 飛ばない
 なかった形: 飛ばなかった
-あれる形 (passive): 飛ばれる
+あれる形 (passive/honorific): 飛ばれる
 使役形 (make/let): 飛ばせる
-尊敬語 (honorific): 飛ばれる
 ば形 (if): 飛べば
 可能形 (can): 飛べる
 おう形 (let's): 飛ぼう
@@ -364,9 +363,8 @@ to do ones best #card
 お〜になる (honorific): お頑張りになる
 ない形: 頑張らない
 なかった形: 頑張らなかった
-あれる形 (passive): 頑張られる
+あれる形 (passive/honorific): 頑張られる
 使役形 (make/let): 頑張らせる
-尊敬語 (honorific): 頑張られる
 ば形 (if): 頑張れば
 可能形 (can): 頑張れる
 おう形 (let's): 頑張ろう
@@ -628,9 +626,8 @@ to disappear #card
 お〜になる (honorific): お消えになる
 ない形: 消えない
 なかった形: 消えなかった
-あれる形 (passive): 消えられる
+あれる形 (passive/honorific): 消えられる
 使役形 (make/let): 消えさせる
-尊敬語 (honorific): 消えられる
 ば形 (if): 消えれば
 可能形 (can): 消えられる
 おう形 (let's): 消えよう
@@ -701,9 +698,8 @@ to pull, to catch (a cold), to look up (shiraberu) (+particle) #card
 お〜になる (honorific): お引きになる
 ない形: 引かない
 なかった形: 引かなかった
-あれる形 (passive): 引かれる
+あれる形 (passive/honorific): 引かれる
 使役形 (make/let): 引かせる
-尊敬語 (honorific): 引かれる
 ば形 (if): 引けば
 可能形 (can): 引ける
 おう形 (let's): 引こう
@@ -1080,9 +1076,8 @@ can #k #card
 お〜になる (honorific): お出来になる
 ない形: 出来ない
 なかった形: 出来なかった
-あれる形 (passive): 出来られる
+あれる形 (passive/honorific): 出来られる
 使役形 (make/let): 出来させる
-尊敬語 (honorific): 出来られる
 ば形 (if): 出来れば
 可能形 (can): 出来られる
 おう形 (let's): 出来よう
@@ -1484,9 +1479,8 @@ to hand over #card
 お〜になる (honorific): お渡しになる
 ない形: 渡さない
 なかった形: 渡さなかった
-あれる形 (passive): 渡される
+あれる形 (passive/honorific): 渡される
 使役形 (make/let): 渡させる
-尊敬語 (honorific): 渡される
 ば形 (if): 渡せば
 可能形 (can): 渡せる
 おう形 (let's): 渡そう
@@ -1544,9 +1538,8 @@ to cross/ go overseas by plane or boat #card
 お〜になる (honorific): お渡りになる
 ない形: 渡らない
 なかった形: 渡らなかった
-あれる形 (passive): 渡られる
+あれる形 (passive/honorific): 渡られる
 使役形 (make/let): 渡らせる
-尊敬語 (honorific): 渡られる
 ば形 (if): 渡れば
 可能形 (can): 渡れる
 おう形 (let's): 渡ろう

@@ -63,7 +63,7 @@ The file should contain three sections:
 なかった形: [value]
 ば形 (if): [value]
 可能形 (can): [value]
-あれる形 (passive): [value]
+あれる形 (passive/honorific): [value]
 出す形 (start): [value]
 尊敬語 (honorific): [value]
 お〜になる (honorific): [value]

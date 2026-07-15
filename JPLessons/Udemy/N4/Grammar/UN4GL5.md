@@ -592,9 +592,8 @@ to do one's best #card
 お〜になる (honorific): お頑張りになる
 ない形: 頑張らない
 なかった形: 頑張らなかった
-あれる形 (passive): 頑張られる
+あれる形 (passive/honorific): 頑張られる
 使役形 (make/let): 頑張らせる
-尊敬語 (honorific): 頑張られる
 ば形 (if): 頑張れば
 可能形 (can): 頑張れる
 おう形 (let's): 頑張ろう
@@ -693,9 +692,8 @@ to invite #card
 お〜になる (honorific): お誘いになる
 ない形: 誘わない
 なかった形: 誘わなかった
-あれる形 (passive): 誘われる
+あれる形 (passive/honorific): 誘われる
 使役形 (make/let): 誘わせる
-尊敬語 (honorific): 誘われる
 ば形 (if): 誘えば
 可能形 (can): 誘える
 おう形 (let's): 誘おう
@@ -728,9 +726,8 @@ to protect / to keep #card
 お〜になる (honorific): お守りになる
 ない形: 守らない
 なかった形: 守らなかった
-あれる形 (passive): 守られる
+あれる形 (passive/honorific): 守られる
 使役形 (make/let): 守らせる
-尊敬語 (honorific): 守られる
 ば形 (if): 守れば
 可能形 (can): 守れる
 おう形 (let's): 守ろう
@@ -824,9 +821,8 @@ to spend / to pass #card
 お〜になる (honorific): お過ごしになる
 ない形: 過ごさない
 なかった形: 過ごさなかった
-あれる形 (passive): 過ごされる
+あれる形 (passive/honorific): 過ごされる
 使役形 (make/let): 過ごさせる
-尊敬語 (honorific): 過ごされる
 ば形 (if): 過ごせば
 可能形 (can): 過ごせる
 おう形 (let's): 過ごそう
@@ -852,9 +848,8 @@ to slide #card
 お〜になる (honorific): お滑りになる
 ない形: 滑らない
 なかった形: 滑らなかった
-あれる形 (passive): 滑られる
+あれる形 (passive/honorific): 滑られる
 使役形 (make/let): 滑らせる
-尊敬語 (honorific): 滑られる
 ば形 (if): 滑れば
 可能形 (can): 滑れる
 おう形 (let's): 滑ろう
@@ -886,9 +881,8 @@ to get used to + particle #card
 お〜になる (honorific): お慣れになる
 ない形: 慣れない
 なかった形: 慣れなかった
-あれる形 (passive): 慣れられる
+あれる形 (passive/honorific): 慣れられる
 使役形 (make/let): 慣れさせる
-尊敬語 (honorific): 慣れられる
 ば形 (if): 慣れれば
 可能形 (can): 慣れられる
 おう形 (let's): 慣れよう
@@ -947,9 +941,8 @@ to drop / to throw down #card
 お〜になる (honorific): お落しになる
 ない形: 落さない
 なかった形: 落さなかった
-あれる形 (passive): 落される
+あれる形 (passive/honorific): 落される
 使役形 (make/let): 落させる
-尊敬語 (honorific): 落される
 ば形 (if): 落せば
 可能形 (can): 落せる
 おう形 (let's): 落そう
@@ -1028,9 +1021,8 @@ to hold #card
 お〜になる (honorific): おつかまりになる
 ない形: つかまらない
 なかった形: つかまらなかった
-あれる形 (passive): つかまられる
+あれる形 (passive/honorific): つかまられる
 使役形 (make/let): つかまらせる
-尊敬語 (honorific): つかまられる
 ば形 (if): つかまれば
 可能形 (can): つかまれる
 おう形 (let's): つかまろう
@@ -1098,9 +1090,8 @@ to win + particle #card
 お〜になる (honorific): お勝ちになる
 ない形: 勝たない
 なかった形: 勝たなかった
-あれる形 (passive): 勝たれる
+あれる形 (passive/honorific): 勝たれる
 使役形 (make/let): 勝たせる
-尊敬語 (honorific): 勝たれる
 ば形 (if): 勝てば
 可能形 (can): 勝てる
 おう形 (let's): 勝とう
@@ -1127,9 +1118,8 @@ to lose + particle #card
 お〜になる (honorific): お負けになる
 ない形: 負けない
 なかった形: 負けなかった
-あれる形 (passive): 負けられる
+あれる形 (passive/honorific): 負けられる
 使役形 (make/let): 負けさせる
-尊敬語 (honorific): 負けられる
 ば形 (if): 負ければ
 可能形 (can): 負けられる
 おう形 (let's): 負けよう

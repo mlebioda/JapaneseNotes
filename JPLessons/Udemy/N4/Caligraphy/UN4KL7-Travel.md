@@ -760,9 +760,8 @@ to measure #card
 お〜になる (honorific): お計りになる
 ない形: 計らない
 なかった形: 計らなかった
-あれる形 (passive): 計られる
+あれる形 (passive/honorific): 計られる
 使役形 (make/let): 計らせる
-尊敬語 (honorific): 計られる
 ば形 (if): 計れば
 可能形 (can): 計れる
 おう形 (let's): 計ろう
@@ -780,9 +779,8 @@ draw #card
 お〜になる (honorific): お画きになる
 ない形: 画かない
 なかった形: 画かなかった
-あれる形 (passive): 画かれる
+あれる形 (passive/honorific): 画かれる
 使役形 (make/let): 画かせる
-尊敬語 (honorific): 画かれる
 ば形 (if): 画けば
 可能形 (can): 画ける
 おう形 (let's): 画こう
@@ -799,9 +797,8 @@ draw #card
 お〜になる (honorific): お画きになる
 ない形: 画かない
 なかった形: 画かなかった
-あれる形 (passive): 画かれる
+あれる形 (passive/honorific): 画かれる
 使役形 (make/let): 画かせる
-尊敬語 (honorific): 画かれる
 ば形 (if): 画けば
 可能形 (can): 画ける
 おう形 (let's): 画こう
@@ -819,9 +816,8 @@ to miss/ to be disconnected #card
 お〜になる (honorific): お外れになる
 ない形: 外れない
 なかった形: 外れなかった
-あれる形 (passive): 外れられる
+あれる形 (passive/honorific): 外れられる
 使役形 (make/let): 外れさせる
-尊敬語 (honorific): 外れられる
 ば形 (if): 外れれば
 可能形 (can): 外れられる
 おう形 (let's): 外れよう
@@ -838,9 +834,8 @@ attempt #card
 お〜になる (honorific): お図りになる
 ない形: 図らない
 なかった形: 図らなかった
-あれる形 (passive): 図られる
+あれる形 (passive/honorific): 図られる
 使役形 (make/let): 図らせる
-尊敬語 (honorific): 図られる
 ば形 (if): 図れば
 可能形 (can): 図れる
 おう形 (let's): 図ろう
@@ -857,9 +852,8 @@ hold/have/possess/posiadać #card
 お〜になる (honorific): お持ちになる
 ない形: 持たない
 なかった形: 持たなかった
-あれる形 (passive): 持たれる
+あれる形 (passive/honorific): 持たれる
 使役形 (make/let): 持たせる
-尊敬語 (honorific): 持たれる
 ば形 (if): 持てば
 可能形 (can): 持てる
 おう形 (let's): 持とう

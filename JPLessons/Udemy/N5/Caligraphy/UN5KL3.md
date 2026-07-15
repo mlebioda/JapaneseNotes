@@ -441,9 +441,8 @@ be enough/sufficient #card
 お〜になる (honorific): お足りになる
 ない形: たりない
 なかった形: たりなかった
-あれる形 (passive): たりられる
+あれる形 (passive/honorific): たりられる
 使役形 (make/let): たりさせる
-尊敬語 (honorific): たりられる
 ば形 (if): たりれば
 可能形 (can): たりられる
 おう形 (let's): たりよう

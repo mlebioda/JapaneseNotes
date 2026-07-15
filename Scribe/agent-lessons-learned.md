@@ -137,3 +137,12 @@
 **Source**: uncommitted — documentation
 
 ---
+
+## 2026-07-15 — docs/vault-system-diagram.puml
+
+**Classification**: new-feature
+**What happened**: Diagram regeneration added two explicit GAP notes: skill-implementer does not call scribe automatically via a `subagent_type: scribe` block, contradicting instructions.md's claim that it does; and git-commit's git-push behaviour is inconsistent with the vault-wide "never push to git" hard rule.
+**Rule**: **[Rule]** When regenerating a system diagram, explicitly cross-check every behavioural claim made in instructions.md (or CLAUDE.md) against the actual content of the referenced agent/skill file, and encode any contradiction as a visible GAP note in the diagram — the diagram should surface silent divergence between documented guarantees and actual implementation, not just draw what exists.
+**Source**: uncommitted — documentation
+
+---

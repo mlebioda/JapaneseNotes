@@ -419,9 +419,8 @@ to wrap / to pack #card
 お〜になる (honorific): お包みになる
 ない形: 包まない
 なかった形: 包まなかった
-あれる形 (passive): 包まれる
+あれる形 (passive/honorific): 包まれる
 使役形 (make/let): 包ませる
-尊敬語 (honorific): 包まれる
 ば形 (if): 包めば
 可能形 (can): 包める
 おう形 (let's): 包もう
@@ -442,9 +441,8 @@ to be broken / to crack (by itself) + particle #card
 お〜になる (honorific): お割れになる
 ない形: 割れない
 なかった形: 割れなかった
-あれる形 (passive): 割れられる
+あれる形 (passive/honorific): 割れられる
 使役形 (make/let): 割れさせる
-尊敬語 (honorific): 割れられる
 ば形 (if): 割れれば
 可能形 (can): 割れられる
 おう形 (let's): 割れよう
@@ -465,9 +463,8 @@ to be in time (for) + particle #k #card
 お〜になる (honorific): お間に合いになる
 ない形: 間に合わない
 なかった形: 間に合わなかった
-あれる形 (passive): 間に合われる
+あれる形 (passive/honorific): 間に合われる
 使役形 (make/let): 間に合わせる
-尊敬語 (honorific): 間に合われる
 ば形 (if): 間に合えば
 可能形 (can): 間に合える
 おう形 (let's): 間に合おう
@@ -489,9 +486,8 @@ to be in sight / can see + particle #k #card
 お〜になる (honorific): お見えになる
 ない形: 見えない
 なかった形: 見えなかった
-あれる形 (passive): 見えられる
+あれる形 (passive/honorific): 見えられる
 使役形 (make/let): 見えさせる
-尊敬語 (honorific): 見えられる
 ば形 (if): 見えれば
 可能形 (can): 見えられる
 おう形 (let's): 見えよう
@@ -512,9 +508,8 @@ to reach one's ears / can hear + particle #k #card
 お〜になる (honorific): お聞こえになる
 ない形: 聞こえない
 なかった形: 聞こえなかった
-あれる形 (passive): 聞こえられる
+あれる形 (passive/honorific): 聞こえられる
 使役形 (make/let): 聞こえさせる
-尊敬語 (honorific): 聞こえられる
 ば形 (if): 聞こえれば
 可能形 (can): 聞こえられる
 おう形 (let's): 聞こえよう
@@ -535,9 +530,8 @@ to turn #card
 お〜になる (honorific): お曲がりになる
 ない形: 曲がらない
 なかった形: 曲がらなかった
-あれる形 (passive): 曲がられる
+あれる形 (passive/honorific): 曲がられる
 使役形 (make/let): 曲がらせる
-尊敬語 (honorific): 曲がられる
 ば形 (if): 曲がれば
 可能形 (can): 曲がれる
 おう形 (let's): 曲がろう
@@ -558,9 +552,8 @@ to be broken #card
 お〜になる (honorific): お壊れになる
 ない形: 壊れない
 なかった形: 壊れなかった
-あれる形 (passive): 壊れられる
+あれる形 (passive/honorific): 壊れられる
 使役形 (make/let): 壊れさせる
-尊敬語 (honorific): 壊れられる
 ば形 (if): 壊れれば
 可能形 (can): 壊れられる
 おう形 (let's): 壊れよう

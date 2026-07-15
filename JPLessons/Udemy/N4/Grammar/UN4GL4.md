@@ -550,9 +550,8 @@ to be salable (intransitive) #card
 お〜になる (honorific): お売れになる
 ない形: 売れない
 なかった形: 売れなかった
-あれる形 (passive): 売れられる
+あれる形 (passive/honorific): 売れられる
 使役形 (make/let): 売れさせる
-尊敬語 (honorific): 売れられる
 ば形 (if): 売れれば
 可能形 (can): 売れられる
 おう形 (let's): 売れよう
@@ -571,9 +570,8 @@ to break / to crack / to split #card
 お〜になる (honorific): お割れになる
 ない形: 割れない
 なかった形: 割れなかった
-あれる形 (passive): 割れられる
+あれる形 (passive/honorific): 割れられる
 使役形 (make/let): 割れさせる
-尊敬語 (honorific): 割れられる
 ば形 (if): 割れれば
 可能形 (can): 割れられる
 おう形 (let's): 割れよう
@@ -601,9 +599,8 @@ to cause + particle #k #card
 お〜になる (honorific): お起こしになる
 ない形: 起こさない
 なかった形: 起こさなかった
-あれる形 (passive): 起こされる
+あれる形 (passive/honorific): 起こされる
 使役形 (make/let): 起こさせる
-尊敬語 (honorific): 起こされる
 ば形 (if): 起こせば
 可能形 (can): 起こせる
 おう形 (let's): 起こそう
@@ -623,9 +620,8 @@ to encounter a traumatic accident #card
 お〜になる (honorific): お遭いになる
 ない形: 遭わない
 なかった形: 遭わなかった
-あれる形 (passive): 遭われる
+あれる形 (passive/honorific): 遭われる
 使役形 (make/let): 遭わせる
-尊敬語 (honorific): 遭われる
 ば形 (if): 遭えば
 可能形 (can): 遭える
 おう形 (let's): 遭おう
@@ -735,9 +731,8 @@ to heal / to cure #card
 お〜になる (honorific): お治しになる
 ない形: 治さない
 なかった形: 治さなかった
-あれる形 (passive): 治される
+あれる形 (passive/honorific): 治される
 使役形 (make/let): 治させる
-尊敬語 (honorific): 治される
 ば形 (if): 治せば
 可能形 (can): 治せる
 おう形 (let's): 治そう
@@ -766,9 +761,8 @@ to repair / to mend / to correct (restore something damaged to a good condition)
 お〜になる (honorific): お直しになる
 ない形: 直さない
 なかった形: 直さなかった
-あれる形 (passive): 直される
+あれる形 (passive/honorific): 直される
 使役形 (make/let): 直させる
-尊敬語 (honorific): 直される
 ば形 (if): 直せば
 可能形 (can): 直せる
 おう形 (let's): 直そう
@@ -889,9 +883,8 @@ to move / to shake #k #card
 お〜になる (honorific): お動きになる
 ない形: 動かない
 なかった形: 動かなかった
-あれる形 (passive): 動かれる
+あれる形 (passive/honorific): 動かれる
 使役形 (make/let): 動かせる
-尊敬語 (honorific): 動かれる
 ば形 (if): 動けば
 可能形 (can): 動ける
 おう形 (let's): 動こう
@@ -911,9 +904,8 @@ to stop #card
 お〜になる (honorific): お止めになる
 ない形: 止めない
 なかった形: 止めなかった
-あれる形 (passive): 止められる
+あれる形 (passive/honorific): 止められる
 使役形 (make/let): 止めさせる
-尊敬語 (honorific): 止められる
 ば形 (if): 止めれば
 可能形 (can): 止められる
 おう形 (let's): 止めよう
@@ -1026,9 +1018,8 @@ to be glad / to be pleased #card
 お〜になる (honorific): お喜びになる
 ない形: 喜ばない
 なかった形: 喜ばなかった
-あれる形 (passive): 喜ばれる
+あれる形 (passive/honorific): 喜ばれる
 使役形 (make/let): 喜ばせる
-尊敬語 (honorific): 喜ばれる
 ば形 (if): 喜べば
 可能形 (can): 喜べる
 おう形 (let's): 喜ぼう
@@ -1070,9 +1061,8 @@ to go down / to fall #k #card
 お〜になる (honorific): お下がりになる
 ない形: 下がらない
 なかった形: 下がらなかった
-あれる形 (passive): 下がられる
+あれる形 (passive/honorific): 下がられる
 使役形 (make/let): 下がらせる
-尊敬語 (honorific): 下がられる
 ば形 (if): 下がれば
 可能形 (can): 下がれる
 おう形 (let's): 下がろう
@@ -1099,9 +1089,8 @@ to be thirsty (verb) #card
 お〜になる (honorific): お渇きになる
 ない形: 渇かない
 なかった形: 渇かなかった
-あれる形 (passive): 渇かれる
+あれる形 (passive/honorific): 渇かれる
 使役形 (make/let): 渇かせる
-尊敬語 (honorific): 渇かれる
 ば形 (if): 渇けば
 可能形 (can): 渇ける
 おう形 (let's): 渇こう
@@ -1129,9 +1118,8 @@ to be hungry / to become empty #k #card
 お〜になる (honorific): お空きになる
 ない形: 空かない
 なかった形: 空かなかった
-あれる形 (passive): 空かれる
+あれる形 (passive/honorific): 空かれる
 使役形 (make/let): 空かせる
-尊敬語 (honorific): 空かれる
 ば形 (if): 空けば
 可能形 (can): 空ける
 おう形 (let's): 空こう
@@ -1223,9 +1211,8 @@ to get lost(particle) / to hesitate #card
 お〜になる (honorific): お迷いになる
 ない形: 迷わない
 なかった形: 迷わなかった
-あれる形 (passive): 迷われる
+あれる形 (passive/honorific): 迷われる
 使役形 (make/let): 迷わせる
-尊敬語 (honorific): 迷われる
 ば形 (if): 迷えば
 可能形 (can): 迷える
 おう形 (let's): 迷おう
@@ -1340,9 +1327,8 @@ to stay the night #card
 お〜になる (honorific): お泊まりになる
 ない形: 泊まらない
 なかった形: 泊まらなかった
-あれる形 (passive): 泊まられる
+あれる形 (passive/honorific): 泊まられる
 使役形 (make/let): 泊まらせる
-尊敬語 (honorific): 泊まられる
 ば形 (if): 泊まれば
 可能形 (can): 泊まれる
 おう形 (let's): 泊まろう
@@ -1376,9 +1362,8 @@ to receive (catch something coming towards the subject) / to take (a class, etc.
 お〜になる (honorific): お受けになる
 ない形: 受けない
 なかった形: 受けなかった
-あれる形 (passive): 受けられる
+あれる形 (passive/honorific): 受けられる
 使役形 (make/let): 受けさせる
-尊敬語 (honorific): 受けられる
 ば形 (if): 受ければ
 可能形 (can): 受けられる
 おう形 (let's): 受けよう
@@ -1433,9 +1418,8 @@ to be salable #k #card
 お〜になる (honorific): お売れになる
 ない形: 売れない
 なかった形: 売れなかった
-あれる形 (passive): 売れられる
+あれる形 (passive/honorific): 売れられる
 使役形 (make/let): 売れさせる
-尊敬語 (honorific): 売れられる
 ば形 (if): 売れれば
 可能形 (can): 売れられる
 おう形 (let's): 売れよう

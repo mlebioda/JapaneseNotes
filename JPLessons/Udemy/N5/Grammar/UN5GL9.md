@@ -1984,9 +1984,8 @@ payment (often in restaurant)/ to pay #k #wc #card
 お〜になる (honorific): お会計しになる
 ない形: 会計しない
 なかった形: 会計しなかった
-あれる形 (passive):  会計される
+あれる形 (passive/honorific):  会計される
 使役形 (make/let): 会計させる
-尊敬語 (honorific): 会計される
 ば形 (if): 会計すれば
 可能形 (can): 会計できる
 おう形 (let's): 会計しよう
@@ -2008,9 +2007,8 @@ life / to live （prowadzic zycie, miec styl zycia) #k #card
 お〜になる (honorific): お生活しになる
 ない形: 生活しない
 なかった形: 生活しなかった
-あれる形 (passive):  生活される
+あれる形 (passive/honorific):  生活される
 使役形 (make/let): 生活させる
-尊敬語 (honorific): 生活される
 ば形 (if): 生活すれば
 可能形 (can): 生活できる
 おう形 (let's): 生活しよう
@@ -2032,9 +2030,8 @@ to get up #wc #card
 お〜になる (honorific): お起きになる
 ない形: 起きない
 なかった形: 起きなかった
-あれる形 (passive):  起きられる
+あれる形 (passive/honorific):  起きられる
 使役形 (make/let): 起きさせる
-尊敬語 (honorific): 起きられる
 ば形 (if): 起きれば
 可能形 (can): 起きられる
 おう形 (let's): 起きよう

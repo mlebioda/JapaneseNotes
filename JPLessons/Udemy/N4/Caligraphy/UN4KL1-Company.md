@@ -391,9 +391,8 @@ to start (I start something) #k #card
 お〜になる (honorific): お始めになる
 ない形: 始めない
 なかった形: 始めなかった
-あれる形 (passive): 始められる
+あれる形 (passive/honorific): 始められる
 使役形 (make/let): 始めさせる
-尊敬語 (honorific): 始められる
 ば形 (if): 始めれば
 可能形 (can): 始められる
 おう形 (let's): 始めよう
@@ -420,9 +419,8 @@ begin (starts on its own) #k #card
 お〜になる (honorific): お始まりになる
 ない形: 始まらない
 なかった形: 始まらなかった
-あれる形 (passive): 始まられる
+あれる形 (passive/honorific): 始まられる
 使役形 (make/let): 始まらせる
-尊敬語 (honorific): 始まられる
 ば形 (if): 始まれば
 可能形 (can): 始まれる
 おう形 (let's): 始まろう
@@ -481,9 +479,8 @@ end (on its own) #k #card
 お〜になる (honorific): お終わりになる
 ない形: 終わらない
 なかった形: 終わらなかった
-あれる形 (passive): 終わられる
+あれる形 (passive/honorific): 終わられる
 使役形 (make/let): 終わらせる
-尊敬語 (honorific): 終わられる
 ば形 (if): 終われば
 可能形 (can): 終われる
 おう形 (let's): 終わろう
@@ -510,9 +507,8 @@ finish (someone actively finishes smth) #k #card
 お〜になる (honorific): お終えになる
 ない形: 終えない
 なかった形: 終えなかった
-あれる形 (passive): 終えられる
+あれる形 (passive/honorific): 終えられる
 使役形 (make/let): 終えさせる
-尊敬語 (honorific): 終えられる
 ば形 (if): 終えれば
 可能形 (can): 終えられる
 おう形 (let's): 終えよう
@@ -570,9 +566,8 @@ build #k #card
 お〜になる (honorific): お建てになる
 ない形: 建てない
 なかった形: 建てなかった
-あれる形 (passive): 建てられる
+あれる形 (passive/honorific): 建てられる
 使役形 (make/let): 建てさせる
-尊敬語 (honorific): 建てられる
 ば形 (if): 建てれば
 可能形 (can): 建てられる
 おう形 (let's): 建てよう

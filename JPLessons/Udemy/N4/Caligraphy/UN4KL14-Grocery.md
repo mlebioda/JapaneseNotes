@@ -950,9 +950,8 @@ rice + woman + whip
 お〜になる (honorific): お折れになる
 ない形: 折れない
 なかった形: 折れなかった
-あれる形 (passive): 折れられる
+あれる形 (passive/honorific): 折れられる
 使役形 (make/let): 折れさせる
-尊敬語 (honorific): 折れられる
 ば形 (if): 折れれば
 可能形 (can): 折れられる
 おう形 (let's): 折れよう
@@ -971,9 +970,8 @@ leave #card
 お〜になる (honorific): お去りになる
 ない形: 去らない
 なかった形: 去らなかった
-あれる形 (passive): 去られる
+あれる形 (passive/honorific): 去られる
 使役形 (make/let): 去らせる
-尊敬語 (honorific): 去られる
 ば形 (if): 去れば
 可能形 (can): 去れる
 おう形 (let's): 去ろう
@@ -992,9 +990,8 @@ be enogh, sufficient, wystarczać #card
 お〜になる (honorific): お足りになる
 ない形: 足りない
 なかった形: 足りなかった
-あれる形 (passive): 足りられる
+あれる形 (passive/honorific): 足りられる
 使役形 (make/let): 足りさせる
-尊敬語 (honorific): 足りられる
 ば形 (if): 足りれば
 可能形 (can): 足りられる
 おう形 (let's): 足りよう
@@ -1013,9 +1010,8 @@ count #card
 お〜になる (honorific): お数えになる
 ない形: 数えない
 なかった形: 数えなかった
-あれる形 (passive): 数えられる
+あれる形 (passive/honorific): 数えられる
 使役形 (make/let): 数えさせる
-尊敬語 (honorific): 数えられる
 ば形 (if): 数えれば
 可能形 (can): 数えられる
 おう形 (let's): 数えよう

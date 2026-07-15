@@ -435,9 +435,8 @@ płonąć samo #wc #card
 お〜になる (honorific): お燃えになる
 ない形: もえない
 なかった形: もえなかった
-あれる形 (passive): もえられる
+あれる形 (passive/honorific): もえられる
 使役形 (make/let): もえさせる
-尊敬語 (honorific): もえられる
 ば形 (if): もえれば
 可能形 (can): もえられる
 おう形 (let's): もえよう
@@ -456,9 +455,8 @@ spalać coś (ktoś) #wc #card
 お〜になる (honorific): お燃やしになる
 ない形: もやさない
 なかった形: もやさなかった
-あれる形 (passive): もやされる
+あれる形 (passive/honorific): もやされる
 使役形 (make/let): もやさせる
-尊敬語 (honorific): もやされる
 ば形 (if): もやせば
 可能形 (can): もやせる
 おう形 (let's): もやそう
@@ -477,9 +475,8 @@ zgasnąć, zniknąć, wyłączyć się (samo) #wc #card
 お〜になる (honorific): お消えになる
 ない形: きえない
 なかった形: きえなかった
-あれる形 (passive): きえられる
+あれる形 (passive/honorific): きえられる
 使役形 (make/let): きえさせる
-尊敬語 (honorific): きえられる
 ば形 (if): きえれば
 可能形 (can): きえられる
 おう形 (let's): きえよう
@@ -498,9 +495,8 @@ zgasić, wyłączyć (ktoś) #wc #card
 お〜になる (honorific): お消しになる
 ない形: けさない
 なかった形: けさなかった
-あれる形 (passive): けされる
+あれる形 (passive/honorific): けされる
 使役形 (make/let): けさせる
-尊敬語 (honorific): けされる
 ば形 (if): けせば
 可能形 (can): けせる
 おう形 (let's): けそう
@@ -519,9 +515,8 @@ to be born #k #wc #card
 お〜になる (honorific): お生まれになる
 ない形: うまれない
 なかった形: うまれなかった
-あれる形 (passive): うまれられる
+あれる形 (passive/honorific): うまれられる
 使役形 (make/let): うまれさせる
-尊敬語 (honorific): うまれられる
 ば形 (if): うまれれば
 可能形 (can): うまれられる
 おう形 (let's): うまれよう
@@ -540,9 +535,8 @@ to live #k #wc #card
 お〜になる (honorific): お生きになる
 ない形: いきない
 なかった形: いきなかった
-あれる形 (passive): いきられる
+あれる形 (passive/honorific): いきられる
 使役形 (make/let): いきさせる
-尊敬語 (honorific): いきられる
 ば形 (if): いきれば
 可能形 (can): いきられる
 おう形 (let's): いきよう
@@ -561,9 +555,8 @@ to learn (akademicki ton, np. kierunki studiów) #k #wc #card
 お〜になる (honorific): お学びになる
 ない形: まなばない
 なかった形: まなばなかった
-あれる形 (passive): まなばれる
+あれる形 (passive/honorific): まなばれる
 使役形 (make/let): まなばせる
-尊敬語 (honorific): まなばれる
 ば形 (if): まなべば
 可能形 (can): まなべる
 おう形 (let's): まなぼう

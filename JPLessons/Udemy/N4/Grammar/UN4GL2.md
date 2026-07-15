@@ -337,9 +337,8 @@ to put in order / tidy something up #card
 お〜になる (honorific): お片付けになる
 ない形: 片付けない
 なかった形: 片付けなかった
-あれる形 (passive): 片付けられる
+あれる形 (passive/honorific): 片付けられる
 使役形 (make/let): 片付けさせる
-尊敬語 (honorific): 片付けられる
 ば形 (if): 片付ければ
 可能形 (can): 片付けられる
 おう形 (let's): 片付けよう
@@ -360,9 +359,8 @@ to be put in order #card
 お〜になる (honorific): お片付きになる
 ない形: 片付かない
 なかった形: 片付かなかった
-あれる形 (passive): 片付かれる
+あれる形 (passive/honorific): 片付かれる
 使役形 (make/let): 片付かせる
-尊敬語 (honorific): 片付かれる
 ば形 (if): 片付けば
 可能形 (can): 片付ける
 おう形 (let's): 片付こう
@@ -383,9 +381,8 @@ to burn #card
 お〜になる (honorific): お燃えになる
 ない形: 燃えない
 なかった形: 燃えなかった
-あれる形 (passive): 燃えられる
+あれる形 (passive/honorific): 燃えられる
 使役形 (make/let): 燃えさせる
-尊敬語 (honorific): 燃えられる
 ば形 (if): 燃えれば
 可能形 (can): 燃えられる
 おう形 (let's): 燃えよう
@@ -405,9 +402,8 @@ to throw away #card
 お〜になる (honorific): お捨てになる
 ない形: 捨てない
 なかった形: 捨てなかった
-あれる形 (passive): 捨てられる
+あれる形 (passive/honorific): 捨てられる
 使役形 (make/let): 捨てさせる
-尊敬語 (honorific): 捨てられる
 ば形 (if): 捨てれば
 可能形 (can): 捨てられる
 おう形 (let's): 捨てよう
@@ -427,9 +423,8 @@ to put into #k #card
 お〜になる (honorific): お入れになる
 ない形: 入れない
 なかった形: 入れなかった
-あれる形 (passive): 入れられる
+あれる形 (passive/honorific): 入れられる
 使役形 (make/let): 入れさせる
-尊敬語 (honorific): 入れられる
 ば形 (if): 入れれば
 可能形 (can): 入れられる
 おう形 (let's): 入れよう
@@ -449,9 +444,8 @@ to propose / to apply for #card
 お〜になる (honorific): お申し込みになる
 ない形: 申し込まない
 なかった形: 申し込まなかった
-あれる形 (passive): 申し込まれる
+あれる形 (passive/honorific): 申し込まれる
 使役形 (make/let): 申し込ませる
-尊敬語 (honorific): 申し込まれる
 ば形 (if): 申し込めば
 可能形 (can): 申し込める
 おう形 (let's): 申し込もう
@@ -472,9 +466,8 @@ to be different from / to be wrong #card
 お〜になる (honorific): お違いになる
 ない形: 違わない
 なかった形: 違わなかった
-あれる形 (passive): 違われる
+あれる形 (passive/honorific): 違われる
 使役形 (make/let): 違わせる
-尊敬語 (honorific): 違われる
 ば形 (if): 違えば
 可能形 (can): 違える
 おう形 (let's): 違おう
@@ -494,9 +487,8 @@ to carry #k #card
 お〜になる (honorific): お運びになる
 ない形: 運ばない
 なかった形: 運ばなかった
-あれる形 (passive): 運ばれる
+あれる形 (passive/honorific): 運ばれる
 使役形 (make/let): 運ばせる
-尊敬語 (honorific): 運ばれる
 ば形 (if): 運べば
 可能形 (can): 運べる
 おう形 (let's): 運ぼう
@@ -516,9 +508,8 @@ to move (to a new location) #card
 お〜になる (honorific): お引っ越しになる
 ない形: 引っ越さない
 なかった形: 引っ越さなかった
-あれる形 (passive): 引っ越される
+あれる形 (passive/honorific): 引っ越される
 使役形 (make/let): 引っ越させる
-尊敬語 (honorific): 引っ越される
 ば形 (if): 引っ越せば
 可能形 (can): 引っ越せる
 おう形 (let's): 引っ越そう
@@ -539,9 +530,8 @@ to give something or do something for the speaker #card
 お〜になる (honorific): おくれになる
 ない形: くれない
 なかった形: くれなかった
-あれる形 (passive): くれられる
+あれる形 (passive/honorific): くれられる
 使役形 (make/let): くれさせる
-尊敬語 (honorific): くれられる
 ば形 (if): くれれば
 可能形 (can): くれられる
 おう形 (let's): くれよう
@@ -560,9 +550,8 @@ to help #k #card
 お〜になる (honorific): お手伝いになる
 ない形: 手伝わない
 なかった形: 手伝わなかった
-あれる形 (passive): 手伝われる
+あれる形 (passive/honorific): 手伝われる
 使役形 (make/let): 手伝わせる
-尊敬語 (honorific): 手伝われる
 ば形 (if): 手伝えば
 可能形 (can): 手伝える
 おう形 (let's): 手伝おう

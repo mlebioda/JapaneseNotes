@@ -222,9 +222,8 @@ to strive / to make an effort (rzadkie, literackie) #k #card
 お〜になる (honorific): お勉めになる
 ない形: 勉めない
 なかった形: 勉めなかった
-あれる形 (passive): 勉められる
+あれる形 (passive/honorific): 勉められる
 使役形 (make/let): 勉めさせる
-尊敬語 (honorific): 勉められる
 ば形 (if): 勉めれば
 可能形 (can): 勉められる
 おう形 (let's): 勉めよう
@@ -292,9 +291,8 @@ bluff, udawać twardego #k #card
 お〜になる (honorific): お強がりになる
 ない形: 強がらない
 なかった形: 強がらなかった
-あれる形 (passive): 強がられる
+あれる形 (passive/honorific): 強がられる
 使役形 (make/let): 強がらせる
-尊敬語 (honorific): 強がられる
 ば形 (if): 強がれば
 可能形 (can): 強がれる
 おう形 (let's): 強がろう
@@ -320,9 +318,8 @@ teach #k #card
 お〜になる (honorific): お教えになる
 ない形: 教えない
 なかった形: 教えなかった
-あれる形 (passive): 教えられる
+あれる形 (passive/honorific): 教えられる
 使役形 (make/let): 教えさせる
-尊敬語 (honorific): 教えられる
 ば形 (if): 教えれば
 可能形 (can): 教えられる
 おう形 (let's): 教えよう
@@ -380,9 +377,8 @@ receive #card
 お〜になる (honorific): お受けになる
 ない形: 受けない
 なかった形: 受けなかった
-あれる形 (passive): 受けられる
+あれる形 (passive/honorific): 受けられる
 使役形 (make/let): 受けさせる
-尊敬語 (honorific): 受けられる
 ば形 (if): 受ければ
 可能形 (can): 受けられる
 おう形 (let's): 受けよう
@@ -401,9 +397,8 @@ raise, wznosić, wychowywać #k #card
 お〜になる (honorific): お育てになる
 ない形: 育てない
 なかった形: 育てなかった
-あれる形 (passive): 育てられる
+あれる形 (passive/honorific): 育てられる
 使役形 (make/let): 育てさせる
-尊敬語 (honorific): 育てられる
 ば形 (if): 育てれば
 可能形 (can): 育てられる
 おう形 (let's): 育てよう
@@ -448,9 +443,8 @@ grow, dorastanie #k #card
 お〜になる (honorific): お育ちになる
 ない形: 育たない
 なかった形: 育たなかった
-あれる形 (passive): 育たれる
+あれる形 (passive/honorific): 育たれる
 使役形 (make/let): 育たせる
-尊敬語 (honorific): 育たれる
 ば形 (if): 育てば
 可能形 (can): 育てる
 おう形 (let's): 育とう
@@ -550,9 +544,8 @@ to test, attempting (more formal or attempting something new) #k #card
 お〜になる (honorific): お試みになる
 ない形: 試みない
 なかった形: 試みなかった
-あれる形 (passive): 試みられる
+あれる形 (passive/honorific): 試みられる
 使役形 (make/let): 試みさせる
-尊敬語 (honorific): 試みられる
 ば形 (if): 試みれば
 可能形 (can): 試みられる
 おう形 (let's): 試みよう
@@ -577,9 +570,8 @@ to test (everyday situations) #k #card
 お〜になる (honorific): お試しになる
 ない形: 試さない
 なかった形: 試さなかった
-あれる形 (passive): 試される
+あれる形 (passive/honorific): 試される
 使役形 (make/let): 試させる
-尊敬語 (honorific): 試される
 ば形 (if): 試せば
 可能形 (can): 試せる
 おう形 (let's): 試そう
@@ -652,9 +644,8 @@ inquire(pytać) #k #card
 お〜になる (honorific): お質しになる
 ない形: 質さない
 なかった形: 質さなかった
-あれる形 (passive): 質される
+あれる形 (passive/honorific): 質される
 使役形 (make/let): 質させる
-尊敬語 (honorific): 質される
 ば形 (if): 質せば
 可能形 (can): 質せる
 おう形 (let's): 質そう
@@ -704,9 +695,8 @@ ask, zapytać (Often used in writing, legal language, or philosophical discussio
 お〜になる (honorific): お問いになる
 ない形: 問わない
 なかった形: 問わなかった
-あれる形 (passive): 問われる
+あれる形 (passive/honorific): 問われる
 使役形 (make/let): 問わせる
-尊敬語 (honorific): 問われる
 ば形 (if): 問えば
 可能形 (can): 問える
 おう形 (let's): 問おう
@@ -730,9 +720,8 @@ to answer #k #card
 お〜になる (honorific): お答えになる
 ない形: 答えない
 なかった形: 答えなかった
-あれる形 (passive): 答えられる
+あれる形 (passive/honorific): 答えられる
 使役形 (make/let): 答えさせる
-尊敬語 (honorific): 答えられる
 ば形 (if): 答えれば
 可能形 (can): 答えられる
 おう形 (let's): 答えよう
@@ -783,9 +772,8 @@ to learn through practice #k #card
 お〜になる (honorific): お習いになる
 ない形: 習わない
 なかった形: 習わなかった
-あれる形 (passive): 習われる
+あれる形 (passive/honorific): 習われる
 使役形 (make/let): 習わせる
-尊敬語 (honorific): 習われる
 ば形 (if): 習えば
 可能形 (can): 習える
 おう形 (let's): 習おう

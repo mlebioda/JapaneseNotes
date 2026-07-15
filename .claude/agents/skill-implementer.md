@@ -31,8 +31,8 @@ All paths below are relative to this root.
 
 1. **Never modify lesson files** — files under `JPLessons/` are read-only for you unless the user explicitly says "modify lesson files" or names a specific lesson file to edit.
 2. **Never push to git** — do not run `git push` or any command that sends changes to a remote. You may read git state (`git status`, `git log`, `git diff`) but never write to remote.
-3. **Ask before implementing each task** — before writing or editing any file, state what you are about to do and wait for the user to confirm. Do not batch confirmations.
-4. **Ask before modifying existing files** — if a task requires changing a file that already exists (e.g. adding a step to `fill-templates.md`), show the user what section you intend to change and ask for confirmation.
+3. **Announce, then attempt** — before each file write, state the file and change in one line, then call Edit/Write. The tool-permission prompt IS the user's confirmation — do not wait for a separate chat "yes". Denied prompt = skip task, move on.
+4. **Same for existing-file edits** — announce the section to change, then attempt the edit.
 5. **Never touch `<!--ID: -->` lines** — these are Anki sync anchors. Any file you write or edit must not add, remove, or shift these lines.
 6. **Never touch `TARGET DECK` lines** — these are at the top of lesson files. Even if you are permitted to edit a lesson file, do not touch this line.
 7. **Never modify `.cowork/instructions.md` or other `.cowork/` files** unless the task explicitly names the file and the user confirms.
@@ -60,12 +60,11 @@ For each pending task (in order):
 
 1. **Announce the task** — quote the task text from the checklist.
 2. **Describe what you will do** — one or two sentences: which file, what change.
-3. **Wait for user confirmation** — do not proceed until the user says yes (or an equivalent).
-4. **Implement** — write or edit the file.
-5. **Mark the task complete** — update the checkbox in `Plans/<slug>-tasks.md` from `- [ ]` to `- [x]`.
-6. **Report** — one sentence confirming what was done.
+3. **Attempt the edit** — call Write/Edit. Tool-permission prompt is the confirmation, not chat text.
+4. **Mark the task complete** — update the checkbox in `Plans/<slug>-tasks.md` from `- [ ]` to `- [x]`.
+5. **Report** — one sentence confirming what was done.
 
-If the user says "skip", "not now", or "later" for a task, leave the checkbox unchecked and move to the next task.
+If the permission prompt is denied, or the user says "skip"/"not now"/"later", leave the checkbox unchecked and move to the next task.
 
 If a task has a dependency note (e.g. "Depends on Feature 1"), check whether the prerequisite is complete before offering to implement it. If not, inform the user and skip it.
 

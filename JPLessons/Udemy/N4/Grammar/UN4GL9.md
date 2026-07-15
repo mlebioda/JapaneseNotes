@@ -456,10 +456,9 @@ to long for / to admire / to yearn for (intransitive) #card
 なかった形: 憧れなかった
 ば形 (if): 憧れれば
 可能形 (can): 憧れられる
-あれる形 (passive): 憧れられる
+あれる形 (passive/honorific): 憧れられる
 使役形 (make/let): 憧れさせる
 出す形 (start): 憧れ出す
-尊敬語 (honorific): 憧れられる
 お〜になる (honorific): お憧れになる
 そう (looks): 憧れそう
 おう形 (let's): 憧れよう
@@ -483,10 +482,9 @@ to replace / to swap (transitive) #card
 なかった形: 替えなかった
 ば形 (if): 替えれば
 可能形 (can): 替えられる
-あれる形 (passive): 替えられる
+あれる形 (passive/honorific): 替えられる
 使役形 (make/let): 替えさせる
 出す形 (start): 替え出す
-尊敬語 (honorific): 替えられる
 お〜になる (honorific): お替えになる
 そう (looks): 替えそう
 おう形 (let's): 替えよう
@@ -548,10 +546,9 @@ to be surprised #card
 なかった形: 驚かなかった
 ば形 (if): 驚けば
 可能形 (can): 驚ける
-あれる形 (passive): 驚かれる
+あれる形 (passive/honorific): 驚かれる
 使役形 (make/let): 驚かせる
 出す形 (start): 驚き出す
-尊敬語 (honorific): 驚かれる
 お〜になる (honorific): お驚きになる
 そう (looks): 驚きそう
 おう形 (let's): 驚こう
@@ -596,10 +593,9 @@ to give up #card
 なかった形: あきらめなかった
 ば形 (if): あきらめれば
 可能形 (can): あきらめられる
-あれる形 (passive): あきらめられる
+あれる形 (passive/honorific): あきらめられる
 使役形 (make/let): あきらめさせる
 出す形 (start): あきらめ出す
-尊敬語 (honorific): あきらめられる
 お〜になる (honorific): おあきらめになる
 そう (looks): あきらめそう
 おう形 (let's): あきらめよう
@@ -629,10 +625,9 @@ to drop / to lose (transitive) Used when someone accidentally drops or loses som
 なかった形: 落とさなかった
 ば形 (if): 落とせば
 可能形 (can): 落とせる
-あれる形 (passive): 落とされる
+あれる形 (passive/honorific): 落とされる
 使役形 (make/let): 落とさせる
 出す形 (start): 落とし出す
-尊敬語 (honorific): 落とされる
 お〜になる (honorific): お落としになる
 そう (looks): 落としそう
 おう形 (let's): 落とそう
@@ -707,10 +702,9 @@ to stop (doing) (intransitive) #card
 なかった形: 止まなかった
 ば形 (if): 止めば
 可能形 (can): 止める
-あれる形 (passive): 止まれる
+あれる形 (passive/honorific): 止まれる
 使役形 (make/let): 止ませる
 出す形 (start): 止み出す
-尊敬語 (honorific): 止まれる
 お〜になる (honorific): お止みになる
 そう (looks): 止みそう
 おう形 (let's): 止もう
@@ -735,10 +729,9 @@ to stop (doing) (transitive) #card
 なかった形: 止めなかった
 ば形 (if): 止めれば
 可能形 (can): 止められる
-あれる形 (passive): 止められる
+あれる形 (passive/honorific): 止められる
 使役形 (make/let): 止めさせる
 出す形 (start): 止め出す
-尊敬語 (honorific): 止められる
 お〜になる (honorific): お止めになる
 そう (looks): 止めそう
 おう形 (let's): 止めよう
@@ -786,10 +779,9 @@ to resign (work or position) #card
 なかった形: 辞めなかった
 ば形 (if): 辞めれば
 可能形 (can): 辞められる
-あれる形 (passive): 辞められる
+あれる形 (passive/honorific): 辞められる
 使役形 (make/let): 辞めさせる
 出す形 (start): 辞め出す
-尊敬語 (honorific): 辞められる
 お〜になる (honorific): お辞めになる
 そう (looks): 辞めそう
 おう形 (let's): 辞めよう
@@ -839,10 +831,9 @@ to go away from #card
 なかった形: 離れなかった
 ば形 (if): 離れれば
 可能形 (can): 離れられる
-あれる形 (passive): 離れられる
+あれる形 (passive/honorific): 離れられる
 使役形 (make/let): 離れさせる
 出す形 (start): 離れ出す
-尊敬語 (honorific): 離れられる
 お〜になる (honorific): お離れになる
 そう (looks): 離れそう
 おう形 (let's): 離れよう
@@ -860,10 +851,9 @@ to gather, to be complete / all present (intransitive) #card
 なかった形: 揃わなかった
 ば形 (if): 揃えば
 可能形 (can): 揃える
-あれる形 (passive): 揃われる
+あれる形 (passive/honorific): 揃われる
 使役形 (make/let): 揃わせる
 出す形 (start): 揃い出す
-尊敬語 (honorific): 揃われる
 お〜になる (honorific): お揃いになる
 そう (looks): 揃いそう
 おう形 (let's): 揃おう
@@ -914,10 +904,9 @@ to distribute #card
 なかった形: 配らなかった
 ば形 (if): 配れば
 可能形 (can): 配れる
-あれる形 (passive): 配られる
+あれる形 (passive/honorific): 配られる
 使役形 (make/let): 配らせる
 出す形 (start): 配り出す
-尊敬語 (honorific): 配られる
 お〜になる (honorific): お配りになる
 そう (looks): 配りそう
 おう形 (let's): 配ろう
@@ -955,10 +944,9 @@ to change (clothes) #k #card
 なかった形: 着替えなかった
 ば形 (if): 着替えれば
 可能形 (can): 着替えられる
-あれる形 (passive): 着替えられる
+あれる形 (passive/honorific): 着替えられる
 使役形 (make/let): 着替えさせる
 出す形 (start): 着替え出す
-尊敬語 (honorific): 着替えられる
 お〜になる (honorific): お着替えになる
 そう (looks): 着替えそう
 おう形 (let's): 着替えよう
@@ -1226,10 +1214,9 @@ to be useful #k #card
 なかった形: 役に立たなかった
 ば形 (if): 役に立てば
 可能形 (can): 役に立てる
-あれる形 (passive): 役に立たれる
+あれる形 (passive/honorific): 役に立たれる
 使役形 (make/let): 役に立たせる
 出す形 (start): 役に立ち出す
-尊敬語 (honorific): 役に立たれる
 お〜になる (honorific): お役に立ちになる
 そう (looks): 役に立ちそう
 おう形 (let's): 役に立とう
@@ -1248,10 +1235,9 @@ useful tool #k #card
 なかった形: 役に立たなかった
 ば形 (if): 役に立てば
 可能形 (can): 役に立てる
-あれる形 (passive): 役に立たれる
+あれる形 (passive/honorific): 役に立たれる
 使役形 (make/let): 役に立たせる
 出す形 (start): 役に立ち出す
-尊敬語 (honorific): 役に立たれる
 お〜になる (honorific): お役に立ちになる
 そう (looks): 役に立ちそう
 おう形 (let's): 役に立とう
@@ -1272,10 +1258,9 @@ useful person #k #card
 なかった形: 役に立たなかった
 ば形 (if): 役に立てば
 可能形 (can): 役に立てる
-あれる形 (passive): 役に立たれる
+あれる形 (passive/honorific): 役に立たれる
 使役形 (make/let): 役に立たせる
 出す形 (start): 役に立ち出す
-尊敬語 (honorific): 役に立たれる
 お〜になる (honorific): お役に立ちになる
 そう (looks): 役に立ちそう
 おう形 (let's): 役に立とう
@@ -1315,10 +1300,9 @@ to dry (transitive) #card
 なかった形: 乾かさなかった
 ば形 (if): 乾かせば
 可能形 (can): 乾かせる
-あれる形 (passive): 乾かされる
+あれる形 (passive/honorific): 乾かされる
 使役形 (make/let): 乾かさせる
 出す形 (start): 乾かし出す
-尊敬語 (honorific): 乾かされる
 お〜になる (honorific): お乾かしになる
 そう (looks): 乾かしそう
 おう形 (let's): 乾かそう
@@ -1384,10 +1368,9 @@ to rise (intransitive) #k #card
 なかった形: 上がらなかった
 ば形 (if): 上がれば
 可能形 (can): 上がれる
-あれる形 (passive): 上がられる
+あれる形 (passive/honorific): 上がられる
 使役形 (make/let): 上がらせる
 出す形 (start): 上がり出す
-尊敬語 (honorific): 上がられる
 お〜になる (honorific): お上がりになる
 そう (looks): 上がりそう
 おう形 (let's): 上がろう
@@ -1413,10 +1396,9 @@ to raise (transitive) #k #card
 なかった形: 上げなかった
 ば形 (if): 上げれば
 可能形 (can): 上げられる
-あれる形 (passive): 上げられる
+あれる形 (passive/honorific): 上げられる
 使役形 (make/let): 上げさせる
 出す形 (start): 上げ出す
-尊敬語 (honorific): 上げられる
 お〜になる (honorific): お上げになる
 そう (looks): 上げそう
 おう形 (let's): 上げよう
@@ -1442,10 +1424,9 @@ to fall (intransitive) #k #card
 なかった形: 下がらなかった
 ば形 (if): 下がれば
 可能形 (can): 下がれる
-あれる形 (passive): 下がられる
+あれる形 (passive/honorific): 下がられる
 使役形 (make/let): 下がらせる
 出す形 (start): 下がり出す
-尊敬語 (honorific): 下がられる
 お〜になる (honorific): お下がりになる
 そう (looks): 下がりそう
 おう形 (let's): 下がろう
@@ -1470,10 +1451,9 @@ to lower (transitive) #k #card
 なかった形: 下げなかった
 ば形 (if): 下げれば
 可能形 (can): 下げられる
-あれる形 (passive): 下げられる
+あれる形 (passive/honorific): 下げられる
 使役形 (make/let): 下げさせる
 出す形 (start): 下げ出す
-尊敬語 (honorific): 下げられる
 お〜になる (honorific): お下げになる
 そう (looks): 下げそう
 おう形 (let's): 下げよう
@@ -1601,10 +1581,9 @@ to welcome (transitive) (wait for someone's arrival) #card
 なかった形: 迎えなかった
 ば形 (if): 迎えれば
 可能形 (can): 迎えられる
-あれる形 (passive): 迎えられる
+あれる形 (passive/honorific): 迎えられる
 使役形 (make/let): 迎えさせる
 出す形 (start): 迎え出す
-尊敬語 (honorific): 迎えられる
 お〜になる (honorific): お迎えになる
 そう (looks): 迎えそう
 おう形 (let's): 迎えよう
@@ -1957,10 +1936,9 @@ put something on the top #card
 なかった形: かけなかった
 ば形 (if): かければ
 可能形 (can): かけられる
-あれる形 (passive): かけられる
+あれる形 (passive/honorific): かけられる
 使役形 (make/let): かけさせる
 出す形 (start): かけ出す
-尊敬語 (honorific): かけられる
 お〜になる (honorific): おかけになる
 そう (looks): かけそう
 おう形 (let's): かけよう

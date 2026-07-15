@@ -1575,9 +1575,8 @@ Structure
 お〜になる (honorific): お言えになる
 ない形: 言えない
 なかった形: 言えなかった
-あれる形 (passive):  言えられる
+あれる形 (passive/honorific):  言えられる
 使役形 (make/let): 言えさせる
-尊敬語 (honorific): 言えられる
 ば形 (if): 言えれば
 可能形 (can): 言えられる
 おう形 (let's): 言えよう
@@ -1598,9 +1597,8 @@ to take, cost (time/money) #wc #card
 お〜になる (honorific): おかかりになる
 ない形: かからない
 なかった形: かからなかった
-あれる形 (passive):  かかられる
+あれる形 (passive/honorific):  かかられる
 使役形 (make/let): かからせる
-尊敬語 (honorific): かかられる
 ば形 (if): かかれば
 可能形 (can): かかれる
 おう形 (let's): かかろう
@@ -1620,9 +1618,8 @@ to draw #wc #card
 お〜になる (honorific): お描きになる
 ない形: 描かない
 なかった形: 描かなかった
-あれる形 (passive):  描かれる
+あれる形 (passive/honorific):  描かれる
 使役形 (make/let): 描かせる
-尊敬語 (honorific): 描かれる
 ば形 (if): 描けば
 可能形 (can): 描ける
 おう形 (let's): 描こう
@@ -1643,9 +1640,8 @@ to return (things) #wc #card
 お〜になる (honorific): お返しになる
 ない形: 返さない
 なかった形: 返さなかった
-あれる形 (passive):  返される
+あれる形 (passive/honorific):  返される
 使役形 (make/let): 返させる
-尊敬語 (honorific): 返される
 ば形 (if): 返せば
 可能形 (can): 返せる
 おう形 (let's): 返そう
@@ -1666,9 +1662,8 @@ to know #wc #card
 お〜になる (honorific): お知りになる
 ない形: 知らない
 なかった形: 知らなかった
-あれる形 (passive):  知られる
+あれる形 (passive/honorific):  知られる
 使役形 (make/let): 知らせる
-尊敬語 (honorific): 知られる
 ば形 (if): 知れば
 可能形 (can): 知れる
 おう形 (let's): 知ろう
@@ -1689,9 +1684,8 @@ to give (direction: me/my direction to someone) #wc #card
 お〜になる (honorific): おあげになる
 ない形: あげない
 なかった形: あげなかった
-あれる形 (passive):  あげられる
+あれる形 (passive/honorific):  あげられる
 使役形 (make/let): あげさせる
-尊敬語 (honorific): あげられる
 ば形 (if): あげれば
 可能形 (can): あげられる
 おう形 (let's): あげよう
@@ -1711,9 +1705,8 @@ to receive #wc #card
 お〜になる (honorific): おもらいになる
 ない形: もらわない
 なかった形: もらわなかった
-あれる形 (passive):  もらわれる
+あれる形 (passive/honorific):  もらわれる
 使役形 (make/let): もらわせる
-尊敬語 (honorific): もらわれる
 ば形 (if): もらえば
 可能形 (can): もらえる
 おう形 (let's): もらおう

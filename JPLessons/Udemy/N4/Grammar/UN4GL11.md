@@ -334,7 +334,6 @@ to seek / to request / to demand #card
 なかった形: 求めなかった
 受身形 (passive): 求められる
 使役形 (make/let): 求めさせる
-尊敬語 (honorific): 求められる
 ば形 (if): 求めれば
 可能形 (can): 求められる
 おう形 (let's): 求めよう
@@ -872,9 +871,8 @@ to catch / to seize (transitive) #card
 お〜になる (honorific): お捕(つか)まえになる
 ない形: 捕(つか)まえない
 なかった形: 捕(つか)まえなかった
-あれる形 (passive): 捕(つか)まえられる
+あれる形 (passive/honorific): 捕(つか)まえられる
 使役形 (make/let): 捕(つか)まえさせる
-尊敬語 (honorific): 捕(つか)まえられる
 ば形 (if): 捕(つか)まえれば
 可能形 (can): 捕(つか)まえられる
 おう形 (let's): 捕(つか)まえよう
@@ -900,9 +898,8 @@ to move (transitive) #k #card
 お〜になる (honorific): お動(うご)かしになる
 ない形: 動(うご)かさない
 なかった形: 動(うご)かさなかった
-あれる形 (passive): 動(うご)かされる
+あれる形 (passive/honorific): 動(うご)かされる
 使役形 (make/let): 動(うご)かさせる
-尊敬語 (honorific): 動(うご)かされる
 ば形 (if): 動(うご)かせば
 可能形 (can): 動(うご)かせる
 おう形 (let's): 動(うご)かそう
@@ -921,9 +918,8 @@ to live (intransitive) #k #card
 お〜になる (honorific): お生(い)きになる
 ない形: 生(い)きない
 なかった形: 生(い)きなかった
-あれる形 (passive): 生(い)きられる
+あれる形 (passive/honorific): 生(い)きられる
 使役形 (make/let): 生(い)きさせる
-尊敬語 (honorific): 生(い)きられる
 ば形 (if): 生(い)きれば
 可能形 (can): 生(い)きられる
 おう形 (let's): 生(い)きよう
@@ -1037,9 +1033,8 @@ to trouble / to cause trouble (transitive) #card
 お〜になる (honorific): お困(こま)らせになる
 ない形: 困(こま)らせない
 なかった形: 困(こま)らせなかった
-あれる形 (passive): 困(こま)らせられる
+あれる形 (passive/honorific): 困(こま)らせられる
 使役形 (make/let): 困(こま)らせさせる
-尊敬語 (honorific): 困(こま)らせられる
 ば形 (if): 困(こま)らせれば
 可能形 (can): 困(こま)らせられる
 おう形 (let's): 困(こま)らせよう
@@ -1064,9 +1059,8 @@ to become fat (intransitive) #card
 お〜になる (honorific): お太(ふと)りになる
 ない形: 太(ふと)らない
 なかった形: 太(ふと)らなかった
-あれる形 (passive): 太(ふと)られる
+あれる形 (passive/honorific): 太(ふと)られる
 使役形 (make/let): 太(ふと)らせる
-尊敬語 (honorific): 太(ふと)られる
 ば形 (if): 太(ふと)れば
 可能形 (can): 太(ふと)れる
 おう形 (let's): 太(ふと)ろう
@@ -1085,9 +1079,8 @@ to become thin (intransitive) #card
 お〜になる (honorific): お痩（や）せになる
 ない形: 痩（や）せない
 なかった形: 痩（や）せなかった
-あれる形 (passive): 痩（や）せられる
+あれる形 (passive/honorific): 痩（や）せられる
 使役形 (make/let): 痩（や）せさせる
-尊敬語 (honorific): 痩（や）せられる
 ば形 (if): 痩（や）せれば
 可能形 (can): 痩（や）せられる
 おう形 (let's): 痩（や）せよう

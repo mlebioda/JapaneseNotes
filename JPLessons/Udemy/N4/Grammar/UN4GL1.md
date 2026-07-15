@@ -584,9 +584,8 @@ to do / to give / to run (a company), to work #card
 お〜になる (honorific): おやりになる
 ない形: やらない
 なかった形: やらなかった
-あれる形 (passive): やられる
+あれる形 (passive/honorific): やられる
 使役形 (make/let): やらせる
-尊敬語 (honorific): やられる
 ば形 (if): やれば
 可能形 (can): やれる
 おう形 (let's): やろう
@@ -604,9 +603,8 @@ to look for #card
 お〜になる (honorific): お探しになる
 ない形: 探さない
 なかった形: 探さなかった
-あれる形 (passive): 探される
+あれる形 (passive/honorific): 探される
 使役形 (make/let): 探させる
-尊敬語 (honorific): 探される
 ば形 (if): 探せば
 可能形 (can): 探せる
 おう形 (let's): 探そう
@@ -625,9 +623,8 @@ to find #k #card
 お〜になる (honorific): お見つけになる
 ない形: 見つけない
 なかった形: 見つけなかった
-あれる形 (passive): 見つけられる
+あれる形 (passive/honorific): 見つけられる
 使役形 (make/let): 見つけさせる
-尊敬語 (honorific): 見つけられる
 ば形 (if): 見つければ
 可能形 (can): 見つけられる
 おう形 (let's): 見つけよう
@@ -646,9 +643,8 @@ to be late #card
 お〜になる (honorific): お遅れになる
 ない形: 遅れない
 なかった形: 遅れなかった
-あれる形 (passive): 遅れられる
+あれる形 (passive/honorific): 遅れられる
 使役形 (make/let): 遅れさせる
-尊敬語 (honorific): 遅れられる
 ば形 (if): 遅れれば
 可能形 (can): 遅れられる
 おう形 (let's): 遅れよう
@@ -667,9 +663,8 @@ to cry #card
 お〜になる (honorific): お泣きになる
 ない形: 泣かない
 なかった形: 泣かなかった
-あれる形 (passive): 泣かれる
+あれる形 (passive/honorific): 泣かれる
 使役形 (make/let): 泣かせる
-尊敬語 (honorific): 泣かれる
 ば形 (if): 泣けば
 可能形 (can): 泣ける
 おう形 (let's): 泣こう
@@ -688,9 +683,8 @@ to search / to look up #card
 お〜になる (honorific): お調べになる
 ない形: 調べない
 なかった形: 調べなかった
-あれる形 (passive): 調べられる
+あれる形 (passive/honorific): 調べられる
 使役形 (make/let): 調べさせる
-尊敬語 (honorific): 調べられる
 ば形 (if): 調べれば
 可能形 (can): 調べられる
 おう形 (let's): 調べよう
@@ -709,9 +703,8 @@ to close / zamknąć #card
 お〜になる (honorific): お閉めになる
 ない形: 閉めない
 なかった形: 閉めなかった
-あれる形 (passive): 閉められる
+あれる形 (passive/honorific): 閉められる
 使役形 (make/let): 閉めさせる
-尊敬語 (honorific): 閉められる
 ば形 (if): 閉めれば
 可能形 (can): 閉められる
 おう形 (let's): 閉めよう
@@ -730,9 +723,8 @@ to pass / too much #card
 お〜になる (honorific): お過ぎになる
 ない形: 過ぎない
 なかった形: 過ぎなかった
-あれる形 (passive): 過ぎられる
+あれる形 (passive/honorific): 過ぎられる
 使役形 (make/let): 過ぎさせる
-尊敬語 (honorific): 過ぎられる
 ば形 (if): 過ぎれば
 可能形 (can): 過ぎられる
 おう形 (let's): 過ぎよう
@@ -751,9 +743,8 @@ to be built / completed / to be able to #k #card
 お〜になる (honorific): お出来になる
 ない形: 出来ない
 なかった形: 出来なかった
-あれる形 (passive): 出来られる
+あれる形 (passive/honorific): 出来られる
 使役形 (make/let): 出来させる
-尊敬語 (honorific): 出来られる
 ば形 (if): 出来れば
 可能形 (can): 出来られる
 おう形 (let's): 出来よう
@@ -773,9 +764,8 @@ to get wet #card
 お〜になる (honorific): お濡れになる
 ない形: 濡れない
 なかった形: 濡れなかった
-あれる形 (passive): 濡れられる
+あれる形 (passive/honorific): 濡れられる
 使役形 (make/let): 濡れさせる
-尊敬語 (honorific): 濡れられる
 ば形 (if): 濡れれば
 可能形 (can): 濡れられる
 おう形 (let's): 濡れよう
@@ -794,9 +784,8 @@ to carry / hold / take #card
 お〜になる (honorific): お取りになる
 ない形: 取らない
 なかった形: 取らなかった
-あれる形 (passive): 取られる
+あれる形 (passive/honorific): 取られる
 使役形 (make/let): 取らせる
-尊敬語 (honorific): 取られる
 ば形 (if): 取れば
 可能形 (can): 取れる
 おう形 (let's): 取ろう
@@ -815,9 +804,8 @@ to take (photo) #card
 お〜になる (honorific): お撮りになる
 ない形: 撮らない
 なかった形: 撮らなかった
-あれる形 (passive): 撮られる
+あれる形 (passive/honorific): 撮られる
 使役形 (make/let): 撮らせる
-尊敬語 (honorific): 撮られる
 ば形 (if): 撮れば
 可能形 (can): 撮れる
 おう形 (let's): 撮ろう

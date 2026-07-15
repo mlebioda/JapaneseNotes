@@ -363,7 +363,7 @@ Nominalising - Changing to nouns
 
 ### Examples
 
-#w 必ず(かなら) - must / surely / certainly
+#w 必ず(かなら) - must / surely / certainly, Based on facts, rules, or strong commitment. Almost like a promise or guarantee.
 #w 人間（にんげん）は必ず（かなら）死ぬ（し）- People are mortal (surely die) 
 
 
@@ -616,9 +616,8 @@ to enjoy #k #card
 お〜になる (honorific): お楽しみになる
 ない形: 楽しまない
 なかった形: 楽しまなかった
-あれる形 (passive): 楽しまれる
+あれる形 (passive/honorific): 楽しまれる
 使役形 (make/let): 楽しませる
-尊敬語 (honorific): 楽しまれる
 ば形 (if): 楽しめば
 可能形 (can): 楽しめる
 おう形 (let's): 楽しもう
@@ -637,9 +636,8 @@ to feel sad #card
 お〜になる (honorific): お悲しみになる
 ない形: 悲しまない
 なかった形: 悲しまなかった
-あれる形 (passive): 悲しまれる
+あれる形 (passive/honorific): 悲しまれる
 使役形 (make/let): 悲しませる
-尊敬語 (honorific): 悲しまれる
 ば形 (if): 悲しめば
 可能形 (can): 悲しめる
 おう形 (let's): 悲しもう
@@ -784,9 +782,8 @@ to reach (to arrive, about something, not a person) #card
 お〜になる (honorific): お届きになる
 ない形: 届かない
 なかった形: 届かなかった
-あれる形 (passive): 届かれる
+あれる形 (passive/honorific): 届かれる
 使役形 (make/let): 届かせる
-尊敬語 (honorific): 届かれる
 ば形 (if): 届けば
 可能形 (can): 届ける
 おう形 (let's): 届こう
@@ -805,9 +802,8 @@ to deliver #card
 お〜になる (honorific): お届けになる
 ない形: 届けない
 なかった形: 届けなかった
-あれる形 (passive): 届けられる
+あれる形 (passive/honorific): 届けられる
 使役形 (make/let): 届けさせる
-尊敬語 (honorific): 届けられる
 ば形 (if): 届ければ
 可能形 (can): 届けられる
 おう形 (let's): 届けよう
@@ -978,9 +974,8 @@ to make something dirty #card
 お〜になる (honorific): お汚しになる
 ない形: 汚さない
 なかった形: 汚さなかった
-あれる形 (passive): 汚される
+あれる形 (passive/honorific): 汚される
 使役形 (make/let): 汚させる
-尊敬語 (honorific): 汚される
 ば形 (if): 汚せば
 可能形 (can): 汚せる
 おう形 (let's): 汚そう
@@ -999,9 +994,8 @@ to get dirty #card
 お〜になる (honorific): お汚れになる
 ない形: 汚れない
 なかった形: 汚れなかった
-あれる形 (passive): 汚れられる
+あれる形 (passive/honorific): 汚れられる
 使役形 (make/let): 汚れさせる
-尊敬語 (honorific): 汚れられる
 ば形 (if): 汚れれば
 可能形 (can): 汚れられる
 おう形 (let's): 汚れよう
@@ -1020,9 +1014,8 @@ to pass through #k #card
 お〜になる (honorific): お通りになる
 ない形: 通らない
 なかった形: 通らなかった
-あれる形 (passive): 通られる
+あれる形 (passive/honorific): 通られる
 使役形 (make/let): 通らせる
-尊敬語 (honorific): 通られる
 ば形 (if): 通れば
 可能形 (can): 通れる
 おう形 (let's): 通ろう
@@ -1041,9 +1034,8 @@ to disappear / get lost / run out (intransitive) #card
 お〜になる (honorific): お無くなりになる
 ない形: 無くならない
 なかった形: 無くならなかった
-あれる形 (passive): 無くなられる
+あれる形 (passive/honorific): 無くなられる
 使役形 (make/let): 無くならせる
-尊敬語 (honorific): 無くなられる
 ば形 (if): 無くなれば
 可能形 (can): 無くなれる
 おう形 (let's): 無くなろう
@@ -1566,7 +1558,7 @@ I really want you to see #k #card
 <!--ID: 1780755321596-->
 
 
-must / surely / certainly #card
+must / surely / certainly (Based on facts, rules, or strong commitment. Almost like a promise or guarantee.) #card
 必ず(かなら)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_必.html">必</a>
 <!--ID: 1780755321597-->

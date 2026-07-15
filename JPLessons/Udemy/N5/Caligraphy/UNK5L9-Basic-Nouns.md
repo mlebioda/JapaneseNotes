@@ -431,9 +431,8 @@ to meet #k #card
 お〜になる (honorific): お会いになる
 ない形: 会わない
 なかった形: 会わなかった
-あれる形 (passive): 会われる
+あれる形 (passive/honorific): 会われる
 使役形 (make/let): 会わせる
-尊敬語 (honorific): 会われる
 ば形 (if): 会えば
 可能形 (can): 会える
 おう形 (let's): 会おう
@@ -583,9 +582,8 @@ to bloom, to blossom #card
 お〜になる (honorific): お咲きになる
 ない形: 咲かない
 なかった形: 咲かなかった
-あれる形 (passive): 咲かれる
+あれる形 (passive/honorific): 咲かれる
 使役形 (make/let): 咲かせる
-尊敬語 (honorific): 咲かれる
 ば形 (if): 咲けば
 可能形 (can): 咲ける
 おう形 (let's): 咲こう

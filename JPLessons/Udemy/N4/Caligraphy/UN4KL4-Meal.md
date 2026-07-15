@@ -531,9 +531,8 @@ get a taste of #k #card
 お〜になる (honorific): お味わいになる
 ない形: 味わわない
 なかった形: 味わわなかった
-あれる形 (passive): 味わわれる
+あれる形 (passive/honorific): 味わわれる
 使役形 (make/let): 味わわせる
-尊敬語 (honorific): 味わわれる
 ば形 (if): 味わえば
 可能形 (can): 味わえる
 おう形 (let's): 味わおう

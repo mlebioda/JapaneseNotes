@@ -1,7 +1,7 @@
 ---
 name: verb-conjugation
 description: >
-  Authoritative reference for Japanese verb type detection and all 15 conjugation
+  Authoritative reference for Japanese verb type detection and all 14 conjugation
   forms used by fill-templates and templates-update skills.
 ---
 
@@ -29,10 +29,10 @@ If still uncertain after applying the heuristic, web-search `[verb] godan ichida
 
 ## Godan (u-verbs) — conjugation table by ending kana
 
-The 15 form labels, in canonical order:
-`て形`, `た形`, `ます形`, `出す形 (start)`, `そう (looks like)`, `お〜になる (honorific)`, `ない形`, `なかった形`, `受身形 (passive)`, `使役形 (make/let)`, `尊敬語 (honorific)`, `ば形 (if)`, `可能形 (can)`, `おう形 (let's)`, `命令形 (imperative)`
+The 14 form labels, in canonical order:
+`て形`, `た形`, `ます形`, `出す形 (start)`, `そう (looks like)`, `お〜になる/special verb (honorific)`, `ない形`, `なかった形`, `あれる形 (passive/honorific)`, `使役形 (make/let)`, `ば形 (if)`, `可能形 (can)`, `おう形 (let's)`, `命令形 (imperative)`
 
-| Ending | ます stem | て形 | た形 | ない形 | なかった形 | ば形 | 可能形 | 受身形 | 使役形 | 出す形 | 意志形 | 命令形 |
+| Ending | ます stem | て形 | た形 | ない形 | なかった形 | ば形 | 可能形 | あれる形 | 使役形 | 出す形 | 意志形 | 命令形 |
 |--------|----------|------|------|--------|-----------|------|--------|---------|--------|--------|--------|--------|
 | う | い | って | った | わない | わなかった | えば | える | われる | わせる | い出す | おう | え |
 | く | き | いて | いた | かない | かなかった | けば | ける | かれる | かせる | き出す | こう | け |
@@ -45,8 +45,7 @@ The 15 form labels, in canonical order:
 | る | り | って | った | らない | らなかった | れば | れる | られる | らせる | り出す | ろう | れ |
 
 Notes for godan:
-- `尊敬語 (honorific)` = same as `受身形 (passive)` value
-- `お〜になる (honorific)` = お + ます stem + になる (e.g. お渡りになる)
+- `お〜になる/special verb (honorific)` — see ## お〜になる/special-verb derivation rules below.
 - `そう (looks like)` = ます stem + そう (e.g. 渡りそう)
 - `おう形 (let's)` = 意志形 column above
 - `使役形 (make/let)` = ない形 stem (あ/わ row) + せる
@@ -67,11 +66,10 @@ Stem = verb minus final る.
 | なかった形 | stem + なかった | 食べなかった |
 | ば形 (if) | stem + れば | 食べれば |
 | 可能形 (can) | stem + られる | 食べられる |
-| 受身形 (passive) | stem + られる | 食べられる |
+| あれる形 (passive/honorific) | stem + られる | 食べられる |
 | 使役形 (make/let) | stem + させる | 食べさせる |
 | 出す形 (start) | stem + 出す | 食べ出す |
-| 尊敬語 (honorific) | = 受身形 | 食べられる |
-| お〜になる (honorific) | お + stem + になる | お食べになる |
+| お〜になる/special verb (honorific) | お + stem + になる (tier 2 only) | お見せになる (見せる) |
 | そう (looks like) | stem + そう | 食べそう |
 | おう形 (let's) | stem + よう | 食べよう |
 | 命令形 (imperative) | stem + ろ | 食べろ |
@@ -130,11 +128,10 @@ Stem = verb minus final る.
 なかった形: 来なかった
 ば形 (if): 来れば
 可能形 (can): 来られる
-あれる形 (passive):  来られる
+あれる形 (passive/honorific):  来られる
 使役形 (make/let): 来させる（こさせる）
 出す形 (start): 来出す
-尊敬語 (honorific): 来られる
-お〜になる (honorific): お出でになる
+お〜になる/special verb (honorific): いらっしゃる
 そう (looks): 来そう
 おう形 (let's): 来よう
 命令形 (imperative): 来い（こい）
@@ -142,9 +139,55 @@ Stem = verb minus final る.
 
 ---
 
-## 尊敬語 and お〜になる derivation rules
+## お〜になる/special-verb derivation rules
 
-- `尊敬語 (honorific)` is always the same value as `受身形 (passive)` — plain form, **never add ます** (e.g. 履かれる, not 履かれます).
-- `お〜になる (honorific)` = お + ます stem + になる.  
-  Example: 渡る → ます stem り → お渡りになる.  
-  Exception: 来る → お出でになる (fixed).
+This field resolves via a three-tier priority order. It never resolves to the
+られる/passive-honorific form itself — that is the separate `あれる形 (passive/honorific)`
+field, unaffected by this rule.
+
+### Tier 1 — special verb table
+
+If the verb's meaning matches an entry below, always use the special verb — this tier wins
+regardless of tier 2 eligibility.
+
+| Verb meaning | Special verb (honorific) |
+|---|---|
+| 行く／来る／いる | いらっしゃる (default; おいでになる／お越しになる are valid, more formal alternates — いらっしゃる is the default pick) |
+| 食べる／飲む | 召し上がる |
+| 寝る／休む | お休みになる |
+| 死ぬ | お亡くなりになる |
+| 言う | おっしゃる |
+| 見る | ご覧になる |
+| 着る | お召しになる |
+| する | なさる |
+| 知っている（ている形） | ご存じ(です) |
+| くれる | くださる |
+
+する and 来る always use their tier-1 special verb (なさる／いらっしゃる) — they never take tier 2.
+
+### Tier 2 — お + ます形(stem) + になる
+
+Used only when (a) no special verb applies, (b) the verb is not する/来る, and (c) the ます-stem
+is 2+ morae.  
+Example: 見せる → ます stem 見せ → お見せになる.
+
+### Tier 3a — deterministic exclusion (1-mora stem, no search)
+
+If no special verb applies and the ます-stem is exactly 1 mora (e.g. 見る, 着る — both already
+covered by the tier-1 table in practice, so this rarely surfaces as its own case),
+お+ます形+になる is grammatically impossible. This is a computable fact (mora count), not a
+judgment call — resolve directly to `-` without any web search.
+
+### Tier 3b — search-confirmed exclusion (ambiguous idiomatic usage)
+
+If the ます-stem is 2+ morae, no special verb applies, but it's genuinely unclear whether
+お+ます形+になる is idiomatically natural for that specific verb, web-search e.g.
+`[verb] 尊敬語 おになる` before deciding — mirroring the existing web-search escalation pattern
+already used for the verb-type heuristic above and in `templates-update.md`. Only write `-`
+once the search confirms the verb customarily relies solely on the plain られる/
+passive-honorific form (`あれる形 (passive/honorific)`) with no idiomatic お+ます形+になる or
+special-verb form in active use.
+
+Tier 3a and 3b both produce `-` but are distinguishable and must not be conflated: 3a is a
+deterministic mora-count check requiring no search; 3b requires search-confirmed ambiguous
+usage.

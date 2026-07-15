@@ -836,9 +836,8 @@ sharpen #card
 お〜になる (honorific): お研ぎになる
 ない形: 研がない
 なかった形: 研がなかった
-あれる形 (passive): 研がれる
+あれる形 (passive/honorific): 研がれる
 使役形 (make/let): 研がせる
-尊敬語 (honorific): 研がれる
 ば形 (if): 研げば
 可能形 (can): 研げる
 おう形 (let's): 研ごう
@@ -856,9 +855,8 @@ to master (something thoroughly, to investigate to the fullest extent, field of 
 お〜になる (honorific): お究めになる
 ない形: 究めない
 なかった形: 究めなかった
-あれる形 (passive): 究められる
+あれる形 (passive/honorific): 究められる
 使役形 (make/let): 究めさせる
-尊敬語 (honorific): 究められる
 ば形 (if): 究めれば
 可能形 (can): 究められる
 おう形 (let's): 究めよう
@@ -876,9 +874,8 @@ to separate #card
 お〜になる (honorific): お別れになる
 ない形: 別れない
 なかった形: 別れなかった
-あれる形 (passive): 別れられる
+あれる形 (passive/honorific): 別れられる
 使役形 (make/let): 別れさせる
-尊敬語 (honorific): 別れられる
 ば形 (if): 別れれば
 可能形 (can): 別れられる
 おう形 (let's): 別れよう
@@ -896,9 +893,8 @@ use (academic, official, technical) #card
 お〜になる (honorific): お用いになる
 ない形: 用いない
 なかった形: 用いなかった
-あれる形 (passive): 用いられる
+あれる形 (passive/honorific): 用いられる
 使役形 (make/let): 用いさせる
-尊敬語 (honorific): 用いられる
 ば形 (if): 用いれば
 可能形 (can): 用いられる
 おう形 (let's): 用いよう

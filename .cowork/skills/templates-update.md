@@ -3,7 +3,7 @@ name: templates-update
 description: >
   Audits and repairs already-filled Anki card templates in a lesson file's
   # Summary section. Mechanical label renames are handled first by
-  preprocess-templates.py (alias table, all 34 known variants). Claude then
+  preprocess-templates.py (alias table, all 62 known variants). Claude then
   performs reasoning-heavy repairs: positional matching for surviving unknown
   labels, filling missing forms, verifying conjugation correctness, fixing kanji
   links, and repositioning <!--ID:--> lines — all without modifying anything
@@ -25,11 +25,12 @@ description: >
 
 This skill defers to:
 - `.cowork/skills/references/card-templates.md` — canonical block structures and label alias table
-- `.cowork/skills/references/verb-conjugation.md` — verb type detection and all 15 conjugation form rules
+- `.cowork/skills/references/verb-conjugation.md` — verb type detection and all 14 conjugation form rules
 - `.cowork/skills/references/adj-forms.md` — adjective form derivation rules
 - `.cowork/skills/references/kanji-links.md` — kanji link generation procedure
+- `.cowork/skills/references/honorific-forms.md` — `お/ご (honorific):` row eligibility, exclusions, prefix choice, and placement rules for `#w`/`#wp`
 
-Load all four reference files before starting any repair work.
+Load all five reference files before starting any repair work.
 
 ---
 
@@ -47,7 +48,7 @@ Load all four reference files before starting any repair work.
    ```
    python .cowork/scripts/preprocess-templates.py <file>
    ```
-   This applies all 34 alias-table renames mechanically (`label-aliases.json`), including `そう:` → `そう (looks):` for both `#wc` and `#wp` cards. The file on disk now has canonical labels for every known variant.
+   This applies all 62 alias-table renames mechanically (`label-aliases.json`), including `そう:` → `そう (looks):` for both `#wc` and `#wp` cards. The file on disk now has canonical labels for every known variant.
    If the script reports an error, stop and report it to the user. Do not proceed.
 
 ---
@@ -74,6 +75,12 @@ Canonical block structure:
 <!--ID: ...-->                  ← ID anchor (may be misplaced — repair later)
 ```
 
+Optional honorific line (see `references/honorific-forms.md` and Repair 3d): `#w` blocks
+may carry an optional 3rd line `お/ご (honorific): [value]` immediately after the
+Japanese field line (line 2); `#wp` blocks may carry an optional 5th form line
+`お/ご (honorific): [value]` immediately after そう (looks). Both are conditional — not
+every block has one.
+
 #### Parsing rules for structural lines
 
 The working zone may contain structural lines that are **not** card content. Do not include them in any block:
@@ -91,13 +98,17 @@ Block boundaries are determined solely by `#card` lines (block start) and blank 
 
 ### Step 3 — Run repair checks for each block
 
-Process each block in order. Apply repairs 1 through 6 in sequence.
+Process each block in order. Apply repairs 1, 2, 3, 3b, 3c, 3e, 4, 4b, 3d, 5, 6 in that
+**execution order** — note that Repair 3d executes after Repair 4b despite being
+numbered "3d"; see the ordering-constraint note in Repair 3d below for why. Repair 3e has
+no such special-ordering requirement and executes in its written position, right after
+Repair 3c, for `#wc` non-suru cards only.
 
 ---
 
 #### Repair 1 — Field name normalization
 
-Alias-table renames (all 34 known variants) were already applied by `preprocess-templates.py` in Step 2.5. Any label that survived preprocessing unmodified is either already canonical or is an unknown variant not in `label-aliases.json`.
+Alias-table renames (all 62 known variants) were already applied by `preprocess-templates.py` in Step 2.5. Any label that survived preprocessing unmodified is either already canonical or is an unknown variant not in `label-aliases.json`.
 
 For every field line in the block, apply positional matching for surviving unrecognized labels:
 
@@ -107,6 +118,7 @@ Rules:
 - If a label matches by position but not by name, and the intent is unambiguous, apply the rename and record it in the repair summary.
 - Before applying positional renames, verify the block's total field count matches the canonical template count. If counts differ, fall back to name-only matching and flag unmatched lines for user review.
 - If a label is unrecognized by both alias (confirmed already applied) and position, do not rename it. Flag it in the post-run report.
+- Exception: if an unrecognized/uncounted label is exactly `尊敬語 (honorific):`, do not flag it — this is a deprecated field being lazily cleaned up. Defer silently to Repair 3c, which strips it later in the same pass.
 - Applies to all card types. For `#w` there are no form lines; the only label potentially in scope is an erroneous `ほんやく:` prefix.
 
 ---
@@ -119,17 +131,22 @@ Determine card type from the (now-normalized) block:
 |-----------|-----------|
 | Title line contains `#wc` AND block has `ます形:` or `て形:` rows | `#wc` verb (non-suru) |
 | Title line contains `#wc` AND no form rows | `#wc` suru verb — skip Repairs 3 and 3b |
-| Title line contains `#wp` | `#wp` adjective |
-| Title line contains neither `#wc` nor `#wp` | `#w` noun/expression — skip Repairs 3, 3b, 4, and 4b |
+| Title line contains `#wp` | `#wp` adjective — continues through Repairs 4/4b as normal, and is also routed through Repair 3d (honorific row) |
+| Title line contains neither `#wc` nor `#wp` | `#w` noun/expression — skip Repairs 3, 3b, 4, and 4b; also routed through Repair 3d (honorific row) |
 
 Note: `#w` blocks in existing files often carry a `ほんやく:` label on the second line as a legacy fill artifact. This does **not** make them suru verbs — the title marker is the authoritative type signal. Do not strip the `ほんやく:` label from `#w` blocks; the canonical template simply does not require it.
+
+Note: `#wc` cards (suru or non-suru) are never routed through Repair 3d — they keep their
+own, separate `お〜になる/special verb (honorific)` field and continue through the existing
+Repair 3c for the legacy `尊敬語 (honorific):` label, unchanged by this plan. Non-suru `#wc`
+cards are additionally routed through Repair 3e, which verifies this field's value.
 
 ---
 
 #### Repair 3 — Fill missing verb forms (`#wc` non-suru only)
 
-Expected 15 form labels in canonical order (from `references/card-templates.md`):
-`て形`, `た形`, `ます形`, `出す形 (start)`, `そう (looks like)`, `お〜になる (honorific)`, `ない形`, `なかった形`, `受身形 (passive)`, `使役形 (make/let)`, `尊敬語 (honorific)`, `ば形 (if)`, `可能形 (can)`, `おう形 (let's)`, `命令形 (imperative)`
+Expected 14 form labels in canonical order (from `references/card-templates.md`):
+`て形`, `た形`, `ます形`, `出す形 (start)`, `そう (looks like)`, `お〜になる/special verb (honorific)`, `ない形`, `なかった形`, `あれる形 (passive/honorific)`, `使役形 (make/let)`, `ば形 (if)`, `可能形 (can)`, `おう形 (let's)`, `命令形 (imperative)`
 
 For each expected label:
 - If the label line is present but its value is blank (e.g. `た形: `), compute the value and fill it.
@@ -147,7 +164,7 @@ After Repair 3 ensures all form lines exist, recompute every conjugation from sc
 
 Steps:
 1. Re-read the `ほんやく:` value (furigana stripped). Confirm verb type (godan / ichidan / kuru / suru — same detection as Repair 3).
-2. For each of the 15 form labels, compute the expected value using the verb type rules in `references/verb-conjugation.md`.
+2. For each of the 14 form labels, compute the expected value using the verb type rules in `references/verb-conjugation.md`. **Exemption:** the `お〜になる/special verb (honorific)` field is excluded from this generic per-verb-type recompute — it defers entirely to Repair 3e, which runs later in this same pass and applies the tiered special-verb logic instead. Do not compute or overwrite this field here.
 3. Compare computed value to stored value (character by character).
 4. If they differ, overwrite the stored value with the computed one. Record in the repair summary: label + old value → new value.
 
@@ -158,7 +175,133 @@ Skip conditions:
 - Suru verb cards (`#wc` with no form rows) — skip entirely.
 - Fields that were blank and just filled by Repair 3 — already correct, comparison is a no-op.
 
-**Risk note:** An incorrect verb-type classification will replace all 15 forms including any values the user manually corrected. Only apply Repair 3b when verb type is certain.
+**Risk note:** An incorrect verb-type classification will replace all 14 forms including any values the user manually corrected. Only apply Repair 3b when verb type is certain.
+
+---
+
+#### Repair 3c — Strip deprecated 尊敬語 (honorific) row (`#wc` non-suru only)
+
+`尊敬語 (honorific)` was removed from the canonical `#wc` template. Already-filled files may
+still carry a leftover row for it — clean it up lazily whenever `templates-update` touches
+the file.
+
+Steps:
+1. Scan the block for any line beginning with `尊敬語 (honorific):` (already normalized to
+   this canonical spelling by Repair 1 / `preprocess-templates.py`, which still maps
+   `honorific:` and `尊敬語:` variants to it for exactly this purpose).
+2. If found, remove the entire line (label + value) from the block.
+3. Record the block in the repair summary as "尊敬語 row stripped".
+4. Explicitly do not touch `お〜になる/special verb (honorific):` — a distinct, still-canonical field.
+5. If no such line exists in the block: no-op.
+
+Skip conditions:
+- `#w` cards — no form rows, skip entirely.
+- Suru verb cards (`#wc` with no form rows) — skip entirely.
+
+---
+
+#### Repair 3d — `お/ご (honorific)` row (`#w` and `#wp`, shared)
+
+One repair, single set of steps, applied to both `#w` and `#wp` cards. The two card
+types share identical eligibility/value logic in shape (see
+`references/honorific-forms.md` for the concrete per-type criteria); placement is the
+only card-type-conditional branch.
+
+**Execution-order note (critical):** Repair 3d must run **after Repair 4b**, not
+merely wherever it sits in this written step list (it is numbered "3d" for
+documentation-grouping purposes, alongside 3/3b/3c, but its actual execution position
+is after 4b — see Step 3's execution-order line above). Repair 4b is what finalizes
+そう (looks)'s correct value for `#wp` cards; if Repair 3d ran before 4b, it would
+anchor its "insert after そう" placement and/or eligibility judgment on a stale そう
+value that 4b would later overwrite. This is a hard execution-order requirement, not a
+suggestion.
+
+Steps:
+
+1. **Mis-mapped-label safeguard (run first, within Repair 3d):** on `#w` or `#wp`
+   cards, scan for a stray line beginning with `尊敬語 (honorific):` — the canonical
+   target that `label-aliases.json`'s existing generic `honorific:` key maps to (see
+   that file for its current, authoritative value; do not assume it without checking).
+   If found:
+   - Extract its value.
+   - Proceed to step 3 below to re-evaluate that extracted value and either rewrite it
+     to the canonical `お/ご (honorific):` label (if it turns out to be a valid
+     honorific form) or remove it entirely (if not eligible / no natural form) —
+     never leave it stray under the `尊敬語 (honorific):` label on a `#w`/`#wp` card.
+   - `#wc` cards keep going through the existing, unmodified Repair 3c for the same
+     literal label — Repair 3d does not touch `#wc` cards at all.
+2. **Determine eligibility** using `references/honorific-forms.md`'s per-type
+   criteria:
+   - `#w`: bare noun, no particles, not a conjugated ending (suru-nouns count); not
+     already prefixed with お/ご.
+   - `#wp`: genuine single い/な-adjective in plain dictionary form (per
+     `adj-forms.md`'s type determination); non-adjective/all-dash `#wp` entries are
+     never eligible; not lexically-fused お (おいしい, おかしい, おしゃれ, おもい,
+     etc.).
+3. **If not eligible:** remove the row (or the mis-mapped `尊敬語 (honorific):` line
+   from step 1) if present; otherwise no-op.
+4. **If eligible:** judge whether a natural お/ご form exists, per
+   `references/honorific-forms.md`'s wago/kango rule of thumb and exception lists.
+   `#w` suru-noun values drop the trailing `(する)` in the honorific value (e.g.
+   `担当(たんとう)(する)` → `ご担当(たんとう)`); this rule is not applicable to `#wp`.
+   - **Missing + natural form exists** → insert at the canonical position for that
+     card type: `#w` — immediately after the Japanese field line; `#wp` — as the new
+     final form row, immediately after そう (looks).
+   - **Present + correct** → no-op.
+   - **Present + incorrect** → correct it (record old → new value in the repair
+     summary).
+   - **No natural form exists + row present** → remove it (never replace with a
+     placeholder/dash).
+5. **Uncertainty rule:** if Claude cannot confidently judge eligibility or prefix
+   choice, do not guess — leave the card unchanged and flag it in the repair summary:
+   "Uncertain honorific eligibility/prefix — not modified."
+
+Skip conditions:
+- `#wc` cards (suru and non-suru) — skip Repair 3d entirely. They keep their own,
+  separate, unmodified `お〜になる/special verb (honorific)` field and continue through
+  the existing Repair 3c for the legacy `尊敬語 (honorific):` label, unchanged by this
+  plan.
+
+---
+
+#### Repair 3e — Verify お〜になる/special-verb field correctness (`#wc` non-suru only)
+
+For each `#wc` non-suru card, recompute the expected value for the
+`お〜になる/special verb (honorific)` field using the tiered logic in
+`references/verb-conjugation.md`'s "お〜になる/special-verb derivation rules" section
+(tier 1 special-verb table → tier 2 お+ます形+になる → tier 3a deterministic 1-mora `-` →
+tier 3b search-confirmed ambiguous-usage `-`).
+
+Steps:
+1. Re-read the `ほんやく:` value (furigana stripped) and confirm verb type (same detection
+   as Repair 3).
+2. Apply tier 1: check whether the verb's meaning matches an entry in the special-verb
+   table. If it matches, the expected value is that special verb — this tier wins
+   regardless of tier 2 eligibility.
+3. If no special-verb match and the verb is not する/来る: apply tier 2 if the ます-stem is
+   2+ morae (お+ます形+になる), or tier 3a if the ます-stem is exactly 1 mora (`-`,
+   deterministic, no search needed).
+4. If tier 2 eligibility (2+ morae) holds but it is genuinely unclear whether
+   お+ます形+になる is idiomatically natural for that verb, apply tier 3b: web-search
+   `[verb] 尊敬語 おになる` before deciding. Only resolve to `-` once the search confirms
+   the verb customarily relies solely on the plain られる/passive-honorific form with no
+   idiomatic お+ます形+になる or special-verb form in active use.
+5. Compare the recomputed value to the value currently in the file. If different, overwrite
+   and record the card in the repair summary: old value → new value.
+
+**Uncertainty rule** (mirrors Repair 3b/4b): if recomputation requires a tier 3b web search
+and the result is still ambiguous/unresolved after searching, do NOT overwrite — flag the
+card for user review instead, using the same wording pattern already established for
+Repair 3b/4b's low-confidence handling: "Uncertain お〜になる/special-verb value — not
+modified." Tier 3a needs no such fallback — it is a deterministic mora-count check.
+
+Explicitly do not touch `あれる形 (passive/honorific)` — a separate field, unaffected by
+this repair.
+
+Skip conditions:
+- `#w` cards — no form rows, skip entirely.
+- `#wp` cards — this repair is for `#wc` non-suru only, skip entirely.
+- Suru verb cards (`#wc` with no form rows) — skip entirely.
 
 ---
 
@@ -189,6 +332,14 @@ Skip conditions:
 
 **Risk note:** Misclassifying a な-adjective as an い-adjective (or vice versa) causes all 4 forms to be overwritten with wrong values. Only apply Repair 4b when adjective type is certain.
 
+**Verified: no changes needed to `references/adj-forms.md` for the honorific row.**
+`adj-forms.md` governs the 4 mechanical conjugation forms only (過去形, 否定形, 副詞形,
+そう (looks)); all `お/ご (honorific):` eligibility and value logic lives entirely in
+`references/honorific-forms.md` (applied by Repair 3d, which runs after this repair).
+The `(する)`-dropping question was explicitly checked and confirmed not applicable to
+`#wp` — `adj-forms.md` and the canonical `#wp` template confirm `#wp` values never
+carry a `(する)` suffix in the first place.
+
 ---
 
 #### Repair 5 — Fix kanji links (all card types)
@@ -218,6 +369,13 @@ The `<!--ID:-->` line must be the **last non-blank line** of the block, placed:
 - After the last form/adjective line (if no links)
 - Immediately before the blank separator
 
+Card-type-specific "no links" fallback, accounting for the optional honorific row
+added by Repair 3d (unchanged from the original design for `#w`, new for `#wp`):
+- **`#w`, no kanji links:** ID goes after the honorific row (if present) or after the
+  Japanese line (if not).
+- **`#wp`, no kanji links:** ID goes after the honorific row (if present) or after
+  そう (looks) (if not).
+
 If the `<!--ID:-->` line is in any other position:
 1. Record the ID value exactly as it appears (never alter the number).
 2. Remove the line from its current position.
@@ -237,8 +395,13 @@ After all blocks are processed, output a **repair summary**:
 - Cards with field name renames (Repair 1): count and list of renames
 - Cards with missing forms filled (Repair 3): count
 - Cards with incorrect forms corrected (Repair 3b): count, with old → new values
+- Cards with deprecated 尊敬語 row stripped (Repair 3c): count
+- Cards with お〜になる/special-verb field corrected (Repair 3e): count
+- Cards flagged for manual review due to derivation uncertainty (Repair 3e): count
 - Cards with missing adjective forms filled (Repair 4): count
 - Cards with incorrect adjective forms corrected (Repair 4b): count, with old → new values
+- Cards with `お/ご (honorific)` row added/corrected/removed (Repair 3d): count, broken
+  out by `#w` and `#wp`
 - Cards with kanji links fixed (Repair 5): count
 - Cards with ID repositioned (Repair 6): count
 - Cards flagged for user review: list with reasons

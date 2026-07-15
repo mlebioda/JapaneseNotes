@@ -285,3 +285,12 @@
 **Source**: uncommitted — planner
 
 ---
+
+## 2026-07-15 — wc-honorific-special-verb-plan.md
+
+**Classification**: new-feature
+**What happened**: Plan created to rename the `#wc` template field `お〜になる (honorific)` to `お〜になる/special verb (honorific)` and replace its single-mode derivation rule with a three-tier honorific logic (special-verb table → お+ます形+になる → confirmed dash), correcting 来る's fixed value and adding a templates-update.md verification step (Repair 3d).
+**Rule**: **[Rule]** When a template field derives its value from a single general formation rule, check the domain for known irregular/special-case lexical items first — encode them as a higher-priority tier (special-form table) that always wins over the general rule, and add a verification/repair step so already-filled files can be recomputed against the corrected logic.
+**Source**: uncommitted — planner
+
+---

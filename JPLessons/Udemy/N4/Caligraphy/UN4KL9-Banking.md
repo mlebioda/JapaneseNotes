@@ -759,9 +759,8 @@ someone opens something (more formal, abstract like company, store, book, soul) 
 お〜になる (honorific): お開きになる
 ない形: 開かない
 なかった形: 開かなかった
-あれる形 (passive): 開かれる
+あれる形 (passive/honorific): 開かれる
 使役形 (make/let): 開かせる
-尊敬語 (honorific): 開かれる
 ば形 (if): 開けば
 可能形 (can): 開ける
 おう形 (let's): 開こう
@@ -779,9 +778,8 @@ to open #card
 お〜になる (honorific): お開けになる
 ない形: 開けない
 なかった形: 開けなかった
-あれる形 (passive): 開けられる
+あれる形 (passive/honorific): 開けられる
 使役形 (make/let): 開けさせる
-尊敬語 (honorific): 開けられる
 ば形 (if): 開ければ
 可能形 (can): 開けられる
 おう形 (let's): 開けよう
@@ -799,9 +797,8 @@ something opens by itself #card
 お〜になる (honorific): お開きになる
 ない形: 開かない
 なかった形: 開かなかった
-あれる形 (passive): 開かれる
+あれる形 (passive/honorific): 開かれる
 使役形 (make/let): 開かせる
-尊敬語 (honorific): 開かれる
 ば形 (if): 開けば
 可能形 (can): 開ける
 おう形 (let's): 開こう
@@ -819,9 +816,8 @@ move #card
 お〜になる (honorific): お動きになる
 ない形: 動かない
 なかった形: 動かなかった
-あれる形 (passive): 動かれる
+あれる形 (passive/honorific): 動かれる
 使役形 (make/let): 動かせる
-尊敬語 (honorific): 動かれる
 ば形 (if): 動けば
 可能形 (can): 動ける
 おう形 (let's): 動こう
@@ -839,9 +835,8 @@ collect/gather (stuff) #card
 お〜になる (honorific): お集めになる
 ない形: 集めない
 なかった形: 集めなかった
-あれる形 (passive): 集められる
+あれる形 (passive/honorific): 集められる
 使役形 (make/let): 集めさせる
-尊敬語 (honorific): 集められる
 ば形 (if): 集めれば
 可能形 (can): 集められる
 おう形 (let's): 集めよう
@@ -859,9 +854,8 @@ gather (on their own) #card
 お〜になる (honorific): お集まりになる
 ない形: 集まらない
 なかった形: 集まらなかった
-あれる形 (passive): 集まられる
+あれる形 (passive/honorific): 集まられる
 使役形 (make/let): 集まらせる
-尊敬語 (honorific): 集まられる
 ば形 (if): 集まれば
 可能形 (can): 集まれる
 おう形 (let's): 集まろう
@@ -879,9 +873,8 @@ lend (to someone) #card
 お〜になる (honorific): お貸しになる
 ない形: 貸さない
 なかった形: 貸さなかった
-あれる形 (passive): 貸される
+あれる形 (passive/honorific): 貸される
 使役形 (make/let): 貸させる
-尊敬語 (honorific): 貸される
 ば形 (if): 貸せば
 可能形 (can): 貸せる
 おう形 (let's): 貸そう
@@ -899,9 +892,8 @@ borrow (from someone) #card
 お〜になる (honorific): お借りになる
 ない形: 借りない
 なかった形: 借りなかった
-あれる形 (passive): 借りられる
+あれる形 (passive/honorific): 借りられる
 使役形 (make/let): 借りさせる
-尊敬語 (honorific): 借りられる
 ば形 (if): 借りれば
 可能形 (can): 借りられる
 おう形 (let's): 借りよう
@@ -919,9 +911,8 @@ to exist/have #card
 お〜になる (honorific): お有りになる
 ない形: 無い（ない）
 なかった形: 無かった（なかった）
-あれる形 (passive): 有られる
+あれる形 (passive/honorific): 有られる
 使役形 (make/let): 有らせる
-尊敬語 (honorific): 有られる
 ば形 (if): 有れば
 可能形 (can): 有れる
 おう形 (let's): 有ろう
@@ -939,9 +930,8 @@ to wait #card
 お〜になる (honorific): お待ちになる
 ない形: 待たない
 なかった形: 待たなかった
-あれる形 (passive): 待たれる
+あれる形 (passive/honorific): 待たれる
 使役形 (make/let): 待たせる
-尊敬語 (honorific): 待たれる
 ば形 (if): 待てば
 可能形 (can): 待てる
 おう形 (let's): 待とう

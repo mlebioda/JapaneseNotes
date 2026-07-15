@@ -1351,9 +1351,8 @@ to invite, zachęcać, nakłaniać #wc #card
 お〜になる (honorific): お誘いになる
 ない形: 誘わない
 なかった形: 誘わなかった
-あれる形 (passive):  誘われる
+あれる形 (passive/honorific):  誘われる
 使役形 (make/let): 誘わせる
-尊敬語 (honorific): 誘われる
 ば形 (if): 誘えば
 可能形 (can): 誘える
 おう形 (let's): 誘おう
@@ -1372,9 +1371,8 @@ to work #wc #card
 お〜になる (honorific): お働きになる
 ない形: 働かない
 なかった形: 働かなかった
-あれる形 (passive):  働かれる
+あれる形 (passive/honorific):  働かれる
 使役形 (make/let): 働かせる
-尊敬語 (honorific): 働かれる
 ば形 (if): 働けば
 可能形 (can): 働ける
 おう形 (let's): 働こう
@@ -1393,9 +1391,8 @@ to sing #k #wc #card
 お〜になる (honorific): お歌いになる
 ない形: 歌わない
 なかった形: 歌わなかった
-あれる形 (passive):  歌われる
+あれる形 (passive/honorific):  歌われる
 使役形 (make/let): 歌わせる
-尊敬語 (honorific): 歌われる
 ば形 (if): 歌えば
 可能形 (can): 歌える
 おう形 (let's): 歌おう
@@ -1414,9 +1411,8 @@ to have, to possess, to hold/carry #k #wc #card
 お〜になる (honorific): お持ちになる
 ない形: 持たない
 なかった形: 持たなかった
-あれる形 (passive):  持たれる
+あれる形 (passive/honorific):  持たれる
 使役形 (make/let): 持たせる
-尊敬語 (honorific): 持たれる
 ば形 (if): 持てば
 可能形 (can): 持てる
 おう形 (let's): 持とう
@@ -1435,9 +1431,8 @@ to smoke #wc #card
 お〜になる (honorific): お吸いになる
 ない形: 吸わない
 なかった形: 吸わなかった
-あれる形 (passive):  吸われる
+あれる形 (passive/honorific):  吸われる
 使役形 (make/let): 吸わせる
-尊敬語 (honorific): 吸われる
 ば形 (if): 吸えば
 可能形 (can): 吸える
 おう形 (let's): 吸おう
@@ -1456,9 +1451,8 @@ to sleep #wc #card
 お〜になる (honorific): お寝になる
 ない形: 寝ない
 なかった形: 寝なかった
-あれる形 (passive):  寝られる
+あれる形 (passive/honorific):  寝られる
 使役形 (make/let): 寝させる
-尊敬語 (honorific): 寝られる
 ば形 (if): 寝れば
 可能形 (can): 寝られる
 おう形 (let's): 寝よう
@@ -1477,9 +1471,8 @@ to live/reside #k #wc #card
 お〜になる (honorific): お住みになる
 ない形: 住まない
 なかった形: 住まなかった
-あれる形 (passive):  住まれる
+あれる形 (passive/honorific):  住まれる
 使役形 (make/let): 住ませる
-尊敬語 (honorific): 住まれる
 ば形 (if): 住めば
 可能形 (can): 住める
 おう形 (let's): 住もう
@@ -1498,9 +1491,8 @@ to wait #k #wc #card
 お〜になる (honorific): お待ちになる
 ない形: 待たない
 なかった形: 待たなかった
-あれる形 (passive):  待たれる
+あれる形 (passive/honorific):  待たれる
 使役形 (make/let): 待たせる
-尊敬語 (honorific): 待たれる
 ば形 (if): 待てば
 可能形 (can): 待てる
 おう形 (let's): 待とう

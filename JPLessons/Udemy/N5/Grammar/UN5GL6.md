@@ -1231,9 +1231,8 @@ to become empty/vacant #card
 お〜になる (honorific): おあきになる  
 ない形: あかない  
 なかった形: あかなかった  
-あれる形 (passive):  あかれる  
+あれる形 (passive/honorific):  あかれる  
 使役形 (make/let): あかせる  
-尊敬語 (honorific): あかれる  
 ば形 (if): あけば  
 可能形 (can): あける  
 おう形 (let's): あこう
@@ -1253,9 +1252,8 @@ to open #card
 お〜になる (honorific): おあけになる  
 ない形: あけない  
 なかった形: あけなかった  
-あれる形 (passive):  あけられる  
+あれる形 (passive/honorific):  あけられる  
 使役形 (make/let): あけさせる  
-尊敬語 (honorific): あけられる  
 ば形 (if): あければ  
 可能形 (can): あけられる  
 おう形 (let's): あけよう
@@ -1275,9 +1273,8 @@ to close #card
 お〜になる (honorific): おしめになる  
 ない形: しめない  
 なかった形: しめなかった  
-あれる形 (passive):  しめられる  
+あれる形 (passive/honorific):  しめられる  
 使役形 (make/let): しめさせる  
-尊敬語 (honorific): しめられる  
 ば形 (if): しめれば  
 可能形 (can): しめられる  
 おう形 (let's): しめよう
@@ -1297,9 +1294,8 @@ to arrive at, reach #card
 お〜になる (honorific): おつきになる  
 ない形: つかない  
 なかった形: つかなかった  
-あれる形 (passive):  つかれる  
+あれる形 (passive/honorific):  つかれる  
 使役形 (make/let): つかせる  
-尊敬語 (honorific): つかれる  
 ば形 (if): つけば  
 可能形 (can): つける  
 おう形 (let's): つこう
@@ -1319,9 +1315,8 @@ to enter, come into #card
 お〜になる (honorific): おはいりになる  
 ない形: はいらない  
 なかった形: はいらなかった  
-あれる形 (passive):  はいられる  
+あれる形 (passive/honorific):  はいられる  
 使役形 (make/let): はいらせる  
-尊敬語 (honorific): はいられる  
 ば形 (if): はいれば  
 可能形 (can): はいれる  
 おう形 (let's): はいろう
@@ -1341,9 +1336,8 @@ to stop, turn off #card
 お〜になる (honorific): おとめになる  
 ない形: とめない  
 なかった形: とめなかった  
-あれる形 (passive):  とめられる  
+あれる形 (passive/honorific):  とめられる  
 使役形 (make/let): とめさせる  
-尊敬語 (honorific): とめられる  
 ば形 (if): とめれば  
 可能形 (can): とめられる  
 おう形 (let's): とめよう
@@ -1363,9 +1357,8 @@ to get on #card
 お〜になる (honorific): おのりになる  
 ない形: のらない  
 なかった形: のらなかった  
-あれる形 (passive):  のられる  
+あれる形 (passive/honorific):  のられる  
 使役形 (make/let): のらせる  
-尊敬語 (honorific): のられる  
 ば形 (if): のれば  
 可能形 (can): のれる  
 おう形 (let's): のろう
@@ -1385,9 +1378,8 @@ to get off #card
 お〜になる (honorific): おおりになる  
 ない形: おりない  
 なかった形: おりなかった  
-あれる形 (passive):  おりられる  
+あれる形 (passive/honorific):  おりられる  
 使役形 (make/let): おりさせる  
-尊敬語 (honorific): おりられる  
 ば形 (if): おりれば  
 可能形 (can): おりられる  
 おう形 (let's): おりよう
@@ -1407,9 +1399,8 @@ to transfer #card
 お〜になる (honorific): おのりかえになる  
 ない形: のりかえない  
 なかった形: のりかえなかった  
-あれる形 (passive):  のりかえられる  
+あれる形 (passive/honorific):  のりかえられる  
 使役形 (make/let): のりかえさせる  
-尊敬語 (honorific): のりかえられる  
 ば形 (if): のりかえれば  
 可能形 (can): のりかえられる  
 おう形 (let's): のりかえよう
@@ -1430,9 +1421,8 @@ to enter #card
 お〜になる (honorific): おはいりになる  
 ない形: はいらない  
 なかった形: はいらなかった  
-あれる形 (passive):  はいられる  
+あれる形 (passive/honorific):  はいられる  
 使役形 (make/let): はいらせる  
-尊敬語 (honorific): はいられる  
 ば形 (if): はいれば  
 可能形 (can): はいれる  
 おう形 (let's): はいろう
@@ -1452,9 +1442,8 @@ to turn #card
 お〜になる (honorific): おまがりになる  
 ない形: まがらない  
 なかった形: まがらなかった  
-あれる形 (passive):  まがられる  
+あれる形 (passive/honorific):  まがられる  
 使役形 (make/let): まがらせる  
-尊敬語 (honorific): まがられる  
 ば形 (if): まがれば  
 可能形 (can): まがれる  
 おう形 (let's): まがろう
@@ -1474,9 +1463,8 @@ to get off #card
 お〜になる (honorific): おおりになる  
 ない形: おりない  
 なかった形: おりなかった  
-あれる形 (passive):  おりられる  
+あれる形 (passive/honorific):  おりられる  
 使役形 (make/let): おりさせる  
-尊敬語 (honorific): おりられる  
 ば形 (if): おりれば  
 可能形 (can): おりられる  
 おう形 (let's): おりよう
@@ -1496,9 +1484,8 @@ to transfer #card
 お〜になる (honorific): おのりかえになる  
 ない形: のりかえない  
 なかった形: のりかえなかった  
-あれる形 (passive):  のりかえられる  
+あれる形 (passive/honorific):  のりかえられる  
 使役形 (make/let): のりかえさせる  
-尊敬語 (honorific): のりかえられる  
 ば形 (if): のりかえれば  
 可能形 (can): のりかえられる  
 おう形 (let's): のりかえよう
@@ -1519,9 +1506,8 @@ to be tired #card
 お〜になる (honorific): おつかれになる  
 ない形: つかれない  
 なかった形: つかれなかった  
-あれる形 (passive):  つかれられる  
+あれる形 (passive/honorific):  つかれられる  
 使役形 (make/let): つかれさせる  
-尊敬語 (honorific): つかれられる  
 ば形 (if): つかれれば  
 可能形 (can): つかれられる  
 おう形 (let's): つかれよう
@@ -1541,9 +1527,8 @@ to move #k #card
 お〜になる (honorific): おうごきになる  
 ない形: うごかない  
 なかった形: うごかなかった  
-あれる形 (passive):  うごかれる  
+あれる形 (passive/honorific):  うごかれる  
 使役形 (make/let): うごかせる  
-尊敬語 (honorific): うごかれる  
 ば形 (if): うごけば  
 可能形 (can): うごける  
 おう形 (let's): うごこう
@@ -1563,9 +1548,8 @@ to come #card
 お〜になる (honorific): おいでになる  
 ない形: こない  
 なかった形: こなかった  
-あれる形 (passive):  こられる  
+あれる形 (passive/honorific):  こられる  
 使役形 (make/let): こさせる  
-尊敬語 (honorific): こられる  
 ば形 (if): くれば  
 可能形 (can): こられる  
 おう形 (let's): こよう
@@ -1585,9 +1569,8 @@ to live, reside #k #card
 お〜になる (honorific): おすみになる  
 ない形: すまない  
 なかった形: すまなかった  
-あれる形 (passive):  すまれる  
+あれる形 (passive/honorific):  すまれる  
 使役形 (make/let): すませる  
-尊敬語 (honorific): すまれる  
 ば形 (if): すめば  
 可能形 (can): すめる  
 おう形 (let's): すもう
@@ -1607,9 +1590,8 @@ to hurry #card
 お〜になる (honorific): おいそぎになる  
 ない形: いそがない  
 なかった形: いそがなかった  
-あれる形 (passive):  いそがれる  
+あれる形 (passive/honorific):  いそがれる  
 使役形 (make/let): いそがせる  
-尊敬語 (honorific): いそがれる  
 ば形 (if): いそげば  
 可能形 (can): いそげる  
 おう形 (let's): いそごう

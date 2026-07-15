@@ -701,9 +701,8 @@ serve #k #card
 お〜になる (honorific): お仕えになる
 ない形: 仕えない
 なかった形: 仕えなかった
-あれる形 (passive): 仕えられる
+あれる形 (passive/honorific): 仕えられる
 使役形 (make/let): 仕えさせる
-尊敬語 (honorific): 仕えられる
 ば形 (if): 仕えれば
 可能形 (can): 仕えられる
 おう形 (let's): 仕えよう

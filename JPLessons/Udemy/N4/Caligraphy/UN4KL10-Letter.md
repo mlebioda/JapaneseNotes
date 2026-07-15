@@ -815,9 +815,8 @@ under the ground is the body without head covered in RED blood
 お〜になる (honorific): お出しになる
 ない形: 出さない
 なかった形: 出さなかった
-あれる形 (passive): 出される
+あれる形 (passive/honorific): 出される
 使役形 (make/let): 出させる
-尊敬語 (honorific): 出される
 ば形 (if): 出せば
 可能形 (can): 出せる
 おう形 (let's): 出そう
@@ -835,9 +834,8 @@ to cut #card
 お〜になる (honorific): お切りになる
 ない形: 切らない
 なかった形: 切らなかった
-あれる形 (passive): 切られる
+あれる形 (passive/honorific): 切られる
 使役形 (make/let): 切らせる
-尊敬語 (honorific): 切られる
 ば形 (if): 切れば
 可能形 (can): 切れる
 おう形 (let's): 切ろう
@@ -855,9 +853,8 @@ to use #card
 お〜になる (honorific): お使いになる
 ない形: 使わない
 なかった形: 使わなかった
-あれる形 (passive): 使われる
+あれる形 (passive/honorific): 使われる
 使役形 (make/let): 使わせる
-尊敬語 (honorific): 使われる
 ば形 (if): 使えば
 可能形 (can): 使える
 おう形 (let's): 使おう
@@ -875,9 +872,8 @@ be projected #card
 お〜になる (honorific): お写りになる
 ない形: 写らない
 なかった形: 写らなかった
-あれる形 (passive): 写られる
+あれる形 (passive/honorific): 写られる
 使役形 (make/let): 写らせる
-尊敬語 (honorific): 写られる
 ば形 (if): 写れば
 可能形 (can): 写れる
 おう形 (let's): 写ろう
@@ -895,9 +891,8 @@ to copy/to photograph (more formal than take photo) #card
 お〜になる (honorific): お写しになる
 ない形: 写さない
 なかった形: 写さなかった
-あれる形 (passive): 写される
+あれる形 (passive/honorific): 写される
 使役形 (make/let): 写させる
-尊敬語 (honorific): 写される
 ば形 (if): 写せば
 可能形 (can): 写せる
 おう形 (let's): 写そう
@@ -915,9 +910,8 @@ to send #card
 お〜になる (honorific): お送りになる
 ない形: 送らない
 なかった形: 送らなかった
-あれる形 (passive): 送られる
+あれる形 (passive/honorific): 送られる
 使役形 (make/let): 送らせる
-尊敬語 (honorific): 送られる
 ば形 (if): 送れば
 可能形 (can): 送れる
 おう形 (let's): 送ろう
@@ -935,9 +929,8 @@ odwiedzać #card
 お〜になる (honorific): お訪れになる
 ない形: 訪れない
 なかった形: 訪れなかった
-あれる形 (passive): 訪れられる
+あれる形 (passive/honorific): 訪れられる
 使役形 (make/let): 訪れさせる
-尊敬語 (honorific): 訪れられる
 ば形 (if): 訪れれば
 可能形 (can): 訪れられる
 おう形 (let's): 訪れよう

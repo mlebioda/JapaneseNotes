@@ -1618,9 +1618,8 @@ rozstawac sie、żegnać #k  #card
 お〜になる (honorific): お別れになる
 ない形: 別れない
 なかった形: 別れなかった
-あれる形 (passive):  別れられる
+あれる形 (passive/honorific):  別れられる
 使役形 (make/let): 別れさせる
-尊敬語 (honorific): 別れられる
 ば形 (if): 別れれば
 可能形 (can): 別れられる
 おう形 (let's): 別れよう
@@ -1638,9 +1637,8 @@ to wash  #card
 お〜になる (honorific): お洗いになる
 ない形: 洗わない
 なかった形: 洗わなかった
-あれる形 (passive):  洗われる
+あれる形 (passive/honorific):  洗われる
 使役形 (make/let): 洗わせる
-尊敬語 (honorific): 洗われる
 ば形 (if): 洗えば
 可能形 (can): 洗える
 おう形 (let's): 洗おう
@@ -1658,9 +1656,8 @@ to take (a shower, have water on your whole body)  #card
 お〜になる (honorific): お浴びになる
 ない形: 浴びない
 なかった形: 浴びなかった
-あれる形 (passive):  浴びられる
+あれる形 (passive/honorific):  浴びられる
 使役形 (make/let): 浴びさせる
-尊敬語 (honorific): 浴びられる
 ば形 (if): 浴びれば
 可能形 (can): 浴びられる
 おう形 (let's): 浴びよう
@@ -1678,9 +1675,8 @@ to brush  #card
 お〜になる (honorific): お磨きになる
 ない形: 磨かない
 なかった形: 磨かなかった
-あれる形 (passive):  磨かれる
+あれる形 (passive/honorific):  磨かれる
 使役形 (make/let): 磨かせる
-尊敬語 (honorific): 磨かれる
 ば形 (if): 磨けば
 可能形 (can): 磨ける
 おう形 (let's): 磨こう
@@ -1698,9 +1694,8 @@ to take (a picture / video) + particle  #card
 お〜になる (honorific): お撮りになる
 ない形: 撮らない
 なかった形: 撮らなかった
-あれる形 (passive):  撮られる
+あれる形 (passive/honorific):  撮られる
 使役形 (make/let): 撮らせる
-尊敬語 (honorific): 撮られる
 ば形 (if): 撮れば
 可能形 (can): 撮れる
 おう形 (let's): 撮ろう
@@ -1718,9 +1713,8 @@ to make / to cook / to establish/ to manufacture #k  #card
 お〜になる (honorific): お作りになる
 ない形: 作らない
 なかった形: 作らなかった
-あれる形 (passive):  作られる
+あれる形 (passive/honorific):  作られる
 使役形 (make/let): 作らせる
-尊敬語 (honorific): 作られる
 ば形 (if): 作れば
 可能形 (can): 作れる
 おう形 (let's): 作ろう
@@ -1738,9 +1732,8 @@ to sit  #card
 お〜になる (honorific): お座りになる
 ない形: 座らない
 なかった形: 座らなかった
-あれる形 (passive):  座られる
+あれる形 (passive/honorific):  座られる
 使役形 (make/let): 座らせる
-尊敬語 (honorific): 座られる
 ば形 (if): 座れば
 可能形 (can): 座れる
 おう形 (let's): 座ろう
@@ -1758,9 +1751,8 @@ to hear / to listen #k  #card
 お〜になる (honorific): お聞きになる
 ない形: 聞かない
 なかった形: 聞かなかった
-あれる形 (passive):  聞かれる
+あれる形 (passive/honorific):  聞かれる
 使役形 (make/let): 聞かせる
-尊敬語 (honorific): 聞かれる
 ば形 (if): 聞けば
 可能形 (can): 聞ける
 おう形 (let's): 聞こう
@@ -1778,9 +1770,8 @@ to take out #k  #card
 お〜になる (honorific): お出しになる
 ない形: 出さない
 なかった形: 出さなかった
-あれる形 (passive):  出される
+あれる形 (passive/honorific):  出される
 使役形 (make/let): 出させる
-尊敬語 (honorific): 出される
 ば形 (if): 出せば
 可能形 (can): 出せる
 おう形 (let's): 出そう
@@ -1798,9 +1789,8 @@ to finish (by itself) #k  #card
 お〜になる (honorific): お終わりになる
 ない形: 終わらない
 なかった形: 終わらなかった
-あれる形 (passive):  終わられる
+あれる形 (passive/honorific):  終わられる
 使役形 (make/let): 終わらせる
-尊敬語 (honorific): 終わられる
 ば形 (if): 終われば
 可能形 (can): 終われる
 おう形 (let's): 終わろう
@@ -1818,9 +1808,8 @@ to begin (event, itself) #k  #card
 お〜になる (honorific): お始まりになる
 ない形: 始まらない
 なかった形: 始まらなかった
-あれる形 (passive):  始まられる
+あれる形 (passive/honorific):  始まられる
 使役形 (make/let): 始まらせる
-尊敬語 (honorific): 始まられる
 ば形 (if): 始まれば
 可能形 (can): 始まれる
 おう形 (let's): 始まろう
@@ -1838,9 +1827,8 @@ to send #k  #card
 お〜になる (honorific): お送りになる
 ない形: 送らない
 なかった形: 送らなかった
-あれる形 (passive):  送られる
+あれる形 (passive/honorific):  送られる
 使役形 (make/let): 送らせる
-尊敬語 (honorific): 送られる
 ば形 (if): 送れば
 可能形 (can): 送れる
 おう形 (let's): 送ろう

@@ -1086,9 +1086,8 @@ to call/nazywać, zwracać się  #card
 お〜になる (honorific): お呼びになる
 ない形: 呼ばない
 なかった形: 呼ばなかった
-あれる形 (passive):  呼ばれる
+あれる形 (passive/honorific):  呼ばれる
 使役形 (make/let): 呼ばせる
-尊敬語 (honorific): 呼ばれる
 ば形 (if): 呼べば
 可能形 (can): 呼べる
 おう形 (let's): 呼ぼう
@@ -1107,9 +1106,8 @@ to fall (rain/snow) (particle)  #card
 お〜になる (honorific): お降りになる
 ない形: 降らない
 なかった形: 降らなかった
-あれる形 (passive):  降られる
+あれる形 (passive/honorific):  降られる
 使役形 (make/let): 降らせる
-尊敬語 (honorific): 降られる
 ば形 (if): 降れば
 可能形 (can): 降れる
 おう形 (let's): 降ろう
@@ -1128,9 +1126,8 @@ to blow (wind) (particle)  #card
 お〜になる (honorific): お吹きになる
 ない形: 吹かない
 なかった形: 吹かなかった
-あれる形 (passive):  吹かれる
+あれる形 (passive/honorific):  吹かれる
 使役形 (make/let): 吹かせる
-尊敬語 (honorific): 吹かれる
 ば形 (if): 吹けば
 可能形 (can): 吹ける
 おう形 (let's): 吹こう
@@ -1149,9 +1146,8 @@ to blow (wind) (particle)  #card
 お〜になる (honorific): お留学しになる
 ない形: 留学しない
 なかった形: 留学しなかった
-あれる形 (passive):  留学される
+あれる形 (passive/honorific):  留学される
 使役形 (make/let): 留学させる
-尊敬語 (honorific): 留学される
 ば形 (if): 留学すれば
 可能形 (can): 留学できる
 おう形 (let's): 留学しよう
@@ -1171,9 +1167,8 @@ to examine / to search/ check something that you either don't know or are  (part
 お〜になる (honorific): お調べになる
 ない形: 調べない
 なかった形: 調べなかった
-あれる形 (passive):  調べられる
+あれる形 (passive/honorific):  調べられる
 使役形 (make/let): 調べさせる
-尊敬語 (honorific): 調べられる
 ば形 (if): 調べれば
 可能形 (can): 調べられる
 おう形 (let's): 調べよう
@@ -1192,9 +1187,8 @@ to go out to a certain destination (particle)  #card
 お〜になる (honorific): お出かけになる
 ない形: 出かけない
 なかった形: 出かけなかった
-あれる形 (passive):  出かけられる
+あれる形 (passive/honorific):  出かけられる
 使役形 (make/let): 出かけさせる
-尊敬語 (honorific): 出かけられる
 ば形 (if): 出かければ
 可能形 (can): 出かけられる
 おう形 (let's): 出かけよう
@@ -1213,9 +1207,8 @@ to climb (particle)  #card
 お〜になる (honorific): お登りになる
 ない形: 登らない
 なかった形: 登らなかった
-あれる形 (passive):  登られる
+あれる形 (passive/honorific):  登られる
 使役形 (make/let): 登らせる
-尊敬語 (honorific): 登られる
 ば形 (if): 登れば
 可能形 (can): 登れる
 おう形 (let's): 登ろう
@@ -1234,9 +1227,8 @@ to win  #card
 お〜になる (honorific): お勝ちになる
 ない形: 勝たない
 なかった形: 勝たなかった
-あれる形 (passive):  勝たれる
+あれる形 (passive/honorific):  勝たれる
 使役形 (make/let): 勝たせる
-尊敬語 (honorific): 勝たれる
 ば形 (if): 勝てば
 可能形 (can): 勝てる
 おう形 (let's): 勝とう
@@ -1255,9 +1247,8 @@ to fall (rain/snow) (particle)  #card
 お〜になる (honorific): お降りになる
 ない形: 降らない
 なかった形: 降らなかった
-あれる形 (passive):  降られる
+あれる形 (passive/honorific):  降られる
 使役形 (make/let): 降らせる
-尊敬語 (honorific): 降られる
 ば形 (if): 降れば
 可能形 (can): 降れる
 おう形 (let's): 降ろう
@@ -1274,9 +1265,8 @@ to blow (wind) (particle)  #card
 お〜になる (honorific): お吹きになる
 ない形: 吹かない
 なかった形: 吹かなかった
-あれる形 (passive):  吹かれる
+あれる形 (passive/honorific):  吹かれる
 使役形 (make/let): 吹かせる
-尊敬語 (honorific): 吹かれる
 ば形 (if): 吹けば
 可能形 (can): 吹ける
 おう形 (let's): 吹こう
@@ -1293,9 +1283,8 @@ to clear up (particle) weather  #card
 お〜になる (honorific): お晴れになる
 ない形: 晴れない
 なかった形: 晴れなかった
-あれる形 (passive):  晴れられる
+あれる形 (passive/honorific):  晴れられる
 使役形 (make/let): 晴れさせる
-尊敬語 (honorific): 晴れられる
 ば形 (if): 晴れれば
 可能形 (can): 晴れられる
 おう形 (let's): 晴れよう

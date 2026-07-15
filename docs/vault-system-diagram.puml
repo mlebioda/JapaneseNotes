@@ -5,84 +5,96 @@ title ObsidianJP Vault — Agent & Skill System
 database ".claude/agents/" as AgentsDir
 database ".cowork/skills/" as SkillsDir
 database ".cowork/skills/references/" as ReferencesDir
+database ".cowork/scripts/" as CoworkScripts
+database ".claude/scripts/" as ClaudeScripts
 database ".cowork/instructions.md" as Instructions
 database "Plans/" as PlansDir
 database "Scribe/" as ScribeDir
 database "docs/" as DocsDir
-database "JPLessons/" as Lessons
-database "grammar-index/" as GrammarIndex
-database "Vocabulary/" as VocabDir
+database "JPLessons/" as LessonsDir
+database "JPLessons/Reading/" as ReadingDir
+database "grammar-index/" as GrammarIndexDir
+database "grammar-index/grammar/" as GrammarIndexGrammarDir
+database "Vocabulary/" as VocabularyDir
 database "Caligraphy/" as CaligraphyDir
 database ".cowork/progress/" as ProgressDir
 database ".cowork/tmp/" as TmpDir
-database "vault root (KanjiList.md, *.ics)" as VaultRoot
+database "KanjiList.md" as KanjiListFile
+database "vault root (.ics exports)" as VaultRootIcs
 
 ' ─── Agents ───
 package "Agents" {
+  component [documentation] as Documentation <<agent>>
+  note right of Documentation
+    tools: Read, Write, Edit, Bash, Agent
+    reads: .claude/agents/, .cowork/skills/,
+      .cowork/instructions.md (all read-only)
+    writes: docs/ only
+    no access: JPLessons/, Plans/, Scribe/
+    never modifies skill/agent files
+    does not call scribe directly from agent body
+      (generate-diagram skill's Step 8 does)
+  end note
+
   component [reviewer] as Reviewer <<agent>>
   note right of Reviewer
     tools: Read, Bash, Agent
     reads: .cowork/skills/, .claude/agents/,
-           .cowork/instructions.md, Plans/, Scribe/
-    git: read-only (log/show/diff/status)
-    no access: JPLessons/, git write commands
-    never writes/edits any file
-    never calls scribe directly (planner does)
+      .cowork/instructions.md, Plans/, Scribe/ (read-only)
+    git log/show/diff/status: read-only
+    no access: JPLessons/
+    never writes or edits any file
+    hard rule: never calls scribe (planner does)
   end note
 
   component [planner] as Planner <<agent>>
   note right of Planner
     tools: Read, Write, Edit, Bash, Agent
-    reads/writes: Plans/ only
-    calls scribe after plan is saved
+    boundary: reads/writes Plans/ only
+      (also reads TARGET file under
+      REVIEWER_BRIEF mode)
+    calls scribe after saving a plan
   end note
 
   component [skill-implementer] as SkillImplementer <<agent>>
   note right of SkillImplementer
     tools: Read, Write, Edit, Bash, Agent
-    reads: Plans/, JPLessons/ (context only),
-           grammar-index/, Vocabulary/, .cowork/progress/
     writes: .cowork/skills/, .claude/agents/,
-            Plans/ (checkbox updates only, autonomous)
-    (confirms before writing grammar-index/, Vocabulary/,
-     .cowork/instructions.md — extra caution, rare)
-    never modifies lesson files unless explicitly asked
+      Plans/ (checkbox updates only)
+    JPLessons/ writes only if explicitly
+      instructed by user
     never pushes to git
-    calls documentation automatically after skill/agent file changes
+    calls documentation automatically (Step 4)
+      after any skill/agent file change
   end note
 
   component [scribe] as Scribe <<agent>>
   note right of Scribe
     tools: Read, Write, Edit, Bash
-    reads: .cowork/ (read-only), .claude/ (read-only)
+    reads: .cowork/, .claude/ (read-only)
+    git log/show/diff/status: read-only
     writes: Scribe/ only
     no access: JPLessons/
-    modes: capture, git-sweep, retrospect, post
-  end note
-
-  component [documentation] as Documentation <<agent>>
-  note right of Documentation
-    tools: Read, Write, Edit, Bash, Agent
-    reads: .claude/agents/, .cowork/skills/, .cowork/instructions.md
-    writes: docs/ only (vault-system-diagram.puml)
-    no access: JPLessons/, Scribe/, Plans/
-    does not call scribe itself (generate-diagram skill does)
+    no Agent tool — cannot call other agents
   end note
 }
 
 package 'Deprecated' {
   component [orchestrator] as Orchestrator <<agent>> <<deprecated>>
   note right of Orchestrator
-    DEPRECATED — replaced by direct agent routing
+    DEPRECATED — replaced by direct routing:
+    reviewer -> planner -> skill-implementer
     tools: Read, Bash, Agent (no Write/Edit)
-    sole permitted write: .cowork/tmp/orchestrator-handoff.md (slug handoff)
+    sole permitted write: .cowork/tmp/orchestrator-handoff.md
   end note
 
   component [skill-updater] as SkillUpdater <<agent>> <<deprecated>>
   note right of SkillUpdater
-    DEPRECATED — replaced by reviewer -> planner -> skill-implementer
+    DEPRECATED — replaced by reviewer + planner
+    + skill-implementer pipeline
     tools: Read, Write, Edit, Bash, Agent
-    kept for reference only; not invoked in new workflows
+    writes: .cowork/skills/ (existing files only,
+      never creates new skills)
   end note
 }
 
@@ -90,18 +102,22 @@ package 'Deprecated' {
 Orchestrator --> Reviewer : calls
 Orchestrator --> Planner : calls
 Orchestrator --> SkillImplementer : calls
-Reviewer --> Planner : calls
-Planner --> SkillImplementer : calls
-Planner --> Reviewer : calls
-Planner --> Scribe : calls
-SkillImplementer --> Documentation : calls
-SkillImplementer --> Reviewer : calls
-SkillImplementer --> Scribe : calls
+Orchestrator --> Scribe : calls (post mode only)
+Reviewer --> Planner : calls (if issues warrant a plan)
+Planner --> Scribe : calls (after plan saved)
+Planner ..> SkillImplementer : suggests next (user-gated)
+SkillImplementer --> Documentation : calls (Step 4, automatic)
+SkillImplementer ..> Reviewer : suggests next (user-gated)
+SkillImplementer ..> Scribe : optional (user-gated)
+SkillUpdater --> Scribe : calls (per modified file)
+Documentation --> GenerateDiagram : loads skill
 
-' ─── Agent -> Skill (loads) ───
-Documentation --> GenerateDiagram : loads
+' ─── Agent -> Storage ───
+Documentation ..> AgentsDir : reads
+Documentation ..> SkillsDir : reads
+Documentation ..> Instructions : reads
+Documentation --> DocsDir : writes
 
-' ─── Agent read/write edges ───
 Reviewer ..> SkillsDir : reads
 Reviewer ..> AgentsDir : reads
 Reviewer ..> Instructions : reads
@@ -112,200 +128,189 @@ Planner ..> PlansDir : reads
 Planner --> PlansDir : writes
 
 SkillImplementer ..> PlansDir : reads
-SkillImplementer --> PlansDir : writes (checkbox updates only)
+SkillImplementer --> PlansDir : writes (task checkboxes)
 SkillImplementer --> SkillsDir : writes
 SkillImplementer --> AgentsDir : writes
-SkillImplementer ..> Lessons : reads
-SkillImplementer ..> ProgressDir : reads
-SkillImplementer ..> GrammarIndex : reads
-SkillImplementer --> GrammarIndex : writes
-SkillImplementer ..> VocabDir : reads
-SkillImplementer --> VocabDir : writes
-SkillImplementer --> Instructions : writes (confirm-gated, rare)
+SkillImplementer ..> LessonsDir : reads (context only)
+SkillImplementer --> LessonsDir : writes (only if explicit)
 
+Scribe --> ScribeDir : writes
 Scribe ..> SkillsDir : reads
 Scribe ..> AgentsDir : reads
-Scribe --> ScribeDir : writes
-
-Documentation ..> AgentsDir : reads
-Documentation ..> SkillsDir : reads
-Documentation ..> Instructions : reads
-Documentation --> DocsDir : writes
 
 Orchestrator ..> PlansDir : reads
-Orchestrator --> TmpDir : writes
+Orchestrator --> TmpDir : writes (handoff slug only)
 
-SkillUpdater ..> SkillsDir : reads
 SkillUpdater --> SkillsDir : writes
 SkillUpdater ..> Instructions : reads
-SkillUpdater ..> Lessons : reads
+SkillUpdater ..> PlansDir : reads
+SkillUpdater ..> LessonsDir : reads (context only)
 
 ' ─── Skills (top-level) ───
 package "Skills (top-level)" {
-  component [fill-templates] as FillTemplates <<skill>>
-  note right of FillTemplates
-    script: .cowork/skills/fill_extract.py
-    (hardcoded remote mount path in skill body —
-    inconsistent with vault-root convention used elsewhere)
-  end note
-
-  component [templates-update] as TemplatesUpdate <<skill>>
-  note right of TemplatesUpdate
-    scripts: .cowork/scripts/preprocess-templates.py,
-             .cowork/scripts/kanji-links.py
-  end note
-
-  component [practice-grammar] as PracticeGrammar <<skill>>
-  component [practice-grammar-study-mode] as PracticeGrammarStudyMode <<skill>>
-  note right of PracticeGrammarStudyMode
-    sub-skill, loaded on demand by practice-grammar
-    never writes grammar-state.json
-  end note
-
-  component [practice-grammar-srs] as PracticeGrammarSRS <<skill>>
-  note right of PracticeGrammarSRS
-    sub-skill, loaded once at session end
-    scripts: .cowork/scripts/load-control.py,
-             .cowork/scripts/ics-export.py
-  end note
-
-  component [reading-jlpt] as ReadingJLPT <<skill>>
-  component [summarize-grammar] as SummarizeGrammar <<skill>>
-
-  component [manage-holidays] as ManageHolidays <<skill>>
-  note right of ManageHolidays
-    scripts: .cowork/scripts/load-control.py,
-             .cowork/scripts/ics-export.py
-  end note
-
-  component [kanji-headers] as KanjiHeaders <<skill>>
-  component [kanji-file] as KanjiFile <<skill>>
   component [generate-diagram] as GenerateDiagram <<skill>>
   component [extract-vocabulary] as ExtractVocabulary <<skill>>
-
+  component [fill-templates] as FillTemplates <<skill>>
   component [git-commit] as GitCommit <<skill>>
-  note right of GitCommit
-    NOT listed in .cowork/instructions.md "Available skills" registry
-    — orphaned/undocumented skill (gap)
-    workflow: git add/commit/push (requires user confirmation)
+  component [kanji-file] as KanjiFile <<skill>>
+  component [kanji-headers] as KanjiHeaders <<skill>>
+  component [manage-holidays] as ManageHolidays <<skill>>
+  component [practice-grammar] as PracticeGrammar <<skill>>
+  component [practice-grammar-srs] as PracticeGrammarSRS <<skill>>
+  component [practice-grammar-study-mode] as PracticeGrammarStudyMode <<skill>>
+  component [reading-jlpt] as ReadingJlpt <<skill>>
+  component [summarize-grammar] as SummarizeGrammar <<skill>>
+  component [templates-update] as TemplatesUpdate <<skill>>
+  component [update-kanji-list] as UpdateKanjiList <<skill>> <<deprecated>>
+
+  note bottom of GitCommit
+    Not part of the agent pipeline — runs git add/commit/push
+    directly on user confirmation. No agent invokes this skill.
+    GAP: not listed anywhere in .cowork/instructions.md's
+      "Available skills" registry — orphaned/undocumented skill.
   end note
 
-  component [update-kanji-list] as UpdateKanjiList <<skill>> <<deprecated>>
-  note right of UpdateKanjiList
-    DEPRECATED — superseded by kanji-headers + kanji-file
-    retained for reference only
+  note bottom of ExtractVocabulary
+    GAP: .cowork/instructions.md lists this as
+      "lesson-to-web/extract-vocabulary" but the actual file
+      lives at .cowork/skills/extract-vocabulary.md (top-level,
+      not under lesson-to-web/) — path mismatch in the registry.
+  end note
+
+  note bottom of UpdateKanjiList
+    DEPRECATED — superseded by kanji-headers (Steps 2 & 5)
+    and the kanji-file skill. Retained for reference only.
   end note
 }
 
 ' ─── Skills (lesson-to-web) ───
 package "Skills (lesson-to-web)" {
-  component [_conventions] as Conventions <<skill>>
-  note right of Conventions
-    shared output contract, no trigger phrase —
-    loaded unconditionally by every lesson-to-web skill
+  component [lesson-to-web/_conventions] as Conventions <<reference>>
+  component [lesson-to-web/_patterns] as Patterns <<reference>>
+  component [lesson-to-web/extract-grammar] as ExtractGrammar <<skill>>
+  component [lesson-to-web/preprocess-grammar] as PreprocessGrammar <<skill>>
+  component [lesson-to-web/review-grammar] as ReviewGrammar <<skill>>
+  component [lesson-to-web/structure-grammar] as StructureGrammar <<skill>>
+  component [lesson-to-web/see-also-grammar] as SeeAlsoGrammar <<skill>>
+  component [lesson-to-web/update-grammar] as UpdateGrammar <<skill>>
+
+  note bottom of Conventions
+    Shared output contract. Loaded unconditionally by every
+    lesson-to-web skill before executing any step. Not itself
+    trigger-driven (no ## Trigger section).
   end note
 
-  component [_patterns] as Patterns <<skill>>
-  note right of Patterns
-    input-recognition registry, lazy-loaded only on
-    unrecognised source format
+  note bottom of Patterns
+    Lazy-loaded input-pattern registry. Loaded only when a
+    skill encounters an unrecognised source format.
   end note
-
-  component [extract-grammar] as ExtractGrammar <<skill>>
-  component [preprocess-grammar] as PreprocessGrammar <<skill>>
-  note right of PreprocessGrammar
-    scripts: .claude/scripts/grammar-process.py,
-             .claude/scripts/furigana-convert.py
-  end note
-
-  component [review-grammar] as ReviewGrammar <<skill>>
-  component [structure-grammar] as StructureGrammar <<skill>>
-  component [see-also-grammar] as SeeAlsoGrammar <<skill>>
-  note right of SeeAlsoGrammar
-    scripts: .claude/scripts/grammar-audit.py,
-             .claude/scripts/grammar-process.py
-  end note
-
-  component [update-grammar] as UpdateGrammarChain <<skill>>
 }
 
-' ─── Skill -> Agent (A2A) ───
-GenerateDiagram --> Scribe : calls
+' ─── Skill chains ───
+GenerateDiagram --> Scribe : calls (A2A, Step 8)
 
-' ─── Skill chains to skill ───
-PracticeGrammar --> PracticeGrammarStudyMode : chains
-PracticeGrammar --> PracticeGrammarSRS : chains
-ReadingJLPT --> FillTemplates : chains
-KanjiHeaders --> KanjiFile : chains
-ExtractGrammar --> PreprocessGrammar : chains
-PreprocessGrammar --> ReviewGrammar : chains
-ReviewGrammar --> StructureGrammar : chains
-StructureGrammar --> SeeAlsoGrammar : chains
-UpdateGrammarChain --> PreprocessGrammar : chains (drives full pipeline)
+KanjiHeaders --> KanjiFile : chains (Step 2, sequential per kanji)
 
-ExtractGrammar ..> Conventions : loads
-PreprocessGrammar ..> Conventions : loads
-PreprocessGrammar ..> Patterns : loads (lazy)
-ReviewGrammar ..> Conventions : loads
-StructureGrammar ..> Conventions : loads
-SeeAlsoGrammar ..> Conventions : loads
-UpdateGrammarChain ..> Conventions : loads
+PracticeGrammar --> PracticeGrammarSRS : chains (persistence + calendar)
+PracticeGrammar --> PracticeGrammarStudyMode : chains (Study Mode, on demand)
+
+ReadingJlpt ..> FillTemplates : chains (optional, Step 7)
+
+ExtractGrammar --> Conventions : loads
+ExtractGrammar ..> PreprocessGrammar : chains (optional handoff)
+PreprocessGrammar --> Conventions : loads
+PreprocessGrammar ..> Patterns : loads (lazy, on unrecognised input)
+PreprocessGrammar ..> ReviewGrammar : chains (optional handoff)
+ReviewGrammar --> Conventions : loads
+ReviewGrammar ..> StructureGrammar : chains (optional handoff)
+StructureGrammar --> Conventions : loads
+StructureGrammar ..> SeeAlsoGrammar : chains (optional handoff)
+SeeAlsoGrammar --> Conventions : loads
+UpdateGrammar --> Conventions : loads
+UpdateGrammar --> PreprocessGrammar : chains (forces "all" mode)
 
 ' ─── Skill -> Storage ───
-FillTemplates --> Lessons : writes
-FillTemplates ..> ReferencesDir : reads
+ExtractVocabulary ..> LessonsDir : reads (up to # Summary only)
+ExtractVocabulary --> VocabularyDir : writes (words-extracted.md)
 
-TemplatesUpdate --> Lessons : writes
-TemplatesUpdate ..> ReferencesDir : reads
-
-PracticeGrammar ..> Lessons : reads
-PracticeGrammar ..> ProgressDir : reads
-
-PracticeGrammarSRS --> ProgressDir : writes
-PracticeGrammarSRS --> VaultRoot : writes
-
-ReadingJLPT --> Lessons : writes
-note right of ReadingJLPT
-  writes session files to JPLessons/Reading/ only
-  (explicit exception to general JPLessons/ read-only rule)
+FillTemplates ..> LessonsDir : reads/writes (# Summary section)
+FillTemplates ..> ReferencesDir : reads (verb-conjugation, adj-forms,\nhonorific-forms, kanji-links)
+note right of FillTemplates
+  script: python3 /sessions/stoic-serene-brahmagupta/mnt/ObsidianJP/
+    .cowork/skills/fill_extract.py <lesson_bash_path> KanjiList.md
+  GAP: hardcoded remote sandbox mount path in skill body —
+    inconsistent with the vault-root path convention
+    used by every other skill's script invocation
 end note
 
-SummarizeGrammar ..> Lessons : reads
-SummarizeGrammar --> GrammarIndex : writes
+GitCommit ..> LessonsDir : reads (git status/diff)
 
-ManageHolidays --> ProgressDir : writes
-ManageHolidays --> VaultRoot : writes
-
-KanjiHeaders --> Lessons : writes
-KanjiHeaders --> CaligraphyDir : writes
-KanjiHeaders --> VaultRoot : writes
-
-KanjiFile --> CaligraphyDir : writes
-
-UpdateKanjiList --> CaligraphyDir : writes
-UpdateKanjiList --> VaultRoot : writes
-
-ExtractVocabulary ..> Lessons : reads
-ExtractVocabulary --> VocabDir : writes
-
-GitCommit --> VaultRoot : writes (git commit/push)
-
-GenerateDiagram ..> AgentsDir : reads
-GenerateDiagram ..> SkillsDir : reads
-GenerateDiagram ..> Instructions : reads
-GenerateDiagram --> DocsDir : writes
-
-ExtractGrammar ..> Lessons : reads
-ExtractGrammar --> GrammarIndex : writes
-ExtractGrammar --> Lessons : writes
-note right of ExtractGrammar
-  step 8 exception: inserts one wikilink into the source
-  lesson file — the sole lesson-to-web write outside grammar-index/
+KanjiFile ..> CaligraphyDir : reads/writes (Kanji/, Primitives/)
+note right of KanjiFile
+  WebFetch: https://kanji-trainer.org/Mnemonic_phrase/
+  (sequential, one kanji at a time — rate-limit rule)
 end note
 
-PreprocessGrammar --> GrammarIndex : writes
-ReviewGrammar --> GrammarIndex : writes
-StructureGrammar --> GrammarIndex : writes
-SeeAlsoGrammar --> GrammarIndex : writes
+KanjiHeaders ..> LessonsDir : reads/writes (## headers, calligraphy files)
+KanjiHeaders --> KanjiListFile : writes (appends new kanji)
+
+ManageHolidays ..> ProgressDir : reads/writes (holidays.json,\ngrammar-state.json, load-control-rules.json)
+ManageHolidays --> VaultRootIcs : writes (full-calendar .ics)
+note right of ManageHolidays
+  scripts: .cowork/scripts/load-control.py
+    .cowork/scripts/ics-export.py
+end note
+
+PracticeGrammar ..> LessonsDir : reads (up to # Summary only)
+PracticeGrammar ..> ProgressDir : reads (grammar-state.json)
+PracticeGrammarSRS --> ProgressDir : writes (grammar-state.json)
+PracticeGrammarSRS --> VaultRootIcs : writes (session .ics)
+note right of PracticeGrammarSRS
+  scripts: .cowork/scripts/load-control.py
+    .cowork/scripts/ics-export.py
+end note
+note right of PracticeGrammarStudyMode
+  Never writes to grammar-state.json —
+  Study Mode exercises are excluded from SRS state.
+end note
+
+ReadingJlpt --> ReadingDir : writes (session file)
+ReadingJlpt ..> LessonsDir : reads (JPLessons/Reading/ existence check only)
+
+SummarizeGrammar ..> LessonsDir : reads (up to # Summary only)
+SummarizeGrammar --> GrammarIndexDir : writes (topic files, index.md)
+
+TemplatesUpdate ..> LessonsDir : reads/writes (# Summary section only)
+TemplatesUpdate ..> ReferencesDir : reads (card-templates, verb-conjugation,\nadj-forms, kanji-links, honorific-forms)
+note right of TemplatesUpdate
+  scripts: .cowork/scripts/preprocess-templates.py
+    .cowork/scripts/kanji-links.py
+end note
+
+UpdateKanjiList ..> LessonsDir : reads (calligraphy lesson file)
+UpdateKanjiList --> CaligraphyDir : writes (Kanji/, Primitives/)
+UpdateKanjiList --> KanjiListFile : writes
+
+ExtractGrammar ..> LessonsDir : reads (up to # Summary only)
+ExtractGrammar --> GrammarIndexGrammarDir : writes (new grammar-point files)
+ExtractGrammar --> LessonsDir : writes (single wikilink insertion, Step 8 only)
+ExtractGrammar --> GrammarIndexDir : writes (topic classification, Step 9)
+
+PreprocessGrammar ..> GrammarIndexGrammarDir : reads/writes
+note right of PreprocessGrammar
+  scripts: .claude/scripts/grammar-process.py
+    .claude/scripts/furigana-convert.py
+end note
+
+ReviewGrammar ..> GrammarIndexGrammarDir : reads/writes (user-gated edits)
+
+StructureGrammar ..> GrammarIndexGrammarDir : reads/writes (user-confirmed reformat)
+
+SeeAlsoGrammar ..> GrammarIndexGrammarDir : reads/writes (## See also, proofread flag)
+SeeAlsoGrammar ..> GrammarIndexDir : reads (topic files, for cross-linking)
+note right of SeeAlsoGrammar
+  scripts: .claude/scripts/grammar-audit.py --verbose
+    .claude/scripts/grammar-process.py --set-proofread
+end note
 
 @enduml

@@ -410,9 +410,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL6-Time
 お〜になる (honorific): お分かりになる
 ない形: わからない
 なかった形: わからなかった
-あれる形 (passive): わかられる
+あれる形 (passive/honorific): わかられる
 使役形 (make/let): わからせる
-尊敬語 (honorific): わかられる
 ば形 (if): わかれば
 可能形 (can): わかれる
 おう形 (let's): わかろう
@@ -433,9 +432,8 @@ to divide #k #wc #card
 お〜になる (honorific): お分けになる
 ない形: わけない
 なかった形: わけなかった
-あれる形 (passive): わけられる
+あれる形 (passive/honorific): わけられる
 使役形 (make/let): わけさせる
-尊敬語 (honorific): わけられる
 ば形 (if): わければ
 可能形 (can): わけられる
 おう形 (let's): わけよう
@@ -456,9 +454,8 @@ to be on time #k #wc #card
 お〜になる (honorific): お間に合いになる
 ない形: まにあわない
 なかった形: まにあわなかった
-あれる形 (passive): まにあわれる
+あれる形 (passive/honorific): まにあわれる
 使役形 (make/let): まにあわせる
-尊敬語 (honorific): まにあわれる
 ば形 (if): まにあえば
 可能形 (can): まにあえる
 おう形 (let's): まにあおう

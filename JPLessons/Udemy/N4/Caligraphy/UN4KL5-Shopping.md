@@ -588,9 +588,8 @@ pour (wlać) #k #card
 お〜になる (honorific): お注ぎになる
 ない形: 注がない
 なかった形: 注がなかった
-あれる形 (passive): 注がれる
+あれる形 (passive/honorific): 注がれる
 使役形 (make/let): 注がせる
-尊敬語 (honorific): 注がれる
 ば形 (if): 注げば
 可能形 (can): 注げる
 おう形 (let's): 注ごう
@@ -692,9 +691,8 @@ wear #k #card
 お〜になる (honorific): お着になる
 ない形: 着ない
 なかった形: 着なかった
-あれる形 (passive): 着られる
+あれる形 (passive/honorific): 着られる
 使役形 (make/let): 着させる
-尊敬語 (honorific): 着られる
 ば形 (if): 着れば
 可能形 (can): 着られる
 おう形 (let's): 着よう
@@ -731,9 +729,8 @@ arrive #k #card
 お〜になる (honorific): お着きになる
 ない形: 着かない
 なかった形: 着かなかった
-あれる形 (passive): 着かれる
+あれる形 (passive/honorific): 着かれる
 使役形 (make/let): 着かせる
-尊敬語 (honorific): 着かれる
 ば形 (if): 着けば
 可能形 (can): 着ける
 おう形 (let's): 着こう

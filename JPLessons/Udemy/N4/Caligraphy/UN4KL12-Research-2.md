@@ -970,9 +970,8 @@ represent, show, indicate #card
 お〜になる (honorific): お表しになる
 ない形: 表さない
 なかった形: 表さなかった
-あれる形 (passive): 表される
+あれる形 (passive/honorific): 表される
 使役形 (make/let): 表させる
-尊敬語 (honorific): 表される
 ば形 (if): 表せば
 可能形 (can): 表せる
 おう形 (let's): 表そう
@@ -991,9 +990,8 @@ to take somebody's place/ on behalf #card
 お〜になる (honorific): お代わりになる
 ない形: 代わらない
 なかった形: 代わらなかった
-あれる形 (passive): 代わられる
+あれる形 (passive/honorific): 代わられる
 使役形 (make/let): 代わらせる
-尊敬語 (honorific): 代わられる
 ば形 (if): 代われば
 可能形 (can): 代われる
 おう形 (let's): 代わろう

@@ -321,9 +321,8 @@ turn left(noun can be verb) #card
 お〜になる (honorific): ご左折になる  
 ない形: させつしない  
 なかった形: させつしなかった  
-あれる形 (passive): させつされる  
+あれる形 (passive/honorific): させつされる  
 使役形 (make/let): させつさせる  
-尊敬語 (honorific): させつされる  
 ば形 (if): させつすれば  
 可能形 (can): させつできる  
 おう形 (let's): させつしよう
@@ -343,9 +342,8 @@ turn right (noun can be verb) #card
 お〜になる (honorific): ご右折になる  
 ない形: うせつしない  
 なかった形: うせつしなかった  
-あれる形 (passive): うせつされる  
+あれる形 (passive/honorific): うせつされる  
 使役形 (make/let): うせつさせる  
-尊敬語 (honorific): うせつされる  
 ば形 (if): うせつすれば  
 可能形 (can): うせつできる  
 おう形 (let's): うせつしよう
@@ -365,9 +363,8 @@ go up (object rise) #card
 お〜になる (honorific): お上がりになる
 ない形: あがらない
 なかった形: あがらなかった
-あれる形 (passive): あがられる
+あれる形 (passive/honorific): あがられる
 使役形 (make/let): あがらせる
-尊敬語 (honorific): あがられる
 ば形 (if): あがれば
 可能形 (can): あがれる
 おう形 (let's): あがろう
@@ -386,9 +383,8 @@ to go up, to climb, ascend (someone) #card
 お〜になる (honorific): お上りになる
 ない形: のぼらない
 なかった形: のぼらなかった
-あれる形 (passive): のぼられる
+あれる形 (passive/honorific): のぼられる
 使役形 (make/let): のぼらせる
-尊敬語 (honorific): のぼられる
 ば形 (if): のぼれば
 可能形 (can): のぼれる
 おう形 (let's): のぼろう
@@ -407,9 +403,8 @@ go down (object) #card
 お〜になる (honorific): お下がりになる
 ない形: さがらない
 なかった形: さがらなかった
-あれる形 (passive): さがられる
+あれる形 (passive/honorific): さがられる
 使役形 (make/let): さがらせる
-尊敬語 (honorific): さがられる
 ば形 (if): さがれば
 可能形 (can): さがれる
 おう形 (let's): さがろう
@@ -428,9 +423,8 @@ to go down(someone) #card
 お〜になる (honorific): お下りになる
 ない形: くだらない
 なかった形: くだらなかった
-あれる形 (passive): くだられる
+あれる形 (passive/honorific): くだられる
 使役形 (make/let): くだらせる
-尊敬語 (honorific): くだられる
 ば形 (if): くだれば
 可能形 (can): くだれる
 おう形 (let's): くだろう

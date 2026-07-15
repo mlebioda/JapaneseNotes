@@ -1024,9 +1024,8 @@ to enjyoi #card
 お〜になる (honorific): お楽しみになる
 ない形: 楽しまない
 なかった形: 楽しまなかった
-あれる形 (passive): 楽しまれる
+あれる形 (passive/honorific): 楽しまれる
 使役形 (make/let): 楽しませる
-尊敬語 (honorific): 楽しまれる
 ば形 (if): 楽しめば
 可能形 (can): 楽しめる
 おう形 (let's): 楽しもう
@@ -1045,9 +1044,8 @@ to get up #card
 お〜になる (honorific): お起きになる
 ない形: 起きない
 なかった形: 起きなかった
-あれる形 (passive): 起きられる
+あれる形 (passive/honorific): 起きられる
 使役形 (make/let): 起きさせる
-尊敬語 (honorific): 起きられる
 ば形 (if): 起きれば
 可能形 (can): 起きられる
 おう形 (let's): 起きよう
@@ -1066,9 +1064,8 @@ wake someone up #card
 お〜になる (honorific): お起こしになる
 ない形: 起こさない
 なかった形: 起こさなかった
-あれる形 (passive): 起こされる
+あれる形 (passive/honorific): 起こされる
 使役形 (make/let): 起こさせる
-尊敬語 (honorific): 起こされる
 ば形 (if): 起こせば
 可能形 (can): 起こせる
 おう形 (let's): 起こそう
@@ -1087,9 +1084,8 @@ być odwołanym / zostać anulowanym #card
 お〜になる (honorific): お中止されになる
 ない形: 中止されない
 なかった形: 中止されなかった
-あれる形 (passive): 中止されられる
+あれる形 (passive/honorific): 中止されられる
 使役形 (make/let): 中止されさせる
-尊敬語 (honorific): 中止されられる
 ば形 (if): 中止されれば
 可能形 (can): 中止されられる
 おう形 (let's): 中止されよう
@@ -1109,9 +1105,8 @@ to carry #card
 お〜になる (honorific): お運びになる
 ない形: 運ばない
 なかった形: 運ばなかった
-あれる形 (passive): 運ばれる
+あれる形 (passive/honorific): 運ばれる
 使役形 (make/let): 運ばせる
-尊敬語 (honorific): 運ばれる
 ば形 (if): 運べば
 可能形 (can): 運べる
 おう形 (let's): 運ぼう
@@ -1130,9 +1125,8 @@ to roll #card
 お〜になる (honorific): お転びになる
 ない形: 転ばない
 なかった形: 転ばなかった
-あれる形 (passive): 転ばれる
+あれる形 (passive/honorific): 転ばれる
 使役形 (make/let): 転ばせる
-尊敬語 (honorific): 転ばれる
 ば形 (if): 転べば
 可能形 (can): 転べる
 おう形 (let's): 転ぼう
@@ -1151,9 +1145,8 @@ make something rool #card
 お〜になる (honorific): お転がしになる
 ない形: 転がさない
 なかった形: 転がさなかった
-あれる形 (passive): 転がされる
+あれる形 (passive/honorific): 転がされる
 使役形 (make/let): 転がさせる
-尊敬語 (honorific): 転がされる
 ば形 (if): 転がせば
 可能形 (can): 転がせる
 おう形 (let's): 転がそう

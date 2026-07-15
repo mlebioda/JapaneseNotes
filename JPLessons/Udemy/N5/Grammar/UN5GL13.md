@@ -1284,9 +1284,8 @@ to wear (clothing below the waist) #wc #card
 お〜になる (honorific): お履きになる
 ない形: 履かない
 なかった形: 履かなかった
-あれる形 (passive):  履かれる
+あれる形 (passive/honorific):  履かれる
 使役形 (make/let): 履かせる
-尊敬語 (honorific): 履かれる
 ば形 (if): 履けば
 可能形 (can): 履ける
 おう形 (let's): 履こう
@@ -1305,9 +1304,8 @@ put on (one's hat) #wc #card
 お〜になる (honorific): お被りになる
 ない形: 被らない
 なかった形: 被らなかった
-あれる形 (passive):  被られる
+あれる形 (passive/honorific):  被られる
 使役形 (make/let): 被らせる
-尊敬語 (honorific): 被られる
 ば形 (if): 被れば
 可能形 (can): 被れる
 おう形 (let's): 被ろう
@@ -1326,9 +1324,8 @@ to think #wc #k #card
 お〜になる (honorific): お思いになる
 ない形: 思わない
 なかった形: 思わなかった
-あれる形 (passive):  思われる
+あれる形 (passive/honorific):  思われる
 使役形 (make/let): 思わせる
-尊敬語 (honorific): 思われる
 ば形 (if): 思えば
 可能形 (can): 思える
 おう形 (let's): 思おう
@@ -1347,9 +1344,8 @@ to say #wc #k #card
 お〜になる (honorific): お言いになる
 ない形: 言わない
 なかった形: 言わなかった
-あれる形 (passive):  言われる
+あれる形 (passive/honorific):  言われる
 使役形 (make/let): 言わせる
-尊敬語 (honorific): 言われる
 ば形 (if): 言えば
 可能形 (can): 言える
 おう形 (let's): 言おう
@@ -1368,9 +1364,8 @@ to wear (clothing above the waist) #wc #k #card
 お〜になる (honorific): お着になる
 ない形: 着ない
 なかった形: 着なかった
-あれる形 (passive):  着られる
+あれる形 (passive/honorific):  着られる
 使役形 (make/let): 着させる
-尊敬語 (honorific): 着られる
 ば形 (if): 着れば
 可能形 (can): 着られる
 おう形 (let's): 着よう
@@ -1389,9 +1384,8 @@ take off (clothing) #wc #card
 お〜になる (honorific): お脱ぎになる
 ない形: 脱がない
 なかった形: 脱がなかった
-あれる形 (passive):  脱がれる
+あれる形 (passive/honorific):  脱がれる
 使役形 (make/let): 脱がせる
-尊敬語 (honorific): 脱がれる
 ば形 (if): 脱げば
 可能形 (can): 脱げる
 おう形 (let's): 脱ごう
@@ -1410,9 +1404,8 @@ to play (a musical instrument) #wc #card
 お〜になる (honorific): お弾きになる
 ない形: 弾かない
 なかった形: 弾かなかった
-あれる形 (passive):  弾かれる
+あれる形 (passive/honorific):  弾かれる
 使役形 (make/let): 弾かせる
-尊敬語 (honorific): 弾かれる
 ば形 (if): 弾けば
 可能形 (can): 弾ける
 おう形 (let's): 弾こう

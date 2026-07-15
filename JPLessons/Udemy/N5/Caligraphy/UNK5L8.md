@@ -618,9 +618,8 @@ to say #k  #card
 お〜になる (honorific): おっしゃる
 ない形: 言わない
 なかった形: 言わなかった
-あれる形 (passive): いわれる
+あれる形 (passive/honorific): いわれる
 使役形 (make/let): 言わせる
-尊敬語 (honorific): いわれる
 ば形 (if): 言えば
 可能形 (can): 言える
 おう形 (let's): 言おう
@@ -639,9 +638,8 @@ talk #k  #card
 お〜になる (honorific): おはなしになる
 ない形: 話さない
 なかった形: 話さなかった
-あれる形 (passive): はなされる
+あれる形 (passive/honorific): はなされる
 使役形 (make/let): 話させる
-尊敬語 (honorific): はなされる
 ば形 (if): 話せば
 可能形 (can): 話せる
 おう形 (let's): 話そう
@@ -660,9 +658,8 @@ to tell, opowiedzieć (literacki styl) #k  #card
 お〜になる (honorific): おかたりになる
 ない形: 語らない
 なかった形: 語らなかった
-あれる形 (passive): かたられる
+あれる形 (passive/honorific): かたられる
 使役形 (make/let): 語らせる
-尊敬語 (honorific): かたられる
 ば形 (if): 語れば
 可能形 (can): 語れる
 おう形 (let's): 語ろう
@@ -681,9 +678,8 @@ to read #k  #card
 お〜になる (honorific): およみになる
 ない形: 読まない
 なかった形: 読まなかった
-あれる形 (passive): よまれる
+あれる形 (passive/honorific): よまれる
 使役形 (make/let): 読ませる
-尊敬語 (honorific): よまれる
 ば形 (if): 読めば
 可能形 (can): 読める
 おう形 (let's): 読もう
@@ -702,9 +698,8 @@ to write #k  #card
 お〜になる (honorific): おかきになる
 ない形: 書かない
 なかった形: 書かなかった
-あれる形 (passive): かかれる
+あれる形 (passive/honorific): かかれる
 使役形 (make/let): 書かせる
-尊敬語 (honorific): かかれる
 ば形 (if): 書けば
 可能形 (can): 書ける
 おう形 (let's): 書こう
@@ -723,9 +718,8 @@ to see  #card
 お〜になる (honorific): ごらんになる
 ない形: 見ない
 なかった形: 見なかった
-あれる形 (passive): みられる
+あれる形 (passive/honorific): みられる
 使役形 (make/let): 見させる
-尊敬語 (honorific): みられる
 ば形 (if): 見れば
 可能形 (can): 見られる
 おう形 (let's): 見よう
@@ -744,9 +738,8 @@ to show  #card
 お〜になる (honorific): おみせになる
 ない形: 見せない
 なかった形: 見せなかった
-あれる形 (passive): みせられる
+あれる形 (passive/honorific): みせられる
 使役形 (make/let): 見せさせる
-尊敬語 (honorific): みせられる
 ば形 (if): 見せれば
 可能形 (can): 見せられる
 おう形 (let's): 見せよう
@@ -765,9 +758,8 @@ to listen #k  #card
 お〜になる (honorific): おききになる
 ない形: 聞かない
 なかった形: 聞かなかった
-あれる形 (passive): きかれる
+あれる形 (passive/honorific): きかれる
 使役形 (make/let): 聞かせる
-尊敬語 (honorific): きかれる
 ば形 (if): 聞けば
 可能形 (can): 聞ける
 おう形 (let's): 聞こう
@@ -786,9 +778,8 @@ to be heard, not actively hear #k  #card
 お〜になる (honorific): ―
 ない形: 聞こえない
 なかった形: 聞こえなかった
-あれる形 (passive): きこえられる
+あれる形 (passive/honorific): きこえられる
 使役形 (make/let): 聞こえさせる
-尊敬語 (honorific): きこえられる
 ば形 (if): 聞こえれば
 可能形 (can): 聞こえられる
 おう形 (let's): 聞こえよう
@@ -807,9 +798,8 @@ to go #k  #card
 お〜になる (honorific): おでかけになる
 ない形: 行かない
 なかった形: 行かなかった
-あれる形 (passive): いかれる
+あれる形 (passive/honorific): いかれる
 使役形 (make/let): 行かせる
-尊敬語 (honorific): いかれる
 ば形 (if): 行けば
 可能形 (can): 行ける
 おう形 (let's): 行こう
@@ -828,9 +818,8 @@ wykonywać, przeprowadzać, realizować (formalny) #k  #card
 お〜になる (honorific): ―
 ない形: 行わない
 なかった形: 行わなかった
-あれる形 (passive): おこなわれる
+あれる形 (passive/honorific): おこなわれる
 使役形 (make/let): 行わせる
-尊敬語 (honorific): おこなわれる
 ば形 (if): 行えば
 可能形 (can): 行える
 おう形 (let's): 行おう
@@ -849,9 +838,8 @@ to come #k  #card
 お〜になる (honorific): お出でになる
 ない形: 来ない（こない）
 なかった形: 来なかった（こなかった）
-あれる形 (passive): こられる
+あれる形 (passive/honorific): こられる
 使役形 (make/let): 来させる（こさせる）
-尊敬語 (honorific): こられる
 ば形 (if): 来れば（くれば）
 可能形 (can): 来られる（こられる）
 おう形 (let's): 来よう（こよう）
@@ -870,9 +858,8 @@ go out #k  #card
 お〜になる (honorific): おでになる
 ない形: 出ない
 なかった形: 出なかった
-あれる形 (passive): でられる
+あれる形 (passive/honorific): でられる
 使役形 (make/let): 出させる
-尊敬語 (honorific): でられる
 ば形 (if): 出れば
 可能形 (can): 出られる
 おう形 (let's): 出よう
@@ -891,9 +878,8 @@ wyjmować / wysyłać #k  #card
 お〜になる (honorific): おだしになる
 ない形: 出さない
 なかった形: 出さなかった
-あれる形 (passive): だされる
+あれる形 (passive/honorific): だされる
 使役形 (make/let): 出させる
-尊敬語 (honorific): だされる
 ば形 (if): 出せば
 可能形 (can): 出せる
 おう形 (let's): 出そう
@@ -912,9 +898,8 @@ to enter #k  #card
 お〜になる (honorific): おはいりになる
 ない形: 入らない
 なかった形: 入らなかった
-あれる形 (passive): はいられる
+あれる形 (passive/honorific): はいられる
 使役形 (make/let): 入らせる
-尊敬語 (honorific): はいられる
 ば形 (if): 入れば
 可能形 (can): 入れる
 おう形 (let's): 入ろう
@@ -933,9 +918,8 @@ to put in #k  #card
 お〜になる (honorific): おいれになる
 ない形: 入れない
 なかった形: 入れなかった
-あれる形 (passive): いれられる
+あれる形 (passive/honorific): いれられる
 使役形 (make/let): 入れさせる
-尊敬語 (honorific): いれられる
 ば形 (if): 入れれば
 可能形 (can): 入れられる
 おう形 (let's): 入れよう
@@ -954,9 +938,8 @@ to eat #k  #card
 お〜になる (honorific): めしあがる
 ない形: 食べない
 なかった形: 食べなかった
-あれる形 (passive): たべられる
+あれる形 (passive/honorific): たべられる
 使役形 (make/let): 食べさせる
-尊敬語 (honorific): たべられる
 ば形 (if): 食べれば
 可能形 (can): 食べられる
 おう形 (let's): 食べよう
@@ -975,9 +958,8 @@ to drink #k  #card
 お〜になる (honorific): おのみになる
 ない形: 飲まない
 なかった形: 飲まなかった
-あれる形 (passive): のまれる
+あれる形 (passive/honorific): のまれる
 使役形 (make/let): 飲ませる
-尊敬語 (honorific): のまれる
 ば形 (if): 飲めば
 可能形 (can): 飲める
 おう形 (let's): 飲もう
@@ -996,9 +978,8 @@ to stand #k  #card
 お〜になる (honorific): おたちになる
 ない形: 立たない
 なかった形: 立たなかった
-あれる形 (passive): たたれる
+あれる形 (passive/honorific): たたれる
 使役形 (make/let): 立たせる
-尊敬語 (honorific): たたれる
 ば形 (if): 立てば
 可能形 (can): 立てる
 おう形 (let's): 立とう
@@ -1017,9 +998,8 @@ to rest #k  #card
 お〜になる (honorific): おやすみになる
 ない形: 休まない
 なかった形: 休まなかった
-あれる形 (passive): やすまれる
+あれる形 (passive/honorific): やすまれる
 使役形 (make/let): 休ませる
-尊敬語 (honorific): やすまれる
 ば形 (if): 休めば
 可能形 (can): 休める
 おう形 (let's): 休もう
@@ -1038,9 +1018,8 @@ to buy #k  #card
 お〜になる (honorific): おかいになる
 ない形: 買わない
 なかった形: 買わなかった
-あれる形 (passive): かわれる
+あれる形 (passive/honorific): かわれる
 使役形 (make/let): 買わせる
-尊敬語 (honorific): かわれる
 ば形 (if): 買えば
 可能形 (can): 買える
 おう形 (let's): 買おう

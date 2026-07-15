@@ -659,9 +659,8 @@ to line up (intransitive) (ustawiać się w kolejce / stać w kolejce / układa�
 お〜になる (honorific): お並びになる
 ない形: 並ばない
 なかった形: 並ばなかった
-あれる形 (passive): 並ばれる
+あれる形 (passive/honorific): 並ばれる
 使役形 (make/let): 並ばせる
-尊敬語 (honorific): 並ばれる
 ば形 (if): 並べば
 可能形 (can): 並べる
 おう形 (let's): 並ぼう
@@ -680,9 +679,8 @@ to line up (transitive) (ustawiać cos w kolejce ) #card
 お〜になる (honorific): お並べになる
 ない形: 並べない
 なかった形: 並べなかった
-あれる形 (passive): 並べられる
+あれる形 (passive/honorific): 並べられる
 使役形 (make/let): 並べさせる
-尊敬語 (honorific): 並べられる
 ば形 (if): 並べれば
 可能形 (can): 並べられる
 おう形 (let's): 並べよう
@@ -822,9 +820,8 @@ to advance (intransitive) #card
 お〜になる (honorific): お進みになる
 ない形: 進まない
 なかった形: 進まなかった
-あれる形 (passive): 進まれる
+あれる形 (passive/honorific): 進まれる
 使役形 (make/let): 進ませる
-尊敬語 (honorific): 進まれる
 ば形 (if): 進めば
 可能形 (can): 進める
 おう形 (let's): 進もう
@@ -896,9 +893,8 @@ to run away (intransitive) #card
 お〜になる (honorific): お逃げになる
 ない形: 逃げない
 なかった形: 逃げなかった
-あれる形 (passive): 逃げられる
+あれる形 (passive/honorific): 逃げられる
 使役形 (make/let): 逃げさせる
-尊敬語 (honorific): 逃げられる
 ば形 (if): 逃げれば
 可能形 (can): 逃げられる
 おう形 (let's): 逃げよう
@@ -924,9 +920,8 @@ to continue (intransitive) #card
 お〜になる (honorific): お続きになる
 ない形: 続かない
 なかった形: 続かなかった
-あれる形 (passive): 続かれる
+あれる形 (passive/honorific): 続かれる
 使役形 (make/let): 続かせる
-尊敬語 (honorific): 続かれる
 ば形 (if): 続けば
 可能形 (can): 続ける
 おう形 (let's): 続こう
@@ -945,9 +940,8 @@ to continue (transitive) #card
 お〜になる (honorific): お続けになる
 ない形: 続けない
 なかった形: 続けなかった
-あれる形 (passive): 続けられる
+あれる形 (passive/honorific): 続けられる
 使役形 (make/let): 続けさせる
-尊敬語 (honorific): 続けられる
 ば形 (if): 続ければ
 可能形 (can): 続けられる
 おう形 (let's): 続けよう
@@ -973,9 +967,8 @@ to compare (transitive) #card
 お〜になる (honorific): お比べになる
 ない形: 比べない
 なかった形: 比べなかった
-あれる形 (passive): 比べられる
+あれる形 (passive/honorific): 比べられる
 使役形 (make/let): 比べさせる
-尊敬語 (honorific): 比べられる
 ば形 (if): 比べれば
 可能形 (can): 比べられる
 おう形 (let's): 比べよう
@@ -1059,9 +1052,8 @@ to take (picture) (transitive) #k #card
 お〜になる (honorific): お写しになる
 ない形: 写さない
 なかった形: 写さなかった
-あれる形 (passive): 写される
+あれる形 (passive/honorific): 写される
 使役形 (make/let): 写させる
-尊敬語 (honorific): 写される
 ば形 (if): 写せば
 可能形 (can): 写せる
 おう形 (let's): 写そう
@@ -1080,9 +1072,8 @@ to be shown/projected (intransitive) #k #card
 お〜になる (honorific): お写りになる
 ない形: 写らない
 なかった形: 写らなかった
-あれる形 (passive): 写られる
+あれる形 (passive/honorific): 写られる
 使役形 (make/let): 写らせる
-尊敬語 (honorific): 写られる
 ば形 (if): 写れば
 可能形 (can): 写れる
 おう形 (let's): 写ろう
@@ -1115,9 +1106,8 @@ to move / to transfer (location or status) (transitive) #card
 お〜になる (honorific): お移しになる
 ない形: 移さない
 なかった形: 移さなかった
-あれる形 (passive): 移される
+あれる形 (passive/honorific): 移される
 使役形 (make/let): 移させる
-尊敬語 (honorific): 移される
 ば形 (if): 移せば
 可能形 (can): 移せる
 おう形 (let's): 移そう
@@ -1136,9 +1126,8 @@ to move / to transfer (intransitive)(location or status) #card
 お〜になる (honorific): お移りになる
 ない形: 移らない
 なかった形: 移らなかった
-あれる形 (passive): 移られる
+あれる形 (passive/honorific): 移られる
 使役形 (make/let): 移らせる
-尊敬語 (honorific): 移られる
 ば形 (if): 移れば
 可能形 (can): 移れる
 おう形 (let's): 移ろう
@@ -1178,9 +1167,8 @@ to recall (transitive) #k #card
 お〜になる (honorific): お思い出しになる
 ない形: 思い出さない
 なかった形: 思い出さなかった
-あれる形 (passive): 思い出される
+あれる形 (passive/honorific): 思い出される
 使役形 (make/let): 思い出させる
-尊敬語 (honorific): 思い出される
 ば形 (if): 思い出せば
 可能形 (can): 思い出せる
 おう形 (let's): 思い出そう
@@ -1242,9 +1230,8 @@ to do / to perform (transitive) #k #card
 お〜になる (honorific): お行いになる
 ない形: 行わない
 なかった形: 行わなかった
-あれる形 (passive): 行われる
+あれる形 (passive/honorific): 行われる
 使役形 (make/let): 行わせる
-尊敬語 (honorific): 行われる
 ば形 (if): 行えば
 可能形 (can): 行える
 おう形 (let's): 行おう
@@ -1313,9 +1300,8 @@ to be happy / to rejoice (intransitive) #card
 お〜になる (honorific): お喜びになる
 ない形: 喜ばない
 なかった形: 喜ばなかった
-あれる形 (passive): 喜ばれる
+あれる形 (passive/honorific): 喜ばれる
 使役形 (make/let): 喜ばせる
-尊敬語 (honorific): 喜ばれる
 ば形 (if): 喜べば
 可能形 (can): 喜べる
 おう形 (let's): 喜ぼう

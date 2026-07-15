@@ -782,9 +782,8 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 お〜になる (honorific): お走りになる
 ない形: 走らない
 なかった形: 走らなかった
-あれる形 (passive): 走られる
+あれる形 (passive/honorific): 走られる
 使役形 (make/let): 走らせる
-尊敬語 (honorific): 走られる
 ば形 (if): 走れば
 可能形 (can): 走れる
 おう形 (let's): 走ろう
@@ -801,9 +800,8 @@ walk #card
 お〜になる (honorific): お歩きになる
 ない形: 歩かない
 なかった形: 歩かなかった
-あれる形 (passive): 歩かれる
+あれる形 (passive/honorific): 歩かれる
 使役形 (make/let): 歩かせる
-尊敬語 (honorific): 歩かれる
 ば形 (if): 歩けば
 可能形 (can): 歩ける
 おう形 (let's): 歩こう
@@ -820,9 +818,8 @@ enjoy/cieszyć się #card
 お〜になる (honorific): お楽しみになる
 ない形: 楽しまない
 なかった形: 楽しまなかった
-あれる形 (passive): 楽しまれる
+あれる形 (passive/honorific): 楽しまれる
 使役形 (make/let): 楽しませる
-尊敬語 (honorific): 楽しまれる
 ば形 (if): 楽しめば
 可能形 (can): 楽しめる
 おう形 (let's): 楽しもう
@@ -839,9 +836,8 @@ to notify #card
 お〜になる (honorific): お知らせになる
 ない形: 知らせない
 なかった形: 知らせなかった
-あれる形 (passive): 知らせられる
+あれる形 (passive/honorific): 知らせられる
 使役形 (make/let): 知らせさせる
-尊敬語 (honorific): 知らせられる
 ば形 (if): 知らせれば
 可能形 (can): 知らせられる
 おう形 (let's): 知らせよう
@@ -858,9 +854,8 @@ sing #card
 お〜になる (honorific): お歌いになる
 ない形: 歌わない
 なかった形: 歌わなかった
-あれる形 (passive): 歌われる
+あれる形 (passive/honorific): 歌われる
 使役形 (make/let): 歌わせる
-尊敬語 (honorific): 歌われる
 ば形 (if): 歌えば
 可能形 (can): 歌える
 おう形 (let's): 歌おう
@@ -877,9 +872,8 @@ be reflected(odbijać się)/be projected #card
 お〜になる (honorific): お映りになる
 ない形: 映らない
 なかった形: 映らなかった
-あれる形 (passive): 映られる
+あれる形 (passive/honorific): 映られる
 使役形 (make/let): 映らせる
-尊敬語 (honorific): 映られる
 ば形 (if): 映れば
 可能形 (can): 映れる
 おう形 (let's): 映ろう
@@ -896,9 +890,8 @@ return #card
 お〜になる (honorific): お帰りになる
 ない形: 帰らない
 なかった形: 帰らなかった
-あれる形 (passive): 帰られる
+あれる形 (passive/honorific): 帰られる
 使役形 (make/let): 帰らせる
-尊敬語 (honorific): 帰られる
 ば形 (if): 帰れば
 可能形 (can): 帰れる
 おう形 (let's): 帰ろう

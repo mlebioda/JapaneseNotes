@@ -460,10 +460,9 @@ to express / to show (transitive) #k #card
 なかった形: 表さなかった
 ば形 (if): 表せば
 可能形 (can): 表せる
-あれる形 (passive): 表される
+あれる形 (passive/honorific): 表される
 使役形 (make/let): 表させる
 出す形 (start): 表し出す
-尊敬語 (honorific): 表される
 お〜になる (honorific): お表しになる
 そう (looks): 表しそう
 おう形 (let's): 表そう
@@ -570,7 +569,7 @@ quite / entirely / at all (+structure) #card
 <!--ID: 1782213671851-->
 
 
-I don't drink alcohol at all. #k #card
+I don't drink alcohol at all. (stronger intention, slighyly formal) #k #card
 まったくお酒(さけ)を飲(の)みません。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_酒.html">酒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
@@ -751,10 +750,9 @@ to save (transitive) #card
 なかった形: 貯めなかった
 ば形 (if): 貯めれば
 可能形 (can): 貯められる
-あれる形 (passive): 貯められる
+あれる形 (passive/honorific): 貯められる
 使役形 (make/let): 貯めさせる
 出す形 (start): 貯め出す
-尊敬語 (honorific): 貯められる
 お〜になる (honorific): お貯めになる
 そう (looks): 貯めそう
 おう形 (let's): 貯めよう
@@ -779,10 +777,9 @@ to pay (transitive) #card
 なかった形: 払わなかった
 ば形 (if): 払えば
 可能形 (can): 払える
-あれる形 (passive): 払われる
+あれる形 (passive/honorific): 払われる
 使役形 (make/let): 払わせる
 出す形 (start): 払い出す
-尊敬語 (honorific): 払われる
 お〜になる (honorific): お払いになる
 そう (looks): 払いそう
 おう形 (let's): 払おう
@@ -823,10 +820,9 @@ to fold (transitive) #card
 なかった形: 折らなかった
 ば形 (if): 折れば
 可能形 (can): 折れる
-あれる形 (passive): 折られる
+あれる形 (passive/honorific): 折られる
 使役形 (make/let): 折らせる
 出す形 (start): 折り出す
-尊敬語 (honorific): 折られる
 お〜になる (honorific): お折りになる
 そう (looks): 折りそう
 おう形 (let's): 折ろう
@@ -844,10 +840,9 @@ to be broken (intransitive) #card
 なかった形: 折れなかった
 ば形 (if): 折れれば
 可能形 (can): 折れられる
-あれる形 (passive): 折れられる
+あれる形 (passive/honorific): 折れられる
 使役形 (make/let): 折れさせる
 出す形 (start): 折れ出す
-尊敬語 (honorific): 折れられる
 お〜になる (honorific): お折れになる
 そう (looks): 折れそう
 おう形 (let's): 折れよう
@@ -865,10 +860,9 @@ to press (transitive) #card
 なかった形: 押さなかった
 ば形 (if): 押せば
 可能形 (can): 押せる
-あれる形 (passive): 押される
+あれる形 (passive/honorific): 押される
 使役形 (make/let): 押させる
 出す形 (start): 押し出す
-尊敬語 (honorific): 押される
 お〜になる (honorific): お押しになる
 そう (looks): 押しそう
 おう形 (let's): 押そう
@@ -889,7 +883,7 @@ gloves #k #card
 <!--ID: 1782213671884-->
 
 
-certainly, sure #card
+certainly, sure　(Based on personal belief, hope, or expectation. The speaker feels sure but it's their opinion) #card
 きっと
 <!--ID: 1782213671885-->
 
@@ -1021,10 +1015,9 @@ to lose (transitive) #card
 なかった形: 失くさなかった
 ば形 (if): 失くせば
 可能形 (can): 失くせる
-あれる形 (passive): 失くされる
+あれる形 (passive/honorific): 失くされる
 使役形 (make/let): 失くさせる
 出す形 (start): 失くし出す
-尊敬語 (honorific): 失くされる
 お〜になる (honorific): お失くしになる
 そう (looks): 失くしそう
 おう形 (let's): 失くそう
@@ -1103,10 +1096,9 @@ to apologize (intransitive) #card
 なかった形: 謝らなかった
 ば形 (if): 謝れば
 可能形 (can): 謝れる
-あれる形 (passive): 謝られる
+あれる形 (passive/honorific): 謝られる
 使役形 (make/let): 謝らせる
 出す形 (start): 謝り出す
-尊敬語 (honorific): 謝られる
 お〜になる (honorific): お謝りになる
 そう (looks): 謝りそう
 おう形 (let's): 謝ろう
@@ -1149,10 +1141,9 @@ to increase (intransitive) #card
 なかった形: 増えなかった
 ば形 (if): 増えれば
 可能形 (can): 増えられる
-あれる形 (passive): 増えられる
+あれる形 (passive/honorific): 増えられる
 使役形 (make/let): 増えさせる
 出す形 (start): 増え出す
-尊敬語 (honorific): 増えられる
 お〜になる (honorific): お増えになる
 そう (looks): 増えそう
 おう形 (let's): 増えよう
