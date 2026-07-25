@@ -262,7 +262,7 @@ to turn on the light #k #card
 
 
 
-train #k #card
+train | the general word for a train #k #card
 電車(でんしゃ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
@@ -270,7 +270,7 @@ train #k #card
 
 
 
-car #k #card
+car | the general word for a car #k #card
 車（くるま)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <!--ID: 1776605660605-->
@@ -286,7 +286,7 @@ travel by car #k #card
 
 
 
-car (self-moving vehicle) used in documentation, technical, formal #k #card
+car (self-moving vehicle) | a more technical/formal term for automobile, used in official or written contexts #k #card
 自動車（じどうしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
@@ -295,7 +295,7 @@ car (self-moving vehicle) used in documentation, technical, formal #k #card
 
 
 
-gate #k #card
+gate | the general word for a gate #k #card
 門（もん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_門.html">門</a>
 <!--ID: 1776605660608-->
@@ -310,8 +310,9 @@ a school gate #k #card
 
 
 
-field of study #k #card
+field of study, specialty | one's specialized area of study or expertise #k #card
 専門（せんもん）
+お/ご (honorific): ご専門(せんもん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_専.html">専</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_門.html">門</a>
 <!--ID: 1776605660610-->
@@ -326,7 +327,7 @@ open a gate #k #card
 
 
 
-horse #k #card
+horse | the general word for a horse #k #card
 馬（うま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_馬.html">馬</a>
 <!--ID: 1776605660612-->
@@ -341,7 +342,7 @@ to ride a horse #k #card
 
 
 
-carriage #k #card
+carriage | a horse-drawn vehicle #k #card
 馬車（ばしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_馬.html">馬</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
@@ -349,7 +350,7 @@ carriage #k #card
 
 
 
-wooden horse #k #card
+wooden horse | a horse figure made of wood, e.g. a rocking horse or toy #k #card
 木馬（もくば）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_馬.html">馬</a>
@@ -357,8 +358,9 @@ wooden horse #k #card
 
 
 
-fish #k #card
+fish | the general word for fish #k #card
 魚（さかな）
+お/ご (honorific): お魚(さかな)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_魚.html">魚</a>
 <!--ID: 1776605660616-->
 
@@ -372,7 +374,7 @@ to eat fish #k #card
 
 
 
-gold fish #k #card
+goldfish #k #card
 金魚（きんぎょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_魚.html">魚</a>
@@ -405,7 +407,7 @@ to meet friend on the road #k #card
 
 
 
-tap water #k #card
+tap water, water supply | refers to the piped water supply system, as opposed to well/river water #k #card
 水道（すいどう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
@@ -413,7 +415,7 @@ tap water #k #card
 
 
 
-road way (vehicle lane) #k #card
+roadway | the lane designated for vehicles, as opposed to a sidewalk #k #card
 車道（しゃどう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
@@ -421,14 +423,15 @@ road way (vehicle lane) #k #card
 
 
 
-to meet #k #card
+to meet | the general verb for meeting someone #k #card
 ほんやく: 会う (あ)
 て形: 会って
 た形: 会った
 ます形: 会います
 出す形 (start): 会い出す
 そう (looks): 会いそう
-お〜になる (honorific): お会いになる
+お〜になる/special verb (honorific):お会いになる
+謙譲語 (humble): お目にかかる
 ない形: 会わない
 なかった形: 会わなかった
 あれる形 (passive/honorific): 会われる
@@ -451,7 +454,7 @@ to meet the teacher #k #card
 
 
 
-conversation #k #card
+conversation | a somewhat more formal word for a conversation between people #k #card
 会話（かいわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
@@ -459,7 +462,7 @@ conversation #k #card
 
 
 
-new year party #k #card
+new year party | a gathering held to celebrate the new year #k #card
 新年会（しんねんかい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -468,7 +471,7 @@ new year party #k #card
 
 
 
-conference #k #card
+conference | a formal meeting or conference, e.g. in a business setting #k #card
 会議（かいぎ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
@@ -476,7 +479,7 @@ conference #k #card
 
 
 
-company (altar + ground) #k #card
+company (altar + ground) | the standard, everyday word for a company/corporation #k #card
 会社（かいしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -484,7 +487,7 @@ company (altar + ground) #k #card
 
 
 
-society #k #card
+society | society as a whole, the public #k #card
 社会（しゃかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
@@ -492,7 +495,7 @@ society #k #card
 
 
 
-outside of the company #k #card
+outside of the company | refers to being external to one's own company, e.g. outside contacts or affairs #k #card
 社外（しゃがい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
@@ -500,7 +503,7 @@ outside of the company #k #card
 
 
 
-ceo #k #card
+CEO | the president/head of a company #k #card
 社長（しゃちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
@@ -508,8 +511,9 @@ ceo #k #card
 
 
 
-store (canopy + fortune) #k #card
+store (canopy + fortune) | the general, everyday word for a shop/store #k #card
 店(みせ)
+お/ご (honorific): お店(みせ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <!--ID: 1776605660633-->
 
@@ -524,7 +528,7 @@ to do shopping at a store #k #card
 
 
 
-shop, a kiosk or small stand/booth located inside a larger facility #k #card
+shop, kiosk | a small stand/booth located inside a larger facility, e.g. a train station or hospital #k #card
 売店（ばいてん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
@@ -532,14 +536,14 @@ shop, a kiosk or small stand/booth located inside a larger facility #k #card
 
 
 
-station (horse, shaku unit of length) #k #card
+station (horse, shaku unit of length) | the standard word for a train station #k #card
 駅（えき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <!--ID: 1776605660636-->
 
 
 
-name of the station #k #card
+name of the station | the name assigned to a particular train station #k #card
 駅名（えきめい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
@@ -547,7 +551,7 @@ name of the station #k #card
 
 
 
-akihabara station #k #card
+Akihabara Station #k #card
 秋葉原駅（あきはばら、えき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_葉.html">葉</a>
@@ -557,8 +561,9 @@ akihabara station #k #card
 
 
 
-flower (grass + change, person, transformation) #k #card
+flower (grass + change, person, transformation) | the general word for a flower #k #card
 花（はな)
+お/ご (honorific): お花(はな)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1776605660639-->
 
@@ -572,14 +577,15 @@ flowers bloom #k #card
 
 
 
-to bloom, to blossom #card
+to bloom, to blossom | the verb for flowers/plants blooming #card
 ほんやく: 咲く (さ)
 て形: 咲いて
 た形: 咲いた
 ます形: 咲きます
 出す形 (start): 咲き出す
 そう (looks): 咲きそう
-お〜になる (honorific): お咲きになる
+お〜になる/special verb (honorific):お咲きになる
+謙譲語 (humble): お咲きいたす／お咲きします
 ない形: 咲かない
 なかった形: 咲かなかった
 あれる形 (passive/honorific): 咲かれる
@@ -602,15 +608,16 @@ flower is blooming on the street #k #card
 
 
 
-cherry blossom seeing #k #card
+cherry blossom viewing | the traditional practice of viewing/appreciating cherry blossoms in spring (hanami) #k #card
 花見(はなみ)
+お/ご (honorific): お花見(はなみ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1776605660643-->
 
 
 
-vase #k #card
+vase | a container for holding flowers #k #card
 花瓶（かびん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_瓶.html">瓶</a>
@@ -618,8 +625,9 @@ vase #k #card
 
 
 
-house (roof + pig) #k #card
+house (roof + pig) | the general word for a house/home #k #card
 家（いえ)
+お/ご (honorific): お家(いえ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1776605660645-->
 
@@ -633,7 +641,7 @@ apartment's landlord #k #card
 
 
 
-landlord #k #card
+landlord | includes the polite suffix さん, typically used when addressing or referring to one's landlord directly #k #card
 大家さん(おおや)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
@@ -641,15 +649,16 @@ landlord #k #card
 
 
 
-family #k #card
+family | the general word for family #k #card
 家族（かぞく）
+お/ご (honorific): ご家族(かぞく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
 <!--ID: 1776605660648-->
 
 
 
-yamada family #k #card
+Yamada family #k #card
 山田家（やまだけ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -680,14 +689,14 @@ what month? #k #card
 
 
 
-outside (divination, evening) #k #card
+outside (divination, evening) | the general word for "outside" #k #card
 外（そと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <!--ID: 1776605660653-->
 
 
 
-foreign country #k #card
+foreign country | a country other than one's own #k #card
 外国（がいこく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
@@ -695,8 +704,9 @@ foreign country #k #card
 
 
 
-going out (more formal, written) #k #card
+going out (more formal, written) | refers to going outside/being away from home, e.g. for errands #k #card
 外出（がいしゅつ）
+お/ご (honorific): ご外出(がいしゅつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1776605660655-->
@@ -705,6 +715,7 @@ going out (more formal, written) #k #card
 
 country (jewelry in the border) #k #card
 国（くに）
+お/ご (honorific): お国(くに)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1776605660656-->
 
@@ -717,7 +728,7 @@ where are you from? #k #card
 
 
 
-foreigner #k #card
+foreigner | a person from a foreign country #k #card
 外国人（がいこくにん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
@@ -726,7 +737,7 @@ foreigner #k #card
 
 
 
-china #k #card
+China #k #card
 中国（ちゅうごく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
@@ -741,7 +752,7 @@ who is that person? #k #card
 
 
 
-reading (how to read) #k #card
+reading (how to read) | uses a suffix meaning "way of doing," here applied to reading a word/kanji #k #card
 読み方（よみかた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_読.html">読</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
@@ -749,7 +760,7 @@ reading (how to read) #k #card
 
 
 
-evening #k #card
+evening | the time of day between afternoon and night #k #card
 夕方（ゆうがた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
@@ -757,7 +768,7 @@ evening #k #card
 
 
 
-in back, rear #k #card
+in back, rear | a formal/written term for the rear/back side of something #k #card
 後方（こうほう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
@@ -765,7 +776,7 @@ in back, rear #k #card
 
 
 
-hideo (japanese first name) #k #card
+Hideo (Japanese first name) #k #card
 英夫（ひでお)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夫.html">夫</a>
@@ -773,7 +784,7 @@ hideo (japanese first name) #k #card
 
 
 
-english language #k #card
+English language #k #card
 英語（えいご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
@@ -781,7 +792,7 @@ english language #k #card
 
 
 
-england #k #card
+England #k #card
 英国（えいこく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>

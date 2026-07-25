@@ -228,15 +228,16 @@ to say one's thinking #k  #card
 <!--ID: 1769684074746-->
 
 
-language #k  #card
+language | the general word for a language #k  #card
 ほんやく: 言語（げんご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1769684074752-->
 
 
-message #k  #card
+message | a message passed on through someone else, e.g. "please tell them..." #k  #card
 ほんやく: 伝言（でんごん）
+お/ご (honorific): ご伝言(でんごん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伝.html">伝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1769684074771-->
@@ -250,8 +251,9 @@ to talk with friend #k  #card
 <!--ID: 1769684074776-->
 
 
-rozmowa, talk noun (+verb) #k  #card
+conversation, talk (noun; combines with a light verb to mean "to talk") | rozmowa #k  #card
 ほんやく: 話 (をする)（はなし）
+お/ご (honorific): お話(はなし)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1769684074781-->
 
@@ -263,14 +265,14 @@ to talk to mother (verb) #k  #card
 <!--ID: 1769684074784-->
 
 
-conversation #k  #card
+conversation | a somewhat more formal word for a conversation between people #k  #card
 ほんやく: 会話（かいわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1769684074789-->
 
 
-sign language #k  #card
+sign language | the language used by deaf/hard-of-hearing communities #k  #card
 ほんやく: 手話（しゅわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
@@ -285,14 +287,14 @@ to tell the culture #k  #card
 <!--ID: 1769684074797-->
 
 
-culture #k  #card
+culture | the shared customs, arts, and way of life of a group or society #k  #card
 ほんやく: 文化 (ぶんか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_化.html">化</a>
 <!--ID: 1769684074802-->
 
 
-chinese language #k  #card
+Chinese language #k  #card
 ほんやく: 中国語（ちゅうごくご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
@@ -307,7 +309,7 @@ to read a book #k  #card
 <!--ID: 1769684074818-->
 
 
-reading a book (not natural) #k  #card
+reading (formal/literary term) | a formal, written term for the activity of reading, less natural in casual conversation than a descriptive phrase #k  #card
 ほんやく: 読書（どくしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_読.html">読</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
@@ -322,15 +324,16 @@ to write words, signs #k  #card
 <!--ID: 1769684074840-->
 
 
-to write japanese #k  #card
-ほんやく: 日本ほを書く（か）
+to write in Japanese #k  #card
+ほんやく: 日本語を書く（にほんご、か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1769684074844-->
 
 
-dictionary #k  #card
+dictionary | a reference book of word meanings #k  #card
 ほんやく: 辞書（じしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_辞.html">辞</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
@@ -350,7 +353,7 @@ to show the note  #card
 <!--ID: 1769684074867-->
 
 
-observe (learn by observing), visit (ogranized, like visit school, company) #k  #card
+to observe, to visit (organized, e.g. visiting a school or company) #k  #card
 ほんやく: 見学する (けんがく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -371,14 +374,14 @@ hear the voice #k  #card
 <!--ID: 1769684074880-->
 
 
-newspaper #k  #card
+newspaper | a printed publication of news #k  #card
 ほんやく: 新聞（しんぶん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1769684074883-->
 
 
-sound #k  #card
+sound | the general word for a sound or noise #k  #card
 ほんやく: 音(おと)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <!--ID: 1769684074886-->
@@ -392,14 +395,14 @@ to give (conduct) a lesson #k  #card
 <!--ID: 1769684074898-->
 
 
-a bank #k  #card
-ほんやく: 銀行（銀行）
+a bank | a financial institution #k  #card
+ほんやく: 銀行（ぎんこう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1769684074903-->
 
 
-the first line #k  #card
+the first line | refers to the first line of text in a document #k  #card
 ほんやく: 一行目（いちぎょうめ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -430,7 +433,7 @@ teacher will come #k  #card
 <!--ID: 1769684074921-->
 
 
-next year #k  #card
+next year | the year following the current one #k  #card
 ほんやく: 来年（らいねん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -451,8 +454,9 @@ to turn on water #k  #card
 <!--ID: 1769684074944-->
 
 
-to go out Noun #k  #card
+going out (noun) | refers to going outside/being away from home, e.g. for errands #k  #card
 ほんやく: 外出（がいしゅつ）
+お/ご (honorific): ご外出(がいしゅつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1769684074950-->
@@ -461,8 +465,9 @@ to go out Noun #k  #card
 
 外出です（がいしゅつ） – jestem poza domem / wyszedłem
 
-attendance #k  #card
+attendance | being present at an event or gathering #k  #card
 ほんやく: 出席（しゅっせき）
+お/ご (honorific): ご出席(しゅっせき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_席.html">席</a>
 <!--ID: 1769684074954-->
@@ -485,13 +490,15 @@ to put the book to the bag #k  #card
 
 to enter school (N/V) #k  #card
 ほんやく: 入学（する）(にゅうがく)
+お/ご (honorific): ご入学(にゅうがく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1769684074979-->
 
 
-food (casual) #k  #card
+food (casual) | the everyday, casual word for food #k  #card
 ほんやく: 食べ物
+お/ご (honorific): お食べ物
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1769684074984-->
@@ -504,14 +511,15 @@ to eat meat #k  #card
 <!--ID: 1769684075000-->
 
 
-meal, little formal V/N #k  #card
+meal (slightly formal, noun/suru-verb) #k  #card
 ほんやく: 食事(する)(しょくじ)
+お/ご (honorific): お食事(しょくじ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1769684075006-->
 
 
-food, artykul sporzywczy/ food product #k  #card
+food product | artykuł spożywczy #k  #card
 ほんやく: 食品（しょくひん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
@@ -525,7 +533,7 @@ to eat meal in a restaurant #k  #card
 <!--ID: 1769684075019-->
 
 
-eat and drink (regulaminy itp) #k  #card
+eat and drink | a formal compound often used in rules/regulations, e.g. "no eating or drinking" signage #k  #card
 ほんやく: 飲食（いんしょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
@@ -541,7 +549,7 @@ it is forbidden to drink and eat here #k  #card
 <!--ID: 1769684075035-->
 
 
-zakaz  #card
+prohibition, ban | zakaz #card
 ほんやく: 禁止 (きんし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_禁.html">禁</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_止.html">止</a>
@@ -556,7 +564,7 @@ to stand in front of someone #k  #card
 <!--ID: 1769684075046-->
 
 
-national university #k  #card
+national university | a state-run/government-funded university #k  #card
 ほんやく: 国立大学（こくりつだいがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
@@ -565,7 +573,7 @@ national university #k  #card
 <!--ID: 1769684075052-->
 
 
-a stand up meal party #k  #card
+a standing buffet party | a reception/party where guests eat standing up rather than seated #k  #card
 ほんやく: 立食パーティー（りっしょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
@@ -586,7 +594,7 @@ summer holiday #k  #card
 <!--ID: 1769684075073-->
 
 
-holiday #k  #card
+holiday | a day off from work/school #k  #card
 ほんやく: 休日（きゅうじつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -600,7 +608,7 @@ to buy book #k  #card
 <!--ID: 1769684075085-->
 
 
-sell and buy (N/V) #k  #card
+sell and buy (noun/suru-verb) | describes buying and selling, e.g. trade #k  #card
 ほんやく: 売買（する）（ばいばい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
@@ -608,14 +616,15 @@ sell and buy (N/V) #k  #card
 
 
 
-to say #k  #card
+to say | the general verb for saying/telling something #k  #card
 ほんやく: 言う（いう）
 て形: 言って
 た形: 言った
 ます形: 言います
 出す形 (start): 言い出す
 そう (looks): 言いそう
-お〜になる (honorific): おっしゃる
+お〜になる/special verb (honorific):おっしゃる
+謙譲語 (humble): 申す
 ない形: 言わない
 なかった形: 言わなかった
 あれる形 (passive/honorific): いわれる
@@ -628,14 +637,15 @@ to say #k  #card
 <!--ID: 1769684075097-->
 
 
-talk #k  #card
+to talk, to speak | to converse or speak with someone #k  #card
 ほんやく: 話す（はなす）
 て形: 話して
 た形: 話した
 ます形: 話します
 出す形 (start): 話し出す
 そう (looks): 話しそう
-お〜になる (honorific): おはなしになる
+お〜になる/special verb (honorific):おはなしになる
+謙譲語 (humble): お話しいたす／お話しします
 ない形: 話さない
 なかった形: 話さなかった
 あれる形 (passive/honorific): はなされる
@@ -648,14 +658,15 @@ talk #k  #card
 <!--ID: 1769684075101-->
 
 
-to tell, opowiedzieć (literacki styl) #k  #card
+to tell, to narrate (literary style) | opowiedzieć #k  #card
 ほんやく: 語る（かたる）
 て形: 語って
 た形: 語った
 ます形: 語ります
 出す形 (start): 語り出す
 そう (looks): 語りそう
-お〜になる (honorific): おかたりになる
+お〜になる/special verb (honorific):おかたりになる
+謙譲語 (humble): お語りいたす／お語りします
 ない形: 語らない
 なかった形: 語らなかった
 あれる形 (passive/honorific): かたられる
@@ -668,14 +679,15 @@ to tell, opowiedzieć (literacki styl) #k  #card
 <!--ID: 1769684075107-->
 
 
-to read #k  #card
+to read | the general verb for reading #k  #card
 ほんやく: 読む（よむ）
 て形: 読んで
 た形: 読んだ
 ます形: 読みます
 出す形 (start): 読み出す
 そう (looks): 読みそう
-お〜になる (honorific): およみになる
+お〜になる/special verb (honorific):およみになる
+謙譲語 (humble): お読みいたす／お読みします
 ない形: 読まない
 なかった形: 読まなかった
 あれる形 (passive/honorific): よまれる
@@ -688,14 +700,15 @@ to read #k  #card
 <!--ID: 1769684075115-->
 
 
-to write #k  #card
+to write | the general verb for writing #k  #card
 ほんやく: 書く（かく）
 て形: 書いて
 た形: 書いた
 ます形: 書きます
 出す形 (start): 書き出す
 そう (looks): 書きそう
-お〜になる (honorific): おかきになる
+お〜になる/special verb (honorific):おかきになる
+謙譲語 (humble): お書きいたす／お書きします
 ない形: 書かない
 なかった形: 書かなかった
 あれる形 (passive/honorific): かかれる
@@ -708,14 +721,15 @@ to write #k  #card
 <!--ID: 1769684075118-->
 
 
-to see  #card
+to see | the general verb for seeing/looking at something #card
 ほんやく: 見る（みる）
 て形: 見て
 た形: 見た
 ます形: 見ます
 出す形 (start): 見出す
 そう (looks): 見そう
-お〜になる (honorific): ごらんになる
+お〜になる/special verb (honorific):ごらんになる
+謙譲語 (humble): 拝見する
 ない形: 見ない
 なかった形: 見なかった
 あれる形 (passive/honorific): みられる
@@ -728,14 +742,15 @@ to see  #card
 <!--ID: 1769684075123-->
 
 
-to show  #card
+to show | to cause someone to see something (causative-like, transitive) #card
 ほんやく: 見せる（みせる）
 て形: 見せて
 た形: 見せた
 ます形: 見せます
 出す形 (start): 見せ出す
 そう (looks): 見せそう
-お〜になる (honorific): おみせになる
+お〜になる/special verb (honorific):おみせになる
+謙譲語 (humble): お目にかける
 ない形: 見せない
 なかった形: 見せなかった
 あれる形 (passive/honorific): みせられる
@@ -748,14 +763,15 @@ to show  #card
 <!--ID: 1769684075132-->
 
 
-to listen #k  #card
+to listen | to actively listen to something (as opposed to passively hearing it) #k  #card
 ほんやく: 聞く（きく）
 て形: 聞いて
 た形: 聞いた
 ます形: 聞きます
 出す形 (start): 聞き出す
 そう (looks): 聞きそう
-お〜になる (honorific): おききになる
+お〜になる/special verb (honorific):おききになる
+謙譲語 (humble): 伺う
 ない形: 聞かない
 なかった形: 聞かなかった
 あれる形 (passive/honorific): きかれる
@@ -768,14 +784,15 @@ to listen #k  #card
 <!--ID: 1769684075138-->
 
 
-to be heard, not actively hear #k  #card
+to be heard, to be audible (involuntary - not actively listening) #k  #card
 ほんやく: 聞こえる（きこえる）
 て形: 聞こえて
 た形: 聞こえた
 ます形: 聞こえます
 出す形 (start): 聞こえ出す
 そう (looks): 聞こえそう
-お〜になる (honorific): ―
+お〜になる/special verb (honorific):―
+謙譲語 (humble): ―
 ない形: 聞こえない
 なかった形: 聞こえなかった
 あれる形 (passive/honorific): きこえられる
@@ -788,14 +805,15 @@ to be heard, not actively hear #k  #card
 <!--ID: 1769684075144-->
 
 
-to go #k  #card
+to go | the general verb for going somewhere #k  #card
 ほんやく: 行く（いく）
 て形: 行って
 た形: 行った
 ます形: 行きます
 出す形 (start): 行き出す
 そう (looks): 行きそう
-お〜になる (honorific): おでかけになる
+お〜になる/special verb (honorific):いらっしゃる
+謙譲語 (humble): 参る
 ない形: 行かない
 なかった形: 行かなかった
 あれる形 (passive/honorific): いかれる
@@ -808,14 +826,15 @@ to go #k  #card
 <!--ID: 1769684075151-->
 
 
-wykonywać, przeprowadzać, realizować (formalny) #k  #card
+to do, to conduct, to carry out (formal) | wykonywać, przeprowadzać, realizować #k  #card
 ほんやく: 行う（おこなう）
 て形: 行って
 た形: 行った
 ます形: 行います
 出す形 (start): 行い出す
 そう (looks): 行いそう
-お〜になる (honorific): ―
+お〜になる/special verb (honorific):お行いになる
+謙譲語 (humble): お行いいたす／お行いします
 ない形: 行わない
 なかった形: 行わなかった
 あれる形 (passive/honorific): おこなわれる
@@ -828,14 +847,15 @@ wykonywać, przeprowadzać, realizować (formalny) #k  #card
 <!--ID: 1769684075157-->
 
 
-to come #k  #card
+to come | the general verb for coming/arriving #k  #card
 ほんやく: 来る（くる）
 て形: 来て（きて）
 た形: 来た（きた）
 ます形: 来ます（きます）
 出す形 (start): 来出す（きだす）
 そう (looks): 来そう（きそう）
-お〜になる (honorific): お出でになる
+お〜になる/special verb (honorific):お出でになる
+謙譲語 (humble): 参る
 ない形: 来ない（こない）
 なかった形: 来なかった（こなかった）
 あれる形 (passive/honorific): こられる
@@ -848,14 +868,15 @@ to come #k  #card
 <!--ID: 1769684075168-->
 
 
-go out #k  #card
+to go out | to exit or leave a place (intransitive - happens on its own) #k  #card
 ほんやく: 出る（でる）
 て形: 出て
 た形: 出た
 ます形: 出ます
 出す形 (start): 出出す
 そう (looks): 出そう
-お〜になる (honorific): おでになる
+お〜になる/special verb (honorific):-
+謙譲語 (humble): -
 ない形: 出ない
 なかった形: 出なかった
 あれる形 (passive/honorific): でられる
@@ -868,14 +889,15 @@ go out #k  #card
 <!--ID: 1769684075175-->
 
 
-wyjmować / wysyłać #k  #card
+to take out, to put out, to send out (transitive - someone actively does it) | wyjmować, wyciągać, wystawiać, wydawać, wysyłać #k  #card
 ほんやく: 出す（だす）
 て形: 出して
 た形: 出した
 ます形: 出します
 出す形 (start): 出し出す
 そう (looks): 出しそう
-お〜になる (honorific): おだしになる
+お〜になる/special verb (honorific):おだしになる
+謙譲語 (humble): お出しいたす／お出しします
 ない形: 出さない
 なかった形: 出さなかった
 あれる形 (passive/honorific): だされる
@@ -888,14 +910,15 @@ wyjmować / wysyłać #k  #card
 <!--ID: 1769684075181-->
 
 
-to enter #k  #card
+to enter | to go into a place (intransitive - happens on its own) #k  #card
 ほんやく: 入る（はいる）
 て形: 入って
 た形: 入った
 ます形: 入ります
 出す形 (start): 入り出す
 そう (looks): 入りそう
-お〜になる (honorific): おはいりになる
+お〜になる/special verb (honorific):おはいりになる
+謙譲語 (humble): お入りいたす／お入りします
 ない形: 入らない
 なかった形: 入らなかった
 あれる形 (passive/honorific): はいられる
@@ -908,14 +931,15 @@ to enter #k  #card
 <!--ID: 1769684075186-->
 
 
-to put in #k  #card
+to put in | to place something into a container or space (transitive - someone actively does it) #k  #card
 ほんやく: 入れる（いれる）
 て形: 入れて
 た形: 入れた
 ます形: 入れます
 出す形 (start): 入れ出す
 そう (looks): 入れそう
-お〜になる (honorific): おいれになる
+お〜になる/special verb (honorific):おいれになる
+謙譲語 (humble): お入れいたす／お入れします
 ない形: 入れない
 なかった形: 入れなかった
 あれる形 (passive/honorific): いれられる
@@ -928,14 +952,15 @@ to put in #k  #card
 <!--ID: 1769684075190-->
 
 
-to eat #k  #card
+to eat | the general verb for eating #k  #card
 ほんやく: 食べる（たべる）
 て形: 食べて
 た形: 食べた
 ます形: 食べます
 出す形 (start): 食べ出す
 そう (looks): 食べそう
-お〜になる (honorific): めしあがる
+お〜になる/special verb (honorific):めしあがる
+謙譲語 (humble): いただく
 ない形: 食べない
 なかった形: 食べなかった
 あれる形 (passive/honorific): たべられる
@@ -948,14 +973,15 @@ to eat #k  #card
 <!--ID: 1769684075200-->
 
 
-to drink #k  #card
+to drink | the general verb for drinking #k  #card
 ほんやく: 飲む（のむ）
 て形: 飲んで
 た形: 飲んだ
 ます形: 飲みます
 出す形 (start): 飲み出す
 そう (looks): 飲みそう
-お〜になる (honorific): おのみになる
+お〜になる/special verb (honorific):めしあがる
+謙譲語 (humble): いただく
 ない形: 飲まない
 なかった形: 飲まなかった
 あれる形 (passive/honorific): のまれる
@@ -968,14 +994,15 @@ to drink #k  #card
 <!--ID: 1769684075205-->
 
 
-to stand #k  #card
+to stand | to be in a standing position or to stand up #k  #card
 ほんやく: 立つ（たつ）
 て形: 立って
 た形: 立った
 ます形: 立ちます
 出す形 (start): 立ち出す
 そう (looks): 立ちそう
-お〜になる (honorific): おたちになる
+お〜になる/special verb (honorific):おたちになる
+謙譲語 (humble): お立ちいたす／お立ちします
 ない形: 立たない
 なかった形: 立たなかった
 あれる形 (passive/honorific): たたれる
@@ -988,14 +1015,15 @@ to stand #k  #card
 <!--ID: 1769684075212-->
 
 
-to rest #k  #card
+to rest | to take a break or rest, also used for being absent from work/school #k  #card
 ほんやく: 休む（やすむ）
 て形: 休んで
 た形: 休んだ
 ます形: 休みます
 出す形 (start): 休み出す
 そう (looks): 休みそう
-お〜になる (honorific): おやすみになる
+お〜になる/special verb (honorific):おやすみになる
+謙譲語 (humble): お休みいたす／お休みします
 ない形: 休まない
 なかった形: 休まなかった
 あれる形 (passive/honorific): やすまれる
@@ -1008,14 +1036,15 @@ to rest #k  #card
 <!--ID: 1769684075219-->
 
 
-to buy #k  #card
+to buy | the general verb for buying/purchasing #k  #card
 ほんやく: 買う（かう）
 て形: 買って
 た形: 買った
 ます形: 買います
 出す形 (start): 買い出す
 そう (looks): 買いそう
-お〜になる (honorific): おかいになる
+お〜になる/special verb (honorific):おかいになる
+謙譲語 (humble): お買いいたす／お買いします
 ない形: 買わない
 なかった形: 買わなかった
 あれる形 (passive/honorific): かわれる

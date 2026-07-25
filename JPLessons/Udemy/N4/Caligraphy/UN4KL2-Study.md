@@ -212,14 +212,15 @@ Gate, mouth
  ---
 
 
-to strive / to make an effort (rzadkie, literackie) #k #card
+to strive / to make an effort (rare, literary) | an uncommon, literary word for exerting effort toward a goal; rarely used in everyday conversation #k #card
 ほんやく: 勉める (つと)
 て形: 勉めて
 た形: 勉めた
 ます形: 勉めます
 出す形 (start): 勉め出す
 そう (looks): 勉めそう
-お〜になる (honorific): お勉めになる
+お〜になる/special verb (honorific):お勉めになる
+謙譲語 (humble): お勉めいたす／お勉めします
 ない形: 勉めない
 なかった形: 勉めなかった
 あれる形 (passive/honorific): 勉められる
@@ -232,8 +233,9 @@ to strive / to make an effort (rzadkie, literackie) #k #card
 <!--ID: 1780855042141-->
 
 
-study #k #card
-勉強（べんきょう）dilligence + strong
+study | the common, everyday word for studying #k #card
+勉強（べんきょう）
+お/ご (honorific): お勉強（べんきょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勉.html">勉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1780855042148-->
@@ -248,14 +250,14 @@ I am studying English #k #card
 <!--ID: 1780855042151-->
 
 
-diligence, pracowitość #k #card
+diligence / hard work | describes an industrious, hard-working character trait; more formal/written than casual praise #k #card
 勤勉（きんべん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勤.html">勤</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勉.html">勉</a>
 <!--ID: 1780855042153-->
 
 
-strong #k #card
+strong | the general い-adjective for strength, used for people, teams, or things #k #card
 ほんやく: 強い（つよ）
 過去形: 強かった
 否定形: 強くない
@@ -281,14 +283,15 @@ Tanaka san is strong in sumo #k #card
 <!--ID: 1780855042165-->
 
 
-bluff, udawać twardego #k #card
+to bluff / to act tough (put on a brave face) | describes pretending to be strong or unaffected when one is actually struggling #k #card
 ほんやく: 強がる（つよ）
 て形: 強がって
 た形: 強がった
 ます形: 強がります
 出す形 (start): 強がり出す
 そう (looks): 強がりそう
-お〜になる (honorific): お強がりになる
+お〜になる/special verb (honorific):お強がりになる
+謙譲語 (humble): お強がりいたす／お強がりします
 ない形: 強がらない
 なかった形: 強がらなかった
 あれる形 (passive/honorific): 強がられる
@@ -301,21 +304,22 @@ bluff, udawać twardego #k #card
 <!--ID: 1780855042168-->
 
 
-forcible, pushy, natarczywy #k #card
+forcible / pushy | describes acting in an overbearing or insistent way, disregarding others' wishes #k #card
 強引 (ごういん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
 <!--ID: 1780855042171-->
 
 
-teach #k #card
+to teach | the standard word for teaching someone a subject or skill #k #card
 ほんやく: 教える(おし)
 て形: 教えて
 た形: 教えた
 ます形: 教えます
 出す形 (start): 教え出す
 そう (looks): 教えそう
-お〜になる (honorific): お教えになる
+お〜になる/special verb (honorific):お教えになる
+謙譲語 (humble): お教えいたす／お教えします
 ない形: 教えない
 なかった形: 教えなかった
 あれる形 (passive/honorific): 教えられる
@@ -337,7 +341,7 @@ What are you teaching at the university? #k #card
 <!--ID: 1780855042176-->
 
 
-I am teaching english #k #card
+I am teaching English #k #card
 私は英語を教えています（おし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
@@ -346,8 +350,9 @@ I am teaching english #k #card
 <!--ID: 1780855042179-->
 
 
-education #k #card
-教育（きょういく）(teach, raise)
+education | a formal word combining "teach" and "raise," referring to schooling or formal education in general #k #card
+教育（きょういく）
+お/ご (honorific): ご教育（きょういく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_育.html">育</a>
 <!--ID: 1780855042182-->
@@ -367,14 +372,15 @@ Are this company's employees receiving foreign language education? #k #card
 <!--ID: 1780855042185-->
 
 
-receive #card
+to receive | used broadly for receiving something offered, and also idiomatically for taking a test or exam #card
 ほんやく: 受ける（うける)
 て形: 受けて
 た形: 受けた
 ます形: 受けます
 出す形 (start): 受け出す
 そう (looks): 受けそう
-お〜になる (honorific): お受けになる
+お〜になる/special verb (honorific):お受けになる
+謙譲語 (humble): お受けいたす／お受けします
 ない形: 受けない
 なかった形: 受けなかった
 あれる形 (passive/honorific): 受けられる
@@ -387,14 +393,15 @@ receive #card
 <!--ID: 1780855042189-->
 
 
-raise, wznosić, wychowywać #k #card
+to raise (a child) | describes deliberately raising or bringing up a child, plant, or student #k #card
 ほんやく: 育てる（そだ）
 て形: 育てて
 た形: 育てた
 ます形: 育てます
 出す形 (start): 育て出す
 そう (looks): 育てそう
-お〜になる (honorific): お育てになる
+お〜になる/special verb (honorific):お育てになる
+謙譲語 (humble): お育ていたす／お育てします
 ない形: 育てない
 なかった形: 育てなかった
 あれる形 (passive/honorific): 育てられる
@@ -433,14 +440,15 @@ The teacher raised good students #k #card
 <!--ID: 1780855042202-->
 
 
-grow, dorastanie #k #card
+to grow up | describes a child, plant, or living thing growing up on its own #k #card
 ほんやく: 育つ（そだ）
 て形: 育って
 た形: 育った
 ます形: 育ちます
 出す形 (start): 育ち出す
 そう (looks): 育ちそう
-お〜になる (honorific): お育ちになる
+お〜になる/special verb (honorific):お育ちになる
+謙譲語 (humble): お育ちいたす／お育ちします
 ない形: 育たない
 なかった形: 育たなかった
 あれる形 (passive/honorific): 育たれる
@@ -453,14 +461,15 @@ grow, dorastanie #k #card
 <!--ID: 1780855042206-->
 
 
-parenting #k #card
+parenting / childcare | a formal, often administrative term for parenting, as opposed to a warmer everyday phrase #k #card
 育児（いくじ）
+お/ご (honorific): ご育児（いくじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_育.html">育</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_児.html">児</a>
 <!--ID: 1780855042208-->
 
 
-kanji #k #card
+kanji | the general term for the logographic characters, as opposed to the phonetic kana scripts #k #card
 漢字
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_漢.html">漢</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
@@ -484,7 +493,7 @@ Do you understand this kanji? #k #card
 <!--ID: 1780855042214-->
 
 
-han chinese (dynasty) #k #card
+Han Chinese (ethnic group/dynasty) | refers to the dominant ethnic group of China, or the historical Han dynasty #k #card
 漢族（かんぞく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_漢.html">漢</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
@@ -498,7 +507,7 @@ OO町字XX(まち、あざ)
 <!--ID: 1780855042220-->
 
 
-letter #k #card
+letter / character | a more formal, general term for a written character, covering kanji, kana, and other scripts alike #k #card
 文字（もじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
@@ -521,7 +530,7 @@ let's study kanji #k #card
 <!--ID: 1780855042233-->
 
 
-roman letter #k #card
+roman letters | refers to Japanese text written using the Latin alphabet instead of kana/kanji #k #card
 ローマ字（じ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
 <!--ID: 1780855042235-->
@@ -534,14 +543,15 @@ please, write roman letter #k #card
 <!--ID: 1780855042238-->
 
 
-to test, attempting (more formal or attempting something new) #k #card
+to attempt / to try | a formal word for attempting something new or unfamiliar, more literary than everyday "try" #k #card
 ほんやく: 試みる（こころ）
 て形: 試みて
 た形: 試みた
 ます形: 試みます
 出す形 (start): 試み出す
 そう (looks): 試みそう
-お〜になる (honorific): お試みになる
+お〜になる/special verb (honorific):お試みになる
+謙譲語 (humble): お試みいたす／お試みします
 ない形: 試みない
 なかった形: 試みなかった
 あれる形 (passive/honorific): 試みられる
@@ -554,20 +564,21 @@ to test, attempting (more formal or attempting something new) #k #card
 <!--ID: 1780855042241-->
 
 
-experiment (attempt, someone makes an effort to rty something) #k #card
+an attempt / a trial | the noun form describing an act of trying something out, not the same as a scientific experiment #k #card
 試み（こころ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
 <!--ID: 1780855042246-->
 
 
-to test (everyday situations) #k #card
+to try out / to test | the everyday, casual word for testing something, such as trying out a product or method #k #card
 ほんやく: 試す（ため）
 て形: 試して
 た形: 試した
 ます形: 試します
 出す形 (start): 試し出す
 そう (looks): 試しそう
-お〜になる (honorific): お試しになる
+お〜になる/special verb (honorific):お試しになる
+謙譲語 (humble): お試しいたす／お試しします
 ない形: 試さない
 なかった形: 試さなかった
 あれる形 (passive/honorific): 試される
@@ -580,14 +591,14 @@ to test (everyday situations) #k #card
 <!--ID: 1780855042248-->
 
 
-examination #k #card
+examination | a formal, often high-stakes test, such as a school or qualifying exam #k #card
 試験（しけん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_験.html">験</a>
 <!--ID: 1780855042250-->
 
 
-The japanese exam is on Wednesday #k #card
+The Japanese exam is on Wednesday #k #card
 日本語の試験は、水曜日です(しけん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -599,7 +610,7 @@ The japanese exam is on Wednesday #k #card
 <!--ID: 1780855042253-->
 
 
-admission exam (wstępny) #k #card
+admission exam | an exam specifically for gaining entrance/admission to a school #k #card
 入試（にゅうし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
@@ -615,7 +626,7 @@ when is the admission exam to this university? #k #card
 <!--ID: 1780855042258-->
 
 
-japanese language test is on Friday #k #card
+Japanese language test is on Friday #k #card
 日本語の試験は金曜日ですよ（しけん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -627,21 +638,22 @@ japanese language test is on Friday #k #card
 <!--ID: 1780855042261-->
 
 
-experiment (science, technical) #k #card
+experiment | a scientific or technical experiment, distinct from a general attempt or trial #k #card
 実験　（じっけん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_実.html">実</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_験.html">験</a>
 <!--ID: 1780855042264-->
 
 
-inquire(pytać) #k #card
+to inquire / to question | a formal, somewhat literary word for questioning or interrogating someone #k #card
 ほんやく: 質す（ただ）
 て形: 質して
 た形: 質した
 ます形: 質します
 出す形 (start): 質し出す
 そう (looks): 質しそう
-お〜になる (honorific): お質しになる
+お〜になる/special verb (honorific):お質しになる
+謙譲語 (humble): お質しいたす／お質しします
 ない形: 質さない
 なかった形: 質さなかった
 あれる形 (passive/honorific): 質される
@@ -654,8 +666,9 @@ inquire(pytać) #k #card
 <!--ID: 1780855042267-->
 
 
-question #k #card
+question | the standard word for a question, common in both spoken and formal contexts #k #card
 質問（しつもん）
+お/ご (honorific): ご質問（しつもん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_質.html">質</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
 <!--ID: 1780855042286-->
@@ -678,21 +691,22 @@ Do you have any questions? #k #card
 <!--ID: 1780855042291-->
 
 
-essence (istota) #k #card
+essence | refers to the core nature or fundamental quality of something #k #card
 本質（ほんしつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_質.html">質</a>
 <!--ID: 1780855042297-->
 
 
-ask, zapytać (Often used in writing, legal language, or philosophical discussions.) #k #card
+to ask | a literary/formal word for asking, often used in writing, legal language, or philosophical discussions rather than everyday conversation #k #card
 ほんやく: 問う（と）
 て形: 問って
 た形: 問った
 ます形: 問います
 出す形 (start): 問い出す
 そう (looks): 問いそう
-お〜になる (honorific): お問いになる
+お〜になる/special verb (honorific):お問いになる
+謙譲語 (humble): お問いいたす／お問いします
 ない形: 問わない
 なかった形: 問わなかった
 あれる形 (passive/honorific): 問われる
@@ -705,19 +719,22 @@ ask, zapytać (Often used in writing, legal language, or philosophical discussio
 <!--ID: 1780855042300-->
 
 
-study #k #card
+academic study / scholarship | formal, scholarly learning #k #card
 学問（がくもん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
+<!--ID: 1784753847856-->
 
-to answer #k #card
+
+to answer | the standard verb for answering a question #k #card
 ほんやく: 答える（こた）
 て形: 答えて
 た形: 答えた
 ます形: 答えます
 出す形 (start): 答え出す
 そう (looks): 答えそう
-お〜になる (honorific): お答えになる
+お〜になる/special verb (honorific):お答えになる
+謙譲語 (humble): お答えいたす／お答えします
 ない形: 答えない
 なかった形: 答えなかった
 あれる形 (passive/honorific): 答えられる
@@ -730,8 +747,9 @@ to answer #k #card
 <!--ID: 1780855042304-->
 
 
-answer #k #card
+answer | the everyday, general word for an answer or response #k #card
 答え（こた）
+お/ご (honorific): お答え（こた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 <!--ID: 1780855042307-->
 
@@ -748,28 +766,30 @@ I don't know the answer to this test #k #card
 このテストの答えはわかりません（こた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 
-to answer, reply (formal) #k #card
+to answer / to reply (formal) | a formal word used for official or written replies, such as a company's response #k #card
 回答（かいとう）
+お/ご (honorific): ご回答（かいとう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_回.html">回</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 <!--ID: 1780855042316-->
 
 
-answer (Refers specifically to answers written on a test or exam) #k #card
+exam answer / answer sheet | refers specifically to the answers written on a test or exam #k #card
 答案（とうあん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_案.html">案</a>
 <!--ID: 1780855042319-->
 
 
-to learn through practice #k #card
+to learn (through practice) | describes learning a skill through repeated practice or lessons, e.g. from a teacher #k #card
 ほんやく: 習う（なら）
 て形: 習って
 た形: 習った
 ます形: 習います
 出す形 (start): 習い出す
 そう (looks): 習いそう
-お〜になる (honorific): お習いになる
+お〜になる/special verb (honorific):お習いになる
+謙譲語 (humble): お習いいたす／お習いします
 ない形: 習わない
 なかった形: 習わなかった
 あれる形 (passive/honorific): 習われる
@@ -806,14 +826,14 @@ I learn kanji everyday #k #card
 <!--ID: 1780855042338-->
 
 
-study learning (formal, academic) #k #card
+learning (formal, academic) | a formal, academic word for studying/learning, as opposed to the everyday word for study #k #card
 学習（がくしゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_習.html">習</a>
 <!--ID: 1780855042340-->
 
 
-Do you like learning foreign lanfuages? #k #card
+Do you like learning foreign languages? #k #card
 外国語の学習は好きですか (がいこくご、がくしゅう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>

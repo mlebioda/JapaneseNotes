@@ -316,7 +316,7 @@ Structure
 
  Rzeczowniki:
 
-I will check tomorrow's weather #k  #card
+I will check tomorrow's weather (casual, softened with ね) #k  #card
 ほんやく: 明日の天気を調べるね（しら）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -326,7 +326,7 @@ I will check tomorrow's weather #k  #card
 <!--ID: 1772768130466-->
 
 
-Talk casually with familiar people, like friends and family etc. #k  #card
+Talk casually with familiar people, like friends and family etc. | describes speaking in the casual/plain register used among close friends and family, as opposed to the distant polite register used with strangers or superiors #k  #card
 ほんやく: 友達や家族などの親しい人とカジュアルに話すこと（ともだち、かぞく、した、はな）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
@@ -338,7 +338,7 @@ Talk casually with familiar people, like friends and family etc. #k  #card
 <!--ID: 1772768130471-->
 
 
-Polite form and plain form #k  #card
+Polite form and plain form | names the two main speech registers in Japanese: the respectful/distant one used in most daily interactions vs. the casual one used with close friends and family #k  #card
 ほんやく: 丁寧形　普通形（ていねいけい、ふつうけい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丁.html">丁</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寧.html">寧</a>
@@ -348,7 +348,7 @@ Polite form and plain form #k  #card
 <!--ID: 1772768130474-->
 
 
-How to address people/Sposób zwracania się do ludzi #k  #card
+How to address people | covers the titles, suffixes, and terms used to refer to or address someone depending on relationship and social distance #k  #card
 ほんやく: 人の呼び方（よびかた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_呼.html">呼</a>
@@ -356,113 +356,114 @@ How to address people/Sposób zwracania się do ludzi #k  #card
 <!--ID: 1772768130479-->
 
 
-grandpa, polite and itimiate  #card
+grandpa (polite / intimate forms) | さん is the neutral/polite way to refer to an elderly man in general; ちゃん is the affectionate form used with one's own grandfather #card
 ほんやく: おじい　さん・ちゃん
 <!--ID: 1772768130481-->
 
 
-grandma, polite and itimiate  #card
+grandma (polite / intimate forms) | さん is the neutral/polite way to refer to an elderly woman in general; ちゃん is the affectionate form used with one's own grandmother #card
 ほんやく: おばあ　さん・ちゃん
 <!--ID: 1772768130484-->
 
 
-krajobraz  #card
+scenery / landscape | a view or scene, especially natural scenery one looks out at, e.g. from a train window or mountaintop #card
 ほんやく: けしき
 <!--ID: 1772768130488-->
 
 
-elder sister (your own) #k  #card
+elder sister (your own) | humble term used when referring to one's own older sister when speaking to people outside the family #k  #card
 ほんやく: 姉 (あね)
+お/ご (honorific): お姉さん(おねえさん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <!--ID: 1772768130490-->
 
 
-elder sister #k  #card
+elder sister (address / someone else's) | used to address one's own older sister directly, or to refer to another person's older sister; more polite than the humble 姉(あね) used about one's own sister to outsiders #k  #card
 ほんやく: お姉さん/chan (おねえさん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <!--ID: 1772768130493-->
 
 
-younger sister #k  #card
+younger sister (your own) | refers to one's own younger sister; unlike older siblings, younger family members are usually addressed by name rather than an honorific title #k  #card
 ほんやく: 妹 (いもうと)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
 <!--ID: 1772768130497-->
 
 
-younger brother #k  #card
+younger brother (your own) | refers to one's own younger brother; like younger sisters, younger siblings are usually addressed by name rather than an honorific title #k  #card
 ほんやく: 弟 (おとうと)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <!--ID: 1772768130499-->
 
 
-aunt (your own)  #card
+aunt (your own) | refers to one's own aunt; the honorific おばさん form is used instead for someone else's aunt or an unrelated middle-aged woman #card
 ほんやく: おば
 <!--ID: 1772768130502-->
 
 
-aunt, or middle aged women  #card
+aunt (someone else's), or a middle-aged woman | polite/neutral term also used casually to address any unrelated middle-aged woman, which can sound rude to a younger-looking one #card
 ほんやく: おばさん
 <!--ID: 1772768130505-->
 
 
-uncle (your own)  #card
+uncle (your own) | refers to one's own uncle; the honorific おじさん form is used instead for someone else's uncle or an unrelated middle-aged man #card
 ほんやく: おじ
 <!--ID: 1772768130508-->
 
 
-uncle, or middle aged men  #card
+uncle (someone else's), or a middle-aged man | polite/neutral term also used casually to address any unrelated middle-aged man, which can sound rude to a younger-looking one #card
 ほんやく: おじさん
 <!--ID: 1772768130512-->
 
 
-suffix added to a girl’s first name, or intimate people like sister, grand mother  #card
+suffix added to a girl's first name, or intimate people like sister, grandmother | conveys affection or familiarity; used for children, close family, and pets regardless of gender #card
 ほんやく: ～ちゃん
 <!--ID: 1772768130515-->
 
 
-suffix added to a boy’s first name  #card
+suffix added to a boy's first name | also used by superiors toward male juniors/subordinates regardless of the addressee's age, e.g. in schools or workplaces #card
 ほんやく: ～君 (くん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_君.html">君</a>
 <!--ID: 1772768130519-->
 
 
-polite form  #card
+polite form | the ます／です speech style used by default in most everyday conversation, showing baseline respect toward the listener #card
 ほんやく: ていねい形(けい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_形.html">形</a>
 <!--ID: 1772768130521-->
 
 
-plain form  #card
+plain form | the dictionary/casual style used among close friends and family, and also the base for many grammar patterns #card
 ほんやく: ふつう形
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_形.html">形</a>
 <!--ID: 1772768130525-->
 
 
-dad (by little kids)  #card
+dad | childish, informal term used by young children; adults typically use お父さん instead #card
 ほんやく: パパ
 <!--ID: 1772768130528-->
 
 
-mom (by little kids)  #card
+mom | childish, informal term used by young children; adults typically use お母さん instead #card
 ほんやく: ママ
 <!--ID: 1772768130530-->
 
 
-section manager #k  #card
+section manager | a mid-level managerial job title, ranked below 部長 (department manager); the title itself replaces さん when addressing or referring to the person #k  #card
 ほんやく: 課長（かちょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_課.html">課</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1772768130534-->
 
 
-shop manager #k  #card
+shop manager | the person in charge of running a single store or shop location #k  #card
 ほんやく: 店長（てんちょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1772768130537-->
 
 
-department manager tanaka #k  #card
+department manager Tanaka | job titles like 部長 attach directly after the surname instead of さん when addressing or referring to someone by their position #k  #card
 ほんやく: 田中部長(たなか ぶちょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
@@ -471,13 +472,13 @@ department manager tanaka #k  #card
 <!--ID: 1772768130540-->
 
 
-customer (by staff 2 politeness)  #card
+customer | moderately polite term staff use for customers; お客様 is the more formal/respectful version used e.g. in announcements #card
 ほんやく: お客さん さん・さま（きゃく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_客.html">客</a>
 <!--ID: 1772768130544-->
 
 
-Madam (customer, polite) how about this pair of shoes?  #card
+How about this pair of shoes? (addressing a customer, polite — お客様 is gender-neutral) #card
 ほんやく: お客様、こちらの靴はいかがですか（きゃく、くつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_客.html">客</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_様.html">様</a>
@@ -493,7 +494,7 @@ an amusement park name #k  #card
 <!--ID: 1772768130549-->
 
 
-ferris wheel #k  #card
+ferris wheel | literally "observation car," the large rotating wheel ride found at amusement parks #k  #card
 ほんやく: 観覧車 (かんらんしゃ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_観.html">観</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_覧.html">覧</a>
@@ -501,27 +502,27 @@ ferris wheel #k  #card
 <!--ID: 1772768130552-->
 
 
-last time #k  #card
+last time | refers to the most recent previous occurrence of a repeated event, not simply "yesterday" or a fixed date #k  #card
 ほんやく: 前回 (ぜんかい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_回.html">回</a>
 <!--ID: 1772768130555-->
 
 
-next time #k  #card
+next time | refers to the next occurrence of a repeated event, often used for sequels/episodes as well as future appointments #k  #card
 ほんやく: 次回 (じかい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_次.html">次</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_回.html">回</a>
 <!--ID: 1772768130559-->
 
 
-times, suffix to count or order  #card
+times, suffix to count or order | counter attached to a number to count occurrences (e.g. once, twice) or, with 前/次, to order events in a sequence #card
 ほんやく: ...回
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_回.html">回</a>
 <!--ID: 1772768130561-->
 
 
-when did you go to mt fuji last time? #k  #card
+When did you go to Mt. Fuji last time? #k  #card
 ほんやく: 前回いつ富士山に行きましたか（ぜんかい、ふじさん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_回.html">回</a>
@@ -532,7 +533,7 @@ when did you go to mt fuji last time? #k  #card
 <!--ID: 1772768130564-->
 
 
-when will you come next time? #k  #card
+When will you come next time? #k  #card
 ほんやく: 次回いつ来ますか（じかい、き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_次.html">次</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_回.html">回</a>
@@ -540,13 +541,13 @@ when will you come next time? #k  #card
 <!--ID: 1772768130566-->
 
 
-rain #k  #card
+rain | the general, neutral word for rain; the more formal/written 雨天(うてん) appears in notices like "in case of rain" #k  #card
 ほんやく: 雨 (あめ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <!--ID: 1772768130569-->
 
 
-it will be rainy tomorrow #k  #card
+It will probably be rainy tomorrow (でしょう softens this into a guess, not a certainty) #k  #card
 ほんやく: 明日は雨でしょう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -554,25 +555,25 @@ it will be rainy tomorrow #k  #card
 <!--ID: 1772768130572-->
 
 
-snow #k  #card
+snow | the general word for snow as a weather phenomenon #k  #card
 ほんやく: 雪 (ゆき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雪.html">雪</a>
 <!--ID: 1772768130575-->
 
 
-clear weather  #card
+clear weather | noun form referring to sunny/clear skies, used as the answer to "what's the weather" or in forecasts #card
 ほんやく: 晴れ (はれ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晴.html">晴</a>
 <!--ID: 1772768130578-->
 
 
-cloudy weather  #card
+cloudy weather | noun form referring to an overcast sky, used the same way as 晴れ in forecasts #card
 ほんやく: 曇り (くもり)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曇.html">曇</a>
 <!--ID: 1772768130582-->
 
 
-wind #k  #card
+wind | the general word for wind as a weather phenomenon #k  #card
 ほんやく: 風 (かぜ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <!--ID: 1772768130585-->
@@ -592,7 +593,7 @@ the wind is blowing #k  #card
 <!--ID: 1772768130590-->
 
 
-about / around (used for time)  #card
+about / around (used for time) | attaches after a time expression to mean "approximately"; unlike ぐらい/くらい, 頃 is used specifically for points in time, not durations or quantities #card
 ほんやく: time + 頃 (ごろ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頃.html">頃</a>
 <!--ID: 1772768130594-->
@@ -610,7 +611,7 @@ about when  #card
 <!--ID: 1772768130600-->
 
 
-dictionary #k  #card
+dictionary | a physical or digital reference book of word meanings #k  #card
 ほんやく: 辞書 (じしょ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_辞.html">辞</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
@@ -626,7 +627,7 @@ electronic dictionary #k  #card
 <!--ID: 1772768130605-->
 
 
-i have an electronic dictionary #k  #card
+I have an electronic dictionary #k  #card
 ほんやく: 私は電子辞書を持っています (でんしじしょ、も)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
@@ -637,7 +638,7 @@ i have an electronic dictionary #k  #card
 <!--ID: 1772768130609-->
 
 
-class #k  #card
+class | refers to a lesson/class period or coursework itself, not the classroom or the group of students (クラス) #k  #card
 ほんやく: 授業 (じゅぎょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_授.html">授</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
@@ -665,7 +666,7 @@ spring vacation #k  #card
 <!--ID: 1772768130621-->
 
 
-studying in Germany (abroad) #k  #card
+studying in Germany (abroad) | country name + 留学 forms a compound meaning "studying abroad in [country]" #k  #card
 ほんやく: ドイツ留学（りゅうがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -680,16 +681,16 @@ studying in Japan #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1772768130627-->
 
-studying abroad #k  #card
-ほんやく: 海外領学（かいがい りゅうがく）
+studying abroad | general term for going overseas to study, without specifying a country #k  #card
+ほんやく: 海外留学（かいがい りゅうがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_領.html">領</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1774709063707-->
 
 
-i am studying in France #k  #card
+I am studying in France #k  #card
 ほんやく: 私はフランスに留学しています（りゅうがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
@@ -697,9 +698,9 @@ i am studying in France #k  #card
 <!--ID: 1772768130633-->
 
 
-to check weather #k  #card
-ほんやく: 電気を調べる（しら)
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
+to check the weather #k  #card
+ほんやく: 天気を調べる（しら)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_調.html">調</a>
 <!--ID: 1772768130636-->
@@ -737,13 +738,13 @@ I will go out for a walk #k  #card
 <!--ID: 1772768130652-->
 
 
-customer  #card
+customer | お客さん is the everyday polite term; お客様 is the more elevated form used in service/retail contexts #card
 ほんやく: (お)客（さん/さま) (きゃく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_客.html">客</a>
 <!--ID: 1772768130656-->
 
 
-store manager #k  #card
+store manager | the person in charge of running a single store location #k  #card
 ほんやく: 店長 (てんちょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
@@ -755,17 +756,17 @@ cake  #card
 <!--ID: 1772768130665-->
 
 
-apartment house  #card
+apartment house | typically a smaller, low-rise, often wood-framed rental building; contrasts with the larger, sturdier マンション #card
 ほんやく: アパート
 <!--ID: 1772768130669-->
 
 
-condominium  #card
+condominium / apartment building | in Japan refers to a larger, sturdier (often reinforced-concrete) multi-story building, higher-end than アパート #card
 ほんやく: マンション
 <!--ID: 1772768130673-->
 
 
-Oh! / Eh!/ huh? / What?  #card
+Oh! / Eh! / Huh? / What? | casual interjection expressing surprise or asking for clarification/repetition #card
 ほんやく: え？
 <!--ID: 1772768130677-->
 
@@ -780,34 +781,34 @@ What? You won't go to work tomorrow? #k  #card
 <!--ID: 1772768130681-->
 
 
-all right, well, confirmation  #card
+yeah / uh-huh | casual affirmative response used with friends and family; the polite equivalent is はい #card
 ほんやく: うん
 <!--ID: 1772768130685-->
 
 
-What's wrong?/What's the matter? less polite  #card
+What's wrong? / What's the matter? (less polite) #card
 ほんやく: どうしたの？
 <!--ID: 1772768130689-->
 
 
-So/ therefore (conjunction, which express the result of something caused by the previous sentence)  #card
+So / therefore (conjunction, which expresses the result of something caused by the previous sentence) #card
 ほんやく: だから
 <!--ID: 1772768130693-->
 
 
 I have the day off, you know. So let's go together #k  #card
-ほんやく: 休みなったよ。だかだいっしょうに行きましょう
+ほんやく: 休みになったよ。だからいっしょに行きましょう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1772768130698-->
 
 
-Still / Nevertheless/ mimo to  #card
+Still / Nevertheless | states that something happens despite a preceding circumstance that would normally prevent it #card
 ほんやく: それでも
 <!--ID: 1772768130702-->
 
 
-Pada deszcz. Mimo to mecz się odbędzie. #k  #card
+It is raining. Still, the match will take place. #k  #card
 ほんやく: 雨(あめ)が降(ふ)っています。それでも試合(しあい)はあります。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
@@ -816,7 +817,7 @@ Pada deszcz. Mimo to mecz się odbędzie. #k  #card
 <!--ID: 1772768130706-->
 
 
-On jest zajęty. Mimo to przyszedł. #k  #card
+He is busy. Nevertheless, he came. #k  #card
 ほんやく: 彼(かれ)は忙(いそが)しい。それでも来(き)てくれました。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_忙.html">忙</a>
@@ -824,7 +825,7 @@ On jest zajęty. Mimo to przyszedł. #k  #card
 <!--ID: 1772768130710-->
 
 
-I see (intimate people)  #card
+I see (casual, said to close/intimate people) #card
 ほんやく: そうなんだ
 <!--ID: 1772768130714-->
 
@@ -838,7 +839,7 @@ Have you ever climbed Mt. Fuji (masu) #k  #card
 <!--ID: 1772768130718-->
 
 
-Have you ever been to happy amusement park (stem)? #k  #card
+Have you ever been to Happy Amusement Park (casual/stem form)? #k  #card
 ほんやく: A: ハッピー遊園地に行ったことある？B: ないよ (ゆうえんち)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遊.html">遊</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_園.html">園</a>
@@ -856,7 +857,7 @@ Have you ever studied abroad? #k  #card
 <!--ID: 1772768130727-->
 
 
-it seems that it will rain tomorrow #k  #card
+It seems that it will rain tomorrow #k  #card
 ほんやく: 明日は雨でしょう（あめ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -865,7 +866,7 @@ it seems that it will rain tomorrow #k  #card
 
 
 It seems that Mr. Yamada likes Karaoke #k  #card
-ほんやく: 山田くんは カラオケが好きでしう
+ほんやく: 山田くんは カラオケが好きでしょう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
@@ -878,7 +879,7 @@ It seems that this bag is expensive #k  #card
 <!--ID: 1772768130739-->
 
 
-You worked from the morning to the night, you must be very tired, musn't you #k  #card
+You worked from the morning to the night, you must be very tired, mustn't you #k  #card
 ほんやく: あなた　朝から晩まで ずっと働いて、疲れたでしょう（あさ、ばん、はた)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晩.html">晩</a>
@@ -892,7 +893,7 @@ This is yours, right?  #card
 <!--ID: 1772768130747-->
 
 
-（きゃく、にもつ) #k  #card
+A: Is this your luggage? B: Yes, it is. (polite, said to a customer) #k  #card
 ほんやく: A: こちらは お客様の お荷物でしょうか B: ええ, そうです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_客.html">客</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_様.html">様</a>
@@ -909,7 +910,7 @@ This cake is delicious but very expensive (casual) #k  #card
 <!--ID: 1772768130755-->
 
 
-i will go out now, but i will come back soon (casual) #k  #card
+I will go out now, but I will come back soon (casual) #k  #card
 ほんやく: 今から出かけるけど、すぐ戻るね（いま、で、もど）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
@@ -924,7 +925,7 @@ A: 明日ひま？B:　ひまだけど、どうしたの？
 <!--ID: 1774708466607-->
 
 
-Is hot today (polite and not formal) #k  #card
+It is hot today (polite and not formal) #k  #card
 ほんやく: 今日は暑い（です） (あつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -932,7 +933,7 @@ Is hot today (polite and not formal) #k  #card
 <!--ID: 1772768130764-->
 
 
-it is not hot today (polite and not formal) #k  #card
+It is not hot today (polite and not formal) #k  #card
 ほんやく: 今日は暑くない（です）(あつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -956,25 +957,25 @@ It wasn't hot yesterday (polite and not formal) #k  #card
 <!--ID: 1772768130777-->
 
 
-i like anime (not formal, polite) #k  #card
+I like anime (not formal, polite) #k  #card
 ほんやく: アニメが好き　だ・です
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <!--ID: 1772768130781-->
 
 
-i don't like anime (not formal, polite) #k  #card
+I don't like anime (not formal, polite) #k  #card
 ほんやく: アニメが好き　じゃない・ではありません
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <!--ID: 1772768130790-->
 
 
-i liked anime (not formal, polite) #k  #card
+I liked anime (not formal, polite) #k  #card
 ほんやく: アニメが好き　だった・でした
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <!--ID: 1772768130795-->
 
 
-i didn't like anime (not formal, polite) #k  #card
+I didn't like anime (not formal, polite) #k  #card
 ほんやく: アニメが好き　じゃなかった・ではありませんでした
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <!--ID: 1772768130799-->
@@ -1001,7 +1002,7 @@ here was the school  (not formal, polite) #k  #card
 <!--ID: 1774709117520-->
 
 
-here wasn't school  (not formal, polite) #k  #card
+here wasn't the school  (not formal, polite) #k  #card
 ほんやく: ここは学校   じゃなかった・ではありませんでした
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
@@ -1009,7 +1010,7 @@ here wasn't school  (not formal, polite) #k  #card
 
 
 
-i will go to climb Mt. Fuji next summer (ふつうけい、ていねいけい) #k  #card
+I will go to climb Mt. Fuji next summer (ふつうけい、ていねいけい) #k  #card
 ほんやく: 来年の夏富士山に登りに行く・行きます（らいねん、なつ、ふじさん、のぼ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -1050,7 +1051,7 @@ to defeat that person #k  #card
 <!--ID: 1772768130835-->
 
 
-game, match (sport rivalry) #k  #card
+game, match (sports competition) #k  #card
 ほんやく: 試合（しあい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
@@ -1076,14 +1077,15 @@ tomorrow will be fine weather #k  #card
 
 
 
-to call/nazywać, zwracać się  #card
+to call / to summon | used to call out to a person to get their attention, invite them over, or address them; e.g. summoning staff or calling someone's name #card
 ほんやく: 呼ぶ(よぶ)
 て形: 呼んで
 た形: 呼んだ
 ます形: 呼びます
 出す形 (start): 呼び出す
 そう (looks): 呼びそう
-お〜になる (honorific): お呼びになる
+お〜になる/special verb (honorific):お呼びになる
+謙譲語 (humble): お呼びいたす／お呼びします
 ない形: 呼ばない
 なかった形: 呼ばなかった
 あれる形 (passive/honorific):  呼ばれる
@@ -1096,14 +1098,15 @@ to call/nazywać, zwracać się  #card
 <!--ID: 1772768130854-->
 
 
-to fall (rain/snow) (particle)  #card
+to fall (rain/snow) (particle) | used specifically for precipitation falling from the sky; paired with the subject particle が rather than object を #card
 ほんやく: が + 降る (ふる)
 て形: 降って
 た形: 降った
 ます形: 降ります
 出す形 (start): 降り出す
 そう (looks): 降りそう
-お〜になる (honorific): お降りになる
+お〜になる/special verb (honorific):お降りになる
+謙譲語 (humble): お降りいたす／お降りします
 ない形: 降らない
 なかった形: 降らなかった
 あれる形 (passive/honorific):  降られる
@@ -1116,14 +1119,15 @@ to fall (rain/snow) (particle)  #card
 <!--ID: 1772768130858-->
 
 
-to blow (wind) (particle)  #card
+to blow (wind) (particle) | used for wind blowing, paired with the subject particle が; can also describe blowing air/breath, e.g. blowing out a candle #card
 ほんやく: が + 吹く (ふく)
 て形: 吹いて
 た形: 吹いた
 ます形: 吹きます
 出す形 (start): 吹き出す
 そう (looks): 吹きそう
-お〜になる (honorific): お吹きになる
+お〜になる/special verb (honorific):お吹きになる
+謙譲語 (humble): お吹きいたす／お吹きします
 ない形: 吹かない
 なかった形: 吹かなかった
 あれる形 (passive/honorific):  吹かれる
@@ -1136,14 +1140,15 @@ to blow (wind) (particle)  #card
 <!--ID: 1772768130862-->
 
 
-（to) study abroad (particles)  #card
+(to) study abroad (particles) | combines 留学 (study abroad) + する; implies formally enrolling in school overseas, not just traveling #card
 ほんやく: (へ、に) 留学する (りゅうがくする)
 て形: 留学して
 た形: 留学した
 ます形: 留学します
 出す形 (start): 留学し出す
 そう (looks): 留学しそう
-お〜になる (honorific): お留学しになる
+お〜になる/special verb (honorific):ご留学になる
+謙譲語 (humble): ご留学いたす／ご留学します
 ない形: 留学しない
 なかった形: 留学しなかった
 あれる形 (passive/honorific):  留学される
@@ -1157,14 +1162,15 @@ to blow (wind) (particle)  #card
 <!--ID: 1772768130866-->
 
 
-to examine / to search/ check something that you either don't know or are  (particle)  #card
+to examine / to search / to check something you don't know or are unsure about (particle) | implies actively investigating or looking something up (e.g. in a dictionary or online), unlike 探す which means searching for something you've lost #card
 ほんやく: を+ 調べる (しらべる)
 て形: 調べて
 た形: 調べた
 ます形: 調べます
 出す形 (start): 調べ出す
 そう (looks): 調べそう
-お〜になる (honorific): お調べになる
+お〜になる/special verb (honorific):お調べになる
+謙譲語 (humble): お調べいたす／お調べします
 ない形: 調べない
 なかった形: 調べなかった
 あれる形 (passive/honorific):  調べられる
@@ -1177,14 +1183,15 @@ to examine / to search/ check something that you either don't know or are  (part
 <!--ID: 1772768130871-->
 
 
-to go out to a certain destination (particle)  #card
+to go out to a certain destination (particle) | implies leaving home with a specific purpose or destination in mind, unlike the more general 出る (to go/come out) #card
 ほんやく: (へ/に) 出かける (でかける)
 て形: 出かけて
 た形: 出かけた
 ます形: 出かけます
 出す形 (start): 出かけ出す
 そう (looks): 出かけそう
-お〜になる (honorific): お出かけになる
+お〜になる/special verb (honorific):お出かけになる
+謙譲語 (humble): お出かけいたす／お出かけします
 ない形: 出かけない
 なかった形: 出かけなかった
 あれる形 (passive/honorific):  出かけられる
@@ -1197,14 +1204,15 @@ to go out to a certain destination (particle)  #card
 <!--ID: 1772768130875-->
 
 
-to climb (particle)  #card
+to climb (particle) | used for climbing something tall like a mountain or tree, moving upward along a surface #card
 ほんやく: に　＋ 登る (のぼる)
 て形: 登って
 た形: 登った
 ます形: 登ります
 出す形 (start): 登り出す
 そう (looks): 登りそう
-お〜になる (honorific): お登りになる
+お〜になる/special verb (honorific):お登りになる
+謙譲語 (humble): お登りいたす／お登りします
 ない形: 登らない
 なかった形: 登らなかった
 あれる形 (passive/honorific):  登られる
@@ -1217,14 +1225,15 @@ to climb (particle)  #card
 <!--ID: 1772768130879-->
 
 
-to win  #card
+to win | used for winning a contest, game, or match against an opponent, paired with the particle に marking who/what is defeated #card
 ほんやく: 勝つ (かつ)
 て形: 勝って
 た形: 勝った
 ます形: 勝ちます
 出す形 (start): 勝ち出す
 そう (looks): 勝ちそう
-お〜になる (honorific): お勝ちになる
+お〜になる/special verb (honorific):お勝ちになる
+謙譲語 (humble): お勝ちいたす／お勝ちします
 ない形: 勝たない
 なかった形: 勝たなかった
 あれる形 (passive/honorific):  勝たれる
@@ -1237,14 +1246,15 @@ to win  #card
 <!--ID: 1772768130882-->
 
 
-to fall (rain/snow) (particle)  #card
+to fall (rain/snow) (particle) | used specifically for precipitation falling from the sky; paired with the subject particle が rather than object を #card
 ほんやく: が + 降る (ふる)
 て形: 降って
 た形: 降った
 ます形: 降ります
 出す形 (start): 降り出す
 そう (looks): 降りそう
-お〜になる (honorific): お降りになる
+お〜になる/special verb (honorific):お降りになる
+謙譲語 (humble): お降りいたす／お降りします
 ない形: 降らない
 なかった形: 降らなかった
 あれる形 (passive/honorific):  降られる
@@ -1254,15 +1264,18 @@ to fall (rain/snow) (particle)  #card
 おう形 (let's): 降ろう
 命令形 (imperative): 降れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
+<!--ID: 1784877914678-->
 
-to blow (wind) (particle)  #card
+
+to blow (wind) (particle) | used for wind blowing, paired with the subject particle が; can also describe blowing air/breath, e.g. blowing out a candle #card
 ほんやく: が + 吹く (ふく)
 て形: 吹いて
 た形: 吹いた
 ます形: 吹きます
 出す形 (start): 吹き出す
 そう (looks): 吹きそう
-お〜になる (honorific): お吹きになる
+お〜になる/special verb (honorific):お吹きになる
+謙譲語 (humble): お吹きいたす／お吹きします
 ない形: 吹かない
 なかった形: 吹かなかった
 あれる形 (passive/honorific):  吹かれる
@@ -1272,15 +1285,18 @@ to blow (wind) (particle)  #card
 おう形 (let's): 吹こう
 命令形 (imperative): 吹け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_吹.html">吹</a>
+<!--ID: 1784877914679-->
 
-to clear up (particle) weather  #card
+
+to clear up (particle) weather | describes the sky clearing/becoming sunny, marked by the topic particle は referring to the day or weather #card
 ほんやく: は + 晴れる (はれる)
 て形: 晴れて
 た形: 晴れた
 ます形: 晴れます
 出す形 (start): 晴れ出す
 そう (looks): 晴れそう
-お〜になる (honorific): お晴れになる
+お〜になる/special verb (honorific):お晴れになる
+謙譲語 (humble): お晴れいたす／お晴れします
 ない形: 晴れない
 なかった形: 晴れなかった
 あれる形 (passive/honorific):  晴れられる

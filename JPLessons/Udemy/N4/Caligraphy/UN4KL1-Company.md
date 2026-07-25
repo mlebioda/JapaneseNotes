@@ -195,21 +195,21 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL1-Company
  ---
 
 
-society #k #card
+society | the general term for a community or society at large, used in social/academic contexts #k #card
 社会 （しゃかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <!--ID: 1780855042351-->
 
 
-congress/parliament #k #card
+congress/parliament | refers to the national legislative body #k #card
 国会 （こっかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <!--ID: 1780855042354-->
 
 
-Is that building for the Parlament of Japan? #k #card
+Is that building for the Parliament of Japan? #k #card
 あのビルが日本の国会ですか（こっかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -218,27 +218,27 @@ Is that building for the Parlament of Japan? #k #card
 <!--ID: 1780855042357-->
 
 
-shrine (old usage = jinja) #k #card
+shrine (archaic/literary reading; 神社 is the common modern term) | an older, more literary word for a Shinto shrine #k #card
 社（やしろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1780855042361-->
 
 
-head office #k #card
+head office | refers to a company's main/central office, as opposed to a branch #k #card
 本社（ほんしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1780855042365-->
 
 
-company president #k #card
+company president | the job title for the head of a company #k #card
 社長（しゃちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1780855042368-->
 
 
-for business #k #card
+for business | describes doing something (e.g. traveling) for work-related purposes, not leisure #k #card
 社用（しゃよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
@@ -276,7 +276,7 @@ There are about 300 employees in my company #k #card
 <!--ID: 1780855042381-->
 
 
-Im studying Japanese society at this university #k #card
+I'm studying Japanese society at this university #k #card
 この大学で日本の社会について勉強しています (しゃかい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -289,19 +289,19 @@ Im studying Japanese society at this university #k #card
 <!--ID: 1780855042383-->
 
 
-department store #card
+department store | a loanword from English, used the same way as in English #card
 デパート
 <!--ID: 1780855042386-->
 
 
-employee #k #card
+employee | refers to an employee, typically of one's own company in context #k #card
 社員（しゃいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1780855042389-->
 
 
-company employee #k #card
+company employee | a broader compound emphasizing "office worker at a company" in general, rather than a specific company's staff #k #card
 会社員（かいしゃいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -309,7 +309,7 @@ company employee #k #card
 <!--ID: 1780855042391-->
 
 
-employe meeting #k #card
+employee meeting | a compound describing a gathering/meeting of a company's staff #k #card
 社員会（しゃいんかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
@@ -327,7 +327,7 @@ The employee meeting is from 3 o'clock #k #card
 <!--ID: 1780855042401-->
 
 
-what day of the week #k #card
+what day of the week? #k #card
 何曜日？
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -343,21 +343,22 @@ I make computers at the company #k #card
 <!--ID: 1780855042406-->
 
 
-work/task #k #card
+work/task | a general word for work or a task at hand, used in everyday work contexts #k #card
 作業（さぎょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1780855042409-->
 
 
-piece of work (completed creative work, book) #k #card
+piece of work | refers to a finished creative work, such as a book, film, or art piece #k #card
 作品（さくひん）
+お/ご (honorific): ご作品（さくひん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
 <!--ID: 1780855042411-->
 
 
-miracle, superhuman feat #k #card
+miracle, superhuman feat | describes an extraordinarily skillful or seemingly impossible act #k #card
 神業（かみわざ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_神.html">神</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
@@ -381,14 +382,15 @@ Is the work still not finished? #k #card
 <!--ID: 1780855042422-->
 
 
-to start (I start something) #k #card
+to start | describes deliberately initiating an action; the subject actively makes something begin #k #card
 ほんやく: 始める（はじ）
 て形: 始めて
 た形: 始めた
 ます形: 始めます
 出す形 (start): 始め出す
 そう (looks): 始めそう
-お〜になる (honorific): お始めになる
+お〜になる/special verb (honorific):お始めになる
+謙譲語 (humble): お始めいたす／お始めします
 ない形: 始めない
 なかった形: 始めなかった
 あれる形 (passive/honorific): 始められる
@@ -409,14 +411,15 @@ Start the movie #k #card
 <!--ID: 1780855042431-->
 
 
-begin (starts on its own) #k #card
+to begin | describes an event or process beginning on its own, without a specified initiator #k #card
 ほんやく: 始まる（はじ）
 て形: 始まって
 た形: 始まった
 ます形: 始まります
 出す形 (start): 始まり出す
 そう (looks): 始まりそう
-お〜になる (honorific): お始まりになる
+お〜になる/special verb (honorific):お始まりになる
+謙譲語 (humble): お始まりいたす／お始まりします
 ない形: 始まらない
 なかった形: 始まらなかった
 あれる形 (passive/honorific): 始まられる
@@ -445,7 +448,7 @@ What time does your school start? #k #card
 <!--ID: 1780855042438-->
 
 
-starting time for work, czas rozpoczęcia pracy/szkoły #k #card
+starting time for work or school | a compound specifically for the official start time of a workday or school day #k #card
 始業時間（しぎょうじかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
@@ -454,7 +457,7 @@ starting time for work, czas rozpoczęcia pracy/szkoły #k #card
 <!--ID: 1780855042442-->
 
 
-my company's starting time is 9Am #k #card
+my company's starting time is 9 AM #k #card
 私の会社の始業時間は午前九時です（しぎょうじかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
@@ -469,14 +472,15 @@ my company's starting time is 9Am #k #card
 <!--ID: 1780855042447-->
 
 
-end (on its own) #k #card
+to end | describes an event or process ending naturally, without a specified agent #k #card
 ほんやく: 終わる（お）
 て形: 終わって
 た形: 終わった
 ます形: 終わります
 出す形 (start): 終わり出す
 そう (looks): 終わりそう
-お〜になる (honorific): お終わりになる
+お〜になる/special verb (honorific):お終わりになる
+謙譲語 (humble): お終わりいたす／お終わりします
 ない形: 終わらない
 なかった形: 終わらなかった
 あれる形 (passive/honorific): 終わられる
@@ -497,14 +501,15 @@ lesson ends #k #card
 <!--ID: 1780855042451-->
 
 
-finish (someone actively finishes smth) #k #card
+to finish | describes someone deliberately bringing something to completion #k #card
 ほんやく: 終える（お）
 て形: 終えて
 た形: 終えた
 ます形: 終えます
 出す形 (start): 終え出す
 そう (looks): 終えそう
-お〜になる (honorific): お終えになる
+お〜になる/special verb (honorific):お終えになる
+謙譲語 (humble): お終えいたす／お終えします
 ない形: 終えない
 なかった形: 終えなかった
 あれる形 (passive/honorific): 終えられる
@@ -524,14 +529,14 @@ I finished my homework #k #card
 <!--ID: 1780855042457-->
 
 
-end of work/school #k #card
+end of work/school | a compound specifically for the official end time of a workday or school day #k #card
 終業（しゅうぎょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_終.html">終</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1780855042459-->
 
 
-the end of work is at 6 o clock #k #card
+the end of work is at 6 o'clock #k #card
 作業の終業は６時です（さぎょう、しゅうぎょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
@@ -540,14 +545,14 @@ the end of work is at 6 o clock #k #card
 <!--ID: 1780855042461-->
 
 
-all day #k #card
+all day | an adverbial noun meaning "the whole day," emphasizing duration #k #card
 終日（しゅうじつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_終.html">終</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1780855042464-->
 
 
-I'll stay home all day on sunday #k #card
+I'll stay home all day on Sunday #k #card
 日曜日は終日家にいます（しゅうじつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -556,14 +561,15 @@ I'll stay home all day on sunday #k #card
 <!--ID: 1780855042467-->
 
 
-build #k #card
+to build | describes deliberately constructing a building or structure #k #card
 ほんやく: 建てる（た）
 て形: 建てて
 た形: 建てた
 ます形: 建てます
 出す形 (start): 建て出す
 そう (looks): 建てそう
-お〜になる (honorific): お建てになる
+お〜になる/special verb (honorific):お建てになる
+謙譲語 (humble): お建ていたす／お建てします
 ない形: 建てない
 なかった形: 建てなかった
 あれる形 (passive/honorific): 建てられる
@@ -576,7 +582,7 @@ build #k #card
 <!--ID: 1780855042469-->
 
 
-building #k #card
+building | a general word for a physical building or structure #k #card
 建物（たてもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -592,7 +598,7 @@ There is a telephone in that building #k #card
 <!--ID: 1780855042474-->
 
 
-tamten biały budynek jest szkoła #k #card
+that white building is a school #k #card
 あの白い建物が学校です（たてもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
@@ -602,7 +608,7 @@ tamten biały budynek jest szkoła #k #card
 <!--ID: 1780855042478-->
 
 
-kiedy została zbudowana ta fabryka? #k #card
+when was this factory built? #k #card
 この工場はいつ建てましたか（こうじょう、た）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_工.html">工</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
@@ -610,28 +616,28 @@ kiedy została zbudowana ta fabryka? #k #card
 <!--ID: 1780855042480-->
 
 
-architecture #k #card
+architecture | refers to the field or style of building design, not a specific building #k #card
 建築（けんちく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_築.html">築</a>
 <!--ID: 1780855042483-->
 
 
-story #k #card
+story | refers to a narrative or tale, in the sense of a story being told #k #card
 物語（ものがたり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1780855042486-->
 
 
-speciality/specjalność, famous product #k #card
+specialty / famous local product | refers to a product or dish a particular place is famous for #k #card
 名物（めいぶつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1780855042488-->
 
 
-what is speciality/famous product of this country #k #card
+what is this country's famous specialty? #k #card
 この国の名物は何ですか (くに、めいぶつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
@@ -640,21 +646,21 @@ what is speciality/famous product of this country #k #card
 <!--ID: 1780855042490-->
 
 
-book #k #card
+book | a more formal/literary word for book than the everyday term #k #card
 書物（しょもつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1780855042493-->
 
 
-factory #k #card
+factory | the standard, more formal reading for a factory or plant #k #card
 工場（こうじょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_工.html">工</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1780855042496-->
 
 
-tam jest fabryka mojej firmy #k #card
+that's my company's factory over there #k #card
 あれが私の会社の工場です（こうじょう/こうば）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
@@ -674,21 +680,21 @@ The factory is closed today #k #card
 <!--ID: 1780855042502-->
 
 
-workshop (smaler factory) #k #card
+workshop (smaller factory) | an alternate reading of the same word for a smaller-scale workshop rather than a large plant #k #card
 工場（こうば）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_工.html">工</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1780855042506-->
 
 
-carpenter/stolarz #k #card
+carpenter | refers to a woodworking craftsman #k #card
 大工（だいく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_工.html">工</a>
 <!--ID: 1780855042510-->
 
 
-tamten człowiek jest stolarzem #k #card
+that person is a carpenter #k #card
 あの人は大工です(だいく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
@@ -696,21 +702,21 @@ tamten człowiek jest stolarzem #k #card
 <!--ID: 1780855042515-->
 
 
-the best place for.... #k #card
+the authentic home of... | describes the original/most authentic place associated with something famous (e.g. its home region) #k #card
 本場（ほんば）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1780855042519-->
 
 
-venue/lokal, miejsce spotkań #k #card
+venue | refers to a venue or meeting place for an event #k #card
 会場（かいじょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1780855042523-->
 
 
-is the venue of the employee meeting here? #k #card
+Is the venue of the employee meeting here? #k #card
 社員会の会場はここですか（しゃいんかい、かいじょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>

@@ -480,14 +480,14 @@ Wyjątek:
 # Summary
 
 
- being able to talk about means of transporation  #card
+ Being able to talk about means of transportation #card
 ほんやく: こうつうしゅだん など (and so on) について (about)、話すことができる
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1762324555040-->
 
 
 
-środki transportu #card
+means of transportation | a broad category term covering any method of getting somewhere — train, car, bike, on foot, etc. #card
 こうつうしゅだん（交通手段）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_交.html">交</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
@@ -505,7 +505,7 @@ Wyjątek:
 
 
 
- how to use particles で and に #card
+ How to use particles で and に #card
 ほんやく: で と に　の 使い方（つか、かた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
@@ -513,8 +513,9 @@ Wyjątek:
 
 
 
- seat #card
+ seat | an assigned or available spot (e.g. on a train, in a theater, in class), rather than the physical chair object itself #card
 ほんやく: 席（せき）
+お/ご (honorific): お席(せき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_席.html">席</a>
 <!--ID: 1762324555044-->
 
@@ -530,14 +531,14 @@ Wyjątek:
 
 
  seat becomes available #card
-ほんやく: 咳が空く（せき、あ）
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_咳.html">咳</a>
+ほんやく: 席が空く（せき、あ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_席.html">席</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <!--ID: 1762324555046-->
 
 
 
- is that seat empty? #card
+ Is that seat empty? #card
 ほんやく: このせきは空いていますか (あ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <!--ID: 1762324555047-->
@@ -570,14 +571,14 @@ Wyjątek:
 
 
 
- to open doors #card
+ to open the door #card
 ほんやく: ドアを開ける（あ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1762324555051-->
 
 
 
- to close window #card
+ to close the window #card
 ほんやく: 窓を閉める（まど、し)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_窓.html">窓</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_閉.html">閉</a>
@@ -585,7 +586,7 @@ Wyjątek:
 
 
 
- my home is 3 person family #card
+ My family has three members #card
 ほんやく: うちは三人家族です(かぞく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
@@ -619,7 +620,7 @@ Wyjątek:
 
 
 
- on foot #card
+ on foot | the te-form of 歩く used adverbially to mean "by walking", as opposed to using a vehicle #card
 ほんやく: 歩いて（あるいて）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1762324555057-->
@@ -633,14 +634,14 @@ Wyjątek:
 
 
 
- akihabara station #card
+ Akihabara station #card
 ほんやく: あきはばら駅 (えき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <!--ID: 1762324555059-->
 
 
 
- nearby #card
+ nearby | the noun/adverbial form for close proximity; compare 近い, the plain adjective meaning "near" #card
 ほんやく: 近く（ちかく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <!--ID: 1762324555060-->
@@ -673,7 +674,7 @@ Wyjątek:
 
 
 
- there is an embassy near the police station #card
+ There is an embassy near the police station #card
 ほんやく: 警察署の近くに大使館があります（けいさつしょ、ちかく、たいしかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_警.html">警</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_察.html">察</a>
@@ -694,7 +695,7 @@ Wyjątek:
 
 
 
- police box #card
+ police box | a small neighborhood police post, more local and lower-level than a full 警察署 #card
 ほんやく: 交番（こうばん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_交.html">交</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
@@ -702,7 +703,7 @@ Wyjątek:
 
 
 
- police station #card
+ police station | the main station-level facility, larger in scope than a neighborhood 交番 #card
 ほんやく: 警察署（けいさつしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_警.html">警</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_察.html">察</a>
@@ -739,13 +740,12 @@ Wyjątek:
 
 
  Immigration Bureau (longer and shorter name) #card
-ほんやく: 入庫管理局/入館（にゅうこくかんりきょく・にゅうかん）
+ほんやく: 入国管理局/入管（にゅうこくかんりきょく・にゅうかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_庫.html">庫</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_管.html">管</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_局.html">局</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1762324555071-->
 
 
@@ -758,7 +758,7 @@ Wyjątek:
 
 
 
- to arrive to kyoto #card
+ to arrive in Kyoto #card
 ほんやく: 京都に着く（つ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
@@ -767,7 +767,7 @@ Wyjątek:
 
 
 
- to arrive to office at 9 #card
+ to arrive at the office at 9 #card
 ほんやく: 九時に会社に着きます（つく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
@@ -778,14 +778,14 @@ Wyjątek:
 
 
 
- x numer #card
+ number ~ (counter suffix) #card
 ほんやく: ーばん (番)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
 <!--ID: 1762324555075-->
 
 
 
- exit nr 3 #card
+ exit number 3 #card
 ほんやく: 三番出口（さんばんでぐち)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
@@ -809,14 +809,14 @@ Wyjątek:
 
 
 
- please go stight #card
+ please go straight #card
 ほんやく: まっすぐ行って
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1762324555079-->
 
 
 
- i will go to the company immediately #card
+ I will go to the company immediately #card
 ほんやく: すぐ会社に行きます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -825,7 +825,7 @@ Wyjątek:
 
 
 
- i had my dinner immediately #card
+ I had my dinner immediately #card
 ほんやく: 夕ご飯をすぐ食べました（ゆうごはん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
@@ -834,7 +834,7 @@ Wyjątek:
 
 
 
- the police box is **right** in front of the station #card
+ The police box is **right** in front of the station #card
 ほんやく: 交番は駅のすぐ前です (こうばん、えき、まえ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_交.html">交</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
@@ -844,7 +844,7 @@ Wyjątek:
 
 
 
- as soon as you turn left, it is right here #card
+ As soon as you turn left, it is right here #card
 ほんやく: 左へ曲がるとすぐです (ひだり、ま)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_左.html">左</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曲.html">曲</a>
@@ -852,7 +852,7 @@ Wyjątek:
 
 
 
- to watch movie #card
+ to watch a movie #card
 ほんやく: 映画を見る（えいがをみる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
@@ -861,7 +861,7 @@ Wyjątek:
 
 
 
- to see watch #card
+ to look at a watch/clock #card
 ほんやく: 時計を見る（とけい、み）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
@@ -871,13 +871,13 @@ Wyjątek:
 
 
  computer store #card
-ほんやく: ポソコンの店（みせ）
+ほんやく: パソコンの店（みせ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <!--ID: 1762324555086-->
 
 
 
- metoda, sposob #card
+ method / way | a general term for a way of doing something; compare 手段, which focuses on the specific means used to reach a goal #card
 ほんやく: 方法（ほうほう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_法.html">法</a>
@@ -885,7 +885,7 @@ Wyjątek:
 
 
 
- sposób osiągnięcia  celu #card
+ means (to an end) | the specific tool, method, or resource used to accomplish a goal, often contrasted with 方法, a more general way of doing something #card
 ほんやく: 手段（しゅだん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_段.html">段</a>
@@ -915,7 +915,7 @@ Wyjątek:
 
 
 
- where is your home? woman, man #card
+ Where is your home? (used by women / used by men) #card
 ほんやく: おうち/いえはどこですか
 <!--ID: 1762324555092-->
 
@@ -934,14 +934,14 @@ Wyjątek:
 
 
 
- Then.... (connect a topic to another) #card
+ Then.... (connects one topic to another) #card
 ほんやく: そしたら。。。
 <!--ID: 1762324555095-->
 
 
 
- A: I went to ueno yesterday B: Then, did you go to Ueno park? #card
-ほんやく: A: 昨日、うえのに　行きます B: そしたら、うえの　こうえんに行きます
+ A: I went to Ueno yesterday. B: Then, I went to Ueno Park. #card
+ほんやく: A: 昨日、うえのに　行きました B: そしたら、うえの　こうえんに行きました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -949,13 +949,13 @@ Wyjątek:
 
 
 
- thank you for your hard work, and konnichiwa in workplace #card
+ Thank you for your hard work (also used as a greeting in the workplace) #card
 ほんやく: おつかれさま(です)
 <!--ID: 1762324555097-->
 
 
 
- Thank you for your hard work (superior) #card
+ Thank you for your hard work (said by a superior to a subordinate) #card
 ほんやく: ごくろうさまです
 <!--ID: 1762324555098-->
 
@@ -971,14 +971,14 @@ Wyjątek:
 
 
 
- to get on bus #card
+ to get on the bus #card
 ほんやく: バスに乗る（の)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_乗.html">乗</a>
 <!--ID: 1762324555100-->
 
 
 
- to get off train #card
+ to get off the train #card
 ほんやく: 電車から降りる（でんしゃ、お)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
@@ -987,7 +987,7 @@ Wyjątek:
 
 
 
- to get off plane #card
+ to get off the plane #card
 ほんやく: 飛行機から降りる（ひこうき、お）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飛.html">飛</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -997,7 +997,7 @@ Wyjątek:
 
 
 
- to get off in tokio #card
+ to get off in Tokyo #card
 ほんやく: 東京で降りる（お）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
@@ -1006,14 +1006,14 @@ Wyjątek:
 
 
 
- to get on in akihabara #card
+ to get on in Akihabara #card
 ほんやく: あきはばらで乗る（の）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_乗.html">乗</a>
 <!--ID: 1762324555104-->
 
 
 
- to leave company #card
+ to leave the company #card
 ほんやく: 会社を出る(かいしゃをでる)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -1022,7 +1022,7 @@ Wyjątek:
 
 
 
- leave room #card
+ to leave the room #card
 ほんやく: 部屋から出る（へや、で）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
@@ -1040,7 +1040,7 @@ Wyjątek:
 
 
 
- to go outside of the store, wyjsc na zewnątrz ze sklepu #card
+ to go outside of the store #card
 ほんやく: 店の外に出る（みせ、そと、で)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
@@ -1049,7 +1049,7 @@ Wyjątek:
 
 
 
- to enter into cinema #card
+ to enter the cinema #card
 ほんやく: 映画館に入る（えいがかんにはいる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
@@ -1059,8 +1059,8 @@ Wyjątek:
 
 
 
- to enter into a gym #card
-ほんやく: 体育館（たいいくかん taikkan）に入る（しゃくしょ,はい）
+ to enter a gym #card
+ほんやく: 体育館（たいいくかん taikkan）に入る（はい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_育.html">育</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
@@ -1124,7 +1124,7 @@ Wyjątek:
 
 
 
- I walked to shinbashi on foot #card
+ I walked to Shinbashi on foot #card
 ほんやく: 新橋駅まで歩いて行きました（しんばし、ある)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_橋.html">橋</a>
@@ -1135,14 +1135,16 @@ Wyjątek:
 
 
 
-  #card
+ I ran to the station #card
 ほんやく: 駅まで**走って**行きました（えき、はし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<!--ID: 1784877914675-->
 
 
- yesterday i bought fridge in akihabara (Ta) #card
+
+ Yesterday, I bought a fridge in Akihabara #card
 ほんやく: 昨日、秋葉原で冷蔵庫を買った（あきはばら、れいぞうこ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1157,7 +1159,7 @@ Wyjątek:
 
 
 
- I'dont eat breakfast at home #card
+ I don't eat breakfast at home #card
 ほんやく: 家で、朝ごはんを食べません
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
@@ -1166,7 +1168,7 @@ Wyjątek:
 
 
 
- im going to buy a magazine at the station #card
+ I'm going to buy a magazine at the station #card
 ほんやく: 駅で ざっしを買います
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
@@ -1174,7 +1176,7 @@ Wyjątek:
 
 
 
- how did you get to Akihabara? #card
+ How did you get to Akihabara? #card
 ほんやく: 秋葉原までどうやって行きましたか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_葉.html">葉</a>
@@ -1184,7 +1186,7 @@ Wyjątek:
 
 
 
- Walk to ueno station, and take the subway for two stations, then you will arrive #card
+ Walk to Ueno station, and take the subway for two stations, then you will arrive #card
 ほんやく: 上野駅まで　歩いて、地下鉄に乗って、二駅で着きます（うえの、ある、ちかてつ、ふたえき、つ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
@@ -1200,7 +1202,7 @@ Wyjątek:
 
 
 
- How do I get to Kyoto from Tokio? #card
+ How do I get to Kyoto from Tokyo? #card
 ほんやく: 東京からどうやって京都まで行きますか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
@@ -1228,7 +1230,8 @@ to become empty/vacant #card
 ます形: あきます  
 出す形 (start): あき出す  
 そう (looks): あきそう  
-お〜になる (honorific): おあきになる  
+お〜になる/special verb (honorific):おあきになる  
+謙譲語 (humble): おあきいたす／おあきします  
 ない形: あかない  
 なかった形: あかなかった  
 あれる形 (passive/honorific):  あかれる  
@@ -1249,7 +1252,8 @@ to open #card
 ます形: あけます  
 出す形 (start): あけ出す  
 そう (looks): あけそう  
-お〜になる (honorific): おあけになる  
+お〜になる/special verb (honorific):おあけになる  
+謙譲語 (humble): おあけいたす／おあけします  
 ない形: あけない  
 なかった形: あけなかった  
 あれる形 (passive/honorific):  あけられる  
@@ -1270,7 +1274,8 @@ to close #card
 ます形: しめます  
 出す形 (start): しめ出す  
 そう (looks): しめそう  
-お〜になる (honorific): おしめになる  
+お〜になる/special verb (honorific):おしめになる  
+謙譲語 (humble): おしめいたす／おしめします  
 ない形: しめない  
 なかった形: しめなかった  
 あれる形 (passive/honorific):  しめられる  
@@ -1291,7 +1296,8 @@ to arrive at, reach #card
 ます形: つきます  
 出す形 (start): つき出す  
 そう (looks): つきそう  
-お〜になる (honorific): おつきになる  
+お〜になる/special verb (honorific):おつきになる  
+謙譲語 (humble): おつきいたす／おつきします  
 ない形: つかない  
 なかった形: つかなかった  
 あれる形 (passive/honorific):  つかれる  
@@ -1312,7 +1318,8 @@ to enter, come into #card
 ます形: はいります  
 出す形 (start): はいり出す  
 そう (looks): はいりそう  
-お〜になる (honorific): おはいりになる  
+お〜になる/special verb (honorific):おはいりになる  
+謙譲語 (humble): おはいりいたす／おはいりします  
 ない形: はいらない  
 なかった形: はいらなかった  
 あれる形 (passive/honorific):  はいられる  
@@ -1333,7 +1340,8 @@ to stop, turn off #card
 ます形: とめます  
 出す形 (start): とめ出す  
 そう (looks): とめそう  
-お〜になる (honorific): おとめになる  
+お〜になる/special verb (honorific):おとめになる  
+謙譲語 (humble): おとめいたす／おとめします  
 ない形: とめない  
 なかった形: とめなかった  
 あれる形 (passive/honorific):  とめられる  
@@ -1354,7 +1362,8 @@ to get on #card
 ます形: のります  
 出す形 (start): のり出す  
 そう (looks): のりそう  
-お〜になる (honorific): おのりになる  
+お〜になる/special verb (honorific):おのりになる  
+謙譲語 (humble): おのりいたす／おのりします  
 ない形: のらない  
 なかった形: のらなかった  
 あれる形 (passive/honorific):  のられる  
@@ -1375,7 +1384,8 @@ to get off #card
 ます形: おります  
 出す形 (start): おり出す  
 そう (looks): おりそう  
-お〜になる (honorific): おおりになる  
+お〜になる/special verb (honorific):おおりになる  
+謙譲語 (humble): おおりいたす／おおりします  
 ない形: おりない  
 なかった形: おりなかった  
 あれる形 (passive/honorific):  おりられる  
@@ -1396,7 +1406,8 @@ to transfer #card
 ます形: のりかえます  
 出す形 (start): のりかえ出す  
 そう (looks): のりかえそう  
-お〜になる (honorific): おのりかえになる  
+お〜になる/special verb (honorific):おのりかえになる  
+謙譲語 (humble): おのりかえいたす／おのりかえします  
 ない形: のりかえない  
 なかった形: のりかえなかった  
 あれる形 (passive/honorific):  のりかえられる  
@@ -1418,7 +1429,8 @@ to enter #card
 ます形: はいります  
 出す形 (start): はいり出す  
 そう (looks): はいりそう  
-お〜になる (honorific): おはいりになる  
+お〜になる/special verb (honorific):おはいりになる  
+謙譲語 (humble): おはいりいたす／おはいりします  
 ない形: はいらない  
 なかった形: はいらなかった  
 あれる形 (passive/honorific):  はいられる  
@@ -1439,7 +1451,8 @@ to turn #card
 ます形: まがります  
 出す形 (start): まがり出す  
 そう (looks): まがりそう  
-お〜になる (honorific): おまがりになる  
+お〜になる/special verb (honorific):おまがりになる  
+謙譲語 (humble): おまがりいたす／おまがりします  
 ない形: まがらない  
 なかった形: まがらなかった  
 あれる形 (passive/honorific):  まがられる  
@@ -1460,7 +1473,8 @@ to get off #card
 ます形: おります  
 出す形 (start): おり出す  
 そう (looks): おりそう  
-お〜になる (honorific): おおりになる  
+お〜になる/special verb (honorific):おおりになる  
+謙譲語 (humble): おおりいたす／おおりします  
 ない形: おりない  
 なかった形: おりなかった  
 あれる形 (passive/honorific):  おりられる  
@@ -1481,7 +1495,8 @@ to transfer #card
 ます形: のりかえます  
 出す形 (start): のりかえ出す  
 そう (looks): のりかえそう  
-お〜になる (honorific): おのりかえになる  
+お〜になる/special verb (honorific):おのりかえになる  
+謙譲語 (humble): おのりかえいたす／おのりかえします  
 ない形: のりかえない  
 なかった形: のりかえなかった  
 あれる形 (passive/honorific):  のりかえられる  
@@ -1503,7 +1518,8 @@ to be tired #card
 ます形: つかれます  
 出す形 (start): つかれ出す  
 そう (looks): つかれそう  
-お〜になる (honorific): おつかれになる  
+お〜になる/special verb (honorific):おつかれになる  
+謙譲語 (humble): おつかれいたす／おつかれします  
 ない形: つかれない  
 なかった形: つかれなかった  
 あれる形 (passive/honorific):  つかれられる  
@@ -1524,7 +1540,8 @@ to move #k #card
 ます形: うごきます  
 出す形 (start): うごき出す  
 そう (looks): うごきそう  
-お〜になる (honorific): おうごきになる  
+お〜になる/special verb (honorific):おうごきになる  
+謙譲語 (humble): おうごきいたす／おうごきします  
 ない形: うごかない  
 なかった形: うごかなかった  
 あれる形 (passive/honorific):  うごかれる  
@@ -1545,7 +1562,8 @@ to come #card
 ます形: きます  
 出す形 (start): き出す  
 そう (looks): きそう  
-お〜になる (honorific): おいでになる  
+お〜になる/special verb (honorific):おいでになる  
+謙譲語 (humble): 参る  
 ない形: こない  
 なかった形: こなかった  
 あれる形 (passive/honorific):  こられる  
@@ -1559,14 +1577,15 @@ to come #card
 
 
 
-to live, reside #k #card
+to live, reside | implies settling or residing somewhere for an extended period, unlike いる, which just describes being present temporarily #k #card
 ほんやく: 住む（す）
 て形: すんで  
 た形: すんだ  
 ます形: すみます  
 出す形 (start): すみ出す  
 そう (looks): すみそう  
-お〜になる (honorific): おすみになる  
+お〜になる/special verb (honorific):おすみになる  
+謙譲語 (humble): おすみいたす／おすみします  
 ない形: すまない  
 なかった形: すまなかった  
 あれる形 (passive/honorific):  すまれる  
@@ -1587,7 +1606,8 @@ to hurry #card
 ます形: いそぎます  
 出す形 (start): いそぎ出す  
 そう (looks): いそぎそう  
-お〜になる (honorific): おいそぎになる  
+お〜になる/special verb (honorific):おいそぎになる  
+謙譲語 (humble): おいそぎいたす／おいそぎします  
 ない形: いそがない  
 なかった形: いそがなかった  
 あれる形 (passive/honorific):  いそがれる  

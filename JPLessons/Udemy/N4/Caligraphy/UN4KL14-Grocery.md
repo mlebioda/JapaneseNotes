@@ -226,8 +226,9 @@ rice + woman + whip
 
  Rzeczowniki:
 
- rice #card
+ rice | the general word for rice, both as a growing crop and a food staple #card
 ほんやく: 米（こめ)
+お/ご (honorific): お米（こめ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <!--ID: 1749744829284-->
 
@@ -248,14 +249,14 @@ rice + woman + whip
 <!--ID: 1749744829297-->
 
 
- United states of amerika #card
+ United States of America | a formal/written term for the US, derived from an old phonetic transliteration of "America" #card
 ほんやく: 米国（べいこく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1749744829299-->
 
 
- cooked rice #card
+ cooked rice | rice that has already been cooked, as opposed to uncooked/raw rice #card
 ほんやく: 米飯（べいはん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
@@ -270,7 +271,7 @@ rice + woman + whip
 <!--ID: 1749744829304-->
 
 
- Japanese staple food is rice (stejpul) podstawowe jedzenie japończyka #card
+ Japanese staple food is rice | podstawowe jedzenie Japończyka #card
 ほんやく: 日本人の主食は米です（しゅしょく,こめ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -289,29 +290,29 @@ rice + woman + whip
 <!--ID: 1749744829309-->
 
 
- staple food/podstawowe jedzenie #card
+ staple food | podstawowe jedzenie — the core food eaten as the foundation of a diet (e.g. rice, bread, etc.) #card
 ほんやく: 主食(しゅしょく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1749744829311-->
 
 
- white rice #card
+ white rice | polished white rice, as opposed to brown/unpolished rice #card
 ほんやく: 白米（はくまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <!--ID: 1749744829314-->
 
 
- new rice/beginner #card
+ new rice / beginner | also used figuratively for a novice or rookie in any job, not just farming #card
 ほんやく: 新米（しんまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <!--ID: 1749744829316-->
 
 
- I think white rice is good for cooked rikce after all. #card
-ほんやく: やはり米飯は白米がいいよ思いますよ（べいはん、はくまい、おも）
+ I think white rice is good for cooked rice after all. #card
+ほんやく: やはり米飯は白米がいいと思いますよ（べいはん、はくまい、おも）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
@@ -319,20 +320,20 @@ rice + woman + whip
 <!--ID: 1749744829319-->
 
 
- rice field #card
+ rice field | a general, everyday word for a rice paddy/field #card
 ほんやく: 田んぼ（たんぼ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1749744829321-->
 
 
- paddy field (pola ryżowe, techniczme zalewane pola uprawne) #card
+ paddy field (pola ryżowe, technicznie zalewane pola uprawne) #card
 ほんやく: 水田（すいでん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1749744829323-->
 
 
- garden/rural area #card
+ garden/rural area | evokes a pastoral, idyllic countryside setting, more poetic than a plain word for "countryside" #card
 ほんやく: 田園（でんえん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_園.html">園</a>
@@ -349,7 +350,7 @@ rice + woman + whip
 <!--ID: 1749744829328-->
 
 
- The main(mainly) job of Tanaka companys is the trade of rice #card
+ The main business of Tanaka's company is the trade of rice #card
 ほんやく: 田中さんの会社の主な仕事は米の売買です（おも、こめ、ばいばい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
@@ -364,14 +365,14 @@ rice + woman + whip
 <!--ID: 1749744829330-->
 
 
- square #card
+ square | an open public square or plaza in a town/city #card
 ほんやく: 広場（ひろば）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1749744829333-->
 
 
- Mr Tanaka's rice field is spacious (isnt is?) #card
+ Mr. Tanaka's rice field is spacious, isn't it? #card
 ほんやく: 田中さんの田んぼは広いですね（たん、ひろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
@@ -379,7 +380,7 @@ rice + woman + whip
 <!--ID: 1749744829335-->
 
 
- This kithen is spacious (isn't  it) #card
+ This kitchen is spacious, isn't it? #card
 ほんやく: この台所は広いですね（だいどころ、ひろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
@@ -387,28 +388,28 @@ rice + woman + whip
 <!--ID: 1749744829337-->
 
 
- vast #card
+ vast | describes something vast/expansive in scale, often used for land or scope #card
 ほんやく: 広大（こうだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <!--ID: 1749744829340-->
 
 
- advertisement #card
+ advertisement | a public advertisement or promotional notice #card
 ほんやく: 広告（こうこく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_告.html">告</a>
 <!--ID: 1749744829342-->
 
 
- typhoon #card
+ typhoon | the standard word for a typhoon (tropical cyclone) in the Pacific region #card
 ほんやく: 台風（たいふう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <!--ID: 1749744829344-->
 
 
- It seems that a typhoon will come tommorow　(forma wyrażająca zasłysaną informacje, przypuszczenie oparte na cudzych słowach) #card
+ It seems that a typhoon will come tomorrow　(forma wyrażająca zasłysaną informację, przypuszczenie oparte na cudzych słowach) #card
 ほんやく: 明日台風が来るらしいです（たいふう、く）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -418,14 +419,15 @@ rice + woman + whip
 <!--ID: 1749744829347-->
 
 
- kitchen #card
+ kitchen | the room where food is prepared and cooked in a home #card
 ほんやく: 台所（だいどころ）
+お/ご (honorific): お台所（だいどころ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1749744829349-->
 
 
- 3 cars #card
+ 3 cars | uses the counter for machines and vehicles #card
 ほんやく: 三台の車（さんだいのくるま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
@@ -444,7 +446,7 @@ rice + woman + whip
 <!--ID: 1749744829354-->
 
 
- My father's house is on a height in his town/ dom mojego ojca znajduje się na wzgórzu w tym mieście #card
+ My father's house is on high ground in his town | dom mojego ojca znajduje się na wzgórzu w tym mieście #card
 ほんやく: 父の家はこの町の高台にあります（まち、たかだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
@@ -454,7 +456,7 @@ rice + woman + whip
 <!--ID: 1749744829356-->
 
 
- heights, high ground, wzgórze #card
+ heights, high ground | wzgórze — elevated land, e.g. a hill or high ground overlooking lower areas #card
 ほんやく: 高台（たかだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
@@ -472,13 +474,13 @@ rice + woman + whip
 <!--ID: 1749744829361-->
 
 
- cow #card
+ cow | the general word for cattle/cow #card
 ほんやく: 牛（うし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
 <!--ID: 1749744829363-->
 
 
- There are many cows in the USA (aren't they) #card
+ There are many cows in the USA, aren't there? #card
 ほんやく: 米国は牛が多いですね（べいこく、うし、おお）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
@@ -487,15 +489,15 @@ rice + woman + whip
 <!--ID: 1749744829367-->
 
 
- beef #card
+ beef | meat from cattle #card
 ほんやく: 牛肉（ぎゅうにく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <!--ID: 1749744829369-->
 
 
- beef tongue #card
-ほんやく: 牛ダイ（ぎゅうだい）
+ beef tongue | a popular grilled dish made from beef tongue, especially associated with Sendai #card
+ほんやく: 牛タン（ぎゅうたん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
 <!--ID: 1749744829372-->
 
@@ -509,7 +511,7 @@ rice + woman + whip
 <!--ID: 1749744829375-->
 
 
- This restaurant if famous for beef dishes #card
+ This restaurant is famous for beef dishes #card
 ほんやく: この料理屋は牛肉が有名です（りょうりや、ぎゅうにく、ゆうめい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
@@ -521,13 +523,13 @@ rice + woman + whip
 <!--ID: 1749744829377-->
 
 
- bird #card
+ bird | the general word for bird #card
 ほんやく: 鳥（とり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
 <!--ID: 1749744829380-->
 
 
- chicken dish #card
+ chicken dish | a dish made with chicken/bird meat #card
 ほんやく: 鳥料理（とりりょうり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
@@ -535,14 +537,14 @@ rice + woman + whip
 <!--ID: 1749744829382-->
 
 
- entrance to the shinto shrine #card
+ torii gate | the entrance gate to a Shinto shrine #card
 ほんやく: 鳥居（とりい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_居.html">居</a>
 <!--ID: 1749744829385-->
 
 
- chicken meat #card
+ chicken meat | can be written with two different kanji — one for the specific bird and one for "bird" in general — both read the same way and used interchangeably in casual speech #card
 ほんやく: 鳥肉/鶏肉（とりにく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
@@ -570,21 +572,21 @@ rice + woman + whip
 <!--ID: 1749744829392-->
 
 
- swan #card
+ swan | literally combines the words for "white" and "bird" #card
 ほんやく: 白鳥（はくちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
 <!--ID: 1749744829394-->
 
 
- wild bird #card
+ wild bird | a bird living in its natural habitat, as opposed to a caged/domesticated bird #card
 ほんやく: 野鳥（やちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳥.html">鳥</a>
 <!--ID: 1749744829397-->
 
 
- two birds with one stone (idiom) throw one stone to get one bird #card
+ to kill two birds with one stone (idiom) #card
 ほんやく: 一石二鳥（いっせきにちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_石.html">石</a>
@@ -594,7 +596,7 @@ rice + woman + whip
 
 
  I like beef more than fish #card
-ほんやく: 私は魚より、牛肉が好きです（さかなりょうり、ぎゅうにく）
+ほんやく: 私は魚より、牛肉が好きです（さかな、ぎゅうにく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_魚.html">魚</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
@@ -603,21 +605,21 @@ rice + woman + whip
 <!--ID: 1749744829402-->
 
 
- surplus (surplas) nadwyżka, zysk #card
+ surplus | nadwyżka, zysk (financial surplus/profit) #card
 ほんやく: 黒字（くろじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
 <!--ID: 1749744829404-->
 
 
- a defeat mark, znak porażki #card
+ a defeat mark | znak porażki — a symbol used especially in sumo to denote a loss #card
 ほんやく: 黒星（くろぼし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_星.html">星</a>
 <!--ID: 1749744829406-->
 
 
- Is this black clothes for sale? #card
+ Are these black clothes for sale? #card
 ほんやく: この黒い服は売り物ですか（くろ、ふく、うりもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
@@ -626,14 +628,14 @@ rice + woman + whip
 <!--ID: 1749744829409-->
 
 
- black color #card
+ black color | refers to the color black itself (as a noun), rather than the adjective for something being black #card
 ほんやく: 黒色（こくしょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1749744829411-->
 
 
- black board #card
+ black board | a school blackboard/chalkboard #card
 ほんやく: 黒板（こくばん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_板.html">板</a>
@@ -655,14 +657,14 @@ rice + woman + whip
 <!--ID: 1749744829418-->
 
 
- My ybrother's bag is alsways heave #card
+ My brother's bag is always heavy #card
 ほんやく: 弟のかばんはいつも重いです（おとうと、おも）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
 <!--ID: 1749744829420-->
 
 
- That black car is mine (know?) #card
+ That black car is mine, you know? #card
 ほんやく: あの黒い車は私のですよ（くろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
@@ -670,14 +672,18 @@ rice + woman + whip
 <!--ID: 1749744829422-->
 
 
- critical #card
+ critical | describes something serious/significant in importance or consequence, e.g. a critical problem #card
 ほんやく: 重大（じゅうだい）
+過去形: —
+否定形: —
+副詞形: —
+そう (looks): 重大そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <!--ID: 1749744829425-->
 
 
- severe illness(sevyr illnes) ciężka choroba #card
+ severe illness | ciężka choroba #card
 ほんやく: 重病（じゅうびょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
@@ -685,7 +691,7 @@ rice + woman + whip
 
 
  This is a critical problem, isn't it? #card
-ほんやく: これは重大ンな問題ですね（じゅうだい、もんだい）
+ほんやく: これは重大な問題ですね（じゅうだい、もんだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
@@ -693,7 +699,7 @@ rice + woman + whip
 <!--ID: 1749744829429-->
 
 
- Mr smitch is seriously ill and is hospitalized (went to hospital) #card
+ Mr. Smith is seriously ill and is hospitalized #card
 ほんやく: スミスさんは重病で、入院しています（じゅうびょう、にゅういん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
@@ -702,7 +708,7 @@ rice + woman + whip
 <!--ID: 1749744829432-->
 
 
- this company has critical problem #card
+ This company has a critical problem #card
 ほんやく: この会社は重大な問題があります（じゅうだい、もんだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -713,13 +719,13 @@ rice + woman + whip
 <!--ID: 1749744829434-->
 
 
- leave hometown #card
+ to leave one's hometown | a common phrase pattern for departing from one's native place #card
 ほんやく: ふるさとを去る（さ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
 <!--ID: 1749744829437-->
 
 
- summer passes #card
+ summer passes | describes a season coming to an end, an extended sense of the verb beyond physically leaving a place #card
 ほんやく: 夏が去る（なつ、さ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
@@ -734,7 +740,7 @@ rice + woman + whip
 <!--ID: 1749744829442-->
 
 
- My elder brother left his hometown and moved to Tokyou #card
+ My elder brother left his hometown and moved to Tokyo #card
 ほんやく: 兄はふるさとを去って上京しました（さ、じょうきょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
@@ -756,7 +762,7 @@ rice + woman + whip
 <!--ID: 1749744829449-->
 
 
-  after collage #card
+  after university (graduation) #card
 ほんやく: 大学卒業後 (だいがくそつぎょうご)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -766,7 +772,7 @@ rice + woman + whip
 <!--ID: 1749744829454-->
 
 
-  university graduate #card
+  university graduation #card
 ほんやく: 大学卒業 (だいがくそつぎょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -775,14 +781,14 @@ rice + woman + whip
 <!--ID: 1749744829458-->
 
 
- last year #card
+ last year | refers to the year prior to the current one #card
 ほんやく: 去年（きょねん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1749744829462-->
 
 
- delete #card
+ delete | to erase or remove something (e.g. data), a more formal/technical term than a casual word for "erase" #card
 ほんやく: 消去（しょうきょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
@@ -800,7 +806,7 @@ rice + woman + whip
 <!--ID: 1749744829470-->
 
 
- yamada san run fast #card
+ Yamada-san runs fast #card
 ほんやく: 山田さんは足が速い（あし、はや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -834,7 +840,7 @@ rice + woman + whip
 <!--ID: 1749744829482-->
 
 
- I want to buy this camera bud I don't have enough money #card
+ I want to buy this camera but I don't have enough money #card
 ほんやく: このカメラを買いたいですが、お金が足りませんよ（た）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
@@ -852,21 +858,22 @@ rice + woman + whip
 <!--ID: 1749744829488-->
 
 
- lack #card
+ lack | insufficiency, shortage of something needed #card
 ほんやく: 不足（ふそく）
+お/ご (honorific): ご不足（ふそく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1749744829491-->
 
 
- enter the house with one's shoes on #card
+ wearing shoes indoors | keeping one's outdoor footwear on inside, often prohibited via warning signage at building entrances #card
 ほんやく: 土足（どそく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_土.html">土</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <!--ID: 1749744829494-->
 
 
- number of children #card
+ number of children | how many children someone has, or a count of children in general #card
 ほんやく: 子供の数（こども、かず）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_供.html">供</a>
@@ -874,7 +881,7 @@ rice + woman + whip
 <!--ID: 1749744829497-->
 
 
- number (of) #card
+ number (of) | a counted quantity of items, as opposed to 数字 (a numeral symbol) #card
 ほんやく: 数（かず）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <!--ID: 1749744829500-->
@@ -906,29 +913,30 @@ rice + woman + whip
 <!--ID: 1749744829508-->
 
 
- number as a symbol #card
+ number as a symbol | the written numeral itself (e.g. "5"), as opposed to an abstract count/quantity #card
 ほんやく: 数字（すうじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
 <!--ID: 1749744829511-->
 
 
- math #card
+ math | the academic subject of mathematics #card
 ほんやく: 数学（すうがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1749744829514-->
 
 
- number of people #card
+ number of people | a headcount, i.e. how many people are present or involved #card
 ほんやく: 人数（にんずう）
+お/ご (honorific): ご人数（にんずう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <!--ID: 1749744829516-->
 
 
- The number of employes is 700 #card
-ほんやく: 社員の人数は七百人です（しゃいん、にんず、ななひゃくにん）
+ The number of employees is 700 #card
+ほんやく: 社員の人数は七百人です（しゃいん、にんずう、ななひゃくにん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
@@ -940,14 +948,15 @@ rice + woman + whip
 
 
 
-łamać się #card
+to break, to snap (intransitive) | łamać się #card
 ほんやく: 折れる（お）
 て形: 折れて
 た形: 折れた
 ます形: 折れます
 出す形 (start): 折れ出す
 そう (looks): 折れそう
-お〜になる (honorific): お折れになる
+お〜になる/special verb (honorific):お折れになる
+謙譲語 (humble): お折れいたす／お折れします
 ない形: 折れない
 なかった形: 折れなかった
 あれる形 (passive/honorific): 折れられる
@@ -960,14 +969,15 @@ rice + woman + whip
 <!--ID: 1749744843708-->
 
 
-leave #card
+to leave / to go away | describes departing from a place, often with a nuance of finality or distance, more literary than a casual word for "leave" #card
 ほんやく: 去る（さ）
 て形: 去って
 た形: 去った
 ます形: 去ります
 出す形 (start): 去り出す
 そう (looks): 去りそう
-お〜になる (honorific): お去りになる
+お〜になる/special verb (honorific):お去りになる
+謙譲語 (humble): お去りいたす／お去りします
 ない形: 去らない
 なかった形: 去らなかった
 あれる形 (passive/honorific): 去られる
@@ -980,14 +990,15 @@ leave #card
 <!--ID: 1749744843718-->
 
 
-be enogh, sufficient, wystarczać #card
+to be enough, to suffice | wystarczać — describes a quantity meeting or satisfying a requirement (money, time, etc.) #card
 ほんやく: 足りる（た）
 て形: 足りて
 た形: 足りた
 ます形: 足ります
 出す形 (start): 足り出す
 そう (looks): 足りそう
-お〜になる (honorific): お足りになる
+お〜になる/special verb (honorific):お足りになる
+謙譲語 (humble): お足りいたす／お足りします
 ない形: 足りない
 なかった形: 足りなかった
 あれる形 (passive/honorific): 足りられる
@@ -1000,14 +1011,15 @@ be enogh, sufficient, wystarczać #card
 <!--ID: 1749744843720-->
 
 
-count #card
+to count | to count items one by one, tallying a quantity #card
 ほんやく: 数える（かぞ）
 て形: 数えて
 た形: 数えた
 ます形: 数えます
 出す形 (start): 数え出す
 そう (looks): 数えそう
-お〜になる (honorific): お数えになる
+お〜になる/special verb (honorific):お数えになる
+謙譲語 (humble): お数えいたす／お数えします
 ない形: 数えない
 なかった形: 数えなかった
 あれる形 (passive/honorific): 数えられる
@@ -1020,7 +1032,7 @@ count #card
 <!--ID: 1749744843722-->
 
 
-wide, spacious #card
+wide, spacious | an i-adjective describing ample physical space or breadth #card
 ほんやく: 広い（ひろ）
 過去形: 広かった
 否定形: 広くない
@@ -1029,7 +1041,7 @@ wide, spacious #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
 <!--ID: 1749744843724-->
 
-heavy #card
+heavy | an i-adjective for physical weight, also used figuratively for a heavy/serious mood or responsibility #card
 ほんやく: 重い（おも）
 過去形: 重かった
 否定形: 重くない
@@ -1039,7 +1051,7 @@ heavy #card
 <!--ID: 1749744849985-->
 
 
-black #card
+black | the i-adjective form for describing something as black in color #card
 ほんやく: 黒い（くろ）
 過去形: 黒かった
 否定形: 黒くない

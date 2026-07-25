@@ -391,7 +391,7 @@ Being able to talk about strong desires and future plans #k #card
 <!--ID: 1779388974969-->
 
 
-volitional form #k #card
+volitional form | the grammatical form used to state one's own intention or make a suggestion, formed from the ます-stem #k #card
 意向形 (いこうけい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_向.html">向</a>
@@ -399,48 +399,50 @@ volitional form #k #card
 <!--ID: 1779388974970-->
 
 
-will / strong desire #k #card
+will / strong desire | one's own inner resolve or determination; more formal and abstract than 希望(きぼう) (hope) #k #card
 意志 (いし)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_志.html">志</a>
 <!--ID: 1779388974971-->
 
 
-from now on / in the future #k #card
+from now on / in the future | formal/written register; the period starting now and continuing forward #k #card
 今後 (こんご)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
 <!--ID: 1779388974972-->
 
 
-hope / wish + verb #card
+hope / wish + verb | a wish or aspiration, softer and more personal than 願(ねが)う, often used for goals and requests #card
 希望(する) (きぼう)
+お/ご (honorific): ご希望(きぼう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_希.html">希</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_望.html">望</a>
 <!--ID: 1779388974973-->
 
 
-plan + verb #k #card
+plan + verb | a structured, thought-out plan; more formal/concrete than 予定(よてい) (schedule) #k #card
 計画(する) (けいかく)
+お/ご (honorific): ご計画(けいかく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <!--ID: 1779388974974-->
 
 
-ability / skill / capacity #k #card
+ability / skill / capacity | an innate or trained capability; broader and more formal than できる #k #card
 能力 (のうりょく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_能.html">能</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
 <!--ID: 1779388974975-->
 
 
-distance / interval / range (during, among) #k #card
+distance / interval / range (during, among) | a bounded span of space, time, or a group; not used for the endpoints themselves #k #card
 間 (あいだ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1779388974976-->
 
 
-form the station to my home (distance) #k #card
+from the station to my home (distance) #k #card
 駅から家までの間 (えき、いえ、いあだ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
@@ -448,7 +450,7 @@ form the station to my home (distance) #k #card
 <!--ID: 1779388974977-->
 
 
-in range of from 10:00 to 11:00 #k #card
+between 10:00 and 11:00 #k #card
 １０時から 11時までの間 (じ、あいだ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
@@ -474,26 +476,27 @@ be popular among the students #k #card
 <!--ID: 1779388974980-->
 
 
-intention #card
+intention | a firm personal intention already decided in one's mind; stronger and more resolute than と思う #card
 つもり
+お/ご (honorific): おつもり
 <!--ID: 1779388974981-->
 
 
-convenience (polite/casual) (for you, not if something is convenient, someone availability) #card
+(someone's) availability / convenience of schedule | refers to whether a time or plan suits a person, not whether an object itself is convenient #card
 (ご)都合 (つごう) (often with いい、わるい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1779388974982-->
 
 
-to be convenient #card
+to be convenient | said of a person's schedule/availability being open, not about an object being handy #card
 （ご）都合がいい（つごう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1779388974983-->
 
 
-to be inconvenient #k #card
+to be inconvenient | a person's schedule doesn't allow it; a common polite way to decline #k #card
 （ご）都合が悪い（つごう、わる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
@@ -515,7 +518,7 @@ Would that be convenient for you? (polite, confirming a specific time) #card
 <!--ID: 1779388974986-->
 
 
-recently + particle N #k #card
+recently + particle N | a recent period leading up to now, used as a noun modifier with の #k #card
 (の)最近 (さいきん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_最.html">最</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
@@ -540,56 +543,59 @@ recent weather #k #card
 <!--ID: 1779388974989-->
 
 
-future #k #card
+future | the future in a broad, long-term sense (e.g. life plans), more distant than 今後(こんご) #k #card
 将来 (しょうらい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_将.html">将</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1779388974990-->
 
 
-the first #card
+the first | the very beginning or first instance of something, opposite of 最後(さいご) #card
 最初 (さいしょ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_最.html">最</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_初.html">初</a>
 <!--ID: 1779388974991-->
 
 
-the last #k #card
+the last | the final one or the end, opposite of 最初(さいしょ) #k #card
 最後 (さいご)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_最.html">最</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
 <!--ID: 1779388974992-->
 
 
-tonight #k #card
+tonight | this coming night; slightly more literary than 今晩(こんばん) #k #card
 今夜 (こんや)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1779388974993-->
 
 
-concern / to worry + verb #k #card
+concern / to worry + verb | anxious worry about someone or something's wellbeing/outcome #k #card
 心配(する) (しんぱい)
+お/ご (honorific): ご心配(しんぱい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_配.html">配</a>
 <!--ID: 1779388974994-->
 
 
-preparation / to prepare + verb #card
+preparation / to prepare + verb | getting ready for a specific event or task #card
 準備(する) (じゅんび)
+お/ご (honorific): ご準備(じゅんび)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_準.html">準</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_備.html">備</a>
 <!--ID: 1779388974995-->
 
 
-to do one's best #card
+to do one's best | to persevere and give effort despite difficulty; a very common word of encouragement #card
 ほんやく: 頑張る (がんば)
 て形: 頑張って
 た形: 頑張った
 ます形: 頑張ります
 出す形 (start): 頑張り出す
 そう (looks): 頑張りそう
-お〜になる (honorific): お頑張りになる
+お〜になる/special verb (honorific):お頑張りになる
+謙譲語 (humble): お頑張りいたす／お頑張りします
 ない形: 頑張らない
 なかった形: 頑張らなかった
 あれる形 (passive/honorific): 頑張られる
@@ -603,31 +609,33 @@ to do one's best #card
 <!--ID: 1779388974996-->
 
 
-lunch, katakana #card
+lunch, katakana | casual loanword for lunch, often implying a restaurant/Western-style meal, vs the native 昼(ひる)ご飯(はん) #card
 ランチ
 <!--ID: 1779388974997-->
 
 
-dinner #card
+dinner | casual loanword for an evening meal, often more formal/restaurant-style than 夕食(ゆうしょく) #card
 ディナー
 <!--ID: 1779388974998-->
 
 
-self #k #card
+self | one's own self, used reflexively regardless of person (I/you/he/she), gender-neutral #k #card
 自分 (じぶん)
+お/ご (honorific): ご自分(じぶん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1779388974999-->
 
 
-entrance into school / to enter a school + verb (particle) #k #card
+entrance into school / to enter a school + verb (particle) | formal event of starting at a new school, takes へ or に #k #card
 (へ、に)入学(する) (にゅうがく)
+お/ご (honorific): ご入学(にゅうがく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1779388975000-->
 
 
-entrance ceremony #k #card
+entrance ceremony | formal ceremony marking the start of a school year #k #card
 入学式 (にゅうがくしき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -635,14 +643,15 @@ entrance ceremony #k #card
 <!--ID: 1779388975001-->
 
 
-graduation / to graduate + verb + particle #k #card
+graduation / to graduate + verb + particle | completing and leaving a school, takes を #k #card
 (を)卒業(する) (そつぎょう)
+お/ご (honorific): ご卒業(そつぎょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_卒.html">卒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1779388975002-->
 
 
-graduation ceremony #k #card
+graduation ceremony | formal ceremony marking completion of school #k #card
 卒業式 (そつぎょうしき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_卒.html">卒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
@@ -667,14 +676,14 @@ graduate from high school #k #card
 <!--ID: 1779388975005-->
 
 
-research / to research + verb #k #card
+research / to research + verb | academic or systematic investigation into a topic #k #card
 研究(する) (けんきゅう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1779388975006-->
 
 
-laboratory #k #card
+laboratory | a university research lab/office, associated with academic research #k #card
 研究室 (けんきゅうしつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
@@ -682,14 +691,15 @@ laboratory #k #card
 <!--ID: 1779388975007-->
 
 
-to invite #card
+to invite | to invite someone along to do something together (casual/neutral), distinct from the more formal 招待(しょうたい)する #card
 ほんやく: 誘う (さそ)
 て形: 誘って
 た形: 誘った
 ます形: 誘います
 出す形 (start): 誘い出す
 そう (looks): 誘いそう
-お〜になる (honorific): お誘いになる
+お〜になる/special verb (honorific):お誘いになる
+謙譲語 (humble): お誘いいたす／お誘いします
 ない形: 誘わない
 なかった形: 誘わなかった
 あれる形 (passive/honorific): 誘われる
@@ -702,28 +712,31 @@ to invite #card
 <!--ID: 1779388975008-->
 
 
-consent / acceptance / approval + verb #card
+consent / acceptance / approval + verb | formal agreement to a request or proposal, more formal than 承知(しょうち)する #card
 承諾(する) (しょうだく)
+お/ご (honorific): ご承諾(しょうだく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_承.html">承</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_諾.html">諾</a>
 <!--ID: 1779388975009-->
 
 
-promise / to promise + verb, acceptance #card
+promise / to promise + verb | a commitment between people to do something; can also mean an appointment #card
 約束(する) (やくそく)
+お/ご (honorific): お約束(やくそく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_約.html">約</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_束.html">束</a>
 <!--ID: 1779388975010-->
 
 
-to protect / to keep #card
+to protect / to keep | to protect from harm, or to keep/uphold a promise or rule #card
 ほんやく: 守る (まも)
 て形: 守って
 た形: 守った
 ます形: 守ります
 出す形 (start): 守り出す
 そう (looks): 守りそう
-お〜になる (honorific): お守りになる
+お〜になる/special verb (honorific):お守りになる
+謙譲語 (humble): お守りいたす／お守りします
 ない形: 守らない
 なかった形: 守らなかった
 あれる形 (passive/honorific): 守られる
@@ -759,13 +772,13 @@ I promise #card
 <!--ID: 1779388975014-->
 
 
-line (something long and continuous) #card
+line (something long and continuous) | a physical line or route (e.g. train line, thread, cable), not used for a line of text #card
 線 (せん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_線.html">線</a>
 <!--ID: 1779388975015-->
 
 
-telephone line #k #card
+telephone line | the physical wire/cable, not a phone call itself #k #card
 電話線（でんわせん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
@@ -773,16 +786,16 @@ telephone line #k #card
 <!--ID: 1779388975016-->
 
 
-line (train line name) #card
+line (train line name) | suffix attached to a place/area name to name a train line #card
 ....線（せん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_線.html">線</a>
 <!--ID: 1779388975017-->
 
 
-what line #k #card
-何戦（なにせん）
+what line | asking which train line to take; note the kanji is 線 (line) #k #card
+何線（なにせん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_戦.html">戦</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_線.html">線</a>
 <!--ID: 1779388975018-->
 
 
@@ -811,14 +824,15 @@ Ginza line #k #card
 <!--ID: 1779388975021-->
 
 
-to spend / to pass #card
+to spend / to pass | to spend time (a day, a holiday); not used for spending money #card
 ほんやく: 過ごす (すご)
 て形: 過ごして
 た形: 過ごした
 ます形: 過ごします
 出す形 (start): 過ごし出す
 そう (looks): 過ごしそう
-お〜になる (honorific): お過ごしになる
+お〜になる/special verb (honorific):お過ごしになる
+謙譲語 (humble): お過ごしいたす／お過ごしします
 ない形: 過ごさない
 なかった形: 過ごさなかった
 あれる形 (passive/honorific): 過ごされる
@@ -831,21 +845,23 @@ to spend / to pass #card
 <!--ID: 1779388975022-->
 
 
-plan / to plan + verb #card
+plan / to plan + verb | a fixed, scheduled plan independent of feelings; more certain/concrete than つもり #card
 予定(する) (よてい)
+お/ご (honorific): ご予定(よてい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_予.html">予</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_定.html">定</a>
 <!--ID: 1779388975023-->
 
 
-to slide #card
+to slide | to slide or slip (e.g. on ice); can also colloquially mean to fail an exam #card
 ほんやく: 滑る (すべ)
 て形: 滑って
 た形: 滑った
 ます形: 滑ります
 出す形 (start): 滑り出す
 そう (looks): 滑りそう
-お〜になる (honorific): お滑りになる
+お〜になる/special verb (honorific):お滑りになる
+謙譲語 (humble): お滑りいたす／お滑りします
 ない形: 滑らない
 なかった形: 滑らなかった
 あれる形 (passive/honorific): 滑られる
@@ -858,27 +874,28 @@ to slide #card
 <!--ID: 1779388975024-->
 
 
-kanji character #k #card
+character / letter | any written character (kanji, kana, or alphabet), broader than 漢字(かんじ) which means specifically kanji #k #card
 字 (じ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
 <!--ID: 1779388975025-->
 
 
-countryside / hometown #k #card
+countryside / hometown | rural area, often used affectionately for one's hometown region #k #card
 田舎 (いなか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_舎.html">舎</a>
 <!--ID: 1779388975026-->
 
 
-to get used to + particle #card
+to get used to + particle | to become accustomed to something over time, takes に #card
 ほんやく: (に)慣れる (な)
 て形: 慣れて
 た形: 慣れた
 ます形: 慣れます
 出す形 (start): 慣れ出す
 そう (looks): 慣れそう
-お〜になる (honorific): お慣れになる
+お〜になる/special verb (honorific):お慣れになる
+謙譲語 (humble): お慣れいたす／お慣れします
 ない形: 慣れない
 なかった形: 慣れなかった
 あれる形 (passive/honorific): 慣れられる
@@ -891,7 +908,7 @@ to get used to + particle #card
 <!--ID: 1779388975027-->
 
 
-to get used to tokyo #k #card
+to get used to Tokyo #k #card
 東京に慣れる（とうきょう、な）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
@@ -908,7 +925,7 @@ to get used to a new job #k #card
 <!--ID: 1779388975029-->
 
 
-wedding ceremony #card
+wedding ceremony | the formal wedding ceremony/reception event #card
 結婚式 (けっこんしき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_結.html">結</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_婚.html">婚</a>
@@ -916,7 +933,7 @@ wedding ceremony #card
 <!--ID: 1779388975030-->
 
 
-office #k #card
+office | a business office (esp. a small firm/professional office), distinct from 会社(かいしゃ) (company) or 職場(しょくば) (workplace) #k #card
 事務所 (じむしょ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_務.html">務</a>
@@ -924,62 +941,64 @@ office #k #card
 <!--ID: 1779388975031-->
 
 
-address #k #card
+address | one's postal/home address #k #card
 住所 (じゅうしょ)
+お/ご (honorific): ご住所(じゅうしょ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_住.html">住</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1779388975032-->
 
 
-to drop / to throw down #card
-ほんやく: 落す (おと)
-て形: 落して
-た形: 落した
-ます形: 落します
-出す形 (start): 落し出す
-そう (looks): 落しそう
-お〜になる (honorific): お落しになる
-ない形: 落さない
-なかった形: 落さなかった
-あれる形 (passive/honorific): 落される
-使役形 (make/let): 落させる
-ば形 (if): 落せば
-可能形 (can): 落せる
-おう形 (let's): 落そう
-命令形 (imperative): 落せ
+to drop / to throw down | to drop something (transitive) #card
+ほんやく: 落とす (おと)
+て形: 落として
+た形: 落とした
+ます形: 落とします
+出す形 (start): 落とし出す
+そう (looks): 落としそう
+お〜になる/special verb (honorific):お落としになる
+謙譲語 (humble): お落としいたす／お落としします
+ない形: 落とさない
+なかった形: 落とさなかった
+あれる形 (passive/honorific): 落とされる
+使役形 (make/let): 落とさせる
+ば形 (if): 落とせば
+可能形 (can): 落とせる
+おう形 (let's): 落とそう
+命令形 (imperative): 落とせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_落.html">落</a>
 <!--ID: 1779388975033-->
 
 
-international #k #card
+international | used as a prefix/modifier before nouns, not a standalone predicate adjective #k #card
 国際 (こくさい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_際.html">際</a>
 <!--ID: 1779388975034-->
 
 
-geography #k #card
+geography | the academic subject/study of geography #k #card
 地理 (ちり)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_地.html">地</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <!--ID: 1779388975035-->
 
 
-science #k #card
+science | natural science #k #card
 科学 (かがく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_科.html">科</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1779388975036-->
 
 
-technology #card
+technology | technical skill or technique; #card
 技術 (ぎじゅつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_技.html">技</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_術.html">術</a>
 <!--ID: 1779388975037-->
 
 
-firmly, tightly, mocno / sufficiently, enough #card
+firmly, tightly / sufficiently, enough | describes doing something with steadiness, reliability, or sufficient effort #card
 しっかり
 <!--ID: 1779388975038-->
 
@@ -1002,7 +1021,7 @@ I slept enough #card
 <!--ID: 1779388975041-->
 
 
-yamada reliably does his work #k #card
+Yamada reliably does his work #k #card
 山田さんは仕事がしっかりしています
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -1011,14 +1030,15 @@ yamada reliably does his work #k #card
 <!--ID: 1779388975042-->
 
 
-to hold #card
+to hold (on to something) | intransitive; to grab and hold onto something for support, contrast with transitive (to catch) #card
 ほんやく: つかまる
 て形: つかまって
 た形: つかまった
 ます形: つかまります
 出す形 (start): つかまり出す
 そう (looks): つかまりそう
-お〜になる (honorific): おつかまりになる
+お〜になる/special verb (honorific):おつかまりになる
+謙譲語 (humble): おつかまりいたす／おつかまりします
 ない形: つかまらない
 なかった形: つかまらなかった
 あれる形 (passive/honorific): つかまられる
@@ -1030,7 +1050,7 @@ to hold #card
 <!--ID: 1779388975043-->
 
 
-properly / correctly #card
+properly / correctly | doing something the right, proper way; similar to しっかり but focused on correctness/orderliness rather than firmness/effort #card
 ちゃんと
 <!--ID: 1779388975044-->
 
@@ -1048,8 +1068,9 @@ to sit properly #card
 <!--ID: 1779388975046-->
 
 
-pass / to pass + verb + particle #card
+pass / to pass + verb + particle | to pass a test/exam/screening, takes に #card
 (に)合格(する) (ごうかく)
+お/ご (honorific): ご合格(ごうかく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_格.html">格</a>
 <!--ID: 1779388975047-->
@@ -1064,7 +1085,7 @@ passed exam #k #card
 <!--ID: 1779388975048-->
 
 
-failure / to fail + verb + particle #card
+failure / to fail + verb + particle | to fail at something, takes に #card
 (に)失敗(する) (しっぱい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_失.html">失</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_敗.html">敗</a>
@@ -1080,14 +1101,15 @@ failed exam #k #card
 <!--ID: 1779388975050-->
 
 
-to win + particle #card
+to win + particle | to win against an opponent, takes に marking who is defeated #card
 ほんやく: (に)勝つ (か)
 て形: 勝って
 た形: 勝った
 ます形: 勝ちます
 出す形 (start): 勝ち出す
 そう (looks): 勝ちそう
-お〜になる (honorific): お勝ちになる
+お〜になる/special verb (honorific):お勝ちになる
+謙譲語 (humble): お勝ちいたす／お勝ちします
 ない形: 勝たない
 なかった形: 勝たなかった
 あれる形 (passive/honorific): 勝たれる
@@ -1108,14 +1130,15 @@ Team A beat Team B in the soccer game #k #card
 <!--ID: 1779388975052-->
 
 
-to lose + particle #card
+to lose + particle | to lose to an opponent, takes に marking who one loses to #card
 ほんやく: (に)負ける (ま)
 て形: 負けて
 た形: 負けた
 ます形: 負けます
 出す形 (start): 負け出す
 そう (looks): 負けそう
-お〜になる (honorific): お負けになる
+お〜になる/special verb (honorific):お負けになる
+謙譲語 (humble): お負けいたす／お負けします
 ない形: 負けない
 なかった形: 負けなかった
 あれる形 (passive/honorific): 負けられる
@@ -1128,14 +1151,14 @@ to lose + particle #card
 <!--ID: 1779388975053-->
 
 
-I don't want to be defeated by this person #k #card
+I don't want to be defeated by that person #k #card
 あの人に負けたくない（ま)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_負.html">負</a>
 <!--ID: 1779388975054-->
 
 
-important #k #card
+important | valuable/significant, with a caring nuance (cherished); close to 大切(たいせつ) but slightly more common/casual #k #card
 ほんやく: 大事 (だいじ)
 過去形: —
 否定形: —
@@ -1146,41 +1169,42 @@ important #k #card
 <!--ID: 1779388975055-->
 
 
-pronunciation / to pronounce + verb #k #card
+pronunciation / to pronounce + verb | how sounds/words are spoken aloud #k #card
 発音(する) (はつおん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_発.html">発</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <!--ID: 1779388975056-->
 
 
-grammar #k #card
+grammar | the grammatical rules of a language #k #card
 文法 (ぶんぽう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_法.html">法</a>
 <!--ID: 1779388975057-->
 
 
-conversation / to converse + verb #k #card
+conversation / to converse + verb | spoken conversation/dialogue, often used in the context of language practice #k #card
 会話(する) (かいわ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1779388975058-->
 
 
-explanation / to explain + verb #k #card
+explanation / to explain + verb | to explain or clarify something #k #card
 説明(する) (せつめい)
+お/ご (honorific): ご説明(せつめい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_説.html">説</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1779388975059-->
 
 
-No/ Well (not to superior) #card
+No / Well (not to superior) | casual interjection expressing mild disagreement, hesitation, or a soft "no"; too casual to use with superiors #card
 いや
 <!--ID: 1779388975060-->
 
 
-Long timeno see B: well, well long time no see. How are you? #k #card
-A: おひっさしぶりです B:いや、いや、お久しぶりです。元気ですか (ひさ)
+A: Long time no see B: Well, well, long time no see. How are you? #k #card
+A: お久しぶりです B:いや、いや、お久しぶりです。元気ですか (ひさ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_久.html">久</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
@@ -1194,7 +1218,7 @@ Please do your best #card
 <!--ID: 1779388975062-->
 
 
-Let's go for luch　（plain and masu form of volitional) #k #card
+Let's go for lunch　（plain and masu form of volitional) #k #card
 ランチを食べに　行こう・行きましょう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -1265,12 +1289,12 @@ I am thinking of inviting Mr. Suzuki to the party. #k #card
 <!--ID: 1779388975069-->
 
 
-Idk what to do #card
+I don't know what to do #card
 どう(interrogative)したらいいか、わかりません
 <!--ID: 1779388975070-->
 
 
-If you finish the homework, please submit to me #k #card
+If you finish the homework, please submit it to me #k #card
 しゅくだいができたら、私に出してください
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
@@ -1314,19 +1338,18 @@ If you're free, let's play a game together at my house. #k #card
 <!--ID: 1779388975075-->
 
 
-A: I want go to Akihabara, which line should i take? B: You can go there by the subway Hibiya line #k #card
-A: 秋葉原に行きたいんですが、何戦に乗ったらいいですか B: 地下鉄のひびや線で行けます（あにせん、の、ちかてつ、せん)
+A: I want to go to Akihabara, which line should I take? B: You can go there by the subway Hibiya line #k #card
+A: 秋葉原に行きたいんですが、何線に乗ったらいいですか B: 地下鉄のひびや線で行けます（なにせん、の、ちかてつ、せん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_葉.html">葉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_原.html">原</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_戦.html">戦</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_線.html">線</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_乗.html">乗</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_地.html">地</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鉄.html">鉄</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_線.html">線</a>
 <!--ID: 1779388975076-->
 
 
@@ -1345,7 +1368,7 @@ this year, I intend to take the Japanese Language Proficiency Test #k #card
 <!--ID: 1779388975077-->
 
 
-I don't intend to meet this person again #k #card
+I don't intend to meet that person again #k #card
 あの人もう会わないつもりです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
@@ -1433,7 +1456,7 @@ He practices baseball every day. Even on rainy days, he practices. #k #card
 <!--ID: 1779388975085-->
 
 
-Our busy company president still attends the drinking party. (feeling of surprise) #k #card
+Our busy company president still attended the drinking party. (feeling of surprise) #k #card
 忙しい社長が、飲み会にも参加しました。(いそが、しゃちょう、の、かい、さんか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_忙.html">忙</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -1478,13 +1501,13 @@ easy/difficult to slip (be very slippery) #card
 <!--ID: 1779388975091-->
 
 
-easy/difficult to  write #k #card
+easy/difficult to write #k #card
 書き(やすい/にくい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1779388975092-->
 
 
-easy/difficult to  break (to be easily broken) #card
+easy/difficult to break (to be easily broken) #card
 割れ(やすい/にくい)　（わ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_割.html">割</a>
 <!--ID: 1779388975093-->
@@ -1496,13 +1519,13 @@ difficult to use #k #card
 <!--ID: 1779388975094-->
 
 
-hard to listen #k #card
+hard to hear #k #card
 聞きにくい (き)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1779388975095-->
 
 
-unlikely to break (hard to) #card
+unlikely to break (hard to break) #card
 壊れにくい（こわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_壊.html">壊</a>
 <!--ID: 1779388975096-->

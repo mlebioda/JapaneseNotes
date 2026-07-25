@@ -199,28 +199,28 @@ Imagine two **big piles of grain** being harvested in the **evening (夕)**—th
  ---
 
 
-shopping (2 zapisy) #k #card
+shopping | the standard word for shopping; can be written with either of two kanji notations #k #card
 買い物／買物
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1780855042697-->
 
 
-trade #k #card
+trade / buying and selling | literally "buy-sell," referring to the act of trading goods #k #card
 売買（ばいばい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1780855042698-->
 
 
-sales floor #k #card
+sales floor | refers to the section of a store where a specific type of item is sold #k #card
 売り場/売場（う／うり、ば）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1780855042699-->
 
 
-things for sale 2 zapisy #k #card
+things for sale | can be written with either of two kanji notations #k #card
 売り物/売物（う、もの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -235,8 +235,9 @@ this car is not for sale #k #card
 <!--ID: 1780855042701-->
 
 
-business, trade, commerce #k #card
+business / trade / commerce | a general word for a line of business or trade someone is in #k #card
 商売（しょうばい）
+お/ご (honorific): ご商売（しょうばい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_商.html">商</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
 <!--ID: 1780855042702-->
@@ -253,7 +254,7 @@ His job is trading cars #k #card
 <!--ID: 1780855042703-->
 
 
-your job is trading buildings, right? #k #card
+Your job is trading buildings, right? #k #card
 あなたの仕事は建物の売買ですね（たてもの、ばいばい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
@@ -264,35 +265,36 @@ your job is trading buildings, right? #k #card
 <!--ID: 1780855042704-->
 
 
-western clothes #k #card
+western clothes | refers to Western-style clothing, as opposed to traditional Japanese clothing like kimono #k #card
 洋服（ようふく）
+お/ご (honorific): お洋服（ようふく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
 <!--ID: 1780855042705-->
 
 
-East (część świata) #k #card
+the Orient / East Asia | refers to East Asian countries/culture as a region, not just the cardinal direction #k #card
 東洋（とうよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
 <!--ID: 1780855042706-->
 
 
-West (część świata) #k #card
+the West / Western countries | refers to Western countries/culture as a region, not just the cardinal direction #k #card
 西洋（せいよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_西.html">西</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
 <!--ID: 1780855042707-->
 
 
-western books #k #card
+western books | refers to books from/about Western countries, as opposed to Japanese/Asian books #k #card
 洋書（ようしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1780855042708-->
 
 
-Mr smith doesn't eat oriental food. #k #card
+Mr. Misumi doesn't eat oriental food. #k #card
 ミスミさんは東洋の料理は食べませんよ（とうよう、りょうり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
@@ -302,7 +304,7 @@ Mr smith doesn't eat oriental food. #k #card
 <!--ID: 1780855042709-->
 
 
-there are many western books #k #card
+There are many western books #k #card
 西洋の書物がたくさんありますね（せいよう、しょもつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_西.html">西</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
@@ -311,7 +313,7 @@ there are many western books #k #card
 <!--ID: 1780855042710-->
 
 
-this clothing was expensive, wasn'y it? #k #card
+this clothing was expensive, wasn't it? #k #card
 この洋服は高かったでしょう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
@@ -319,7 +321,7 @@ this clothing was expensive, wasn'y it? #k #card
 <!--ID: 1780855042711-->
 
 
-work clothes #k #card
+work clothes | refers specifically to clothing worn for manual/physical work #k #card
 作業服（さぎょうふく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
@@ -327,7 +329,7 @@ work clothes #k #card
 <!--ID: 1780855042712-->
 
 
-private clothes #k #card
+plainclothes / civilian clothes | one's own personal clothes, as opposed to a uniform #k #card
 私服（しふく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
@@ -342,7 +344,7 @@ Who ordered this clothing? #k #card
 <!--ID: 1780855042714-->
 
 
-where did you buy this children's clothing? #k #card
+Where did you buy this children's clothing? #k #card
 この子供服はどこで買いましたか（こどもふく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_供.html">供</a>
@@ -351,7 +353,7 @@ where did you buy this children's clothing? #k #card
 <!--ID: 1780855042715-->
 
 
-where is the sales florr for western clothes #k #card
+Where is the sales floor for western clothes? #k #card
 洋服売場はどこですか（ようふく、うりば）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
@@ -368,7 +370,7 @@ Is this clothing for sale? #k #card
 <!--ID: 1780855042717-->
 
 
-western clothing store #k #card
+western clothing store | a shop specializing in Western-style clothing #k #card
 洋服屋（ようふくや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
@@ -376,15 +378,15 @@ western clothing store #k #card
 <!--ID: 1780855042719-->
 
 
-bookstore #k #card
+bookstore | the everyday, casual word for a bookstore #k #card
 本屋（ほんや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1780855042720-->
 
 
-are you going to buy English books at that bookstore? #k #card
-あの本屋で英語がのほんを買いますか（ほんや、か）
+Are you going to buy English books at that bookstore? #k #card
+あの本屋で英語の本を買いますか（ほんや、か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
@@ -393,21 +395,21 @@ are you going to buy English books at that bookstore? #k #card
 <!--ID: 1780855042721-->
 
 
-rooftop #k #card
+rooftop | refers to the flat roof of a building, often accessible as a space #k #card
 屋上（おくじょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1780855042722-->
 
 
-house (formal, technical) #k #card
+house (formal, technical) | a formal/technical word for a house or building, used in legal or official contexts #k #card
 家屋（かおく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1780855042723-->
 
 
-tobacco shop #k #card
+tobacco shop | a shop specializing in tobacco/cigarettes #k #card
 たばこの店（みせ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <!--ID: 1780855042724-->
@@ -432,21 +434,21 @@ Do you have any cheap clothes in this store? #k #card
 <!--ID: 1780855042727-->
 
 
-clerk (urzędnik, ekspedient,pracownik) #k #card
+clerk / salesperson | a staff member working at a store #k #card
 店員（てんいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1780855042728-->
 
 
-main store #k #card
+main store | refers to a company's flagship/headquarters store, as opposed to a branch #k #card
 本店（ほんてん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <!--ID: 1780855042729-->
 
 
-restaurant #k #card
+restaurant | a formal, general term covering any eating/drinking establishment, broader than a casual cafeteria #k #card
 飲食店（いんしょくてん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
@@ -454,7 +456,7 @@ restaurant #k #card
 <!--ID: 1780855042730-->
 
 
-Is this person a salesclerk too?(sprzedawcą) #k #card
+Is this person a salesclerk too? #k #card
 あの人も店員ですか（てんいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
@@ -462,14 +464,15 @@ Is this person a salesclerk too?(sprzedawcą) #k #card
 <!--ID: 1780855042731-->
 
 
-goods, product, item #k #card
+goods / product / item | the general, everyday word for a product or item #k #card
 品物（しなもの）
+お/ご (honorific): お品物（しなもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1780855042732-->
 
 
-is this product for sale? #k #card
+Is this product for sale? #k #card
 この品物は売り物ですか（しなもの、うりもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -477,7 +480,7 @@ is this product for sale? #k #card
 <!--ID: 1780855042733-->
 
 
-the items at this grocery store are really good. #k #card
+The items at this grocery store are really good. #k #card
 この食料品店の品物はいいですよ（しょくりょうひんてん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
@@ -487,7 +490,7 @@ the items at this grocery store are really good. #k #card
 <!--ID: 1780855042734-->
 
 
-What kind of goods did you buy at that store #k #card
+What kind of goods did you buy at that store? #k #card
 あの店でどんな品物を買いましたか（しなもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
@@ -496,7 +499,7 @@ What kind of goods did you buy at that store #k #card
 <!--ID: 1780855042735-->
 
 
-grocery(żywność) #k #card
+groceries / food items | refers to food products, especially as sold in a store #k #card
 食料品(しょくりょうひん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
@@ -504,7 +507,7 @@ grocery(żywność) #k #card
 <!--ID: 1780855042736-->
 
 
-i sell groceries at the department store #k #card
+I sell groceries at the department store #k #card
 私はデパートで食料品を売っています（しょくりょうひん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
@@ -514,20 +517,21 @@ i sell groceries at the department store #k #card
 <!--ID: 1780855042737-->
 
 
-piece of work #k #card
+piece of work | refers to a finished creative work, such as a book, film, or art piece #k #card
 作品（さくひん）
+お/ご (honorific): ご作品（さくひん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
 <!--ID: 1780855042738-->
 
 
-cheap #k #card
+cheap | the standard い-adjective for inexpensive; can also carry a "safe/reassuring" connotation from its kanji #k #card
 安い（やすい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <!--ID: 1780855042739-->
 
 
-the food in this cafeteria(stołówka, jadalnia) is cheap #k #card
+The food in this cafeteria is cheap #k #card
 この食堂の料理は安いです（しょくどう、りょうり、や)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_堂.html">堂</a>
@@ -547,7 +551,7 @@ Is the food at that cafeteria cheap? #k #card
 <!--ID: 1780855042741-->
 
 
-There are no heap kimonos in this store #k #card
+There are no cheap kimonos in this store #k #card
 この店には安い着物はありませんよ （みせ、やす、きもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
@@ -564,28 +568,31 @@ This kimono is not cheap, isn't it? #k #card
 <!--ID: 1780855042743-->
 
 
-safety #k #card
+safety | the general word for physical safety or security #k #card
 安全（あんぜん）
+お/ご (honorific): ご安全（あんぜん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_全.html">全</a>
 <!--ID: 1780855042744-->
 
 
-peace of mind #k #card
+peace of mind | describes a feeling of reassurance or relief from worry #k #card
 安心（あんしん）
+お/ご (honorific): ご安心（あんしん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <!--ID: 1780855042745-->
 
 
-pour (wlać) #k #card
+to pour (transitive) | describes pouring a liquid into something, e.g. water or a drink #k #card
 ほんやく: 注ぐ（そそ）
 て形: 注いで
 た形: 注いだ
 ます形: 注ぎます
 出す形 (start): 注ぎ出す
 そう (looks): 注ぎそう
-お〜になる (honorific): お注ぎになる
+お〜になる/special verb (honorific):お注ぎになる
+謙譲語 (humble): お注ぎいたす／お注ぎします
 ない形: 注がない
 なかった形: 注がなかった
 あれる形 (passive/honorific): 注がれる
@@ -598,7 +605,7 @@ pour (wlać) #k #card
 <!--ID: 1780855042746-->
 
 
-Pour water over rice field (zalej wodą) #k #card
+Pour water over the rice field #k #card
 田に水を注ぐ（た、そそ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
@@ -606,28 +613,30 @@ Pour water over rice field (zalej wodą) #k #card
 <!--ID: 1780855042747-->
 
 
-order #k #card
+order | the noun for an order, e.g. a purchase or food order #k #card
 注文（ちゅうもん）
+お/ご (honorific): ご注文（ちゅうもん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <!--ID: 1780855042748-->
 
 
-to order #k #card
-注文する（ちゅうもん）
+to order | the suru-verb form, used for placing an order for goods or food #k #card
+ほんやく: 注文する（ちゅうもん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <!--ID: 1780855042749-->
 
 
-caution #k #card
+caution | also commonly used in the phrase "please be careful," beyond just the standalone noun #k #card
 注意（ちゅうい）
+お/ご (honorific): ご注意（ちゅうい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <!--ID: 1780855042750-->
 
 
-order form (official order, purchase order, bussines) #k #card
+order form | a formal document such as an official purchase order in a business context #k #card
 注文書（ちゅうもんしょ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
@@ -644,21 +653,21 @@ Please order this item #k #card
 <!--ID: 1780855042752-->
 
 
-letter box #k #card
+document/letter box | a traditional box for storing letters or documents, not a modern mailbox #k #card
 文箱（ふみばこ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_箱.html">箱</a>
 <!--ID: 1780855042753-->
 
 
-astronomy #k #card
+astronomy | usually appears as part of a compound like "astronomy studies," rather than standing alone #k #card
 天文（てんもん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <!--ID: 1780855042754-->
 
 
-Did you order for food? #k #card
+Did you order food? #k #card
 料理を注文しましたか（りょうり、ちゅうもん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
@@ -667,28 +676,29 @@ Did you order for food? #k #card
 <!--ID: 1780855042755-->
 
 
-character #k #card
-文字（文字）
+character | a more formal, general term for a written character, covering kanji, kana, and other scripts alike #k #card
+文字（もじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
 <!--ID: 1780855042756-->
 
 
-literature #k #card
+literature | refers to the academic/artistic field of literature #k #card
 文学（ぶんがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1780855042757-->
 
 
-wear #k #card
+to wear (transitive) | used specifically for putting on/wearing clothing as a whole outfit or upper-body garment #k #card
 ほんやく: 着る（き）
 て形: 着て
 た形: 着た
 ます形: 着ます
 出す形 (start): 着出す
 そう (looks): 着そう
-お〜になる (honorific): お着になる
+お〜になる/special verb (honorific):お召しになる
+謙譲語 (humble): -
 ない形: 着ない
 なかった形: 着なかった
 あれる形 (passive/honorific): 着られる
@@ -719,14 +729,15 @@ Today I wear nice clothes #k #card
 <!--ID: 1780855042760-->
 
 
-arrive #k #card
+to arrive (intransitive) | describes arriving at a destination, whether a place, a person, or a delivered item #k #card
 ほんやく: 着く（つく）
 て形: 着いて
 た形: 着いた
 ます形: 着きます
 出す形 (start): 着き出す
 そう (looks): 着きそう
-お〜になる (honorific): お着きになる
+お〜になる/special verb (honorific):お着きになる
+謙譲語 (humble): お着きいたす／お着きします
 ない形: 着かない
 なかった形: 着かなかった
 あれる形 (passive/honorific): 着かれる
@@ -739,7 +750,7 @@ arrive #k #card
 <!--ID: 1780855042761-->
 
 
-the order form has arrived #k #card
+The order form has arrived #k #card
 注文書が着きました（ちゅうもんしょ、つ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
@@ -767,21 +778,22 @@ Did the company president's car arrive? #k #card
 <!--ID: 1780855042764-->
 
 
-arrrival #k #card
+arrival | the formal noun for an arrival, e.g. of a flight or shipment #k #card
 到着（とうちゃく）
+お/ご (honorific): ご到着（とうちゃく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_到.html">到</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <!--ID: 1780855042765-->
 
 
-embezzle(defraudacja) #k #card
+embezzlement | describes illicitly taking money or goods entrusted to one's care #k #card
 着服（ちゃくふく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
 <!--ID: 1780855042766-->
 
 
-many #k #card
+many | the standard い-adjective for "many/much" #k #card
 ほんやく: 多い（おお）
 過去形: 多かった
 否定形: 多くない
@@ -791,8 +803,8 @@ many #k #card
 <!--ID: 1780855042767-->
 
 
-there are many groceries in this store #k #card
-この店は食料品が多いです（みせ、しょくりょうひん,おお）
+There are many groceries in this store #k #card
+この店は食料品が多いです（みせ、しょくりょうひん、おお）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
@@ -811,14 +823,14 @@ Many people buy this clothing #k #card
 <!--ID: 1780855042769-->
 
 
-prolific (płodny) #k #card
+prolific | describes someone who produces a large volume of work, e.g. an author or artist #k #card
 多作（たさく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1780855042770-->
 
 
-somewhat(nieco) #k #card
+somewhat / a little | a mild degree adverb, softer than a strong quantity word #k #card
 多少（たしょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>

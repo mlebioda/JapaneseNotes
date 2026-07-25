@@ -1,7 +1,7 @@
 ---
 name: verb-conjugation
 description: >
-  Authoritative reference for Japanese verb type detection and all 14 conjugation
+  Authoritative reference for Japanese verb type detection and all 15 conjugation
   forms used by fill-templates and templates-update skills.
 ---
 
@@ -29,8 +29,8 @@ If still uncertain after applying the heuristic, web-search `[verb] godan ichida
 
 ## Godan (u-verbs) — conjugation table by ending kana
 
-The 14 form labels, in canonical order:
-`て形`, `た形`, `ます形`, `出す形 (start)`, `そう (looks like)`, `お〜になる/special verb (honorific)`, `ない形`, `なかった形`, `あれる形 (passive/honorific)`, `使役形 (make/let)`, `ば形 (if)`, `可能形 (can)`, `おう形 (let's)`, `命令形 (imperative)`
+The 15 form labels, in canonical order:
+`て形`, `た形`, `ます形`, `出す形 (start)`, `そう (looks like)`, `お〜になる/special verb (honorific)`, `謙譲語 (humble)`, `ない形`, `なかった形`, `あれる形 (passive/honorific)`, `使役形 (make/let)`, `ば形 (if)`, `可能形 (can)`, `おう形 (let's)`, `命令形 (imperative)`
 
 | Ending | ます stem | て形 | た形 | ない形 | なかった形 | ば形 | 可能形 | あれる形 | 使役形 | 出す形 | 意志形 | 命令形 |
 |--------|----------|------|------|--------|-----------|------|--------|---------|--------|--------|--------|--------|
@@ -46,6 +46,7 @@ The 14 form labels, in canonical order:
 
 Notes for godan:
 - `お〜になる/special verb (honorific)` — see ## お〜になる/special-verb derivation rules below.
+- `謙譲語 (humble)` — see ## 謙譲語 (humble) derivation rules below.
 - `そう (looks like)` = ます stem + そう (e.g. 渡りそう)
 - `おう形 (let's)` = 意志形 column above
 - `使役形 (make/let)` = ない形 stem (あ/わ row) + せる
@@ -70,6 +71,7 @@ Stem = verb minus final る.
 | 使役形 (make/let) | stem + させる | 食べさせる |
 | 出す形 (start) | stem + 出す | 食べ出す |
 | お〜になる/special verb (honorific) | お + stem + になる (tier 2 only) | お見せになる (見せる) |
+| 謙譲語 (humble) | お/ご + stem + いたす／します (tier 2 only) | お教えいたす／お教えします (教える) |
 | そう (looks like) | stem + そう | 食べそう |
 | おう形 (let's) | stem + よう | 食べよう |
 | 命令形 (imperative) | stem + ろ | 食べろ |
@@ -132,6 +134,7 @@ Stem = verb minus final る.
 使役形 (make/let): 来させる（こさせる）
 出す形 (start): 来出す
 お〜になる/special verb (honorific): いらっしゃる
+謙譲語 (humble): 参る
 そう (looks): 来そう
 おう形 (let's): 来よう
 命令形 (imperative): 来い（こい）
@@ -191,3 +194,82 @@ special-verb form in active use.
 Tier 3a and 3b both produce `-` but are distinguishable and must not be conflated: 3a is a
 deterministic mora-count check requiring no search; 3b requires search-confirmed ambiguous
 usage.
+
+---
+
+## 謙譲語 (humble) derivation rules
+
+This field resolves via a four-tier priority order. It never resolves to the
+`あれる形 (passive/honorific)` field or to the `お〜になる/special verb (honorific)` field —
+both are separate, unrelated fields on the same card and are unaffected by this rule.
+
+### Tier 1 — special verb table
+
+If the verb's meaning matches an entry below, always use the special verb — this tier wins
+regardless of tier 2 eligibility. Tier-1 entries are single-valued — there is no いたす／します
+dual form here, since there is nothing left to derive; the special verb itself is already
+fully humble.
+
+| Verb meaning | Special verb (humble) |
+|---|---|
+| 行く／来る | 参る |
+| する | いたす |
+| 言う | 申す (default; 申し上げる is a valid, more-formal alternate) |
+| 見る | 拝見する |
+| 聞く／尋ねる／訪問する | 伺う |
+| 食べる／飲む | いただく |
+| もらう | いただく |
+| あげる | さしあげる |
+| いる | おる |
+| 知っている | 存じておる (存じ上げる — for people) |
+| 会う | お目にかかる |
+| 見せる | お目にかける |
+| 借りる | 拝借する |
+
+する and 来る always use their tier-1 special verb (いたす／参る) — they never take tier 2.
+
+### Tier 2 — お/ご + ます形(stem) + いたす／します
+
+Used only when (a) no special verb applies and (b) the ます-stem is 2+ morae. Prefix choice (お
+for wago-origin verbs, ご for kango/verbal-noun verbs) reuses the wago/kango prefix-choice
+heuristic in `.cowork/skills/references/honorific-forms.md`'s "## Prefix choice (お vs ご vs
+none)" section (cross-reference only — see that file's scope-note for the exact carve-out).
+
+**This tier's value is dual-valued and slash-separated** — both the いたす form and the
+する／します form, in that order: `[お-stem]いたす／[お-stem]します` for wago verbs, or
+`ご[noun]いたす／ご[noun]します` for kango/suru-compound verbs. This is a deliberate,
+explicit deviation from every other single-valued form field on this card — tier 2 is the only
+tier where the auxiliary itself (いたす vs する／します) is the thing varying.
+
+Note: suru-compound (`〜する`) verbs never reach this tier in practice, since suru verbs have
+zero conjugation rows entirely (an existing, unrelated rule — `#wc` suru verbs skip all form
+fields). This makes the ご-branch of this rule real in principle but rarely-if-ever exercised
+on an actual filled card. Document it for correctness — it is a near-dead branch in practice,
+not a branch to remove.
+
+Example: 手伝う → ます stem 手伝い (4 morae) → お手伝いいたす／お手伝いします.
+
+### Tier 3a — deterministic exclusion (1-mora stem, no search)
+
+If no special verb applies and the ます-stem is exactly 1 mora (e.g. 寝る, 着る, 出る — real
+`#wc` entries in the vault, none tier-1-covered for 謙譲語), お/ご+ます形+いたす is
+grammatically impossible. This is a computable fact (mora count), not a judgment call —
+resolve directly to `-` without any web search.
+
+### Tier 3b — search-confirmed exclusion (ambiguous idiomatic usage)
+
+If the ます-stem is 2+ morae, no special verb applies, but it's genuinely unclear whether
+お/ご+stem+いたす is idiomatically natural for that specific verb, web-search e.g.
+`[verb] 謙譲語 いたす` before deciding — mirroring the same escalation pattern already used for
+お〜になる's tier 3b and the verb-type heuristic above. Only write `-` once the search confirms
+the verb has no idiomatic humble form in active use.
+
+Tier 3a and 3b both produce `-` but are distinguishable and must not be conflated: 3a is a
+deterministic mora-count check requiring no search; 3b requires search-confirmed ambiguous
+usage.
+
+する and 来る always use their tier-1 special verb (いたす／参る) — they never take tier 2, 3a,
+or 3b.
+
+This field never resolves to `あれる形 (passive/honorific)` or to
+`お〜になる/special verb (honorific)` — both are separate fields, unaffected by this rule.

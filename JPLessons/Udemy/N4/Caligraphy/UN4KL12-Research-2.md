@@ -2,14 +2,14 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL12-Research-2
 
 ## 発 - leaving・ハツ、ホツ
 [[発-leaving]]
-![[Pasted image 20250527214708.png]]
+![[Pasted image 20250527214708.png|239]]
 
 2+legs + footsteps (2 feet) - leaving 
 **(はつ)**
-#w 発音（はつおん）- pronounciation
+#w 発音（はつおん）- pronunciation
 #w 発表（はっぴょう）- announcment/presentaiotn
 
-#w あなたの中国語の発音はいいですね（はつおん）- Your Chinese pronounciation is good
+#w あなたの中国語の発音はいいですね（はつおん）- Your Chinese pronunciation is good
 #w 明日　私の意見を発表します（いけん、はっぴょう）-  I will announce my opinion tommorow
 
 #w あなたの旅行計画の発表はすばらしいですね（りょこうけいかく、はっぴょう）- Your presentation fo the travel plans is wonderfull
@@ -18,7 +18,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL12-Research-2
 
 ## 表 - surface, front・おもて、あらわ・ヒョウ
 [[表-surface]]
-![[Pasted image 20250527215415.png]]
+![[Pasted image 20250527215415.png|230]]
 衣 clothing + soil + 1 - clothing on the SURFACE of the soil, fornt view
 **(おもて)**
 #w 表門（おもてもん）- front gate
@@ -40,7 +40,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL12-Research-2
 
 ## 意 - mind, meaning・イ
 [[意-mind]]
-![[Pasted image 20250527222830.png]]
+![[Pasted image 20250527222830.png|206]]
 stay + day + heart = meaning, mind
 **(い)**
 #w 意味（いみ）meaning  + taste - meaning
@@ -55,7 +55,7 @@ stay + day + heart = meaning, mind
 
 ## 思 - feeling, idea・おも・シ
 [[思-feeling]]
-![[Pasted image 20250527223116.png]]
+![[Pasted image 20250527223116.png|211]]
 rice field + heart
 **(おも)**
 #w ふるさとの母を思う（はは、おも) - think about my mother in hometown
@@ -73,7 +73,7 @@ rice field + heart
 ---
 ## 公 - public・おおやけ・コウ
 [[公-public]]
- ![[Pasted image 20250529083257.png]]
+ ![[Pasted image 20250529083257.png|228]]
  8/to part, to divide + se;f. private
  if we divide private is public
 
@@ -92,7 +92,7 @@ rice field + heart
 
 ## 立 - stand・た・リツ
 [[立-stand]]
-![[Pasted image 20250529083655.png]]
+![[Pasted image 20250529083655.png|251]]
 
 **(た)**
 立つ（た) - stand
@@ -107,7 +107,7 @@ rice field + heart
 
 ## 英 - British, England・エイ
 [[英-england,english, superior]]
-![[Pasted image 20250529084335.png]]
+![[Pasted image 20250529084335.png|211]]
 大 + cover and grass.   Britain is a bif island covered with grass
 **(えい)**
 #w 英国（えいこく）- UK
@@ -116,7 +116,7 @@ rice field + heart
 #w 英吉利（イギリス）- UK/great talent
 ## 正 - correct・ただ・セイ、ショウ
 [[正-correct]]
-![[Pasted image 20250529085320.png]]
+![[Pasted image 20250529085320.png|195]]
 **(ただ)**
 #w 正しい（ただ）- correct
 #w 正しい答え（ただしこたえ）- correct answer
@@ -138,7 +138,7 @@ rice field + heart
 #w 正月にふるさとへ帰るつもりです（しょうがつ、かえ）- I plan to return to my home town on New's year holiday
 #w 正月には国に帰ります（しょうがつ、くに、かえ） - I will return to my country during New Year's holiday
 
-#w お姉さんの英語の発音は正しいですよ（ねえ、えいご、はつおん、ただ）- Your elder sister's English pronounciation is correct (yo now)
+#w お姉さんの英語の発音は正しいですよ（ねえ、えいご、はつおん、ただ）- Your elder sister's English pronunciation is correct (yo now)
 
 #w この答えは正しくありませんよ（こた、ただ）- This asnwer is not correct(inf)
 
@@ -147,7 +147,7 @@ rice field + heart
 ---
 ## 力 - strength, power・ちから・リョク、リキ
 [[力-power]]
-![[Pasted image 20250601182845.png]]
+![[Pasted image 20250601182845.png|258]]
 **(ちから)**
 #w 力持ち（ちからも）- powerful
 #w 力仕事（ちからしごと）- physical work
@@ -164,7 +164,7 @@ rice field + heart
 
 ## 代 - generation, price・か・ダイ
 [[代-generation]]
-![[Pasted image 20250601183558.png]]
+![[Pasted image 20250601183558.png|243]]
 **(か)**
 #wc 代わる（か） - to take somebody's place/ on behalf
 #w 社長に代わってあいさつする（しゃちょう、か）- greeting on behalf of the company president
@@ -187,7 +187,7 @@ rice field + heart
 
 ## 心 - heart, mind・こころ・シン
 [[心-heart]]
-![[Pasted image 20250601184841.png]]
+![[Pasted image 20250601184841.png|281]]
 **(こころ)**
 #w 心（こころ）- heart
 #w 心当たり（こころ、あ）- to have an idea
@@ -201,7 +201,7 @@ rice field + heart
 #w 今回のプロジェクトのお金は十分ありますから、安心してください（こんかい、かね、じゅうぶん、おんしん） - Please don't worry because we have enough money for this project
 ## 同 - same・おな・ドウ
 [[同-same]]
-![[Pasted image 20250601185947.png]]
+![[Pasted image 20250601185947.png|225]]
 **(おな)**
 #w この二つにかばんは同じなのに,  値段が違う(ふた、おな、ねだん) - these two baga are the same, but the prices are different
 #w 同じ人（おなじひと）- the same person
@@ -224,21 +224,23 @@ rice field + heart
 
  Rzeczowniki:
 
- pronounciation #card
+ pronunciation | refers to how sounds are articulated when speaking a language (phonetics); the everyday word for "pronunciation" in language study #card
 ほんやく: 発音（はつおん）
+お/ご (honorific): ご発音（はつおん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_発.html">発</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <!--ID: 1749743105552-->
 
 
- announcment/presentaiotn #card
+ announcement/presentation | a formal act of publicly announcing or presenting something (e.g. research, results, opinions), more formal than casually telling someone #card
 ほんやく: 発表（はっぴょう）
+お/ご (honorific): ご発表（はっぴょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_発.html">発</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_表.html">表</a>
 <!--ID: 1749743105554-->
 
 
- Your Chinese pronounciation is good #card
+ Your Chinese pronunciation is good (casual, softened with ね) #card
 ほんやく: あなたの中国語の発音はいいですね（はつおん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
@@ -248,7 +250,7 @@ rice field + heart
 <!--ID: 1749743105556-->
 
 
-  I will announce my opinion tommorow #card
+  I will announce my opinion tomorrow (polite) #card
 ほんやく: 明日　私の意見を発表します（いけん、はっぴょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -260,7 +262,7 @@ rice field + heart
 <!--ID: 1749743105558-->
 
 
- Your presentation fo the travel plans is wonderfull #card
+ Your presentation of the travel plans is wonderful (casual, softened with ね) #card
 ほんやく: あなたの旅行計画の発表はすばらしいですね（りょこうけいかく、はっぴょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -271,27 +273,27 @@ rice field + heart
 <!--ID: 1749743105561-->
 
 
- front gate #card
+ front gate | the main entrance gate of a building or property, as opposed to a back or side entrance #card
 ほんやく: 表門（おもてもん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_表.html">表</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_門.html">門</a>
 <!--ID: 1749743105563-->
 
 
- heads of coin #card
+ heads (side of a coin) | refers to the obverse/front-facing side of an object, as opposed to the reverse (tails) #card
 ほんやく: コインの表（おもて）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_表.html">表</a>
 <!--ID: 1749743105565-->
 
 
- ostensible(ostensybul), pozorny #card
+ ostensible | pozorny (seemingly true but not necessarily so) #card
 ほんやく: 表向き（おもてむき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_表.html">表</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_向.html">向</a>
 <!--ID: 1749743105567-->
 
 
- please enter ftom front gate #card
+ please enter from front gate #card
 ほんやく: 表門から入ってください（おもてもん,はい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_表.html">表</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_門.html">門</a>
@@ -309,7 +311,7 @@ rice field + heart
 <!--ID: 1749743105572-->
 
 
- this sign indicates hospitals #card
+ this sign indicates a hospital #card
 ほんやく: この記号は病院を表す（きごう、びょういん、あらわ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_記.html">記</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_号.html">号</a>
@@ -319,7 +321,7 @@ rice field + heart
 <!--ID: 1749743105574-->
 
 
- plan table/ schedule #card
+ plan table / schedule | a written table laying out planned activities, e.g. for work or projects #card
 ほんやく: 計画表(けいかくひょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
@@ -327,14 +329,14 @@ rice field + heart
 <!--ID: 1749743105576-->
 
 
- facial expression #card
+ facial expression | the visible expression on someone's face conveying emotion; used both literally and to describe demeanor #card
 ほんやく: 表情（ひょうじょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_表.html">表</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_情.html">情</a>
 <!--ID: 1749743105578-->
 
 
- I made a shedoule for tommorow's work #card
+ I made a schedule for tomorrow's work #card
 ほんやく: 明日の仕事の計画表を作りました（けいかくひょう、つく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -347,21 +349,22 @@ rice field + heart
 <!--ID: 1749743105580-->
 
 
- meaning #card
-ほんやく: 意味（いみ）meaning  + taste
+ meaning | the sense or significance conveyed by a word, phrase, or symbol; the everyday word for "meaning" #card
+ほんやく: 意味（いみ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <!--ID: 1749743105583-->
 
 
- opinion #card
+ opinion | one's personal viewpoint or judgment on a matter, often used in contexts of discussion or debate #card
 ほんやく: 意見（いけん）
+お/ご (honorific): ご意見（いけん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1749743105585-->
 
 
- what is your opinion? #card
+ what is your opinion? (formal/polite — いかが) #card
 ほんやく: あなたの意見はいかがですか？(いけん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
@@ -379,7 +382,7 @@ rice field + heart
 <!--ID: 1749743105589-->
 
 
- I don't realy understand the meaning of this kanji #card
+ I don't really understand the meaning of this kanji #card
 ほんやく: この漢字の意味はよくわかりません（いみ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_漢.html">漢</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
@@ -388,35 +391,36 @@ rice field + heart
 <!--ID: 1749743105591-->
 
 
- think about my mother in hometown #card
+ think of my mother back in my hometown (plain form) #card
 ほんやく: ふるさとの母を思う（はは、おも)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
 <!--ID: 1749743105593-->
 
 
- love for one's parents #card
+ love for one's parents | describes filial affection/thoughtfulness toward one's parents, often used as a compound modifier before a noun #card
 ほんやく: 親思い（おやおも）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
 <!--ID: 1749743105595-->
 
 
- intention  #card
-ほんやく: 意思（いし）meaning + feeling
+ intention | one's own will or resolve behind a decision, distinct from a casual opinion — often used in formal contexts #card
+ほんやく: 意思（いし）
+お/ご (honorific): ご意思（いし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
 <!--ID: 1749743105597-->
 
 
- thought #card
+ thought / ideology | a system of ideas or philosophy (e.g. political or religious thought), more formal/weighty than a casual individual thought #card
 ほんやく: 思想（しそう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_想.html">想</a>
 <!--ID: 1749743105599-->
 
 
- I don't think this plan is the intention of Company president #card
+ I don't think this plan is the intention of the company president #card
 ほんやく: この計画は社長の意思ではないと思います（けいかく、しゃちょう、いし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
@@ -435,7 +439,7 @@ rice field + heart
 <!--ID: 1749743105603-->
 
 
- It is decided to borrow money frtom the bank by the intention of our company president #card
+ It has been decided that we will borrow money from the bank at the company president's discretion #card
 ほんやく: 社長の意思で銀行からお金を借りることになりました（しゃちょう、いし、ぎんこう、かね、か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
@@ -448,41 +452,41 @@ rice field + heart
 <!--ID: 1749743105605-->
 
 
-  public thing #card
+  something public / public property | refers to things belonging to or intended for the public, as opposed to private (私) #card
 ほんやく: 公のもの（おおやけのもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_公.html">公</a>
 <!--ID: 1749743105608-->
 
 
- public place #card
+ public place | a place open to the public, often used in contexts of public behavior/decorum #card
 ほんやく: 公の場（おおやけのば）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_公.html">公</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1749743105610-->
 
 
- public #card
+ public | the standalone reading for "public" as opposed to private (私); used alone or as a prefix in compounds #card
 ほんやく: 公（おおやけ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_公.html">公</a>
 <!--ID: 1749743105612-->
 
 
- public #card
+ public | describes institutions (schools, universities) that are state/government-run, as opposed to privately run (私立) #card
 ほんやく: 公立（こうりつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_公.html">公</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <!--ID: 1775624991151-->
 
 
- fair #card
+ fair | describes impartiality/equity in treatment or judgment #card
 ほんやく: 公平（こうへい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_公.html">公</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_平.html">平</a>
 <!--ID: 1749743105615-->
 
 
- My eleder brother is a researcher at public research institute #card
-ほんやく: 兄は公立研究所の研究員です（あに、しりつけんきゅうしょ、けんきゅういん）
+ My elder brother is a researcher at a public research institute #card
+ほんやく: 兄は公立研究所の研究員です（あに、こうりつけんきゅうしょ、けんきゅういん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_公.html">公</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
@@ -493,7 +497,7 @@ rice field + heart
 <!--ID: 1749743105617-->
 
 
- My young brother entered a public uniwersity #card
+ My young brother entered a public university #card
 ほんやく: 弟は公立大学に入りました（おとうと、こうりつだいがく、はい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_公.html">公</a>
@@ -504,21 +508,21 @@ rice field + heart
 <!--ID: 1749743105619-->
 
 
- enter (formal, usualy entering somewhere you shouldn't) #card
+ enter | formal word for stepping into a place one shouldn't, frequently seen in restricted-area warning signage #card
 ほんやく: 立ち入る（たちいる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1749743105621-->
 
 
- independence #card
+ independence | standing on one's own without relying on others, e.g. financially or emotionally #card
 ほんやく: 自立（じりつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <!--ID: 1749743105623-->
 
 
- private  #card
+ private | describes institutions (schools, universities) that are privately run, as opposed to state-run (公立) #card
 ほんやく: 私立（しりつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
@@ -543,21 +547,21 @@ rice field + heart
 <!--ID: 1749743105630-->
 
 
- UK #card
+ UK | a formal/written term for the United Kingdom, more literary than the everyday イギリス #card
 ほんやく: 英国（えいこく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1749743105632-->
 
 
- english  #card
+ English | the English language #card
 ほんやく: 英語（えいご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1749743105634-->
 
 
- special education for gifted children #card
+ special education for gifted children | accelerated/specialized schooling aimed at children with exceptional talent or ability #card
 ほんやく: 英才教育（えいさいきょういく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_才.html">才</a>
@@ -566,7 +570,7 @@ rice field + heart
 <!--ID: 1749743105636-->
 
 
- UK/great talent #card
+ UK (old-style ateji spelling for the country name; not literally "great talent") #card
 ほんやく: 英吉利（イギリス）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_吉.html">吉</a>
@@ -574,14 +578,14 @@ rice field + heart
 <!--ID: 1749743105638-->
 
 
- correct #card
+ correct | describes something right, accurate, or proper; the common i-adjective for "correct/right" #card
 ほんやく: 正しい（ただ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_正.html">正</a>
 <!--ID: 1749743105640-->
 
 
- correct answer #card
-ほんやく: 正しい答え（ただしこたえ）
+ correct answer (descriptive phrasing, not a fixed term) #card
+ほんやく: 正しい答え（ただしいこたえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_正.html">正</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 <!--ID: 1749743105642-->
@@ -597,21 +601,21 @@ rice field + heart
 <!--ID: 1749743105644-->
 
 
- correct answer #card
-ほんやく: 正答（せいとう）seeto
+ correct answer (formal term, as a set noun, e.g. on a test) | a two-kanji compound noun for "correct answer," more formal/written than a descriptive phrase #card
+ほんやく: 正答（せいとう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_正.html">正</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 <!--ID: 1775624991152-->
 
 
- główna, legalna, oficjalna działalność zawodowa #card
+ legitimate/legal occupation, official line of work | pol. główna, legalna, oficjalna działalność zawodowa — one's legitimate main occupation, often asked about when questioning a business's actual/legal line of work #card
 ほんやく: 正業（せいぎょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_正.html">正</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1749743105647-->
 
 
- What is the business of that company? (czym zajmuje się) #card
+ What is that company's legitimate/actual line of business? (czym zajmuje się) #card
 ほんやく: あの会社の正業は何ですか（せいぎょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -621,7 +625,7 @@ rice field + heart
 <!--ID: 1749743105649-->
 
 
- Please tell me the correct answer to this question(problem) #card
+ Please tell me the correct answer to this question #card
 ほんやく: この問題の正答を教えて下さい（もんだい、せいとう、おし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
@@ -632,21 +636,22 @@ rice field + heart
 <!--ID: 1749743105651-->
 
 
- new year's holiday #card
+ New Year's holiday | the New Year period/season in Japan (typically the first few days of January), not just a single day #card
 ほんやく: 正月（しょうがつ）
+お/ご (honorific): お正月（しょうがつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_正.html">正</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1749743105653-->
 
 
- noon #card
+ noon | the formal/precise word for 12:00 noon, commonly used in schedules and official contexts #card
 ほんやく: 正午（しょうご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_正.html">正</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_午.html">午</a>
 <!--ID: 1749743105655-->
 
 
- I plan to return to my home town on New's year holiday #card
+ I plan to return to my home town on New Year's holiday #card
 ほんやく: 正月にふるさとへ帰るつもりです（しょうがつ、かえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_正.html">正</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -663,7 +668,7 @@ rice field + heart
 <!--ID: 1749743105660-->
 
 
- Your elder sister's English pronounciation is correct (yo now) #card
+ Your elder sister's English pronunciation is correct, you know #card
 ほんやく: お姉さんの英語の発音は正しいですよ（ねえ、えいご、はつおん、ただ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
@@ -674,26 +679,26 @@ rice field + heart
 <!--ID: 1749743105662-->
 
 
- This asnwer is not correct(inf) #card
+ This answer is not correct (polite, emphasized with よ) #card
 ほんやく: この答えは正しくありませんよ（こた、ただ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_正.html">正</a>
 <!--ID: 1749743105664-->
 
 
- hometown  #card
+ hometown | a nostalgic, affectionate word for one's hometown/native place; more emotionally warm than the neutral/formal こきょう (故郷) #card
 ほんやく: ふるさと
 <!--ID: 1749743105666-->
 
 
- powerful #card
+ a strong person | someone possessing great physical strength #card
 ほんやく: 力持ち（ちからも）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 <!--ID: 1749743105668-->
 
 
- physical work #card
+ physical work | labor requiring physical strength/exertion, as opposed to desk work #card
 ほんやく: 力仕事（ちからしごと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
@@ -701,7 +706,7 @@ rice field + heart
 <!--ID: 1749743105671-->
 
 
- Mr smitsh will do that work becvause it requires a lot of strength. #card
+ Mr. Smith will do that work because it requires a lot of strength. #card
 ほんやく: その作業は力が要りますから、スミスさんがしますよ（さぎょう、ちから、い）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
@@ -710,14 +715,14 @@ rice field + heart
 <!--ID: 1749743105673-->
 
 
- physical strength #card
+ physical strength | one's overall physical stamina/fitness, broader than momentary muscular force #card
 ほんやく: 体力（たいりょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
 <!--ID: 1749743105675-->
 
 
- proficiency in English/biegłość w języku angielskim #card
+ proficiency in English | biegłość w języku angielskim — one's overall competence/ability in the English language #card
 ほんやく: 英語力（えいごりょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
@@ -725,15 +730,16 @@ rice field + heart
 <!--ID: 1749743105677-->
 
 
- manpower #card
+ manpower | human physical labor/power, as opposed to machine power; often used in contrast to automation #card
 ほんやく: 人力（じんりき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
 <!--ID: 1749743105679-->
 
 
- masterpiece #card
+ masterpiece | a work created with great effort and skill — used for art, writing, or craftsmanship #card
 ほんやく: 力作（りきさく）
+お/ご (honorific): ご力作（りきさく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1749743105681-->
@@ -747,7 +753,7 @@ rice field + heart
 <!--ID: 1749743105684-->
 
 
- Mr Son is sick so i will work instead #card
+ Mr. Son is sick, so I will work instead #card
 ほんやく: そんさんは病気ですから、私が仕事を代わります（びょうき、か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
@@ -758,33 +764,33 @@ rice field + heart
 <!--ID: 1749743105686-->
 
 
- greetings/powitać #card
-ほんやく: あいさつする（いあさつ）
+ to greet / to say hello | pol. powitać — a suru-verb for exchanging greetings, often used in formal contexts such as giving a speech #card
+ほんやく: あいさつする（あいさつ）
 <!--ID: 1749743105688-->
 
 
- era/the times #card
+ era / the times | a period in history or someone's life (e.g. one's university years), broader than a specific date range #card
 ほんやく: 時代（じだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_代.html">代</a>
 <!--ID: 1749743105690-->
 
 
- fee/price #card
+ fee/price | the amount owed as payment for goods or services received, more specific than the general word for price (値段) #card
 ほんやく: 代金（だいきん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_代.html">代</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1749743105692-->
 
 
- representative  #card
+ representative | a person who represents/speaks for a group, e.g. a team, club, or country; can also function as a suru-verb #card
 ほんやく: 代表（だいひょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_代.html">代</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_表.html">表</a>
 <!--ID: 1749743105694-->
 
 
- twenties #card
+ twenties | someone's age range 20-29, using a counter that marks a decade-based age bracket #card
 ほんやく: ２０代（にじゅうだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_代.html">代</a>
 <!--ID: 1749743105696-->
@@ -815,7 +821,7 @@ rice field + heart
 <!--ID: 1749743105703-->
 
 
- We didn't know each other's name even though I was in the same class with that persion in our university days. #card
+ We didn't know each other's name even though I was in the same class with that person in our university days. #card
 ほんやく: 大学時代、あの人とクラスが同じなのに、おたがいの　なまえを知りませんでした（じだい、おな、し）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -827,20 +833,22 @@ rice field + heart
 <!--ID: 1749743105705-->
 
 
- heart #card
+ heart | the heart/mind as the seat of emotion and thought (not the physical organ), used widely in compounds about feelings #card
 ほんやく: 心（こころ）
+お/ご (honorific): お心（こころ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <!--ID: 1749743105707-->
 
 
- to have an idea #card
+ a clue / some idea (about something), e.g. 心当たりがある "to have a clue" #card
 ほんやく: 心当たり（こころ、あ）
+お/ご (honorific): お心当たり（こころ、あ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <!--ID: 1749743105709-->
 
 
- big hearted person #card
+ big-hearted person | someone generous and open-minded in spirit, literally "a person of wide heart" #card
 ほんやく: 心の広い人（こころ、ひろ,ひと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
@@ -856,14 +864,15 @@ rice field + heart
 <!--ID: 1749743105713-->
 
 
- peace of mind #card
+ peace of mind | a state of relief/reassurance, feeling safe from worry; often used as a suru-verb (to feel relieved) or in a polite request not to worry #card
 ほんやく: 安心（あんしん）
+お/ご (honorific): ご安心（あんしん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <!--ID: 1749743105718-->
 
 
- spirit of inquiry/duch zapytania #card
+ spirit of inquiry / duch badawczy #card
 ほんやく: 研究心（けんきゅうしん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
@@ -872,7 +881,7 @@ rice field + heart
 
 
  Please don't worry because we have enough money for this project #card
-ほんやく: 今回のプロジェクトのお金は十分ありますから、安心してください（こんかい、かね、じゅうぶん、おんしん）
+ほんやく: 今回のプロジェクトのお金は十分ありますから、安心してください（こんかい、かね、じゅうぶん、あんしん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_回.html">回</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
@@ -883,8 +892,8 @@ rice field + heart
 <!--ID: 1749743105723-->
 
 
- these two baga are the same, but the prices are different #card
-ほんやく: この二つにかばんは同じなのに,  値段が違う(ふた、おな、ねだん)
+ these two bags are the same, but the prices are different #card
+ほんやく: この二つのかばんは同じなのに、値段が違う(ふた、おな、ねだん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_同.html">同</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_値.html">値</a>
@@ -893,21 +902,21 @@ rice field + heart
 <!--ID: 1749743105725-->
 
 
- the same person #card
+ the same person | uses a special na-adjective for "same/identical" that irregularly drops な before a noun #card
 ほんやく: 同じ人（おなじひと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_同.html">同</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1749743105728-->
 
 
- the same #card
+ the same | a special na-adjective meaning "identical"; irregularly omits な before nouns #card
 ほんやく: 同じ（おな）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_同.html">同</a>
 <!--ID: 1749743105730-->
 
 
- Mr Smith and I studied at the same school #card
-ほんやく: スミスさんと私は同じ学校で勉強しました（おなじ、ばんきょう）
+ Mr. Smith and I studied at the same school #card
+ほんやく: スミスさんと私は同じ学校で勉強しました（おなじ、べんきょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_同.html">同</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -917,22 +926,24 @@ rice field + heart
 <!--ID: 1749743105732-->
 
 
- cena #card
+ price | cena — the general, everyday word for the price/cost of an item, more common and neutral than 代金 (fee owed for goods/services received) #card
 ほんやく:   値段 (ねだん)
+お/ご (honorific): お値段（ねだん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_値.html">値</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_段.html">段</a>
 <!--ID: 1749743105734-->
 
 
- at the same time #card
+ at the same time | expresses simultaneity of two events/actions, often used adverbially #card
 ほんやく: 同時（どうじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_同.html">同</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1749743105736-->
 
 
- agree #card
+ agree | a formal suru-noun for agreement/consent, often used in written or business contexts rather than casual speech #card
 ほんやく: 同意（どうい）
+お/ご (honorific): ご同意（どうい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_同.html">同</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <!--ID: 1749743105738-->
@@ -960,14 +971,15 @@ rice field + heart
 
 
 
-represent, show, indicate #card
+represent, show, indicate | to make something visible/apparent through an outward sign or symbol (e.g. a chart, sign, or expression) #card
 ほんやく: 表す（あらわす）
 て形: 表して
 た形: 表した
 ます形: 表します
 出す形 (start): 表し出す
 そう (looks): 表しそう
-お〜になる (honorific): お表しになる
+お〜になる/special verb (honorific):お表しになる
+謙譲語 (humble): お表しいたす／お表しします
 ない形: 表さない
 なかった形: 表さなかった
 あれる形 (passive/honorific): 表される
@@ -980,14 +992,15 @@ represent, show, indicate #card
 <!--ID: 1749743105744-->
 
 
-to take somebody's place/ on behalf #card
+to substitute for someone / to take someone's place | to step in and do something in another's place, often paired with the person being replaced marked by a particle #card
 ほんやく: 代わる（かわる）
 て形: 代わって
 た形: 代わった
 ます形: 代わります
 出す形 (start): 代わり出す
 そう (looks): 代わりそう
-お〜になる (honorific): お代わりになる
+お〜になる/special verb (honorific):お代わりになる
+謙譲語 (humble): お代わりいたす／お代わりします
 ない形: 代わらない
 なかった形: 代わらなかった
 あれる形 (passive/honorific): 代わられる

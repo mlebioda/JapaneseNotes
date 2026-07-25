@@ -49,8 +49,9 @@ For each `#wc` skeleton, fill all blank fields. Use the verb type heuristic in t
 If uncertain, web-search `[verb] godan ichidan`.
 
 See `.cowork/skills/references/verb-conjugation.md` for all conjugation tables and rules:
-verb type heuristic, godan table (all endings × all 14 forms), ichidan rules,
-可能形 special cases, そう form rules, 来る fixed forms, お〜になる/special-verb derivation rules.
+verb type heuristic, godan table (all endings × all 15 forms), ichidan rules,
+可能形 special cases, そう form rules, 来る fixed forms, お〜になる/special-verb derivation rules,
+謙譲語 (humble) derivation rules.
 
 **お〜になる/special verb (honorific) first-time-fill fallback:** apply the tiered logic in
 `verb-conjugation.md`'s derivation-rules section. If tier 3b requires a web search and the
@@ -59,6 +60,15 @@ to fall back on (unlike `templates-update.md`'s Repair 3e). In that case, do NOT
 write `-` and do NOT silently write an unflagged tier-2 guess. Instead, default to a
 best-effort tier-2 お+ます形+になる value and append an inline flag so the user can double
 check it, e.g. `お〜になる/special verb (honorific): お見せになる (unconfirmed — verify)`.
+
+**謙譲語 (humble) first-time-fill fallback:** apply the tiered logic in
+`verb-conjugation.md`'s "## 謙譲語 (humble) derivation rules" subsection. If tier 3b requires
+a web search and the search result is genuinely inconclusive, there is no confirmation gate in
+this fill workflow to fall back on (unlike `templates-update.md`'s Repair 3f). In that case,
+do NOT silently write `-` and do NOT silently write an unflagged tier-2 guess. Instead,
+default to a best-effort tier-2 dual value (いたす／します) and append an inline flag so the
+user can double check it, e.g.
+`謙譲語 (humble): お見せいたす／お見せします (unconfirmed — verify)`.
 
 ## Step 5 — filling adjective skeletons
 
@@ -135,6 +145,7 @@ translation [#k] #card
 出す形 (start): ...
 そう (looks): ...
 お〜になる/special verb (honorific): ...
+謙譲語 (humble): ...
 ない形: ...
 なかった形: ...
 あれる形 (passive/honorific):  ...

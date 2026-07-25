@@ -16,7 +16,12 @@ This file is the single source of truth for the optional `お/ご (honorific):` 
 `お〜になる/special verb (honorific)` field — a different mechanism (verb-stem + になる
 derivation, not a noun/adjective prefix), governed entirely by
 `references/verb-conjugation.md` and the separate `Plans/wc-honorific-special-verb-plan.md`.
-This file does not apply to `#wc` in any way.
+This file does not apply to `#wc` in any way. Exception: the wago/kango prefix-choice
+heuristic below (see "## Prefix choice (お vs ご vs none)") is additionally reused, by
+cross-reference only, by the `#wc` 謙譲語 (humble) field's tier-2 derivation rule in
+`references/verb-conjugation.md`. That field's own eligibility, tiering, and dual-value
+format logic lives entirely in `verb-conjugation.md`, not here — this file's actual
+`お/ご (honorific):` row remains `#wc`-ineligible as stated above.
 
 ---
 

@@ -218,7 +218,7 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 
  Rzeczowniki:
 
- shortcut #card
+ shortcut | refers to a shorter route or way of doing something #card
 ほんやく: 近道（ちかみち）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
@@ -232,7 +232,7 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <!--ID: 1744994110151-->
 
- Is the hospital near to the school? #card
+ Is the hospital near the school? #card
 ほんやく: 病院は学校に近いですか（びょういん、ちか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
@@ -241,19 +241,20 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <!--ID: 1744994110153-->
 
- neighhboorhood #card
+ neighborhood | refers to one's immediate surrounding area or vicinity #card
 ほんやく: 近所（きんじょ) 
+お/ご (honorific): ご近所（きんじょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1744994110155-->
 
- in few days #card
+ in a few days | a formal/written word for "in the near future" #card
 ほんやく: 近日（きんじつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1744994110157-->
 
- There are no clinics in the neighbordhood #card
+ There are no clinics in the neighborhood #card
 ほんやく: 近所に医院はありません（きんじょ、いいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
@@ -289,44 +290,44 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <!--ID: 1744994110166-->
 
  Is that clothing store nearby? #card
-ほんやく: その洋服屋を近いですか（ようふくや、ちか）
+ほんやく: その洋服屋は近いですか（ようふくや、ちか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <!--ID: 1744994110168-->
 
- We don't have time, so lets run #card
+ We don't have time, so let's run #card
 ほんやく: 時間がないから、走りましょう（はし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1744994110170-->
 
- run(mostly vechicles, technical, formal) #card
+ run (mostly vehicles, technical, formal) | used for the operation/running of vehicles or machines, not people running #card
 ほんやく: 走行（そうこう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1744994110172-->
 
- runner #card
+ runner | refers to a person who runs, e.g. in a race #card
 ほんやく: 走者（そうしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
 <!--ID: 1744994110174-->
 
- dog #card
+ dog | the standard word for a dog #card
 ほんやく: 犬（いぬ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <!--ID: 1744994110176-->
 
- puppy #card
+ puppy | refers to a young dog #card
 ほんやく: 子犬（こいぬ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <!--ID: 1744994110178-->
 
- I walk with my dog every morning #card
+ I walk with my dog in the evening #card
 ほんやく: 夕方、犬と歩きます（ゆうがた、いぬ、ある）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
@@ -334,20 +335,20 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1744994110180-->
 
- Japanese dog #card
+ Japanese dog | refers to native Japanese dog breeds, such as Shiba or Akita #card
 ほんやく: 日本犬（にほんけん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <!--ID: 1744994110181-->
 
- fine dog (znany pies) #card
+ famous dog | a renowned or celebrated dog #card
 ほんやく: 名犬（めいけん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <!--ID: 1744994110183-->
 
- I have a japanese dog at home #card
+ I have a Japanese dog at home #card
 ほんやく: 家で日本犬をかっています 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -355,14 +356,14 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <!--ID: 1744994110185-->
 
- Is your dog a japanese dog? #card
+ Is your dog a Japanese dog? #card
 ほんやく: あなたの犬は日本犬ですか(いぬ、にほんけん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <!--ID: 1744994110190-->
 
- walk home  #card
+ walk home #card
 ほんやく: 歩いて帰る（ある、かえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
@@ -389,19 +390,20 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1744994110197-->
 
- walk #card
+ a walk, a stroll | leisurely walking (as opposed to 歩く, walking in general) #card
 ほんやく: 散歩（さんぽ）
+お/ご (honorific): お散歩（さんぽ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_散.html">散</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1744994110199-->
 
- sidewalk #card
+ sidewalk | the pedestrian path along a street, as opposed to the vehicle roadway #card
 ほんやく: 歩道（ほどう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
 <!--ID: 1744994110200-->
 
- sound #card
+ sound | the standard, everyday word for a sound or noise #card
 ほんやく: 音（おと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <!--ID: 1744994110202-->
@@ -411,32 +413,32 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <!--ID: 1744994110204-->
 
- sound fo rain #card
-ほんやく: 雨音（あ**ま**おと）
+ sound of rain #card
+ほんやく: 雨音（あまおと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <!--ID: 1744994110206-->
 
- music #card
+ music | the standard word for music #card
 ほんやく: 音楽（おんがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1744994110208-->
 
- musician #card
+ musician | refers to a professional or skilled performer of music #card
 ほんやく: 音楽家（おんがくか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1744994110210-->
 
- voice(formal, technical) #card
+ voice (formal, technical) | a technical/formal word for voice or audio, e.g. in broadcasting #card
 ほんやく: 音声（おんせい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_声.html">声</a>
 <!--ID: 1744994110211-->
 
- Do you know that musican's address? #card
+ Do you know that musician's address? #card
 ほんやく: あの音楽家の住所を知っていますか（おんがくか、じゅうしょ、し）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_音.html">音</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
@@ -447,7 +449,7 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <!--ID: 1744994110214-->
 
  I enjoy music at home on my day off #card
-ほんやく: 休日には家で音楽を楽しいます（きゅうじつ、おんがく、たの）
+ほんやく: 休日には家で音楽を楽しみます（きゅうじつ、おんがく、たの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
@@ -477,8 +479,13 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1744994110221-->
 
- easy (not as task, mentaly..), comfortable, at ease #card
+ easy / comfortable / at ease | describes a relaxed state or an effortless situation, not a task's difficulty level #card
 ほんやく: 楽（らく）
+過去形: —
+否定形: —
+副詞形: —
+そう (looks): 楽そう
+お/ご (honorific): お楽（らく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1744994110223-->
 
@@ -489,7 +496,7 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1744994110225-->
 
- western music #card
+ western music | refers to Western (non-Japanese) music genres #card
 ほんやく: 洋楽（ようがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
@@ -504,7 +511,7 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <!--ID: 1744994110229-->
 
  know the culture #card
-ほんやく: 文化を知る（びんか、しる）
+ほんやく: 文化を知る（ぶんか、しる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_化.html">化</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
@@ -518,19 +525,19 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110232-->
 
- i know yamada #card
+ I know Yamada #card
 ほんやく: 山田さんを知っている（し）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110234-->
 
- notification #card
+ notification | the noun for an announcement or notice, often official #card
 ほんやく: 知らせ(し) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110236-->
 
- The notification come from the school #card
+ The notification came from the school #card
 ほんやく: 学校からお知らせが来ました（し、き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
@@ -538,7 +545,7 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1744994110238-->
 
- Do you know the classrom for the exam? #card
+ Do you know the classroom for the exam? #card
 ほんやく: 試験の教室を知っていますか（しけん、きょうしつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_験.html">験</a>
@@ -547,20 +554,21 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110240-->
 
- acquaintance/znajomy #card
+ acquaintance | refers to someone one knows but isn't especially close with #card
 ほんやく: 知人（ちじん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1744994110241-->
 
- prediction #card
+ prediction | a formal/technical word for foreseeing or predicting something #card
 ほんやく: 予知（よち）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_予.html">予</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1744994110243-->
 
- song #card
+ song | the standard word for a song #card
 ほんやく: 歌（うた）
+お/ご (honorific): お歌（うた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1744994110246-->
 
@@ -569,7 +577,7 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1744994110247-->
 
- sister often sing a songs #card
+ My sister often sings songs #card
 ほんやく: 姉はよく歌を歌っています（あね、うた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
@@ -582,13 +590,13 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1744994110251-->
 
- school song #card
+ school song | refers to an official anthem/song representing a school #card
 ほんやく: 校歌（こうか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1744994110253-->
 
- waka (japanese poetry) #card
+ waka (Japanese poetry) | a classical Japanese poetic form #card
 ほんやく: 和歌（わか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_和.html">和</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
@@ -606,20 +614,20 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 <!--ID: 1744994110258-->
 
- movie #card
+ movie | the standard word for a movie #card
 ほんやく: 映画（えいが）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <!--ID: 1744994110261-->
 
- kono, mmovie theater #card
+ movie theater / cinema | refers to the building/venue for watching movies #card
 ほんやく: 映画館（えいがかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1744994110262-->
 
- I watch old movies on tv on my days off #card
+ I watch old movies on TV on my days off #card
 ほんやく: 休日にはテレビで古い映画を見ます（きゅうじつ、えいが）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -629,26 +637,26 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1744994110264-->
 
- hall #card
+ hall | refers to a hall or public building used for events/gatherings #card
 ほんやく: 会館（かいかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1744994110266-->
 
- library #card
+ library | the standard word for a public library #card
 ほんやく: 図書館(としょかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_図.html">図</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1744994110267-->
 
- main building #card
+ main building | refers to a building complex's primary/central building #card
 ほんやく: 本館（ほんかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <!--ID: 1744994110269-->
 
- Please come to the main  building of the uniwersity at 10 o'clock tommorow #card
+ Please come to the main building of the university at 10 o'clock tomorrow #card
 ほんやく: 明日１０時に大学の本館に来てください（ほんかん、き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -679,12 +687,12 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1744994110275-->
 
- night #card
+ night | the standard word for night #card
 ほんやく: 夜（よる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1744994110277-->
 
- I will study japanese at night at home #card
+ I will study Japanese at night at home #card
 ほんやく: 夜は家で日本語を勉強します 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
@@ -695,7 +703,7 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1744994110278-->
 
- I study for an university exam at night #card
+ I study for a university exam at night #card
 ほんやく: 夜は大学の試験勉強をします（しけんべんきょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
@@ -706,25 +714,25 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1744994110280-->
 
- night sky #card
+ night sky | refers specifically to the sky as seen at night #card
 ほんやく: 夜空（よぞら）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <!--ID: 1744994110282-->
 
- this night #card
+ tonight | refers specifically to this coming/current night #card
 ほんやく: 今夜（こんや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1744994110284-->
 
- day and night #card
+ day and night | a compound emphasizing continuity around the clock #card
 ほんやく: 昼夜（ちゅうや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1744994110286-->
 
- return to home #card
+ return home #card
 ほんやく: 家へ帰る（いえ、かえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
@@ -737,14 +745,15 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <!--ID: 1744994110290-->
 
- return to office #card
+ return to office | specifically refers to returning to one's own workplace #card
 ほんやく: 帰社（きしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1744994110292-->
 
- return to country #card
+ return to country | specifically refers to returning to one's home country #card
 ほんやく: 帰国（きこく）
+お/ご (honorific): ご帰国（きこく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1744994110294-->
@@ -764,7 +773,7 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <!--ID: 1744994110298-->
 
- Mr Lin will return to his country tommorow #card
+ Mr. Lin will return to his country tomorrow #card
 ほんやく: リンさんは明日帰国します（きこく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -772,14 +781,15 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1744994110300-->
 
- run #card  
+ to run (intransitive) | describes a person or animal running #card  
 ほんやく: 走る（はし）  
 て形: 走って
 た形: 走った
 ます形: 走ります
 出す形 (start): 走り出す
 そう (looks): 走りそう
-お〜になる (honorific): お走りになる
+お〜になる/special verb (honorific):お走りになる
+謙譲語 (humble): お走りいたす／お走りします
 ない形: 走らない
 なかった形: 走らなかった
 あれる形 (passive/honorific): 走られる
@@ -790,14 +800,15 @@ Put a **lid** (亠) over the **evening** (夕), and you get complete **darkness*
 命令形 (imperative): 走れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 
-walk #card  
+to walk (intransitive) | describes walking on foot #card  
 ほんやく: 歩く（ある）  
 て形: 歩いて
 た形: 歩いた
 ます形: 歩きます
 出す形 (start): 歩き出す
 そう (looks): 歩きそう
-お〜になる (honorific): お歩きになる
+お〜になる/special verb (honorific):お歩きになる
+謙譲語 (humble): お歩きいたす／お歩きします
 ない形: 歩かない
 なかった形: 歩かなかった
 あれる形 (passive/honorific): 歩かれる
@@ -808,14 +819,15 @@ walk #card
 命令形 (imperative): 歩け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 
-enjoy/cieszyć się #card  
+to enjoy (transitive) | describes actively enjoying an activity or experience #card  
 ほんやく: 楽しむ（たのしむ）  
 て形: 楽しんで
 た形: 楽しんだ
 ます形: 楽しみます
 出す形 (start): 楽しみ出す
 そう (looks): 楽しみそう
-お〜になる (honorific): お楽しみになる
+お〜になる/special verb (honorific):お楽しみになる
+謙譲語 (humble): お楽しみいたす／お楽しみします
 ない形: 楽しまない
 なかった形: 楽しまなかった
 あれる形 (passive/honorific): 楽しまれる
@@ -826,14 +838,15 @@ enjoy/cieszyć się #card
 命令形 (imperative): 楽しめ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 
-to notify #card  
+to notify | describes informing someone of something, e.g. contact information or news #card  
 ほんやく: 知らせる（し）  
 て形: 知らせて
 た形: 知らせた
 ます形: 知らせます
 出す形 (start): 知らせ出す
 そう (looks): 知らせそう
-お〜になる (honorific): お知らせになる
+お〜になる/special verb (honorific):お知らせになる
+謙譲語 (humble): お知らせいたす／お知らせします
 ない形: 知らせない
 なかった形: 知らせなかった
 あれる形 (passive/honorific): 知らせられる
@@ -844,14 +857,15 @@ to notify #card
 命令形 (imperative): 知らせろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 
-sing #card  
+to sing (transitive) | the standard word for singing a song #card  
 ほんやく: 歌う（うた）  
 て形: 歌って
 た形: 歌った
 ます形: 歌います
 出す形 (start): 歌い出す
 そう (looks): 歌いそう
-お〜になる (honorific): お歌いになる
+お〜になる/special verb (honorific):お歌いになる
+謙譲語 (humble): お歌いいたす／お歌いします
 ない形: 歌わない
 なかった形: 歌わなかった
 あれる形 (passive/honorific): 歌われる
@@ -862,14 +876,15 @@ sing #card
 命令形 (imperative): 歌え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 
-be reflected(odbijać się)/be projected #card  
+to be reflected / to be projected | describes an image appearing on a screen or reflective surface, e.g. appearing on TV #card  
 ほんやく: 映る（うつ）  
 て形: 映って
 た形: 映った
 ます形: 映ります
 出す形 (start): 映り出す
 そう (looks): 映りそう
-お〜になる (honorific): お映りになる
+お〜になる/special verb (honorific):お映りになる
+謙譲語 (humble): お映りいたす／お映りします
 ない形: 映らない
 なかった形: 映らなかった
 あれる形 (passive/honorific): 映られる
@@ -880,14 +895,15 @@ be reflected(odbijać się)/be projected #card
 命令形 (imperative): 映れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 
-return #card  
+to return (intransitive) | the standard word for returning/going home #card  
 ほんやく: 帰る（かえ）  
 て形: 帰って
 た形: 帰った
 ます形: 帰ります
 出す形 (start): 帰り出す
 そう (looks): 帰りそう
-お〜になる (honorific): お帰りになる
+お〜になる/special verb (honorific):お帰りになる
+謙譲語 (humble): お帰りいたす／お帰りします
 ない形: 帰らない
 なかった形: 帰らなかった
 あれる形 (passive/honorific): 帰られる
@@ -898,7 +914,7 @@ return #card
 命令形 (imperative): 帰れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 
-near #card  
+near | the standard い-adjective for physical/temporal closeness #card  
 ほんやく: 近い（ちか）  
 過去形: 近かった
 否定形: 近くない
@@ -906,7 +922,7 @@ near #card
 そう (looks): 近そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 
-enjoyable/przyjemny, miły/fun #card  
+enjoyable / fun | describes an activity or experience as fun/pleasant #card  
 ほんやく: 楽しい（たの）  
 過去形: 楽しかった
 否定形: 楽しくない

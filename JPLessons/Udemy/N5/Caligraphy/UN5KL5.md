@@ -156,7 +156,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 
  Rzeczowniki:
 
- today, moon is very beautiful  #card
+ The moon is very beautiful today #card
 ほんやく: 今日は月がとてもきれいです 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -164,20 +164,20 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 <!--ID: 1762954532373-->
 
 
- moon #card
+ moon | this same kanji is also used for "month" in date contexts #card
 ほんやく: 月（つき) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1762954532377-->
 
 
- A fire is red #k #card
+ Fire is red #k #card
 ほんやく: 火は赤い（ひ、あか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
 <!--ID: 1762954532379-->
 
 
- tuesdat #k #card
+ Tuesday #k #card
 ほんやく: 火曜日（かようび）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -185,7 +185,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 <!--ID: 1762954532381-->
 
 
- volcano #k #card
+ volcano | a mountain that erupts with lava, ash, and gas #k #card
 ほんやく: 火山（かざん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
@@ -202,21 +202,21 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 
 ゴミを燃やす(も）。→ Spalam śmieci. 
 
- ogien zgasl #k #card
+ The fire went out | ogień zgasł #k #card
 ほんやく: 火が消えた（ひがきえた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 <!--ID: 1762954532390-->
 
 
- Ogień zgasł. #k #card
+ The fire went out. | Ogień zgasł. #k #card
 ほんやく: 火が消えた（ひ、き）。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 <!--ID: 1762954532392-->
 
 
- Światło zgasło. #k #card
+ The light went out. | Światło zgasło. #k #card
 ほんやく: 電気が消えた (でんき、き)。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
@@ -224,29 +224,29 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 <!--ID: 1762954532395-->
 
 
- Śnieg stopniał (dosł. zniknął). #k #card
+ The snow melted (lit. "disappeared"). | Śnieg stopniał (dosł. zniknął). #k #card
 ほんやく: 雪が消えた（ゆき、き） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雪.html">雪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 <!--ID: 1762954532398-->
 
 
-  Zgasić ogień. #card
+  To put out the fire. | Zgasić ogień. #card
 ほんやく: 火を消す(ひ、け） 。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 <!--ID: 1762954532400-->
 
 
- river water #k  #card
+ river water | water from a river #k #card
 ほんやく: 川の水（かわ、みず) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_川.html">川</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
 <!--ID: 1762954532403-->
 
 
- wednesday #k  #card
-ほんやく: 水曜日 
+ Wednesday #k #card
+ほんやく: 水曜日（すいようび） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -260,7 +260,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 <!--ID: 1762954532410-->
 
 
- money #k  #card
+ money | the general everyday word for money #k #card
 ほんやく: お金（かね）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1762954532413-->
@@ -274,14 +274,14 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 <!--ID: 1762954532416-->
 
 
- on the ground #k #card
+ on the ground | describes being situated on soil/earth #k #card
 ほんやく: 土の上（つち、うえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_土.html">土</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1762954532419-->
 
 
- saturday #k #card
+ Saturday #k #card
 ほんやく: 土曜日（どようび）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_土.html">土</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -289,42 +289,42 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 <!--ID: 1762954532421-->
 
 
- land (General everyday word.) #card
+ land | the general everyday word for land/ground #card
 ほんやく: 土地（とち）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_土.html">土</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_地.html">地</a>
 <!--ID: 1762954532424-->
 
 
- nazwa na japonska flagę/ koło słońca  #k  #card
-ほんやく: 日の丸（ま）
+ the Rising Sun (the sun disc symbol on Japan's flag) | nazwa na japońską flagę / koło słońca #k #card
+ほんやく: 日の丸（ひのまる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丸.html">丸</a>
 <!--ID: 1762954532427-->
 
 
- holiday #k #card
+ holiday | a day off from work/school #k #card
 ほんやく: 休日（きゅうじつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1762954532429-->
 
 
- go ahead/go early #k #card
+ go ahead / go early | to go somewhere before others, or earlier than planned #k #card
 ほんやく: 先に行く（さきにいく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1762954532432-->
 
 
-  the last day (not yesterday) #k #card
+  the other day, recently (an unspecified day in the recent past, not "yesterday") #k #card
 ほんやく: 先日（せんじつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1762954532435-->
 
 
- puppy was born #card
+ A puppy is born #card
 ほんやく: 子犬が生まれる（こいぬ,う）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
@@ -332,15 +332,16 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 <!--ID: 1762954532437-->
 
 
- teacher #k #card
+ teacher | also used as a respectful address term for teachers, doctors, and other professionals #k #card
 ほんやく: 先生（せんせい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <!--ID: 1762954532440-->
 
 
-  life #k #card
+  life | refers to daily life/livelihood, distinct from the word for one's whole life journey #k #card
 ほんやく: 生活（せいかつ) 
+お/ご (honorific): ご生活(せいかつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_活.html">活</a>
 <!--ID: 1762954532442-->
@@ -354,7 +355,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 <!--ID: 1762954532447-->
 
 
- to learn japanese in shool (academic style) #card
+ to learn Japanese in school (academic style) #card
 ほんやく: 学校で日本語を学ぶ（がっこう、まな) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
@@ -364,21 +365,22 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 <!--ID: 1762954532451-->
 
 
- studying abroad #k #card
+ studying abroad | refers specifically to studying in a foreign country #k #card
 ほんやく: 留学（りゅうがく）
+お/ご (honorific): ご留学(りゅうがく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1762954532453-->
 
 
- principal of the school #k #card
+ principal of the school | the head/principal of a school #k #card
 ほんやく: 校長 (こうちょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1762954532457-->
 
 
- primmary school #k #card
+ primary school | elementary school for young children #k #card
 ほんやく: 小学校（しょうがっこう） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_小.html">小</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -386,35 +388,37 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 <!--ID: 1762954532460-->
 
 
- #k szkola macierzysta (do ktorej ktos uczeszczal) #card
+ one's alma mater | szkoła macierzysta (school one used to attend) #k #card
 ほんやく: 母校（ぼこう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
 <!--ID: 1762954532462-->
 
 
- mr honda #k #card
+ Mr. Honda #k #card
 ほんやく: 本田さん 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1762954532465-->
 
 
- friend, znajomy, kolega #k #card
+ friend | znajomy, kolega — the general, everyday word for a friend #k #card
 ほんやく: 友達（ともだち）
+お/ご (honorific): お友達(ともだち)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
 <!--ID: 1762954532467-->
 
 
- przyjaciel, formalny styl #k  #card
+ friend (formal/written register) | przyjaciel, formalny styl #k #card
 ほんやく: 友人（ゆうじん）
+お/ご (honorific): ご友人(ゆうじん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1762954532471-->
 
 
- #k best firend #card
+ best friend #k #card
 ほんやく: 親友（しんゆう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
@@ -425,14 +429,15 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL5-days-kanji-used-in-schoool
 
  Czasowniki:
 
-płonąć samo #wc #card
+to burn (intransitive - happens on its own) | płonąć samo #wc #card
 ほんやく: 燃える（も）  
 て形: もえて
 た形: もえた
 ます形: もえます
 出す形 (start): もえ出す
 そう (looks): もえそう
-お〜になる (honorific): お燃えになる
+お〜になる/special verb (honorific):お燃えになる
+謙譲語 (humble): お燃えいたす／お燃えします
 ない形: もえない
 なかった形: もえなかった
 あれる形 (passive/honorific): もえられる
@@ -445,14 +450,15 @@ płonąć samo #wc #card
 <!--ID: 1762954532479-->
 
 
-spalać coś (ktoś) #wc #card
+to burn something (transitive - someone burns it) | spalać coś (ktoś) #wc #card
 ほんやく: 燃やす（も）  
 て形: もやして
 た形: もやした
 ます形: もやします
 出す形 (start): もやし出す
 そう (looks): もやしそう
-お〜になる (honorific): お燃やしになる
+お〜になる/special verb (honorific):お燃やしになる
+謙譲語 (humble): お燃やしいたす／お燃やしします
 ない形: もやさない
 なかった形: もやさなかった
 あれる形 (passive/honorific): もやされる
@@ -465,14 +471,15 @@ spalać coś (ktoś) #wc #card
 <!--ID: 1762954532483-->
 
 
-zgasnąć, zniknąć, wyłączyć się (samo) #wc #card
+to go out, to disappear, to turn off (intransitive - happens on its own) | zgasnąć, zniknąć, wyłączyć się (samo) #wc #card
 ほんやく: 消える（きえ）  
 て形: きえて
 た形: きえた
 ます形: きえます
 出す形 (start): きえ出す
 そう (looks): きえそう
-お〜になる (honorific): お消えになる
+お〜になる/special verb (honorific):お消えになる
+謙譲語 (humble): お消えいたす／お消えします
 ない形: きえない
 なかった形: きえなかった
 あれる形 (passive/honorific): きえられる
@@ -485,14 +492,15 @@ zgasnąć, zniknąć, wyłączyć się (samo) #wc #card
 <!--ID: 1762954532486-->
 
 
-zgasić, wyłączyć (ktoś) #wc #card
+to turn off, to extinguish (transitive - someone does it) | zgasić, wyłączyć (ktoś) #wc #card
 ほんやく: 消す（けす）  
 て形: けして
 た形: けした
 ます形: けします
 出す形 (start): けし出す
 そう (looks): けしそう
-お〜になる (honorific): お消しになる
+お〜になる/special verb (honorific):お消しになる
+謙譲語 (humble): お消しいたす／お消しします
 ない形: けさない
 なかった形: けさなかった
 あれる形 (passive/honorific): けされる
@@ -512,7 +520,8 @@ to be born #k #wc #card
 ます形: うまれます
 出す形 (start): うまれ出す
 そう (looks): うまれそう
-お〜になる (honorific): お生まれになる
+お〜になる/special verb (honorific):お生まれになる
+謙譲語 (humble): お生まれいたす／お生まれします
 ない形: うまれない
 なかった形: うまれなかった
 あれる形 (passive/honorific): うまれられる
@@ -532,7 +541,8 @@ to live #k #wc #card
 ます形: いきます
 出す形 (start): いき出す
 そう (looks): いきそう
-お〜になる (honorific): お生きになる
+お〜になる/special verb (honorific):お生きになる
+謙譲語 (humble): お生きいたす／お生きします
 ない形: いきない
 なかった形: いきなかった
 あれる形 (passive/honorific): いきられる
@@ -552,7 +562,8 @@ to learn (akademicki ton, np. kierunki studiów) #k #wc #card
 ます形: まなびます
 出す形 (start): まなび出す
 そう (looks): まなびそう
-お〜になる (honorific): お学びになる
+お〜になる/special verb (honorific):お学びになる
+謙譲語 (humble): お学びいたす／お学びします
 ない形: まなばない
 なかった形: まなばなかった
 あれる形 (passive/honorific): まなばれる

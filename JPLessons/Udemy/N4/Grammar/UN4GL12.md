@@ -380,7 +380,7 @@ Comparison
 
 
 I was told by my CEO "work hard, Don't goof around" #k #card
-社長（しゃちょう）に「ちゃんと仕事（しごと）をしる！遊ぶな（あそ）！」と言われました（い）
+社長（しゃちょう）に「ちゃんと仕事（しごと）をしろ！遊ぶな（あそ）！」と言われました（い）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
@@ -424,7 +424,7 @@ Understand how to use "のに" #k #card
 <!--ID: 1783522687577-->
 
 
-imperative form #card
+imperative form | the plain, forceful command form used for orders, signs, emergencies, and sports cheering — too blunt for superiors or polite requests #card
 命令形(めいれいけい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_命.html">命</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_令.html">令</a>
@@ -432,14 +432,15 @@ imperative form #card
 <!--ID: 1783522687578-->
 
 
-instruction / to instruct + verb #card
+instruction / to instruct + verb | to give a specific directive on what to do, more neutral/businesslike than 命令(めいれい) (order/command) #card
 指示(しじ)(する)
+お/ご (honorific): ご指示(しじ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_指.html">指</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_示.html">示</a>
 <!--ID: 1783522687579-->
 
 
-sightseeing / to go sightseeing + verb (focused on watching something like festival, castle) #k #card
+sightseeing / to go sightseeing + verb | focused on watching a specific event or spot (a festival, a castle), narrower than 観光(かんこう) (general tourism) #k #card
 見物(けんぶつ)(する)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -473,7 +474,7 @@ to go sightseeing at a museum #k #card
 <!--ID: 1783522687583-->
 
 
-museum #k #card
+museum | history/science/general exhibits — for a fine-art museum use 美術館(びじゅつかん) instead #k #card
 博物館(はくぶつかん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_博.html">博</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -481,8 +482,9 @@ museum #k #card
 <!--ID: 1783522687584-->
 
 
-sightseeing / to travel + verb (as tourism in general) #card
+sightseeing / to travel + verb | tourism in general, broader than 見物(けんぶつ) which focuses on viewing one specific thing #card
 観光(かんこう)(する)
+お/ご (honorific): ご観光(かんこう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_観.html">観</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_光.html">光</a>
 <!--ID: 1783522687585-->
@@ -511,13 +513,13 @@ Africa #card
 <!--ID: 1783522687589-->
 
 
-ramen shop #k #card
+ramen shop | with suffix meaning "shop/store," attached after the type of goods sold #k #card
 ラーメン屋(や)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1783522687590-->
 
 
-despite a great effort/went through the trouble to put effort #card
+despite a great effort/went through the trouble to put effort | an adverb marking that effort was put in, usually followed by のに or ても to show the effort was wasted or unappreciated #card
 せっかく
 <!--ID: 1783522687591-->
 
@@ -540,23 +542,23 @@ I'm sorry I can't go even though you went through the trouble of inviting me to 
 <!--ID: 1783522687593-->
 
 
-despite going through the trouble of ~ #card
+despite going through the trouble of ~ | pairs with a completed, specific action whose result disappoints; compare せっかく〜ても below #card
 せっかく〜のに
 <!--ID: 1783522687594-->
 
 
-even though ~ (effort was wasted) #card
+even though ~ (effort was wasted) | more general/hypothetical than せっかく〜のに, can pair with any concessive clause, not just one specific completed event #card
 せっかく〜ても
 <!--ID: 1783522687595-->
 
 
-of course / surely (confirms or agrees with something, often a reaction, not that something certainly will happen) #card
+of course / surely | confirms or agrees with something as a reaction, doesn't guarantee something certainly will happen #card
 確(たし)かに
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_確.html">確</a>
 <!--ID: 1783522687596-->
 
 
-A: I think it will be fine to let Yamada-san be in charge of this project. B: Indeed/surely . He is reliable. #k #card
+A: I think it will be fine to let Yamada-san be in charge of this project. B: Indeed/surely. He is reliable. #k #card
 A: このプロジェクトを山田(やまだ)さんに担当(たんとう)させて、大丈夫(だいじょうぶ)だと思(おも)う。B: 確(たし)かに。彼(かれ)はしっかりしています。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -571,12 +573,12 @@ A: このプロジェクトを山田(やまだ)さんに担当(たんとう)さ�
 <!--ID: 1783522687597-->
 
 
-firmly / properly / reliably #card
+firmly / properly / reliably | describes being dependable, steady, or doing something with focus/care #card
 しっかり
 <!--ID: 1783522687598-->
 
 
-rare #card
+rare | unusual/uncommon, often said with a nuance of interest or surprise, distinct from 少(すく)ない (few in quantity) #card
 ほんやく: 珍(めずら)しい
 過去形: 珍しかった
 否定形: 珍しくない
@@ -586,28 +588,29 @@ rare #card
 <!--ID: 1783522687599-->
 
 
-shy / embarrassed #card
+shy / embarrassed | describes feeling embarrassed, self-conscious, or bashful in a situation #card
 ほんやく: 恥(は)ずかしい
 過去形: 恥ずかしかった
 否定形: 恥ずかしくない
 副詞形: 恥ずかしく
 そう (looks): 恥ずかしそう
+お/ご (honorific): お恥(は)ずかしい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_恥.html">恥</a>
 <!--ID: 1783522687600-->
 
 
-for the first time in a while #card
+for the first time in a while | used when resuming something or meeting someone after a long gap #card
 ひさしぶりに
 <!--ID: 1783522687601-->
 
 
-the other day / recently (Refers to a past event that happened days or weeks ago, not just now) #k #card
+the other day / recently | refers to a past event days or weeks ago, not just now #k #card
 この間(あいだ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1783522687602-->
 
 
-last Sunday / the other Sunday (refers to a recent Sunday that both speaker and listener have in mind, feels personal/conversational, not precise) #k #card
+last Sunday / the other Sunday | a recent Sunday both speaker and listener have in mind; personal/conversational, not a precise date #k #card
 この間(あいだ)の日曜日(にちようび)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -624,7 +627,7 @@ the movie I saw the other day #k #card
 <!--ID: 1783522687604-->
 
 
-many (people, emphasizes crowd) #k #card
+many (people, emphasizes crowd) | used specifically for a large number of people, unlike たくさん which works for anything #k #card
 大勢(おおぜい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勢.html">勢</a>
@@ -649,14 +652,15 @@ A large crowd of people has gathered. #k #card
 <!--ID: 1783522687607-->
 
 
-to line up (intransitive) (ustawiać się w kolejce / stać w kolejce / układać się w rządku) #card
+to line up (intransitive) (ustawiać się w kolejce / stać w kolejce / układać się w rządku) | describes people/things forming a line by themselves #card
 ほんやく: 並(なら)ぶ
 て形: 並んで
 た形: 並んだ
 ます形: 並びます
 出す形 (start): 並び出す
 そう (looks): 並びそう
-お〜になる (honorific): お並びになる
+お〜になる/special verb (honorific):お並びになる
+謙譲語 (humble): お並びいたす／お並びします
 ない形: 並ばない
 なかった形: 並ばなかった
 あれる形 (passive/honorific): 並ばれる
@@ -669,14 +673,15 @@ to line up (intransitive) (ustawiać się w kolejce / stać w kolejce / układa�
 <!--ID: 1783522687608-->
 
 
-to line up (transitive) (ustawiać cos w kolejce ) #card
+to line up (transitive) (ustawiać cos w kolejce ) | to arrange things into a line/order #card
 ほんやく: 並(なら)べる
 て形: 並べて
 た形: 並べた
 ます形: 並べます
 出す形 (start): 並べ出す
 そう (looks): 並べそう
-お〜になる (honorific): お並べになる
+お〜になる/special verb (honorific):お並べになる
+謙譲語 (humble): お並べいたす／お並べします
 ない形: 並べない
 なかった形: 並べなかった
 あれる形 (passive/honorific): 並べられる
@@ -689,8 +694,9 @@ to line up (transitive) (ustawiać cos w kolejce ) #card
 <!--ID: 1783522687609-->
 
 
-preparation / to prepare + verb (personal preparation, getting ready) #k #card
+preparation / to prepare + verb | personal preparation, getting ready (dressing, packing); more general is 準備(じゅんび)する #k #card
 支度(したく)(する)
+お/ご (honorific): お支度(したく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_支.html">支</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
 <!--ID: 1783522687610-->
@@ -722,7 +728,7 @@ Let's get ready and go out. #k #card
 <!--ID: 1783522687613-->
 
 
-small (as na adjective, sounds a little softer) #k #card
+small (as na adjective, sounds a little softer) | attributive-only form used right before a noun, gentler/more affectionate in nuance than plain い #k #card
 ほんやく: 小(ちい)さな + N
 過去形: —
 否定形: —
@@ -732,7 +738,7 @@ small (as na adjective, sounds a little softer) #k #card
 <!--ID: 1783522687614-->
 
 
-big (as na adjective, sounds little softer) #k #card
+big (as na adjective, sounds little softer) | attributive-only form used right before a noun, can sound softer or more emotionally colored than plain い #k #card
 ほんやく: 大(おお)きな + N
 過去形: —
 否定形: —
@@ -784,21 +790,21 @@ necktie #card
 <!--ID: 1783522687621-->
 
 
-Japanese style room #k #card
+Japanese style room | a tatami-mat room #k #card
 和室(わしつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_和.html">和</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
 <!--ID: 1783522687622-->
 
 
-Western style room #k #card
+Western style room | a room with flooring and furniture in Western style #k #card
 洋室(ようしつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洋.html">洋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
 <!--ID: 1783522687623-->
 
 
-Japanese style inn #k #card
+Japanese style inn | traditional lodging with tatami rooms and often communal baths, distinct from a Western-style ホテル (hotel) #k #card
 旅館(りょかん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
@@ -810,14 +816,15 @@ escalator #card
 <!--ID: 1783522687625-->
 
 
-to advance (intransitive) #card
+to advance (intransitive) | to move forward or make progress on its own;  #card
 ほんやく: 進(すす)む
 て形: 進んで
 た形: 進んだ
 ます形: 進みます
 出す形 (start): 進み出す
 そう (looks): 進みそう
-お〜になる (honorific): お進みになる
+お〜になる/special verb (honorific):お進みになる
+謙譲語 (humble): お進みいたす／お進みします
 ない形: 進まない
 なかった形: 進まなかった
 あれる形 (passive/honorific): 進まれる
@@ -830,14 +837,15 @@ to advance (intransitive) #card
 <!--ID: 1783522687626-->
 
 
-be careful, aware of / warning / to warn + verb #k #card
+be careful, aware of / warning / to warn + verb | to be careful or to caution someone, more formal/direct than the casual Xをつける #k #card
 注意(ちゅうい)(する)
+お/ご (honorific): ご注意(ちゅうい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <!--ID: 1783522687627-->
 
 
-Please be careful. / Caution. #k #card
+Please be careful. / Caution. | formal/written phrasing typically seen on signs and announcements #k #card
 ご注意(ちゅうい)ください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
@@ -883,14 +891,15 @@ Please be careful so that the glass doesn't break. #k #card
 <!--ID: 1783522687633-->
 
 
-to run away (intransitive) #card
+to run away (intransitive) | to flee or escape under one's own power; #card
 ほんやく: 逃(に)げる
 て形: 逃げて
 た形: 逃げた
 ます形: 逃げます
 出す形 (start): 逃げ出す
 そう (looks): 逃げそう
-お〜になる (honorific): お逃げになる
+お〜になる/special verb (honorific):お逃げになる
+謙譲語 (humble): お逃げいたす／お逃げします
 ない形: 逃げない
 なかった形: 逃げなかった
 あれる形 (passive/honorific): 逃げられる
@@ -903,21 +912,23 @@ to run away (intransitive) #card
 <!--ID: 1783522687634-->
 
 
-worry / to worry + verb #k #card
+worry / to worry + verb | concern for someone or something's wellbeing/outcome, often relational (worrying about a person) #k #card
 心配(しんぱい)(する)
+お/ご (honorific): ご心配(しんぱい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_配.html">配</a>
 <!--ID: 1783522687635-->
 
 
-to continue (intransitive) #card
+to continue (intransitive) | describes something continuing by itself; #card
 ほんやく: 続(つづ)く
 て形: 続いて
 た形: 続いた
 ます形: 続きます
 出す形 (start): 続き出す
 そう (looks): 続きそう
-お〜になる (honorific): お続きになる
+お〜になる/special verb (honorific):お続きになる
+謙譲語 (humble): お続きいたす／お続きします
 ない形: 続かない
 なかった形: 続かなかった
 あれる形 (passive/honorific): 続かれる
@@ -930,14 +941,15 @@ to continue (intransitive) #card
 <!--ID: 1783522687636-->
 
 
-to continue (transitive) #card
+to continue (transitive) | to keep doing something deliberately; #card
 ほんやく: 続(つづ)ける
 て形: 続けて
 た形: 続けた
 ます形: 続けます
 出す形 (start): 続け出す
 そう (looks): 続けそう
-お〜になる (honorific): お続けになる
+お〜になる/special verb (honorific):お続けになる
+謙譲語 (humble): お続けいたす／お続けします
 ない形: 続けない
 なかった形: 続けなかった
 あれる形 (passive/honorific): 続けられる
@@ -950,21 +962,22 @@ to continue (transitive) #card
 <!--ID: 1783522687637-->
 
 
-lodging / to lodge + verb (renting a room in someone's private house) #k #card
+lodging / to lodge + verb | renting a room in someone's private house or a boarding house, typically for students #k #card
 下宿(げしゅく)(する)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_宿.html">宿</a>
 <!--ID: 1783522687638-->
 
 
-to compare (transitive) #card
+to compare (transitive) | to compare two things, typically used with と or に marking what's being compared against #card
 ほんやく: 比(くら)べる
 て形: 比べて
 た形: 比べた
 ます形: 比べます
 出す形 (start): 比べ出す
 そう (looks): 比べそう
-お〜になる (honorific): お比べになる
+お〜になる/special verb (honorific):お比べになる
+謙譲語 (humble): お比べいたす／お比べします
 ない形: 比べない
 なかった形: 比べなかった
 あれる形 (passive/honorific): 比べられる
@@ -977,22 +990,22 @@ to compare (transitive) #card
 <!--ID: 1783522687639-->
 
 
-as ... as possible (structure) #card
+as ... as possible (structure) | neutral, straightforward request to do as much as one is able; compare なるべく, a slightly softer version #card
 できるだけ + adj/adv
 <!--ID: 1783522687640-->
 
 
-if possible (alone) #card
+if possible (alone) | neutral "as much as possible," slightly more direct than なるべく #card
 できるだけ
 <!--ID: 1783522687641-->
 
 
-as ... as possible (Slightly softer request, implies "if circumstances) + structure #card
+as ... as possible (structure) | slightly softer request than できるだけ, implies "if circumstances allow" #card
 なるべく + adj/adv
 <!--ID: 1783522687642-->
 
 
-if possible (Slightly softer request, implies "if circumstances) #card
+if possible | slightly softer request than できるだけ, implies "if circumstances allow" #card
 なるべく
 <!--ID: 1783522687643-->
 
@@ -1011,7 +1024,7 @@ If possible, a Japanese style room would be better. #k #card
 <!--ID: 1783522687645-->
 
 
-good / ok (formal form of いい) #card
+good / ok (formal form of いい) | polite/formal register used in business or service settings, e.g. asking permission or approving something #card
 ほんやく: よろしい
 過去形: よろしかった
 否定形: よろしくない
@@ -1028,28 +1041,30 @@ That answer is very good. #k #card
 <!--ID: 1783522687647-->
 
 
-if you have time / if it is convenient for you (invitation #card
+if you have time / if it is convenient for you (invitation) #card
 ご都合(つごう)がよろしければ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1783522687648-->
 
 
-convenience/circumstances #card
+convenience/circumstances | one's schedule, availability, or personal circumstances; often used to politely ask if a time works #card
 都合 (つごう)
+お/ご (honorific): ご都合(つごう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1783522687649-->
 
 
-to take (picture) (transitive) #k #card
+to take (picture) (transitive) | the common everyday word for taking a photo is 撮(と)る; #k #card
 ほんやく: 写(うつ)す
 て形: 写して
 た形: 写した
 ます形: 写します
 出す形 (start): 写し出す
 そう (looks): 写しそう
-お〜になる (honorific): お写しになる
+お〜になる/special verb (honorific):お写しになる
+謙譲語 (humble): お写しいたす／お写しします
 ない形: 写さない
 なかった形: 写さなかった
 あれる形 (passive/honorific): 写される
@@ -1062,14 +1077,15 @@ to take (picture) (transitive) #k #card
 <!--ID: 1783522687650-->
 
 
-to be shown/projected (intransitive) #k #card
+to be shown/projected (intransitive) | for a person/thing to appear in a photo or on a screen; #k #card
 ほんやく: 写(うつ)る
 て形: 写って
 た形: 写った
 ます形: 写ります
 出す形 (start): 写り出す
 そう (looks): 写りそう
-お〜になる (honorific): お写りになる
+お〜になる/special verb (honorific):お写りになる
+謙譲語 (humble): お写りいたす／お写りします
 ない形: 写らない
 なかった形: 写らなかった
 あれる形 (passive/honorific): 写られる
@@ -1096,14 +1112,15 @@ a person shown/projected in the camera / a person being photographed #k #card
 <!--ID: 1783522687653-->
 
 
-to move / to transfer (location or status) (transitive) #card
+to move / to transfer (location or status) (transitive) | to relocate or transfer something (an object, a status); #card
 ほんやく: 移(うつ)す
 て形: 移して
 た形: 移した
 ます形: 移します
 出す形 (start): 移し出す
 そう (looks): 移しそう
-お〜になる (honorific): お移しになる
+お〜になる/special verb (honorific):お移しになる
+謙譲語 (humble): お移しいたす／お移しします
 ない形: 移さない
 なかった形: 移さなかった
 あれる形 (passive/honorific): 移される
@@ -1116,14 +1133,15 @@ to move / to transfer (location or status) (transitive) #card
 <!--ID: 1783522687654-->
 
 
-to move / to transfer (intransitive)(location or status) #card
+to move / to transfer (intransitive)(location or status) | for something (a place, time, status) to shift or change on its own; #card
 ほんやく: 移(うつ)る
 て形: 移って
 た形: 移った
 ます形: 移ります
 出す形 (start): 移り出す
 そう (looks): 移りそう
-お〜になる (honorific): お移りになる
+お〜になる/special verb (honorific):お移りになる
+謙譲語 (humble): お移りいたす／お移りします
 ない形: 移らない
 なかった形: 移らなかった
 あれる形 (passive/honorific): 移られる
@@ -1151,20 +1169,21 @@ time passes #k #card
 <!--ID: 1783522687657-->
 
 
-smell #card
+smell | usually a neutral or pleasant scent; a bad odor is typically 臭(くさ)い instead #card
 匂(にお)い
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_匂.html">匂</a>
 <!--ID: 1783522687658-->
 
 
-to recall (transitive) #k #card
+to recall (transitive) | for a memory to come back to mind; distinct from 覚(おぼ)える, to memorize/learn something new #k #card
 ほんやく: 思(おも)い出(だ)す
 て形: 思い出して
 た形: 思い出した
 ます形: 思い出します
 出す形 (start): 思い出し出す
 そう (looks): 思い出しそう
-お〜になる (honorific): お思い出しになる
+お〜になる/special verb (honorific):お思い出しになる
+謙譲語 (humble): お思い出しいたす／お思い出しします
 ない形: 思い出さない
 なかった形: 思い出さなかった
 あれる形 (passive/honorific): 思い出される
@@ -1178,7 +1197,7 @@ to recall (transitive) #k #card
 <!--ID: 1783522687659-->
 
 
-meaning / significance #k #card
+meaning / significance | the sense or definition of a word, action, or situation #k #card
 意味(いみ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
@@ -1213,21 +1232,22 @@ There is no point in continuing any further. #k #card
 <!--ID: 1783522687663-->
 
 
-more than / beyond / above / further #k #card
+more than / beyond / above / further | formal/written register meaning "or more" / "and beyond," more precise-sounding than もっと #k #card
 以上(いじょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_以.html">以</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1783522687664-->
 
 
-to do / to perform (transitive) #k #card
+to do / to perform (transitive) | formal, written-register word for holding/carrying out an event or action (a ceremony, a survey); more formal than plain する #k #card
 ほんやく: 行(おこな)う
 て形: 行って
 た形: 行った
 ます形: 行います
 出す形 (start): 行い出す
 そう (looks): 行いそう
-お〜になる (honorific): お行いになる
+お〜になる/special verb (honorific):お行いになる
+謙譲語 (humble): お行いいたす／お行いします
 ない形: 行わない
 なかった形: 行わなかった
 あれる形 (passive/honorific): 行われる
@@ -1242,6 +1262,7 @@ to do / to perform (transitive) #k #card
 
 vehicle (thing to drive) #k #card
 乗(の)り物(もの)
+お/ご (honorific): お乗(の)り物(もの)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_乗.html">乗</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1783522687666-->
@@ -1270,7 +1291,7 @@ wall #card
 <!--ID: 1783522687670-->
 
 
-rule #card
+rule | an official/formal regulation or rule, more formal than the loanword ルール #card
 規則(きそく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_規.html">規</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_則.html">則</a>
@@ -1283,21 +1304,23 @@ blood #card
 <!--ID: 1783522687672-->
 
 
-Japanese-style mattress #card
+Japanese-style mattress | the padded mattress/bedding laid on tatami, not the Western sofa-bed also called "futon" in English #card
 布団(ふとん)
+お/ご (honorific): お布団(ふとん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_布.html">布</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_団.html">団</a>
 <!--ID: 1783522687673-->
 
 
-to be happy / to rejoice (intransitive) #card
+to be happy / to rejoice (intransitive) | to show visible joy/delight at something; contrast 嬉(うれ)しい, the adjective for feeling happy #card
 ほんやく: 喜(よろこ)ぶ
 て形: 喜んで
 た形: 喜んだ
 ます形: 喜びます
 出す形 (start): 喜び出す
 そう (looks): 喜びそう
-お〜になる (honorific): お喜びになる
+お〜になる/special verb (honorific):お喜びになる
+謙譲語 (humble): お喜びいたす／お喜びします
 ない形: 喜ばない
 なかった形: 喜ばなかった
 あれる形 (passive/honorific): 喜ばれる
@@ -1310,11 +1333,13 @@ to be happy / to rejoice (intransitive) #card
 <!--ID: 1783522687674-->
 
 
-imperative form #card
-命令形（めいれいけい)
+imperative form | the plain, forceful command form used for orders, signs, emergencies, and sports cheering — too blunt for superiors or polite requests #card
+命令形(めいれいけい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_命.html">命</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_令.html">令</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_形.html">形</a>
+<!--ID: 1784791578512-->
+
 
 If you have time tomorrow, could you guide me? (polite) #k #card
 明日(あした)ご都合(つごう)がよろしければ、案内(あんない)してもらえませんか。
@@ -1327,7 +1352,7 @@ If you have time tomorrow, could you guide me? (polite) #k #card
 <!--ID: 1783522687675-->
 
 
-Yes, gladly/my pleasure. (when galdly accept smthing) #card
+Yes, gladly/my pleasure. (used when gladly accepting something) #card
 はい、喜(よろこ)んで。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_喜.html">喜</a>
 <!--ID: 1783522687676-->
@@ -1372,7 +1397,7 @@ If you are free tomorrow, come to my house. (imperative) #k #card
 <!--ID: 1783522687681-->
 
 
-The team needs you(you needed in team). Don't quit. #card
+This team needs you. Don't quit. #card
 このチームにあなたが必要(ひつよう)だ。やめるな。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_必.html">必</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_要.html">要</a>
@@ -1412,7 +1437,7 @@ Please answer the exercises. #k #card
 <!--ID: 1783522687685-->
 
 
-Don't watch TV, come eat. #k #card
+Don't watch TV, eat quickly. #k #card
 テレビを見(み)ないで、早(はや)く食(た)べなさい。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
@@ -1469,7 +1494,7 @@ Even though I just ate some food, I feel hungry again. #k #card
 <!--ID: 1783522687691-->
 
 
-There is always a good smell when I go by that restaurant. #k #card
+There is always a good smell when I go by that shop. #k #card
 あの店(みせ)の近(ちか)くを通(とお)ると、いつもいいにおいがしますね。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
@@ -1529,7 +1554,7 @@ I like dogs more than cats. #k #card
 <!--ID: 1783522687698-->
 
 
-compared to cats I like dogs more #k #card
+Compared to cats, I like dogs more. #k #card
 わたしは猫(ねこ)と比(くら)べて犬(いぬ)のほうが好(す)きです。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_猫.html">猫</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_比.html">比</a>
@@ -1538,7 +1563,7 @@ compared to cats I like dogs more #k #card
 <!--ID: 1783522687699-->
 
 
-If you go to Kyoto, Compared to planes I think the bullet train is more convenient #k #card
+If you go to Kyoto, compared to planes, I think the bullet train is more convenient. #k #card
 京都(きょうと)へ行(い)くなら、飛行機(ひこうき)と比(くら)べて、新幹線(しんかんせん)のほうが便利(べんり)だと思(おも)います。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
@@ -1616,7 +1641,7 @@ This means no photography. #k #card
 <!--ID: 1783522687706-->
 
 
-if (used to introduce a hypothetical condition, always paired with ば/たら/なら) #card
+if | signals a hypothetical condition is coming; always paired with ば/たら/なら #card
 もし
 <!--ID: 1783522687707-->
 

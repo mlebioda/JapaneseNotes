@@ -73,7 +73,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL13-Keigo
 
 
 #w 直接（ちょくせつ） - directly  
-#w 乗り場（のりば） - terminal  
+#w 乗り場（のりば） - terminal, boarding poin
 #w 係（かかり） - clerk
 
 
@@ -452,13 +452,13 @@ Structure:
 
 #### Examples
 
-#w 明日の飲(の)み会(かい)に行く場合(ばあい)は、私に連絡(れんらく)してください - If you decide to go to the drinking party tomorrow, please contact me (in case of)
+#w 明日の飲(の)み会(かい)に行く場合(ばあい)は、私に連絡(れんらく)してください - In case when you decide to go to the drinking party tomorrow, please contact me (in case of)
 
-#w 雨(あめ)が降(ふ)った場合(ばあい)は、イベントは中止(ちゅうし)します - If it rains the event will be cancelled (in case of)
+#w 雨(あめ)が降(ふ)った場合(ばあい)は、イベントは中止(ちゅうし)します - In case of rain the event will be cancelled (in case of)
 
 #w 明日忙(いそが)しい場合(ばあい)は、山田さんに手伝(てつだ)ってもらいます - (in case of) If tomorrow is busy, I will ask Mr.Yamada to help me
 
-#w 説明書(せつめいしょ)が必要(ひつよう)な場合(ばあい)は、この引(ひ)き出(だ)しの中(なか)を探(さが)してください - If you need the manual, please look for it in this drawer (in case of)
+#w 説明書(せつめいしょ)が必要(ひつよう)な場合(ばあい)は、この引(ひ)き出(だ)しの中(なか)を探(さが)してください - In case you need the manual, please look for it in this drawer (in case of)
 
 #w 子供(こども)の場合(ばあい)は、チケットは半額(はんがく)です - in case of children, tickets are half price  (in case of)
 
@@ -611,28 +611,20 @@ Negative - ほとんど + ない
 #w みんなに明日の集合(しゅうごう)時間(じかん)を知らせてください - I'll inform everyone of tomorrow's meeting time 
 
 
-
-
-# Summary
-
-
-# TODO
-
-- Fill templates:
-	- recognize sonkeigo, teineikei, kenjogo and not formal, add tag to cards where applicable
-	- if sentence mixes formal nouns with hrong level, suggest changes
-- Practice grammar
-	- each sentence should have categories like above. And be suggested to user what should use. Sentence should be adjusted to have correct forms like in sonkeigo even nouns should be in polite forms or type like shokuji, not gohan
-	- if examples from the topic has mixed forms, adjust them to sentence sound natural. 
-- ご・お - to n, adj,adv
-
 # Summary
 
  ---
 
 
-jeśli przyjedzie Pan/Pani pociągiem, proszę udać się do terminalu autobusowego przy zachodnim wyjściu. #sonkeigo #k #card
+In case you're coming by train, please come to the bus terminal at the west exit. #sonkeigo #k #card
 電車(でんしゃ)で来(こ)られる場合(ばあい)は、西口のバスターミナルにいらっしゃってください
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_西.html">西</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_口.html">口</a>
 <!--ID: 1784123172512-->
 
 
@@ -648,7 +640,7 @@ master how to make respectful expressions #k #card
 <!--ID: 1784123172514-->
 
 
-Being able to make a reservation over the phone while expressing your desires and ask questions #k #card
+Being able to convey one's own wishes, ask questions, and make reservations over the phone. #k #card
 電話(でんわ)で、自分(じぶん)の希望(きぼう)を伝(つた)えたり、質問(しつもん)をしたり、予約できること
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
@@ -664,7 +656,7 @@ Being able to make a reservation over the phone while expressing your desires an
 <!--ID: 1784123172515-->
 
 
-own desires, prosby, oczekiwania #k #card
+one's own wishes / desires #k #card
 自分（じぶん）の希望（きぼう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
@@ -673,14 +665,15 @@ own desires, prosby, oczekiwania #k #card
 <!--ID: 1784123172516-->
 
 
-„przekazywać”, „powiedzieć”, „wyrazić” (transitive) #card
-ほんやく: 伝える
+to convey / to tell (transitive) | to pass on information, a feeling, or a message to someone else #card
+ほんやく: 伝える (つた)
 て形: 伝えて
 た形: 伝えた
 ます形: 伝えます
 出す形 (start): 伝え出す
 そう (looks): 伝えそう
 お〜になる/special verb (honorific): お伝えになる
+謙譲語 (humble): お伝えいたす／お伝えします
 ない形: 伝えない
 なかった形: 伝えなかった
 あれる形 (passive/honorific): 伝えられる
@@ -693,7 +686,7 @@ own desires, prosby, oczekiwania #k #card
 <!--ID: 1784123172517-->
 
 
-reservation #card
+reservation | a booking secured in advance, e.g. for a restaurant, hotel, or appointment #card
 予約（よやく）
 お/ご (honorific): ご予約（よやく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_予.html">予</a>
@@ -701,7 +694,7 @@ reservation #card
 <!--ID: 1784123172518-->
 
 
-make reservation #card
+to make a reservation #card
 予約する（よやく）
 お/ご (honorific): ご予約（よやく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_予.html">予</a>
@@ -710,13 +703,14 @@ make reservation #card
 
 
 to read (transitive) #k #card
-ほんやく: 読む
+ほんやく: 読む (よ)
 て形: 読んで
 た形: 読んだ
 ます形: 読みます
 出す形 (start): 読み出す
 そう (looks): 読みそう
 お〜になる/special verb (honorific): お読みになる
+謙譲語 (humble): お読みいたす／お読みします
 ない形: 読まない
 なかった形: 読まなかった
 あれる形 (passive/honorific): 読まれる
@@ -730,13 +724,14 @@ to read (transitive) #k #card
 
 
 to make (transitive) #k #card
-ほんやく: 作る
+ほんやく: 作る (つく)
 て形: 作って
 た形: 作った
 ます形: 作ります
 出す形 (start): 作り出す
 そう (looks): 作りそう
 お〜になる/special verb (honorific): お作りになる
+謙譲語 (humble): お作りいたす／お作りします
 ない形: 作らない
 なかった形: 作らなかった
 あれる形 (passive/honorific): 作られる
@@ -750,13 +745,14 @@ to make (transitive) #k #card
 
 
 to buy (transitive) #k #card
-ほんやく: 買う
+ほんやく: 買う (か)
 て形: 買って
 た形: 買った
 ます形: 買います
 出す形 (start): 買い出す
 そう (looks): 買いそう
 お〜になる/special verb (honorific): お買いになる
+謙譲語 (humble): お買いいたす／お買いします
 ない形: 買わない
 なかった形: 買わなかった
 あれる形 (passive/honorific): 買われる
@@ -770,13 +766,14 @@ to buy (transitive) #k #card
 
 
 to go out (intransitive) #k #card
-ほんやく: 出る
+ほんやく: 出る（で）
 て形: 出て
 た形: 出た
 ます形: 出ます
 出す形 (start): 出出す
 そう (looks): 出そう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: 出ない
 なかった形: 出なかった
 あれる形 (passive/honorific): 出られる
@@ -789,14 +786,15 @@ to go out (intransitive) #k #card
 <!--ID: 1784123172523-->
 
 
-to help (transitive) #card
-ほんやく: 助ける
+to help (transitive) | often implies rescuing someone from danger or serious difficulty, stronger than 手伝う（てつだ）(to help with a task) #card
+ほんやく: 助ける（たす）
 て形: 助けて
 た形: 助けた
 ます形: 助けます
 出す形 (start): 助け出す
 そう (looks): 助けそう
 お〜になる/special verb (honorific): お助けになる
+謙譲語 (humble): お助けいたす／お助けします
 ない形: 助けない
 なかった形: 助けなかった
 あれる形 (passive/honorific): 助けられる
@@ -809,8 +807,10 @@ to help (transitive) #card
 <!--ID: 1784123172524-->
 
 
-to attend (intransitive) #k #card
+to attend (intransitive) | more formal than just 行く（い）(to go); used specifically for meetings, classes, or ceremonies #k #card
 ほんやく: 出席する（しゅっせき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_席.html">席</a>
 <!--ID: 1784123172525-->
 
 
@@ -822,6 +822,7 @@ to come (intransitive) #k #card
 出す形 (start): 来出す
 そう (looks): 来そう
 お〜になる/special verb (honorific): いらっしゃる
+謙譲語 (humble): 参る
 ない形: 来ない
 なかった形: 来なかった
 あれる形 (passive/honorific): 来られる
@@ -839,13 +840,13 @@ tour #card
 <!--ID: 1784123172527-->
 
 
-Mr. / Mrs. (formal) #card
+Mr. / Mrs. / Ms. (very formal) | more formal than さん; used in business letters, addressing customers, or referring to guests #card
 ～様（さま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_様.html">様</a>
 <!--ID: 1784123172528-->
 
 
-to care (intransitive) #card
+to care / mind (intransitive) | most often used in the negative, Xいません, meaning "I don't mind / it's fine" #card
 ほんやく: 構う（かまう）
 て形: 構って
 た形: 構った
@@ -853,6 +854,7 @@ to care (intransitive) #card
 出す形 (start): 構い出す
 そう (looks): 構いそう
 お〜になる/special verb (honorific): お構いになる
+謙譲語 (humble): お構いいたす／お構いします
 ない形: 構わない
 なかった形: 構わなかった
 あれる形 (passive/honorific): 構われる
@@ -865,13 +867,13 @@ to care (intransitive) #card
 <!--ID: 1784123172529-->
 
 
-to use (codziennie, zwyczajnie, fizycznie) #k #card
+to use | everyday, casual, physical use of a tool or object; contrast with the more formal (ご)利用(する)（りよう）, used for services/systems #k #card
 使う（つか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <!--ID: 1784123172530-->
 
 
-use/to use , use resources (+respectful) more formal than 使う, (services, system, infrastructure) #k #card
+to use (formal, respectful) | more formal than 使う（つか）; used for services, systems, and infrastructure #k #card
 (ご)利用(する）（りよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_利.html">利</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
@@ -895,7 +897,7 @@ i always use subway #k #card
 <!--ID: 1784123172533-->
 
 
-case / situation #k #card
+case / situation | a hypothetical or specific circumstance, often paired with 〜場合は "in the case of..." #k #card
 場合（ばあい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
@@ -930,7 +932,7 @@ north exit #k #card
 <!--ID: 1784123172538-->
 
 
-your company (respectful)   #sonkeigo #k #card
+your company (respectful) | formal written term for the listener's company;  #sonkeigo #k #card
 貴社（きしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貴.html">貴</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -944,14 +946,14 @@ Where is your company? #sonkeigo #k #card
 <!--ID: 1784123172540-->
 
 
-Honorific expressions #k #card
+Honorific / polite language | umbrella term covering all three registers: 尊敬語, 謙譲語, and 丁寧語 #k #card
 敬語(けいご)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_敬.html">敬</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1784123172541-->
 
 
-respectful expressions (show respect for someone of higher rank) #k #card
+respectful expressions | show respect for someone of higher rank by elevating their actions/belongings #k #card
 尊敬語（そんけいご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_尊.html">尊</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_敬.html">敬</a>
@@ -959,7 +961,7 @@ respectful expressions (show respect for someone of higher rank) #k #card
 <!--ID: 1784123172542-->
 
 
-humble expressions (put yourself lower to express respect to others) #k #card
+humble expressions | lower your own actions to indirectly show respect to the listener/referent #k #card
 謙譲語（けんじょうご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_謙.html">謙</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_譲.html">譲</a>
@@ -967,7 +969,7 @@ humble expressions (put yourself lower to express respect to others) #k #card
 <!--ID: 1784123172543-->
 
 
-polite expressions (show respect to others) #k #card
+polite expressions | raises the formality of the speech itself, regardless of who's being talked about #k #card
 丁寧語（ていねいご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丁.html">丁</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寧.html">寧</a>
@@ -975,14 +977,14 @@ polite expressions (show respect to others) #k #card
 <!--ID: 1784123172544-->
 
 
-directly #card
+directly | without an intermediary; going straight to a place or point #card
 直接（ちょくせつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_直.html">直</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_接.html">接</a>
 <!--ID: 1784123172545-->
 
 
-terminal #k #card
+terminal, boarding point | a place where you get on a vehicle: bus, taxi, ferry, etc. #k #card
 乗り場（のりば）
 お/ご (honorific): お乗り場（のりば）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_乗.html">乗</a>
@@ -990,18 +992,18 @@ terminal #k #card
 <!--ID: 1784123172546-->
 
 
-clerk #card
+clerk | a staff member assigned to handle a specific task or counter (e.g., ticket clerk) #card
 係（かかり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_係.html">係</a>
 <!--ID: 1784123172547-->
 
 
-respectful あります (czesto w pracy) #card
+respectful あります/です | polite/formal form, commonly used in service and business settings #card
 ございます
 <!--ID: 1784123172548-->
 
 
-to die (intransitive) #card
+to die (intransitive) | a softer, more polite way to say someone died; compare to the blunt/direct 死ぬ（しぬ） #card
 ほんやく: 亡くなる（なくなる）
 て形: 亡くなって
 た形: 亡くなった
@@ -1009,6 +1011,7 @@ to die (intransitive) #card
 出す形 (start): 亡くなり出す
 そう (looks): 亡くなりそう
 お〜になる/special verb (honorific): お亡くなりになる
+謙譲語 (humble): -
 ない形: 亡くならない
 なかった形: 亡くならなかった
 あれる形 (passive/honorific): 亡くなられる
@@ -1021,21 +1024,21 @@ to die (intransitive) #card
 <!--ID: 1784123172549-->
 
 
-rozmowa, dialog #k #card
+conversation / dialogue | casual spoken exchange between people, distinct from the formal 会議（かいぎ）"meeting" #k #card
 会話（かいわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1784123172550-->
 
 
-spotkanie, konferencja, zebranie (formalne) #k #card
+meeting / conference (formal) | a formal business meeting, distinct from a casual 会話（かいわ） conversation #k #card
 会議（かいぎ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
 <!--ID: 1784123172551-->
 
 
-meeting, zbiorka, zgromadzenie (wycieczki, grupy szkolne) #k #card
+gathering / meeting up | for group events like school trips or excursions, rather than formal business meetings (会議（かいぎ）) #k #card
 集合（しゅうごう）
 お/ご (honorific): ご集合（しゅうごう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
@@ -1062,12 +1065,12 @@ special verbs #k #card
 <!--ID: 1784123172554-->
 
 
-reszta/change #card
-お(つり)
+change (money) #card
+おつり
 <!--ID: 1784123172555-->
 
 
-wystawa, exhibition #k #card
+exhibition #k #card
 展覧会（てんらんかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_展.html">展</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_覧.html">覧</a>
@@ -1075,7 +1078,7 @@ wystawa, exhibition #k #card
 <!--ID: 1784123172556-->
 
 
-introduction / to introduce #card
+introduction / to introduce | to present a person, place, or thing to someone else #card
 紹介（する）（しょうかい）
 お/ご (honorific): ご紹介（しょうかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紹.html">紹</a>
@@ -1083,7 +1086,7 @@ introduction / to introduce #card
 <!--ID: 1784123172557-->
 
 
-to visit (transitive) (person visit place to see something) #card
+to visit (transitive) | to visit a place or person to see or check on something #card
 ほんやく: 訪ねる（たず）
 て形: 訪ねて
 た形: 訪ねた
@@ -1091,6 +1094,7 @@ to visit (transitive) (person visit place to see something) #card
 出す形 (start): 訪ね出す
 そう (looks): 訪ねそう
 お〜になる/special verb (honorific): お訪ねになる
+謙譲語 (humble): 伺う
 ない形: 訪ねない
 なかった形: 訪ねなかった
 あれる形 (passive/honorific): 訪ねられる
@@ -1131,7 +1135,7 @@ tourist resort #k #card
 <!--ID: 1784123172561-->
 
 
-to ask, inquire (transitive) (about you don't know, more formal, specific thing) #card
+to ask / inquire (transitive) | to ask about something specific you don't know, more formal than 聞く; #card
 ほんやく: 尋ねる（たず）
 て形: 尋ねて
 た形: 尋ねた
@@ -1139,6 +1143,7 @@ to ask, inquire (transitive) (about you don't know, more formal, specific thing)
 出す形 (start): 尋ね出す
 そう (looks): 尋ねそう
 お〜になる/special verb (honorific): お尋ねになる
+謙譲語 (humble): 伺う
 ない形: 尋ねない
 なかった形: 尋ねなかった
 あれる形 (passive/honorific): 尋ねられる
@@ -1166,7 +1171,7 @@ to ask for name #k #card
 <!--ID: 1784123172564-->
 
 
-to fish (transitive) #card
+to fish (transitive) | specifically fishing with a rod and line #card
 ほんやく: 釣る（つる）
 て形: 釣って
 た形: 釣った
@@ -1174,6 +1179,7 @@ to fish (transitive) #card
 出す形 (start): 釣り出す
 そう (looks): 釣りそう
 お〜になる/special verb (honorific): お釣りになる
+謙譲語 (humble): お釣りいたす／お釣りします
 ない形: 釣らない
 なかった形: 釣らなかった
 あれる形 (passive/honorific): 釣られる
@@ -1192,7 +1198,7 @@ change (money) #card
 <!--ID: 1784123172566-->
 
 
-to die (intransitive) #card
+to die (intransitive) | blunt/direct word for death; avoid using about people you should show respect toward — prefer 亡くなる（なくなる） #card
 ほんやく: 死ぬ (しぬ)
 て形: 死んで
 た形: 死んだ
@@ -1200,6 +1206,7 @@ to die (intransitive) #card
 出す形 (start): 死に出す
 そう (looks): 死にそう
 お〜になる/special verb (honorific): お亡くなりになる
+謙譲語 (humble): -
 ない形: 死なない
 なかった形: 死ななかった
 あれる形 (passive/honorific): 死なれる
@@ -1209,13 +1216,15 @@ to die (intransitive) #card
 おう形 (let's): 死のう
 命令形 (imperative): 死ね
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_死.html">死</a>
+<!--ID: 1784791578509-->
+
 
 dry cleaning #card
 クリーニング
 <!--ID: 1784123172567-->
 
 
-lukewarm #card
+lukewarm | describes a liquid (tea, bath water, etc.) that has cooled to an unpleasantly tepid temperature #card
 ほんやく: 温い（ぬるい）
 過去形: 温かった（ぬるかった）
 否定形: 温くない（ぬるくない）
@@ -1233,7 +1242,7 @@ back #k #card
 <!--ID: 1784123172569-->
 
 
-to treat / stawiać (komuś jedzenie za swoje pieniadze) (moze byc uzywany przez przełożonych) (transitive) #card
+to treat (someone to a meal) (transitive) | to pay for someone else's food/drink; can also be used for a superior treating a subordinate #card
 ほんやく: 奢る（おごる）
 て形: 奢って
 た形: 奢った
@@ -1241,6 +1250,7 @@ to treat / stawiać (komuś jedzenie za swoje pieniadze) (moze byc uzywany przez
 出す形 (start): 奢り出す
 そう (looks): 奢りそう
 お〜になる/special verb (honorific): お奢りになる
+謙譲語 (humble): お奢りいたす／お奢りします
 ない形: 奢らない
 なかった形: 奢らなかった
 あれる形 (passive/honorific): 奢られる
@@ -1253,34 +1263,34 @@ to treat / stawiać (komuś jedzenie za swoje pieniadze) (moze byc uzywany przez
 <!--ID: 1784123172570-->
 
 
-to treat (postawić) somebody to lunch #card
+to treat somebody to lunch #card
 ランチを奢る（おご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_奢.html">奢</a>
 <!--ID: 1784123172571-->
 
 
-feast/ (uczta, pyszny posilek) #k #card
+a feast / delicious meal | describes a generous, delicious meal #k #card
 ご馳走（ごちそう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_馳.html">馳</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1784123172572-->
 
 
-to treat a lunch #k #card
+to treat (someone) to lunch #k #card
 ランチをご馳走（ごちそう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_馳.html">馳</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1784123172573-->
 
 
-to treat to a meal or to invite people to your home/restaurant to offer meal #k #card
+to treat (someone) to a meal | to pay for or host someone's meal, showing generosity — often used for inviting people to your home or a restaurant #k #card
 ご馳走する (ごちそう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_馳.html">馳</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1784123172574-->
 
 
-to treat guest (zapraszac, poczęstować) can be used to superiors #k #card
+to treat a guest (to a meal); can be used toward superiors #k #card
 お客にご馳走する（ごちそう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_客.html">客</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_馳.html">馳</a>
@@ -1288,21 +1298,21 @@ to treat guest (zapraszac, poczęstować) can be used to superiors #k #card
 <!--ID: 1784123172575-->
 
 
-zostac poczęstowanym (naturalnie) #k #card
+to be treated (to a meal) | the natural, everyday way to say you received a treat, without emphasizing who did the treating #k #card
 ご馳走になる（ちそう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_馳.html">馳</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1784123172576-->
 
 
-zostac poczęstowanym (przez kogos, strona bierna) #k #card
+to be treated (to a meal), by someone (true passive) | emphasizes that someone specifically did the treating #k #card
 ご馳走される（ちそう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_馳.html">馳</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1784123172577-->
 
 
-polite #card
+polite / courteous | describes careful, respectful manner or attention to detail, e.g. Xに話す "to speak politely" #card
 丁寧（ていねい）
 お/ご (honorific): ご丁寧（ていねい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丁.html">丁</a>
@@ -1324,7 +1334,7 @@ half price #k #card
 <!--ID: 1784123172580-->
 
 
-appropriate / suitable #card
+appropriate / suitable | can also mean "careless" or "sloppy" in casual negative contexts — the meaning depends heavily on tone and context #card
 ほんやく: 適当（てきとう）
 過去形: —
 否定形: —
@@ -1345,14 +1355,15 @@ round #card
 <!--ID: 1784123172582-->
 
 
-to sway/kołysać się / chwiać się / trząść się / drgać / poruszać się tam i z powrotem (intransitive) #card
+to sway / shake / rock (intransitive) #card
 ほんやく: 揺れる（ゆれる）
 て形: 揺れて
 た形: 揺れた
 ます形: 揺れます
 出す形 (start): 揺れ出す
 そう (looks): 揺れそう
-お〜になる/special verb (honorific): お揺れになる（unconfirmed — verify）
+お〜になる/special verb (honorific): お揺れになる
+謙譲語 (humble): -
 ない形: 揺れない
 なかった形: 揺れなかった
 あれる形 (passive/honorific): 揺れられる
@@ -1365,12 +1376,12 @@ to sway/kołysać się / chwiać się / trząść się / drgać / poruszać się
 <!--ID: 1784123172583-->
 
 
-a while/soon(not long, nor short time) #card
+a while / for now | an indefinite span of time — neither very long nor very short #card
 しばらく（しばらく）
 <!--ID: 1784123172584-->
 
 
-I think he will come for a while(soon) #k #card
+I think he'll come shortly (before long) #k #card
 しばらくすれば来(く)ると思(おも)います
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
@@ -1416,7 +1427,7 @@ Yamamoto (surname) #k #card
 <!--ID: 1784123172591-->
 
 
-greetings/to greet #card
+greeting(s) / to greet | the act of greeting someone, e.g. bowing and saying hello; used as a noun or with する #card
 挨拶（あいさつ）
 お/ご (honorific): ご挨拶（あいさつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_挨.html">挨</a>
@@ -1429,7 +1440,7 @@ to quit smoking #card
 <!--ID: 1784123172593-->
 
 
-rezygnować”, „przestać”, „porzucić”, „odejść (z pracy) (transitive) #card
+to quit / give up (a habit, job, plan) (transitive) | used for abandoning habits, jobs, or plans (e.g. quitting smoking); contrast with 止める（と）, which means to physically stop/halt something #card
 ほんやく: やめる
 て形: やめて
 た形: やめた
@@ -1437,6 +1448,7 @@ rezygnować”, „przestać”, „porzucić”, „odejść (z pracy) (transit
 出す形 (start): やめ出す
 そう (looks): やめそう
 お〜になる/special verb (honorific): おやめになる
+謙譲語 (humble): おやめいたす／おやめします
 ない形: やめない
 なかった形: やめなかった
 あれる形 (passive/honorific): やめられる
@@ -1448,7 +1460,7 @@ rezygnować”, „przestać”, „porzucić”, „odejść (z pracy) (transit
 <!--ID: 1784123172594-->
 
 
-to stop, to stop doing (transitive) #card
+to stop / halt (transitive) | to physically stop or halt an action, motion, or machine, e.g. stopping a car; contrast with やめる (to quit/give up a habit) #card
 ほんやく: 止める（と）
 て形: 止めて
 た形: 止めた
@@ -1456,6 +1468,7 @@ to stop, to stop doing (transitive) #card
 出す形 (start): 止め出す
 そう (looks): 止めそう
 お〜になる/special verb (honorific): お止めになる
+謙譲語 (humble): お止めいたす／お止めします
 ない形: 止めない
 なかった形: 止めなかった
 あれる形 (passive/honorific): 止められる
@@ -1475,7 +1488,7 @@ neck #card
 <!--ID: 1784123172596-->
 
 
-hair #card
+hair / fur | can refer to bodily hair or animal fur, not limited to head hair (unlike 髪（かみ）, which is specifically head hair) #card
 毛（け）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毛.html">毛</a>
 <!--ID: 1784123172597-->
@@ -1486,14 +1499,14 @@ terminal #card
 <!--ID: 1784123172598-->
 
 
-cancel, stop (event) #k #card
+cancellation / to cancel (an event) | used for stopping a planned event before or during it, e.g. due to rain #k #card
 中止（ちゅうし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_止.html">止</a>
 <!--ID: 1784123172599-->
 
 
-instrukcja, manual #k #card
+instruction manual #k #card
 説明書（せつめいしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_説.html">説</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
@@ -1501,14 +1514,14 @@ instrukcja, manual #k #card
 <!--ID: 1784123172600-->
 
 
-drawer、szuflada #k #card
+drawer #k #card
 引き出し（ひきだし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1784123172601-->
 
 
-wyciagac (np pieniadze z banku) (transitive) #k #card
+to withdraw / take out (transitive) | commonly used for withdrawing money from a bank or pulling something out of a drawer #k #card
 ほんやく: 引き出す（ひきだす）
 て形: 引き出して
 た形: 引き出した
@@ -1516,6 +1529,7 @@ wyciagac (np pieniadze z banku) (transitive) #k #card
 出す形 (start): 引き出し出す
 そう (looks): 引き出しそう
 お〜になる/special verb (honorific): お引き出しになる
+謙譲語 (humble): お引き出しいたす／お引き出しします
 ない形: 引き出さない
 なかった形: 引き出さなかった
 あれる形 (passive/honorific): 引き出される
@@ -1529,7 +1543,7 @@ wyciagac (np pieniadze z banku) (transitive) #k #card
 <!--ID: 1784123172602-->
 
 
-to search (transitive) #card
+to search / look for (transitive) | describes the act of looking, distinct from 見つける (to find/succeed in finding) #card
 ほんやく: 探す（さが）
 て形: 探して
 た形: 探した
@@ -1537,6 +1551,7 @@ to search (transitive) #card
 出す形 (start): 探し出す
 そう (looks): 探しそう
 お〜になる/special verb (honorific): お探しになる
+謙譲語 (humble): お探しいたす／お探しします
 ない形: 探さない
 なかった形: 探さなかった
 あれる形 (passive/honorific): 探される
@@ -1596,7 +1611,7 @@ Mr. Tanaka reads the newspaper every day (respectful) #sonkeigo #k #card
 <!--ID: 1784123172608-->
 
 
-opinion #k #card
+opinion (polite) | used when asking for someone else's opinion #k #card
 ご意見（いけん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
@@ -1611,7 +1626,7 @@ phone #k #card
 <!--ID: 1784123172610-->
 
 
-meal (formal) #k #card
+a meal (more formal register) | more formal than the everyday word ご飯（はん）, used in polite or business contexts #k #card
 食事（しょくじ）
 お/ご (honorific): お食事（しょくじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
@@ -1622,12 +1637,15 @@ meal (formal) #k #card
 non-reserved seat (e.g., on trains) #k #card
 自由席（じゆうせき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_由.html">由</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_席.html">席</a>
 <!--ID: 1784123172612-->
 
 
 freely, as you like #k #card
 自由に（じゆうに）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_由.html">由</a>
 <!--ID: 1784123172613-->
 
 
@@ -1638,18 +1656,26 @@ freedom, liberty, free #k #card
 <!--ID: 1784123172614-->
 
 
-opinion #k #card
+opinion | the plain form; add ご for the polite/respectful version (ご意見) #k #card
 意見（いけん）
 お/ご (honorific): ご意見（いけん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+<!--ID: 1784791578510-->
 
-Chce więcej cwiczyc japonski, żeby móc z tobą rozmawiać #card
-Motto nihongo o renshū shite, anata to hanaseru yō ni naritai desu.
+
+I want to practice more Japanese so that I can talk with you #card
+もっと日本語を練習して、あなたと話せるようになりたいです。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_練.html">練</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_習.html">習</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1784123172615-->
 
 
-to eat/drink (respectful) (transitive) #sonkeigo #k #card
+to eat / drink (respectful) (transitive) | honorific substitute for 食べる・飲む, used when someone of higher status is eating or drinking #sonkeigo #k #card
 ほんやく: 召し上がる（めしあがる）食べる、飲む
 て形: 召し上がって
 た形: 召し上がった
@@ -1657,6 +1683,7 @@ to eat/drink (respectful) (transitive) #sonkeigo #k #card
 出す形 (start): 召し上がり出す
 そう (looks): 召し上がりそう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: 召し上がらない
 なかった形: 召し上がらなかった
 あれる形 (passive/honorific): 召し上がられる
@@ -1672,7 +1699,7 @@ to eat/drink (respectful) (transitive) #sonkeigo #k #card
 <!--ID: 1784123172616-->
 
 
-to come / go / exist (respectful) (intransitive) #sonkeigo #k #card
+to come / go / exist (respectful) (intransitive) | honorific substitute for 来る・行く・いる, the most common and versatile sonkeigo special verb #sonkeigo #k #card
 ほんやく: いらっしゃる（いらっしゃる）行く、来る、いる
 て形: いらっしゃって
 た形: いらっしゃった
@@ -1680,6 +1707,7 @@ to come / go / exist (respectful) (intransitive) #sonkeigo #k #card
 出す形 (start): いらっしゃい出す
 そう (looks): いらっしゃいそう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: いらっしゃらない
 なかった形: いらっしゃらなかった
 あれる形 (passive/honorific): いらっしゃられる
@@ -1693,7 +1721,7 @@ to come / go / exist (respectful) (intransitive) #sonkeigo #k #card
 <!--ID: 1784123172617-->
 
 
-to see (respectful) (transitive) #sonkeigo #k #card
+to see (respectful) (transitive) | honorific substitute for 見る #sonkeigo #k #card
 ほんやく: ご覧になる（ごらんになる）・見る
 て形: ご覧になって
 た形: ご覧になった
@@ -1701,6 +1729,7 @@ to see (respectful) (transitive) #sonkeigo #k #card
 出す形 (start): ご覧になり出す
 そう (looks): ご覧になりそう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: ご覧にならない
 なかった形: ご覧にならなかった
 あれる形 (passive/honorific): ご覧になられる
@@ -1714,7 +1743,7 @@ to see (respectful) (transitive) #sonkeigo #k #card
 <!--ID: 1784123172618-->
 
 
-to say (respectful) (transitive) #sonkeigo #k #card
+to say (respectful) (transitive) | honorific substitute for 言う #sonkeigo #k #card
 ほんやく: おっしゃる（おっしゃる/言う）
 て形: おっしゃって
 た形: おっしゃった
@@ -1722,6 +1751,7 @@ to say (respectful) (transitive) #sonkeigo #k #card
 出す形 (start): おっしゃい出す
 そう (looks): おっしゃいそう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: おっしゃらない
 なかった形: おっしゃらなかった
 あれる形 (passive/honorific): おっしゃられる
@@ -1733,7 +1763,7 @@ to say (respectful) (transitive) #sonkeigo #k #card
 <!--ID: 1784123172619-->
 
 
-to do (respectful) (transitive) #sonkeigo #card
+to do (respectful) (transitive) | honorific substitute for する #sonkeigo #card
 ほんやく: なさる（なさる）
 て形: なさって
 た形: なさった
@@ -1741,6 +1771,7 @@ to do (respectful) (transitive) #sonkeigo #card
 出す形 (start): なさい出す
 そう (looks): なさいそう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: なさらない
 なかった形: なさらなかった
 あれる形 (passive/honorific): なさられる
@@ -1752,7 +1783,7 @@ to do (respectful) (transitive) #sonkeigo #card
 <!--ID: 1784123172620-->
 
 
-to give (respectful) (transitive) #sonkeigo #card
+to give (to the speaker) (respectful) (transitive) | honorific substitute for くれる; used when someone of higher status gives something to the speaker/in-group #sonkeigo #card
 ほんやく: くださる（くださる）/kureru
 て形: くださって
 た形: くださった
@@ -1760,6 +1791,7 @@ to give (respectful) (transitive) #sonkeigo #card
 出す形 (start): ください出す
 そう (looks): くださいそう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: くださらない
 なかった形: くださらなかった
 あれる形 (passive/honorific): くださられる
@@ -1771,14 +1803,15 @@ to give (respectful) (transitive) #sonkeigo #card
 <!--ID: 1784123172621-->
 
 
-to come (respectful) (intransitive) #sonkeigo #k #card
-ほんやく: おいでになる（おいでになる）来る・いく
+to come (respectful) (intransitive) | covers 来る・行く・いる, slightly more colloquial-feeling than いらっしゃる #sonkeigo #k #card
+ほんやく: おいでになる（おいでになる）来る・行く
 て形: おいでになって
 た形: おいでになった
 ます形: おいでになります
 出す形 (start): おいでになり出す
 そう (looks): おいでになりそう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: おいでにならない
 なかった形: おいでにならなかった
 あれる形 (passive/honorific): おいでになられる
@@ -1788,10 +1821,11 @@ to come (respectful) (intransitive) #sonkeigo #k #card
 おう形 (let's): おいでになろう
 命令形 (imperative): おいでになれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1784123172622-->
 
 
-to come (respectful) (intransitive) #sonkeigo #k #card
+to come (respectful) (intransitive) | movement-only honorific with a "thank you for making the trip" nuance; used for invitations or greeting guests #sonkeigo #k #card
 ほんやく: お越しになる（おこしになる）来る・いく
 て形: お越しになって
 た形: お越しになった
@@ -1799,6 +1833,7 @@ to come (respectful) (intransitive) #sonkeigo #k #card
 出す形 (start): お越しになり出す
 そう (looks): お越しになりそう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: お越しにならない
 なかった形: お越しにならなかった
 あれる形 (passive/honorific): お越しになられる
@@ -1809,8 +1844,10 @@ to come (respectful) (intransitive) #sonkeigo #k #card
 命令形 (imperative): お越しになれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_越.html">越</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<!--ID: 1784791578511-->
 
-to rest (respectful) (intransitive) #sonkeigo #k #card
+
+to rest / sleep (respectful) (intransitive) | honorific substitute for 寝る・休む #sonkeigo #k #card
 ほんやく: お休みになる（おやすみになる）来る・いく
 て形: お休みになって
 た形: お休みになった
@@ -1818,6 +1855,7 @@ to rest (respectful) (intransitive) #sonkeigo #k #card
 出す形 (start): お休みになり出す
 そう (looks): お休みになりそう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: お休みにならない
 なかった形: お休みにならなかった
 あれる形 (passive/honorific): お休みになられる
@@ -1831,7 +1869,7 @@ to rest (respectful) (intransitive) #sonkeigo #k #card
 <!--ID: 1784123172623-->
 
 
-to wear (transitive) #sonkeigo #k #card
+to wear (respectful) (transitive) | honorific substitute for 着る #sonkeigo #k #card
 ほんやく: お召しになる（め）/着る
 て形: お召しになって
 た形: お召しになった
@@ -1839,6 +1877,7 @@ to wear (transitive) #sonkeigo #k #card
 出す形 (start): お召しになり出す
 そう (looks): お召しになりそう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: お召しにならない
 なかった形: お召しにならなかった
 あれる形 (passive/honorific): お召しになられる
@@ -1852,7 +1891,7 @@ to wear (transitive) #sonkeigo #k #card
 <!--ID: 1784123172624-->
 
 
-to die (intransitive) #sonkeigo #card
+to die (respectful) (intransitive) | the most polite/formal way to refer to someone's death #sonkeigo #card
 ほんやく: お亡くなりになる（なく）しぬ
 て形: お亡くなりになって
 た形: お亡くなりになった
@@ -1860,6 +1899,7 @@ to die (intransitive) #sonkeigo #card
 出す形 (start): お亡くなりになり出す
 そう (looks): お亡くなりになりそう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: お亡くなりにならない
 なかった形: お亡くなりにならなかった
 あれる形 (passive/honorific): お亡くなりになられる
@@ -1872,19 +1912,19 @@ to die (intransitive) #sonkeigo #card
 <!--ID: 1784123172625-->
 
 
-Certainly, Sir/Madam (often used by service industry), much politer 分かりました (to customers, superiors) #kenjougo #card
+Certainly, understood (very polite) | much more formal than 分かりました; used by service staff toward customers or by subordinates toward superiors #kenjougo #card
 かしこまりました
 <!--ID: 1784123172626-->
 
 
-I am very sorry 2x, formal (to superiors, service industry) #kenjougo #card
+I am very sorry (very formal) | two acceptable forms of the same phrase; used toward superiors or in service industry contexts #kenjougo #card
 申(もう)し訳(わけ)ありません/申(もう)し訳(わけ)ございません
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_申.html">申</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_訳.html">訳</a>
 <!--ID: 1784123172627-->
 
 
-We'll be waiting for you (formal, services) #kenjougo #k #card
+We'll be waiting for you (very polite) | humble form used in service/business contexts, e.g. by staff awaiting a customer's arrival #kenjougo #k #card
 お待ちしています（ま)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1784123172628-->
@@ -1972,7 +2012,7 @@ respectful verbs #k #card
 <!--ID: 1784123172641-->
 
 
-Do you use this book Mr. Suzuki?/Panie Suzuki, czy będzie Pan używać tej książki? #sonkeigo #k #card
+Will you use this book, Mr. Suzuki? / Panie Suzuki, czy będzie Pan używać tej książki? | (casual sonkeigo) #sonkeigo #k #card
 鈴木先生(すずきせんせい)、この本(ほん)使(つか)われますか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鈴.html">鈴</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
@@ -1983,12 +2023,12 @@ Do you use this book Mr. Suzuki?/Panie Suzuki, czy będzie Pan używać tej ksi�
 <!--ID: 1784123172642-->
 
 
-Did you quit smoking?, Czy przestał pan Palic? #sonkeigo #card
+Did you quit smoking?, Czy przestał pan Palic? | (casual sonkeigo) #sonkeigo #card
 おタバコをやめられたんですか
 <!--ID: 1784123172643-->
 
 
-What did the CEO talk about in yesterday's meeting? #sonkeigo #k #card
+What did the CEO talk about in yesterday's meeting? | (casual sonkeigo) #sonkeigo #k #card
 昨日(きのう)の会議(かいぎ)で社長(しゃちょう)はどんなことを話(はな)されましたか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -2000,7 +2040,7 @@ What did the CEO talk about in yesterday's meeting? #sonkeigo #k #card
 <!--ID: 1784123172644-->
 
 
-Is the MR. CEO in the meeting room? #sonkeigo #k #card
+Is the CEO in the meeting room? #sonkeigo #k #card
 社長(しゃちょう)は会議室(かいぎしつ)にいらっしゃいますか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
@@ -2021,7 +2061,7 @@ Did you already eat your meal Mr. Kimura? #sonkeigo #k #card
 <!--ID: 1784123172646-->
 
 
-Czy oglądał Pan wczorajsze newsy? #sonkeigo #k #card
+Did you watch yesterday's news? #sonkeigo #k #card
 昨日(きのう)のニュースをご覧(らん)になりましたか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -2029,28 +2069,28 @@ Czy oglądał Pan wczorajsze newsy? #sonkeigo #k #card
 <!--ID: 1784123172647-->
 
 
-When will the store manager come back? #k #card
-店長(てんちょう)はいつ帰(かえ)りになりますか
+When will the store manager come back? | (formal sonkeigo) #sonkeigo #k #card
+店長(てんちょう)はいつお帰(かえ)りになりますか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <!--ID: 1784123172648-->
 
 
-Will you go out? Czy Pan wychodzi? #k #card
+Will you go out? Czy Pan wychodzi? | (formal sonkeigo) #sonkeigo #k #card
 お出かけになりますか(で)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1784123172649-->
 
 
-Do you have something to ask? / Czy chcialby pan o cos zapytac? #k #card
+Do you have something to ask? / Czy chcialby pan o cos zapytac? | (formal sonkeigo) #sonkeigo #k #card
 何かお聞(き)きになりたいことはありますか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1784123172650-->
 
 
-Did your family come?  #sonkeigo #k #card
+Did your family come? #sonkeigo #k #card
 ご家族はいらっしゃいましたか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
@@ -2072,7 +2112,7 @@ please say your opinions freely #sonkeigo #k #card
 <!--ID: 1784123172653-->
 
 
-this is ymada sama #sonkeigo #k #card
+This is Mr. Yamada. #sonkeigo #k #card
 こちらは　山田様(さま)です
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -2080,7 +2120,7 @@ this is ymada sama #sonkeigo #k #card
 <!--ID: 1784123172654-->
 
 
-Who are you #sonkeigo #card
+May I ask who you are? #sonkeigo #card
 どちら様(さま)でしょうか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_様.html">様</a>
 <!--ID: 1784123172655-->
@@ -2093,7 +2133,7 @@ I received a letter #kenjougo #k #card
 <!--ID: 1784123172656-->
 
 
-prezes wziął udział w spotkaniu (zaszczycił obecnością) #kenjougo #k #card
+The president was gracious enough to attend the meeting #kenjougo #k #card
 社長(しゃちょう)に会議(かいぎ)に出席(しゅっせき)していただきました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
@@ -2104,7 +2144,7 @@ prezes wziął udział w spotkaniu (zaszczycił obecnością) #kenjougo #k #card
 <!--ID: 1784123172657-->
 
 
-Could you (customer) write your name, please? #kenjougo #k #card
+I will have you (the customer) write your name. #kenjougo #k #card
 お客様に お名前を 書いて いただきます (きゃくさま、か)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_客.html">客</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_様.html">様</a>
@@ -2147,7 +2187,7 @@ Could you please introduce me to some delicious stores? #sonkeigo #k #card
 <!--ID: 1784123172662-->
 
 
-Would you lend me some money?  #sonkeigo #k #card
+Would you lend me some money? #sonkeigo #k #card
 お金(かね)を少(すこ)し貸(か)してくださいませんか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
@@ -2155,14 +2195,14 @@ Would you lend me some money?  #sonkeigo #k #card
 <!--ID: 1784123172663-->
 
 
-in the case of (noun) #k #card
+in the case of (noun) | a hypothetical or specific circumstance, often paired with 〜場合は "in the case of..." #k #card
 場合 (ばあい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1784123172664-->
 
 
-If you decide to go to the drinking party tomorrow, please contact me (in case of) #k #card
+In case you decide to go to tomorrow's drinking party, please contact me. (in case of) #k #card
 明日の飲(の)み会(かい)に行く場合(ばあい)は、私に連絡(れんらく)してください
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -2177,7 +2217,7 @@ If you decide to go to the drinking party tomorrow, please contact me (in case o
 <!--ID: 1784123172665-->
 
 
-If it rains the event will be cancelled (in case of) #k #card
+in case of rain the event will be cancelled (in case of) #k #card
 雨(あめ)が降(ふ)った場合(ばあい)は、イベントは中止(ちゅうし)します
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
@@ -2188,7 +2228,7 @@ If it rains the event will be cancelled (in case of) #k #card
 <!--ID: 1784123172666-->
 
 
-(in case of) If tomorrow is busy, I will ask Mr.Yamada to help me #k #card
+(in case of) If tomorrow is busy, I will ask Mr. Yamada to help me #k #card
 明日忙(いそが)しい場合(ばあい)は、山田さんに手伝(てつだ)ってもらいます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -2202,7 +2242,7 @@ If it rains the event will be cancelled (in case of) #k #card
 <!--ID: 1784123172667-->
 
 
-If you need the manual, please look for it in this drawer (in case of) #k #card
+In case the manual is needed, please look for it in this drawer (in case of) #k #card
 説明書(せつめいしょ)が必要(ひつよう)な場合(ばあい)は、この引(ひ)き出(だ)しの中(なか)を探(さが)してください
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_説.html">説</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
@@ -2218,7 +2258,7 @@ If you need the manual, please look for it in this drawer (in case of) #k #card
 <!--ID: 1784123172668-->
 
 
-in case of children, tickets are half price  (in case of) #k #card
+in case of children, tickets are half price (in case of) #k #card
 子供(こども)の場合(ばあい)は、チケットは半額(はんがく)です
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_供.html">供</a>
@@ -2229,14 +2269,14 @@ in case of children, tickets are half price  (in case of) #k #card
 <!--ID: 1784123172669-->
 
 
-to look / to view (humble); use when looking at something belonging to/from a superior oglądać, zapoznac, spojrzeć #kenjougo #k #card
+to look / to view (humble) | used when looking at something belonging to or provided by a superior #kenjougo #k #card
 拝見する（はいけん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_拝.html">拝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1784123172670-->
 
 
-to hear / to ask / to visit (transitive); covers 聞く・尋ねる・訪問する — humbly receiving info or visiting someone above you #kenjougo #card
+to hear / to ask / to visit (transitive) | covers 聞く・尋ねる・訪問する — humbly receiving info or visiting someone above you #kenjougo #card
 ほんやく: 伺う（うかが）
 て形: 伺って
 た形: 伺った
@@ -2244,6 +2284,7 @@ to hear / to ask / to visit (transitive); covers 聞く・尋ねる・訪問す�
 出す形 (start): 伺い出す
 そう (looks): 伺いそう
 お〜になる/special verb (honorific): -
+謙譲語 (humble): -
 ない形: 伺わない
 なかった形: 伺わなかった
 あれる形 (passive/honorific): 伺われる
@@ -2256,19 +2297,19 @@ to hear / to ask / to visit (transitive); covers 聞く・尋ねる・訪問す�
 <!--ID: 1784123172671-->
 
 
-I; more formal/humble than 私, used in business or very formal speech #kenjougo #card
+I | more formal/humble than 私（わたし）, used in business or very formal speech #kenjougo #card
 わたくし
 <!--ID: 1784123172672-->
 
 
-our company (humble); used when referring to your own company to an outsider #kenjougo #k #card
+our company (humble) | used when referring to your own company to an outsider #kenjougo #k #card
 弊社（へいしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弊.html">弊</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1784123172673-->
 
 
-little gift (humble); downplays the value of what you're giving, standard business-gift phrasing #kenjougo #k #card
+little gift (humble) | downplays the value of what you're giving, standard business-gift phrasing #kenjougo #k #card
 粗品（そしな）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_粗.html">粗</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
@@ -2282,7 +2323,7 @@ Do you have any questions sir? #teineigo #k #card
 <!--ID: 1784123172675-->
 
 
-This is the book #teineigo #k #card
+Here is the book. #teineigo #k #card
 本はこちらでございます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <!--ID: 1784123172676-->
@@ -2298,12 +2339,12 @@ here is your change #teineigo #card
 <!--ID: 1784123172678-->
 
 
-I am michal #teineigo #card
+I am Michal. #teineigo #card
 ミハウでございます
 <!--ID: 1784123172679-->
 
 
-portion #k #card
+portion | an amount, share, or part of something that has been divided #k #card
 分（ぶん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1784123172680-->
@@ -2346,7 +2387,7 @@ portion I ate #k #card
 <!--ID: 1784123172685-->
 
 
-very, pretty, much (positive), barely(difficulty) #card
+very / quite (positive), or barely / not easily (negative) | meaning flips with context: complimentary in positive sentences, expresses difficulty in negative sentences #card
 なかなか
 <!--ID: 1784123172686-->
 
@@ -2375,14 +2416,14 @@ i found it difficult to sleep, bylo dosc trudno mi zasnac #card
 <!--ID: 1784123172690-->
 
 
-Trudno było nawiązać rozmowę z tą osobą #k #card
+I just couldn't manage to talk with that person, no matter how I tried #k #card
 あの人となかなか話せなかったです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1784123172691-->
 
 
-almost, roughly, about , #card
+almost / roughly / mostly | describes an amount or degree close to whole; contrast with なかなか (used for evaluations of difficulty or positive surprise) #card
 ほとんど（ほとんど）
 <!--ID: 1784123172692-->
 
@@ -2422,14 +2463,7 @@ I could barely (almost none) talk to him #k #card
 <!--ID: 1784123172697-->
 
 
-I could barely talk to him #k #card
-あの人とほとんど話せなかったです
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
-<!--ID: 1784123172698-->
-
-
-to inform, let somebody know(one directional) (transitive) #k #card
+to inform, let somebody know (transitive) | conveys information in one direction, from you to the other person #k #card
 ほんやく: （を）知らせる（知らせる）
 て形: 知らせて
 た形: 知らせた
@@ -2437,6 +2471,7 @@ to inform, let somebody know(one directional) (transitive) #k #card
 出す形 (start): 知らせ出す
 そう (looks): 知らせそう
 お〜になる/special verb (honorific): お知らせになる
+謙譲語 (humble): お知らせいたす／お知らせします
 ない形: 知らせない
 なかった形: 知らせなかった
 あれる形 (passive/honorific): 知らせられる
@@ -2449,12 +2484,12 @@ to inform, let somebody know(one directional) (transitive) #k #card
 <!--ID: 1784123172699-->
 
 
-to contact with somebody, notify (nawiązać kontakt, odpowiedziec, wymienic informacji) #card
+to contact somebody, notify | to reach out and exchange information with someone (call, message, etc.) #card
 れんらくする
 <!--ID: 1784123172700-->
 
 
-please tell me (inform )your new address (często w biznesie) #k #card
+please tell me (inform) your new address #k #card
 新(あたら)しい住所(じゅうしょ)を知(し)らせてください
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_住.html">住</a>

@@ -130,7 +130,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 
  Rzeczowniki:
 
- chiba prefecture #card
+ Chiba Prefecture #card
 ほんやく: 千葉県（ちばけん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_葉.html">葉</a>
@@ -138,21 +138,21 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 <!--ID: 1776605751279-->
 
 
- all nations, narody świata  #card
+ all nations | narody świata — refers to all countries of the world collectively, often used in formal or ceremonial contexts #card
 ほんやく: 万国（ばんこく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1776605751280-->
 
 
- draw a circle #card
+ draw a circle | uses a verb more commonly associated with writing, applied loosely here for simple line drawing #card
 ほんやく: 円を書く（えん、か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_円.html">円</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1776605751281-->
 
 
- circle #card
+ circle | the shape; this same kanji is also used for Japan's currency unit #card
 ほんやく: 円（えん） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_円.html">円</a>
 <!--ID: 1761660075874-->
@@ -161,34 +161,35 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 
 円い（まるい）– okrągły (kształt)
 
- ta moneta jest okrągła #card
+ This coin is round | ta moneta jest okrągła #card
 ほんやく: このコインは円いです 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_円.html">円</a>
 <!--ID: 1761660075880-->
 
 
- in front of the river #card
+ in front of the river | describes a location situated before/in front of a river #card
 ほんやく: 川の前（かわのまえ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_川.html">川</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <!--ID: 1776605751282-->
 
 
- name #card
+ name | the everyday word for a person's name #card
 ほんやく: 名前（なまえ）
+お/ご (honorific): お名前(なまえ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <!--ID: 1761660075887-->
 
 
- the first half #card
+ the first half | refers to the first portion of something divided in two, e.g. a match or period #card
 ほんやく: 前半（ぜんはん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_半.html">半</a>
 <!--ID: 1776605751283-->
 
 
- przed południem  #card
+ before noon, a.m. | przed południem — the formal term for the morning half of the day, used in official times #card
 ほんやく: 午前（ごぜん） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_午.html">午</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
@@ -203,49 +204,49 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 <!--ID: 1776605751285-->
 
 
- to drink coffee later #card
+ I'll drink coffee later (casual/plain form) #card
 ほんやく: 後で、コーヒーを飲む 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
 <!--ID: 1776605751286-->
 
 
- back and forth (tam i z powrotem) #card
+ front and back / before and after | also used as a suffix meaning "approximately" (e.g. with numbers) #card
 ほんやく: 前後（ぜんご) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
 <!--ID: 1776605751288-->
 
 
- the latter half #card
+ the latter half | refers to the second portion of something divided in two, e.g. a match or period #card
 ほんやく: 後半（こうはん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_半.html">半</a>
 <!--ID: 1776605751289-->
 
 
- look at the left side #card
+ look at the left side (plain form, often used as a casual instruction) #card
 ほんやく: 左を見る（ひだり、み) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_左.html">左</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1776605751290-->
 
 
- right hand #card
+ right hand | refers to one's right hand specifically #card
 ほんやく: 右手（みぎて) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_右.html">右</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1776605751291-->
 
 
- left and right #card
+ left and right | refers to both sides collectively, often used for directions or symmetry #card
 ほんやく: 左右（さゆう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_左.html">左</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_右.html">右</a>
 <!--ID: 1776605751292-->
 
 
- top of the mountain #card
+ top of the mountain | refers to the summit/peak area of a mountain #card
 ほんやく: 山の上（やまのうえ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
@@ -253,26 +254,27 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 
 
  an elevator goes up #card
-ほんやく: エレベータが上がる（あ) 
+ほんやく: エレベーターが上がる（あ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1776605751294-->
 
 
-  water ski #card
+  water skiing | refers to the sport of water skiing #card
 ほんやく: 水上スキー 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1776605751295-->
 
 
- good at #card
+ good at | a na-adjective describing skill/proficiency at something, typically used for others (avoided for describing one's own skill out of modesty) #card
 ほんやく: 上手な(じょうず) 
+お/ご (honorific): お上手(じょうず)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1761660075928-->
 
 
- under the desk #card
+ under the desk | describes a location beneath a desk #card
 ほんやく: 机の下（つくえ、した) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
@@ -285,7 +287,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 <!--ID: 1776605751298-->
 
 
- subway #card
+ subway | the underground train system #card
 ほんやく: 地下鉄（ちかてつ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_地.html">地</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
@@ -293,14 +295,14 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 <!--ID: 1776605751299-->
 
 
- up and down #card
+ up and down | refers to upper and lower positions collectively, or movement up and down #card
 ほんやく: 上下（じょうげ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <!--ID: 1776605751300-->
 
 
- poor at #card
+ poor at | a na-adjective describing lack of skill/proficiency at something #card
 ほんやく: 下手な（へた） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
@@ -311,14 +313,15 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 
  Czasowniki:
  
-turn left(noun can be verb) #card
+to turn left | a suru-verb/noun used specifically for vehicles turning left, e.g. giving directions while driving #card
 ほんやく: 左折（させつ)  
 て形: させつして  
 た形: させつした  
 ます形: させつします  
 出す形 (start): させつし出す  
 そう (looks): させつしそう  
-お〜になる (honorific): ご左折になる  
+お〜になる/special verb (honorific):ご左折になる  
+謙譲語 (humble): ご左折いたす／ご左折します  
 ない形: させつしない  
 なかった形: させつしなかった  
 あれる形 (passive/honorific): させつされる  
@@ -332,14 +335,15 @@ turn left(noun can be verb) #card
 <!--ID: 1761660075950-->
 
 
-turn right (noun can be verb) #card
+to turn right | a suru-verb/noun used specifically for vehicles turning right, e.g. giving directions while driving #card
 ほんやく: 右折（うせつ)  
 て形: うせつして  
 た形: うせつした  
 ます形: うせつします  
 出す形 (start): うせつし出す  
 そう (looks): うせつしそう  
-お〜になる (honorific): ご右折になる  
+お〜になる/special verb (honorific):ご右折になる  
+謙譲語 (humble): ご右折いたす／ご右折します  
 ない形: うせつしない  
 なかった形: うせつしなかった  
 あれる形 (passive/honorific): うせつされる  
@@ -353,14 +357,15 @@ turn right (noun can be verb) #card
 <!--ID: 1761660075953-->
 
 
-go up (object rise) #card
+go up (object rise) | describes an object, level, or value rising, as opposed to a person actively climbing #card
 ほんやく: 上がる（あ）  
 て形: あがって
 た形: あがった
 ます形: あがります
 出す形 (start): あがり出す
 そう (looks): あがりそう
-お〜になる (honorific): お上がりになる
+お〜になる/special verb (honorific):お上がりになる
+謙譲語 (humble): お上がりいたす／お上がりします
 ない形: あがらない
 なかった形: あがらなかった
 あれる形 (passive/honorific): あがられる
@@ -373,14 +378,15 @@ go up (object rise) #card
 <!--ID: 1761660075955-->
 
 
-to go up, to climb, ascend (someone) #card
+to go up, to climb, ascend (someone) | describes a person actively climbing or ascending a path, as opposed to an object simply rising #card
 ほんやく: 上る（のぼ）  
 て形: のぼって
 た形: のぼった
 ます形: のぼります
 出す形 (start): のぼり出す
 そう (looks): のぼりそう
-お〜になる (honorific): お上りになる
+お〜になる/special verb (honorific):お上りになる
+謙譲語 (humble): お上りいたす／お上りします
 ない形: のぼらない
 なかった形: のぼらなかった
 あれる形 (passive/honorific): のぼられる
@@ -393,14 +399,15 @@ to go up, to climb, ascend (someone) #card
 <!--ID: 1761660075958-->
 
 
-go down (object) #card
+go down (object) | describes an object, level, or value decreasing/falling, as opposed to a person actively descending #card
 ほんやく: 下がる（さ）  
 て形: さがって
 た形: さがった
 ます形: さがります
 出す形 (start): さがり出す
 そう (looks): さがりそう
-お〜になる (honorific): お下がりになる
+お〜になる/special verb (honorific):お下がりになる
+謙譲語 (humble): お下がりいたす／お下がりします
 ない形: さがらない
 なかった形: さがらなかった
 あれる形 (passive/honorific): さがられる
@@ -413,14 +420,15 @@ go down (object) #card
 <!--ID: 1761660075961-->
 
 
-to go down(someone) #card
+to go down (someone) | describes a person actively descending a path, as opposed to an object simply falling/dropping #card
 ほんやく: 下る（くだ）  
 て形: くだって
 た形: くだった
 ます形: くだります
 出す形 (start): くだり出す
 そう (looks): くだりそう
-お〜になる (honorific): お下りになる
+お〜になる/special verb (honorific):お下りになる
+謙譲語 (humble): お下りいたす／お下りします
 ない形: くだらない
 なかった形: くだらなかった
 あれる形 (passive/honorific): くだられる

@@ -387,21 +387,22 @@ Being able to talk about a desire or hope #k  #card
 <!--ID: 1774708228377-->
 
 
-demand, requirement, request  #card
+demand, requirement, request | to formally or forcefully ask for something as necessary, stronger and more assertive than the softer 希望(きぼう) meaning hope/wish #card
 ほんやく: 要求(よっきゅう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_要.html">要</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_求.html">求</a>
 <!--ID: 1774708228378-->
 
 
-hope, wish, desire  #card
+hope, wish, desire | a mild, hopeful wish for something desired, gentler than the more assertive 要求(よっきゅう) meaning demand/request #card
 ほんやく: 希望 (きぼう)
+お/ご (honorific): ご希望(きぼう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_希.html">希</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_望.html">望</a>
 <!--ID: 1774708228379-->
 
 
-“being able to say (make) comparisons of things or people” #k  #card
+being able to say (make) comparisons of things or people #k  #card
 ほんやく: ものや人の比較が言えること（ひかく、い）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_比.html">比</a>
@@ -410,14 +411,14 @@ hope, wish, desire  #card
 <!--ID: 1774708228380-->
 
 
-comparison  #card
+comparison | a formal noun for the act of comparing two or more things, often used with を/が in structured comparison sentences #card
 ほんやく: 比較（ひかく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_比.html">比</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_較.html">較</a>
 <!--ID: 1774708228381-->
 
 
- #k  #card
+being able to state your own opinions, assumptions, and judgments #k  #card
 ほんやく: 自分の意見や個人的な推測、判断が言えること（じぶん、いけん、こじんてき、はんだん、い）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
@@ -431,23 +432,27 @@ comparison  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_判.html">判</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_断.html">断</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<!--ID: 1784877914677-->
 
-opinion #k  #card
+
+opinion | one's own view or stance on a matter, commonly used in set phrases like 意見を言う (to give an opinion) or 意見を聞く (to ask for one) #k  #card
 ほんやく: 意見（いけん）
+お/ご (honorific): ご意見(いけん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1774708228382-->
 
 
-guess, inference  #card
+guess, inference | a reasoned conjecture drawn from available information, more analytical than a casual guess #card
 ほんやく: 推測（すいそく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_推.html">推</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_測.html">測</a>
 <!--ID: 1774708228383-->
 
 
-judgment, decision  #card
+judgment, decision | a reasoned decision or verdict reached after assessing a situation #card
 ほんやく: 判断（はんだん）
+お/ご (honorific): ご判断(はんだん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_判.html">判</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_断.html">断</a>
 <!--ID: 1774708228384-->
@@ -455,24 +460,25 @@ judgment, decision  #card
 
 shoes  #card
 ほんやく: 靴（くつ）
+お/ご (honorific): お靴(くつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_靴.html">靴</a>
 <!--ID: 1774708228385-->
 
 
-wear shoes  #card
+wear shoes | はく is the verb for putting on anything worn on the legs/feet (pants, shoes, socks), unlike 着る which covers upper-body clothing #card
 ほんやく: 靴をはく(くつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_靴.html">靴</a>
 <!--ID: 1774708228386-->
 
 
-take off shoes  #card
+take off shoes | 脱ぐ is the general verb for removing anything worn on the body, no matter which verb (着る/はく/かぶる) was used to put it on #card
 ほんやく: 靴を脱ぐ（くつ、ぬぐ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_靴.html">靴</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_脱.html">脱</a>
 <!--ID: 1774708228387-->
 
 
-socks #k  #card
+socks | literally "under-the-shoe", refers to any socks or stockings worn under footwear #k  #card
 ほんやく: 靴下（くつした）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_靴.html">靴</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
@@ -494,19 +500,20 @@ to take off socks #k  #card
 <!--ID: 1774708228390-->
 
 
-handkerchief (materialowa husteczka do nosa)  #card
+handkerchief  #card
 ほんやく: ハンカチ（ハンカチ）
 <!--ID: 1774708228391-->
 
 
 hat / cap #k  #card
 ほんやく: 帽子（ぼうし）
+お/ご (honorific): お帽子(ぼうし)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帽.html">帽</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <!--ID: 1774708228392-->
 
 
-to wear hat #k  #card
+to wear hat | かぶる is used specifically for putting things on the head (hats, helmets), unlike 着る or はく #k  #card
 ほんやく: 帽子をかぶる（ぼうし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帽.html">帽</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
@@ -521,14 +528,15 @@ to take off hat #k  #card
 <!--ID: 1774708228394-->
 
 
-jacket, clothes on top #k  #card
+jacket, clothes on top | literally "upper garment"; a broad term for any outer top layer, not limited to a specific jacket style #k  #card
 ほんやく: 上着（うわぎ）
+お/ご (honorific): お上着(うわぎ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <!--ID: 1774708228395-->
 
 
-to wear jacket #k  #card
+to wear jacket | 着る is used for garments put on over the arms/torso, unlike はく (legwear) or かぶる (headwear) #k  #card
 ほんやく: 上着を着る（うわぎ、きる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
@@ -543,7 +551,7 @@ to take off jacket #k  #card
 <!--ID: 1774708228397-->
 
 
-coat  #card
+coat | a loanword referring specifically to an outer coat, narrower in scope than the general term 上着 for any top garment #card
 ほんやく: コート（コート）
 <!--ID: 1774708228398-->
 
@@ -576,7 +584,7 @@ to take off pants  #card
 <!--ID: 1774708228403-->
 
 
-shoe store (more polite) #k  #card
+shoe store (more polite) | 屋 names a shop or its keeper; adding さん makes reference to the shopkeeper more polite/friendly #k  #card
 ほんやく: 靴屋 (さん）（くつや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_靴.html">靴</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
@@ -617,7 +625,7 @@ size  #card
 <!--ID: 1774708228409-->
 
 
-how is the size?  #card
+How is the size? (polite, e.g. from shop staff)  #card
 ほんやく: サイズはいかがですか
 <!--ID: 1774708228410-->
 
@@ -669,7 +677,7 @@ concert  #card
 <!--ID: 1774708228419-->
 
 
-are you going to the party? B: Of course, i go #k  #card
+Are you going to the party? B: Of course, I'm going #k  #card
 ほんやく: A: パーテイーに行きますか B: もちろん、行きます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1774708228420-->
@@ -683,7 +691,7 @@ best shop #k  #card
 <!--ID: 1774708228421-->
 
 
-the most tall #k  #card
+the tallest #k  #card
 ほんやく: 一番高い(いちばん、たか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
@@ -691,7 +699,7 @@ the most tall #k  #card
 <!--ID: 1774708228422-->
 
 
-the narest #k  #card
+the nearest #k  #card
 ほんやく: 一番近い（いちばん、ちかい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
@@ -699,7 +707,7 @@ the narest #k  #card
 <!--ID: 1774708228423-->
 
 
-the most convinient shop #k  #card
+the most convenient shop #k  #card
 ほんやく: 一番便利な店（いちばん、べんり、みせ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
@@ -709,7 +717,7 @@ the most convinient shop #k  #card
 <!--ID: 1774708228424-->
 
 
-miss wang likes chinese food the best #k  #card
+Miss Wang likes Chinese food the best #k  #card
 ほんやく: わんさんは中華料理が一番好きです（ちゅうか、りょうり、す）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_華.html">華</a>
@@ -721,7 +729,7 @@ miss wang likes chinese food the best #k  #card
 <!--ID: 1774708228425-->
 
 
-how much  #card
+how much | asks specifically about price/cost, unlike どのくらい which asks about quantity or degree in general #card
 ほんやく: いくら（いくら）
 <!--ID: 1774708228426-->
 
@@ -732,7 +740,7 @@ how much is one apple? #k  #card
 <!--ID: 1774708228427-->
 
 
-how much are thosse blue shoes? #k  #card
+How much are those blue shoes? #k  #card
 ほんやく: この青いくつはいくらですか (あお)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
 <!--ID: 1774708228428-->
@@ -743,12 +751,12 @@ dollars  #card
 <!--ID: 1774708228429-->
 
 
-than  #card
+than | particle marking the standard of comparison, "compared to X", used in the N1 は N2 より Adj structure #card
 ほんやく: より（より）
 <!--ID: 1774708228430-->
 
 
-best / most #k  #card
+best / most | marks the superlative degree "number one", placed before an adjective or noun to show it ranks highest in a group #k  #card
 ほんやく: 一番（いちばん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
@@ -770,19 +778,19 @@ Indonesia  #card
 <!--ID: 1774708228434-->
 
 
-how / what  #card
+how / what | casual way to ask about manner or opinion (e.g. どう思いますか), less specific than どうやって "how (to do something)" #card
 ほんやく: どう（どう）
 <!--ID: 1774708228435-->
 
 
-milk #k  #card
+milk | refers specifically to cow's milk, as opposed to non-dairy alternatives like soy milk (豆乳) #k  #card
 ほんやく: 牛乳（ぎゅうにゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_乳.html">乳</a>
 <!--ID: 1774708228436-->
 
 
-i like black more #k  #card
+Do you like the black one more? #k  #card
 ほんやく: 黒い方が好きですか（くろ、す）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
@@ -790,7 +798,7 @@ i like black more #k  #card
 <!--ID: 1774708228437-->
 
 
-side, direction  #card
+side, direction | refers to one of two options or a general direction/area, softer and less direct than naming the specific place #card
 ほんやく: 方（ほう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1774708228438-->
@@ -804,7 +812,7 @@ to walk in the direction of the station #k  #card
 <!--ID: 1774708228439-->
 
 
-to walk in direction of Yokohama  #card
+to walk in the direction of Yokohama  #card
 ほんやく: よこはまの方いく（ほう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1774708228440-->
@@ -820,25 +828,25 @@ what, how = いかが  #card
 <!--ID: 1774708228442-->
 
 
-thank you for waiting (very polite, service industry) #k  #card
+thank you for waiting | very polite, common in service-industry settings, e.g. a shop clerk to a customer #k  #card
 ほんやく: お待たせしました（ま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1774708228443-->
 
 
-thank you for waiting (intimate people) #k  #card
+thank you for waiting | casual, shortened form used among close friends or family #k  #card
 ほんやく: お待たせ（ま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1774708228444-->
 
 
-Certainly, sir/madam (service industry, used when respond to your superior or customers who ask you a favour or gives an instruction わかりました)  #card
+Certainly, sir/madam | polite service-industry phrase used when responding to a superior's request or a customer's favor or instruction; casual equivalent is わかりました #card
 ほんやく: かしこまりました
 <!--ID: 1774708228445-->
 
 
-i want to go to hokkaido #k  #card
-ほんやく: 北海道はへ行きたい
+I want to go to Hokkaido #k  #card
+ほんやく: 北海道へ行きたい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_北.html">北</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
@@ -846,13 +854,13 @@ i want to go to hokkaido #k  #card
 <!--ID: 1774708228446-->
 
 
-i want to play guitar  #card
+I want to play guitar  #card
 ほんやく: ギターを弾きたいです（ひ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弾.html">弾</a>
 <!--ID: 1774708228447-->
 
 
-I wanted to buy it last year, but now i don't want to buy it anymore #k  #card
+I wanted to buy this car last year, but now I don't want to buy it anymore #k  #card
 ほんやく: 去年 この車を買いたかったですが　今は もう買いたくないです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -862,7 +870,7 @@ I wanted to buy it last year, but now i don't want to buy it anymore #k  #card
 <!--ID: 1774708228448-->
 
 
-do you want to go to japan together? #k  #card
+Do you want to go to Japan together? #k  #card
 ほんやく: いっしょに日本へ行きたいですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -870,13 +878,13 @@ do you want to go to japan together? #k  #card
 <!--ID: 1774708228449-->
 
 
-i want a lot of money #k  #card
+I want a lot of money #k  #card
 ほんやく: たくさんのお金がほしいです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1774708228450-->
 
 
-i want manga #k  #card
+I want manga #k  #card
 ほんやく: 漫画が欲しいです（まんが）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_漫.html">漫</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
@@ -884,13 +892,13 @@ i want manga #k  #card
 <!--ID: 1774708228451-->
 
 
-i want car #k  #card
+I want a car #k  #card
 ほんやく: 車がほしいです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <!--ID: 1774708228452-->
 
 
-i want new hat #k  #card
+I want a new hat #k  #card
 ほんやく: 新しい帽子が欲しいです（あたら、ぼうし、ほし)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帽.html">帽</a>
@@ -899,7 +907,7 @@ i want new hat #k  #card
 <!--ID: 1774708228453-->
 
 
-This piano is very expensive, but i really want it #k  #card
+This piano is very expensive, but I really want it #k  #card
 ほんやく: そのピアノはとても高いですが私はそれがとても欲しいです（ほし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
@@ -914,14 +922,14 @@ what do you want? #k  #card
 <!--ID: 1774708228455-->
 
 
-i don't want nothing #k  #card
+I don't want anything #k  #card
 ほんやく: 何も欲しくないです (ほし)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_欲.html">欲</a>
 <!--ID: 1774708228456-->
 
 
-i don't wan't big (wide) house #k  #card
+I don't want a big (wide) house #k  #card
 ほんやく: 広い家は欲しくないです (ひろ、いえ、ほし)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_広.html">広</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
@@ -929,14 +937,14 @@ i don't wan't big (wide) house #k  #card
 <!--ID: 1774708228457-->
 
 
-i want money #k  #card
+I want money #k  #card
 ほんやく: お金が欲しい（かね、ほし)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_欲.html">欲</a>
 <!--ID: 1774708228458-->
 
 
-yamada is taller than suzuki #k  #card
+Yamada is taller than Suzuki #k  #card
 ほんやく: 山田さんはすずきさんより背が高いです（せ、たか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -954,22 +962,22 @@ Today is colder than yesterday #k  #card
 <!--ID: 1774708228460-->
 
 
-this bread is more deliciosu than that bread #k  #card
+This bread is more delicious than that bread #k  #card
 ほんやく: このパンはそのパンより美味しいです（おい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_美.html">美</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <!--ID: 1774708228461-->
 
 
-the black shoes are more beautiful than the blue ones #k  #card
-ほんやく: 黒いくつは青いくつよりきれいです（くり、あお)
+The black shoes are more beautiful than the blue ones #k  #card
+ほんやく: 黒いくつは青いくつよりきれいです（くろ、あお)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
 <!--ID: 1774708228462-->
 
 
-A: Which do you like more, apples or tangerine B: I like tangerine more #k  #card
-ほんやく: A: リンゴと みかんとどちらが好きですか B: みかんの方がが好きです (のほうが)
+A: Which do you like more, apples or tangerines? B: I like tangerines more #k  #card
+ほんやく: A: リンゴと みかんとどちらが好きですか B: みかんの方が好きです (のほうが)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1774708228463-->
@@ -994,7 +1002,7 @@ A: Which do you think is more interesting, this magazine or that magazine? B: Bo
 <!--ID: 1774708228465-->
 
 
-both  #card
+both | answers a comparison question by affirming both options, contrasts with どちらか meaning "either one" #card
 ほんやく: どちらも
 <!--ID: 1774708228466-->
 
@@ -1011,10 +1019,9 @@ where in Japan do you like the most? #k  #card
 
 
 China is the biggest country in Asia #k  #card
-ほんやく: アジャの中で 中国語 が一番大きいです
+ほんやく: アジアの中で 中国 が一番大きいです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
@@ -1022,8 +1029,8 @@ China is the biggest country in Asia #k  #card
 
 
 Which foreign food do you like the most? #k  #card
-ほんやく: 開国の料理の中で何か一番が好きですか（かいこく　りょうり,いちばん)
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
+ほんやく: 外国の料理の中で何が一番好きですか（がいこく　りょうり,いちばん)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
@@ -1036,7 +1043,7 @@ Which foreign food do you like the most? #k  #card
 
 
 Which building in this town is the tallest? #k  #card
-ほんやく: この町の建物の中で一番が高いですか（まち、なか、たてもの, ばん、たか）
+ほんやく: この町の建物の中で一番高いですか（まち、なか、たてもの, ばん、たか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_町.html">町</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -1047,14 +1054,14 @@ Which building in this town is the tallest? #k  #card
 <!--ID: 1774708228470-->
 
 
-sakura was beautiful, white one and pink one #k  #card
+The cherry blossoms were beautiful, and there were white ones and pink ones #k  #card
 ほんやく: さくらは、とてもきれいで白いのとピンクのがありました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1774708228471-->
 
 
 A: Which shoes do you like, the white or the black? B: I like white ones. #k  #card
-ほんやく: A:　白いくつと 黒いくつと どちらが好きですか B: 白いのが好きですか
+ほんやく: A:　白いくつと 黒いくつと どちらが好きですか B: 白いのが好きです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
@@ -1091,7 +1098,7 @@ I think it will rain tomorrow #k  #card
 <!--ID: 1774708228475-->
 
 
-A: How is your new house? B: Its big, but access to transportation in inconvinient #k  #card
+A: How is your new house? B: It's big, but access to transportation is inconvenient #k  #card
 ほんやく: A: 新しい家は どう思いますか B: 広いですが、ちょっと交通が 不便だと思います（あたら、いえ、おも、ひろ、こうつう、ふべん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
@@ -1110,7 +1117,7 @@ what do you think? (polite/casual) #k  #card
 <!--ID: 1774708228477-->
 
 
-what do you think about this white dress(clothes)? B: I think is good #k  #card
+What do you think about this white dress (clothes)? B: I think it's good #k  #card
 ほんやく: この白い服はどう思う？ B:いいと思う（ふく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
@@ -1137,7 +1144,7 @@ I don't think this is my material #k  #card
 <!--ID: 1774708228480-->
 
 
-Japanese say, Itadakimasu before eating meals (direct) #k  #card
+Japanese people say "Itadakimasu" before eating a meal (direct) #k  #card
 ほんやく: 日本人は ご飯を 食べる前に 「いただきます」と言います
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1149,7 +1156,7 @@ Japanese say, Itadakimasu before eating meals (direct) #k  #card
 <!--ID: 1774708228481-->
 
 
-Miss kim said, I want to study abroad (direct) #k  #card
+Miss Kim said, "I want to study abroad" (direct) #k  #card
 ほんやく: キムさんは 「留学したい」と言いました (りゅうがく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -1157,7 +1164,7 @@ Miss kim said, I want to study abroad (direct) #k  #card
 <!--ID: 1774708228482-->
 
 
-arigatou means thank you in english (say) (direct) #k  #card
+Arigatou means "thank you" in English (say) (direct) #k  #card
 ほんやく: 英語で「ありがとう」は 「thank you」と言います
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
@@ -1165,7 +1172,7 @@ arigatou means thank you in english (say) (direct) #k  #card
 <!--ID: 1774708228483-->
 
 
-how to say it in japanese #k  #card
+How do you say this in Japanese? #k  #card
 ほんやく: これは日本語で何と言いますか（なん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1175,7 +1182,7 @@ how to say it in japanese #k  #card
 <!--ID: 1774708228484-->
 
 
-Ran san said you would come to Japan next week (indirect) #k  #card
+Ran-san said she would go to Japan next week (indirect) #k  #card
 ほんやく: らんさんは、来週日本へ行くと言いました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
@@ -1186,7 +1193,7 @@ Ran san said you would come to Japan next week (indirect) #k  #card
 <!--ID: 1774708228485-->
 
 
-Miss kim said she wanted to study abroad (indirect) #k  #card
+Miss Kim said she wanted to study abroad (indirect) #k  #card
 ほんやく: キムさんは留学したいと言いました（りゅうがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -1212,7 +1219,7 @@ My younger sister said she would go to a concert this weekend (indirect) #k  #ca
 
 
 I'm Michal (say) #k  #card
-ほんやく: 私はﾐハウと言います
+ほんやく: 私はミハウと言います
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1774708228489-->
@@ -1223,7 +1230,7 @@ please give me milk  #card
 <!--ID: 1774708228490-->
 
 
-please give me 2 tickets #k  #card
+please give me 2 stamps #k  #card
 ほんやく: 切手を２枚ください（きって）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
@@ -1232,11 +1239,11 @@ please give me 2 tickets #k  #card
 
 
 A: Please give me this B: Yes sir/madam  #card
-ほんやく: A: これをください B: はいかしこなりました
+ほんやく: A: これをください B: はいかしこまりました
 <!--ID: 1774708228492-->
 
 
-A: Please give me 82 yen stamps B: How many do you want? C: One please #k  #card
+A: Please give me 82 yen stamps B: How many do you want? C: One, please #k  #card
 ほんやく: A:82円の切手をください B: 何枚ですか  C: 一枚ください（えん、きって、なんまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_円.html">円</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
@@ -1247,7 +1254,7 @@ A: Please give me 82 yen stamps B: How many do you want? C: One please #k  #card
 <!--ID: 1774708228493-->
 
 
-the size is perfect  #card
+The size is perfect  #card
 ほんやく: サイズはちょうどいいです
 <!--ID: 1774708228494-->
 
@@ -1274,14 +1281,15 @@ just 5000 yen #k  #card
 
  Czasowniki:
 
-to wear (clothing below the waist) #wc #card
+to wear (clothing below the waist) | used specifically for anything worn on the legs/feet — pants, shoes, socks — as opposed to 着る for upper-body clothing or 被る for headwear #wc #card
 ほんやく: 履く（はく）
 て形: 履いて
 た形: 履いた
 ます形: 履きます
 出す形 (start): 履き出す
 そう (looks): 履きそう
-お〜になる (honorific): お履きになる
+お〜になる/special verb (honorific):お履きになる
+謙譲語 (humble): お履きいたす／お履きします
 ない形: 履かない
 なかった形: 履かなかった
 あれる形 (passive/honorific):  履かれる
@@ -1294,14 +1302,15 @@ to wear (clothing below the waist) #wc #card
 <!--ID: 1774708228498-->
 
 
-put on (one's hat) #wc #card
+put on (one's hat) | used specifically for putting things on the head (hats, helmets), distinct from 着る (upper-body clothing) or 履く (legwear/footwear) #wc #card
 ほんやく: 被る（かぶる）
 て形: 被って
 た形: 被った
 ます形: 被ります
 出す形 (start): 被り出す
 そう (looks): 被りそう
-お〜になる (honorific): お被りになる
+お〜になる/special verb (honorific):お被りになる
+謙譲語 (humble): お被りいたす／お被りします
 ない形: 被らない
 なかった形: 被らなかった
 あれる形 (passive/honorific):  被られる
@@ -1314,14 +1323,15 @@ put on (one's hat) #wc #card
 <!--ID: 1774708228499-->
 
 
-to think #wc #k #card
+to think | expresses a personal opinion, feeling, or belief; typically limited to first-person plain assertions unless quoting someone else's thought #wc #k #card
 ほんやく: 思う（おもう）
 て形: 思って
 た形: 思った
 ます形: 思います
 出す形 (start): 思い出す
 そう (looks): 思いそう
-お〜になる (honorific): お思いになる
+お〜になる/special verb (honorific):お思いになる
+謙譲語 (humble): お思いいたす／お思いします
 ない形: 思わない
 なかった形: 思わなかった
 あれる形 (passive/honorific):  思われる
@@ -1334,14 +1344,15 @@ to think #wc #k #card
 <!--ID: 1774708228500-->
 
 
-to say #wc #k #card
+to say | the general neutral verb for speaking or saying something, used for both direct and indirect quotes #wc #k #card
 ほんやく: 言う（いう）
 て形: 言って
 た形: 言った
 ます形: 言います
 出す形 (start): 言い出す
 そう (looks): 言いそう
-お〜になる (honorific): お言いになる
+お〜になる/special verb (honorific):おっしゃる
+謙譲語 (humble): 申す
 ない形: 言わない
 なかった形: 言わなかった
 あれる形 (passive/honorific):  言われる
@@ -1354,14 +1365,15 @@ to say #wc #k #card
 <!--ID: 1774708228501-->
 
 
-to wear (clothing above the waist) #wc #k #card
+to wear (clothing above the waist) | used for garments put on over the arms/torso like shirts and jackets, contrasting with 履く for legwear and 被る for headwear #wc #k #card
 ほんやく: 着る（きる）
 て形: 着て
 た形: 着た
 ます形: 着ます
 出す形 (start): 着出す
 そう (looks): 着そう
-お〜になる (honorific): お着になる
+お〜になる/special verb (honorific):お召(め)しになる
+謙譲語 (humble): -
 ない形: 着ない
 なかった形: 着なかった
 あれる形 (passive/honorific):  着られる
@@ -1374,14 +1386,15 @@ to wear (clothing above the waist) #wc #k #card
 <!--ID: 1774708228502-->
 
 
-take off (clothing) #wc #card
+take off (clothing) | the general verb for removing anything worn on the body, regardless of which verb (着る/履く/被る) was used to put it on #wc #card
 ほんやく: 脱ぐ（ぬぐ）
 て形: 脱いで
 た形: 脱いだ
 ます形: 脱ぎます
 出す形 (start): 脱ぎ出す
 そう (looks): 脱ぎそう
-お〜になる (honorific): お脱ぎになる
+お〜になる/special verb (honorific):お脱ぎになる
+謙譲語 (humble): お脱ぎいたす／お脱ぎします
 ない形: 脱がない
 なかった形: 脱がなかった
 あれる形 (passive/honorific):  脱がれる
@@ -1394,14 +1407,15 @@ take off (clothing) #wc #card
 <!--ID: 1774708228503-->
 
 
-to play (a musical instrument) #wc #card
+to play (a musical instrument) | used for stringed and keyboard instruments (guitar, piano), unlike 吹く which is for wind instruments #wc #card
 ほんやく: 弾く（ひく）
 て形: 弾いて
 た形: 弾いた
 ます形: 弾きます
 出す形 (start): 弾き出す
 そう (looks): 弾きそう
-お〜になる (honorific): お弾きになる
+お〜になる/special verb (honorific):お弾きになる
+謙譲語 (humble): お弾きいたす／お弾きします
 ない形: 弾かない
 なかった形: 弾かなかった
 あれる形 (passive/honorific):  弾かれる
@@ -1414,45 +1428,41 @@ to play (a musical instrument) #wc #card
 <!--ID: 1774708228504-->
 
 
-personal #wp #k #card
+personal | describes a private, individual view or matter as opposed to a general or official one #wp #k #card
 ほんやく: 個人的（こじんてき）
 過去形: —
 否定形: —
 副詞形: —
 そう (looks): 個人的そう
-敬語形: ご個人的
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_的.html">的</a>
 <!--ID: 1774708228505-->
 
 
-sure / of course #wp #card
+sure / of course | an emphatic word affirming something is obvious or certain, stronger than a plain はい #wp #card
 ほんやく: もちろん（もちろん）
 過去形: —
 否定形: —
 副詞形: —
 そう (looks): —
-敬語形: ごもっともです
 <!--ID: 1774708228506-->
 
 
-want #wp #card
+want | expresses the speaker's own desire for something; describing a third person's want instead uses 欲しがる #wp #card
 ほんやく: 欲しい（ほしい）
 過去形: 欲しかった
 否定形: 欲しくない
 副詞形: 欲しく
 そう (looks): 欲しそう
-敬語形: お欲しい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_欲.html">欲</a>
 <!--ID: 1774708228507-->
 
 
-just /dokładnie / akurat / w sam raz (represent perfect situation) #wp #card
+just / exactly | describes something happening at precisely the right moment, amount, or fit, e.g. a perfect size or exact timing #wp #card
 ほんやく: ちょうど（ちょうど）
 過去形: —
 否定形: —
 副詞形: —
 そう (looks): —
-敬語形: ちょうどよろしい
 <!--ID: 1774708228508-->

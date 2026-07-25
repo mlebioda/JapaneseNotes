@@ -555,7 +555,7 @@ Structure
 
  Rzeczowniki:
 
-please come to station at 7 pm  #card
+please come to the station at 7 pm  #card
 ほんやく: 午後７時に駅に来てください（ごご、しちじ、えき、き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_午.html">午</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
@@ -571,7 +571,7 @@ Being able to convey what you want a person to do, and not to do something  #car
 <!--ID: 1775021395400-->
 
 
-Sposób modyfikowania rzeczownika za pomocą czasownika  #card
+way to modify a noun using a verb  #card
 ほんやく: 動詞で名詞を修飾する方法 (どうし、めいし、しゅうしょく、ほうほう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_詞.html">詞</a>
@@ -583,21 +583,21 @@ Sposób modyfikowania rzeczownika za pomocą czasownika  #card
 <!--ID: 1775021395401-->
 
 
-metoda, sposób  #card
+method, way | refers to a means or manner of doing something; more formal than casual やり方 #card
 ほんやく: 方法（ほうほう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_法.html">法</a>
 <!--ID: 1775021395402-->
 
 
-modyfikacja (modyfikować, określać)  #card
+grammatical modification (to modify, to qualify) | describes the linguistic function of a word qualifying/describing a noun, used in grammar explanations #card
 ほんやく: 修飾 (する)（しゅうしょくする）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_修.html">修</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飾.html">飾</a>
 <!--ID: 1775021395403-->
 
 
-Opanowanie często używanych klasyfikatorów liczebnikowych  #card
+mastering the commonly used counters (classifiers)  #card
 ほんやく: よく使う 助数詞を 把握すること（つか、じょすうし、はあく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_助.html">助</a>
@@ -608,7 +608,7 @@ Opanowanie często używanych klasyfikatorów liczebnikowych  #card
 <!--ID: 1775021395404-->
 
 
-kqlasyfikatory liczebnikowe (np. ～本, ～枚)  #card
+counters / classifiers (e.g. ～本, ～枚) | grammatical suffixes attached to numbers depending on the shape or type of the item counted #card
 ほんやく: 助数詞（じょすうし)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_助.html">助</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
@@ -616,14 +616,14 @@ kqlasyfikatory liczebnikowe (np. ～本, ～枚)  #card
 <!--ID: 1775021395405-->
 
 
-rozumieć, opanować, mieć pełne zrozumienie, to master  #card
+to understand fully, to master | implies a thorough, confident grasp of something complex; more formal than plain 分かる #card
 ほんやく: 把握する（はあくする)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_把.html">把</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_握.html">握</a>
 <!--ID: 1775021395406-->
 
 
-year end company party #card
+year-end company party | a Japanese year-end tradition where coworkers gather to bid farewell to the year's hardships #card
 ほんやく: 忘年会（ぼうねんかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_忘.html">忘</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -631,7 +631,7 @@ year end company party #card
 <!--ID: 1775021395407-->
 
 
-new year party (company)  #card
+new year company party | held early in the new year, the counterpart to the year-end office gathering #card
 ほんやく: 新年会（しんねんかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -639,8 +639,9 @@ new year party (company)  #card
 <!--ID: 1775021395408-->
 
 
-(to) reservation / to book  #card
+reservation / to book | usable as a plain noun or, combined with する, as a verb meaning to reserve/book in advance #card
 ほんやく: 予約(する）（よやく）
+お/ご (honorific): ご予約（よやく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_予.html">予</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_約.html">約</a>
 <!--ID: 1775021395409-->
@@ -677,14 +678,14 @@ to book a movie ticket  #card
 <!--ID: 1775021395413-->
 
 
-problem / question /trouble, something what needs to be solved  #card
+problem / question / trouble | something that needs to be solved #card
 ほんやく: 問題（もんだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <!--ID: 1775021395414-->
 
 
-zadania ćwiczeniowe, ćwiczenia  #card
+practice exercises, drills | problem sets used to drill and reinforce what has been learned, often found in textbooks #card
 ほんやく: 練習問題（れんしゅう、もんだい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_練.html">練</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_習.html">習</a>
@@ -701,13 +702,14 @@ big problem  #card
 <!--ID: 1775021395416-->
 
 
-answer  #card
+answer (noun) | the reply or response itself, as distinct from the act of responding #card
 ほんやく: 答え（こたえ）
+お/ご (honorific): お答え(こたえ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 <!--ID: 1775021395417-->
 
 
-to sell car  #card
+to sell a car  #card
 ほんやく: 車を売る（くるま、う）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
@@ -745,14 +747,14 @@ this room is dark  #card
 <!--ID: 1775021395422-->
 
 
-cheerfull person  #card
+cheerful person  #card
 ほんやく: 明るい人です（あか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1775021395423-->
 
 
-Yamada isa cheerfull person  #card
+Yamada is a cheerful person  #card
 ほんやく: 山田さんは明るい人です（あか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -782,7 +784,7 @@ taxi  #card
 <!--ID: 1775021395427-->
 
 
-i work for company (long time)  #card
+I work for a company (long-term)  #card
 ほんやく: 会社に勤めています（つと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -831,7 +833,7 @@ test  #card
 <!--ID: 1775021395434-->
 
 
-student  #card
+student (pupil) | refers to a school pupil, as opposed to a university student (学生) #card
 ほんやく: 生徒（せいと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_徒.html">徒</a>
@@ -856,7 +858,7 @@ to help with homework  #card
 <!--ID: 1775021395437-->
 
 
-student in ~ year  #card
+student in ~ year | a suffix attached to a number to indicate which school year a student is in #card
 ほんやく: 〜年生（〜ねんせい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
@@ -892,16 +894,19 @@ student in ~ year  #card
 <!--ID: 1775021395441-->
 
 
-2nd grader of  high school  #card
+4th year university student  #card
 ほんやく: 大学4年生 (だいがく, よんねんせい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<!--ID: 1784877914681-->
+
 
 
 electric light  #card
 ほんやく: 電気（でんき）
+お/ご (honorific): お電気(でんき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <!--ID: 1775021395442-->
@@ -914,7 +919,7 @@ to turn on the light  #card
 <!--ID: 1775021395443-->
 
 
-to turn on TV  #card
+to turn on the TV  #card
 ほんやく: テレビをつける
 <!--ID: 1775021395444-->
 
@@ -927,13 +932,13 @@ to turn off the light  #card
 <!--ID: 1775021395445-->
 
 
-to turn off TV  #card
+to turn off the TV  #card
 ほんやく: テレビを消す（け）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
 <!--ID: 1775021395446-->
 
 
-word  #card
+word (vocabulary item) | specifically a word being learned/memorized, narrower than 言葉(ことば) which covers language/speech generally #card
 ほんやく: 単語（たんご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_単.html">単</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
@@ -969,7 +974,7 @@ I forgot the grammar that I learnt yesterday  #card
 <!--ID: 1775021395450-->
 
 
-cellphone  #card
+cellphone / mobile phone | literally "portable phone," the common word for a mobile phone in Japanese #card
 ほんやく: 携帯電話（けいたいでんわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_携.html">携</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帯.html">帯</a>
@@ -988,28 +993,28 @@ child was born in December  #card
 
 
 girl was born  #card
-ほんやく: 女の子が生まれた（おんあのこ、う）
+ほんやく: 女の子が生まれた（おんなのこ、う）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_女.html">女</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <!--ID: 1775021395453-->
 
 
-i danced for the first time yesterday  #card
+I danced for the first time yesterday  #card
 ほんやく: 昨日はじめてダンスしました（きのう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1775021395454-->
 
 
-I'll met this person for the first time  #card
+I'll meet this person for the first time  #card
 ほんやく: あの人とはじめて会います
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <!--ID: 1775021395455-->
 
 
-everyone  #card
+everyone / everybody | typically refers to people within a specific group already understood from context, more casual than 皆様 #card
 ほんやく: みんな（さん）
 <!--ID: 1775021395456-->
 
@@ -1021,7 +1026,7 @@ Everybody has been to that store before  #card
 <!--ID: 1775021395457-->
 
 
-other  (noun modifier・adverb)  #card
+other (noun modifier・adverb) | refers to something/someone besides what was just mentioned; used as 他の＋N or 他に as an adverb #card
 ほんやく: 他 (のN/に)（ほか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_他.html">他</a>
 <!--ID: 1775021395458-->
@@ -1035,7 +1040,7 @@ other question  #card
 <!--ID: 1775021395459-->
 
 
-people  #card
+other people  #card
 ほんやく: 他の人（ほかのひと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_他.html">他</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
@@ -1049,37 +1054,37 @@ what else do you have?  #card
 <!--ID: 1775021395461-->
 
 
-counters for frequency  #card
+counter for frequency / occurrences | attaches to a number to count how many times something happens #card
 ほんやく: 〜回（〜かい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_回.html">回</a>
 <!--ID: 1775021395462-->
 
 
-counters for small animals, fish and insects  #card
+counter for small animals, fish and insects | one of several animal counters, used for smaller creatures (larger animals use 頭) #card
 ほんやく: 〜匹（〜ひき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_匹.html">匹</a>
 <!--ID: 1775021395463-->
 
 
-counters for drinks in cups and glasses  #card
+counter for cupfuls / glassfuls | used for servings of a liquid such as coffee, tea, or water #card
 ほんやく: 〜杯（〜はい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_杯.html">杯</a>
 <!--ID: 1775021395464-->
 
 
-counters for thin and long things  #card
+counter for long, thin objects | used for items like pens, bottles, or trees #card
 ほんやく: 〜本（〜ほん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <!--ID: 1775021395465-->
 
 
-counters for books  #card
+counter for bound volumes | used for books, magazines, and notebooks #card
 ほんやく: 〜冊（〜さつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冊.html">冊</a>
 <!--ID: 1775021395466-->
 
 
-counters for machines and vehicles  #card
+counter for machines and vehicles | used for items like cars, TVs, and computers #card
 ほんやく: 台（だい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
 <!--ID: 1775021395467-->
@@ -1090,7 +1095,7 @@ tape  #card
 <!--ID: 1775021395468-->
 
 
-Do ypu have any questions?  #card
+Do you have any questions?  #card
 ほんやく: 何か質問はありますか(しつもん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_質.html">質</a>
@@ -1098,12 +1103,12 @@ Do ypu have any questions?  #card
 <!--ID: 1775021395469-->
 
 
-what should i do/ what will you do?  #card
+what should I do / what will you do?  #card
 ほんやく: どうしますか
 <!--ID: 1775021395470-->
 
 
-Ten pokój jest bardzo ciemny. Proszę włączyć światło。  #card
+This room is very dark. Please turn on the light.  #card
 ほんやく: この部屋（へや）は とても 暗（くら）いです。電気（でんき）を つけて ください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
@@ -1113,7 +1118,7 @@ Ten pokój jest bardzo ciemny. Proszę włączyć światło。  #card
 <!--ID: 1775021395471-->
 
 
-ほんやく: Uczniowie drugiej klasy, proszę podnieść rękę。  #card
+Second-year students, please raise your hand.  #card
 ほんやく: ２年生（ねんせい）は 手（て）を あげて ください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
@@ -1121,7 +1126,7 @@ Ten pokój jest bardzo ciemny. Proszę włączyć światło。  #card
 <!--ID: 1775021395472-->
 
 
-Proszę pokazać mi zdjęcie swojej rodziny。  #card
+Please show me a photo of your family.  #card
 ほんやく: 家族（かぞく）の 写真（しゃしん）を 見（み）せて ください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
@@ -1131,7 +1136,7 @@ Proszę pokazać mi zdjęcie swojej rodziny。  #card
 <!--ID: 1775021395473-->
 
 
-Proszę zapamiętać to słowo。  #card
+Please memorize this word.  #card
 ほんやく: この 単語（たんご）を 覚（おぼ）えて ください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_単.html">単</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
@@ -1139,14 +1144,14 @@ Proszę zapamiętać to słowo。  #card
 <!--ID: 1775021395474-->
 
 
-dictionary  #card
+dictionary | a physical or electronic reference book of word meanings, as opposed to a mere word list #card
 ほんやく: 辞書（じしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_辞.html">辞</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1775021395475-->
 
 
-please don't buy it  #card
+please don't sell it  #card
 ほんやく: 売らないでください（う）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
 <!--ID: 1775021395476-->
@@ -1164,7 +1169,7 @@ please don't turn off  #card
 <!--ID: 1775021395478-->
 
 
-Proszę nie używać telefonu komórkowego w szpitalu。  #card
+Please do not use your cellphone in the hospital.  #card
 ほんやく: 病院（びょういん）で 携帯電話（けいたいでんわ）を 使（つか）わないでください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
@@ -1176,7 +1181,7 @@ Proszę nie używać telefonu komórkowego w szpitalu。  #card
 <!--ID: 1775021395479-->
 
 
-Zaraz zaczniemy test, więc proszę nie patrzeć do książki。  #card
+We are about to start the test, so please do not look at your book.  #card
 ほんやく: これから テストを 始（はじ）めますので、本（ほん）は 見（み）ないでください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1184,7 +1189,7 @@ Zaraz zaczniemy test, więc proszę nie patrzeć do książki。  #card
 <!--ID: 1775021395480-->
 
 
-Proszę nie palić w tym pokoju。  #card
+Please do not smoke in this room.  #card
 ほんやく: この部屋（へや）で タバコを 吸（す）わないでください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
@@ -1208,14 +1213,14 @@ You don't have to eat  #card
 <!--ID: 1775021395483-->
 
 
-you don't have to book reservation  #card
+you don't have to make a reservation  #card
 ほんやく: 予 約しなくてもいいです（よやく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_予.html">予</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_約.html">約</a>
 <!--ID: 1775021395484-->
 
 
-Nie trzeba do niego dzwonić。  #card
+You don't have to call him.  #card
 ほんやく: 彼(かれ)に電話(でんわ)をかけなくてもいいです。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
@@ -1223,13 +1228,13 @@ Nie trzeba do niego dzwonić。  #card
 <!--ID: 1775021395485-->
 
 
-Czy nie muszę tam iść?  #card
+Do I not have to go there?  #card
 ほんやく: わたしはあそこに行(い)かなくてもいいですか。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1775021395486-->
 
 
-Wszyscy na ciebie czekają。  #card
+Everyone is waiting for you.  #card
 ほんやく: みんなあなたを待(ま)っています。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1775021395487-->
@@ -1263,7 +1268,7 @@ person who didn’t  sushi  #card
 <!--ID: 1775021395491-->
 
 
-class room  #card
+class / lesson  #card
 ほんやく: 授業（じゅぎょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_授.html">授</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
@@ -1279,7 +1284,7 @@ book to use in class  #card
 <!--ID: 1775021395493-->
 
 
-This is the cake my mom made。 I borrowed a book that Raj bought (2 particles can be used)  #card
+This is the cake my mom made. (2 particles can be used: が/の)  #card
 ほんやく: これは母(はは)（が/の) 作(つく)ったケーキです。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
@@ -1318,7 +1323,7 @@ I borrowed a book that Raj bought (2 particles can be used)  #card
 
 昨日 飲んだ牛乳はとてもおいしかったです (きのう、ぎゅうにゅう)
 
-This is the lunch box i bought at the supermarket in front of the station  #card
+This is the lunch box I bought at the supermarket in front of the station  #card
 ほんやく: これは駅の前のスーパーで買った弁当です（えき、まえ、べんとう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
@@ -1372,7 +1377,7 @@ Hello, I am Ando from ABC Global Co., Ltd. Is Mr. Yamada here? (bring topic, int
 <!--ID: 1775021395503-->
 
 
-I came by bicycle, can I go to that restaurant by bicycle? (bring topic, first introduced mean of transport, then question)  #card
+I came by bicycle, can I go to that restaurant by bicycle? (bring topic, first introduced means of transport, then question)  #card
 ほんやく: 自転車（じてんしゃ）で来（き）ましたが、自転車（じてんしゃ）でそのレストランに行（い）ってもいいですか。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
@@ -1908,7 +1913,7 @@ There are two cars.  #card
 
 
 2 times a week  #card
-ほんやく: 一週間に回（いっしゅうかんにかい）
+ほんやく: 一週間に２回（いっしゅうかんににかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
@@ -1968,7 +1973,7 @@ talk to general manager  #card
 <!--ID: 1775021395592-->
 
 
-speak in japanese  #card
+speak in Japanese  #card
 ほんやく: 日本語を話す
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1977,7 +1982,7 @@ speak in japanese  #card
 <!--ID: 1775021395593-->
 
 
-speak in chinese  #card
+speak in Chinese  #card
 ほんやく: 中国を話す
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
@@ -1985,21 +1990,22 @@ speak in chinese  #card
 <!--ID: 1775021395594-->
 
 
-question / to ask a question  (verb different) usualy by a teachers  #card
+question / to ask a question | the verb form (質問する) is especially used by teachers asking students #card
 ほんやく: 質問（(を)  + する）（しつもん）
+お/ご (honorific): ご質問(しつもん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_質.html">質</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
 <!--ID: 1775021395595-->
 
 
-anyone has questions?  #card
+does anyone have questions?  #card
 ほんやく: みなさん、質問はありますか（しつもん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_質.html">質</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
 <!--ID: 1775021395596-->
 
 
-to ask sensei question  #card
+to ask sensei a question  #card
 ほんやく: 先生に質問する（せんせい、しつもん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
@@ -2008,7 +2014,7 @@ to ask sensei question  #card
 <!--ID: 1775021395597-->
 
 
-to ask  shop clerk a question  #card
+to ask a shop clerk a question  #card
 ほんやく: 店員に質問する（てんいん、しつもん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
@@ -2052,7 +2058,7 @@ to ask father (for help)  #card
 <!--ID: 1775021395602-->
 
 
-to ask friend (for help)  #card
+to ask a friend (for help)  #card
 ほんやく: 友達に頼む（ともだち、たの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
@@ -2063,7 +2069,7 @@ to ask friend (for help)  #card
 
 
 
-to entrust you with the work (powierzyc komuś prace)  #card
+to entrust someone with work  #card
 ほんやく: 仕事を頼む（たの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
@@ -2071,13 +2077,13 @@ to entrust you with the work (powierzyc komuś prace)  #card
 <!--ID: 1775021395604-->
 
 
-to entrust with the copy  #card
-ほんやく: コピを頼む（たの）
+to ask someone to make a copy  #card
+ほんやく: コピーを頼む（たの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頼.html">頼</a>
 <!--ID: 1775021395605-->
 
 
-Ill ask Yamada to fork for me  #card
+I'll ask Yamada to do my work for me  #card
 ほんやく: 山田さんに私の仕事を頼みます（たの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -2088,20 +2094,20 @@ Ill ask Yamada to fork for me  #card
 <!--ID: 1775021395606-->
 
 
-Im calling miss wang (przywolac)  #card
+I'm calling Miss Wang (calling out to summon her)  #card
 ほんやく: わんさんを呼んでいます（よ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_呼.html">呼</a>
 <!--ID: 1775021395607-->
 
 
-Miss Ando is calling (wola) her elder brother  #card
+Miss Ando is calling her older brother  #card
 ほんやく: アンドさんはお兄さんを呼んでいます（にい、よ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_呼.html">呼</a>
 <!--ID: 1775021395608-->
 
 
-lets invite the teacher to the party  #card
+let's invite the teacher to the party  #card
 ほんやく: 先生をパーティーに呼びましょう（よ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
@@ -2123,7 +2129,7 @@ to call the doctor  #card
 <!--ID: 1775021395611-->
 
 
-to show ticket to station attendant  #card
+to show a ticket to the station attendant  #card
 ほんやく: 駅員に切符を見せます（えきいん、きっぷ、み）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
@@ -2141,14 +2147,15 @@ show a photo please  #card
 <!--ID: 1775021395613-->
 
 
-to pass, to inform #card
+to convey, to communicate (information) #card
 ほんやく: 伝える（つたえる）
 て形: 伝えて
 た形: 伝えた
 ます形: 伝えます
 出す形 (start): 伝え出す
 そう (looks): 伝えそう
-お〜になる (honorific): お伝えになる
+お〜になる/special verb (honorific):お伝えになる
+謙譲語 (humble): お伝えいたす／お伝えします
 ない形: 伝えない
 なかった形: 伝えなかった
 あれる形 (passive/honorific):  伝えられる
@@ -2168,7 +2175,8 @@ to talk / to speak  #card
 ます形: 話します
 出す形 (start): 話し出す
 そう (looks): 話しそう
-お〜になる (honorific): お話しになる
+お〜になる/special verb (honorific):お話しになる
+謙譲語 (humble): お話しいたす／お話しします
 ない形: 話さない
 なかった形: 話さなかった
 あれる形 (passive/honorific):  話される
@@ -2188,7 +2196,8 @@ to answer  #card
 ます形: 答えます
 出す形 (start): 答え出す
 そう (looks): 答えそう
-お〜になる (honorific): お答えになる
+お〜になる/special verb (honorific):お答えになる
+謙譲語 (humble): お答えいたす／お答えします
 ない形: 答えない
 なかった形: 答えなかった
 あれる形 (passive/honorific):  答えられる
@@ -2208,7 +2217,8 @@ to put down  #card
 ます形: 置きます
 出す形 (start): 置き出す
 そう (looks): 置きそう
-お〜になる (honorific): お置きになる
+お〜になる/special verb (honorific):お置きになる
+謙譲語 (humble): お置きいたす／お置きします
 ない形: 置かない
 なかった形: 置かなかった
 あれる形 (passive/honorific):  置かれる
@@ -2228,7 +2238,8 @@ to sell  #card
 ます形: 売ります
 出す形 (start): 売り出す
 そう (looks): 売りそう
-お〜になる (honorific): お売りになる
+お〜になる/special verb (honorific):お売りになる
+謙譲語 (humble): お売りいたす／お売りします
 ない形: 売らない
 なかった形: 売らなかった
 あれる形 (passive/honorific):  売られる
@@ -2241,14 +2252,15 @@ to sell  #card
 <!--ID: 1775021395618-->
 
 
-to have trouble, to struggle,  struggling with something, not knowing what to do (particle)  #card
+to have trouble, to be at a loss (used with に + noun)  #card
 ほんやく: (に)困る（こまる）
 て形: 困って
 た形: 困った
 ます形: 困ります
 出す形 (start): 困り出す
 そう (looks): 困りそう
-お〜になる (honorific): お困りになる
+お〜になる/special verb (honorific):お困りになる
+謙譲語 (humble): お困りいたす／お困りします
 ない形: 困らない
 なかった形: 困らなかった
 あれる形 (passive/honorific):  困られる
@@ -2268,7 +2280,8 @@ to work  (when somebody works in one place for a long time) particle  #card
 ます形: 勤めます
 出す形 (start): 勤め出す
 そう (looks): 勤めそう
-お〜になる (honorific): お勤めになる
+お〜になる/special verb (honorific):お勤めになる
+謙譲語 (humble): お勤めいたす／お勤めします
 ない形: 勤めない
 なかった形: 勤めなかった
 あれる形 (passive/honorific):  勤められる
@@ -2288,7 +2301,8 @@ to help  (particle)  #card
 ます形: 手伝います
 出す形 (start): 手伝い出す
 そう (looks): 手伝いそう
-お〜になる (honorific): お手伝いになる
+お〜になる/special verb (honorific):お手伝いになる
+謙譲語 (humble): お手伝いいたす／お手伝いします
 ない形: 手伝わない
 なかった形: 手伝わなかった
 あれる形 (passive/honorific):  手伝われる
@@ -2309,7 +2323,8 @@ to stand  #card
 ます形: 立ちます
 出す形 (start): 立ち出す
 そう (looks): 立ちそう
-お〜になる (honorific): お立ちになる
+お〜になる/special verb (honorific):お立ちになる
+謙譲語 (humble): お立ちいたす／お立ちします
 ない形: 立たない
 なかった形: 立たなかった
 あれる形 (passive/honorific):  立たれる
@@ -2329,7 +2344,8 @@ to turn on  #card
 ます形: 点けます
 出す形 (start): 点け出す
 そう (looks): 点けそう
-お〜になる (honorific): お点けになる
+お〜になる/special verb (honorific):お点けになる
+謙譲語 (humble): お点けいたす／お点けします
 ない形: 点けない
 なかった形: 点けなかった
 あれる形 (passive/honorific):  点けられる
@@ -2349,7 +2365,8 @@ to turn off / erase  #card
 ます形: 消します
 出す形 (start): 消し出す
 そう (looks): 消しそう
-お〜になる (honorific): お消しになる
+お〜になる/special verb (honorific):お消しになる
+謙譲語 (humble): お消しいたす／お消しします
 ない形: 消さない
 なかった形: 消さなかった
 あれる形 (passive/honorific):  消される
@@ -2369,7 +2386,8 @@ attendance / to attend  #card
 ます形: 出席します
 出す形 (start): 出席し出す
 そう (looks): 出席しそう
-お〜になる (honorific): ご出席になる
+お〜になる/special verb (honorific):ご出席になる
+謙譲語 (humble): ご出席いたす／ご出席します
 ない形: 出席しない
 なかった形: 出席しなかった
 あれる形 (passive/honorific):  出席される
@@ -2390,7 +2408,8 @@ to remember  #card
 ます形: 覚えます
 出す形 (start): 覚え出す
 そう (looks): 覚えそう
-お〜になる (honorific): お覚えになる
+お〜になる/special verb (honorific):お覚えになる
+謙譲語 (humble): お覚えいたす／お覚えします
 ない形: 覚えない
 なかった形: 覚えなかった
 あれる形 (passive/honorific):  覚えられる
@@ -2410,7 +2429,8 @@ to forget  #card
 ます形: 忘れます
 出す形 (start): 忘れ出す
 そう (looks): 忘れそう
-お〜になる (honorific): お忘れになる
+お〜になる/special verb (honorific):お忘れになる
+謙譲語 (humble): お忘れいたす／お忘れします
 ない形: 忘れない
 なかった形: 忘れなかった
 あれる形 (passive/honorific):  忘れられる
@@ -2430,7 +2450,8 @@ to use  #card
 ます形: 使います
 出す形 (start): 使い出す
 そう (looks): 使いそう
-お〜になる (honorific): お使いになる
+お〜になる/special verb (honorific):お使いになる
+謙譲語 (humble): お使いいたす／お使いします
 ない形: 使わない
 なかった形: 使わなかった
 あれる形 (passive/honorific):  使われる
@@ -2450,7 +2471,8 @@ to be born  (passive form from うむ) + particle  #card
 ます形: 生まれます
 出す形 (start): 生まれ出す
 そう (looks): 生まれそう
-お〜になる (honorific): お生まれになる
+お〜になる/special verb (honorific):お生まれになる
+謙譲語 (humble): お生まれいたす／お生まれします
 ない形: 生まれない
 なかった形: 生まれなかった
 あれる形 (passive/honorific):  生まれられる
@@ -2470,7 +2492,8 @@ to raise, lift (up)  #card
 ます形: 上げます
 出す形 (start): 上げ出す
 そう (looks): 上げそう
-お〜になる (honorific): お上げになる
+お〜になる/special verb (honorific):お上げになる
+謙譲語 (humble): お上げいたす／お上げします
 ない形: 上げない
 なかった形: 上げなかった
 あれる形 (passive/honorific):  上げられる
@@ -2490,7 +2513,8 @@ to place, to put, to leave (something somewhere); to park (e.g. a bicycle)  #car
 ます形: 置きます
 出す形 (start): 置き出す
 そう (looks): 置きそう
-お〜になる (honorific): お置きになる
+お〜になる/special verb (honorific):お置きになる
+謙譲語 (humble): お置きいたす／お置きします
 ない形: 置かない
 なかった形: 置かなかった
 あれる形 (passive/honorific):  置かれる
@@ -2503,14 +2527,15 @@ to place, to put, to leave (something somewhere); to park (e.g. a bicycle)  #car
 <!--ID: 1775021395631-->
 
 
-to ask / request  (particle)/Hoping someone will help you in something  #card
+to ask / to request (used with に) | implies hoping someone will help you with something #card
 ほんやく: (に)頼む（たのむ）
 て形: 頼んで
 た形: 頼んだ
 ます形: 頼みます
 出す形 (start): 頼み出す
 そう (looks): 頼みそう
-お〜になる (honorific): お頼みになる
+お〜になる/special verb (honorific):お頼みになる
+謙譲語 (humble): お頼みいたす／お頼みします
 ない形: 頼まない
 なかった形: 頼まなかった
 あれる形 (passive/honorific):  頼まれる
@@ -2523,14 +2548,15 @@ to ask / request  (particle)/Hoping someone will help you in something  #card
 <!--ID: 1775021395632-->
 
 
-to call /invite  #card
+to call / invite  #card
 ほんやく: 呼ぶ（よぶ）
 て形: 呼んで
 た形: 呼んだ
 ます形: 呼びます
 出す形 (start): 呼び出す
 そう (looks): 呼びそう
-お〜になる (honorific): お呼びになる
+お〜になる/special verb (honorific):お呼びになる
+謙譲語 (humble): お呼びいたす／お呼びします
 ない形: 呼ばない
 なかった形: 呼ばなかった
 あれる形 (passive/honorific):  呼ばれる
@@ -2550,7 +2576,8 @@ to show  #card
 ます形: 見せます
 出す形 (start): 見せ出す
 そう (looks): 見せそう
-お〜になる (honorific): お見せになる
+お〜になる/special verb (honorific):お見せになる
+謙譲語 (humble): お目にかける
 ない形: 見せない
 なかった形: 見せなかった
 あれる形 (passive/honorific):  見せられる

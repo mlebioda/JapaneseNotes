@@ -45,6 +45,10 @@ package "Agents" {
     no access: JPLessons/
     never writes or edits any file
     hard rule: never calls scribe (planner does)
+    GAP: frontmatter description claims reviewer
+      "calls scribe (A2A) to log the analysis" on
+      completion, but Step 4 / Hard rules only route
+      to planner — description and body disagree
   end note
 
   component [planner] as Planner <<agent>>

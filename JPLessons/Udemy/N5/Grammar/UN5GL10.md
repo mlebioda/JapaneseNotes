@@ -544,7 +544,7 @@ Structure
 <!--ID: 1763701622657-->
 
 
- Sposób mówienia używany przy(podczas) dostawaniu czegoś od kogoś i dawaniu czegoś komuś. #card
+ Way of speaking used when receiving something from someone or giving something to someone. #card
 ほんやく: 人から物をもらったり、人に物をあげたりする時の 言い方（もの、とき、い、かた） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -564,40 +564,41 @@ Structure
 <!--ID: 1763701622659-->
 
 
- odmiana / odmieniac #card
+ conjugation / to conjugate #card
 ほんやく: 活用(する）（かつよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_活.html">活</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1763701622660-->
 
 
- comic book  #k #card
+ comic book | refers to Japanese-style comic books/graphic novels, more specific than the generic loanword コミック for foreign comics #k #card
 ほんやく: 漫画（まんが） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_漫.html">漫</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <!--ID: 1763701622661-->
 
 
- TV drama   #card
+ TV drama | a katakana loanword for a scripted TV drama series, as opposed to バラエティ (variety shows) or ニュース (news) #card
 ほんやく: テレビドラマ 
 <!--ID: 1763701622662-->
 
 
- TV program   #card
+ TV program | the general word for any broadcast show (drama, news, variety), broader than テレビドラマ which specifically means a drama series #card
 ほんやく: (テレビ)番組（ばんぐみ） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_組.html">組</a>
 <!--ID: 1763701622663-->
 
 
- fruit   #card
+ fruit | food term for fruit, as distinguished from 野菜 (vegetables) #card
 ほんやく: 果物（くだもの） 
+お/ご (honorific): お果物(くだもの)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_果.html">果</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1763701622664-->
 
 
- strawbery #card
+ strawberry #card
 ほんやく: いちご 
 <!--ID: 1763701622665-->
 
@@ -617,8 +618,9 @@ Structure
 <!--ID: 1763701622668-->
 
 
- oplata #k #card
+ fee / charge | a fee or charge for a service (transportation, admission, etc.), as opposed to 値段 which refers to the price of goods #k #card
 ほんやく: 料金（りょうきん）
+お/ご (honorific): ご料金(りょうきん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1763701622669-->
@@ -626,16 +628,17 @@ Structure
 
  fish  #k #card
 ほんやく: 魚（さかな） 
+お/ご (honorific): お魚(さかな)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_魚.html">魚</a>
 <!--ID: 1763701622670-->
 
 
- dance / to dance  eng #card
+ dance / to dance #card
 ほんやく: ダンス 
 <!--ID: 1763701622671-->
 
 
- sports / to do sports  eng #card
+ sports / to do sports #card
 ほんやく: スポーツ 
 <!--ID: 1763701622672-->
 
@@ -649,49 +652,50 @@ Structure
 
  money  #k #card
 ほんやく: 金（かね） 
+お/ご (honorific): お金(かね)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1763701622674-->
 
 
- to borrow money #card
+ to borrow money | to receive money temporarily with the intent to return it; contrasts with 貸す(かす), which means to lend #card
 ほんやく: お金を借りる（かね、かり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <!--ID: 1763701622675-->
 
 
- to lend money #card
+ to lend money | to give money temporarily expecting it back; contrasts with 借りる(かりる), which means to borrow #card
 ほんやく: お金を貸す（かね、か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <!--ID: 1763701622676-->
 
 
- to receive money #card
+ to receive money | to be given money as a gift or benefit, with focus on the receiver's gain #card
 ほんやく: お金をもらう（かね）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1763701622677-->
 
 
- to cost money #card
+ to cost money | expresses a required expense incurred passively, unlike もらう/あげる which involve money changing hands between people #card
 ほんやく: お金がかかる（かね）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1763701622678-->
 
 
- rich #card
+ rich | a common, casual way to describe someone who has a lot of money; literally "money-holder" #card
 ほんやく: お金持ち（かね,も) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 <!--ID: 1763701622679-->
 
 
- ticket eng #card
+ ticket | an English loanword typically used for event tickets (concerts, flights, movies); contrasts with the native word 切符, mainly used for train/bus tickets #card
 ほんやく: チケット 
 <!--ID: 1763701622680-->
 
 
- ticket #k #card
+ ticket | the native word mainly used for train/bus tickets; contrasts with the loanword チケット, typically used for event tickets #k #card
 ほんやく: 切符（きっぷ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_符.html">符</a>
@@ -724,14 +728,16 @@ Structure
 <!--ID: 1763701622684-->
 
 
- like  #k #card
+ like | expresses liking or fondness; grammatically a na-adjective, not a verb, despite the English gloss #k #card
 ほんやく: 好き（すき） 
+お/ご (honorific): お好き(すき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <!--ID: 1763701622685-->
 
 
- dislike  #card
+ dislike | expresses disliking; a na-adjective, and direct use can sound blunt, so it's often softened in polite conversation #card
 ほんやく: 嫌い（きらい） 
+お/ご (honorific): お嫌い(きらい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_嫌.html">嫌</a>
 <!--ID: 1763701622686-->
 
@@ -746,7 +752,7 @@ Structure
 <!--ID: 1763701622687-->
 
 
- younger sister is bad at english #card
+ Younger sister is bad at English #card
 ほんやく: 妹は英語が下手です（いもうと、えいご、へた) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
@@ -756,14 +762,14 @@ Structure
 <!--ID: 1763701622688-->
 
 
- bookstore #k #card
+ bookstore | the suffix 屋 attached to a shop type means "store selling X," often a small/family-run shop, as opposed to the more general suffix 店 #k #card
 ほんやく: 本屋（ほんや） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1763701622689-->
 
 
- coffee shop  #k #card
+ coffee shop | a traditional Japanese-style tea/coffee shop, distinct from the modern loanword カフェ used for Western-style cafes #k #card
 ほんやく: 喫茶店（きっさてん, consume+tea+shop） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_喫.html">喫</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_茶.html">茶</a>
@@ -773,25 +779,26 @@ Structure
 
  stamp  #k #card
 ほんやく: 切手（きって, cut + hand） 
+お/ご (honorific): お切手(きって)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1763701622691-->
 
 
- a little  #k #card
+ a little | a neutral/slightly formal adverb for "a little," compared to the more casual ちょっと #k #card
 ほんやく: 少し（すこし） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1763701622692-->
 
 
- not at all   #card
+ not at all | traditionally paired only with a negative predicate, though casual modern speech sometimes uses it with positive meaning ("totally/very") #card
 ほんやく: 全然（ぜんぜん） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_全.html">全</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_然.html">然</a>
 <!--ID: 1763701622693-->
 
 
- height / back #card
+ height / back | refers to a person's height (背が高い) or to the back/spine of a body or object, depending on context #card
 ほんやく: 背（せ） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_背.html">背</a>
 <!--ID: 1763701622694-->
@@ -803,14 +810,14 @@ Structure
 <!--ID: 1763701622695-->
 
 
- draw a picture #card
+ draw a picture | specifically means to draw or paint visual art, as opposed to 書く, which means to write characters or text #card
 ほんやく: 絵を描く（え、えが）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_絵.html">絵</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_描.html">描</a>
 <!--ID: 1763701622696-->
 
 
- rental shop eng #card
+ rental shop #card
 ほんやく: レンタルショップ 
 <!--ID: 1763701622697-->
 
@@ -822,7 +829,8 @@ Structure
 
 
  salt #card
-ほんやく: 塩（しお）shijo 
+ほんやく: 塩（しお） 
+お/ご (honorific): お塩(しお)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_塩.html">塩</a>
 <!--ID: 1763701622699-->
 
@@ -832,7 +840,7 @@ Structure
 <!--ID: 1763701622700-->
 
 
- ten sok jest gęsty #card
+ This juice is thick #card
 ほんやく: このジュースは濃いです（こい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_濃.html">濃</a>
 <!--ID: 1763701622701-->
@@ -846,7 +854,7 @@ Structure
 <!--ID: 1763701622702-->
 
 
- things  #k #card
+ things | refers to tangible objects/items, contrasted with こと, which refers to intangible matters, facts, or events #k #card
 ほんやく: 物（もの） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1763701622703-->
@@ -880,22 +888,23 @@ Structure
 
  color #k #card
 ほんやく: 色（いろ） 
+お/ご (honorific): お色(いろ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1763701622708-->
 
 
- why? #card
+ why? | a common way to ask "why," more colloquial/emotional than the formal なぜ and less casual than 何で(なんで) #card
 ほんやく: どうして 
 <!--ID: 1763701622709-->
 
 
- to read #card
+ to read | used for reading written text (books, letters); contrasts with 見る, used for watching visual media #card
 ほんやく: 読む(よ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_読.html">読</a>
 <!--ID: 1763701622710-->
 
 
- to see, to watch #card
+ to see, to watch | used for watching visual media (TV, movies) or seeing something; contrasts with 読む, used for reading text #card
 ほんやく: 見る(み) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1763701622711-->
@@ -906,7 +915,7 @@ Structure
 <!--ID: 1763701622712-->
 
 
-  Then/well,so #card
+ Then / well, so #card
 ほんやく: じゃあ、。。。。 
 <!--ID: 1763701622713-->
 
@@ -919,51 +928,51 @@ Structure
 <!--ID: 1763701622714-->
 
 
- formal I, in public #card
+ formal I, in public | the most formal first-person pronoun, used in business or public/ceremonial speech, more formal than わたし #card
 ほんやく: わたくし 
 <!--ID: 1763701622715-->
 
 
- I (used by woman, non formal) #card
+ I (used by woman, non formal) | a casual, softer feminine variant of わたし, common in relaxed conversation #card
 ほんやく: あたし 
 <!--ID: 1763701622716-->
 
 
- I (used by men)  from lower position, not formal  **l.p, l.mn** #card
+ I (used by men)  from lower position, not formal  **l.p, l.mn** | a humble-leaning masculine pronoun common among boys and young men, softer than 俺 #card
 ほんやく: 僕（ぼく）ら・たち 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_僕.html">僕</a>
 <!--ID: 1763701622717-->
 
 
- I (used by men)  masculine, agresive **l.p, l.mn** #card
+ I (used by men)  masculine, aggressive **l.p, l.mn** | rougher and more informal than 僕, common among close friends but can sound rude in formal settings #card
 ほんやく: 俺（おれ）ら・たち 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_俺.html">俺</a>
 <!--ID: 1763701622718-->
 
 
- 2x you (formal) #card
+ you (formal, two equivalent words) #card
 ほんやく: おたく, そちら 
 <!--ID: 1763701622719-->
 
 
- you (intimate person, man use to lover rank) #card
+ you (affectionate; e.g. used by a man toward a lover or someone of equal/lower status) #card
 ほんやく: きみ 
 <!--ID: 1763701622720-->
 
 
- that person/he/she , no gender #card
+ that person / he / she, gender-neutral #card
 ほんやく: あの人 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1763701622721-->
 
 
- he  **l.p, l.mn** #k #card
+ he  **l.p, l.mn** | can also colloquially mean "boyfriend" in modern Japanese #k #card
 ほんやく: 彼（かれ）ら・たち 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <!--ID: 1763701622722-->
 
 
- she  **l.p, l.mn** #k #card
+ she  **l.p, l.mn** | can also colloquially mean "girlfriend" in modern Japanese #k #card
 ほんやく: 彼女（かのじょ）ら・たち 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_女.html">女</a>
@@ -978,7 +987,7 @@ Structure
 <!--ID: 1763701622724-->
 
 
- He hate bitter things #card
+ I hate bitter things #card
 ほんやく: 私は苦いものが大嫌いです（にが、だいきらい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_苦.html">苦</a>
@@ -987,14 +996,14 @@ Structure
 <!--ID: 1763701622725-->
 
 
- person i like #card
+ person I like #card
 ほんやく: 好きな人 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1763701622726-->
 
 
- fruit i dislike #card
+ fruit I dislike #card
 ほんやく: 嫌いな果物（きら、くだもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_嫌.html">嫌</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_果.html">果</a>
@@ -1002,7 +1011,7 @@ Structure
 <!--ID: 1763701622727-->
 
 
- i like Yokohama very much #k #card
+ I like Yokohama very much #k #card
 ほんやく: 私は横浜が大好きです（よこはま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_横.html">横</a>
@@ -1012,7 +1021,7 @@ Structure
 <!--ID: 1763701622728-->
 
 
- he dislike vegetables very much #k #card
+ he dislikes vegetables very much #k #card
 ほんやく: 彼は野菜が大嫌いです（かれ、やさい、だいきらい） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
@@ -1022,7 +1031,7 @@ Structure
 <!--ID: 1763701622729-->
 
 
- good at japanese #k #card
+ good at Japanese #k #card
 ほんやく: 日本語が上手ですね 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1050,7 +1059,7 @@ Structure
 <!--ID: 1763701622732-->
 
 
- A: Why dont you go to school tomorrow? B: Because is day off tomorrow. #k #card
+ A: Why aren't you going to work tomorrow? B: Because tomorrow is a day off. #k #card
 ほんやく: A: 明日会社に行きませんどうしてですか（あした、かいしゃ）B: 明日は休みですから 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1061,7 +1070,7 @@ Structure
 <!--ID: 1763701622733-->
 
 
- A: why do you like Manga? B: Because they are very interesting #k #card
+ A: Why do you like manga? B: Because they are very interesting #k #card
 ほんやく: A: どうして漫画が好きですか（まんが、がす）B：とても面白いですから（おもしろい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_漫.html">漫</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
@@ -1071,14 +1080,14 @@ Structure
 <!--ID: 1763701622734-->
 
 
- A: what kind of place do you like B: I like quiet places #k #card
+ A: What kind of place do you like? B: I like quiet places #k #card
 ほんやく: A:どんな所がすきですか B: しずかな所が好きです （ところ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <!--ID: 1763701622735-->
 
 
- A: what kind of food do you like? B: I like sweet things #card
+ A: What kind of food do you like? B: I like sweet things #card
 ほんやく: A: どんな食べ物が好きですか B:甘いものが好きです（あま） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -1095,7 +1104,7 @@ Structure
 <!--ID: 1763701622737-->
 
 
- to understand English #k #card
+ to understand English | describes cognitive comprehension of a language or concept, contrasted with 知る, which means knowing facts or information #k #card
 ほんやく: 英語が分かる（えいご、わ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
@@ -1103,7 +1112,7 @@ Structure
 <!--ID: 1763701622738-->
 
 
- he understand Vietnamese #k #card
+ he understands Vietnamese #k #card
 ほんやく: 彼はベトナム語が分かる 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
@@ -1111,7 +1120,7 @@ Structure
 <!--ID: 1763701622739-->
 
 
- dont understand too well #card
+ don't understand too well #card
 ほんやく: あまり分かりません 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1763701622740-->
@@ -1125,7 +1134,7 @@ Structure
 <!--ID: 1763701622741-->
 
 
- do you know kinkakuji?　B: Yes, i know #card
+ A: Do you know Kinkakuji? B: Yes, I do #card
 ほんやく: A: 金閣寺 を 知っていますか B: はい、知っています（きんかくじ、し）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_閣.html">閣</a>
@@ -1162,7 +1171,7 @@ Structure
 <!--ID: 1763701622745-->
 
 
- i returned DVD to Yamada #card
+ I returned the DVD to Yamada #card
 ほんやく: 山田さんにDVDを返しました（かえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -1181,7 +1190,7 @@ Structure
 <!--ID: 1763701622748-->
 
 
- to take time (zajmuje) #k #card
+ to take time #k #card
 ほんやく: 時間がかかる 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
@@ -1196,8 +1205,8 @@ Structure
 <!--ID: 1763701622750-->
 
 
- itcost 1000 yen #card
-ほんやく: １０００円かかる(sen yen) 
+ it costs 1000 yen #card
+ほんやく: １０００円かかる（えん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_円.html">円</a>
 <!--ID: 1763701622751-->
 
@@ -1218,7 +1227,7 @@ Structure
 <!--ID: 1763701622753-->
 
 
- i can't understand at all #k #card
+ I can't understand at all #k #card
 ほんやく: 全然分かりません(ぜんぜん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_全.html">全</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_然.html">然</a>
@@ -1226,7 +1235,7 @@ Structure
 <!--ID: 1763701622754-->
 
 
- i don't have money at all #k #card
+ I don't have money at all #k #card
 ほんやく: お金が全然ありません（かね,ぜんぜん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_全.html">全</a>
@@ -1265,7 +1274,7 @@ Structure
 <!--ID: 1763701622757-->
 
 
- i'm going to book store to buy book #card
+ I'm going to the bookstore to buy a book #card
 ほんやく: 本屋　へ　本を買い　に　行きます (ほんや) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
@@ -1274,7 +1283,7 @@ Structure
 <!--ID: 1763701622758-->
 
 
- i come to America to study english #card
+ I came to America to study English #card
 ほんやく: アメリカ　へ　英語を勉強　に　来ました (えい、き) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
@@ -1284,7 +1293,7 @@ Structure
 <!--ID: 1763701622759-->
 
 
- I come back home to eat my mother's cooking  #card
+ I came back home to eat my mother's cooking #card
 ほんやく: うち　へ　母の料理を食べ　に　帰りました (はは、りょうり, かえ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
@@ -1294,7 +1303,7 @@ Structure
 <!--ID: 1763701622760-->
 
 
- I gave miss Ando the work materials  #card
+ I gave Miss Ando the work materials #card
 ほんやく: アンドさんに仕事の資料をあげます（しりょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
@@ -1303,7 +1312,7 @@ Structure
 <!--ID: 1763701622761-->
 
 
- Rai gave Lan a birthday present #card
+ Raji gave Lan a birthday present #card
 ほんやく: ラジさんはランさんに誕生日のプレゼントをあげました(たんじょうび) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_誕.html">誕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
@@ -1323,7 +1332,7 @@ Structure
 <!--ID: 1763701622764-->
 
 
- teacher lent the student a notebook #card
+ The teacher lent the student a notebook #card
 ほんやく: 先生は　学生に ノートを貸しました（か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
@@ -1341,21 +1350,21 @@ Structure
 <!--ID: 1763701622766-->
 
 
- to get watch #card
+ to get a watch #card
 ほんやく: 時計をもらう（とけい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <!--ID: 1763701622767-->
 
 
- to get postal stamp #card
+ to get a postal stamp #card
 ほんやく: 切手をもらう（きって）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1763701622768-->
 
 
- I got ticket from older sister #k  #card
+ I got a ticket from my older sister #k #card
 ほんやく: 私は姉 から 切符 を もらいました（あね、きっぷ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
@@ -1364,7 +1373,7 @@ Structure
 <!--ID: 1763701622769-->
 
 
- I'll get DVD from mr Wang tomorrow (nacisk na od kogo) #k #card
+ I'll get a DVD from Mr. Wang tomorrow #k #card
 ほんやく: 明日ワンさん に DVD を もらいます 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1396,7 +1405,7 @@ Structure
 <!--ID: 1763701622773-->
 
 
- Ran san borrowed book from organization #card
+ Lan-san got a cooking book from the library #card
 ほんやく: ランさんは図書館から料理の本をもらいました (としょかん、りょうり) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_図.html">図</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
@@ -1407,7 +1416,7 @@ Structure
 <!--ID: 1763701622774-->
 
 
- Mr Yamada borrowed money from the bank #card
+ Mr. Yamada borrowed money from the bank #card
 ほんやく: 山田さんは銀行からお金を借りました（ぎんこう、かね、かり) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -1418,13 +1427,13 @@ Structure
 <!--ID: 1763701622775-->
 
 
- to learn (by practice, from somebody) #card
+ to learn (by practice, from somebody) | refers to learning a skill through instruction or practice (e.g. from a teacher), as opposed to 勉強する, which refers to academic studying #card
 ほんやく: 習う（なら）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_習.html">習</a>
 <!--ID: 1763701622776-->
 
 
- I learn english from mr smith #card
+ I learn English from Mr. Smith #card
 ほんやく: スミス先生に英語を習います（なら）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
@@ -1434,7 +1443,7 @@ Structure
 <!--ID: 1763701622777-->
 
 
- Tokyo's street are narrow #k #card
+ Tokyo's streets are narrow #k #card
 ほんやく: 東京は道がせまいです（みち）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
@@ -1442,7 +1451,7 @@ Structure
 <!--ID: 1763701622778-->
 
 
- her hair are long #k #card
+ Her hair is long #k #card
 ほんやく: 彼女はかみが長いです（かのじょ、なが）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_女.html">女</a>
@@ -1465,7 +1474,7 @@ Structure
 <!--ID: 1763701622781-->
 
 
-  manga in japan is popular #k #card
+ Manga in Japan is popular #k #card
 ほんやく: にほんは漫画が有名です（まんが、ゆうめい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_漫.html">漫</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
@@ -1474,7 +1483,7 @@ Structure
 <!--ID: 1763701622782-->
 
 
- I'll return to Osaka by saturday #card
+ I'll return to Osaka by Saturday #card
 ほんやく: 土曜日 までに 大阪に戻ります 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_土.html">土</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -1485,7 +1494,7 @@ Structure
 <!--ID: 1763701622783-->
 
 
- I'll return a book to library by friday #card
+ I'll return a book to the library by Friday #card
 ほんやく: 金曜日　までに　図書館に 本を返します（きんようび、としょかん, かえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -1508,25 +1517,25 @@ Structure
 <!--ID: 1763701622785-->
 
 
- i have to study (from someone, practice) #card
+ I have to study (from someone, practice) #card
 ほんやく: 習わなければなりません (なら) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_習.html">習</a>
 <!--ID: 1763701622786-->
 
 
- i need to ride #card
-ほんやく:  乗らなけれべなりません(の) 
+ I need to ride #card
+ほんやく:  乗らなければなりません(の) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_乗.html">乗</a>
 <!--ID: 1763701622787-->
 
 
- i need to return (something) #card
+ I need to return (something) #card
 ほんやく: 返さなければなりません (かえ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_返.html">返</a>
 <!--ID: 1763701622788-->
 
 
- I have to get up at 6 tommorow morning #card
+ I have to get up at 6 tomorrow morning #card
 ほんやく: 明日朝６時に 起きなければなりません（あしたあさ、お) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1536,7 +1545,7 @@ Structure
 <!--ID: 1763701622789-->
 
 
- I have to return DVD by Friday #card
+ I have to return the DVD by Friday #card
 ほんやく: 金曜日までに　DVDを 返さなければなりません（きんようび、かえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -1554,7 +1563,7 @@ Structure
 <!--ID: 1763701622791-->
 
 
- would you like to eat meal together? (abbreviation) #card
+ Would you like to eat a meal together? (abbreviation) #card
 ほんやく: いっしょに ご飯　　食べませんか（はん、たべ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
@@ -1565,14 +1574,15 @@ Structure
 
  Czasowniki:
 
- móc powiedzieć”, „da się powiedzieć” #wc #card
+to be able to say | the potential form of 言う (to say), expressing the ability to say or state something #wc #card
 ほんやく: 言える  
 て形: 言えて
 た形: 言えた
 ます形: 言えます
 出す形 (start): 言え出す
 そう (looks): 言えそう
-お〜になる (honorific): お言えになる
+お〜になる/special verb (honorific):お言えになる
+謙譲語 (humble): お言えいたす／お言えします
 ない形: 言えない
 なかった形: 言えなかった
 あれる形 (passive/honorific):  言えられる
@@ -1587,14 +1597,15 @@ Structure
 
 ---
 
-to take, cost (time/money) #wc #card
+to take, cost (time/money) | expresses that time, money, or effort is required or consumed passively, as opposed to 使う, which means to actively use or spend something #wc #card
 ほんやく: かかる  
 て形: かかって
 た形: かかった
 ます形: かかります
 出す形 (start): かかり出す
 そう (looks): かかりそう
-お〜になる (honorific): おかかりになる
+お〜になる/special verb (honorific):おかかりになる
+謙譲語 (humble): おかかりいたす／おかかりします
 ない形: かからない
 なかった形: かからなかった
 あれる形 (passive/honorific):  かかられる
@@ -1608,14 +1619,15 @@ to take, cost (time/money) #wc #card
 
 ---
 
-to draw #wc #card
+to draw | specifically means to draw or paint an image, as opposed to writing text #wc #card
 ほんやく: 描く（えがく）  
 て形: 描いて
 た形: 描いた
 ます形: 描きます
 出す形 (start): 描き出す
 そう (looks): 描きそう
-お〜になる (honorific): お描きになる
+お〜になる/special verb (honorific):お描きになる
+謙譲語 (humble): お描きいたす／お描きします
 ない形: 描かない
 なかった形: 描かなかった
 あれる形 (passive/honorific):  描かれる
@@ -1630,14 +1642,15 @@ to draw #wc #card
 
 ---
 
-to return (things) #wc #card
+to return (things) | specifically for returning something borrowed to its owner or source; contrasts with 戻す, which means to put an object back in its original place #wc #card
 ほんやく: 返す（かえす）  
 て形: 返して
 た形: 返した
 ます形: 返します
 出す形 (start): 返し出す
 そう (looks): 返しそう
-お〜になる (honorific): お返しになる
+お〜になる/special verb (honorific):お返しになる
+謙譲語 (humble): お返しいたす／お返しします
 ない形: 返さない
 なかった形: 返さなかった
 あれる形 (passive/honorific):  返される
@@ -1652,14 +1665,15 @@ to return (things) #wc #card
 
 ---
 
-to know #wc #card
+to know | refers to knowing facts, information, or people, as opposed to 分かる, which refers to understanding or comprehending something #wc #card
 ほんやく: 知る（し）  
 て形: 知って
 た形: 知った
 ます形: 知ります
 出す形 (start): 知り出す
 そう (looks): 知りそう
-お〜になる (honorific): お知りになる
+お〜になる/special verb (honorific):お知りになる
+謙譲語 (humble): お知りいたす／お知りします
 ない形: 知らない
 なかった形: 知らなかった
 あれる形 (passive/honorific):  知られる
@@ -1681,7 +1695,8 @@ to give (direction: me/my direction to someone) #wc #card
 ます形: あげます
 出す形 (start): あげ出す
 そう (looks): あげそう
-お〜になる (honorific): おあげになる
+お〜になる/special verb (honorific):おあげになる
+謙譲語 (humble): さしあげる
 ない形: あげない
 なかった形: あげなかった
 あれる形 (passive/honorific):  あげられる
@@ -1695,14 +1710,15 @@ to give (direction: me/my direction to someone) #wc #card
 
 ---
 
-to receive #wc #card
+to receive | emphasizes receiving something as a benefit to the speaker or their in-group, commonly marked with から or に for the giver #wc #card
 ほんやく: もらう  
 て形: もらって
 た形: もらった
 ます形: もらいます
 出す形 (start): もらい出す
 そう (looks): もらいそう
-お〜になる (honorific): おもらいになる
+お〜になる/special verb (honorific):おもらいになる
+謙譲語 (humble): いただく
 ない形: もらわない
 なかった形: もらわなかった
 あれる形 (passive/honorific):  もらわれる
@@ -1719,7 +1735,7 @@ to receive #wc #card
 **Przymiotniki (い・な)**
 
 
-sweet #wp #card
+sweet | besides taste, also used figuratively to mean lenient, naive, or overly optimistic (e.g. about a plan or person) #wp #card
 ほんやく: 甘い（あまい）  
 過去形: あまかった  
 否定形: あまくない  
@@ -1743,7 +1759,7 @@ spicy #wp #card
 
 ---
 
-bitter #wp #card
+bitter | also used figuratively for a "bitter" experience or memory, not just literal taste #wp #card
 ほんやく: 苦い（にがい）  
 過去形: にがかった  
 否定形: にがくない  
@@ -1755,7 +1771,7 @@ bitter #wp #card
 
 ---
 
-salty #wp #card
+salty | a more literary/precise word for salty, often for briny or savory-salty foods; casual speech commonly uses しょっぱい instead #wp #card
 ほんやく: 塩辛い（しおからい）  
 過去形: しおからかった  
 否定形: しおからくない  
@@ -1780,7 +1796,7 @@ sour #wp #card
 
 ---
 
-thick (gęsty, mocny, intensywny) #wp #card
+thick (rich, strong-flavored, intense) | also describes strong colors, thick fog, or a close relationship (濃い関係) beyond just taste #wp #card
 ほんやく: 濃い（こい）  
 過去形: こかった  
 否定形: こくない  
@@ -1792,7 +1808,7 @@ thick (gęsty, mocny, intensywny) #wp #card
 
 ---
 
-thin (słaby smak, blady, rzadki) #wp #card
+thin (weak-flavored, pale, diluted) #wp #card
 ほんやく: 薄い（うすい）  
 過去形: うすかった  
 否定形: うすくない  
@@ -1804,7 +1820,7 @@ thin (słaby smak, blady, rzadki) #wp #card
 
 ---
 
-bright #wp #card
+bright | besides physical brightness, also describes a cheerful, sunny personality (明るい性格) #wp #card
 ほんやく: 明るい（あかるい）  
 過去形: あかるかった  
 否定形: あかるくない  

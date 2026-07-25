@@ -574,14 +574,15 @@ Structure:
 
  Rzeczowniki:
 
-to do / to give / to run (a company), to work #card
+to do / to give / to run (a company), to work | casual, blunter than する; as "to give," used toward people/things below you (kids, animals, plants) — not superiors #card
 ほんやく: (を)やる
 て形: やって
 た形: やった
 ます形: やります
 出す形 (start): やり出す
 そう (looks): やりそう
-お〜になる (honorific): おやりになる
+お〜になる/special verb (honorific):おやりになる
+謙譲語 (humble): いたす
 ない形: やらない
 なかった形: やらなかった
 あれる形 (passive/honorific): やられる
@@ -593,14 +594,15 @@ to do / to give / to run (a company), to work #card
 <!--ID: 1776268643596-->
 
 
-to look for #card
+to look for | search for something missing/lost #card
 ほんやく: 探す（さがす）
 て形: 探して
 た形: 探した
 ます形: 探します
 出す形 (start): 探し出す
 そう (looks): 探しそう
-お〜になる (honorific): お探しになる
+お〜になる/special verb (honorific):お探しになる
+謙譲語 (humble): お探しいたす／お探しします
 ない形: 探さない
 なかった形: 探さなかった
 あれる形 (passive/honorific): 探される
@@ -613,14 +615,15 @@ to look for #card
 <!--ID: 1776268643597-->
 
 
-to find #k #card
+to find  #k #card
 ほんやく: 見つける（みつける）
 て形: 見つけて
 た形: 見つけた
 ます形: 見つけます
 出す形 (start): 見つけ出す
 そう (looks): 見つけそう
-お〜になる (honorific): お見つけになる
+お〜になる/special verb (honorific):お見つけになる
+謙譲語 (humble): お見つけいたす／お見つけします
 ない形: 見つけない
 なかった形: 見つけなかった
 あれる形 (passive/honorific): 見つけられる
@@ -633,14 +636,15 @@ to find #k #card
 <!--ID: 1776268643598-->
 
 
-to be late #card
+to be late | to be late/delayed (for a train, meeting, person) #card
 ほんやく: 遅れる（おくれる）
 て形: 遅れて
 た形: 遅れた
 ます形: 遅れます
 出す形 (start): 遅れ出す
 そう (looks): 遅れそう
-お〜になる (honorific): お遅れになる
+お〜になる/special verb (honorific):お遅れになる
+謙譲語 (humble): —
 ない形: 遅れない
 なかった形: 遅れなかった
 あれる形 (passive/honorific): 遅れられる
@@ -653,14 +657,15 @@ to be late #card
 <!--ID: 1776268643599-->
 
 
-to cry #card
+to cry | plain, neutral verb for crying/weeping #card
 ほんやく: 泣く（なく）
 て形: 泣いて
 た形: 泣いた
 ます形: 泣きます
 出す形 (start): 泣き出す
 そう (looks): 泣きそう
-お〜になる (honorific): お泣きになる
+お〜になる/special verb (honorific):お泣きになる
+謙譲語 (humble): —
 ない形: 泣かない
 なかった形: 泣かなかった
 あれる形 (passive/honorific): 泣かれる
@@ -673,14 +678,15 @@ to cry #card
 <!--ID: 1776268643600-->
 
 
-to search / to look up #card
+to search / to look up | to investigate or research facts/info #card
 ほんやく: (を)調べる（しらべる）
 て形: 調べて
 た形: 調べた
 ます形: 調べます
 出す形 (start): 調べ出す
 そう (looks): 調べそう
-お〜になる (honorific): お調べになる
+お〜になる/special verb (honorific):お調べになる
+謙譲語 (humble): お調べいたす／お調べします
 ない形: 調べない
 なかった形: 調べなかった
 あれる形 (passive/honorific): 調べられる
@@ -693,14 +699,15 @@ to search / to look up #card
 <!--ID: 1776268643601-->
 
 
-to close / zamknąć #card
+to close / zamknąć | transitive, you close something yourself #card
 ほんやく: 閉める（しめる）
 て形: 閉めて
 た形: 閉めた
 ます形: 閉めます
 出す形 (start): 閉め出す
 そう (looks): 閉めそう
-お〜になる (honorific): お閉めになる
+お〜になる/special verb (honorific):お閉めになる
+謙譲語 (humble): お閉めいたす／お閉めします
 ない形: 閉めない
 なかった形: 閉めなかった
 あれる形 (passive/honorific): 閉められる
@@ -720,7 +727,8 @@ to pass / too much #card
 ます形: 過ぎます
 出す形 (start): 過ぎ出す
 そう (looks): 過ぎそう
-お〜になる (honorific): お過ぎになる
+お〜になる/special verb (honorific):お過ぎになる
+謙譲語 (humble): —
 ない形: 過ぎない
 なかった形: 過ぎなかった
 あれる形 (passive/honorific): 過ぎられる
@@ -733,14 +741,15 @@ to pass / too much #card
 <!--ID: 1776268643603-->
 
 
-to be built / completed / to be able to #k #card
+to be built / completed / to be able to | means "can" after a skill/action, "is built/finished" after a physical thing #k #card
 ほんやく: 出来る（できる）
 て形: 出来て
 た形: 出来た
 ます形: 出来ます
 出す形 (start): 出来出す
 そう (looks): 出来そう
-お〜になる (honorific): お出来になる
+お〜になる/special verb (honorific):お出来になる
+謙譲語 (humble): —
 ない形: 出来ない
 なかった形: 出来なかった
 あれる形 (passive/honorific): 出来られる
@@ -754,14 +763,15 @@ to be built / completed / to be able to #k #card
 <!--ID: 1776268643604-->
 
 
-to get wet #card
+to get wet | intransitive, to become wet (rain, water, sweat) #card
 ほんやく: 濡れる（ぬれる）
 て形: 濡れて
 た形: 濡れた
 ます形: 濡れます
 出す形 (start): 濡れ出す
 そう (looks): 濡れそう
-お〜になる (honorific): お濡れになる
+お〜になる/special verb (honorific):お濡れになる
+謙譲語 (humble): —
 ない形: 濡れない
 なかった形: 濡れなかった
 あれる形 (passive/honorific): 濡れられる
@@ -774,14 +784,15 @@ to get wet #card
 <!--ID: 1776268643605-->
 
 
-to carry / hold / take #card
+to take / pick up / hold | general-purpose "take" #card
 ほんやく: 取る（とる）
 て形: 取って
 た形: 取った
 ます形: 取ります
 出す形 (start): 取り出す
 そう (looks): 取りそう
-お〜になる (honorific): お取りになる
+お〜になる/special verb (honorific):お取りになる
+謙譲語 (humble): お取りいたす／お取りします
 ない形: 取らない
 なかった形: 取らなかった
 あれる形 (passive/honorific): 取られる
@@ -794,14 +805,15 @@ to carry / hold / take #card
 <!--ID: 1776268643606-->
 
 
-to take (photo) #card
+to take (photo) | used specifically for photos/video; #card
 ほんやく: 撮る（とる）
 て形: 撮って
 た形: 撮った
 ます形: 撮ります
 出す形 (start): 撮り出す
 そう (looks): 撮りそう
-お〜になる (honorific): お撮りになる
+お〜になる/special verb (honorific):お撮りになる
+謙譲語 (humble): お撮りいたす／お撮りします
 ない形: 撮らない
 なかった形: 撮らなかった
 あれる形 (passive/honorific): 撮られる
@@ -814,7 +826,7 @@ to take (photo) #card
 <!--ID: 1776268643607-->
 
 
-strict / ścisły, ostry (charakter) #card
+strict / ścisły, ostry (charakter) | describes a strict person/rule or harsh conditions #card
 ほんやく: きびしい
 過去形: きびしかった
 否定形: きびしくない
@@ -823,7 +835,7 @@ strict / ścisły, ostry (charakter) #card
 <!--ID: 1776268643608-->
 
 
-light / lekki #card
+light / lekki | light in weight; also used figuratively (light meal, light mood) #card
 ほんやく: 軽い（かるい）
 過去形: 軽かった
 否定形: 軽くない
@@ -833,7 +845,7 @@ light / lekki #card
 <!--ID: 1776268643609-->
 
 
-heavy #k #card
+heavy | heavy in weight; also used figuratively for serious/heavy matters #k #card
 ほんやく: 重い（おもい）
 過去形: 重かった
 否定形: 重くない
@@ -843,7 +855,7 @@ heavy #k #card
 <!--ID: 1776268643610-->
 
 
-great / amazing / horrible #card
+great / amazing / horrible | casual intensifier that can be positive or negative depending on context #card
 ほんやく: すごい
 過去形: すごかった
 否定形: すごくない
@@ -852,7 +864,7 @@ great / amazing / horrible #card
 <!--ID: 1776268643611-->
 
 
-soft #card
+soft | describes physically soft/tender texture (food, materials) #card
 ほんやく: やわらかい
 過去形: やわらかかった
 否定形: やわらかくない
@@ -861,7 +873,7 @@ soft #card
 <!--ID: 1776268643612-->
 
 
-hard #card
+hard | physically hard/firm;  #card
 ほんやく: かたい
 過去形: かたかった
 否定形: かたくない
@@ -870,7 +882,7 @@ hard #card
 <!--ID: 1776268643613-->
 
 
-glad #card
+glad | personal joy/happiness about something that happened to you #card
 ほんやく: 嬉しい（うれしい）
 過去形: 嬉しかった
 否定形: 嬉しくない
@@ -880,7 +892,7 @@ glad #card
 <!--ID: 1776268643614-->
 
 
-sad / smutny #card
+sad / smutny | personal sadness or grief #card
 ほんやく: 悲しい（かなしい）
 過去形: 悲しかった
 否定形: 悲しくない
@@ -890,7 +902,7 @@ sad / smutny #card
 <!--ID: 1776268643615-->
 
 
-serious / diligent / sumienny #k #card
+serious / diligent / sumienny | na-adjective for a hardworking, earnest, conscientious person or attitude #k #card
 ほんやく: 真面目（まじめ）
 過去形: —
 否定形: —
@@ -903,14 +915,14 @@ serious / diligent / sumienny #k #card
 
 
 I will call you as soon as a seat is available #k #card
-咳が空きましたら、すぐお呼びいたします（せき、あ、よ）
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_咳.html">咳</a>
+席(せき)が空(あ)きましたら、すぐお呼(よ)びいたします
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_席.html">席</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_呼.html">呼</a>
 <!--ID: 1776268643617-->
 
 
-wigilia bożego narodzenia / Christmas song #card
+kolęda / piosenka świąteczna / Christmas song #card
 クリスマスソング
 <!--ID: 1776268643618-->
 
@@ -920,7 +932,7 @@ choinka / Christmas tree #card
 <!--ID: 1776268643619-->
 
 
-new year #k #card
+new year | formal term used in set New Year greetings (新年あけましておめでとうございます) #k #card
 新年（しんねん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -935,47 +947,47 @@ hold a meeting / odbyć naradę #k #card
 
 
 to do homework #k #card
-宿題をやる（しゅくだい）
+宿題(しゅくだい)をやる
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_宿.html">宿</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <!--ID: 1776268643622-->
 
 
 to give money #k #card
-金をやる（かね）
+金(かね)をやる
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1776268643623-->
 
 
 to water the tree #k #card
-木に水をやる（き、みず）
+木(き)に水(みず)をやる
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
 <!--ID: 1776268643624-->
 
 
 running a flower shop #k #card
-花屋をやっている（はなや）
+花屋(はなや)をやっている
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1776268643625-->
 
 
 being a teacher #k #card
-教師をやっている（きょうし）
+教師(きょうし)をやっている
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_師.html">師</a>
 <!--ID: 1776268643626-->
 
 
-a way of doing ~ #k #card
+a way of doing ~ | suffix on a verb's ます-stem meaning "the way of doing ~" #k #card
 ～方（かた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1776268643627-->
 
 
 please teach me how to play this game #k #card
-このゲームのやり方を教えて下さい
+このゲームのやり方(かた)を教(おし)えて下(くだ)さい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
@@ -983,7 +995,7 @@ please teach me how to play this game #k #card
 
 
 I searched how to bake a cake on the internet #k #card
-インターネットでケーキの作り方を調べました（しら）
+インターネットでケーキの作(つく)り方(かた)を調(しら)べました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_調.html">調</a>
@@ -999,37 +1011,38 @@ Podaruję kwiaty mojej nauczycielce / I will give flowers to my teacher #k #card
 <!--ID: 1776268643630-->
 
 
-festival #card
+festival | a traditional or local festival, often shrine-related or seasonal #card
 祭り（まつり）
+お/ご (honorific): お祭り（まつり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_祭.html">祭</a>
 <!--ID: 1776268643631-->
 
 
 light bag #card
-軽いカバン（かるいカバン）
+軽(かる)いカバン
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_軽.html">軽</a>
 <!--ID: 1776268643632-->
 
 
 heavy luggage #k #card
-重い荷物（おもいにもつ）
+重(おも)い荷物(にもつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_荷.html">荷</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1776268643633-->
 
 
-dessert #card
+dessert | formal word for the dessert course after a meal; #card
 デザート
 <!--ID: 1776268643634-->
 
 
-sweets #card
+sweets | casual, trendy word for sweets/confections in general #card
 スイーツ
 <!--ID: 1776268643635-->
 
 
-Oh, Wow #card
+Oh, Wow | exclamation of surprise or delight #card
 わあ
 <!--ID: 1776268643636-->
 
@@ -1039,25 +1052,25 @@ Wow, what a beautiful present #card
 <!--ID: 1776268643637-->
 
 
-hey / how nice (calling attention / emphasizing, close friends) #card
+hey / how nice (calling attention / emphasizing, close friends) | sentence-ending particle, casual, often used by men when calling attention or emphasizing a feeling #card
 なあ
 <!--ID: 1776268643638-->
 
 
 Hey, did you see Minori chan? #k #card
-なあ、みのりちゃんを見た
+なあ、みのりちゃんを見(み)た
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1776268643639-->
 
 
 How nice if I could go to Germany (emphasizing) #k #card
-ドイツに行ってみたいなあ
+ドイツに行(い)ってみたいなあ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1776268643640-->
 
 
-great / superior #card
-素晴らしい（すばらしい）
+great / superior | more formal/written than casual すごい; always positive #card
+素晴(すば)らしい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_素.html">素</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晴.html">晴</a>
 <!--ID: 1776268643641-->
@@ -1088,13 +1101,13 @@ a heavy rain #k #card
 <!--ID: 1776268643645-->
 
 
-very / bardzo (before adjective) #card
+very / bardzo (before adjective) | casual adverb, more colloquial than とても #card
 すごく
 <!--ID: 1776268643646-->
 
 
 today is very cold #k #card
-今日はすごく寒いです（さむ）
+今日(きょう)はすごく寒(さむ)いです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寒.html">寒</a>
@@ -1102,13 +1115,13 @@ today is very cold #k #card
 
 
 he is a very good person #k #card
-彼はすごくいい人です
+彼(かれ)はすごくいい人(ひと)です
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1776268643648-->
 
 
-in front of / around the station #k #card
+in front of / around the station |  as a location reference, "the station area" #k #card
 駅前（えきまえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
@@ -1116,14 +1129,14 @@ in front of / around the station #k #card
 
 
 a department store near the station #k #card
-駅前のデパート（えきまえ）
+駅前(えきまえ)のデパート
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <!--ID: 1776268643650-->
 
 
 a police box in front of the station #k #card
-駅前の交番（えきまえ、こうばん）
+駅前(えきまえ)の交番(こうばん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_交.html">交</a>
@@ -1132,19 +1145,20 @@ a police box in front of the station #k #card
 
 
 no, I'm still looking for (it) #card
-いいえ、まだ探しています（さが）
+いいえ、まだ探(さが)しています
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_探.html">探</a>
 <!--ID: 1776268643652-->
 
 
 did you find your wallet? #k #card
-さいふを見つけましたか（み）
+さいふを見(み)つけましたか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1776268643653-->
 
 
-wallet #card
+wallet | commonly written in kana even though the kanji exists #card
 さいふ
+お/ご (honorific): おさいふ
 <!--ID: 1776268643654-->
 
 
@@ -1153,22 +1167,23 @@ team #card
 <!--ID: 1776268643655-->
 
 
-feeling / physical condition #k #card
+feeling / physical condition | one's mood/physical state at a given moment; compare 気持ち (feelings/emotions more broadly) #k #card
 気分（きぶん）
+お/ご (honorific): ご気分（きぶん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1776268643656-->
 
 
 to feel good #k #card
-気分がいい（きぶん）
+気分(きぶん)がいい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1776268643657-->
 
 
 to feel bad #k #card
-気分が悪い（きぶん、わる）
+気分(きぶん)が悪(わる)い
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
@@ -1176,21 +1191,22 @@ to feel bad #k #card
 
 
 How do you feel? #k #card
-気分はどうですか（きぶん）
+気分(きぶん)はどうですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1776268643659-->
 
 
 How do you feel? (polite, formal) #k #card
-気分はいかがですか（きぶん）
+気分(きぶん)はいかがですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1776268643660-->
 
 
-participation #card
+participation | noun, usually paired with する to mean "to participate" #card
 参加（さんか）
+お/ご (honorific): ご参加（さんか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_参.html">参</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_加.html">加</a>
 <!--ID: 1776268643661-->
@@ -1205,14 +1221,14 @@ participant #k #card
 
 
 to join / participate in X (2 particles) #card
-Xに/へ参加する（さんか）
+Xに/へ参加(さんか)する
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_参.html">参</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_加.html">加</a>
 <!--ID: 1776268643663-->
 
 
 Can you attend the meeting tomorrow? #k #card
-明日、会議に参加することができますか（かいぎ、さんか）
+明日(あした)、会議(かいぎ)に参加(さんか)することができますか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
@@ -1245,7 +1261,7 @@ noun / rzeczownik #k #card
 
 
 Why were you late for work? (ask for reason) #k #card
-どうして会社に遅れたんですか（おく）
+どうして会社(かいしゃ)に遅(おく)れたんですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遅.html">遅</a>
@@ -1253,7 +1269,7 @@ Why were you late for work? (ask for reason) #k #card
 
 
 Train was late (provide a reason) #k #card
-電車が遅れたんです（おく）
+電車(でんしゃ)が遅(おく)れたんです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遅.html">遅</a>
@@ -1261,7 +1277,7 @@ Train was late (provide a reason) #k #card
 
 
 Why didn't you come to school yesterday? #k #card
-どうして昨日学校に来なかったんですか（こ）
+どうして昨日(きのう)学校(がっこう)に来(こ)なかったんですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -1271,7 +1287,7 @@ Why didn't you come to school yesterday? #k #card
 
 
 I caught a cold (provide a reason) #k #card
-風邪を引いたんです（かぜ、ひ）
+風邪(かぜ)を引(ひ)いたんです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_邪.html">邪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
@@ -1279,7 +1295,7 @@ I caught a cold (provide a reason) #k #card
 
 
 Why did you come to Japan? (ask for reason) #k #card
-どうして日本に来たんですか（き）
+どうして日本(にほん)に来(き)たんですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
@@ -1287,7 +1303,7 @@ Why did you come to Japan? (ask for reason) #k #card
 
 
 (because) I want to learn Japanese (informing) #k #card
-日本語を勉強したいんです
+日本語(にほんご)を勉強(べんきょう)したいんです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
@@ -1297,13 +1313,13 @@ Why did you come to Japan? (ask for reason) #k #card
 
 
 Why don't you go to Karaoke? #k #card
-どうしてカラオケに行かないんですか
+どうしてカラオケに行(い)かないんですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1776268643674-->
 
 
 Because I am not good at singing (info) #k #card
-歌が下手なんです（うた、へた）
+歌(うた)が下手(へた)なんです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
@@ -1311,7 +1327,7 @@ Because I am not good at singing (info) #k #card
 
 
 Excuse me. I want to go to Akihabara station, how can I get there? (introducing topic) #k #card
-すみません。秋葉原駅に行きたいんですが、どうやって行きますか（あきはばらえき）
+すみません。秋葉原駅(あきはばらえき)に行(い)きたいんですが、どうやって行(い)きますか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_葉.html">葉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_原.html">原</a>
@@ -1321,20 +1337,20 @@ Excuse me. I want to go to Akihabara station, how can I get there? (introducing 
 
 
 Excuse me, may I ask where Miss Ando is? (introducing topic) #k #card
-ちょっと、聞きたいんですが、あんどうさんはどちらにいますか（き）
+ちょっと、聞(き)きたいんですが、あんどうさんはどちらにいますか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1776268643677-->
 
 
-The room is so dark... (introducing topic) #k #card
-部屋がくらいんですが（へや）
+The room is dark... (introducing topic) #k #card
+部屋(へや)がくらいんですが
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1776268643678-->
 
 
-Excuse me. I want to go to Akihabara station, how can I get there? (introducing topic) #k #card
-すみません。渋谷駅に行きたいんですが、どう行きますか（しぶやえき）
+Excuse me. I want to go to Shibuya station, how can I get there? (introducing topic) #k #card
+すみません。渋谷駅(しぶやえき)に行(い)きたいんですが、どう行(い)きますか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_渋.html">渋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_谷.html">谷</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
@@ -1342,35 +1358,35 @@ Excuse me. I want to go to Akihabara station, how can I get there? (introducing 
 <!--ID: 1776268643679-->
 
 
-Jest mi trochę zimno, czy mogę zamknąć okno? (introducing topic) #card
-ちょっと寒いんですが、窓を閉めてもいいですか（さむ、まど、し）
+I'm a little cold, may I close the window? (introducing topic) / Jest mi trochę zimno, czy mogę zamknąć okno? #card
+ちょっと寒(さむ)いんですが、窓(まど)を閉(し)めてもいいですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寒.html">寒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_窓.html">窓</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_閉.html">閉</a>
 <!--ID: 1776268643680-->
 
 
-Dlaczego wyglądasz na smutnego? #card
-どうして悲しそうなんですか（かな）
+Why do you look sad? / Dlaczego wyglądasz na smutnego? #card
+どうして悲(かな)しそうなんですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悲.html">悲</a>
 <!--ID: 1776268643681-->
 
 
-Mam małą prośbę #card
-ちょっとお願いがあるんですが（おねがい）
+I have a small favor to ask / Mam małą prośbę #card
+ちょっとお願(ねが)いがあるんですが
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_願.html">願</a>
 <!--ID: 1776268643682-->
 
 
 Chcę zapalić światło, gdzie jest włącznik? (introducing topic) #k #card
-電気をつけたいんですが、スイッチはどこですか（でんき）
+電気(でんき)をつけたいんですが、スイッチはどこですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <!--ID: 1776268643683-->
 
 
-Dlaczego dzisiaj nie przyszedłeś do szkoły? (ask for reason) #k #card
-今日、どうして学校に来なかったんですか
+Why didn't you come to school today? (ask for reason) / Dlaczego dzisiaj nie przyszedłeś do szkoły? #k #card
+今日(きょう)、どうして学校(がっこう)に来(こ)なかったんですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -1379,21 +1395,21 @@ Dlaczego dzisiaj nie przyszedłeś do szkoły? (ask for reason) #k #card
 <!--ID: 1776268643684-->
 
 
-participate #card
-参加する（さんか）
+participate | the verb form of (noun); attaches する directly #card
+参加(さんか)する
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_参.html">参</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_加.html">加</a>
 <!--ID: 1776268643685-->
 
 
 I walk fast #k #card
-はやく歩きます（ある）
+はやく歩(ある)きます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1776268643686-->
 
 
 The exam is coming soon, please study hard #k #card
-もうすぐ試験ですから、真面目に勉強してください（しけん、まじめ）
+もうすぐ試験(しけん)ですから、真面目(まじめ)に勉強(べんきょう)してください
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_験.html">験</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
@@ -1405,7 +1421,7 @@ The exam is coming soon, please study hard #k #card
 
 
 I cleanly washed the plates after dinner #k #card
-晩御飯の後、私はお皿をきれいに洗いました（ばんごはん、あと、さら、あら）
+晩御飯(ばんごはん)の後(あと)、私(わたし)はお皿(さら)をきれいに洗(あら)いました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晩.html">晩</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_御.html">御</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
@@ -1416,13 +1432,13 @@ I cleanly washed the plates after dinner #k #card
 <!--ID: 1776268643688-->
 
 
-immediately / at once / zaraz / natychmiast #card
+immediately / at once / zaraz / natychmiast | happens right away, no delay; compare もうすぐ ("soon," about to happen) #card
 すぐ
 <!--ID: 1776268643689-->
 
 
 I will try to look for a good onsen #card
-いい温泉を探してみます（おんせん、さが）
+いい温泉(おんせん)を探(さが)してみます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_温.html">温</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_泉.html">泉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_探.html">探</a>
@@ -1430,7 +1446,7 @@ I will try to look for a good onsen #card
 
 
 This is the cake I made. Please try it #k #card
-これは私が作ったケーキです。食べてみてください
+これは私(わたし)が作(つく)ったケーキです。食(た)べてみてください
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
@@ -1438,7 +1454,7 @@ This is the cake I made. Please try it #k #card
 
 
 A new department store was built around the station. Why don't we try going there? #k #card
-駅前に新しいデパートができました。一緒に行ってみませんか（えきまえ、あたら）
+駅前(えきまえ)に新(あたら)しいデパートができました。一緒(いっしょ)に行(い)ってみませんか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
@@ -1454,7 +1470,7 @@ Vてみたいです
 
 
 I want to try on a kimono #k #card
-私は着物を着てみたいです（き）
+私(わたし)は着物(きもの)を着(き)てみたいです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -1462,7 +1478,7 @@ I want to try on a kimono #k #card
 
 
 I haven't been to Kyoto. I want to try and go to Kyoto #k #card
-京都に行ったことがありません。京都に行ってみたいですね
+京都(きょうと)に行っ(い)たことがありません。京都(きょうと)に行っ(い)てみたいですね
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -1470,7 +1486,7 @@ I haven't been to Kyoto. I want to try and go to Kyoto #k #card
 
 
 I want to try to make a boxed lunch #k #card
-お弁当を作ってみたいですね（おべんと、つく）
+お弁当(べんとう)を作(つく)ってみたいですね
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弁.html">弁</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
@@ -1478,7 +1494,7 @@ I want to try to make a boxed lunch #k #card
 
 
 I'll go to the convenience store to buy a bento (and come back here) #k #card
-コンビニでお弁当を買ってきます（おべんとう）
+コンビニでお弁当(べんとう)を買(か)ってきます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弁.html">弁</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
@@ -1486,7 +1502,7 @@ I'll go to the convenience store to buy a bento (and come back here) #k #card
 
 
 A friend brought cake (to me) #k #card
-友達がケーキを持ってきた
+友達(ともだち)がケーキを持っ(も)てきた
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
@@ -1494,21 +1510,21 @@ A friend brought cake (to me) #k #card
 
 
 It started to rain (and it's raining now) #k #card
-雨が降ってきました（ふ）
+雨(あめ)が降っ(ふ)てきました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
 <!--ID: 1776268643699-->
 
 
 I'm going to the bank (and will come back) #k #card
-銀行へ行ってきます（ぎんこう）
+銀行(ぎんこう)へ行っ(い)てきます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1776268643700-->
 
 
 I'm going to the library (and will come back) #k #card
-図書館に行ってきます（としょかん）
+図書館(としょかん)に行っ(い)てきます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_図.html">図</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
@@ -1517,7 +1533,7 @@ I'm going to the library (and will come back) #k #card
 
 
 I'll buy a bento and go (I won't come back here) #k #card
-お弁当を買って行きます
+お弁当(べんとう)を買っ(か)て行き(い)ます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弁.html">弁</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
@@ -1526,14 +1542,14 @@ I'll buy a bento and go (I won't come back here) #k #card
 
 
 It will keep getting colder from now on #k #card
-これからもっと寒くなって行きます（さむ）
+これからもっと寒(さむ)くなって行き(い)ます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寒.html">寒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1776268643703-->
 
 
 I forgot my wallet in my room. I will go get it now #k #card
-部屋にさいふを忘れました。今から取ってきます（へや、わす、と）
+部屋(へや)にさいふを忘(わす)れました。今(いま)から取っ(と)てきます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_忘.html">忘</a>
@@ -1543,14 +1559,14 @@ I forgot my wallet in my room. I will go get it now #k #card
 
 
 please come inside the house (toward speaker) #k #card
-家に入ってきてください（はい）
+家(いえ)に入っ(はい)てきてください
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1776268643705-->
 
 
 I borrowed a car from Mr. Takahashi (came back with it) #k #card
-高橋さんから車を借りてきました（か）
+高橋(たかはし)さんから車(くるま)を借り(か)てきました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_橋.html">橋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
@@ -1559,20 +1575,20 @@ I borrowed a car from Mr. Takahashi (came back with it) #k #card
 
 
 I will go and buy juice from the convenience store #k #card
-コンビニでジュースを買ってきます（か）
+コンビニでジュースを買っ(か)てきます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1776268643707-->
 
 
 it looks like it is going to rain #k #card
-雨が降りそうですね（あめ、ふ）
+雨(あめ)が降(ふ)りそうですね
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
 <!--ID: 1776268643708-->
 
 
 That child looks like he is going to cry #k #card
-あの子供は泣きそうです（な）
+あの子供(こども)は泣(な)きそうです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_供.html">供</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_泣.html">泣</a>
@@ -1580,14 +1596,14 @@ That child looks like he is going to cry #k #card
 
 
 I don't know whether this dish is delicious or not #k #card
-この料理がおいしいかどうかわかりません
+この料理(りょうり)がおいしいかどうかわかりません
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <!--ID: 1776268643710-->
 
 
 I don't know whether or not he is a student #k #card
-彼が学生かどうか知りません
+彼(かれ)が学生(がくせい)かどうか知(し)りません
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
@@ -1596,7 +1612,7 @@ I don't know whether or not he is a student #k #card
 
 
 please tell me whether or not you will attend the drinking party #k #card
-飲み会に参加するかどうか教えて下さい（のみかい、さんか、おし）
+飲(の)み会(かい)に参加(さんか)するかどうか教(おし)えて下(くだ)さい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_参.html">参</a>
@@ -1607,7 +1623,7 @@ please tell me whether or not you will attend the drinking party #k #card
 
 
 I don't know if Mr. Takahashi is fine or not #k #card
-高橋さんが元気かどうか知りません
+高橋(たかはし)さんが元気(げんき)かどうか知(し)りません
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_橋.html">橋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
@@ -1617,7 +1633,7 @@ I don't know if Mr. Takahashi is fine or not #k #card
 
 
 He watched too much TV, so his eyes became bad #k #card
-彼はテレビを見すぎて、目が悪くなりました（み、め、わる）
+彼(かれ)はテレビを見(み)すぎて、目(め)が悪(わる)くなりました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
@@ -1626,14 +1642,14 @@ He watched too much TV, so his eyes became bad #k #card
 
 
 This cake is not too sweet, so I think it is just right #k #card
-このケーキは甘すぎないから、ちょうどいいと思います（あま）
+このケーキは甘(あま)すぎないから、ちょうどいいと思(おも)います
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_甘.html">甘</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
 <!--ID: 1776268643715-->
 
 
 This work is too hard and difficult for me #k #card
-この仕事は大変すぎて、私にはむずかしい（たいへん）
+この仕事(しごと)は大変(たいへん)すぎて、私(わたし)にはむずかしい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
@@ -1643,7 +1659,7 @@ This work is too hard and difficult for me #k #card
 
 
 to pass Kyoto #k #card
-京都を過ぎる（す）
+京都(きょうと)を過(す)ぎる
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_過.html">過</a>
@@ -1651,14 +1667,14 @@ to pass Kyoto #k #card
 
 
 It's past 6 o'clock #k #card
-6時を過ぎる（す）
+6時(じ)を過(す)ぎる
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_過.html">過</a>
 <!--ID: 1776268643718-->
 
 
-time goes too fast #k #card
-時間がはやく過ぎる（す）
+time passes quickly #k #card
+時間(じかん)がはやく過(す)ぎる
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_過.html">過</a>
@@ -1666,101 +1682,101 @@ time goes too fast #k #card
 
 
 eat too much #k #card
-食べ過ぎる
+食(た)べ過(す)ぎる
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_過.html">過</a>
 <!--ID: 1776268643720-->
 
 
 too hot #card
-あつ過ぎる
+あつ過(す)ぎる
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_過.html">過</a>
 <!--ID: 1776268643721-->
 
 
 1 plate #card
-１枚のお皿（いちまい、さら）
+１枚(まい)のお皿(さら)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_皿.html">皿</a>
 <!--ID: 1776268643722-->
 
 
 3 plates #card
-３枚のお皿（さんまい、さら）
+３枚(まい)のお皿(さら)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_皿.html">皿</a>
 <!--ID: 1776268643723-->
 
 
-like this / so #card
+like this / so | refers to something near the speaker ("this kind of"); 
 こんな
 <!--ID: 1776268643724-->
 
 
-like that (near you) / so #card
+like that (near you) / so | refers to something near the listener ("that kind of") #card
 そんな
 <!--ID: 1776268643725-->
 
 
-like that (over there) / so #card
+like that (over there) / so | refers to something distant from both speaker and listener ("that kind of, over there") #card
 あんな
 <!--ID: 1776268643726-->
 
 
 I want to become like this person #k #card
-こんな人になりたいです（ひと）
+こんな人(ひと)になりたいです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1776268643727-->
 
 
 There is no such kind of person #k #card
-そんな人はいません
+そんな人(ひと)はいません
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1776268643728-->
 
 
 I want to ride that kind of car #k #card
-あんな車に乗ってみたい（の）
+あんな車(くるま)に乗(の)ってみたい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_乗.html">乗</a>
 <!--ID: 1776268643729-->
 
 
 I am so happy #card
-こんなに嬉しいです（うれ）
+こんなに嬉(うれ)しいです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_嬉.html">嬉</a>
 <!--ID: 1776268643730-->
 
 
 It is not that expensive #k #card
-そんなに高くないです（たか）
+そんなに高(たか)くないです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <!--ID: 1776268643731-->
 
 
 I want to go that far #k #card
-あんなに遠くに行きたいです（とお）
+あんなに遠(とお)くに行(い)きたいです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遠.html">遠</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1776268643732-->
 
 
 I didn't think cherry blossoms were so beautiful #k #card
-桜はこんなにきれいだと思いませんでした（さくら）
+桜(さくら)はこんなにきれいだと思(おも)いませんでした
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_桜.html">桜</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
 <!--ID: 1776268643733-->
 
 
 This car is not so new #k #card
-この車はそんなに新しくないです（あたら）
+この車(くるま)はそんなに新(あたら)しくないです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <!--ID: 1776268643734-->
 
 
 I didn't think that child cried so much #k #card
-私はあの子供があんなに泣くと思いませんでした（こども、な）
+私(わたし)はあの子供(こども)があんなに泣(な)くと思(おも)いませんでした
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_供.html">供</a>
@@ -1770,7 +1786,7 @@ I didn't think that child cried so much #k #card
 
 
 I can drive a car #k #card
-車の運転ができます
+車(くるま)の運転(うんてん)ができます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
@@ -1778,7 +1794,7 @@ I can drive a car #k #card
 
 
 a new shop was built / opened #k #card
-新しい店が出来ました（みせ）
+新(あたら)しい店(みせ)が出来(でき)ました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
@@ -1787,14 +1803,14 @@ a new shop was built / opened #k #card
 
 
 I finished making cake #k #card
-ケーキが出来ました
+ケーキが出来(でき)ました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1776268643738-->
 
 
 I finished cooking #k #card
-料理が出来ました（りょうり）
+料理(りょうり)が出来(でき)ました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
@@ -1803,27 +1819,27 @@ I finished cooking #k #card
 
 
 to get wet from the water #k #card
-水に濡れる（みず、ぬ）
+水(みず)に濡(ぬ)れる
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_濡.html">濡</a>
 <!--ID: 1776268643740-->
 
 
 to get wet from the rain #k #card
-雨に濡れる（あめ、ぬ）
+雨(あめ)に濡(ぬ)れる
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_濡.html">濡</a>
 <!--ID: 1776268643741-->
 
 
 I don't want to get wet in the rain #k #card
-雨にぬれたくないです
+雨(あめ)にぬれたくないです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <!--ID: 1776268643742-->
 
 
 The child got wet in the pool water #k #card
-子供はプールの水にぬれました
+子供(こども)はプールの水(みず)にぬれました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_供.html">供</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
@@ -1831,43 +1847,43 @@ The child got wet in the pool water #k #card
 
 
 My shirt got wet from sweat #k #card
-汗で私のシャツがぬれました
+汗(あせ)で私(わたし)のシャツがぬれました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_汗.html">汗</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <!--ID: 1776268643744-->
 
 
 The dog got wet in the puddle #k #card
-犬が水たまりでぬれました
+犬(いぬ)が水(みず)たまりでぬれました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
 <!--ID: 1776268643745-->
 
 
 The road is wet from the rain #k #card
-道が雨でぬれています
+道(みち)が雨(あめ)でぬれています
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <!--ID: 1776268643746-->
 
 
 to take a book #k #card
-本を取る（とる）
+本(ほん)を取(と)る
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_取.html">取</a>
 <!--ID: 1776268643747-->
 
 
-to carry a dictionary #k #card
-辞書を取る（じしょ、と）
+to take a dictionary #k #card
+辞書(じしょ)を取(と)る
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_辞.html">辞</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_取.html">取</a>
 <!--ID: 1776268643748-->
 
 
-to carry a wallet #card
-財布を取る（さいふ、と）
+to take a wallet #card
+財布(さいふ)を取(と)る
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_財.html">財</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_布.html">布</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_取.html">取</a>
@@ -1875,13 +1891,13 @@ to carry a wallet #card
 
 
 Please pass me that magazine #card
-そのざっしを取ってください（と）
+そのざっしを取っ(と)てください
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_取.html">取</a>
 <!--ID: 1776268643750-->
 
 
 to take a photo #k #card
-写真を撮る（しゃしんをとる）
+写真(しゃしん)を撮(と)る
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_撮.html">撮</a>

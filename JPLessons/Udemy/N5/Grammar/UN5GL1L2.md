@@ -451,44 +451,45 @@ Ne - seeking approval, emphasizing / isn’t it?
 
  Rzeczowniki:
 
- that person (he,she in keigo) #card
+ that person (he,she in keigo) | keigo term for referring to a person, more respectful than the plain 人(ひと) #card
 ほんやく: あの方（かた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1761365301170-->
 
 
- who is that person (polite) #card
+ Who is that person? (polite) #card
 ほんやく: あの方はどなたですか？（かた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1761365301172-->
 
 
- who (polite) #card
+ who (polite) | formal/polite way to ask about someone's identity, more respectful than 誰(だれ) #card
 ほんやく: どなた 
 <!--ID: 1761365301173-->
 
 
- from what country are you? #card
+ From what country are you? #card
 ほんやく: お国はどちらですか？(くに) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1761365301174-->
 
 
- word, słówko, bardziej słownikowo, używane w nauce #card
+ word | a discrete vocabulary item used in academic/dictionary contexts, more study-oriented than the broader 言葉(ことば) #card
 ほんやく: 単語（たんご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_単.html">単</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1761365301175-->
 
 
- word, słowo, język, wypowiedź #card
+ word / language / expression | broad term covering speech, language and utterances, less academic than 単語(たんご) #card
 ほんやく: 言葉　（ことば) 
+お/ご (honorific): お言葉(ことば)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_葉.html">葉</a>
 <!--ID: 1761365301176-->
 
 
- i learn (remember) 10 words everyday #card
+ I learn (remember) 10 Japanese words every day #card
 ほんやく: 日本語の単語を毎日１０個覚えています(たんご、こ、おぼ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -500,98 +501,99 @@ Ne - seeking approval, emphasizing / isn’t it?
 <!--ID: 1761365301177-->
 
 
- i see #card
+ I see | reactive phrase acknowledging new information, similar to 'oh really?'; can sound flat if said without further reaction #card
 ほんやく: そうですか 
 <!--ID: 1761365301178-->
 
 
- gołąb, pigeon, dove #card
+ pigeon, dove | a single word covers both 'pigeon' and 'dove' in Japanese, unlike English which distinguishes them #card
 ほんやく: ハト 
 <!--ID: 1761365301179-->
 
 
- pokarm dla zwierząt #card
+ food, feed (for animals) | refers specifically to food given to animals, not used for human meals #card
 ほんやく: 餌 (えさ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_餌.html">餌</a>
 <!--ID: 1761365301180-->
 
 
- information, materials #card
+ information, materials | reference documents prepared for a meeting, lesson or presentation; narrower than the general term 情報(じょうほう) #card
 ほんやく: 資料 (しりょう) 
+お/ご (honorific): ご資料(しりょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_資.html">資</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <!--ID: 1761365301181-->
 
 
- magazine #card
+ magazine | a periodical publication issued regularly (weekly/monthly), as opposed to a daily 新聞(しんぶん) #card
 ほんやく: 雑誌 (ざっし) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雑.html">雑</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_誌.html">誌</a>
 <!--ID: 1761365301182-->
 
 
- newspaper #card
+ newspaper | a daily printed publication, as opposed to a periodical 雑誌(ざっし) #card
 ほんやく: 新聞(しんぶん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1761365301183-->
 
 
- all #card
+ all | refers to the entirety of a set of things, distinguished from みんな which specifically means 'everyone' (people) #card
 ほんやく: 全部(ぜんぶ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_全.html">全</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <!--ID: 1761365301184-->
 
 
- May I come in? #card
+ May I come in? | set greeting called out when entering someone's home or knocking, seeking permission to enter #card
 ほんやく: ごめんください 
 <!--ID: 1761365301185-->
 
 
- please come in #card
+ Please come in #card
 ほんやく: どうぞ入ってください（はい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1761365301186-->
 
 
- sorry for disturbing you #card
+ sorry for disturbing you | set phrase said upon entering someone's home/room, humbly acknowledging you are intruding #card
 ほんやく: おじゃまします 
 <!--ID: 1761365301187-->
 
 
- sentence before meal #card
+ sentence before meal | set phrase expressing gratitude before eating (lit. 'I humbly receive') #card
 ほんやく: いただきます 
 <!--ID: 1761365301188-->
 
 
- sentence after meal #card
+ sentence after meal | set phrase thanking whoever prepared/provided the meal (lit. 'it was a feast') #card
 ほんやく: ごちそうさまでした 
 <!--ID: 1761365301189-->
 
 
- Open gate #card
+ Open gate | notice/sign indicating a gated site (temple, castle, park) is open for the day, contrasts with 閉門(へいもん) #card
 ほんやく: 開門　(かいもん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_門.html">門</a>
 <!--ID: 1761365301190-->
 
 
- Close gate #card
+ Close gate | notice/sign indicating a gated site's closing time, paired with 開門(かいもん) #card
 ほんやく: 閉門　(へいもん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_閉.html">閉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_門.html">門</a>
 <!--ID: 1761365301191-->
 
 
- open store #card
+ open store | signage/term indicating a shop has opened for business, contrasts with 閉店(へいてん) #card
 ほんやく: 開店　（かいてん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <!--ID: 1761365301192-->
 
 
- close store #card
+ close store | signage/term indicating a shop has closed for the day, contrasts with 開店(かいてん) #card
 ほんやく: 閉店　（へいてん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_閉.html">閉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
@@ -601,165 +603,172 @@ Ne - seeking approval, emphasizing / isn’t it?
 
 **ミハウと申します（もうします）。** – Nazywam sie Michal, Bardzo formalne; używane w pracy, podczas prezentacji lub rozmowy z przełożonym.
 
- family (own) #card
+ family (own) | plain, neutral term for one's own family, no honorific marking #card
 ほんやく: 家族 (かぞく) 
+お/ご (honorific): ご家族(かぞく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
 <!--ID: 1761365301194-->
 
 
- family (someone's) #card
+ family (someone's) | honorific (sonkeigo) form for referring to another person's family, formed with the polite prefix ご- #card
 ほんやく: ご家族 (ごかぞく) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
 <!--ID: 1761365301195-->
 
 
- grand father (my) #card
+ grandfather (my) | plain, humble term for one's own grandfather #card
 ほんやく: 祖父（そふ）
+お/ご (honorific): お祖父さん(おじいさん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_祖.html">祖</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <!--ID: 1761365301196-->
 
 
- grand father (someone) #card
+ grandfather (someone) | respectful term for another person's grandfather, also used generally to address elderly men #card
 ほんやく: お祖父さん（おじいさん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_祖.html">祖</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <!--ID: 1761365301197-->
 
 
- grandmother　(my) #card
+ grandmother (my) | plain term for one's own grandmother #card
 ほんやく: 祖母（そぼ）
+お/ご (honorific): お婆さん(おばあさん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_祖.html">祖</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <!--ID: 1761365301198-->
 
 
- grandmother　(someone) #card
+ grandmother (someone) | respectful term for another person's grandmother, also used to address elderly women generally #card
 ほんやく: お婆さん（おばあさん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_婆.html">婆</a>
 <!--ID: 1761365301199-->
 
 
- mother (my) #card
+ mother (my) | plain, humble term for one's own mother, used when speaking to outsiders about your family #card
 ほんやく: 母（はは） 
+お/ご (honorific): お母さん(かあ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <!--ID: 1761365301200-->
 
 
- mother (someone) #card
+ mother (someone) | respectful term for someone else's mother, also used within the family to address one's own mother directly #card
 ほんやく: お母さん（かあ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <!--ID: 1761365301201-->
 
 
- father (my) #card
+ father (my) | plain, humble term for one's own father, used when speaking to outsiders about your family #card
 ほんやく: 父（ちち）
+お/ご (honorific): お父さん(とう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <!--ID: 1761365301202-->
 
 
- father (someone) #card
+ father (someone) | respectful term for someone else's father, also used within the family to address one's own father directly #card
 ほんやく: お父さん（とう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <!--ID: 1761365301203-->
 
 
- wife (own) #card
+ wife (own) | standard neutral term for one's own wife in modern conversational Japanese #card
 ほんやく: 妻 (つま) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妻.html">妻</a>
 <!--ID: 1761365301204-->
 
 
- wife (someone's) #card
+ wife (someone's) | polite term for another person's wife (lit. 'the one in the inner room'), reflecting traditional social convention #card
 ほんやく: 奥さん (おく) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_奥.html">奥</a>
 <!--ID: 1761365301205-->
 
 
- husband (my) #card
+ husband (my) | plain, neutral term for one's own husband #card
 ほんやく: おっと 
 <!--ID: 1761365301206-->
 
 
- husband (someone) #card
+ husband (someone) | respectful term for another person's husband (lit. 'master of the house'), reflecting traditional gender roles #card
 ほんやく: ご主人（ごしゅじん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1761365301207-->
 
 
- daughter (my) #card
+ daughter (my) | plain term for one's own daughter #card
 ほんやく: 娘（むすめ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_娘.html">娘</a>
 <!--ID: 1761365301208-->
 
 
- daughter (someone) #card
+ daughter (someone) | respectful term for someone else's daughter #card
 ほんやく: むすめさん 
 <!--ID: 1761365301209-->
 
 
- son (my, reading musko) #card
+ son (my) | plain term for one's own son #card
 ほんやく: 息子（むすこ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_息.html">息</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <!--ID: 1761365301210-->
 
 
- son (someone, reading musko) #card
+ son (someone) | respectful term for someone else's son #card
 ほんやく: 息子さん（むすこ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_息.html">息</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <!--ID: 1761365301211-->
 
 
- elder brother (my) #card
+ elder brother (my) | plain term for one's own elder brother #card
 ほんやく: 兄（あに）
+お/ご (honorific): お兄さん(にい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <!--ID: 1761365301212-->
 
 
- elder brother (someone) #card
-ほんやく: 兄さん（あに）
+ elder brother (someone) | respectful term for someone else's elder brother, uses the honorific お- prefix (unlike younger-sibling terms) #card
+ほんやく: お兄さん（にい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <!--ID: 1761365301213-->
 
 
- younger brother (my) #card
+ younger brother (my) | plain term for one's own younger brother #card
 ほんやく: 弟（おとうと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <!--ID: 1761365301214-->
 
 
- younger brother (someone) #card
+ younger brother (someone) | term for someone else's younger brother, used without the お- honorific prefix unlike elder-sibling terms #card
 ほんやく: 弟さん（おとうと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <!--ID: 1761365301215-->
 
 
- younger sister (my) #card
+ younger sister (my) | plain term for one's own younger sister #card
 ほんやく: 妹（いもうと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
 <!--ID: 1761365301216-->
 
 
- younger sister (someone) #card
+ younger sister (someone) | term for someone else's younger sister, used without the お- honorific prefix unlike elder-sibling terms #card
 ほんやく: 妹さん（いもうと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
 <!--ID: 1761365301217-->
 
 
- number #card
+ number | refers to numerals/digits themselves, distinct from 番号(ばんごう) an assigned number like a phone or ID number #card
 ほんやく: 数字（すうじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
 <!--ID: 1761365301218-->
 
 
-  number of people #card
+  number of people | count of people in a group, as opposed to 人口(じんこう) 'population' #card
 ほんやく: 人数（にんずう) 
+お/ご (honorific): ご人数(にんずう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_数.html">数</a>
 <!--ID: 1761365301219-->
@@ -842,7 +851,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 <!--ID: 1761365301230-->
 
 
- same company #card
+ same company | expresses that two people/things belong to the same category (workplace, in this case) #card
 ほんやく: 同じ会社（おなじかいしゃ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_同.html">同</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
@@ -850,7 +859,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 <!--ID: 1761365301231-->
 
 
- same university #card
+ same university | expresses that two people/things belong to the same category (school, in this case) #card
 ほんやく: 同じ大学　（おなじだいがく) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_同.html">同</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
@@ -858,12 +867,14 @@ Ne - seeking approval, emphasizing / isn’t it?
 <!--ID: 1761365301232-->
 
 
- all #card
+ all | refers to the entirety of a set of things, distinguished from みんな which specifically means 'everyone' (people) #card
 ほんやく: 全部(ぜんぶ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_全.html">全</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<!--ID: 1784877914676-->
 
- all photos are beautiful #card
+
+ All photos are beautiful #card
 ほんやく: 写真は全部きれいです（しゃしん、ぜんぶ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
@@ -872,7 +883,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 <!--ID: 1761365301233-->
 
 
- there is 4 people in total #card
+ There are 4 people in total #card
 ほんやく: 全部で四人です（ぜんぶ、よにん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_全.html">全</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
@@ -881,14 +892,14 @@ Ne - seeking approval, emphasizing / isn’t it?
 <!--ID: 1761365301234-->
 
 
- in total #card
+ in total | used before stating a quantity to mean 'in all/altogether' #card
 ほんやく: 全部で（ぜんぶ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_全.html">全</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <!--ID: 1761365301235-->
 
 
- there are tommorow's materials, right? #card
+ There are tomorrow's materials, right? #card
 ほんやく: 明日の仕事のしりょうですね (あした、しごと) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -901,14 +912,15 @@ Ne - seeking approval, emphasizing / isn’t it?
 
  Czasowniki:
 
-to remember, learn (words, dates) #card
+to remember, learn (words, dates) | used for actively memorizing/learning new information (vocabulary, facts, dates) through study or repeated exposure, contrasts with 思い出す(おもいだす) 'to recall something already known' #card
 ほんやく: 覚える(おぼ)  
 て形: 覚えて
 た形: 覚えた
 ます形: 覚えます
 出す形 (start): 覚え出す
 そう (looks): 覚えそう
-お〜になる (honorific): お覚えになる
+お〜になる/special verb (honorific):お覚えになる
+謙譲語 (humble): お覚えいたす／お覚えします
 ない形: 覚えない
 なかった形: 覚えなかった
 あれる形 (passive/honorific): 覚えられる
@@ -921,14 +933,15 @@ to remember, learn (words, dates) #card
 <!--ID: 1761365301237-->
 
 
-to give, to grant, to bestow, to provide #card
+to give, to grant, to bestow, to provide | used when a person or entity in a position of authority/responsibility gives something to another (e.g. teacher to student), more formal/objective than casual あげる #card
 ほんやく: 与える(あたえる)  
 て形: 与えて
 た形: 与えた
 ます形: 与えます
 出す形 (start): 与え出す
 そう (looks): 与えそう
-お〜になる (honorific): お与えになる
+お〜になる/special verb (honorific):お与えになる
+謙譲語 (humble): お与えいたす／お与えします
 ない形: 与えない
 なかった形: 与えなかった
 あれる形 (passive/honorific): 与えられる
@@ -941,14 +954,15 @@ to give, to grant, to bestow, to provide #card
 <!--ID: 1761365301238-->
 
 
-to store #card
+to deposit, to entrust (for safekeeping) | used when leaving an item, money, or person in someone else's care temporarily, e.g. at a bank, coat check, or daycare #card
 ほんやく: 預ける (あずける)  
 て形: 預けて
 た形: 預けた
 ます形: 預けます
 出す形 (start): 預け出す
 そう (looks): 預けそう
-お〜になる (honorific): お預けになる
+お〜になる/special verb (honorific):お預けになる
+謙譲語 (humble): お預けいたす／お預けします
 ない形: 預けない
 なかった形: 預けなかった
 あれる形 (passive/honorific): 預けられる

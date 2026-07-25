@@ -154,21 +154,21 @@ podobne kanji
 # Summary
 
  high price (expensive) #k #card
-ほんやく: 値段高い（ねだん、たかい）
+ほんやく: 値段が高い（ねだん、たかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_値.html">値</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_段.html">段</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <!--ID: 1763555106602-->
 
 
- strong yen #k #card
+ strong yen | describes the yen's value being high relative to other currencies, a fixed term used in economic contexts #k #card
 ほんやく: 円高（えんだか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_円.html">円</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <!--ID: 1763555106605-->
 
 
- high school student #k #card
+ high school student | a student attending high school #k #card
 ほんやく: 高校生（こうこうせい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
@@ -183,21 +183,21 @@ podobne kanji
 <!--ID: 1763555106607-->
 
 
- university #k #card
+ university | an institution of higher education #k #card
 ほんやく: 大学（だいがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1763555106608-->
 
 
- tournament #k #card
+ tournament | a large-scale competitive event or convention #k #card
 ほんやく: 大会（たいかい） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <!--ID: 1763555106609-->
 
 
- middle #k #card
+ middle | refers to the inside or middle/center of something #k #card
 ほんやく: 中（なか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <!--ID: 1763555106610-->
@@ -218,7 +218,7 @@ podobne kanji
 <!--ID: 1763555106612-->
 
 
- a middle school student #k  #card
+ a middle school student | a student attending middle/junior high school #k #card
 ほんやく: 中学生（ちゅうがくせい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -226,14 +226,14 @@ podobne kanji
 <!--ID: 1763555106613-->
 
 
- center #card
+ center | the central point of something #card
 ほんやく: 中心（ちゅうしん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <!--ID: 1763555106614-->
 
 
- all day #k #card
+ all day | describes something occurring or lasting the entire day #k #card
 ほんやく: 一日中（いちにちじゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -241,27 +241,27 @@ podobne kanji
 <!--ID: 1763555106615-->
 
 
- small #k #card
+ small | an i-adjective for physical smallness in size #k #card
 ほんやく: 小さい（ちい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_小.html">小</a>
 <!--ID: 1763555106616-->
 
 
- stream #k #card
+ stream | a small river or brook #k #card
 ほんやく: 小川（おがわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_小.html">小</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_川.html">川</a>
 <!--ID: 1763555106617-->
 
 
- puppy、small dog #k #card
+ puppy, small dog #k #card
 ほんやく: 小犬（こいぬ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_小.html">小</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <!--ID: 1763555106618-->
 
 
- elementary school #k #card
+ elementary school | primary school for young children #k #card
 ほんやく: 小学校（しょうがっこう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_小.html">小</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -275,22 +275,22 @@ podobne kanji
 <!--ID: 1763555106620-->
 
 
- ceo #card
+ CEO | the president/head of a company #card
 ほんやく: 社長（しゃちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1763555106621-->
 
 
- school principal #card
+ school principal | the head of a school #card
 ほんやく: 校長（こうちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1763555106622-->
 
 
- white #k #card
-ほんやく: 白 
+ white | the noun form referring to the color white itself, as opposed to the adjective describing something as white #k #card
+ほんやく: 白（しろ） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1763555106623-->
 
@@ -302,22 +302,23 @@ podobne kanji
 <!--ID: 1763555106624-->
 
 
- pure white #k #card
+ pure white | an emphatic/intensified form meaning "pure, vivid white" #k #card
 ほんやく: 真っ白（まっしろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1763555106625-->
 
 
- blank #card
+ blank | an empty or blank space, e.g. on a page or in a schedule #card
 ほんやく: 空白（くうはく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1763555106626-->
 
 
- price #k #card
+ price | the general, everyday word for the price/cost of an item #k #card
 ほんやく: 値段（ねだん）
+お/ご (honorific): お値段(ねだん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_値.html">値</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_段.html">段</a>
 <!--ID: 1763555106627-->
@@ -329,35 +330,37 @@ podobne kanji
 <!--ID: 1763555106628-->
 
 
- to feel at ease/ poczuc sie bezpiecznie #k #card
+ to feel at ease | poczuć się bezpiecznie #k #card
 ほんやく: 安心する（あんしん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <!--ID: 1763555106629-->
 
 
- ulga, spokój #k #card
+ peace of mind, relief | ulga, spokój #k #card
 ほんやく: 安心（あんしん）
+お/ご (honorific): ご安心(あんしん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <!--ID: 1763555106630-->
 
 
- safety #k #card
+ safety | the state of being safe/secure from harm #k #card
 ほんやく: 安全（あんぜん）
+お/ご (honorific): ご安全(あんぜん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_全.html">全</a>
 <!--ID: 1763555106631-->
 
 
- new employee #k #card
+ new employee | someone newly joined an organization, a rookie/newcomer #k #card
 ほんやく: 新人（しんじん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1763555106632-->
 
 
- new year #k #card
+ new year | the new year period/celebration #k #card
 ほんやく: 新年（しんねん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -372,7 +375,7 @@ podobne kanji
 <!--ID: 1763555106634-->
 
 
- second hand/used #k #card
+ second-hand, used | describes pre-owned goods, e.g. cars or books #k #card
 ほんやく: 中古（ちゅうこ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_古.html">古</a>
@@ -394,7 +397,7 @@ podobne kanji
 <!--ID: 1763555106637-->
 
 
- probably #k #card
+ probably | expresses likelihood/probability about something #k #card
 ほんやく: 多分（たぶん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
@@ -409,13 +412,13 @@ podobne kanji
 <!--ID: 1763555106639-->
 
 
- a few, troche  #card
+ a little, a few | trochę #card
 ほんやく: 少し 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1763555106640-->
 
 
- it's rain a little #k #card
+ It's raining a little #k #card
 ほんやく: 少し雨が降る（すこ、あめ、ふ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
@@ -423,14 +426,14 @@ podobne kanji
 <!--ID: 1763555106641-->
 
 
- more or less #k #card
+ more or less | expresses an approximate or moderate degree/amount #k #card
 ほんやく: 多少（たしょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1763555106642-->
 
 
- a little girl #k #card
+ a little girl | a literary/formal term for a young girl, as in the genre term for "shoujo manga" #k #card
 ほんやく: 少女（しょうじょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_女.html">女</a>
@@ -452,7 +455,7 @@ podobne kanji
 <!--ID: 1763555106645-->
 
 
- early morning #k #card
+ early morning | the early hours of the morning, more formal/written than a casual phrase for early morning #k #card
 ほんやく: 早朝(そうちょう） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
@@ -463,7 +466,7 @@ podobne kanji
 
  Przymiotniki:
 
-high/expensive #k #wp #card
+high, expensive | an i-adjective covering both physical height and cost #k #wp #card
 ほんやく: 高い（たかい）  
 過去形: 高かった
 否定形: 高くない
@@ -473,7 +476,7 @@ high/expensive #k #wp #card
 <!--ID: 1763555106647-->
 
 
-big #k #wp #card
+big | an i-adjective for size/scale #k #wp #card
 ほんやく: 大きい（おおきい）  
 過去形: 大きかった
 否定形: 大きくない
@@ -483,7 +486,7 @@ big #k #wp #card
 <!--ID: 1763555106648-->
 
 
-long #wp #card
+long | an i-adjective for length or duration #wp #card
 ほんやく: 長い（ながい）  
 過去形: 長かった
 否定形: 長くない
@@ -493,7 +496,7 @@ long #wp #card
 <!--ID: 1763555106649-->
 
 
-white color #k #wp #card
+white | the i-adjective for describing something as white #k #wp #card
 ほんやく: 白い（しろい）  
 過去形: 白かった
 否定形: 白くない
@@ -503,7 +506,7 @@ white color #k #wp #card
 <!--ID: 1763555106650-->
 
 
-cheap #k #wp #card
+cheap | an i-adjective for low price/cost #k #wp #card
 ほんやく: 安い（やすい）  
 過去形: 安かった
 否定形: 安くない
@@ -513,7 +516,7 @@ cheap #k #wp #card
 <!--ID: 1763555106651-->
 
 
-new #k #wp #card
+new | an i-adjective for newness/recency #k #wp #card
 ほんやく: 新しい（あたらしい）  
 過去形: 新しかった
 否定形: 新しくない
@@ -523,7 +526,7 @@ new #k #wp #card
 <!--ID: 1763555106652-->
 
 
-old #k #wp #card
+old | an i-adjective for objects/things being old, not used for a person's age #k #wp #card
 ほんやく: 古い（ふるい）  
 過去形: 古かった
 否定形: 古くない
@@ -533,7 +536,7 @@ old #k #wp #card
 <!--ID: 1763555106653-->
 
 
-many, much #k #wp #card
+many, much | an i-adjective for quantity being large/numerous #k #wp #card
 ほんやく: 多い（おおい）  
 過去形: 多かった
 否定形: 多くない
@@ -543,7 +546,7 @@ many, much #k #wp #card
 <!--ID: 1763555106654-->
 
 
-malo, a little #wp #card
+few, little | mało — an i-adjective for quantity being small/scarce #wp #card
 ほんやく: 少ない（すくない）  
 過去形: 少なかった
 否定形: 少なくない
@@ -553,7 +556,7 @@ malo, a little #wp #card
 <!--ID: 1763555106655-->
 
 
-early #k #wp #card
+early | an i-adjective for happening ahead of the expected/usual time #k #wp #card
 ほんやく: 早い（はやい）  
 過去形: 早かった
 否定形: 早くない

@@ -182,35 +182,36 @@ Wyobraź sobie **rybę** z wielkimi oczami (田), otwartymi ustami (⺈) i ogone
  ---
 
 
-early morning #k #card
+early morning | refers to the early part of the morning specifically, distinct from "morning" in general #k #card
 朝方（あさがた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1780855042531-->
 
 
-breakfast (casual, more masculine than asagohan) #k #card
+breakfast | a casual word for breakfast, more masculine-sounding than the everyday 朝ご飯 #k #card
 朝飯（あさめし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1780855042533-->
 
 
-early morning (4-6AM, formal) #k #card
+early morning (4-6 AM) | a formal word for the very early morning hours, used in writing or formal speech #k #card
 早朝（そうちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <!--ID: 1780855042538-->
 
 
-breakfast (polite) #k #card
+breakfast (polite) | a polite/formal word for breakfast, used in written or formal spoken contexts #k #card
 朝食（ちょうしょく）
+お/ご (honorific): ご朝食（ちょうしょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1780855042540-->
 
 
-What time do you have breakfast (polite) #k #card
+What time do you have breakfast? (polite) #k #card
 朝食は何時に食べますか（ちょうしょく）？
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
@@ -228,27 +229,27 @@ I always eat lunch in the company #k #card
 <!--ID: 1780855042544-->
 
 
-meal/rice #k #card
+meal / cooked rice | the everyday word for a meal, or for cooked rice specifically #k #card
 ご飯（はん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1780855042547-->
 
 
-red bean rice #k #card
+red bean rice | a festive dish traditionally served for celebrations #k #card
 お赤飯（せきはん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1780855042550-->
 
 
-breakfast #k #card
+breakfast | the standard, everyday word for breakfast #k #card
 朝ご飯（あさごはん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1780855042552-->
 
 
-Who dit you have lunch with? #k #card
+Who did you have lunch with? #k #card
 昼ご飯はだれと食べましたか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
@@ -256,13 +257,13 @@ Who dit you have lunch with? #k #card
 <!--ID: 1780855042557-->
 
 
-lunch #k #card
+lunch | the casual, everyday word for lunch #k #card
 お昼（ひる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
 <!--ID: 1780855042560-->
 
 
-daytime #k #card
+daytime | refers to the daytime hours in general, not a specific meal or event #k #card
 昼間（ひるま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
@@ -278,21 +279,22 @@ I'm always in the company during the day #k #card
 <!--ID: 1780855042566-->
 
 
-lunch(polite) #k #card
+lunch (polite) | a polite/formal word for lunch, used in written or formal spoken contexts #k #card
 昼食（ちゅうしょく）
+お/ご (honorific): ご昼食（ちゅうしょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1780855042568-->
 
 
-dinner #k #card
+dinner | the everyday word for dinner #k #card
 夕ご飯（ゆうごはん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1780855042570-->
 
 
-I will eat dinner at home on sunday #k #card
+I will eat dinner at home on Sunday #k #card
 日曜日には家で夕ご飯を食べます(ゆうごはん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -303,21 +305,22 @@ I will eat dinner at home on sunday #k #card
 <!--ID: 1780855042573-->
 
 
-dinner (polite) #k #card
+dinner (polite) | a polite/formal word for dinner, used in written or formal spoken contexts #k #card
 夕食（ゆうしょく）
+お/ご (honorific): ご夕食（ゆうしょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1780855042580-->
 
 
-evening #k #card
+evening | refers to the evening hours in general #k #card
 夕方（ゆうがた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1780855042583-->
 
 
-Please please come to the company again in the evening #k #card
+Please come to the company again in the evening #k #card
 夕方もう一度会社へ来てください（ゆうがた、ど、き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
@@ -341,7 +344,7 @@ I will go to your company in the evening, so let's have a meal together #k #card
 <!--ID: 1780855042588-->
 
 
-Can we meet at that hotel tommorow morning? #k #card
+Can we meet at that hotel tomorrow evening? #k #card
 明日の夕方、あのホテルで会えませんか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -351,20 +354,21 @@ Can we meet at that hotel tommorow morning? #k #card
 <!--ID: 1780855042590-->
 
 
-herbata zelona #k #card
+tea | often defaults to meaning green tea specifically, given cultural context #k #card
 お茶（ちゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_茶.html">茶</a>
 <!--ID: 1780855042593-->
 
 
-tea party #k #card
+tea party | refers to a gathering centered on tea, often more formal than a casual get-together #k #card
 茶会(ちゃかい）
+お/ご (honorific): お茶会（ちゃかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_茶.html">茶</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <!--ID: 1780855042596-->
 
 
-please have some tea before your meal, proszę wypić #k #card
+Please have some tea before your meal #k #card
 食事の前にお茶をどうぞ(しょく、まえ、ちゃ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
@@ -373,14 +377,14 @@ please have some tea before your meal, proszę wypić #k #card
 <!--ID: 1780855042598-->
 
 
-tea ceremony #k #card
+tea ceremony | refers to the traditional, ritualized Japanese practice of preparing and serving tea #k #card
 茶道（さどう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_茶.html">茶</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
 <!--ID: 1780855042600-->
 
 
-Do you have somethink to drink #k #card
+Do you have something to drink? #k #card
 何か飲み物はありませんか（のみもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
@@ -388,22 +392,23 @@ Do you have somethink to drink #k #card
 <!--ID: 1780855042603-->
 
 
-eating and drinking #k #card
+eating and drinking | a compound covering food and drink together, often in the context of dining establishments #k #card
 飲食（いんしょく）
+お/ご (honorific): ご飲食（いんしょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1780855042606-->
 
 
-napoje(formal drinks) #k #card
-飲料（いんりょう）- beverage
+beverage (formal) | a formal word for a drink/beverage, as seen on product labels or in writing #k #card
+飲料（いんりょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <!--ID: 1780855042608-->
 
 
-this is beverage from a foreign country? #k #card
-これは外国の飲料ですか(がきこく,いんりょう）
+Is this a beverage from a foreign country? #k #card
+これは外国の飲料ですか(がいこく,いんりょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
@@ -411,21 +416,22 @@ this is beverage from a foreign country? #k #card
 <!--ID: 1780855042610-->
 
 
-cooking #k #card
+cooking / cuisine | can refer to the act of cooking or to a prepared dish/cuisine as a whole #k #card
 料理（りょうり）
+お/ご (honorific): お料理（りょうり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <!--ID: 1780855042613-->
 
 
-groceries #k #card
+food / foodstuffs | refers to food supplies or provisions in general, not specifically store-bought groceries #k #card
 食料（しょくりょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <!--ID: 1780855042616-->
 
 
-examination fee #k #card
+examination fee | the specific fee paid to take an exam #k #card
 試験料（しけんりょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_験.html">験</a>
@@ -433,7 +439,7 @@ examination fee #k #card
 <!--ID: 1780855042619-->
 
 
-fee #k #card
+fee | the general word for a fee, charge, or price for a service #k #card
 料金（りょうきん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
@@ -448,7 +454,7 @@ How much is this book? #k #card
 <!--ID: 1780855042623-->
 
 
-examination fee at that university is expensive (informative) #k #card
+The examination fee at that university is expensive (informative) #k #card
 あの大学の試験料は高いですよ（しけんりょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -459,14 +465,14 @@ examination fee at that university is expensive (informative) #k #card
 <!--ID: 1780855042626-->
 
 
-science #k #card
+science | refers specifically to the natural sciences as an academic field #k #card
 理学（りがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1780855042629-->
 
 
-How is japanese food? #k #card
+How is Japanese food? #k #card
 日本の料理はいかがですか（りょうり)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -475,7 +481,7 @@ How is japanese food? #k #card
 <!--ID: 1780855042631-->
 
 
-how much is this dish? #k #card
+How much is this dish? #k #card
 この料理の料金はいくらですか （りょうり、りょうきん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
@@ -483,21 +489,21 @@ how much is this dish? #k #card
 <!--ID: 1780855042633-->
 
 
-cafeteria #k #card
+cafeteria | refers to a dining hall or cafeteria at a company, school, etc. #k #card
 食堂（しょくどう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_堂.html">堂</a>
 <!--ID: 1780855042636-->
 
 
-school (archaic, usualy in names) #k #card
+school (archaic) | an old-fashioned word for school, now mostly seen in institution names rather than everyday speech #k #card
 学堂 (がくどう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_堂.html">堂</a>
 <!--ID: 1780855042639-->
 
 
-shal we rat in  the cafeteria of the company? #k #card
+Shall we eat in the cafeteria of the company? #k #card
 会社の食堂で食べませんか（しょくどう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -506,7 +512,7 @@ shal we rat in  the cafeteria of the company? #k #card
 <!--ID: 1780855042643-->
 
 
-let's eat dinner in this cafeteria #k #card
+Let's eat dinner in this cafeteria #k #card
 夕ご飯はこの食堂で食べましょう（ゆう、はん、しょくどう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夕.html">夕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
@@ -515,20 +521,22 @@ let's eat dinner in this cafeteria #k #card
 <!--ID: 1780855042647-->
 
 
-taste #k #card
+taste | the general, everyday word for the taste of food #k #card
 味（あじ）
+お/ご (honorific): お味（あじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <!--ID: 1780855042650-->
 
 
-get a taste of #k #card
+to taste / to savor | implies deliberately experiencing and appreciating a taste or experience, not just a quick check of flavor #k #card
 ほんやく: 味わう（あじ）
 て形: 味わって
 た形: 味わった
 ます形: 味わいます
 出す形 (start): 味わい出す
 そう (looks): 味わいそう
-お〜になる (honorific): お味わいになる
+お〜になる/special verb (honorific):お味わいになる
+謙譲語 (humble): お味わいいたす／お味わいします
 ない形: 味わわない
 なかった形: 味わわなかった
 あれる形 (passive/honorific): 味わわれる
@@ -541,14 +549,15 @@ get a taste of #k #card
 <!--ID: 1780855042654-->
 
 
-tasting #k #card
+tasting | refers to the practical act of sampling food (e.g. while cooking) to check its taste #k #card
 味見（あじみ）
+お/ご (honorific): お味見（あじみ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1780855042658-->
 
 
-The taste of this dish is excellent, isnt'it? #k #card
+The taste of this dish is excellent, isn't it? #k #card
 この料理の味はすばらしいですね (あじ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
@@ -563,21 +572,21 @@ How is the taste of the meat? #k #card
 <!--ID: 1780855042666-->
 
 
-flavour #k #card
+flavour | refers to a subtler nuance of taste or aroma, e.g. of a dish or drink, rather than taste in general #k #card
 風味（ふうみ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <!--ID: 1780855042670-->
 
 
-meaning #k #card
+meaning | the standard word for the meaning of a word, phrase, or situation #k #card
 意味（いみ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <!--ID: 1780855042677-->
 
 
-meat dish #k #card
+meat dish | a compound naming a dish centered on meat #k #card
 肉料理（にくりょうり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
@@ -585,14 +594,14 @@ meat dish #k #card
 <!--ID: 1780855042679-->
 
 
-blood relative #k #card
+blood relative | literally "flesh relative" — refers to a close relation by blood, as opposed to relatives by marriage #k #card
 肉親（にくしん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
 <!--ID: 1780855042682-->
 
 
-what do you like bnetter, meat or fish? #k #card
+What do you like better, meat or fish? #k #card
 肉と魚とどちらがすきですか （にく、さかな）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_魚.html">魚</a>
@@ -615,8 +624,8 @@ I eat meat for dinner #k #card
 <!--ID: 1780855042689-->
 
 
-fish dish #k #card
-魚料理（さかな料理）
+fish dish | a compound naming a dish centered on fish #k #card
+魚料理（さかなりょうり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_魚.html">魚</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
@@ -633,7 +642,7 @@ There are various fish dishes in Japan #k #card
 <!--ID: 1780855042692-->
 
 
-fish market #k #card
+fish market | a compound referring specifically to a market for buying/selling fish #k #card
 魚市場（うおいちば）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_魚.html">魚</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_市.html">市</a>
@@ -641,7 +650,7 @@ fish market #k #card
 <!--ID: 1780855042693-->
 
 
-fish meat #k #card
+fish meat | refers to fish as a type of meat/protein, as opposed to meat from other animals #k #card
 魚肉（ぎょにく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_魚.html">魚</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>

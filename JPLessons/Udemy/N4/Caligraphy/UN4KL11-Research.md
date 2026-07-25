@@ -219,8 +219,10 @@ A **knife (刂)** is used to **cut** or **separate** something from another (**�
 
  Rzeczowniki:
 
-unnecessary, not needed, not required. #card
+unnecessary / not needed | emphasizes something is not necessary, distinct from simply "not in use" #card
 不要(ふよう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_要.html">要</a>
 <!--ID: 1783488402623-->
 
 
@@ -231,8 +233,9 @@ unnecessary, not needed, not required. #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
 <!--ID: 1749742879258-->
 
- research #card
+ research | the standard word for academic/scientific research #card
 ほんやく: 研究（けんきゅう）
+お/ご (honorific): ご研究（けんきゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879263-->
@@ -246,7 +249,7 @@ unnecessary, not needed, not required. #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879266-->
 
- get at the truth/dotrzeć do prawdy #card
+ to get at the truth #card
 ほんやく: 真理を究める（しんり、きわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
@@ -260,7 +263,7 @@ unnecessary, not needed, not required. #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1749742879271-->
 
- scholar/uczony #card
+ scholar | a literary, somewhat rare word for a scholar or academic #card
 ほんやく: 学究（がっきゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
@@ -276,7 +279,7 @@ unnecessary, not needed, not required. #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879275-->
 
- are you also studying Japanese literature (research) #card
+ Are you also studying Japanese literature (research)? #card
 ほんやく: あなたも日本文学を研究していますか（ぶんがく、けんきゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -295,7 +298,7 @@ unnecessary, not needed, not required. #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1749742879279-->
 
- mainly #card
+ mainly | the standard word for "mainly/primarily" #card
 ほんやく: 主(に)（おも) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <!--ID: 1749742879281-->
@@ -308,38 +311,39 @@ unnecessary, not needed, not required. #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
 <!--ID: 1749742879283-->
 
- owner(possession not status) #card
+ owner | emphasizes literal possession/ownership, not social status #card
 ほんやく: 持ち主（も、ぬし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <!--ID: 1749742879285-->
 
- landlord #card
+ landlord | refers to the owner of a house or property that is rented out #card
 ほんやく: 家主（やぬし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <!--ID: 1749742879287-->
 
- are you owner of that car? #card
-ほんやく: あの車の待ち主はあなたですか(まちぬし) 
+ Are you the owner of that car? #card
+ほんやく: あの車の持ち主はあなたですか(もちぬし) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <!--ID: 1749742879289-->
 
- owner but status/husband Carries a sense of authority — master over servants, pets, or a business. #card
+ owner (status, not just possession) / husband | carries a sense of authority — master over servants, pets, or a business #card
 ほんやく: 主人（しゅじん）
+お/ご (honorific): ご主人（しゅじん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1749742879291-->
 
- storekeeper #card
+ storekeeper | refers to the owner/manager of a store #card
 ほんやく: 店主（てんしゅ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <!--ID: 1749742879293-->
 
- Sister's elder husband is a doctor #card
+ My older sister's husband is a doctor #card
 ほんやく: 姉の主人は医者です（あね、しゅじん、いしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
@@ -355,7 +359,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1749742879303-->
 
- My husband's job is **mainly** trading with foreing countries #card
+ My husband's job is **mainly** trading with foreign countries #card
 ほんやく: 主人の仕事は主に海外**との**売買です（しゅじん、おも、かいがい、ばいばい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
@@ -367,7 +371,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1749742879305-->
 
- say #card
+ say | the standard word for saying something #card
 ほんやく: 言う（い）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1749742879307-->
@@ -378,7 +382,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1749742879309-->
 
- I am Smitch #card
+ I am Smith #card
 ほんやく: 私はスミスと言います（い）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
@@ -389,20 +393,20 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1749742879313-->
 
- language #card
+ language | a more formal/technical word for language, as an abstract system #card
 ほんやく: 言語（げんご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1749742879315-->
 
- lingwistyka (nauka o języku) #card
+ linguistics | the academic study of language #card
 ほんやく: 言語学（げんごがく) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1749742879317-->
 
- quote #card
+ quote | refers specifically to a famous or notable saying, not just any quotation #card
 ほんやく: 名言（めいげん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
@@ -426,7 +430,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1749742879324-->
 
- society (how the world works, life in general, changing times) #card
+ society | how the world/society works, life in general, changing times #card
 ほんやく: 世の中（よのなか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
@@ -437,19 +441,19 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
 <!--ID: 1749742879329-->
 
- world  #card
+ world | the standard word for the world #card
 ほんやく: 世界（せかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_界.html">界</a>
 <!--ID: 1749742879331-->
 
- society (the social circle/community around you, your personal social bubble) #card
+ society | one's personal social circle/community, narrower than society at large #card
 ほんやく: 世間（せけん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1749742879334-->
 
- I am planinning on traveling around the world now #card
+ I am planning on traveling around the world now #card
 ほんやく: 今、私は世界旅行を計画しています（せかいりょこう、けいかく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
@@ -461,7 +465,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <!--ID: 1749742879336-->
 
- The society of Japan is different from the united states #card
+ The society of Japan is different from the United States #card
 ほんやく: 日本の世の中はアメリカとは違います（よのなか、ちが）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -477,14 +481,14 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_界.html">界</a>
 <!--ID: 1749742879341-->
 
- educational world #card
+ educational world | the professional community/field of education, a figurative "world" #card
 ほんやく: 教育界（きょういくかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_育.html">育</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_界.html">界</a>
 <!--ID: 1749742879342-->
 
- Teacher mr. Tanaka is a famous person in the educational world #card
+ Teacher Mr. Tanaka is a famous person in the educational world #card
 ほんやく: 田中先生は教育界の有名人です（きょういくかい、ゆうめいじん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
@@ -504,7 +508,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_服.html">服</a>
 <!--ID: 1749742879346-->
 
- newspaper #card
+ newspaper | the standard word for a newspaper #card
 ほんやく: 新聞（しんぶん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
@@ -517,7 +521,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742879350-->
 
- new employee #card
+ new employee | refers to a newly hired employee at a company #card
 ほんやく: 新入社員（しんにゅうしゃいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
@@ -535,7 +539,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1749742879354-->
 
- yesterday i bought map of the Tokio #card
+ Yesterday I bought a new map of Tokyo #card
 ほんやく: 昨日新しい東京の地図を買いました（ちず）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -547,7 +551,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1749742879356-->
 
- Do you have today's newspaper #card
+ Do you have today's newspaper? #card
 ほんやく: 今日の新聞はありますか(しんぶん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -555,7 +559,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1749742879358-->
 
- New research will be announced at tommorows academic conference #card
+ New research will be announced at tomorrow's academic conference #card
 ほんやく: 明日の学会で新研究が発表されます（がっかい、しんけんきゅう、はっぴょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -568,20 +572,20 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_表.html">表</a>
 <!--ID: 1749742879360-->
 
- problem (question) #card
-ほんやく: 問題（もんだい）question subject 
+ problem / question | can mean either a problem to solve or an exam/quiz question, depending on context #card
+ほんやく: 問題（もんだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <!--ID: 1749742879362-->
 
- topic #card
-ほんやく: 話題（わだい）talk about subject 
+ topic | refers to a topic of conversation #card
+ほんやく: 話題（わだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <!--ID: 1749742879364-->
 
- title #card
-ほんやく: 題名（だいめい）name of the topic
+ title | refers to the title/name of a work, lecture, or piece #card
+ほんやく: 題名（だいめい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1749742879366-->
@@ -597,7 +601,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1749742879369-->
 
- The exam questins at this university are difficult #card
+ The exam questions at this university are difficult #card
 ほんやく: この大学の試験問題はむずかしいですよ（しけんもんだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -623,20 +627,24 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <!--ID: 1749742879377-->
 
- special, especiallu #card
+ special / especially | describes something distinguished from the ordinary #card
 ほんやく: 特別（とくべつ）
+過去形: —
+否定形: —
+副詞形: —
+そう (looks): 特別そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1749742879380-->
 
- special features #card
+ special features | refers to a distinguishing characteristic or feature #card
 ほんやく: 特色（とくしょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1749742879383-->
 
  This is a special research #card
-ほんやく: これは特別な研究です（とくべつ、けんきょう）
+ほんやく: これは特別な研究です（とくべつ、けんきゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
@@ -650,7 +658,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1749742879388-->
 
- This is a special research, so the uniwersity will pay for it #card
+ This is a special research, so the university will pay for it #card
 ほんやく: これは特別な研究ですから、大学がお金を出します（とくべつ、けんきゅう、だ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
@@ -662,7 +670,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1749742879391-->
 
- The characteristics of this projec is that the tsask is very easy #card
+ The special feature of this project is that the task is very easy #card
 ほんやく: この企画の特色は作業がやさしいことです(きかく、とくしょく、さぎょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_企.html">企</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
@@ -672,12 +680,13 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1749742879393-->
 
- farewell #card
+ a farewell, a parting | noun form of 別れる "to part/separate" #card
 ほんやく: 別れ（わか）
+お/ご (honorific): お別れ（わか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1749742879396-->
 
- I decided to leave my friends and study baroad by myself #card
+ I decided to leave my friends and study abroad by myself #card
 ほんやく: 友だちと別れて、一人で留学することにしました（わか、りゅうがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
@@ -687,13 +696,13 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1749742879398-->
 
- alias #card
+ alias | refers to an alternate name for someone or something #card
 ほんやく: 別名（べつめい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1749742879401-->
 
- another (separate) room #card
+ another (separate) room | refers to a separate room, e.g. for private matters #card
 ほんやく: 別室（べっしつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
@@ -710,20 +719,21 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
 <!--ID: 1749742879404-->
 
- anxiety #card
+ anxiety | the standard word for anxiety or unease #card
 ほんやく: 不安（ふあん）
+お/ご (honorific): ご不安（ふあん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
 <!--ID: 1749742879406-->
 
- inadequate, insufficient #card
+ inadequate / insufficient | describes something falling short of what's needed #card
 ほんやく: 不十分（ふじゅうぶん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1749742879408-->
 
- Fis is not needed for this dish #card
+ Fish is not needed for this dish #card
 ほんやく: この料理には魚は不用ですよ（りょうり、さかな、ふよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
@@ -732,7 +742,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879410-->
 
- Because I will buy a special computer, I borrowed money from bank, but it is still insufficient #card
+ Because I will buy a special computer, I borrowed money from the bank, but it is still insufficient #card
 ほんやく: 特別なコンピューターを買うので、銀行からお金を借りましたが、まだ不十分です（とくべつ、が、ぎんこう、かね、か、ふじゅうぶん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_特.html">特</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
@@ -756,7 +766,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_下.html">下</a>
 <!--ID: 1749742879414-->
 
- clumsy(klamzi)/niezdarny #card
+ clumsy | describes being physically unskilled or awkward with one's hands #card
 ほんやく: 不器用（ぶきよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_器.html">器</a>
@@ -771,24 +781,25 @@ The owner of this store is that person #card
 <!--ID: 1749742879419-->
 
  this is used for medicine #card
-ほんやく: これは薬に持ちられます(くすり、もち) 
+ほんやく: これは薬に用いられます(くすり、もち) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_薬.html">薬</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879421-->
 
- unused, no longer in use, disused. #card
+ unused / no longer in use | describes something not currently in use, distinct from being simply "unnecessary" #card
 ほんやく: 不用（ふよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879423-->
 
- use #card
+ use | a formal/technical register word for "usage," as opposed to the everyday verb #card
 ほんやく: 使用（しよう） 
+お/ご (honorific): ご使用（しよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879425-->
 
- company use #card
+ company use | describes something used for company/business purposes rather than personal use #card
 ほんやく: 社用（しゃよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
@@ -803,7 +814,7 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742879429-->
 
- is this car for company use? #card
+ Is this car for company use? #card
 ほんやく: この車は社用ですか（しゃよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -826,14 +837,15 @@ The owner of this store is that person #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1749742879435-->
 
-sharpen #card
+sharpen | also idiomatically used for washing/rinsing rice before cooking #card
 ほんやく: 研ぐ（とぐ）  
 て形: 研いで
 た形: 研いだ
 ます形: 研ぎます
 出す形 (start): 研ぎ出す
 そう (looks): 研ぎそう
-お〜になる (honorific): お研ぎになる
+お〜になる/special verb (honorific):お研ぎになる
+謙譲語 (humble): お研ぎいたす／お研ぎします
 ない形: 研がない
 なかった形: 研がなかった
 あれる形 (passive/honorific): 研がれる
@@ -845,14 +857,15 @@ sharpen #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
 <!--ID: 1749742894466-->
 
-to master (something thoroughly, to investigate to the fullest extent, field of study) #card
+to master | to investigate or study a field to its fullest extent, thoroughly #card
 ほんやく: 究める（きわ）  
 て形: 究めて
 た形: 究めた
 ます形: 究めます
 出す形 (start): 究め出す
 そう (looks): 究めそう
-お〜になる (honorific): お究めになる
+お〜になる/special verb (honorific):お究めになる
+謙譲語 (humble): お究めいたす／お究めします
 ない形: 究めない
 なかった形: 究めなかった
 あれる形 (passive/honorific): 究められる
@@ -864,14 +877,15 @@ to master (something thoroughly, to investigate to the fullest extent, field of 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1749742894470-->
 
-to separate #card
+to part ways (with someone) / to break up | describes separating from a person, whether physically or ending a relationship #card
 ほんやく: 別れる（わかれる）  
 て形: 別れて
 た形: 別れた
 ます形: 別れます
 出す形 (start): 別れ出す
 そう (looks): 別れそう
-お〜になる (honorific): お別れになる
+お〜になる/special verb (honorific):お別れになる
+謙譲語 (humble): お別れいたす／お別れします
 ない形: 別れない
 なかった形: 別れなかった
 あれる形 (passive/honorific): 別れられる
@@ -883,14 +897,15 @@ to separate #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1749742894472-->
 
-use (academic, official, technical) #card
+to use | an academic/official/technical word for using something, more formal than the everyday verb #card
 ほんやく: 用いる（もち）  
 て形: 用いて
 た形: 用いた
 ます形: 用います
 出す形 (start): 用い出す
 そう (looks): 用いそう
-お〜になる (honorific): お用いになる
+お〜になる/special verb (honorific):お用いになる
+謙譲語 (humble): お用いいたす／お用いします
 ない形: 用いない
 なかった形: 用いなかった
 あれる形 (passive/honorific): 用いられる
@@ -902,8 +917,8 @@ use (academic, official, technical) #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1749742894474-->
 
-new #card
-ほんやく: 新しい（あたら
+new | the standard い-adjective for "new" #card
+ほんやく: 新しい（あたら）
 過去形: 新しかった
 否定形: 新しくない
 副詞形: 新しく

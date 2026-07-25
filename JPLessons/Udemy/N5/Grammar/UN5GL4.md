@@ -649,7 +649,7 @@ Example:
 
 # Summary
 
- what year #card
+ what year | asks for a specific calendar year; can also mean "how many years" depending on context #card
 ほんやく: 何年（なんねん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -698,7 +698,7 @@ Example:
 <!--ID: 1761797631638-->
 
 
-  week #card
+  week | the calendar unit "week" itself, as opposed to 週間 which counts a duration of weeks #card
 ほんやく: 週（しゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
 <!--ID: 1761797631639-->
@@ -741,7 +741,7 @@ Example:
 <!--ID: 1761797631644-->
 
 
- what minute #card
+ what minute | asks for the specific number of minutes, e.g. when giving a precise time #card
 ほんやく: 何分（なんぷん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
@@ -754,13 +754,13 @@ Example:
 <!--ID: 1761797631646-->
 
 
- back #card
+ front #card
 ほんやく: 前（まえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <!--ID: 1761797631647-->
 
 
- front #card
+ back #card
 ほんやく: 後ろ（うしろ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
 <!--ID: 1761797631648-->
@@ -809,7 +809,7 @@ Example:
 <!--ID: 1761797631654-->
 
 
- department store (japanese name) #card
+ department store | a traditional, more formal term for a department store; contrasts with the everyday loanword デパート #card
 ほんやく: 百貨店（ひゃっかてん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_百.html">百</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貨.html">貨</a>
@@ -824,7 +824,7 @@ Example:
 <!--ID: 1761797631656-->
 
 
- vegetable shop #card
+ vegetable shop | literally "eight-hundred store"; traditionally a greengrocer selling fresh vegetables and fruit #card
 ほんやく: 八百屋（やおや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_百.html">百</a>
@@ -840,7 +840,7 @@ Example:
 <!--ID: 1761797631658-->
 
 
- holiday #card
+ holiday | a national/public holiday specifically, as opposed to 休日(きゅうじつ) which is any day off work #card
 ほんやく: 祝日（しゅくじつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_祝.html">祝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -854,22 +854,23 @@ Example:
 <!--ID: 1761797631660-->
 
 
- truth, really #card
+ truth, really | used both as a noun ("the truth") and as an adverb ("really/truly") for emphasis #card
 ほんやく: 本当（ほんとう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <!--ID: 1761797631661-->
 
 
- question #card
+ question | a somewhat formal word for a question, e.g. in class or an interview #card
 ほんやく: 質問（しつもん）
+お/ご (honorific): ご質問(しつもん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_質.html">質</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
 <!--ID: 1761797631662-->
 
 
- 1999r #card
-ほんやく: 1994年（せんきゅうひゃくきゅうじゅうきゅう**よ**ねん） 
+ the year 1999 #card
+ほんやく: 1999年（せんきゅうひゃくきゅうじゅうきゅう**よ**ねん） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1761797631663-->
 
@@ -882,7 +883,7 @@ Example:
 <!--ID: 1761797631664-->
 
 
- what year is next year #card
+ What year will next year be? #card
 ほんやく: 来年は何年ですか（らいねん、なんねん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -890,7 +891,7 @@ Example:
 <!--ID: 1761797631665-->
 
 
- 4 lata (okres) #card
+ 4 years (period) #card
 ほんやく: 四年(間)（よねんかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -898,14 +899,14 @@ Example:
 <!--ID: 1761797631666-->
 
 
- april #card
+ April #card
 ほんやく: 四月（しがつ） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761797631667-->
 
 
- july #card
+ July #card
 ほんやく: 七月（しちがつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -919,7 +920,7 @@ Example:
 <!--ID: 1761797631669-->
 
 
- 1 miesiąc #card
+ 1 month #card
 ほんやく: 一か月(間)（いっかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -927,7 +928,7 @@ Example:
 <!--ID: 1761797631670-->
 
 
- 2 miesiące #card
+ 2 months #card
 ほんやく: 二か月(間)（にかげつかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -935,7 +936,7 @@ Example:
 <!--ID: 1761797631671-->
 
 
- 3 miesiące #card
+ 3 months #card
 ほんやく: 三か月(間)（さんかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -943,7 +944,7 @@ Example:
 <!--ID: 1761797631672-->
 
 
- 4 miesiące #card
+ 4 months #card
 ほんやく: 四か月(間)（よんかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -951,7 +952,7 @@ Example:
 <!--ID: 1761797631673-->
 
 
- 5 miesięcy #card
+ 5 months #card
 ほんやく: 五か月(間)（ごかげつかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -959,7 +960,7 @@ Example:
 <!--ID: 1761797631674-->
 
 
- 6 miesięcy #card
+ 6 months #card
 ほんやく: 六か月(間)（ろっかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -967,7 +968,7 @@ Example:
 <!--ID: 1761797631675-->
 
 
- 7 miesięcy #card
+ 7 months #card
 ほんやく: 七か月(間)（ななかげつかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -975,7 +976,7 @@ Example:
 <!--ID: 1761797631676-->
 
 
- 8 miesięcy #card
+ 8 months #card
 ほんやく: 八か月(間)（はちかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -983,7 +984,7 @@ Example:
 <!--ID: 1761797631677-->
 
 
- 9 miesięcy #card
+ 9 months #card
 ほんやく: 九か月(間)（きゅうかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -991,7 +992,7 @@ Example:
 <!--ID: 1761797631678-->
 
 
- 10 miesięcy #card
+ 10 months #card
 ほんやく: 十か月(間)（じゅっかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -999,7 +1000,7 @@ Example:
 <!--ID: 1761797631679-->
 
 
- 12 miesiecy #card
+ 12 months #card
 ほんやく: 十二か月（かん）(じゅうにかげつ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
@@ -1007,20 +1008,20 @@ Example:
 <!--ID: 1761797631680-->
 
 
- this day #card
+ this day | refers to a specific, particular day (often a notable one), unlike 今日 "today" #card
 ほんやく: この日(ひ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631681-->
 
 
- mother's day #card
+ mother's day | formed with the pattern noun+の日 ("day of ~"), a modern, Western-influenced holiday name #card
 ほんやく: 母の日（ははのひ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631682-->
 
 
- Tuestay #card
+ Tuesday #card
 ほんやく: 火曜日（かようび）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -1037,7 +1038,7 @@ Example:
 
 
  Thursday #card
-ほんやく: 木曜日（木曜日）
+ほんやく: 木曜日（もくようび）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1045,7 +1046,7 @@ Example:
 
 
  Friday #card
-ほんやく: 金曜日（金曜日）
+ほんやく: 金曜日（きんようび）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1053,14 +1054,14 @@ Example:
 
 
  Saturday #card
-ほんやく: 土曜日（土曜日）
+ほんやく: 土曜日（どようび）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_土.html">土</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631687-->
 
 
- what day of the week #card
+ what day of the week | asks specifically for the day of the week, as opposed to 何日 which asks for the date #card
 ほんやく: 何曜日（なんようび）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -1519,30 +1520,31 @@ Example:
 <!--ID: 1761797631750-->
 
 
- what minute #card
+ what minute | asks for the specific number of minutes, e.g. when giving a precise time #card
 ほんやく: 何分（なんぷん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1768451605974-->
 
 
- 14 godzin i 34 minut  #card
-ほんやく: 十四時間三十四ぷ（じゅうよじかん さんじゅうよんぷん） 
+ 14 hours and 34 minutes #card
+ほんやく: 十四時間三十四分（じゅうよじかん さんじゅうよんぷん） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1761797631751-->
 
 
- meal #card
+ meal | a generic, everyday word for a meal, more casual than the formal 食事(しょくじ) #card
 ほんやく: ご飯（はん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1761797631752-->
 
 
- morning #card
+ morning | the general morning period, as distinct from 今朝 which specifically means "this morning" #card
 ほんやく: 朝（あさ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <!--ID: 1761797631753-->
@@ -1555,19 +1557,21 @@ Example:
 <!--ID: 1761797631754-->
 
 
- day time #card
+ daytime | the midday/daytime period, roughly between morning and evening #card
 ほんやく: 昼（ひる）
+お/ご (honorific): お昼(ひる)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
 <!--ID: 1761797631755-->
 
 
 　lunch #card
 ほんやく: 昼ごはん（ひる、はん）
+お/ご (honorific): お昼ごはん(ひる、はん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
 <!--ID: 1761797631756-->
 
 
- evening (sunset to bedtime) #card
+ evening | the period from sunset until bedtime, as opposed to 夜(よる) which spans sunset to sunrise #card
 ほんやく: 晩(ばん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晩.html">晩</a>
 <!--ID: 1761797631757-->
@@ -1580,13 +1584,13 @@ Example:
 <!--ID: 1761797631758-->
 
 
- night (sunset to sunrise) #card
+ night | the period from sunset to sunrise, as opposed to 晩(ばん) which only lasts until bedtime #card
 ほんやく: 夜（よる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1761797631759-->
 
 
- side** #card
+ side** | a suffix attached to direction words (e.g. right/left/front/back) to mean "the ~ side" #card
 ほんやく: **側（がわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_側.html">側</a>
 <!--ID: 1761797631760-->
@@ -1632,34 +1636,34 @@ Example:
 <!--ID: 1761797631765-->
 
 
- let me see/well/umm #card
+ let me see/well/umm | a hesitation filler used while thinking of what to say next, casual spoken register #card
 ほんやく: えっと・ええと 
 <!--ID: 1761797631766-->
 
 
- What happened? #card
+ What happened? | asked when checking on someone who seems upset or unwell; asks what's wrong rather than literally what occurred #card
 ほんやく: どうしましたか 
 <!--ID: 1761797631767-->
 
 
- That's all right #card
+ That's all right | reassures someone that a situation is fine or not a problem; can also be used to politely decline an offer #card
 ほんやく: だいじょうぶです 
 <!--ID: 1761797631768-->
 
 
- Are you all right? #card
+ Are you all right? | checks on someone's wellbeing or confirms something is okay; question form of the same reassurance phrase #card
 ほんやく: だいじょうぶですか 
 <!--ID: 1761797631769-->
 
 
- Really? #card
+ Really? | expresses surprise or asks for confirmation of what was just said #card
 ほんやく: 本当ですか（ほんとう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <!--ID: 1761797631770-->
 
 
- good！ #card
+ good！| expresses relief or happiness that something turned out well, often said after hearing good news #card
 ほんやく: よかった！
 <!--ID: 1761797631771-->
 
@@ -1683,7 +1687,7 @@ Example:
 <!--ID: 1761797631773-->
 
 
- date (full date) #card
+ date (full date) | the complete calendar date (year-month-day), as opposed to individual units like 年 or 日 alone #card
 ほんやく: 年月日 (ねんがっぴ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -1700,14 +1704,14 @@ Example:
 <!--ID: 1761797631775-->
 
 
- period of time #card
+ period of time | a defined span or duration, often used with a preceding number and 間 to specify how long something lasts #card
 ほんやく: 期間(きかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_期.html">期</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1761797631776-->
 
 
- Is today September 8th or 8th? #card
+ Is today the 8th or the 9th of September? #card
 ほんやく: 今日は九月 八日ですか、九日です**か**（くがつ、ようか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1717,7 +1721,7 @@ Example:
 <!--ID: 1761797631777-->
 
 
- Is that a movie theatre on an art museum? #card
+ Is that a movie theater or an art museum? #card
 ほんやく: あそこは映画館ですか、美術館ですか（えいがかん、びじゅつかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
@@ -1727,14 +1731,14 @@ Example:
 <!--ID: 1761797631778-->
 
 
- Is this Mr Ando's magazine or Mr. Yamada's Magazine? #card
+ Is this Mr. Ando's magazine or Mr. Yamada's magazine? #card
 ほんやく: これは アンドさんの ざっしですか、山田さんのざっしですか 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1761797631779-->
 
 
- Nie wiem, czy to po japońsku, czy po angielsku. #card
+ I don't know whether this is in Japanese or in English. #card
 ほんやく: これは日本語（にほんご）か英語（えいご）か分（わ）かりません 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1744,7 +1748,7 @@ Example:
 <!--ID: 1761797631780-->
 
 
-  Nie wiem, czy to danie jest smaczne, czy niesmaczne. #card
+  I don't know whether this dish is tasty or not. #card
 ほんやく: この料理（りょうり）はおいしいかまずいか分（わ）かりません。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
@@ -1752,14 +1756,14 @@ Example:
 <!--ID: 1761797631781-->
 
 
-  Nie zdecydowałem, czy pójdę, czy nie pójdę. #card
+  I still haven't decided whether I'll go or not. #card
 ほんやく:  行（い）くか行（い）かないか、まだ決（き）めていません 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_決.html">決</a>
 <!--ID: 1761797631782-->
 
 
-  Martwię się, czy będzie padać, czy nie #card
+  I'm worried about whether it will rain or not. #card
 雨（あめ）が降（ふ）るか降（ふ）らないか心配（しんぱい）です。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>

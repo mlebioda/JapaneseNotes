@@ -277,8 +277,9 @@ Structure:
  ---
 
 
-being in charge / to be in charge + verb #card
+being in charge / to be in charge + verb | to be responsible for a specific task or role, typically in a work context #card
 担当(たんとう)(する)
+お/ご (honorific): ご担当(たんとう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_担.html">担</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <!--ID: 1782937352703-->
@@ -295,7 +296,7 @@ Being able to make the verbs' causative form #k #card
 <!--ID: 1782937352704-->
 
 
-Master how to use causative sentences #k #card
+Mastering how to use causative sentences #k #card
 使役文(しえきぶん)の使(つか)い方(かた)を把握(はあく)すること
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_役.html">役</a>
@@ -322,26 +323,28 @@ A polite expression used when asking a person of higher status (superior/senior)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_現.html">現</a>
 <!--ID: 1782937352706-->
 
-to seek / to request / to demand #card
+to seek / to request / to demand | to actively ask for or pursue something, often formally or in writing; more assertive than casually 頼(たの)む #card
 ほんやく: 求(もと)める
 て形: 求めて
 た形: 求めた
 ます形: 求めます
 出す形 (start): 求め出す
 そう (looks): 求めそう
-お〜になる (honorific): お求めになる
+お〜になる/special verb (honorific):お求めになる
+謙譲語 (humble): お求(もと)めいたす／お求(もと)めします
 ない形: 求めない
 なかった形: 求めなかった
-受身形 (passive): 求められる
+あれる形 (passive/honorific): 求められる
 使役形 (make/let): 求めさせる
 ば形 (if): 求めれば
 可能形 (can): 求められる
 おう形 (let's): 求めよう
 命令形 (imperative): 求めろ
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_求.html">求</a>
 <!--ID: 1783425759741-->
 
 
-causative form #k #card
+causative form | the grammatical verb form used to express making or letting someone do something, formed by adding せる/させる to the verb stem #k #card
 使役形(しえきけい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_役.html">役</a>
@@ -349,7 +352,7 @@ causative form #k #card
 <!--ID: 1782937352707-->
 
 
-causative sentence #k #card
+causative sentence | a sentence built using the causative form to express making or letting someone do an action #k #card
 使役文(しえきぶん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_役.html">役</a>
@@ -357,23 +360,27 @@ causative sentence #k #card
 <!--ID: 1782937352708-->
 
 
-to grasp / to master + verb #card
+to grasp / to master + verb | to fully understand or get a firm grip on a situation, fact, or skill #card
 把握(はあく)(する)
+お/ご (honorific): ご把握(はあく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_把.html">把</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_握.html">握</a>
 <!--ID: 1782937352709-->
 
-a certain day / one day #card
+a certain day / one day | a set phrase used to introduce an unspecified day, often at the start of a story #card
 ある日（ひ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1783425464320-->
 
 
-a certain action / some action #card
+a certain action / some action | ある here means "a certain/some", referring to an unspecified action #card
 ある行動（こうどう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1783425464323-->
 
 
-superior / person of higher status #k #card
+superior / person of higher status | anyone senior to you in age, rank, or status, not limited to a workplace boss #k #card
 目上(めうえ)の人(ひと)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
@@ -381,22 +388,25 @@ superior / person of higher status #k #card
 <!--ID: 1782937352710-->
 
 
-permission / to permit + verb #card
+permission / to permit + verb | formal, often official permission, e.g. from an authority or institution #card
 許可(きょか)(する)
+お/ご (honorific): ご許可(きょか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_許.html">許</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_可.html">可</a>
 <!--ID: 1782937352711-->
 
 
-polite / careful #card
+polite / careful | describes speech or behavior that is courteous and careful; also names the polite (teineigo) speech register #card
 丁寧(ていねい)
+お/ご (honorific): ご丁寧(ていねい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丁.html">丁</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寧.html">寧</a>
 <!--ID: 1782937352712-->
 
 
-return (n) #k #card
+return (n) | the nominalized form of to return, referring to the act or trip of returning home #k #card
 帰(かえ)り
+お/ご (honorific): お帰(かえ)り
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <!--ID: 1782937352713-->
 
@@ -415,19 +425,20 @@ late return #k #card
 <!--ID: 1782937352715-->
 
 
-move (n) #k #card
+move (n) | the nominalized form of to move, referring to a movement, shift, or trend #k #card
 動（うご）き
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1782937352716-->
 
 
-dance (n) #card
+dance (n) | the nominalized form of to dance, referring to a dance or the act of dancing #card
 踊（おど）り
+お/ご (honorific): お踊（おど）り
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_踊.html">踊</a>
 <!--ID: 1782937352717-->
 
 
-way home #k #card
+way home | the specific road or route taken on the way back home #k #card
 帰(かえ)り道(みち)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
@@ -447,8 +458,9 @@ I am in charge of a new project. #k #card
 <!--ID: 1782937352720-->
 
 
-person in charge #k #card
+person in charge | the specific individual responsible for a task, similar to a point of contact in a business setting #k #card
 担当者(たんとうしゃ)
+お/ご (honorific): ご担当者(たんとうしゃ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_担.html">担</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
@@ -460,7 +472,7 @@ screen #card
 <!--ID: 1782937352722-->
 
 
-handout #card
+handout | a printed handout or worksheet, commonly used in Japanese schools and offices #card
 プリント
 <!--ID: 1782937352723-->
 
@@ -484,7 +496,7 @@ This area is quiet. #card
 <!--ID: 1782937352726-->
 
 
-which area is in the fire? #k #card
+Which area is the fire in? #k #card
 火事(かじ)はどのへんですか。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
@@ -492,7 +504,7 @@ which area is in the fire? #k #card
 
 
 area (around specific point, written) #card
-辺り（あた）
+辺り（あたり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_辺.html">辺</a>
 <!--ID: 1782937352728-->
 
@@ -505,7 +517,7 @@ around the school / the area(written) near the school #k #card
 <!--ID: 1782937352729-->
 
 
-the very center/middle, exact midpoint #k #card
+the very center/middle, exact midpoint | casual/conversational term; the more formal equivalent is 中央(ちゅうおう) #k #card
 真(ま)ん中(なか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
@@ -535,14 +547,14 @@ south side #k #card
 <!--ID: 1782937352733-->
 
 
-the other side #card
-向(む）こう側（がわ）
+the other side | the side facing or across from the speaker's position #card
+向(む)こう側(がわ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_向.html">向</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_側.html">側</a>
 <!--ID: 1782937352734-->
 
 
-corner #card
+corner | an inside corner (e.g. of a room or box); an outside/street corner is 角(かど) instead #card
 隅(すみ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_隅.html">隅</a>
 <!--ID: 1782937352735-->
@@ -617,8 +629,9 @@ traffic accident #k #card
 <!--ID: 1782937352742-->
 
 
-interference / to interfere + verb #card
+interference / to interfere + verb | to get in someone's way or disrupt them #card
 邪魔(じゃま)(する)
+お/ご (honorific): お邪魔(じゃま)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_邪.html">邪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_魔.html">魔</a>
 <!--ID: 1782937352743-->
@@ -663,12 +676,13 @@ Thank you for having me. (said when leaving someone's home) #card
 <!--ID: 1782937352748-->
 
 
-impossible #k #card
+impossible | describes something unreasonable or beyond one's ability #k #card
 ほんやく: 無理(むり)
 過去形: —
 否定形: —
 副詞形: —
 そう (looks): 無理(むり)そう
+お/ご (honorific): ご無理(むり)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_無.html">無</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <!--ID: 1782937352749-->
@@ -693,8 +707,9 @@ unreasonable order / impossible request #k #card
 <!--ID: 1782937352751-->
 
 
-health #card
+health | one's physical condition; a more formal/medical term than the casual 元気(げんき) #card
 健康(けんこう)
+お/ご (honorific): ご健康(けんこう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_健.html">健</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_康.html">康</a>
 <!--ID: 1782937352752-->
@@ -705,7 +720,7 @@ internet (abbr.) #card
 <!--ID: 1782937352753-->
 
 
-plenty / enough #k #card
+plenty / enough | describes sufficiency; note this same kanji compound has another reading with an unrelated meaning, so context matters #k #card
 十分(じゅうぶん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
@@ -725,14 +740,14 @@ newspaper company #k #card
 <!--ID: 1782937352756-->
 
 
-senior #k #card
+senior | someone senior to you within a specific group like school or work, implying more experience there #k #card
 先輩(せんぱい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_輩.html">輩</a>
 <!--ID: 1782937352757-->
 
 
-junior #k #card
+junior | someone junior to you within a specific group like school or work, implying less experience there #k #card
 後輩(こうはい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_輩.html">輩</a>
@@ -788,31 +803,34 @@ forest #k #card
 <!--ID: 1782937352764-->
 
 
-hot water #card
+hot water | water that is specifically hot, as opposed to 水(みず) which implies cold or room-temperature water #card
 湯(ゆ)
+お/ご (honorific): お湯(ゆ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_湯.html">湯</a>
 <!--ID: 1782937352765-->
 
 
 opinion #k #card
 意見(いけん)
+お/ご (honorific): ご意見(いけん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1782937352766-->
 
 
-freedom / free (like to say freely opinion) #k #card
+freedom / free (like to say freely opinion) | the freedom to act or think as one wishes without constraint; unlike 勝手(かって), it doesn't carry a negative nuance of selfishness #k #card
 ほんやく: 自由(じゆう)
 過去形: —
 否定形: —
 副詞形: —
 そう (looks): 自由(じゆう)そう
+お/ご (honorific): ご自由(じゆう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_由.html">由</a>
 <!--ID: 1782937352767-->
 
 
-completely #card
+completely | describes a thorough change of state, often with a nuance of surprise; more about totality of change than 全部(ぜんぶ) (all/entirely) #card
 すっかり
 <!--ID: 1782937352768-->
 
@@ -829,7 +847,7 @@ It is already completely spring. #k #card
 <!--ID: 1782937352770-->
 
 
-usually #card
+usually | describes what happens in most cases; emphasizes frequency more than 普通(ふつう) (normal/ordinary) #card
 たいてい
 <!--ID: 1782937352771-->
 
@@ -861,14 +879,15 @@ textbook #card
 <!--ID: 1782937352775-->
 
 
-to catch / to seize (transitive) #card
+to catch / to seize (transitive) | to physically catch or seize a person or animal, often after pursuit #card
 ほんやく: 捕(つか)まえる
 て形: 捕(つか)まえて
 た形: 捕(つか)まえた
 ます形: 捕(つか)まえます
 出す形 (start): 捕(つか)まえ出す
 そう (looks): 捕(つか)まえそう
-お〜になる (honorific): お捕(つか)まえになる
+お〜になる/special verb (honorific):お捕(つか)まえになる
+謙譲語 (humble): お捕(つか)まえいたす／お捕(つか)まえします
 ない形: 捕(つか)まえない
 なかった形: 捕(つか)まえなかった
 あれる形 (passive/honorific): 捕(つか)まえられる
@@ -881,21 +900,22 @@ to catch / to seize (transitive) #card
 <!--ID: 1782937352776-->
 
 
-drawer/szuflada #k #card
+drawer #k #card
 引(ひ)き出(だ)し
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1782937352777-->
 
 
-to move (transitive) #k #card
+to move (transitive) | to move or shift something else #k #card
 ほんやく: 動(うご)かす
 て形: 動(うご)かして
 た形: 動(うご)かした
 ます形: 動(うご)かします
 出す形 (start): 動(うご)かし出す
 そう (looks): 動(うご)かしそう
-お〜になる (honorific): お動(うご)かしになる
+お〜になる/special verb (honorific):お動(うご)かしになる
+謙譲語 (humble): お動(うご)かしいたす／お動(うご)かしします
 ない形: 動(うご)かさない
 なかった形: 動(うご)かさなかった
 あれる形 (passive/honorific): 動(うご)かされる
@@ -908,14 +928,15 @@ to move (transitive) #k #card
 <!--ID: 1782937352778-->
 
 
-to live (intransitive) #k #card
+to live (intransitive) | to be alive or exist as a living thing; describes the state of being alive rather than where one resides (住む) #k #card
 ほんやく: 生(い)きる
 て形: 生(い)きて
 た形: 生(い)きた
 ます形: 生(い)きます
 出す形 (start): 生(い)き出す
 そう (looks): 生(い)きそう
-お〜になる (honorific): お生(い)きになる
+お〜になる/special verb (honorific):お生(い)きになる
+謙譲語 (humble): -
 ない形: 生(い)きない
 なかった形: 生(い)きなかった
 あれる形 (passive/honorific): 生(い)きられる
@@ -943,7 +964,7 @@ animals that live in the forest #k #card
 <!--ID: 1782937352781-->
 
 
-living thing #k #card
+living thing | any living creature, including plants; broader than 動物(どうぶつ) which refers specifically to animals #k #card
 生(い)き物(もの)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -976,8 +997,9 @@ suburb #k #card
 <!--ID: 1782937352786-->
 
 
-fight / to fight + verb #card
+fight / to fight + verb | a casual word for a quarrel or spat, usually between people who know each other; distinct from 戦(たたか)う (to battle/combat) #card
 けんか(する)
+お/ご (honorific): おけんか
 <!--ID: 1782937352787-->
 
 
@@ -993,7 +1015,7 @@ Please stop fighting. #card
 <!--ID: 1782937352789-->
 
 
-small / minor #card
+small / minor | describes something fine in detail, meticulous, or minor in importance; can also describe being stingy about small amounts of money #card
 ほんやく: 細(こま)かい
 過去形: 細(こま)かかった
 否定形: 細(こま)かくない
@@ -1003,7 +1025,7 @@ small / minor #card
 <!--ID: 1782937352790-->
 
 
-never #card
+never | used with a negative verb to mean "never / absolutely not"; more formal and emphatic than 全然(ぜんぜん) #card
 決(けっ)して
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_決.html">決</a>
 <!--ID: 1782937352791-->
@@ -1023,14 +1045,15 @@ I will never forget. #card
 <!--ID: 1782937352793-->
 
 
-to trouble / to cause trouble (transitive) #card
+to trouble / to cause trouble (transitive) | used to describe causing someone distress or annoyance #card
 ほんやく: 困(こま)らせる
 て形: 困(こま)らせて
 た形: 困(こま)らせた
 ます形: 困(こま)らせます
 出す形 (start): 困(こま)らせ出す
 そう (looks): 困(こま)らせそう
-お〜になる (honorific): お困(こま)らせになる
+お〜になる/special verb (honorific):お困(こま)らせになる
+謙譲語 (humble): -
 ない形: 困(こま)らせない
 なかった形: 困(こま)らせなかった
 あれる形 (passive/honorific): 困(こま)らせられる
@@ -1043,20 +1066,21 @@ to trouble / to cause trouble (transitive) #card
 <!--ID: 1782937352794-->
 
 
-surroundings #card
+surroundings | the physical area or the people around oneself, e.g. one's vicinity or social circle #card
 周(まわ)り
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_周.html">周</a>
 <!--ID: 1782937352795-->
 
 
-to become fat (intransitive) #card
+to become fat (intransitive) | to gain weight; usually used in the ている form to describe a current state rather than an ongoing action #card
 ほんやく: 太(ふと)る
 て形: 太(ふと)って
 た形: 太(ふと)った
 ます形: 太(ふと)ります
 出す形 (start): 太(ふと)り出す
 そう (looks): 太(ふと)りそう
-お〜になる (honorific): お太(ふと)りになる
+お〜になる/special verb (honorific):お太(ふと)りになる
+謙譲語 (humble): -
 ない形: 太(ふと)らない
 なかった形: 太(ふと)らなかった
 あれる形 (passive/honorific): 太(ふと)られる
@@ -1069,14 +1093,15 @@ to become fat (intransitive) #card
 <!--ID: 1782937352796-->
 
 
-to become thin (intransitive) #card
+to become thin (intransitive) | to lose weight; like 太る, usually used in the ている form to describe a current state #card
 ほんやく: 痩（や）せる
 て形: 痩（や）せて
 た形: 痩（や）せた
 ます形: 痩（や）せます
 出す形 (start): 痩（や）せ出す
 そう (looks): 痩（や）せそう
-お〜になる (honorific): お痩（や）せになる
+お〜になる/special verb (honorific):お痩（や）せになる
+謙譲語 (humble): -
 ない形: 痩（や）せない
 なかった形: 痩（や）せなかった
 あれる形 (passive/honorific): 痩（や）せられる
@@ -1089,12 +1114,12 @@ to become thin (intransitive) #card
 <!--ID: 1782937352797-->
 
 
-all along / the whole time / for a long time #card
+all along / the whole time / for a long time | expresses continuity over time, or emphasizes a large degree of difference ("by far"), depending on context #card
 ずっと
 <!--ID: 1782937352798-->
 
 
-The manager made me in charge of a new project. #k #card
+The manager let me be in charge of a new project. #k #card
 部長(ぶちょう)が私(わたし)に新(あたら)しいプロジェクトを担当(たんとう)させてくれたの。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
@@ -1105,7 +1130,7 @@ The manager made me in charge of a new project. #k #card
 <!--ID: 1782937352799-->
 
 
-I wanted to watch it for a long time. (informative) #k #card
+I wanted to watch it for a long time. (casual, explanatory nuance) #k #card
 ずっと見(み)たかったんだ。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1782937352800-->
@@ -1155,7 +1180,7 @@ Yesterday I had a fight with my friend, so my parents made me apologize to him. 
 <!--ID: 1782937352805-->
 
 
-Sorry to keep you waiting.(abbrieviated) #k #card
+Sorry to keep you waiting. (abbreviated) #k #card
 (あなたを)待(ま)たせて、ごめんなさい。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1782937352806-->
@@ -1212,7 +1237,7 @@ Manager, I have a headache, would you please let me go to the hospital? (very po
 <!--ID: 1782937352810-->
 
 
-I heard that you have finished a new drawing, could you please let me have a look? (polite enoufh) #k #card
+I heard that you have finished a new drawing, could you please let me have a look? (polite enough) #k #card
 新(あたら)しい絵(え)ができたと聞(き)いたんですが、見(み)させてもらえませんか。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_絵.html">絵</a>
@@ -1221,7 +1246,7 @@ I heard that you have finished a new drawing, could you please let me have a loo
 <!--ID: 1782937352811-->
 
 
-please let me ask for your advice (least polite) #card
+Please let me ask for your advice (least polite) #card
 相談（そうだん）させてください
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_相.html">相</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_談.html">談</a>
@@ -1237,7 +1262,7 @@ Health is the most important. #k #card
 <!--ID: 1782937352813-->
 
 
-It is most important to see clearly(easily). #k #card
+It is most important to see clearly (easily). #k #card
 見(み)やすいのが一番(いちばん)です。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>

@@ -546,7 +546,7 @@ Structure
 <!--ID: 1763465822925-->
 
 
- polite counter suffix for people  #k #card
+ polite counter suffix for people | polite/formal counter for addressing or counting patrons, more formal than the casual 人(にん) counter #k #card
 ほんやく: 名（めい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465822926-->
@@ -609,7 +609,7 @@ Structure
 <!--ID: 1763465822933-->
 
 
- My home is at a convenient place #k #card
+ My home is at an inconvenient place #k #card
 ほんやく: 私の家は不便な所にあります（ふべん、ところ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
@@ -619,14 +619,14 @@ Structure
 <!--ID: 1768451605976-->
 
 
- place (specific physical) #k #card
+ place (specific physical) | a concrete, often officially designated location (an address, venue, spot) — more specific than the broader 所(ところ) #k #card
 ほんやく: 場所（ばしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1763465822934-->
 
 
- place (overall, physical and abstract) #k #card
+ place (overall, physical and abstract) | broader and more casual notion of "place," can also mean a particular aspect/point of something — contrasts with the more concrete 場所(ばしょ) #k #card
 ほんやく: 所（ところ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1763465822935-->
@@ -639,7 +639,7 @@ Structure
 <!--ID: 1763465822936-->
 
 
- all right/OK #card
+ all right/OK | all-purpose reassurance phrase meaning "no problem" in response to concern or an offer — a set expression distinct from 丈夫(じょうぶ) which describes physical durability #card
 ほんやく: 大丈夫（だいじょうぶ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丈.html">丈</a>
@@ -656,7 +656,7 @@ Structure
 <!--ID: 1763465822938-->
 
 
- a fine peroson #card
+ a fine person #card
 ほんやく: 立派な人（りっぱ、ひと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_派.html">派</a>
@@ -664,7 +664,7 @@ Structure
 <!--ID: 1763465822939-->
 
 
- I will go to the post office when i have time #card
+ I will go to the post office when I have time #card
 ほんやく: 暇な時に郵便局に行きます（ひま、ゆうびんきょく) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_暇.html">暇</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
@@ -682,77 +682,80 @@ Structure
 <!--ID: 1763465822941-->
 
 
- road / street  #k #card
+ road / street | general term for a road/path, also used figuratively for a "way" or "course" (e.g. in life) #k #card
 ほんやく: 道（みち）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
 <!--ID: 1763465822942-->
 
 
- town  #k #card
+ town | one kanji names an administrative town/neighborhood, the other a lively downtown streetscape — same pronunciation, different nuance depending on which kanji is chosen #k #card
 ほんやく: 町 / 街（まち）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_町.html">町</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_街.html">街</a>
 <!--ID: 1763465822943-->
 
 
- soba (Japanese buckwheat noodles)   #card
+ soba (Japanese buckwheat noodles) | thin brownish-grey noodles made from buckwheat flour, usually served cold with dipping sauce or hot in broth #card
 ほんやく: そば 
+お/ご (honorific): おそば
 <!--ID: 1763465822944-->
 
 
- udon (Japanese thick white noodles)   #card
+ udon (Japanese thick white noodles) | thick, chewy wheat-flour noodles typically served in hot broth — heartier and blander than そば #card
 ほんやく: うどん 
+お/ご (honorific): おうどん
 <!--ID: 1763465822945-->
 
 
- beef rice bowl  #k #card
+ beef rice bowl | fast-food staple of beef and onion simmered in a sweet-savory sauce, served over rice #k #card
 ほんやく: 牛丼（ぎゅうどん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丼.html">丼</a>
 <!--ID: 1763465822946-->
 
 
- yakiniku (Japanese grilled meat) #k   #card
+ yakiniku (Japanese grilled meat) | meat grilled tableside Korean-BBQ style, distinct from teppanyaki which is cooked on a flat griddle #k #card
 ほんやく: 焼肉（やきにく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_焼.html">焼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <!--ID: 1763465822947-->
 
 
- meat  #k #card
+ meat | general term for meat; usually combined with an animal name (鶏肉, 豚肉, 牛肉) to specify the type #k #card
 ほんやく: 肉（にく）
+お/ご (honorific): お肉(にく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <!--ID: 1763465822948-->
 
 
- chicken #k #card
+ chicken | chicken meat specifically, as opposed to 鶏 which refers to the live bird #k #card
 ほんやく: 鶏肉（とりにく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鶏.html">鶏</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <!--ID: 1763465822949-->
 
 
- pork  #k #card
+ pork | pork meat specifically, as opposed to 豚 which refers to the live pig #k #card
 ほんやく: 豚肉（ぶたにく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_豚.html">豚</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <!--ID: 1763465822950-->
 
 
- beef  #k #card
+ beef | beef meat specifically, as opposed to 牛 which refers to the live cow/cattle #k #card
 ほんやく: 牛肉（ぎゅうにく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
 <!--ID: 1763465822951-->
 
 
- kura  #card
+ chicken (the live bird) | refers to the live animal (rooster/hen), not the meat itself — see 鶏肉 for the meat #card
 ほんやく: 鶏（にわとり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鶏.html">鶏</a>
 <!--ID: 1763465822952-->
 
 
- drób #card
+ poultry | general/collective term for domesticated fowl raised for meat or eggs — more formal than 鶏(にわとり) #card
 ほんやく: 家禽（かきん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_禽.html">禽</a>
@@ -761,18 +764,19 @@ Structure
 
  vegetable   #card
 ほんやく: 野菜（やさい）
+お/ご (honorific): お野菜(やさい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_菜.html">菜</a>
 <!--ID: 1763465822954-->
 
 
- yakisoba / fried noodles   #card
+ yakisoba / fried noodles | stir-fried noodles with vegetables and meat, flavored with a Worcestershire-style sauce — distinct from plain そば which isn't fried #card
 ほんやく: 焼きそば（やきそば）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_焼.html">焼</a>
 <!--ID: 1763465822955-->
 
 
- curry   #card
+ curry | Japanese-style curry rice — milder and thicker than Indian curry, a common comfort-food staple #card
 ほんやく: カレー（ライス）
 <!--ID: 1763465822956-->
 
@@ -797,8 +801,9 @@ Structure
 <!--ID: 1763465822960-->
 
 
- tangerine  / mandarynka #card
+ tangerine / mandarin orange #card
 ほんやく: 蜜柑（みかん）
+お/ご (honorific): お蜜柑(みかん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_蜜.html">蜜</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_柑.html">柑</a>
 <!--ID: 1763465822961-->
@@ -810,14 +815,14 @@ Structure
 <!--ID: 1763465822962-->
 
 
- set meal  #k #card
+ set meal | a fixed-price meal set including a main dish plus rice, soup, and pickles — common at Japanese diners #k #card
 ほんやく: 定食（ていしょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_定.html">定</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763465822963-->
 
 
- #k tenpura set #card
+ Tempura set meal #k #card
 ほんやく: 天ぷら定食（てん、ていしょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_定.html">定</a>
@@ -825,7 +830,7 @@ Structure
 <!--ID: 1763465822964-->
 
 
- #k jp grilled meat set #card
+ Grilled meat set meal #k #card
 ほんやく: 焼肉定食（やきにく、ていしょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_焼.html">焼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
@@ -839,7 +844,7 @@ Structure
 <!--ID: 1763465822966-->
 
 
- order / to order  #w  #card
+ order / to order | to place a request for food or a service, typically at a restaurant or shop — often takes the ご honorific prefix for extra politeness #w #card
 ほんやく: (ご)注文（する）（ちゅうもん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
@@ -855,7 +860,7 @@ Structure
 <!--ID: 1763465822968-->
 
 
- what do you order #card
+ What do you order? #card
 ほんやく: 何を注文しますか（なに、ちゅうもん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
@@ -870,21 +875,21 @@ Structure
 <!--ID: 1763465822970-->
 
 
- payment (often in restaurant)/ to pay #k   #card
+ payment (often in restaurant)/ to pay | to settle a bill or tally up costs, typically used when asking for or processing a restaurant/shop bill #k #card
 ほんやく: #wc (お)会計（かいけい, meet, measure）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <!--ID: 1763465822971-->
 
 
- bill please #k #card
+ Bill, please #k #card
 ほんやく: お会計おねがいします（かいけい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
 <!--ID: 1763465822972-->
 
 
- #k to split the bill (pay sepatately) #card
+ To split the bill (pay separately) #k #card
 ほんやく: 別々**で**会計する（べつべつ、かいけい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
@@ -892,14 +897,14 @@ Structure
 <!--ID: 1763465822973-->
 
 
- currency #card
+ currency | formal/general term for money or currency (coins and notes collectively) — more academic/formal than everyday お金 #card
 ほんやく: 貨幣（かへい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貨.html">貨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_幣.html">幣</a>
 <!--ID: 1763465822974-->
 
 
- japanese currency #card
+ Japanese currency #card
 ほんやく: 日本の貨幣（かへい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -913,13 +918,13 @@ Structure
 <!--ID: 1763465822976-->
 
 
- time  #w  #card
+ time | general word for a point or moment in time, as opposed to 時間(じかん) which refers to a duration/number of hours #w #card
 ほんやく: 時（とき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1763465822977-->
 
 
- bussy time #k #card
+ Busy time #k #card
 ほんやく: いそがしい時（とき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1763465822978-->
@@ -933,12 +938,12 @@ Structure
 <!--ID: 1763465822979-->
 
 
- mistake   #card
+ mistake | casual, borrowed-word term for a small error or slip-up — more casual than 間違い(まちがい) #card
 ほんやく: ミス 
 <!--ID: 1763465822980-->
 
 
- japanese life is fun #k #card
+ Japanese life is fun #k #card
 ほんやく: 日本の生活は楽しいです（せいかつ、たの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -948,7 +953,7 @@ Structure
 <!--ID: 1763465822981-->
 
 
- i live in tokio #k #card
+ I live in Tokyo #k #card
 ほんやく: 東京で生活します（とうきょう、せいかつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
@@ -957,7 +962,7 @@ Structure
 <!--ID: 1763465822982-->
 
 
- that person doesn't work, life is hard #card
+ That person doesn't work, life is hard #card
 ほんやく: あの人は仕事をしません。生活はたいへんです 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
@@ -967,7 +972,7 @@ Structure
 <!--ID: 1763465822983-->
 
 
- what time did you return home yesterday? #card
+ What time did you return home yesterday? #card
 ほんやく: 昨日いつ家に帰りましたか（きのう、かえ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -976,30 +981,30 @@ Structure
 <!--ID: 1763465822984-->
 
 
- let's return together #card
+ Let's return together #card
 ほんやく: いっしょに帰りましょう（かえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <!--ID: 1763465822985-->
 
 
- welcome (in shops, in home)   #card
+ welcome (in shops, in home) | standard greeting shop/restaurant staff call out to welcome customers entering — not used between individuals in casual settings #card
 ほんやく: いらっしゃいませ  
 <!--ID: 1763465822986-->
 
 
- this way/over there please #card
+ This way/over there, please #card
 ほんやく: こちら/あちら へどうぞ 
 <!--ID: 1763465822987-->
 
 
- please enter the room #card
+ Please enter the room #card
 ほんやく: 部屋へどうぞ（へや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1763465822988-->
 
 
- may I take your order  #k #card
+ May I take your order | standard phrase servers use to ask what a customer would like — more indirect/soft than 何になさいますか #k #card
 ほんやく: ご注文は（ごちゅうもん） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
@@ -1014,13 +1019,13 @@ Structure
 <!--ID: 1763465822990-->
 
 
- please  (orders, ask for favour) #card
+ Please (orders, ask for a favor) | standard polite verb ending used to make a request, often following a noun or the te-form of a verb #card
 ほんやく: お願いします（おね） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_願.html">願</a>
 <!--ID: 1763465822991-->
 
 
- one black tea and one coffee, please #card
+ One black tea and one coffee, please #card
 ほんやく: 紅茶一つ、コーヒー 一つ をおねがいします（こうちゃ,ひとつ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紅.html">紅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_茶.html">茶</a>
@@ -1028,19 +1033,19 @@ Structure
 <!--ID: 1763465822992-->
 
 
- please copy this #card
-ほんやく: コピー  を おおねがいします 
+ Please copy this #card
+ほんやく: コピー  を おねがいします 
 <!--ID: 1763465822993-->
 
 
- please wait a moment #k #card
+ Please wait a moment #k #card
 ほんやく: 少々お待ちください（しょうしょうおまちください） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1763465822994-->
 
 
- are you paying together or separately  #k #card
+ Are you paying together or separately? #k #card
 ほんやく: お会計はご一緒ですか、別々ですか（おかいけい,いっしょ、べつべつ） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
@@ -1050,7 +1055,7 @@ Structure
 <!--ID: 1763465822995-->
 
 
- thank you for the meal #card
+ Thank you for the meal | set phrase said after finishing a meal to thank whoever prepared/paid for it — the pre-meal equivalent is いただきます #card
 ほんやく: ごちそうさまでした 
 <!--ID: 1763465822996-->
 
@@ -1115,7 +1120,7 @@ Structure
 <!--ID: 1763465823006-->
 
 
- how many (dla) ひとつ... #card
+ how many (used with generic/wago counters like ひとつ) | question word for asking quantity with the native-Japanese counting series, rather than 何個(なんこ) for individually-counted items #card
 ほんやく: いくつ 
 <!--ID: 1763465823007-->
 
@@ -1126,7 +1131,7 @@ Structure
 <!--ID: 1763465823008-->
 
 
- #k Today, my mother bought 2 apples (2 kolejnosci czytania liczba #card
+ Today, my mother bought 2 apples (illustrating both word orders: counter+の+product, and product+counter) #k #card
 ほんやく: 今日は母は(二つ**の**リンゴを/リンゴを２つ）買いました 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1144,7 +1149,7 @@ Structure
 <!--ID: 1763465823010-->
 
 
- one small thing** #counter   #card
+ one small thing #counter   #card
 ほんやく: **一個（いっこ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
@@ -1179,7 +1184,7 @@ Structure
 <!--ID: 1763465823015-->
 
 
- six small things** #counter   #card
+ six small things #counter   #card
 ほんやく: **六個（ろっこ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
@@ -1193,7 +1198,7 @@ Structure
 <!--ID: 1763465823017-->
 
 
- eight small things** #counter   #card
+ eight small things #counter   #card
 ほんやく: **八個（はっこ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
@@ -1297,7 +1302,7 @@ Structure
 <!--ID: 1763465823030-->
 
 
- how many small things? #card
+ how many small things? | used specifically with 個(こ)-counted items, versus いくつ for generic wago counting #card
 ほんやく: 何個(なんこ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
@@ -1378,7 +1383,7 @@ Structure
 <!--ID: 1763465823040-->
 
 
- bought ten chocolates (pralinki, nie plaskie) #card
+ bought ten chocolates (praline-style, not flat bars) #card
 ほんやく: チョコを十個（じゅっこ）買った 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_個.html">個</a>
@@ -1457,7 +1462,7 @@ Structure
 <!--ID: 1763465823051-->
 
 
- twenty three people (polite) #card
+ twenty-three people (polite) #card
 ほんやく: 二十三名（にじゅうさんめい） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
@@ -1544,7 +1549,7 @@ Structure
 <!--ID: 1763465823062-->
 
 
- very (adverb) #card
+ very (adverb) | more emphatic/formal than plain とても, often used with negative or serious situations #card
 ほんやく: 大変（たいへん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
@@ -1591,7 +1596,7 @@ Structure
 <!--ID: 1763465823068-->
 
 
- many #card
+ many | adverb/noun for "a lot," used both before verbs and with の+noun — more casual than the adjective 多い(おおい) #card
 ほんやく: たくさん 
 <!--ID: 1763465823069-->
 
@@ -1608,18 +1613,18 @@ Structure
 <!--ID: 1763465823071-->
 
 
- there is a lot of oranges and pears #card
-ほんやく: みかん と かしが たくさんあります 
+ There are a lot of tangerines and pears #card
+ほんやく: みかん と なしが たくさんあります 
 <!--ID: 1763465823072-->
 
 
- lets eat a lot #card
+ Let's eat a lot #card
 ほんやく: たくさん食べましょう 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1763465823073-->
 
 
- always  (adverb), usual (noun) #card
+ always (adverb), usual (noun) | can also function as a noun meaning "the usual" when followed by の+noun (いつもの〜) #card
 ほんやく: いつも 
 <!--ID: 1763465823074-->
 
@@ -1646,20 +1651,20 @@ Structure
 <!--ID: 1763465823077-->
 
 
- its always quiet here #card
+ It's always quiet here #card
 ほんやく: ここはいつも静かです（しず）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_静.html">静</a>
 <!--ID: 1763465823078-->
 
 
- i always  go sleep at 10 #card
+ I always go to sleep at 10 #card
 ほんやく: 私はいつも１０時にねます (じ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <!--ID: 1763465823079-->
 
 
- separated room #card
+ separate room #card
 ほんやく: 別々の部屋（べつべつ、へや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
@@ -1667,7 +1672,7 @@ Structure
 <!--ID: 1763465823080-->
 
 
- separated desk #card
+ separate desk #card
 ほんやく: 別々の机（べつべつ、つくえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
@@ -1689,11 +1694,11 @@ Are the bills separate? #w #card
 
 
  we will pay together #card
-ほんやく: いっしょ**で**おねがいします (べつべつ) 
+ほんやく: いっしょ**で**おねがいします
 <!--ID: 1763465823084-->
 
 
- I and mr Yamada eat lunch separately #k #card
+ Mr. Yamada and I eat lunch separately #k #card
 ほんやく: 私と山田さんは別々に昼ご飯を食べます(べつべつ、ひるごはん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
@@ -1712,7 +1717,7 @@ Are the bills separate? #w #card
 <!--ID: 1763465823086-->
 
 
- mr yamada seriousness #k #card
+ Mr. Yamada's serious side #k #card
 ほんやく: 山田さんの真面目な所（まじめ、ところ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -1729,7 +1734,7 @@ Are the bills separate? #w #card
 <!--ID: 1763465823088-->
 
 
- I came at good time #k #card
+ I came at a good time #k #card
 ほんやく: いい所に来ました（ところ、き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
@@ -1795,7 +1800,7 @@ Are the bills separate? #w #card
 <!--ID: 1763465823097-->
 
 
- my high school teacher is serious #card
+ My high school teacher is serious #card
 ほんやく: 私の高校の先生は真面目です（こうこう、まじめ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
@@ -1816,20 +1821,20 @@ Are the bills separate? #w #card
 <!--ID: 1763465823099-->
 
 
- this town is very busy #card
+ This town is very busy #card
 ほんやく: この町はとてもにぎやかです（まち） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_町.html">町</a>
 <!--ID: 1763465823100-->
 
 
- it is not famous there #card
+ It is not famous there #card
 ほんやく: あそこは有名ではありません（ゆうめい） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823101-->
 
 
- last week's work was difficult #card
+ Last week's work was difficult #card
 ほんやく: 先週の仕事は大変でした（せんしゅう、しごと、たいへん） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
@@ -1840,12 +1845,12 @@ Are the bills separate? #w #card
 <!--ID: 1763465823102-->
 
 
- that hotel wasn't very clean   #card
+ That hotel wasn't very clean #card
 ほんやく: あのホテルはあまりきれいではありませんでした  
 <!--ID: 1763465823103-->
 
 
- that is a solid building #card
+ That is a solid building #card
 ほんやく: あれは丈夫な建物です（じょうぶ、たてもの） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丈.html">丈</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夫.html">夫</a>
@@ -1855,7 +1860,7 @@ Are the bills separate? #w #card
 
 
  He is a serious and respectable person #card
-ほんやく: 真面目で立派な人です（はじめ、りっぱ）
+ほんやく: 真面目で立派な人です（まじめ、りっぱ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
@@ -1874,7 +1879,7 @@ Are the bills separate? #w #card
 <!--ID: 1763465823106-->
 
 
- A:what kind of person is Mr. Yamada B: he is an interesting person #card
+ A: What kind of person is Mr. Yamada? B: He is an interesting person #card
 ほんやく: A: 山田さんはどんな人ですか（やまだ、ひと）B: おもしろい人です（ひと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -1882,7 +1887,7 @@ Are the bills separate? #w #card
 <!--ID: 1763465823107-->
 
 
- A: What kind of place is Akihabara? B: Its very busy place #card
+ A: What kind of place is Akihabara? B: It's a very busy place #card
 ほんやく: 秋葉原はどんな所ですか（ところ）B: とてもにぎやかな 所です 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_葉.html">葉</a>
@@ -1891,7 +1896,7 @@ Are the bills separate? #w #card
 <!--ID: 1763465823108-->
 
 
- because I will come back early today, let's watch a movie together #card
+ Because I will come back early today, let's watch a movie together #card
 ほんやく: きょうは早く帰りますから、いっしょに映画を見ましょう（はや、かえ、えいが、み） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
@@ -1901,7 +1906,7 @@ Are the bills separate? #w #card
 <!--ID: 1763465823109-->
 
 
- because it is nice weather, let's go for a walk #card
+ Because it is nice weather, let's go for a walk #card
 ほんやく: 天気がいいですから、散歩しましょう（てんき、さんぽ） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
@@ -1910,7 +1915,7 @@ Are the bills separate? #w #card
 <!--ID: 1763465823110-->
 
 
- because I will get up early tomorrow, I will sleep early tonight #card
+ Because I will get up early tomorrow, I will sleep early tonight #card
 ほんやく: 明日早く起きますから、今晩早く寝ます（あした、はや、お、こんばん、はや、ね） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1922,7 +1927,7 @@ Are the bills separate? #w #card
 <!--ID: 1763465823111-->
 
 
- how is a new house? B: Its convinient, because is close to the station 2style #card
+ A: How is the new house? B: It's very convenient, because it's close to the station #card
 ほんやく: A: 新しい家はどうですか B: とてもべんりです。駅に近いですから 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
@@ -1931,15 +1936,15 @@ Are the bills separate? #w #card
 <!--ID: 1763465823112-->
 
 
- Is a lot of people in this restaurant. isn't is? B: Because here is a very famous nee #card
-ほんやく: A: このレストランにたくさん人がいますね B: ここは有名ですからね (ゆうめい) 
+ A: There are a lot of people in this restaurant, aren't there? B: Because this place is famous, you know #card
+ほんやく: A: このレストランにたくさんの人がいますね B: ここは有名ですからね (ゆうめい) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823113-->
 
 
- this restaurant is very famous, you know #card
+ This restaurant is very famous, you know #card
 ほんやく: この店はとても有名ですよ（みせ、ゆうめい） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
@@ -1947,7 +1952,7 @@ Are the bills separate? #w #card
 <!--ID: 1763465823114-->
 
 
- my house is far from the station, you know #card
+ My house is far from the station, you know #card
 ほんやく: わたしの家から駅までは遠いですよ（いえ、えき、とお） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
@@ -1955,33 +1960,34 @@ Are the bills separate? #w #card
 <!--ID: 1763465823115-->
 
 
- this is your umbrella, you know #card
+ This is your umbrella, you know #card
 ほんやく: これはあなたのかさですよ 
 <!--ID: 1763465823116-->
 
 
- today is hot, isn't it? #card
+ Today is hot, isn't it? #card
 ほんやく: 今日はあついですね 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1763465823117-->
 
 
- tomorrow will be hot, you know #card
+ Tomorrow will be hot, you know #card
 ほんやく: 明日はあついですよ 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1763465823118-->
 
 
-payment (often in restaurant)/ to pay #k #wc #card
+payment (often in restaurant)/ to pay | to settle a bill or tally up costs, typically used when asking for or processing a restaurant/shop bill #k #wc #card
 ほんやく: (お)会計（かいけい）  
 て形: 会計して
 た形: 会計した
 ます形: 会計します
 出す形 (start): 会計し出す
 そう (looks): 会計しそう
-お〜になる (honorific): お会計しになる
+お〜になる/special verb (honorific):お会計になる
+謙譲語 (humble): お会計いたす／お会計します
 ない形: 会計しない
 なかった形: 会計しなかった
 あれる形 (passive/honorific):  会計される
@@ -1997,14 +2003,15 @@ payment (often in restaurant)/ to pay #k #wc #card
 
 ---
 
-life / to live （prowadzic zycie, miec styl zycia) #k #card
+life / to live (to lead one's life, to have a certain lifestyle) #k #card
 ほんやく: 生活する（せいかつ）  
 て形: 生活して
 た形: 生活した
 ます形: 生活します
 出す形 (start): 生活し出す
 そう (looks): 生活しそう
-お〜になる (honorific): お生活しになる
+お〜になる/special verb (honorific):ご生活になる
+謙譲語 (humble): ご生活いたす／ご生活します
 ない形: 生活しない
 なかった形: 生活しなかった
 あれる形 (passive/honorific):  生活される
@@ -2020,14 +2027,15 @@ life / to live （prowadzic zycie, miec styl zycia) #k #card
 
 ---
 
-to get up #wc #card
+to get up | to physically get out of bed or rise after waking — 起きる can also mean "to occur/happen" for events #wc #card
 ほんやく: 起きる（おきる）  
 て形: 起きて
 た形: 起きた
 ます形: 起きます
 出す形 (start): 起き出す
 そう (looks): 起きそう
-お〜になる (honorific): お起きになる
+お〜になる/special verb (honorific):お起きになる
+謙譲語 (humble): お起きいたす／お起きします
 ない形: 起きない
 なかった形: 起きなかった
 あれる形 (passive/honorific):  起きられる
@@ -2044,11 +2052,11 @@ to get up #wc #card
 
 Przymiotniki:
 
-famous #k #wp #card
+famous | known/recognized by many, implying public reputation — contrasts with 立派 which praises quality/dignity rather than recognition #k #wp #card
 ほんやく: 有名（ゆうめい）  
-過去形: ゆうめいでした  
-否定形: ゆうめいではありません  
-副詞形: ゆうめいに
+過去形: —  
+否定形: —  
+副詞形: —
 そう (looks): 有名そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
@@ -2057,11 +2065,11 @@ famous #k #wp #card
 
 ---
 
-lively / busy #wp #card
+lively / busy | describes a place or atmosphere full of noise, people, and activity, with a festive/energetic connotation — different from 忙しい(いそがしい) which means personally busy/occupied #wp #card
 ほんやく: 賑やか（にぎやか）  
-過去形: にぎやかでした  
-否定形: にぎやかではありません  
-副詞形: にぎやかに
+過去形: —  
+否定形: —  
+副詞形: —
 そう (looks): 賑やかそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_賑.html">賑</a>
 <!--ID: 1763465823123-->
@@ -2069,11 +2077,11 @@ lively / busy #wp #card
 
 ---
 
-quiet #wp #card
+quiet | calm and free from noise or disturbance — used for places, atmospheres, or a person's demeanor #wp #card
 ほんやく: 静か（しずか）  
-過去形: しずかでした  
-否定形: しずかではありません  
-副詞形: しずかに
+過去形: —  
+否定形: —  
+副詞形: —
 そう (looks): 静かそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_静.html">静</a>
 <!--ID: 1763465823124-->
@@ -2081,11 +2089,11 @@ quiet #wp #card
 
 ---
 
-convenient #wp #card
+convenient | useful, handy, or well-suited for a purpose — commonly describes locations, tools, or services #wp #card
 ほんやく: 便利（べんり）  
-過去形: べんりでした  
-否定形: べんりではありません  
-副詞形: べんりに
+過去形: —  
+否定形: —  
+副詞形: —
 そう (looks): 便利そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_便.html">便</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_利.html">利</a>
@@ -2094,11 +2102,11 @@ convenient #wp #card
 
 ---
 
-inconvenient #wp #card
+inconvenient | lacking convenience, troublesome to use or access — negation-prefix (不) opposite of 便利 #wp #card
 ほんやく: 不便（ふべん）  
-過去形: ふべんでした  
-否定形: ふべんではありません  
-副詞形: ふべんに
+過去形: —  
+否定形: —  
+副詞形: —
 そう (looks): 不便そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_便.html">便</a>
@@ -2107,11 +2115,11 @@ inconvenient #wp #card
 
 ---
 
-strong / solid / durable #wp #card
+strong / solid / durable | physically sturdy or hard-wearing — used for objects (bags, furniture) or a person's constitution/health #wp #card
 ほんやく: 丈夫（じょうぶ）  
-過去形: じょうぶでした  
-否定形: じょうぶではありません  
-副詞形: じょうぶに
+過去形: —  
+否定形: —  
+副詞形: —
 そう (looks): 丈夫そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_丈.html">丈</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夫.html">夫</a>
@@ -2120,11 +2128,11 @@ strong / solid / durable #wp #card
 
 ---
 
-serious / honest #k #wp #card
+serious / honest | diligent, earnest, and conscientious in attitude or work — describes a person's disposition or how a task is approached #k #wp #card
 ほんやく: 真面目（まじめ）  
-過去形: まじめでした  
-否定形: まじめではありません  
-副詞形: まじめに
+過去形: —  
+否定形: —  
+副詞形: —
 そう (looks): 真面目そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
@@ -2134,11 +2142,11 @@ serious / honest #k #wp #card
 
 ---
 
-fine / respectable / impressive #k #wp #card
+fine / respectable / impressive | admirable or dignified in quality or bearing — often used to praise a person, building, or achievement #k #wp #card
 ほんやく: 立派（りっぱ）  
-過去形: りっぱでした  
-否定形: りっぱではありません  
-副詞形: りっぱに
+過去形: —  
+否定形: —  
+副詞形: —
 そう (looks): 立派そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_派.html">派</a>
@@ -2147,11 +2155,11 @@ fine / respectable / impressive #k #wp #card
 
 ---
 
-regrettable #wp #card
+regrettable | expresses disappointment or regret about an unfortunate outcome — often used as a stand-alone exclamation of pity #wp #card
 ほんやく: 残念（ざんねん）  
-過去形: ざんねんでした  
-否定形: ざんねんではありません  
-副詞形: ざんねんに
+過去形: —  
+否定形: —  
+副詞形: —
 そう (looks): 残念そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_残.html">残</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_念.html">念</a>
@@ -2160,11 +2168,11 @@ regrettable #wp #card
 
 ---
 
-free (not busy) #wp #card
+free (not busy) | having free/spare time, not occupied with work or obligations — can imply idleness if overused #wp #card
 ほんやく: 暇（ひま）  
-過去形: ひまでした  
-否定形: ひまではありません  
-副詞形: ひまに
+過去形: —  
+否定形: —  
+副詞形: —
 そう (looks): 暇そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_暇.html">暇</a>
 <!--ID: 1763465823131-->
@@ -2172,11 +2180,11 @@ free (not busy) #wp #card
 
 ---
 
-difficult / hard (adjective) #k #wp #card
+difficult / hard (adjective) | describes something tough, serious, or hard to deal with — the adjectival use, distinct from the adverbial 大変 meaning "very" #k #wp #card
 ほんやく: 大変（たいへん）  
-過去形: たいへんでした  
-否定形: たいへんではありません  
-副詞形: たいへんに
+過去形: —  
+否定形: —  
+副詞形: —
 そう (looks): 大変そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_変.html">変</a>
@@ -2185,11 +2193,11 @@ difficult / hard (adjective) #k #wp #card
 
 ---
 
-separation / separately / split #wp #card
+separation / separately / split | indicates things done or kept individually/apart rather than together — commonly used for splitting bills, seats, or rooms #wp #card
 ほんやく: 別々（べつべつ）  
-過去形: べつべつでした  
-否定形: べつべつではありません  
-副詞形: べつべつに
+過去形: —  
+否定形: —  
+副詞形: —
 そう (looks): 別々そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_別.html">別</a>
 <!--ID: 1763465823133-->

@@ -204,7 +204,7 @@ Under a ROOF (宀), you can finally REACH (至) your ROOM (室)."
  ---
 
 
-illness (formal) #k #card
+illness (formal) | a formal, somewhat literary word for illness #k #card
 病（やまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <!--ID: 1781251233613-->
@@ -224,15 +224,16 @@ my illness is very complicated #k #card
 <!--ID: 1781251233617-->
 
 
-hospital #k #card
+hospital | the standard word for a hospital #k #card
 病院 (びょういん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <!--ID: 1781251233618-->
 
 
-illness (commonly used term) #k #card
+illness (commonly used term) | the everyday word for being sick, more common in daily speech than the formal word #k #card
 病気（びょうき）
+お/ご (honorific): ご病気（びょうき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <!--ID: 1781251233619-->
@@ -254,14 +255,15 @@ I was hospitalized at that hospital #k #card
 <!--ID: 1781251233621-->
 
 
-hospitalization #k #card
-入院（にょういん）
+hospitalization | refers to being admitted to a hospital as an inpatient #k #card
+入院（にゅういん）
+お/ご (honorific): ご入院（にゅういん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <!--ID: 1781251233622-->
 
 
-graduate from school #k #card
+graduate school #k #card
 大学院（だいがくいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -269,7 +271,7 @@ graduate from school #k #card
 <!--ID: 1781251233623-->
 
 
-Whih graduate school do you attend (szkoły wyższej) #k #card
+Which graduate school do you attend? #k #card
 どこの大学院に通学していますか（だいがくいん、つうがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -305,7 +307,7 @@ This is not a bad hospital #k #card
 <!--ID: 1781251233627-->
 
 
-hot #k #card
+hot | describes an object or liquid being hot to the touch, as opposed to hot weather/air temperature #k #card
 ほんやく: 熱い（あつ）
 過去形: 熱かった
 否定形: 熱くない
@@ -322,13 +324,14 @@ hot tea #k #card
 <!--ID: 1781251233629-->
 
 
-heat, fever #k #card
+heat / fever | the noun for either physical heat or a body fever, depending on context #k #card
 熱（ねつ）
+お/ご (honorific): お熱（ねつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
 <!--ID: 1781251233630-->
 
 
-high fever #k #card
+high fever | a compound specifically for a notably high body temperature #k #card
 高熱（こうねつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
@@ -371,14 +374,15 @@ My younger brother has a high fever #k #card
 <!--ID: 1781251233635-->
 
 
-to go regularly, attend #k #card
+to go regularly / to attend | implies habitual, repeated attendance (e.g. school, hospital, gym), not a one-time visit #k #card
 ほんやく: 通う（かよ）
 て形: 通って
 た形: 通った
 ます形: 通います
 出す形 (start): 通い出す
 そう (looks): 通いそう
-お〜になる (honorific): お通いになる
+お〜になる/special verb (honorific):お通いになる
+謙譲語 (humble): お通いいたす／お通いします
 ない形: 通わない
 なかった形: 通わなかった
 あれる形 (passive/honorific): 通われる
@@ -412,21 +416,22 @@ The teacher goes to the hospital for his illness #k #card
 
 
 I'm attending this university #k #card
-あの大学に通うっています（かよ)
+あの大学に通っています（かよ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
 <!--ID: 1781251233639-->
 
 
-go through #k #card
+to go through / to pass | describes passing through a route or place once, as opposed to attending it repeatedly #k #card
 ほんやく: 通る（とお)
 て形: 通って
 た形: 通った
 ます形: 通ります
 出す形 (start): 通り出す
 そう (looks): 通りそう
-お〜になる (honorific): お通りになる
+お〜になる/special verb (honorific):お通りになる
+謙譲語 (humble): お通りいたす／お通りします
 ない形: 通らない
 なかった形: 通らなかった
 あれる形 (passive/honorific): 通られる
@@ -447,7 +452,7 @@ go through a narrow path #k #card
 <!--ID: 1781251233641-->
 
 
-narrow #card
+narrow | the standard い-adjective for something thin or narrow in width #card
 ほんやく: 細い（ほそ）
 過去形: 細かった
 否定形: 細くない
@@ -457,14 +462,14 @@ narrow #card
 <!--ID: 1781251233642-->
 
 
-go to the hospital #k #card
+to go to the hospital (regularly) | a formal, clinical term for making regular outpatient visits to a hospital #k #card
 通院（つういん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
 <!--ID: 1781251233643-->
 
 
-go to the school #k #card
+to attend school (commute) | a formal term for commuting to and attending school regularly #k #card
 通学（つうがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -494,14 +499,14 @@ What part of your body is in pain? #k #card
 <!--ID: 1781251233647-->
 
 
-physical education #k #card
+physical education | refers to physical education as a school subject #k #card
 体育（たいいく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_育.html">育</a>
 <!--ID: 1781251233648-->
 
 
-physical strenght #k #card
+physical strength | refers to bodily/physical stamina and strength #k #card
 体力（たいりょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_力.html">力</a>
@@ -516,8 +521,8 @@ My elder brother's physical strength is amazing #k #card
 <!--ID: 1781251233650-->
 
 
-that persion is a physical education teacher #k #card
-あの人は体育の先生です（たいいくraise）
+that person is a physical education teacher #k #card
+あの人は体育の先生です（たいいく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_育.html">育</a>
@@ -526,7 +531,7 @@ that persion is a physical education teacher #k #card
 <!--ID: 1781251233651-->
 
 
-bad #k #card
+bad | the general い-adjective for something bad or poor in quality #k #card
 悪い（わる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
 <!--ID: 1781251233652-->
@@ -550,34 +555,34 @@ The food at the hospital is not bad #k #card
 <!--ID: 1781251233654-->
 
 
-villain #k #card
+villain | a serious, literal word for an evil/wicked person #k #card
 悪人（あくにん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1781251233655-->
 
 
-bad disease #k #card
+bad disease | a dramatic, somewhat archaic word for a severe or malignant illness #k #card
 悪病（あくびょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <!--ID: 1781251233656-->
 
 
-That men is not a bad person #k #card
+That man is not a bad person #k #card
 あの人は悪人じゃありません（あくにん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
 <!--ID: 1781251233657-->
 
 
-smart #k #card
+smart | a set idiom literally meaning "one's head is good," used to describe intelligence #k #card
 頭がいい（あたま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
 <!--ID: 1781251233658-->
 
 
-Mr. Yamada is smart (yo know) #k #card
+Mr. Yamada is smart (you know) #k #card
 山田さんは頭がいいです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -585,7 +590,7 @@ Mr. Yamada is smart (yo know) #k #card
 <!--ID: 1781251233659-->
 
 
-initial letter #k #card
+initial letter | refers to the first letter/character of a word or name #k #card
 頭文字（かしらもじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
@@ -593,14 +598,14 @@ initial letter #k #card
 <!--ID: 1781251233660-->
 
 
-headache #k #card
+headache | the standard word for a headache #k #card
 頭痛（ずつう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
 <!--ID: 1781251233661-->
 
 
-I have a fever and a hedache #k #card
+I have a fever and a headache #k #card
 熱があって、頭痛がしました（ねつ、ずつう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
@@ -608,21 +613,22 @@ I have a fever and a hedache #k #card
 <!--ID: 1781251233662-->
 
 
-presence #k #card
+to appear / to report (to an authority) | describes presenting oneself before an official body, such as police or a court, not general presence #k #card
 出頭（しゅっとう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
 <!--ID: 1781251233663-->
 
 
-painful #k #card
+painful | the standard い-adjective describing something as painful #k #card
 痛い（いたい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
 <!--ID: 1781251233664-->
 
 
-pain #k #card
+pain | the noun for pain, e.g. physical pain from an injury #k #card
 痛み（いたみ）
+お/ご (honorific): お痛み（いたみ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
 <!--ID: 1781251233665-->
 
@@ -638,7 +644,7 @@ I'll go to the hospital because I have a headache #k #card
 
 
 I have had a headache since this morning #k #card
-今朝から頭痛がいます（ずつう）
+今朝から頭痛がします（ずつう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
@@ -654,28 +660,28 @@ My body hurts and I have a fever. #k #card
 <!--ID: 1781251233668-->
 
 
-enjoyable #k #card
+exhilarating / gratifying | describes a satisfying, triumphant feeling, e.g. after overcoming something, stronger than plain "enjoyable" #k #card
 痛快（つうかい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_快.html">快</a>
 <!--ID: 1781251233669-->
 
 
-doctor #k #card
+doctor | the standard word for a doctor #k #card
 医者（いしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
 <!--ID: 1781251233670-->
 
 
-medicine/medical science #k #card
+medicine / medical science | refers to medicine as an academic/scientific field, not a medication #k #card
 医学（いがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1781251233671-->
 
 
-clinic(no hospitalization) 2x #k #card
+clinic (outpatient only, no hospitalization) | can be written with either of two words/notations; a clinic doesn't admit inpatients like a hospital does #k #card
 医院・クリニック（いいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
@@ -702,14 +708,14 @@ Is the classroom for medical science here? #k #card
 
 
 My younger brother is studying medical science #k #card
-弟は医学を学んでいます（おとうと、いがく,ま）
+弟は医学を学んでいます（おとうと、いがく、まな）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1781251233675-->
 
 
-My father (uczęszcza) goes to this clinic #k #card
+My father goes to this clinic #k #card
 父はこの医院に通っています（いいん、かよ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
@@ -718,7 +724,7 @@ My father (uczęszcza) goes to this clinic #k #card
 <!--ID: 1781251233676-->
 
 
-hospital personel #k #card
+hospital personnel | a descriptive phrase for hospital staff, rather than an official job title #k #card
 病院の者（びょういん、もの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
@@ -726,22 +732,22 @@ hospital personel #k #card
 <!--ID: 1781251233677-->
 
 
-villain(bad person) #k #card
+villain (bad person) | a more casual, storytelling word for a "bad guy," e.g. in a narrative or moral context #k #card
 悪者（わるもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
 <!--ID: 1781251233678-->
 
 
-scholar(uczony) #k #card
+scholar | refers to an academic or learned researcher #k #card
 学者（がくしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
 <!--ID: 1781251233679-->
 
 
-this doctor is a good doctor (with respect) #k #card
-おのお医者さんはいい先生です（いしゃ）
+That doctor is a good doctor (with respect) #k #card
+あのお医者さんはいい先生です（いしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
@@ -759,14 +765,14 @@ There are only 2 doctors in that clinic #k #card
 <!--ID: 1781251233681-->
 
 
-class room #k #card
+classroom | refers to a classroom in a school or educational context #k #card
 教室（きょうしつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
 <!--ID: 1781251233682-->
 
 
-hospital room #k #card
+hospital room | refers specifically to a patient's room in a hospital #k #card
 病室（びょうしつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
@@ -789,21 +795,22 @@ Father is in the hospital room #k #card
 <!--ID: 1781251233685-->
 
 
-step, footing #k #card
+step / footing | the ground right underfoot; often used in warnings like "watch your step" #k #card
 足元（あしもと）
+お/ご (honorific): お足元（あしもと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <!--ID: 1781251233686-->
 
 
-origin of fire #k #card
+source of fire | commonly used in fire-safety warnings about potential fire hazards #k #card
 火の元（ひのもと)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <!--ID: 1781251233687-->
 
 
-selling agency #k #card
+selling agency | refers to the seller/distributor of a product, as often printed on packaging #k #card
 販売元（はんばいもと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_販.html">販</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
@@ -811,21 +818,26 @@ selling agency #k #card
 <!--ID: 1781251233688-->
 
 
-fine/healthy/energetic #k #card
-元気（げんき）
+fine / healthy / energetic | a na-adjective describing being in good health and full of energy #k #card
+ほんやく: 元気（げんき）
+過去形: —
+否定形: —
+副詞形: —
+そう (looks): 元気そう
+お/ご (honorific): お元気（げんき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <!--ID: 1781251233689-->
 
 
-name of era gengou #k #card
+era name | refers to the named era system used in Japanese dating (e.g. Heisei, Reiwa) #k #card
 元号（げんごう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_号.html">号</a>
 <!--ID: 1781251233690-->
 
 
-element #k #card
+element | the chemistry term for a chemical element #k #card
 元素（げんそ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_素.html">素</a>

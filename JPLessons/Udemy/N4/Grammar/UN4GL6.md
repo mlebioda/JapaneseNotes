@@ -409,7 +409,7 @@ being able to understand intransitive and transitive verbs #k #card
 
 
 Being able to talk about information you've obtained by asking/listening #k #card
-聞いて情報を話題にして、話すことができること (じょうほう、わだい)
+聞いてきた情報を話題にして、話すことができること (じょうほう、わだい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_情.html">情</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_報.html">報</a>
@@ -419,7 +419,7 @@ Being able to talk about information you've obtained by asking/listening #k #car
 
 
 how to express hearsay based on information received from others #k #card
-他人から得た情報に基づく伝聞の言い方 (たにん、え, じょうほう、 もと、でんぶん、いいかた)
+他人から得た情報に基づく伝聞の言い方 (たにん、え、じょうほう、もと、でんぶん、いいかた)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_他.html">他</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_得.html">得</a>
@@ -433,7 +433,7 @@ how to express hearsay based on information received from others #k #card
 <!--ID: 1779824391431-->
 
 
-intransitive verb #k #card
+intransitive verb | a verb whose subject undergoes an action or change on its own, without an agent acting on an object — typically paired with が #k #card
 自動詞 (じどうし)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
@@ -441,7 +441,7 @@ intransitive verb #k #card
 <!--ID: 1779824391436-->
 
 
-transitive verb #k #card
+transitive verb | a verb that takes a direct object (marked with を) and describes an agent acting on that object #k #card
 他動詞 (たどうし)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_他.html">他</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
@@ -449,35 +449,35 @@ transitive verb #k #card
 <!--ID: 1779824391440-->
 
 
-information #card
+information | factual data or news, often from an external source such as the media; more formal than casual 話(はなし) (talk/story) #card
 情報 (じょうほう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_情.html">情</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_報.html">報</a>
 <!--ID: 1779824391444-->
 
 
-topic / subject #k #card
+topic / subject | the subject currently being discussed in a conversation #k #card
 話題 (わだい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <!--ID: 1779824391448-->
 
 
-other people / others #k #card
+other people / others | people unrelated to oneself — strangers or outsiders; stronger than the neutral 他の人(ほかのひと) #k #card
 他人 (たにん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_他.html">他</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1779824391452-->
 
 
-hearsay / secondhand information #k #card
+hearsay / secondhand information | information passed on from someone else rather than experienced firsthand; a formal, often written-register term #k #card
 伝聞 (でんぶん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_伝.html">伝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1779824391456-->
 
 
-to be based on #card
+to be based on | to be grounded in or derived from something concrete, such as data, facts, or law; formal register #card
 基づく (もとづく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_基.html">基</a>
 <!--ID: 1779824391460-->
@@ -491,14 +491,15 @@ obtained information / information received #card
 <!--ID: 1779824391464-->
 
 
-returning home / to return home + verb #k #card
+returning home / to return home + verb | returning to one's home country after living or traveling abroad — distinct from the everyday 帰る(かえる) (to go/return home) #k #card
 帰国(する) (きこく)
+お/ご (honorific): ご帰国(きこく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <!--ID: 1779824391469-->
 
 
-relationship (of person 1 and person 2) #card
+relationship (of person 1 and person 2) | 仲(なか) describes the emotional closeness or rapport between people; more casual/personal than 関係(かんけい) (relationship in general) #card
 人と人との仲 (なか) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仲.html">仲</a>
@@ -523,22 +524,23 @@ roommate #card
 <!--ID: 1779824391485-->
 
 
-husband (your own, more causal) #card
+husband (your own, more casual) | a casual, familiar term for one's own husband, common in everyday speech; compare 主人(しゅじん) (frames the husband as master of the house) and 夫(おっと) (neutral, formal/written) #card
 旦那 (だんな)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旦.html">旦</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_那.html">那</a>
 <!--ID: 1779824391489-->
 
 
-husband (someone's else, more casual) #card
+husband (someone else's, polite) | the respectful way to refer to someone else's husband, formed by adding さん/さま to 旦那 #card
 旦那 (だんな) さん/さま
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旦.html">旦</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_那.html">那</a>
 <!--ID: 1779824391493-->
 
 
-husband (your own and someone's else, master of the house) #k #card
+husband (your own or someone else's, master of the house) | frames the husband as head of the household; can refer to one's own or someone else's husband, and is also the standalone word for master/employer #k #card
 主人 (しゅじん)
+お/ご (honorific): ご主人(しゅじん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_主.html">主</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1779824391498-->
@@ -551,46 +553,47 @@ my husband (master of the house) #k #card
 <!--ID: 1779824391502-->
 
 
-husband (your own, most formal) #card
+husband (your own, most formal) | the neutral, formal written word for husband, used in official contexts and news #card
 夫 (おっと)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夫.html">夫</a>
 <!--ID: 1779824391506-->
 
 
-wife (other's) #card
+wife (other's) | the polite way to refer to someone else's wife; derived from 奥(おく), the inner part of the house #card
 奥(おく) さん/さま
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_奥.html">奥</a>
 <!--ID: 1779824391510-->
 
 
-wife (your own) (old expression) #k #card
+wife (your own) (old expression) | an old-fashioned, humble term for one's own wife, now considered somewhat dated #k #card
 家内 (かない)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_内.html">内</a>
 <!--ID: 1779824391514-->
 
 
-wife (your own) #card
+wife (your own) | the neutral, standard word for one's own wife, appropriate in both spoken and formal contexts #card
 妻 (つま)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妻.html">妻</a>
 <!--ID: 1779824391518-->
 
 
-celebration / celebration gift #card
+celebration / celebration gift | a gift or gesture given to mark a happy occasion; can refer to the celebration itself or the present given #card
 (お)祝い (いわい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_祝.html">祝</a>
 <!--ID: 1779824391522-->
 
 
-weeding celebration #card
+wedding celebration #card
 結婚（けっこん）祝い（いわ）
+お/ご (honorific): ご結婚（けっこん）祝い（いわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_結.html">結</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_婚.html">婚</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_祝.html">祝</a>
 <!--ID: 1779824391526-->
 
 
-kind / gentle #card
+kind / gentle | describes a person's gentle, considerate nature toward others #card
 ほんやく: 優しい (やさしい)
 過去形: 優しかった
 否定形: 優しくない
@@ -600,14 +603,15 @@ kind / gentle #card
 <!--ID: 1779824391530-->
 
 
-to decorate #card
+to decorate | to arrange or display something to make it look attractive, e.g. flowers, a room, or a photo frame #card
 ほんやく: 飾る (かざる)
 て形: 飾って
 た形: 飾った
 ます形: 飾ります
 出す形 (start): 飾り出す
 そう (looks): 飾りそう
-お〜になる (honorific): お飾りになる
+お〜になる/special verb (honorific):お飾りになる
+謙譲語 (humble): お飾りいたす／お飾りします
 ない形: 飾らない
 なかった形: 飾らなかった
 あれる形 (passive/honorific): 飾られる
@@ -628,14 +632,15 @@ picture frame #k #card
 <!--ID: 1779824391538-->
 
 
-to select #card
+to select | to choose one option from among multiple possibilities #card
 ほんやく: 選ぶ (えらぶ)
 て形: 選んで
 た形: 選んだ
 ます形: 選びます
 出す形 (start): 選び出す
 そう (looks): 選びそう
-お〜になる (honorific): お選びになる
+お〜になる/special verb (honorific):お選びになる
+謙譲語 (humble): お選びいたす／お選びします
 ない形: 選ばない
 なかった形: 選ばなかった
 あれる形 (passive/honorific): 選ばれる
@@ -648,7 +653,7 @@ to select #card
 <!--ID: 1779824391543-->
 
 
-made in (country) #card
+made in (country) | a suffix attached to a country name indicating where a product was manufactured #card
 ~製（せい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_製.html">製</a>
 <!--ID: 1779824391547-->
@@ -670,7 +675,7 @@ made in China #k #card
 <!--ID: 1779824391555-->
 
 
-gift / present #k #card
+gift / present | a general word for a gift given on any occasion; broader than お祝い, which specifically marks a celebratory occasion #k #card
 贈り物 (おくりもの)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_贈.html">贈</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -694,26 +699,27 @@ rice cooker #k #card
 <!--ID: 1779824391567-->
 
 
-occasionally / seldom #card
+occasionally / once in a while | describes an infrequent but positive-frequency action; contrast with めったに (rarely), which is paired with a negative verb #card
 たまに
 <!--ID: 1779824391571-->
 
 
-Sometimes visitors come to home #k #card
+Visitors occasionally come to our house #k #card
 うちにたまにお客（きゃく）さんが来ます（き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_客.html">客</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1779824391576-->
 
 
-to open (intransitive) #k #card
+to open (intransitive) | describes a door, lid, etc. opening on its own or being found open, with no agent specified #k #card
 ほんやく: (が)開く (あく)
 て形: 開いて
 た形: 開いた
 ます形: 開きます
 出す形 (start): 開き出す
 そう (looks): 開きそう
-お〜になる (honorific): お開きになる
+お〜になる/special verb (honorific):お開きになる
+謙譲語 (humble): お開きいたす／お開きします
 ない形: 開かない
 なかった形: 開かなかった
 あれる形 (passive/honorific): 開かれる
@@ -726,14 +732,15 @@ to open (intransitive) #k #card
 <!--ID: 1779824391580-->
 
 
-to open (transitive) #k #card
+to open (transitive) | describes someone deliberately opening a door, lid, etc. #k #card
 ほんやく: (を)開ける (あける)
 て形: 開けて
 た形: 開けた
 ます形: 開けます
 出す形 (start): 開け出す
 そう (looks): 開けそう
-お〜になる (honorific): お開けになる
+お〜になる/special verb (honorific):お開けになる
+謙譲語 (humble): お開けいたす／お開けします
 ない形: 開けない
 なかった形: 開けなかった
 あれる形 (passive/honorific): 開けられる
@@ -746,26 +753,27 @@ to open (transitive) #k #card
 <!--ID: 1779824391584-->
 
 
-the doo opens (by themselves) #k #card
+the door opens (by itself) #k #card
 ドアが開く（あ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1779824391588-->
 
 
-to open door (someone) #k #card
-ドアを開けう（あ）
+someone opens the door #k #card
+ドアを開ける（あ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1779824391592-->
 
 
-dissapear (transitive) #card
+to turn off / erase (transitive) | to intentionally extinguish, erase, or turn off something such as a light, fire, or piece of writing #card
 ほんやく: 消す（け)
 て形: 消して
 た形: 消した
 ます形: 消します
 出す形 (start): 消し出す
 そう (looks): 消しそう
-お〜になる (honorific): お消しになる
+お〜になる/special verb (honorific):お消しになる
+謙譲語 (humble): お消しいたす／お消しします
 ない形: 消さない
 なかった形: 消さなかった
 あれる形 (passive/honorific): 消される
@@ -778,14 +786,15 @@ dissapear (transitive) #card
 <!--ID: 1779824391597-->
 
 
-to disappear  (intransitive) #card
+to disappear (intransitive) | for something such as light, fire, or writing to go out or vanish on its own, without a stated agent #card
 ほんやく: 消える (きえる)
 て形: 消えて
 た形: 消えた
 ます形: 消えます
 出す形 (start): 消え出す
 そう (looks): 消えそう
-お〜になる (honorific): お消えになる
+お〜になる/special verb (honorific):お消えになる
+謙譲語 (humble): お消えいたす／お消えします
 ない形: 消えない
 なかった形: 消えなかった
 あれる形 (passive/honorific): 消えられる
@@ -805,14 +814,15 @@ The fire went out #k #card
 <!--ID: 1779824391605-->
 
 
-to fix (transitive) #card
+to fix (transitive) | to repair a broken object or correct a mistake through one's own action #card
 ほんやく: 直す（なお）
 て形: 直して
 た形: 直した
 ます形: 直します
 出す形 (start): 直し出す
 そう (looks): 直しそう
-お〜になる (honorific): お直しになる
+お〜になる/special verb (honorific):お直しになる
+謙譲語 (humble): お直しいたす／お直しします
 ない形: 直さない
 なかった形: 直さなかった
 あれる形 (passive/honorific): 直される
@@ -825,14 +835,15 @@ to fix (transitive) #card
 <!--ID: 1779824391610-->
 
 
-to fix (object) (intransitive) #card
+to be fixed / repaired (intransitive) | for an object or mistake to become fixed, without stating who did it #card
 ほんやく: 直る (なお)
 て形: 直って
 た形: 直った
 ます形: 直ります
 出す形 (start): 直り出す
 そう (looks): 直りそう
-お〜になる (honorific): お直りになる
+お〜になる/special verb (honorific):お直りになる
+謙譲語 (humble): お直りいたす／お直りします
 ない形: 直らない
 なかった形: 直らなかった
 あれる形 (passive/honorific): 直られる
@@ -853,14 +864,15 @@ The clock is fixed. #k #card
 <!--ID: 1779824391618-->
 
 
-to cure (injury / illness) (transitive) #card
+to cure (injury / illness) (transitive) | to treat or cure an illness or injury, e.g. by a doctor or medicine #card
 ほんやく: 治す (なお)
 て形: 治して
 た形: 治した
 ます形: 治します
 出す形 (start): 治し出す
 そう (looks): 治しそう
-お〜になる (honorific): お治しになる
+お〜になる/special verb (honorific):お治しになる
+謙譲語 (humble): お治しいたす／お治しします
 ない形: 治さない
 なかった形: 治さなかった
 あれる形 (passive/honorific): 治される
@@ -873,14 +885,15 @@ to cure (injury / illness) (transitive) #card
 <!--ID: 1779824391622-->
 
 
-to cure (injury / illness) (intransitive) #card
+to recover / heal (from injury or illness) (intransitive) | for an illness or injury to heal on its own #card
 ほんやく: 治る (なお)
 て形: 治って
 た形: 治った
 ます形: 治ります
 出す形 (start): 治り出す
 そう (looks): 治りそう
-お〜になる (honorific): お治りになる
+お〜になる/special verb (honorific):お治りになる
+謙譲語 (humble): お治りいたす／お治りします
 ない形: 治らない
 なかった形: 治らなかった
 あれる形 (passive/honorific): 治られる
@@ -894,20 +907,22 @@ to cure (injury / illness) (intransitive) #card
 
 
 I recovered from my cold #k #card
-風が治った(な)
+風邪が治った(な)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_邪.html">邪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_治.html">治</a>
 <!--ID: 1779824391630-->
 
 
-to be broken #card
+to be broken | for an object to become broken or stop working, without a stated cause #card
 ほんやく: 壊れる (こわれる)
 て形: 壊れて
 た形: 壊れた
 ます形: 壊れます
 出す形 (start): 壊れ出す
 そう (looks): 壊れそう
-お〜になる (honorific): お壊れになる
+お〜になる/special verb (honorific):お壊れになる
+謙譲語 (humble): お壊れいたす／お壊れします
 ない形: 壊れない
 なかった形: 壊れなかった
 あれる形 (passive/honorific): 壊れられる
@@ -920,14 +935,15 @@ to be broken #card
 <!--ID: 1779824391635-->
 
 
-to break #card
+to break | to break an object through one's own action, often carelessly or intentionally #card
 ほんやく: 壊す (こわす)
 て形: 壊して
 た形: 壊した
 ます形: 壊します
 出す形 (start): 壊し出す
 そう (looks): 壊しそう
-お〜になる (honorific): お壊しになる
+お〜になる/special verb (honorific):お壊しになる
+謙譲語 (humble): お壊しいたす／お壊しします
 ない形: 壊さない
 なかった形: 壊さなかった
 あれる形 (passive/honorific): 壊される
@@ -940,14 +956,15 @@ to break #card
 <!--ID: 1779824391639-->
 
 
-to be decided (intransitive) #card
+to be decided (intransitive) | for something to become decided or settled, without stating who decided it #card
 ほんやく: 決まる (き)
 て形: 決まって
 た形: 決まった
 ます形: 決まります
 出す形 (start): 決まり出す
 そう (looks): 決まりそう
-お〜になる (honorific): お決まりになる
+お〜になる/special verb (honorific):お決まりになる
+謙譲語 (humble): お決まりいたす／お決まりします
 ない形: 決まらない
 なかった形: 決まらなかった
 あれる形 (passive/honorific): 決まられる
@@ -960,7 +977,7 @@ to be decided (intransitive) #card
 <!--ID: 1779824391643-->
 
 
-Next mont's business trip was decided #k #card
+Next month's business trip was decided #k #card
 来月（らいげつ）の出張（しゅっちょう）が決まった（き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -970,14 +987,15 @@ Next mont's business trip was decided #k #card
 <!--ID: 1779824391648-->
 
 
-to decide (transitive) #card
+to decide (transitive) | to actively decide or settle on something oneself #card
 ほんやく: 決める (き)
 て形: 決めて
 た形: 決めた
 ます形: 決めます
 出す形 (start): 決め出す
 そう (looks): 決めそう
-お〜になる (honorific): お決めになる
+お〜になる/special verb (honorific):お決めになる
+謙譲語 (humble): お決めいたす／お決めします
 ない形: 決めない
 なかった形: 決めなかった
 あれる形 (passive/honorific): 決められる
@@ -1001,14 +1019,15 @@ I think I want to decide the meeting time #k #card
 <!--ID: 1779824391656-->
 
 
-to begin (transitive) #k #card
+to begin (transitive) | to start an activity oneself #k #card
 ほんやく: 始める (はじ)
 て形: 始めて
 た形: 始めた
 ます形: 始めます
 出す形 (start): 始め出す
 そう (looks): 始めそう
-お〜になる (honorific): お始めになる
+お〜になる/special verb (honorific):お始めになる
+謙譲語 (humble): お始めいたす／お始めします
 ない形: 始めない
 なかった形: 始めなかった
 あれる形 (passive/honorific): 始められる
@@ -1029,14 +1048,15 @@ to begin the practice #k #card
 <!--ID: 1779824391664-->
 
 
-to start (intransitive) #k #card
+to start (intransitive) | for an event to start on its own, e.g. a movie or a meeting #k #card
 ほんやく: 始まる (はじ)
 て形: 始まって
 た形: 始まった
 ます形: 始まります
 出す形 (start): 始まり出す
 そう (looks): 始まりそう
-お〜になる (honorific): お始まりになる
+お〜になる/special verb (honorific):お始まりになる
+謙譲語 (humble): お始まりいたす／お始まりします
 ない形: 始まらない
 なかった形: 始まらなかった
 あれる形 (passive/honorific): 始まられる
@@ -1057,14 +1077,15 @@ the movie began #k #card
 <!--ID: 1779824391672-->
 
 
-to return (an object to previous state) (transitive) #card
+to be returned / go back (to a previous state) (intransitive) | for an object to return to its original owner or state on its own #card
 ほんやく: 返る (かえ)
 て形: 返って
 た形: 返った
 ます形: 返ります
 出す形 (start): 返り出す
 そう (looks): 返りそう
-お〜になる (honorific): お返りになる
+お〜になる/special verb (honorific):お返りになる
+謙譲語 (humble): お返りいたす／お返りします
 ない形: 返らない
 なかった形: 返らなかった
 あれる形 (passive/honorific): 返られる
@@ -1085,14 +1106,15 @@ I got my lost item back #k #card
 <!--ID: 1779824391681-->
 
 
-to be returned (an object to previous state) (intransitive) #card
+to return (an object to a previous state) (transitive) | to give something back to its original owner #card
 ほんやく: 返す (かえ)
 て形: 返して
 た形: 返した
 ます形: 返します
 出す形 (start): 返し出す
 そう (looks): 返しそう
-お〜になる (honorific): お返しになる
+お〜になる/special verb (honorific):お返しになる
+謙譲語 (humble): お返しいたす／お返しします
 ない形: 返さない
 なかった形: 返さなかった
 あれる形 (passive/honorific): 返される
@@ -1105,21 +1127,22 @@ to be returned (an object to previous state) (intransitive) #card
 <!--ID: 1779824391685-->
 
 
-Responded (returned) with an answer #k #card
+An answer came back #k #card
 答え（こた）が返って（かえ）きた
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_返.html">返</a>
 <!--ID: 1779824391689-->
 
 
-to break (transitive) #card
+to break (transitive) | to break something hard or brittle, such as glass or dishes, through one's own action #card
 ほんやく: 割る (わ)
 て形: 割って
 た形: 割った
 ます形: 割ります
 出す形 (start): 割り出す
 そう (looks): 割りそう
-お〜になる (honorific): お割りになる
+お〜になる/special verb (honorific):お割りになる
+謙譲語 (humble): お割りいたす／お割りします
 ない形: 割らない
 なかった形: 割らなかった
 あれる形 (passive/honorific): 割られる
@@ -1139,14 +1162,15 @@ to break a plate #card
 <!--ID: 1779824391697-->
 
 
-to be broken (intransitive) #card
+to be broken / crack (intransitive) | for something hard or brittle to break or crack, without a stated cause #card
 ほんやく: 割れる (わ)
 て形: 割れて
 た形: 割れた
 ます形: 割れます
 出す形 (start): 割れ出す
 そう (looks): 割れそう
-お〜になる (honorific): お割れになる
+お〜になる/special verb (honorific):お割れになる
+謙譲語 (humble): お割れいたす／お割れします
 ない形: 割れない
 なかった形: 割れなかった
 あれる形 (passive/honorific): 割れられる
@@ -1165,14 +1189,15 @@ the glass is broken #card
 <!--ID: 1779824391706-->
 
 
-to be attached #card
+to be attached | for something to become attached, stuck, or turned on by itself #card
 ほんやく: 付く (つ)
 て形: 付いて
 た形: 付いた
 ます形: 付きます
 出す形 (start): 付き出す
 そう (looks): 付きそう
-お〜になる (honorific): お付きになる
+お〜になる/special verb (honorific):お付きになる
+謙譲語 (humble): お付きいたす／お付きします
 ない形: 付かない
 なかった形: 付かなかった
 あれる形 (passive/honorific): 付かれる
@@ -1185,14 +1210,15 @@ to be attached #card
 <!--ID: 1779824391710-->
 
 
-to attach / to turn on #card
+to attach / to turn on | to attach something or switch something on through one's own action #card
 ほんやく: 付ける (つ)
 て形: 付けて
 た形: 付けた
 ます形: 付けます
 出す形 (start): 付け出す
 そう (looks): 付けそう
-お〜になる (honorific): お付けになる
+お〜になる/special verb (honorific):お付けになる
+謙譲語 (humble): お付けいたす／お付けします
 ない形: 付けない
 なかった形: 付けなかった
 あれる形 (passive/honorific): 付けられる
@@ -1205,14 +1231,15 @@ to attach / to turn on #card
 <!--ID: 1779824391714-->
 
 
-to be increased (intransitive) #card
+to be increased (intransitive) | for a quantity to increase on its own #card
 ほんやく: 増える (ふ)
 て形: 増えて
 た形: 増えた
 ます形: 増えます
 出す形 (start): 増え出す
 そう (looks): 増えそう
-お〜になる (honorific): お増えになる
+お〜になる/special verb (honorific):お増えになる
+謙譲語 (humble): お増えいたす／お増えします
 ない形: 増えない
 なかった形: 増えなかった
 あれる形 (passive/honorific): 増えられる
@@ -1225,14 +1252,15 @@ to be increased (intransitive) #card
 <!--ID: 1779824391718-->
 
 
-to increase (transitive) #card
+to increase (transitive) | to actively increase a quantity #card
 ほんやく: 増やす (ふ)
 て形: 増やして
 た形: 増やした
 ます形: 増やします
 出す形 (start): 増やし出す
 そう (looks): 増やしそう
-お〜になる (honorific): お増やしになる
+お〜になる/special verb (honorific):お増やしになる
+謙譲語 (humble): お増やしいたす／お増やしします
 ない形: 増やさない
 なかった形: 増やさなかった
 あれる形 (passive/honorific): 増やされる
@@ -1245,14 +1273,15 @@ to increase (transitive) #card
 <!--ID: 1779824391722-->
 
 
-to be burnt (intransitive) #card
+to be burnt (intransitive) | for something to become burnt, cooked, or grilled on its own, e.g. by fire or sun #card
 ほんやく: 焼ける (や)
 て形: 焼けて
 た形: 焼けた
 ます形: 焼けます
 出す形 (start): 焼け出す
 そう (looks): 焼けそう
-お〜になる (honorific): お焼けになる
+お〜になる/special verb (honorific):お焼けになる
+謙譲語 (humble): お焼けいたす／お焼けします
 ない形: 焼けない
 なかった形: 焼けなかった
 あれる形 (passive/honorific): 焼けられる
@@ -1265,14 +1294,15 @@ to be burnt (intransitive) #card
 <!--ID: 1779824391726-->
 
 
-to grill　（transitive) #card
+to grill (transitive) | to grill, bake, or burn something through one's own action #card
 ほんやく: 焼く (や)
 て形: 焼いて
 た形: 焼いた
 ます形: 焼きます
 出す形 (start): 焼き出す
 そう (looks): 焼きそう
-お〜になる (honorific): お焼きになる
+お〜になる/special verb (honorific):お焼きになる
+謙譲語 (humble): お焼きいたす／お焼きします
 ない形: 焼かない
 なかった形: 焼かなかった
 あれる形 (passive/honorific): 焼かれる
@@ -1285,14 +1315,15 @@ to grill　（transitive) #card
 <!--ID: 1779824391730-->
 
 
-to turn (intransitive) #card
+to turn (intransitive) | for something to rotate or spin on its own #card
 ほんやく: 回る (ま)
 て形: 回って
 た形: 回った
 ます形: 回ります
 出す形 (start): 回り出す
 そう (looks): 回りそう
-お〜になる (honorific): お回りになる
+お〜になる/special verb (honorific):お回りになる
+謙譲語 (humble): お回りいたす／お回りします
 ない形: 回らない
 なかった形: 回らなかった
 あれる形 (passive/honorific): 回られる
@@ -1305,14 +1336,15 @@ to turn (intransitive) #card
 <!--ID: 1779824391734-->
 
 
-to turn (transitive) #card
+to turn (transitive) | to rotate or spin something through one's own action #card
 ほんやく: 回す (ま)
 て形: 回して
 た形: 回した
 ます形: 回します
 出す形 (start): 回し出す
 そう (looks): 回しそう
-お〜になる (honorific): お回しになる
+お〜になる/special verb (honorific):お回しになる
+謙譲語 (humble): お回しいたす／お回しします
 ない形: 回さない
 なかった形: 回さなかった
 あれる形 (passive/honorific): 回される
@@ -1325,14 +1357,15 @@ to turn (transitive) #card
 <!--ID: 1779824391738-->
 
 
-to cool down (intransitive) #card
+to cool down (intransitive) | for something to become cold on its own #card
 ほんやく: 冷える (ひ)
 て形: 冷えて
 た形: 冷えた
 ます形: 冷えます
 出す形 (start): 冷え出す
 そう (looks): 冷えそう
-お〜になる (honorific): お冷えになる
+お〜になる/special verb (honorific):お冷えになる
+謙譲語 (humble): お冷えいたす／お冷えします
 ない形: 冷えない
 なかった形: 冷えなかった
 あれる形 (passive/honorific): 冷えられる
@@ -1345,14 +1378,15 @@ to cool down (intransitive) #card
 <!--ID: 1779824391742-->
 
 
-to cool (transitive) #card
+to cool (transitive) | to actively cool something down #card
 ほんやく: 冷やす (ひ)
 て形: 冷やして
 た形: 冷やした
 ます形: 冷やします
 出す形 (start): 冷やし出す
 そう (looks): 冷やしそう
-お〜になる (honorific): お冷やしになる
+お〜になる/special verb (honorific):お冷やしになる
+謙譲語 (humble): お冷やしいたす／お冷やしします
 ない形: 冷やさない
 なかった形: 冷やさなかった
 あれる形 (passive/honorific): 冷やされる
@@ -1365,14 +1399,15 @@ to cool (transitive) #card
 <!--ID: 1779824391746-->
 
 
-to wet (transitive) #card
+to wet (transitive) | to make something wet through one's own action #card
 ほんやく: 濡らす (ぬ)
 て形: 濡らして
 た形: 濡らした
 ます形: 濡らします
 出す形 (start): 濡らし出す
 そう (looks): 濡らしそう
-お〜になる (honorific): お濡らしになる
+お〜になる/special verb (honorific):お濡らしになる
+謙譲語 (humble): お濡らしいたす／お濡らしします
 ない形: 濡らさない
 なかった形: 濡らさなかった
 あれる形 (passive/honorific): 濡らされる
@@ -1391,14 +1426,15 @@ to wet a handkerchief #card
 <!--ID: 1779824391755-->
 
 
-to get wet (intransitive) #card
+to get wet (intransitive) | for something to become wet on its own, e.g. from rain #card
 ほんやく: 濡れる（ぬ）
 て形: 濡れて
 た形: 濡れた
 ます形: 濡れます
 出す形 (start): 濡れ出す
 そう (looks): 濡れそう
-お〜になる (honorific): お濡れになる
+お〜になる/special verb (honorific):お濡れになる
+謙譲語 (humble): お濡れいたす／お濡れします
 ない形: 濡れない
 なかった形: 濡れなかった
 あれる形 (passive/honorific): 濡れられる
@@ -1419,14 +1455,15 @@ The book got wet from the rain #k #card
 <!--ID: 1779824391763-->
 
 
-to be boiled (intransitive) #card
+to be boiled / come to a boil (intransitive) | for water or another liquid to reach boiling point on its own #card
 ほんやく: 沸く (わく)
 て形: 沸いて
 た形: 沸いた
 ます形: 沸きます
 出す形 (start): 沸き出す
 そう (looks): 沸きそう
-お〜になる (honorific): お沸きになる
+お〜になる/special verb (honorific):お沸きになる
+謙譲語 (humble): お沸きいたす／お沸きします
 ない形: 沸かない
 なかった形: 沸かなかった
 あれる形 (passive/honorific): 沸かれる
@@ -1439,14 +1476,15 @@ to be boiled (intransitive) #card
 <!--ID: 1779824391767-->
 
 
-to boil (transitive) #card
+to boil (transitive) | to actively bring water or another liquid to a boil #card
 ほんやく: 沸かす (わかす)
 て形: 沸かして
 た形: 沸かした
 ます形: 沸かします
 出す形 (start): 沸かし出す
 そう (looks): 沸かしそう
-お〜になる (honorific): お沸かしになる
+お〜になる/special verb (honorific):お沸かしになる
+謙譲語 (humble): お沸かしいたす／お沸かしします
 ない形: 沸かさない
 なかった形: 沸かさなかった
 あれる形 (passive/honorific): 沸かされる
@@ -1459,14 +1497,15 @@ to boil (transitive) #card
 <!--ID: 1779824391774-->
 
 
-to be stopped (intransitive) #card
+to be stopped (intransitive) | for something such as a vehicle or machine to stop moving or working on its own #card
 ほんやく: 止まる（と）
 て形: 止まって
 た形: 止まった
 ます形: 止まります
 出す形 (start): 止まり出す
 そう (looks): 止まりそう
-お〜になる (honorific): お止まりになる
+お〜になる/special verb (honorific):お止まりになる
+謙譲語 (humble): お止まりいたす／お止まりします
 ない形: 止まらない
 なかった形: 止まらなかった
 あれる形 (passive/honorific): 止まられる
@@ -1487,14 +1526,15 @@ The train stopped #k #card
 <!--ID: 1779824391782-->
 
 
-to stop (transitive) #card
+to stop (transitive) | to actively stop something #card
 ほんやく: 止める（と）
 て形: 止めて
 た形: 止めた
 ます形: 止めます
 出す形 (start): 止め出す
 そう (looks): 止めそう
-お〜になる (honorific): お止めになる
+お〜になる/special verb (honorific):お止めになる
+謙譲語 (humble): お止めいたす／お止めします
 ない形: 止めない
 なかった形: 止めなかった
 あれる形 (passive/honorific): 止められる
@@ -1513,14 +1553,15 @@ volitional form of 何にする #k #card
 <!--ID: 1779824391791-->
 
 
-to wake up (intransitive) #k #card
+to wake up (intransitive) | for oneself to wake up or get up #k #card
 ほんやく: 起きる (おきる)
 て形: 起きて
 た形: 起きた
 ます形: 起きます
 出す形 (start): 起き出す
 そう (looks): 起きそう
-お〜になる (honorific): お起きになる
+お〜になる/special verb (honorific):お起きになる
+謙譲語 (humble): お起きいたす／お起きします
 ない形: 起きない
 なかった形: 起きなかった
 あれる形 (passive/honorific): 起きられる
@@ -1533,14 +1574,15 @@ to wake up (intransitive) #k #card
 <!--ID: 1779824391795-->
 
 
-to wake up (transitive) #k #card
+to wake up (transitive) | to wake someone else up #k #card
 ほんやく: 起こす (おこす)
 て形: 起こして
 た形: 起こした
 ます形: 起こします
 出す形 (start): 起こし出す
 そう (looks): 起こしそう
-お〜になる (honorific): お起こしになる
+お〜になる/special verb (honorific):お起こしになる
+謙譲語 (humble): お起こしいたす／お起こしします
 ない形: 起こさない
 なかった形: 起こさなかった
 あれる形 (passive/honorific): 起こされる
@@ -1553,14 +1595,15 @@ to wake up (transitive) #k #card
 <!--ID: 1779824391799-->
 
 
-to fall (intransitive) #card
+to fall (intransitive) | for a person or object to fall over or collapse on its own #card
 ほんやく: 倒れる (たおれる)
 て形: 倒れて
 た形: 倒れた
 ます形: 倒れます
 出す形 (start): 倒れ出す
 そう (looks): 倒れそう
-お〜になる (honorific): お倒れになる
+お〜になる/special verb (honorific):お倒れになる
+謙譲語 (humble): お倒れいたす／お倒れします
 ない形: 倒れない
 なかった形: 倒れなかった
 あれる形 (passive/honorific): 倒れられる
@@ -1573,14 +1616,15 @@ to fall (intransitive) #card
 <!--ID: 1779824391803-->
 
 
-to knock down (transitive) #card
+to knock down (transitive) | to knock over or defeat someone or something through one's own action #card
 ほんやく: 倒す (たおす)
 て形: 倒して
 た形: 倒した
 ます形: 倒します
 出す形 (start): 倒し出す
 そう (looks): 倒しそう
-お〜になる (honorific): お倒しになる
+お〜になる/special verb (honorific):お倒しになる
+謙譲語 (humble): お倒しいたす／お倒しします
 ない形: 倒さない
 なかった形: 倒さなかった
 あれる形 (passive/honorific): 倒される
@@ -1593,13 +1637,13 @@ to knock down (transitive) #card
 <!--ID: 1779824391807-->
 
 
-She is close to Miss Wang, isn't she? #card
+You get along well with Ran, don't you? #card
 ランさんと 仲（なか）いいですね
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仲.html">仲</a>
 <!--ID: 1779824391811-->
 
 
-I am wondering what to buy for miss Lee's wedding party #k #card
+I'm wondering what to get her as a wedding gift #k #card
 彼女（かのじょ）への 結婚祝い（けっこんいわ）、何（なに）にしようか 迷っています（まよ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_女.html">女</a>
@@ -1692,7 +1736,7 @@ I heard from Mr. Sato that the exam next week will be difficult. #k #card
 <!--ID: 1779824391852-->
 
 
-I heard from my friend that climbing Mt. Fuji was really difficult. #k #card
+I heard from my friend that climbing Mt. Fuji seemed really difficult. #k #card
 友達から聞いたんですが、富士山に登るのは大変だったらしいです。 (ともだち、き、ふじさん、のぼ、たいへん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
@@ -1741,7 +1785,7 @@ I can speak only Japanese #k #card
 
 
 I can speak only Japanese #k #card
-私（わたし）は日本語（にほんご）だけ 話せます（はな）です
+私（わたし）は日本語（にほんご）だけ話せます（はな）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1799,7 +1843,7 @@ There are 5 more apples in the refrigerator. #k #card
 <!--ID: 1779824391901-->
 
 
-as I thought / still (written/spoken) #card
+as I thought / still | expresses that something turned out as expected, or a decision reached after weighing options; やっぱり is the casual, spoken contraction of the more neutral/written やはり #card
 やはり/やっぱり
 <!--ID: 1779824391905-->
 
@@ -1832,7 +1876,7 @@ I think a present that's made in Japan #k #card
 <!--ID: 1779824391918-->
 
 
-contact / to contact + verb #card
+contact / to contact + verb | to get in touch with someone by phone, email, or message — a common, practical term for everyday contact #card
 (ご)連絡 (れんらく) (する)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_連.html">連</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_絡.html">絡</a>
@@ -1865,14 +1909,15 @@ to contact general manager #k #card
 <!--ID: 1779824391934-->
 
 
-to associate with / to go out with #card
+to associate with / to go out with | to keep company with someone — covering everyday togetherness, accompanying someone to an activity, or a romantic relationship; casual/neutral register #card
 ほんやく: 付き合う (つきあう)
 て形: 付き合って
 た形: 付き合った
 ます形: 付き合います
 出す形 (start): 付き合い出す
 そう (looks): 付き合いそう
-お〜になる (honorific): お付き合いになる
+お〜になる/special verb (honorific):お付き合いになる
+謙譲語 (humble): お付き合いいたす／お付き合いします
 ない形: 付き合わない
 なかった形: 付き合わなかった
 あれる形 (passive/honorific): 付き合われる
@@ -1909,7 +1954,7 @@ Mr Sato has been together with his girlfriend since university #k #card
 
 
 I will go to the book store now, would you like to go with me? #k #card
-これから本屋（ほんや）に行く（い）だけど、付き合って（つきあって）くれる？
+これから本屋（ほんや）に行く（い）んだけど、付き合って（つきあって）くれる？
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>

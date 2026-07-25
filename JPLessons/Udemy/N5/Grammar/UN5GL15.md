@@ -333,14 +333,15 @@ animal #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 
 
- to fly #card
+ to fly | used for creatures or objects moving through the air, and idiomatically for rumors spreading fast #card
 ほんやく: 飛ぶ (と)
 て形: 飛んで
 た形: 飛んだ
 ます形: 飛びます
 出す形 (start): 飛び出す
 そう (looks): 飛びそう
-お〜になる (honorific): お飛びになる
+お〜になる/special verb (honorific):お飛びになる
+謙譲語 (humble): お飛びいたす／お飛びします
 ない形: 飛ばない
 なかった形: 飛ばなかった
 あれる形 (passive/honorific): 飛ばれる
@@ -353,14 +354,15 @@ animal #k #card
 <!--ID: 1776095689284-->
 
 
-to do ones best #card
+to do one's best | a common word for exerting effort or showing determination, frequently used to cheer someone on #card
 ほんやく: 頑張る (がん・は)
 て形: 頑張って
 た形: 頑張った
 ます形: 頑張ります
 出す形 (start): 頑張り出す
 そう (looks): 頑張りそう
-お〜になる (honorific): お頑張りになる
+お〜になる/special verb (honorific):お頑張りになる
+謙譲語 (humble): お頑張りいたす／お頑張りします
 ない形: 頑張らない
 なかった形: 頑張らなかった
 あれる形 (passive/honorific): 頑張られる
@@ -435,7 +437,7 @@ How to use "とき". #k #card
 
 
 
-possibility / possible #card
+possibility / possible | describes something as conceivable or feasible in the abstract, more formal/written than the everyday verb できる #card
 可能 (かのう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_可.html">可</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_能.html">能</a>
@@ -443,7 +445,7 @@ possibility / possible #card
 
 
 
-not allowed / impossible #k #card
+not allowed / impossible | a formal, often written notation for "not permitted" (e.g. on official forms), more official-sounding than casual だめ #k #card
 不可 (ふか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_不.html">不</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_可.html">可</a>
@@ -451,7 +453,7 @@ not allowed / impossible #k #card
 
 
 
-action / movement #k #card
+action / movement | refers to physical bodily motion or a gesture, narrower than the general word for conduct, 行動（こうどう） #k #card
 動作 (どうさ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
@@ -459,7 +461,7 @@ action / movement #k #card
 
 
 
-example #card
+example | used when citing a specific instance to illustrate a point, distinct from a physical sample or model, 見本（みほん） #card
 例 (れい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_例.html">例</a>
 <!--ID: 1775624991171-->
@@ -484,7 +486,7 @@ English examination #k #card
 
 
 
-international student #k #card
+international student | specifically a student studying abroad, not just any foreign national residing in the country #k #card
 留学生 (りゅうがくせい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -493,7 +495,7 @@ international student #k #card
 
 
 
-parents (my/someone else) #k #card
+parents (my/someone else) | the ご prefix makes this the polite form for someone else's parents; dropping it refers to one's own #k #card
 （ご）両親 (りょうしん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_両.html">両</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
@@ -509,13 +511,13 @@ How are your parents? #k #card
 
 
 
-often / well #card
+often / well | one adverb covering both frequency ("often") and manner/quality ("well"), distinguished only by context #card
 よく
 <!--ID: 1775624991177-->
 
 
 
-He often climbs mountains, takes pictures #k #card
+He often climbs mountains and takes pictures. #k #card
 彼がよく山にのぼって、写真をとります（かれ、やま、しゃしん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
@@ -525,13 +527,13 @@ He often climbs mountains, takes pictures #k #card
 
 
 
-well done #card
+well done | a set praise phrase said to acknowledge someone's effort or good result #card
 よくできました
 <!--ID: 1775624991179-->
 
 
 
-always #card
+always | expresses constant or habitual recurrence, a stronger and more absolute claim than よく ("often") #card
 いつも
 <!--ID: 1775624991180-->
 
@@ -547,7 +549,7 @@ Yamada teacher is always kind. #k #card
 
 
 
-more #card
+more | a comparative adverb for "more of the same quality or degree", different from もう which adds a sense of "already/additionally" #card
 ほんやく: もっと
 過去形: —
 否定形: —
@@ -609,21 +611,23 @@ A: 午後５時までに 会議の資料はできますか B: じゅんび時間
 
 
 
-interest / hobby #k #card
+interest / hobby | a hobby one actively pursues in free time, more concrete than the abstract word for "interest" in something, 興味（きょうみ） #k #card
 趣味 (しゅみ)
+お/ご (honorific): ご趣味(しゅみ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_趣.html">趣</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <!--ID: 1775624991190-->
 
 
-to disappear #card
+to disappear | used for things fading or vanishing on their own, such as lights, sounds, or feelings #card
 ほんやく: 消える (き)
 て形: 消えて
 た形: 消えた
 ます形: 消えます
 出す形 (start): 消え出す
 そう (looks): 消えそう
-お〜になる (honorific): お消えになる
+お〜になる/special verb (honorific):お消えになる
+謙譲語 (humble): お消えいたす／お消えします
 ない形: 消えない
 なかった形: 消えなかった
 あれる形 (passive/honorific): 消えられる
@@ -633,10 +637,12 @@ to disappear #card
 おう形 (let's): 消えよう
 命令形 (imperative): 消えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
+<!--ID: 1784877914680-->
 
 
 
-cute / lovely #card
+
+cute / lovely | a casual, affectionate word said on seeing something charming; a more formal word for beauty is 美しい（うつくしい） #card
 可愛い (か・わい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_可.html">可</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_愛.html">愛</a>
@@ -662,7 +668,7 @@ cute dog #k #card
 
 
 
-that 5 years child is very cute #k #card
+That 5-year-old child is very cute. #k #card
 あの５さいの子供は とても可愛いですね（こども、かわい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_供.html">供</a>
@@ -672,15 +678,16 @@ that 5 years child is very cute #k #card
 
 
 
-a cold (illness) #k #card
+a cold (illness) | a mild, common seasonal illness, distinct from the broader word for illness/sickness in general #k #card
 風邪 (かぜ)
+お/ご (honorific): お風邪(かぜ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_邪.html">邪</a>
 <!--ID: 1775624991196-->
 
 
 
-to catch cold #k #card
+to catch a cold | idiomatically uses the verb "to pull" rather than なる or かかる #k #card
 風邪を引く（かぜ、ひく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_邪.html">邪</a>
@@ -688,14 +695,15 @@ to catch cold #k #card
 <!--ID: 1775624991197-->
 
 
-to pull, to catch (a cold), to look up (shiraberu) (+particle) #card
+to pull, to catch (a cold), to look up (shiraberu) (+particle) | as "look up", implies checking a physical reference like a dictionary index, narrower than the general word for researching, 調べる（しらべる） #card
 ほんやく: (を)引く (ひ)
 て形: 引いて
 た形: 引いた
 ます形: 引きます
 出す形 (start): 引き出す
 そう (looks): 引きそう
-お〜になる (honorific): お引きになる
+お〜になる/special verb (honorific):お引きになる
+謙譲語 (humble): お引きいたす／お引きします
 ない形: 引かない
 なかった形: 引かなかった
 あれる形 (passive/honorific): 引かれる
@@ -726,6 +734,7 @@ to look up in the dictionary #card
 
 body #k #card
 体 (からだ)
+お/ご (honorific): お体(からだ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
 <!--ID: 1775624991201-->
 
@@ -738,7 +747,7 @@ head #k #card
 
 
 
-clever, bright (idiom) #k #card
+clever, bright (idiom) | a common idiom literally meaning "head is good", praising intelligence; a more formal alternative is 賢い（かしこい） #k #card
 頭がいい（あたま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頭.html">頭</a>
 <!--ID: 1775624991203-->
@@ -784,6 +793,7 @@ ear #k #card
 
 face #card
 顔 (かお)
+お/ご (honorific): お顔(かお)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_顔.html">顔</a>
 <!--ID: 1775624991209-->
 
@@ -796,7 +806,7 @@ stomach #card
 
 
 
-my stomach hurts #k #card
+My stomach hurts #k #card
 お腹が痛いです（なか、いた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_腹.html">腹</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_痛.html">痛</a>
@@ -804,7 +814,7 @@ my stomach hurts #k #card
 
 
 
-pain、hurt (particle) #card
+pain / hurt (particle) | attaches to a body part + が to say that part hurts; can also express emotional pain figuratively #card
 ほんやく: (が)いたい
 過去形: いたかった
 否定形: いたくない
@@ -821,8 +831,9 @@ My head hurts #k #card
 
 
 
-disease, light illness #k #card
+illness / sickness | the general word for being unwell, not limited to anything mild or serious #k #card
 病気 (びょうき)
+お/ご (honorific): ご病気(びょうき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <!--ID: 1775624991214-->
@@ -847,12 +858,13 @@ to become sick (not naru) #k #card
 
 medicine #card
 薬 (くすり)
+お/ご (honorific): お薬(くすり)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_薬.html">薬</a>
 <!--ID: 1775624991217-->
 
 
 
-to take medicine #k #card
+to take medicine | conceived of as "drinking" medicine, even for solid pills or tablets #k #card
 薬を飲む（くすり、の）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_薬.html">薬</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
@@ -889,13 +901,13 @@ Internet + abbreviation #card
 
 
 
-Internet  TV #card
+Internet TV #card
 インターネット テレビ
 <!--ID: 1775624991223-->
 
 
 
-to reserve Internet #card
+to make a reservation online #card
 インターネット で予約する（よやく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_予.html">予</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_約.html">約</a>
@@ -905,6 +917,7 @@ to reserve Internet #card
 
 driving / to drive #k #card
 運転(する) (うんてん)
+お/ご (honorific): ご運転(うんてん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1775624991225-->
@@ -980,7 +993,7 @@ to play baseball #k #card
 
 
 
-table tennis / pingpong #card
+table tennis / ping pong #card
 卓球 (たっきゅう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_卓.html">卓</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_球.html">球</a>
@@ -988,7 +1001,7 @@ table tennis / pingpong #card
 
 
 
-to play table tennis / pingpong #card
+to play table tennis / ping pong #card
 卓球をする(たっきゅう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_卓.html">卓</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_球.html">球</a>
@@ -1028,13 +1041,13 @@ sky #k #card
 
 
 
-but (more formal) #card
+but (more formal) | a written/formal conjunction for "but", stiffer in register than the everyday でも or けど #card
 しかし
 <!--ID: 1775624991241-->
 
 
 
-My younger brother practices baseball everyday, but he is not good at it. (more formal but) #k #card
+My younger brother practices baseball every day, but he is not good at it. (more formal but) #k #card
 弟は毎日野球を練習しています, しかし、上手でわありません（おとうと、まいにち、やきゅう、れんしゅう、じょうず）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
@@ -1049,7 +1062,7 @@ My younger brother practices baseball everyday, but he is not good at it. (more 
 
 
 
-That foreign student went to America to learn english. But he hangs out every day) #k #card
+That foreign student went to America to learn English. But he hangs out every day. #k #card
 あの留学生は アメリカへ英語を勉強に行きました。しかし 毎日遊んでいます（りゅうがく、えいご、べんきょう、まいにち、あそ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -1066,14 +1079,15 @@ That foreign student went to America to learn english. But he hangs out every da
 
 
 
-can #k #card
+can | often written without kanji in casual speech, with the kanji form reserved for more formal or written contexts #k #card
 ほんやく: 出来る (でき)
 て形: 出来て
 た形: 出来た
 ます形: 出来ます
 出す形 (start): 出来出す
 そう (looks): 出来そう
-お〜になる (honorific): お出来になる
+お〜になる/special verb (honorific):お出来になる
+謙譲語 (humble): お出来いたす／お出来します
 ない形: 出来ない
 なかった形: 出来なかった
 あれる形 (passive/honorific): 出来られる
@@ -1096,7 +1110,7 @@ bath #k #card
 
 
 
-to take a bath #k #card
+to take a bath | conceptualized as "entering" the bath, rather than "taking" something out of it #k #card
 風呂に入る（ふろ、はい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_呂.html">呂</a>
@@ -1105,15 +1119,16 @@ to take a bath #k #card
 
 
 
-kitchen #k #card
+kitchen | the traditional Japanese word for kitchen, as opposed to the modern loanword キッチン often used for Western-style kitchens #k #card
 台所 (だいどころ)
+お/ご (honorific): お台所(だいどころ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1775624991247-->
 
 
 
-long #k #card
+long | describes both physical length and duration of time, unlike 高い which covers height #k #card
 長い (なが)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1775624991248-->
@@ -1135,7 +1150,7 @@ long hair #k #card
 
 
 
-short #card
+short | the antonym of 長い, used for both short length and short duration #card
 短い (みじか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_短.html">短</a>
 <!--ID: 1775624991251-->
@@ -1173,7 +1188,7 @@ to express depth of feeling or emphasis (by women) = ne #card
 
 
 
-this movie is very interesting, isn't is? (particle used by women) #k #card
+This movie is very interesting, isn't it? (particle used by women) #k #card
 この映画はとても面白いわね
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
@@ -1183,7 +1198,7 @@ this movie is very interesting, isn't is? (particle used by women) #k #card
 
 
 
-You have so many books, right? particle used by women #k #card
+You have so many books, right? (particle used by women) #k #card
 たくさん本を持っているわね（も）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
@@ -1191,7 +1206,7 @@ You have so many books, right? particle used by women #k #card
 
 
 
-Please do your best. #card
+Please do your best. | a polite request form; dropping the polite ending softens it into a casual cheer among friends #card
 頑張ってください (がんば)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頑.html">頑</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_張.html">張</a>
@@ -1223,13 +1238,13 @@ I am going there. #k #card
 
 
 Take care (used when seeing someone off) + how to make polite #k #card
-行ってらっしゃい(＋あせ) (い) (often used with 行ってきます)
+行ってらっしゃい(＋ませ) (い) (often used with 行ってきます)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1775624991262-->
 
 
 
-On my days off i watch movie and learn Japanese and so on #k #card
+On my days off I watch a movie and learn Japanese and so on #k #card
 休みの日は、映画を見たり、日本語を勉強したり します
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1244,7 +1259,7 @@ On my days off i watch movie and learn Japanese and so on #k #card
 
 
 
-What do you often do after you come back home? B: I watch TV, do the homework, and read the comic books and so on. #k #card
+A: What do you often do after you come back home? B: I watch TV, do the homework, and read the comic books and so on. #k #card
 A: 家へ帰ってから、よく何をしていますか (いえ・かえ・なに) 、 B: テレビを見たり、宿題をしたり、漫画を読んだりしています (み・しゅくだい・まんが・よ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
@@ -1313,7 +1328,7 @@ I drove my car while singing. #k #card
 
 
 
-Last night, I danced while singing at Karaoke. #k #card
+Last night, I danced while singing at karaoke. #k #card
 きのうの晩、わたしはカラオケで歌いながら、ダンスしました (ばん・うた)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晩.html">晩</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
@@ -1394,7 +1409,7 @@ I often went to a park to see flowers when I was a student. #k #card
 
 
 
-I ate hamburgers after(when) I went to America #k #card
+I ate hamburgers after (when) I went to America #k #card
 アメリカへ行ったとき、ハンバーガーを食べました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
@@ -1432,7 +1447,7 @@ I ate hamburgers when I went to America #k #card
 
 
 
-what is your hobby? #k #card
+What is your hobby? #k #card
 ご趣味は何ですか（しゅみ、なん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_趣.html">趣</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
@@ -1449,7 +1464,7 @@ I am interested in sports #k #card
 <!--ID: 1775624991283-->
 
 My mom's hobby is cooking. #card
-母の趣味は料理を作ることです はは・しゅみ・りょうり・つく) 
+母の趣味は料理を作ることです (はは・しゅみ・りょうり・つく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_趣.html">趣</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
@@ -1459,8 +1474,8 @@ My mom's hobby is cooking. #card
 <!--ID: 1782937352695-->
 
 
-I will give my mom a cook book. #card
-母に料理の本をあげます。(はは・りょうり・ほん・)
+I will give my mom a cookbook. #card
+母に料理の本をあげます。(はは・りょうり・ほん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
@@ -1469,14 +1484,15 @@ I will give my mom a cook book. #card
 
 
 
-to hand over #card
+to hand over | emphasizes physically transferring an object hand-to-hand, unlike あげる which simply means "to give" #card
 ほんやく: 渡す (わた)
 て形: 渡して
 た形: 渡した
 ます形: 渡します
 出す形 (start): 渡し出す
 そう (looks): 渡しそう
-お〜になる (honorific): お渡しになる
+お〜になる/special verb (honorific):お渡しになる
+謙譲語 (humble): お渡しいたす／お渡しします
 ない形: 渡さない
 なかった形: 渡さなかった
 あれる形 (passive/honorific): 渡される
@@ -1490,7 +1506,7 @@ to hand over #card
 
 
 
-I handed over the letter to miss Ando. #k #card
+I handed over the letter to Miss Ando. #k #card
 アンドさんに手紙を渡しました(てがみ、わた)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
@@ -1500,7 +1516,7 @@ I handed over the letter to miss Ando. #k #card
 
 
 Please hand over the business materials to Mr. Yamada #k #card
-山田さんに仕事の資料を渡てください（しごと、しりょう、わた）
+山田さんに仕事の資料を渡してください（しごと、しりょう、わた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
@@ -1528,14 +1544,15 @@ to cross a bridge #card
 
 
 
-to cross/ go overseas by plane or boat #card
+to cross/ go overseas by plane or boat | used for crossing a boundary such as a river or border, or for traveling overseas across the sea #card
 ほんやく: 渡る (わた)
 て形: 渡って
 た形: 渡った
 ます形: 渡ります
 出す形 (start): 渡り出す
 そう (looks): 渡りそう
-お〜になる (honorific): お渡りになる
+お〜になる/special verb (honorific):お渡りになる
+謙譲語 (humble): お渡りいたす／お渡りします
 ない形: 渡らない
 なかった形: 渡らなかった
 あれる形 (passive/honorific): 渡られる
@@ -1559,7 +1576,7 @@ to go to China (by plane or boat) #k #card
 
 
 to go to America (by plane or boat) #card
-アメリカ(へ/に)渡る（ちゅうごく、わた）
+アメリカ(へ/に)渡る（わた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_渡.html">渡</a>
 <!--ID: 1775624991291-->
 
@@ -1571,7 +1588,7 @@ to be able to play soccer #card
 
 
 
-to be able to play png pong #card
+to be able to play ping pong #card
 卓球ができる（たっきゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_卓.html">卓</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_球.html">球</a>
@@ -1588,14 +1605,14 @@ to be unable to drive a car #k #card
 
 
 
-i can swim #card
+I can swim #card
 泳ぐことができる（およ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_泳.html">泳</a>
 <!--ID: 1775624991295-->
 
 
 
-younger sister can make lunch box #k #card
+younger sister can make a lunch box #k #card
 妹は弁当を作ることができます（いもうと、べんとう、つく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弁.html">弁</a>

@@ -463,6 +463,7 @@ verb #card
 
 form, type #card
 種類（ しゅるい）
+お/ご (honorific): ご種類(しゅるい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_種.html">種</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_類.html">類</a>
 <!--ID: 1761829305561-->
@@ -476,8 +477,8 @@ form, type #card
 
 辞書形　（じしょけい） – forma słownikowa (forma podstawowa czasownika)
 
-ます (forma uprzejma czasownika) #card
-ほんやく: ますけい（ます形） – forma 
+-masu form (polite verb form) #card
+ほんやく: ますけい（ます形）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_形.html">形</a>
 <!--ID: 1761829173430-->
 
@@ -487,7 +488,7 @@ form, type #card
 <!--ID: 1761829173435-->
 
 
- osaka castle #card
+ Osaka Castle #card
 ほんやく: 大阪城（おおさかじょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_阪.html">阪</a>
@@ -495,7 +496,7 @@ form, type #card
 <!--ID: 1761829173439-->
 
 
- amusement park #card
+ amusement park | a park with rides and attractions (like a theme park), distinct from a plain 公園 (こうえん), a general park #card
 ほんやく: 遊園地（ゆうえんち) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遊.html">遊</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_園.html">園</a>
@@ -503,21 +504,22 @@ form, type #card
 <!--ID: 1761829173443-->
 
 
- a business trip K #card
+ a business trip K | a temporary trip for work purposes (e.g. to a branch office or client), as opposed to 旅行 (りょこう), a leisure trip #card
 ほんやく: 出張（しゅっちょう）
+お/ご (honorific): ご出張(しゅっちょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_張.html">張</a>
 <!--ID: 1761829173447-->
 
 
- to go on a business trip K #card
+ to go on a business trip K | describes actually undertaking a business trip, often followed by a destination marked with に or へ #card
 ほんやく: 出張する（しゅっちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_張.html">張</a>
 <!--ID: 1761829173451-->
 
 
- go to a business trip abroad #card
+ to go on a business trip abroad #card
 ほんやく: 海外に出張する（かいがい、しゅっちょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
@@ -526,7 +528,7 @@ form, type #card
 <!--ID: 1761829173455-->
 
 
- go to Kyoto on business trip #card
+ to go to Kyoto on a business trip #card
 ほんやく: 京都に出張する（きょうと、しゅっちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
@@ -535,7 +537,7 @@ form, type #card
 <!--ID: 1761829173459-->
 
 
- souvenir #card
+ souvenir | a gift bought while traveling to bring back for others, distinct from プレゼント, a general gift #card
 ほんやく: おみやげ 
 <!--ID: 1761829173463-->
 
@@ -552,7 +554,7 @@ form, type #card
 <!--ID: 1761829173472-->
 
 
- i got little tired #card
+ I got a little tired #card
 ほんやく: ちょっと疲れました（つか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_疲.html">疲</a>
 <!--ID: 1761829173476-->
@@ -566,28 +568,28 @@ form, type #card
 <!--ID: 1761829173480-->
 
 
- see you tommorow, thank you for your hard work (after work, businness meeting) #card
+ thank you for your hard work (said when leaving work or after a meeting) #card
 ほんやく: お疲れ様でした（つか,さま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_疲.html">疲</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_様.html">様</a>
 <!--ID: 1761829173484-->
 
 
- thank you for your work, w trakcie pracy przy powitaniu #card
+ thank you for your work (said as a greeting during work, e.g. passing colleagues) #card
 ほんやく: お疲れ様です（つか、さま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_疲.html">疲</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_様.html">様</a>
 <!--ID: 1761829173488-->
 
 
- branch office #card
+ branch office | a company's branch office in another city, as opposed to 本社 (ほんしゃ), the head office #card
 ほんやく: 支社（ししゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_支.html">支</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1761829173492-->
 
 
- return to tokio #card
+ return to Tokyo #card
 ほんやく: 東京に戻る（とうきょう、もど）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
@@ -595,7 +597,7 @@ form, type #card
 <!--ID: 1761829173497-->
 
 
- return to osaka #card
+ return to Osaka #card
 ほんやく: 大阪に戻る（おおさか、もど）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_阪.html">阪</a>
@@ -603,7 +605,7 @@ form, type #card
 <!--ID: 1761829173501-->
 
 
- return to office #card
+ return to the office #card
 ほんやく: 会社に戻る（かいしゃ、もど）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -611,7 +613,7 @@ form, type #card
 <!--ID: 1761829173505-->
 
 
- chinese (style) cousine #card
+ Chinese (style) cuisine #card
 ほんやく: 中華料理（ちゅうかりょうり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_華.html">華</a>
@@ -620,20 +622,21 @@ form, type #card
 <!--ID: 1761829173510-->
 
 
- meal #card
+ meal | literally means cooked rice, but commonly used to mean a meal in general (e.g. 朝ご飯, breakfast) #card
 ほんやく: ご飯（はん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <!--ID: 1761829173514-->
 
 
- alcohol #card
+ alcohol | polite/general term for alcoholic drinks, especially traditional Japanese rice wine, though used broadly in casual speech #card
 ほんやく: お酒（さけ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_酒.html">酒</a>
 <!--ID: 1761829173518-->
 
 
- cooking (noun) #card
+ cooking (noun) | refers to a prepared dish or the act of cooking, often used in compounds like 中華料理, Chinese cuisine #card
 ほんやく: 料理（りょうり）
+お/ご (honorific): お料理(りょうり)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <!--ID: 1761829173521-->
@@ -645,7 +648,7 @@ form, type #card
 <!--ID: 1761829173525-->
 
 
- to borrow a book (from smb) #card
+ to borrow a book (from someone) #card
 ほんやく: 本を借りる（か) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
@@ -657,12 +660,12 @@ form, type #card
 <!--ID: 1761829173534-->
 
 
- im afraid that..., unfortunately #card
+ I'm afraid that..., unfortunately #card
 ほんやく: ざんねんですが 
 <!--ID: 1761829173538-->
 
 
- Unfortunately, i have a meeting today #card
+ Unfortunately, I have a meeting today #card
 ほんやく: ざんねんですが、今日　会議があります（かいぎ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -676,7 +679,7 @@ form, type #card
 <!--ID: 1761829173545-->
 
 
- this/next time, in near future #card
+ this/next time, in near future | flexible time word meaning "this coming time" or "the next occasion", context-dependent; differs from 次 (つぎ), which strictly means "next" in a sequence #card
 ほんやく: 今度（こんど) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
@@ -692,7 +695,7 @@ form, type #card
 <!--ID: 1761829173554-->
 
 
- next sunday #card
+ next Sunday #card
 ほんやく: 今度の日曜日（こんど、にちようび）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
@@ -708,6 +711,7 @@ form, type #card
 
  miso soup #card
 ほんやく: 味噌汁（みそしる）
+お/ご (honorific): お味噌汁(みそしる)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_噌.html">噌</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_汁.html">汁</a>
@@ -719,14 +723,16 @@ form, type #card
 <!--ID: 1761829173567-->
 
 
-  deep fried fish and vegetables K #card
+  deep-fried fish and vegetables K #card
 ほんやく: 天ぷら（てんぷら）
+お/ご (honorific): お天ぷら(てんぷら)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <!--ID: 1761829173570-->
 
 
- trip #card
+ trip | travel for leisure, contrasted with 出張 (しゅっちょう), a trip for work purposes #card
 ほんやく: 旅行（りょこう）
+お/ご (honorific): ご旅行(りょこう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1761829173573-->
@@ -742,12 +748,12 @@ form, type #card
 
 
 
- again #card
+ again | indicates repeating an action once more, and can also imply doing something in addition #card
 ほんやく: また 
 <!--ID: 1761829173578-->
 
 
- Today i went to school, tommorow I'll go again #card
+ Today I went to school, tomorrow I'll go again #card
 ほんやく: 今日は私は学校に行きました、明日また行きます 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -759,7 +765,7 @@ form, type #card
 <!--ID: 1761829173582-->
 
 
- i went on business trip yesterday, I have again businnes trip tommorow #card
+ I went on a business trip yesterday; I have another business trip tomorrow #card
 ほんやく: 昨日出張がありました、明日はまた出張があります（きのう、しゅっちょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -769,7 +775,7 @@ form, type #card
 <!--ID: 1761829173584-->
 
 
- absent from work #card
+ absent from work | literally "to rest from work", used for taking a day off or being away due to illness etc. #card
 ほんやく: 仕事を休む（やすむ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
@@ -778,7 +784,7 @@ form, type #card
 
 
  absent from school #card
-ほんやく: 学校を休む（学校をやすむ) 
+ほんやく: 学校を休む（がっこう、やすむ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
@@ -801,7 +807,7 @@ form, type #card
 <!--ID: 1761829173598-->
 
 
- how was business trip in osaka? #card
+ how was the business trip in Osaka? #card
 ほんやく: おおさかの出張いかがでしたか（しゅっちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_張.html">張</a>
@@ -822,17 +828,17 @@ form, type #card
 <!--ID: 1761829173606-->
 
 
- its a little difficult (euphemistic way of declining an invitation) #card
+ it's a little difficult (euphemistic way of declining an invitation) #card
 ほんやく: ちょっと... 
 <!--ID: 1761829173609-->
 
 
- im afraid that, im sorry but #card
+ I'm afraid that, I'm sorry but #card
 ほんやく: ざんねんですが。。。
 <!--ID: 1761829173614-->
 
 
- Would you like to go out to the cinema with me tonight? 2. sounds good! #card
+ Would you like to go out to the cinema with me tonight? 2. Sounds good! #card
 ほんやく: 今晩、いっしょに映画館に行きますか（こんばん、えいがかん) 2. いいですね 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晩.html">晩</a>
@@ -843,7 +849,7 @@ form, type #card
 <!--ID: 1761829173616-->
 
 
- do you have time tonight? 2. aa, its a little bit difficult tonight #card
+ do you have time tonight? 2. aa, it's a little bit difficult tonight #card
 ほんやく: 今晩、お時間はありますか(こんばん) 2. ああ、今晩ちょっと。。。 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晩.html">晩</a>
@@ -864,12 +870,12 @@ form, type #card
 <!--ID: 1761829173625-->
 
 
- lets go together #card
+ let's go together #card
 ほんやく: いっしょにいきましょう 
 <!--ID: 1761829173628-->
 
 
- my and my younger brother's school is the same (nie onaji #card
+ My school and my younger brother's school are the same #card
 ほんやく: 私の学校は弟の学校　と　いっしょです 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -881,14 +887,14 @@ form, type #card
 
 よく**考（かんが）えて**ください。– Proszę dobrze się zastanowić.
 
- to clean #card
+ to clean | combines the noun 掃除 (cleaning) with する; contrasts with 洗う (あらう), which specifically means to wash something #card
 ほんやく: 掃除する（そうじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_掃.html">掃</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_除.html">除</a>
 <!--ID: 1761829173636-->
 
 
- to make a phone call #card
+ to make a phone call | combines 電話 (telephone) with する; casual speech sometimes drops する and treats 電話 as a verb-like noun #card
 ほんやく: 電話する（でんわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
@@ -903,13 +909,14 @@ form, type #card
 <!--ID: 1761829173643-->
 
 
- kontaktowac się, powiadomić, dać znać  #card
+ to contact, to notify, to let someone know | verb form used for reaching out or informing someone, often in work contexts #card
 ほんやく: れんらくする 
 <!--ID: 1761829173648-->
 
 
- kontakt, wiadomośc, powiadomienie #card
+ contact, message, notification | refers to getting in touch or a notice, often used in phrases like 連絡する (to contact) or ご連絡 (a polite notice) #card
 ほんやく: 連絡（れんらく）
+お/ご (honorific): ご連絡(れんらく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_連.html">連</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_絡.html">絡</a>
 <!--ID: 1761829173651-->
@@ -924,14 +931,14 @@ Contact the manager #card
 <!--ID: 1761829173654-->
 
 
-Wychodzę teraz (np. z domu). #card
+I'm heading out now (e.g. from home). #card
 今（いま）から**出（で）かけます**
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1761829257570-->
 
 
-Wyszedłem z przyjacielem (gdzieś). #card
+I went out with a friend (somewhere). #card
 友達（ともだち）と**出（で）かけました**
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
@@ -939,14 +946,14 @@ Wyszedłem z przyjacielem (gdzieś). #card
 <!--ID: 1761829257573-->
 
 
-Mama już wyszła. #card
+Mom has already gone out. #card
  母（はは）はもう**出（で）かけています**
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1761829257576-->
 
 
- i go back to the company #card
+ I go back to the company #card
 ほんやく: 会社へ戻ります（もど）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -954,7 +961,7 @@ Mama już wyszła. #card
 <!--ID: 1761829173658-->
 
 
- i will go to school the day after tomorrow #card
+ I will go to school the day after tomorrow #card
 ほんやく: 明後日（あさって）学校に行きます 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_後.html">後</a>
@@ -965,14 +972,14 @@ Mama już wyszła. #card
 <!--ID: 1761829173662-->
 
 
- i will get married next month #card
+ I will get married next month #card
 ほんやく: 来月　けっこんします 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <!--ID: 1761829173665-->
 
 
- i went to amusement park in the afternoon #card
+ I went to the amusement park in the afternoon #card
 ほんやく: 昼（に）ゆうえんちに行きました（ひる） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昼.html">昼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -986,22 +993,22 @@ Mama już wyszła. #card
 <!--ID: 1761829173670-->
 
 
- i ate miso soup and sushi this morning #card
-ほんやく: 今朝みそしろ と すしを食べました 
+ I ate miso soup and sushi this morning #card
+ほんやく: 今朝みそしる と すしを食べました 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1761829173673-->
 
 
- ms Ando borrows a book #card
+ Ms. Ando borrows a book #card
 ほんやく: アンドさんは　本を借ります（か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <!--ID: 1761829173678-->
 
 
- leave the compay #card
+ leave the company #card
 ほんやく: 会社を出る（で） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -1009,14 +1016,14 @@ Mama już wyszła. #card
 <!--ID: 1761829173683-->
 
 
- leave Tokio #card
+ leave Tokyo #card
 ほんやく: 東京をはなれる 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <!--ID: 1761829173685-->
 
 
- leave  #card
+ leave | to leave or distance oneself, often for a long time, physically or emotionally; broader than 出る (でる), which simply means to exit or go out #card
 ほんやく: はなれる 
 <!--ID: 1761829173690-->
 
@@ -1034,14 +1041,14 @@ Mama już wyszła. #card
 <!--ID: 1761829173698-->
 
 
- do a job #card
+ to do one's work/job #card
 ほんやく: 仕事をします 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1761829173701-->
 
 
- What are you going to do next saturday? #card
+ What are you going to do next Saturday? #card
 ほんやく: 来週の土曜日、何をしますか（らいしゅう、どようび）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
@@ -1052,7 +1059,7 @@ Mama już wyszła. #card
 <!--ID: 1761829173704-->
 
 
- What did you do on your day off? #card
+ What did you do on the public holiday? #card
 ほんやく: 祝日、何をしました（しゅくじつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_祝.html">祝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1066,7 +1073,8 @@ to get tired #card
 ます形: つかれます  
 出す形 (start): つかれ出す  
 そう (looks): つかれそう  
-お〜になる (honorific): おつかれになる  
+お〜になる/special verb (honorific):おつかれになる  
+謙譲語 (humble): おつかれいたす／おつかれします  
 ない形: つかれない  
 なかった形: つかれなかった  
 あれる形 (passive/honorific): つかれられる  
@@ -1079,14 +1087,15 @@ to get tired #card
 <!--ID: 1761829173710-->
 
 
-to play #card
+to play | can mean to play (children) or to hang out/have fun socially (adults going out with friends) #card
 ほんやく: 遊ぶ（あそぶ）  
 て形: あそんで  
 た形: あそんだ  
 ます形: あそびます  
 出す形 (start): あそび出す  
 そう (looks): あそびそう  
-お〜になる (honorific): おあそびになる  
+お〜になる/special verb (honorific):おあそびになる  
+謙譲語 (humble): おあそびいたす／おあそびします  
 ない形: あそばない  
 なかった形: あそばなかった  
 あれる形 (passive/honorific): あそばれる  
@@ -1099,14 +1108,15 @@ to play #card
 <!--ID: 1761829173712-->
 
 
-to return, to come back, back, undo #card
+to return, to go back | to return to a place or original state, often paired with a location + に/へ #card
 ほんやく: 戻る（もど）  
 て形: もどって  
 た形: もどった  
 ます形: もどります  
 出す形 (start): もどり出す  
 そう (looks): もどりそう  
-お〜になる (honorific): おもどりになる  
+お〜になる/special verb (honorific):おもどりになる  
+謙譲語 (humble): おもどりいたす／おもどりします  
 ない形: もどらない  
 なかった形: もどらなかった  
 あれる形 (passive/honorific): もどられる  
@@ -1119,14 +1129,15 @@ to return, to come back, back, undo #card
 <!--ID: 1761829173715-->
 
 
-to teach #card
+to teach | to instruct someone in something, or to tell/inform someone of something (e.g. directions); contrasts with 習う, to learn/be taught #card
 ほんやく: 教える（おし）  
 て形: おしえて  
 た形: おしえた  
 ます形: おしえます  
 出す形 (start): おしえ出す  
 そう (looks): おしえそう  
-お〜になる (honorific): おおしえになる  
+お〜になる/special verb (honorific):おおしえになる  
+謙譲語 (humble): おおしえいたす／おおしえします  
 ない形: おしえない  
 なかった形: おしえなかった  
 あれる形 (passive/honorific): おしえられる  
@@ -1139,14 +1150,15 @@ to teach #card
 <!--ID: 1761829173717-->
 
 
-to learn #card
+to learn | to learn a skill through instruction or practice (e.g. lessons); differs from 覚える, to memorize or commit to memory #card
 ほんやく: 習う（なら）  
 て形: ならって  
 た形: ならった  
 ます形: ならいます  
 出す形 (start): ならい出す  
 そう (looks): ならいそう  
-お〜になる (honorific): おならいになる  
+お〜になる/special verb (honorific):おならいになる  
+謙譲語 (humble): おならいいたす／おならいします  
 ない形: ならわない  
 なかった形: ならわなかった  
 あれる形 (passive/honorific): ならわれる  
@@ -1166,7 +1178,8 @@ to lend (to somebody) #card
 ます形: かします  
 出す形 (start): かし出す  
 そう (looks): かしそう  
-お〜になる (honorific): おかしになる  
+お〜になる/special verb (honorific):おかしになる  
+謙譲語 (humble): おかしいたす／おかしします  
 ない形: かさない  
 なかった形: かさなかった  
 あれる形 (passive/honorific): かされる  
@@ -1186,7 +1199,8 @@ to borrow (from somebody) #card
 ます形: かります  
 出す形 (start): かり出す  
 そう (looks): かりそう  
-お〜になる (honorific): おかりになる  
+お〜になる/special verb (honorific):おかりになる  
+謙譲語 (humble): 拝借(はいしゃく)する  
 ない形: かりない  
 なかった形: かりなかった  
 あれる形 (passive/honorific): かりられる  
@@ -1206,7 +1220,8 @@ to run #card
 ます形: はしります  
 出す形 (start): はしり出す  
 そう (looks): はしりそう  
-お〜になる (honorific): おはしりになる  
+お〜になる/special verb (honorific):おはしりになる  
+謙譲語 (humble): おはしりいたす／おはしりします  
 ない形: はしらない  
 なかった形: はしらなかった  
 あれる形 (passive/honorific): はしられる  
@@ -1226,7 +1241,8 @@ to walk #card
 ます形: あるきます  
 出す形 (start): あるき出す  
 そう (looks): あるきそう  
-お〜になる (honorific): おあるきになる  
+お〜になる/special verb (honorific):おあるきになる  
+謙譲語 (humble): おあるきいたす／おあるきします  
 ない形: あるかない  
 なかった形: あるかなかった  
 あれる形 (passive/honorific): あるかれる  
@@ -1239,14 +1255,15 @@ to walk #card
 <!--ID: 1761829173731-->
 
 
-a walk/a stroll(spacer) #card
+a walk / a stroll #card
 ほんやく: 散歩（さんぽ）  
 て形: さんぽして  
 た形: さんぽした  
 ます形: さんぽします  
 出す形 (start): さんぽし出す  
 そう (looks): さんぽしそう  
-お〜になる (honorific): おさんぽしになる  
+お〜になる/special verb (honorific):おさんぽになる  
+謙譲語 (humble): おさんぽいたす／おさんぽします  
 ない形: さんぽしない  
 なかった形: さんぽしなかった  
 あれる形 (passive/honorific): さんぽされる  
@@ -1267,7 +1284,8 @@ to write #card
 ます形: かきます  
 出す形 (start): かき出す  
 そう (looks): かきそう  
-お〜になる (honorific): おかきになる  
+お〜になる/special verb (honorific):おかきになる  
+謙譲語 (humble): おかきいたす／おかきします  
 ない形: かかない  
 なかった形: かかなかった  
 あれる形 (passive/honorific): かかれる  
@@ -1287,7 +1305,8 @@ to open #card
 ます形: あけます  
 出す形 (start): あけ出す  
 そう (looks): あけそう  
-お〜になる (honorific): おあけになる  
+お〜になる/special verb (honorific):おあけになる  
+謙譲語 (humble): おあけいたす／おあけします  
 ない形: あけない  
 なかった形: あけなかった  
 あれる形 (passive/honorific): あけられる  
@@ -1307,7 +1326,8 @@ to meet #card
 ます形: あいます  
 出す形 (start): あい出す  
 そう (looks): あいそう  
-お〜になる (honorific): おあいになる  
+お〜になる/special verb (honorific):おあいになる  
+謙譲語 (humble): お目にかかる  
 ない形: あわない  
 なかった形: あわなかった  
 あれる形 (passive/honorific): あわれる  
@@ -1327,7 +1347,8 @@ to wash #card
 ます形: あらいます  
 出す形 (start): あらい出す  
 そう (looks): あらいそう  
-お〜になる (honorific): おあらいになる  
+お〜になる/special verb (honorific):おあらいになる  
+謙譲語 (humble): おあらいいたす／おあらいします  
 ない形: あらわない  
 なかった形: あらわなかった  
 あれる形 (passive/honorific): あらわれる  
@@ -1340,14 +1361,15 @@ to wash #card
 <!--ID: 1761829173744-->
 
 
-to send #card
+to send | primarily means to send (mail, data), but can also mean to see someone off or walk them home, depending on context #card
 ほんやく: 送る（おく）  
 て形: おくって  
 た形: おくった  
 ます形: おくります  
 出す形 (start): おくり出す  
 そう (looks): おくりそう  
-お〜になる (honorific): おおくりになる  
+お〜になる/special verb (honorific):おおくりになる  
+謙譲語 (humble): おおくりいたす／おおくりします  
 ない形: おくらない  
 なかった形: おくらなかった  
 あれる形 (passive/honorific): おくられる  
@@ -1367,7 +1389,8 @@ to finish #card
 ます形: おわります  
 出す形 (start): おわり出す  
 そう (looks): おわりそう  
-お〜になる (honorific): おおわりになる  
+お〜になる/special verb (honorific):おおわりになる  
+謙譲語 (humble): おおわりいたす／おおわりします  
 ない形: おわらない  
 なかった形: おわらなかった  
 あれる形 (passive/honorific): おわられる  
@@ -1387,7 +1410,8 @@ to win #card
 ます形: かちます  
 出す形 (start): かち出す  
 そう (looks): かちそう  
-お〜になる (honorific): おかちになる  
+お〜になる/special verb (honorific):おかちになる  
+謙譲語 (humble): おかちいたす／おかちします  
 ない形: かたない  
 なかった形: かたなかった  
 あれる形 (passive/honorific): かたれる  
@@ -1407,7 +1431,8 @@ to sit #card
 ます形: すわります  
 出す形 (start): すわり出す  
 そう (looks): すわりそう  
-お〜になる (honorific): おすわりになる  
+お〜になる/special verb (honorific):おすわりになる  
+謙譲語 (humble): おすわりいたす／おすわりします  
 ない形: すわらない  
 なかった形: すわらなかった  
 あれる形 (passive/honorific): すわられる  
@@ -1420,14 +1445,15 @@ to sit #card
 <!--ID: 1761829173761-->
 
 
-to remember #card
+to remember | often means to memorize or commit something to memory (like vocabulary), not just to recall it #card
 ほんやく: 覚える（おぼ）  
 て形: おぼえて  
 た形: おぼえた  
 ます形: おぼえます  
 出す形 (start): おぼえ出す  
 そう (looks): おぼえそう  
-お〜になる (honorific): おおぼえになる  
+お〜になる/special verb (honorific):おおぼえになる  
+謙譲語 (humble): おおぼえいたす／おおぼえします  
 ない形: おぼえない  
 なかった形: おぼえなかった  
 あれる形 (passive/honorific): おぼえられる  
@@ -1440,14 +1466,15 @@ to remember #card
 <!--ID: 1761829173764-->
 
 
-to think, zastanawiac, rozwazac, analizowac #card
+to think, to consider, to ponder | analytical, logical thinking about something, e.g. weighing options; contrasts with 思う (おもう), which is more about feeling or opinion #card
 ほんやく: 考える（かんがえる）  
 て形: かんがえて  
 た形: かんがえた  
 ます形: かんがえます  
 出す形 (start): かんがえ出す  
 そう (looks): かんがえそう  
-お〜になる (honorific): おかんがえになる  
+お〜になる/special verb (honorific):おかんがえになる  
+謙譲語 (humble): おかんがえいたす／おかんがえします  
 ない形: かんがえない  
 なかった形: かんがえなかった  
 あれる形 (passive/honorific): かんがえられる  
@@ -1460,14 +1487,15 @@ to think, zastanawiac, rozwazac, analizowac #card
 <!--ID: 1761829173767-->
 
 
-to think, sądzic bardziej uczuciowo #card
+to think, to feel, to believe | expresses a subjective feeling, opinion, or belief; more emotional/personal than 考える, which involves logical thought #card
 ほんやく: 思う（おもう）  
 て形: おもって  
 た形: おもった  
 ます形: おもいます  
 出す形 (start): おもい出す  
 そう (looks): おもいそう  
-お〜になる (honorific): おおもいになる  
+お〜になる/special verb (honorific):おおもいになる  
+謙譲語 (humble): おおもいいたす／おおもいします  
 ない形: おもわない  
 なかった形: おもわなかった  
 あれる形 (passive/honorific): おもわれる  
@@ -1480,14 +1508,15 @@ to think, sądzic bardziej uczuciowo #card
 <!--ID: 1761829173770-->
 
 
-to go out #card
+to go out | means to exit or leave a place (e.g. a room, building); simpler and more literal than 出かける, which implies heading out somewhere with a purpose #card
 ほんやく: 出る（で）  
 て形: でて  
 た形: でた  
 ます形: でます  
 出す形 (start): で出す  
 そう (looks): でそう  
-お〜になる (honorific): おでになる  
+お〜になる/special verb (honorific):-  
+謙譲語 (humble): -  
 ない形: でない  
 なかった形: でなかった  
 あれる形 (passive/honorific): でられる  
@@ -1500,14 +1529,15 @@ to go out #card
 <!--ID: 1761829173774-->
 
 
-to put on(clothes) #card
+to put on (clothes) | specifically for clothing worn on the torso (shirts, jackets); different from はく, used for things worn on the legs/feet (pants, shoes) #card
 ほんやく: 着る（き）  
 て形: きて  
 た形: きた  
 ます形: きます  
 出す形 (start): き出す  
 そう (looks): きそう  
-お〜になる (honorific): おきになる  
+お〜になる/special verb (honorific):お召(め)しになる  
+謙譲語 (humble): -  
 ない形: きない  
 なかった形: きなかった  
 あれる形 (passive/honorific): きられる  
@@ -1527,7 +1557,8 @@ to sleep #card
 ます形: ねます  
 出す形 (start): ね出す  
 そう (looks): ねそう  
-お〜になる (honorific): おねになる  
+お〜になる/special verb (honorific):お休(やす)みになる  
+謙譲語 (humble): -  
 ない形: ねない  
 なかった形: ねなかった  
 あれる形 (passive/honorific): ねられる  
@@ -1547,7 +1578,8 @@ to come #card
 ます形: きます  
 出す形 (start): き出す  
 そう (looks): きそう  
-お〜になる (honorific): おいでになる  
+お〜になる/special verb (honorific):おいでになる  
+謙譲語 (humble): 参る  
 ない形: こない  
 なかった形: こなかった  
 あれる形 (passive/honorific): こられる  
@@ -1560,14 +1592,15 @@ to come #card
 <!--ID: 1761829173783-->
 
 
-to go out (when u say why, ze jestes w drodze) #card
+to go out, to head out (used when saying you're on your way somewhere) #card
 ほんやく: 出かける（で）  
 て形: でかけて  
 た形: でかけた  
 ます形: でかけます  
 出す形 (start): でかけ出す  
 そう (looks): でかけそう  
-お〜になる (honorific): おでかけになる  
+お〜になる/special verb (honorific):おでかけになる  
+謙譲語 (humble): おでかけいたす／おでかけします  
 ない形: でかけない  
 なかった形: でかけなかった  
 あれる形 (passive/honorific): でかけられる  
@@ -1587,7 +1620,8 @@ to enter #card
 ます形: はいります  
 出す形 (start): はいり出す  
 そう (looks): はいりそう  
-お〜になる (honorific): おはいりになる  
+お〜になる/special verb (honorific):おはいりになる  
+謙譲語 (humble): おはいりいたす／おはいりします  
 ない形: はいらない  
 なかった形: はいらなかった  
 あれる形 (passive/honorific): はいられる  
@@ -1600,14 +1634,15 @@ to enter #card
 <!--ID: 1761829173789-->
 
 
-to need #card
+to need | written in kana only (no common kanji); distinct from the ichidan verb いる meaning "to exist" (for people/animals), which conjugates differently #card
 ほんやく: いる  
 て形: いって  
 た形: いった  
 ます形: いります  
 出す形 (start): いり出す  
 そう (looks): いりそう  
-お〜になる (honorific): おいりになる  
+お〜になる/special verb (honorific):おいりになる  
+謙譲語 (humble): おいりいたす／おいりします  
 ない形: いらない  
 なかった形: いらなかった  
 あれる形 (passive/honorific): いられる  
@@ -1626,7 +1661,8 @@ to cut #card
 ます形: きります  
 出す形 (start): きり出す  
 そう (looks): きりそう  
-お〜になる (honorific): おきりになる  
+お〜になる/special verb (honorific):おきりになる  
+謙譲語 (humble): おきりいたす／おきりします  
 ない形: きらない  
 なかった形: きらなかった  
 あれる形 (passive/honorific): きられる  
@@ -1646,7 +1682,8 @@ to run #card
 ます形: はしります  
 出す形 (start): はしり出す  
 そう (looks): はしりそう  
-お〜になる (honorific): おはしりになる  
+お〜になる/special verb (honorific):おはしりになる  
+謙譲語 (humble): おはしりいたす／おはしりします  
 ない形: はしらない  
 なかった形: はしらなかった  
 あれる形 (passive/honorific): はしられる  
@@ -1659,14 +1696,15 @@ to run #card
 <!--ID: 1768451605978-->
 
 
-to know #card
+to know | means to come to know or find out (a change of state), rather than to already possess knowledge; contrasts with 分かる (わかる), to understand #card
 ほんやく: 知る（し）  
 て形: しって  
 た形: しった  
 ます形: しります  
 出す形 (start): しり出す  
 そう (looks): しりそう  
-お〜になる (honorific): おしりになる  
+お〜になる/special verb (honorific):おしりになる  
+謙譲語 (humble): おしりいたす／おしりします  
 ない形: しらない  
 なかった形: しらなかった  
 あれる形 (passive/honorific): しられる  
@@ -1684,7 +1722,7 @@ to know #card
  Przymiotniki:
 
  
-no good/no use/impossible #card
+no good/no use/impossible | a casual, blunt way of saying something is not permitted or won't work #card
 ほんやく: だめ（な）  
 そう (looks): だめそう  
 過去形: —  
@@ -1694,7 +1732,7 @@ no good/no use/impossible #card
 
 
 
-regret/pity (żal/litość) #card
+regret/pity | expresses disappointment about an unfortunate situation, often used to soften bad news or express sympathy #card
 ほんやく: ざんねん（な）  
 そう (looks): ざんねんそう  
 過去形: —  
@@ -1704,7 +1742,7 @@ regret/pity (żal/litość) #card
 
 
 
-satisfactory/smooth (zadowalający/gładki) #card
+satisfactory/smooth | describes things (work, progress, health) proceeding smoothly without problems, often used when reporting status #card
 ほんやく: 順調（な）（じゅんちょう）  
 そう (looks): 順調そう  
 過去形: —  

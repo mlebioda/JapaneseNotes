@@ -26,6 +26,7 @@ Both `.cowork/skills/fill-templates.md` and `.cowork/skills/templates-update.md`
 出す形 (start): [value]
 そう (looks): [value]
 お〜になる/special verb (honorific): [value]
+謙譲語 (humble): [value]
 ない形: [value]
 なかった形: [value]
 あれる形 (passive/honorific):  [value]
@@ -39,7 +40,7 @@ Both `.cowork/skills/fill-templates.md` and `.cowork/skills/templates-update.md`
 ```
 
 Notes:
-- The 14 form lines appear in the exact order above.
+- The 15 form lines appear in the exact order above.
 - One `<a href>` line per unique CJK kanji in the `ほんやく:` value (furigana stripped).
 - `<!--ID: ...-->` is the last non-blank line of the block, after all links.
 - Suru verbs (`する` in ほんやく: value) have no form lines — block ends at ほんやく: line.

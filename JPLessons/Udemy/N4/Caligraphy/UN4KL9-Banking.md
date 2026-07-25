@@ -101,8 +101,8 @@ Little birds (隹) gather in a tree (木) to rest together.
 **(か)　(かし)**
 #wc 貸す（かす）- lend (to smone)
 
-#w 貸金/貸し金（かしきん）- loan (2 writtings) (only money)
-#w 貸家/貸し家（かしや）- rental house (2 writtings) (some one rents you)
+#w 貸金/貸し金（かしきん）- loan (2 writings) (only money)
+#w 貸家/貸し家（かしや）- rental house (2 writings) (some one rents you)
 
 #w 私は貸し家に住んでいます（かしや、す）- I livee in a rental house
 #w 日曜日に車を貸してください（か）- Please, lend me car on sunday
@@ -206,13 +206,13 @@ walk to temple and wait for me
 
  Rzeczowniki:
 
- bank #card
+ bank | the standard word for a bank #card
 ほんやく: 銀行（ぎんこう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1746388496471-->
 
- silver #card
+ silver | refers to the color silver #card
 ほんやく: 銀色（ぎんいろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
@@ -237,7 +237,7 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1746388496480-->
 
- My elder brothe is the manager of this bank #card
+ My elder brother is the manager of this bank #card
 ほんやく: 兄はこの銀行の店長です（あに、ぎんこう、てんちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
@@ -260,7 +260,7 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388496486-->
 
- This door doesn't open (yo know) #card
+ This door doesn't open (you know) #card
 ほんやく: このドアを開きませんよ（ひら）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388496488-->
@@ -283,7 +283,7 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388496494-->
 
- Is this shop open on sundays too? #card
+ Is this shop open on Sundays too? #card
 ほんやく: この店は日曜日も開いていますか（あ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -291,13 +291,14 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388496496-->
 
- store opening (but also bussines for the customers, like bank,) #card
+ store opening (but also business for the customers, like a bank) #card
 ほんやく: 開店（かいてん）
+お/ご (honorific): ご開店（かいてん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <!--ID: 1746388496498-->
 
- school opening #card
+ school opening | refers to the (re)opening of a school, e.g. after a break or founding #card
 ほんやく: 開校（かいこう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
@@ -313,7 +314,7 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <!--ID: 1746388496502-->
 
- oneself (formal) #card
+ oneself (formal) | a formal, literary word for "oneself," used in writing rather than casual speech #card
 ほんやく: 自ら（みずか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <!--ID: 1746388496504-->
@@ -323,25 +324,26 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <!--ID: 1746388496506-->
 
- oneself #card
+ oneself | the everyday, common word for oneself #card
 ほんやく: 自分（じぶん）
+お/ご (honorific): ご自分（じぶん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
 <!--ID: 1746388496508-->
 
- the company you work for #card
+ the company you work for | refers to one's own company, as opposed to another company #card
 ほんやく: 自社（じしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1746388496510-->
 
- is this an automatic door? #card
+ Is this an automatic door? #card
 ほんやく: これは自動ドアですか (じどう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1746388496512-->
 
- Is this car (automobile) a japanese car? #card
+ Is this car (automobile) a Japanese car? #card
 ほんやく: この自動車は日本の車ですか（じどうしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
@@ -356,38 +358,38 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1746388496516-->
 
- automobile #card
-ほんやく: 自動車（自動車) 
+ automobile | a more formal/technical word for car #card
+ほんやく: 自動車（じどうしゃ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <!--ID: 1746388496518-->
 
-  automatic door  #card
+ automatic door | refers specifically to a door that opens automatically #card
 ほんやく: 自動ドア（じどう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1746388496519-->
 
- station attendant/pracownik #card
+ station attendant | refers to staff who work at a train station #card
 ほんやく: 駅員（えきいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1746388496521-->
 
- station master #card
+ station master | the job title for the person in charge of a station #card
 ほんやく: 駅長（えきちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1746388496523-->
 
- station square/plac, near/front of  #card
+ the area in front of the station | station square, plac #card
 ほんやく: 駅前（えきまえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
 <!--ID: 1746388496525-->
 
- I'll go to the bank at hte front of the station #card
+ I'll go to the bank at the front of the station #card
 ほんやく: 駅前の銀行に行きます（えきまえ、ぎんこう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
@@ -395,7 +397,7 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1746388496528-->
 
- Everyday, I go from the station to company #card
+ Every day, I walk from the station to the office #card
 ほんやく: 毎日、駅から会社まで歩きます（あ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -405,14 +407,14 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <!--ID: 1746388496530-->
 
- gather members(zbierać) #card
+ gather members #card
 ほんやく: 会員を集める（かいいん、あつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1746388496532-->
 
- gather at school/zebrać się w szkole #card
+ gather at school #card
 ほんやく: 学校に集まる（あつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
@@ -430,19 +432,20 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1746388496536-->
 
- money collection #card
+ money collection | refers to the act/job of collecting payments #card
 ほんやく: 集金（しゅうきん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1746388496538-->
 
- assembly(złożyć) , gather in specific place #card
+ assembly | describes people gathering together at a designated place #card
 ほんやく: 集合（しゅうごう）
+お/ご (honorific): ご集合（しゅうごう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1746388496540-->
 
- My yopunger brother is working in a bank to collect money #card
+ My younger brother is working in a bank to collect money #card
 ほんやく: 弟は銀行で集金の仕事をしています（おとうと、ぎんこう、しゅうきん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
@@ -462,19 +465,19 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <!--ID: 1746388496545-->
 
- loan (2 writtings) (only money) #card
+ loan (money only) (2 writings) | refers specifically to a loan of money, not other kinds of lending #card
 ほんやく: 貸金/貸し金（かしきん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1746388496547-->
 
- rental house (2 writtings) (some one rents you) #card
+ rental house | a house you own and rent out to tenants (2 writings: 貸家/貸し家) #card
 ほんやく: 貸家/貸し家（かしや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1746388496549-->
 
- I livee in a rental house #card
+ I live in a rental house #card
 ほんやく: 私は貸し家に住んでいます（かしや、す）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
@@ -482,7 +485,7 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_住.html">住</a>
 <!--ID: 1746388496551-->
 
- Please, lend me car on sunday #card
+ Please lend me a car on Sunday #card
 ほんやく: 日曜日に車を貸してください（か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -508,13 +511,13 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <!--ID: 1746388496557-->
 
- loan (including boths sides, finance,legal contracts) #card
+ loan | a formal term covering the whole lend/borrow relationship, used in finance and legal contracts #card
 ほんやく: 貸借（たいしゃく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <!--ID: 1746388496559-->
 
- loan (Borrowing and lending (personal) #card
+ loan | a casual, personal-context term for borrowing and lending between individuals #card
 ほんやく: 借り貸し（か、か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
@@ -527,7 +530,7 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <!--ID: 1746388496563-->
 
- borrowed things(2 readings) #card
+ borrowed things (2 writings) | refers to items one has borrowed from someone else #card
 ほんやく: 借り物・借物（かりもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -543,19 +546,19 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1746388496567-->
 
- debt #card
+ debt | refers specifically to a debt/amount owed #card
 ほんやく: 借金（しゃっきん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1746388496569-->
 
- renatl house (you renting) #card
+ rented house | a house you rent from someone (tenant's perspective) #card
 ほんやく: 借家（しゃくや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1746388496571-->
 
- I borrowed money(debt) from the bank and bought a house #card
+ I borrowed money (debt) from the bank and bought a house #card
 ほんやく: 銀行で借金して、家を買いました（ぎんこう、しゃっきん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -565,13 +568,13 @@ walk to temple and wait for me
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1746388496573-->
 
- money on hand (every single penny) #card
+ money on hand | refers to all the cash one currently has available #card
 ほんやく: 有り金（ありがね）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1746388496576-->
 
-there is not much money on hand #card
+There is not much money on hand #card
 ほんやく: 有り金は多くありません（ありがね、おお）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
@@ -584,14 +587,22 @@ there is not much money on hand #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1746388496580-->
 
- famous #card
+ famous | the standard word for being famous or well-known #card
 ほんやく: 有名（ゆうめい）
+過去形: —
+否定形: —
+副詞形: —
+そう (looks): 有名そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1746388496582-->
 
- advantageous/korzystny #card
+ advantageous | describes something favorable or beneficial to one's position #card
 ほんやく: 有利（ゆうり）
+過去形: —
+否定形: —
+副詞形: —
+そう (looks): 有利そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_利.html">利</a>
 <!--ID: 1746388496584-->
@@ -615,7 +626,7 @@ there is not much money on hand #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1746388496588-->
 
- Teacher is a famous writter (isn't it?) #card
+ Teacher is a famous writer, isn't he? #card
 ほんやく: 先生は有名な作家ですね（ゆうめい、さっか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
@@ -625,35 +636,35 @@ there is not much money on hand #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <!--ID: 1746388496591-->
 
- this time #card
+ this time | a somewhat formal way to say "this time/on this occasion" #card
 ほんやく: この度（たび）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
 <!--ID: 1746388496592-->
 
- every time (someone) meets(someone) #card
+ every time (someone) meets (someone) #card
 ほんやく: 会うたび（あ、たび）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <!--ID: 1746388496595-->
 
- once #card
+ once | describes doing something a single time #card
 ほんやく: 一度（いちど） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
 <!--ID: 1746388496597-->
 
- every time #card
+ every time | often used in polite set phrases, like thanking a repeat customer #card
 ほんやく: 毎度（まいど）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
 <!--ID: 1746388496598-->
 
- fiscal year #card
+ fiscal year | refers to a fiscal/administrative year, e.g. for budgeting #card
 ほんやく: 年度（ねんど）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
 <!--ID: 1746388496601-->
 
- I watn to go to that store one time (try) #card
+ I want to go to that store once (to try it) #card
 ほんやく: あの店に一度行ってみたいです（いちど）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
@@ -661,7 +672,7 @@ there is not much money on hand #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1746388496602-->
 
- thank you (for comming) every time #card
+ thank you (for coming) every time #card
 ほんやく: 毎度、ありがとうございます （まいど）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
@@ -673,7 +684,7 @@ there is not much money on hand #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1746388496607-->
 
- There are few speciality product in this town #card
+ There are few specialty products in this town #card
 ほんやく: この町は名物は少ないです（まち、めいぶつ、すく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_町.html">町</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
@@ -688,18 +699,18 @@ there is not much money on hand #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1746388496611-->
 
- a little (formal, polite) #card
+ a little (formal, polite) | a polite word for "a little," often used by service staff #card
 ほんやく: 少々（しょうしょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <!--ID: 1746388496613-->
 
- boy #card
+ boy | a somewhat formal/literary word for a young boy #card
 ほんやく: 少年（しょうねん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1746388496615-->
 
- The store manager will come soon, so pleas wait a moment #card
+ The store manager will come soon, so please wait a moment #card
 ほんやく: 店長はすぐ来ますから、少々お待ちください（てんちょう、き、しょうしょう、ま) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
@@ -708,7 +719,7 @@ there is not much money on hand #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1746388496617-->
 
- the food at this store/restaurant is a little expensive #card
+ The food at this store/restaurant is a little expensive #card
 ほんやく: この店の料理少々高いですよ （しょうしょう、たか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
@@ -723,40 +734,43 @@ there is not much money on hand #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1746388496621-->
 
- the head of the office is waiting for you #card
+ The head of the office is waiting for you #card
 ほんやく: 所長はあなたをお待ちしてます（しょちょう、ま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1746388496623-->
 
- waiting room #card
+ waiting room | refers to a designated room for waiting, e.g. at a clinic or office #card
 ほんやく: 待合室（まちあいしつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
 <!--ID: 1746388496626-->
 
- invitation #card
+ invitation | the noun for a formal invitation, e.g. to a party or ceremony #card
 ほんやく: 招待（しょうたい）
+お/ご (honorific): ご招待（しょうたい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_招.html">招</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1746388496628-->
 
- expectation #card
+ expectation | describes hoping for or anticipating a positive outcome #card
 ほんやく: 期待（きたい）
+お/ご (honorific): ご期待（きたい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_期.html">期</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1746388496630-->
 
-someone opens something (more formal, abstract like company, store, book, soul) #card
+to open (something, formal/abstract) | describes someone opening something more formal or abstract, like a company, store, book, or one's heart #card
 ほんやく: 開く（ひら）  
 て形: 開いて
 た形: 開いた
 ます形: 開きます
 出す形 (start): 開き出す
 そう (looks): 開きそう
-お〜になる (honorific): お開きになる
+お〜になる/special verb (honorific):お開きになる
+謙譲語 (humble): お開きいたす／お開きします
 ない形: 開かない
 なかった形: 開かなかった
 あれる形 (passive/honorific): 開かれる
@@ -768,14 +782,15 @@ someone opens something (more formal, abstract like company, store, book, soul) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388572896-->
 
-to open #card
+to open (transitive) | describes physically opening something, like a door or window #card
 ほんやく: 開ける（あ）  
 て形: 開けて
 た形: 開けた
 ます形: 開けます
 出す形 (start): 開け出す
 そう (looks): 開けそう
-お〜になる (honorific): お開けになる
+お〜になる/special verb (honorific):お開けになる
+謙譲語 (humble): お開けいたす／お開けします
 ない形: 開けない
 なかった形: 開けなかった
 あれる形 (passive/honorific): 開けられる
@@ -787,14 +802,15 @@ to open #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388572901-->
 
-something opens by itself #card
+to open (by itself, intransitive) | describes something opening on its own, without a specified agent #card
 ほんやく: 開く（あ）  
 て形: 開いて
 た形: 開いた
 ます形: 開きます
 出す形 (start): 開き出す
 そう (looks): 開きそう
-お〜になる (honorific): お開きになる
+お〜になる/special verb (honorific):お開きになる
+謙譲語 (humble): お開きいたす／お開きします
 ない形: 開かない
 なかった形: 開かなかった
 あれる形 (passive/honorific): 開かれる
@@ -806,14 +822,15 @@ something opens by itself #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1746388572905-->
 
-move #card
+to move (intransitive) | describes something or someone moving, on their own #card
 ほんやく: 動く（うご）  
 て形: 動いて
 た形: 動いた
 ます形: 動きます
 出す形 (start): 動き出す
 そう (looks): 動きそう
-お〜になる (honorific): お動きになる
+お〜になる/special verb (honorific):お動きになる
+謙譲語 (humble): お動きいたす／お動きします
 ない形: 動かない
 なかった形: 動かなかった
 あれる形 (passive/honorific): 動かれる
@@ -825,14 +842,15 @@ move #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1746388572909-->
 
-collect/gather (stuff) #card
+to collect / to gather (stuff, transitive) | describes actively gathering things or people together #card
 ほんやく: 集める（あつ）  
 て形: 集めて
 た形: 集めた
 ます形: 集めます
 出す形 (start): 集め出す
 そう (looks): 集めそう
-お〜になる (honorific): お集めになる
+お〜になる/special verb (honorific):お集めになる
+謙譲語 (humble): お集めいたす／お集めします
 ない形: 集めない
 なかった形: 集めなかった
 あれる形 (passive/honorific): 集められる
@@ -844,14 +862,15 @@ collect/gather (stuff) #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1746388572913-->
 
-gather (on their own) #card
+to gather (on their own, intransitive) | describes people or things gathering together without a specified organizer #card
 ほんやく: 集まる（あつ）  
 て形: 集まって
 た形: 集まった
 ます形: 集まります
 出す形 (start): 集まり出す
 そう (looks): 集まりそう
-お〜になる (honorific): お集まりになる
+お〜になる/special verb (honorific):お集まりになる
+謙譲語 (humble): お集まりいたす／お集まりします
 ない形: 集まらない
 なかった形: 集まらなかった
 あれる形 (passive/honorific): 集まられる
@@ -863,14 +882,15 @@ gather (on their own) #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_集.html">集</a>
 <!--ID: 1746388572918-->
 
-lend (to someone) #card
+to lend (to someone) | describes lending something to another person #card
 ほんやく: 貸す（かす）  
 て形: 貸して
 た形: 貸した
 ます形: 貸します
 出す形 (start): 貸し出す
 そう (looks): 貸しそう
-お〜になる (honorific): お貸しになる
+お〜になる/special verb (honorific):お貸しになる
+謙譲語 (humble): お貸しいたす／お貸しします
 ない形: 貸さない
 なかった形: 貸さなかった
 あれる形 (passive/honorific): 貸される
@@ -882,14 +902,15 @@ lend (to someone) #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
 <!--ID: 1746388572923-->
 
-borrow (from someone) #card
+to borrow (from someone) | describes borrowing something from another person #card
 ほんやく: 借りる（か）  
 て形: 借りて
 た形: 借りた
 ます形: 借ります
 出す形 (start): 借り出す
 そう (looks): 借りそう
-お〜になる (honorific): お借りになる
+お〜になる/special verb (honorific):お借りになる
+謙譲語 (humble): 拝借する
 ない形: 借りない
 なかった形: 借りなかった
 あれる形 (passive/honorific): 借りられる
@@ -901,14 +922,15 @@ borrow (from someone) #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <!--ID: 1746388572927-->
 
-to exist/have #card
+to exist / to have | a more literary/formal reading for existing or having something, less common in casual speech #card
 ほんやく: 有る（あ）  
 て形: 有って
 た形: 有った
 ます形: 有ります
 出す形 (start): 有り出す
 そう (looks): 有りそう
-お〜になる (honorific): お有りになる
+お〜になる/special verb (honorific):お有りになる
+謙譲語 (humble): お有りいたす／お有りします
 ない形: 無い（ない）
 なかった形: 無かった（なかった）
 あれる形 (passive/honorific): 有られる
@@ -920,14 +942,15 @@ to exist/have #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_有.html">有</a>
 <!--ID: 1746388572931-->
 
-to wait #card
+to wait | the standard word for waiting #card
 ほんやく: 待つ（ま）  
 て形: 待って
 た形: 待った
 ます形: 待ちます
 出す形 (start): 待ち出す
 そう (looks): 待ちそう
-お〜になる (honorific): お待ちになる
+お〜になる/special verb (honorific):お待ちになる
+謙譲語 (humble): お待ちいたす／お待ちします
 ない形: 待たない
 なかった形: 待たなかった
 あれる形 (passive/honorific): 待たれる

@@ -593,7 +593,7 @@ Examples
 <!--ID: 1763036595386-->
 
 
- Zaprosiłem przyjaciela do kina. #k #card
+ I invited a friend to the movies. #k #card
 ほんやく: 友達（ともだち）を映画（えいが）に誘（さそ）った
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
@@ -603,7 +603,7 @@ Examples
 <!--ID: 1763036595390-->
 
 
- Zaprosić go na wycieczkę. #k #card
+ To invite him on a trip. #k #card
 ほんやく: 彼（かれ）を旅行（りょこう）に誘（さそ）う
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
@@ -612,21 +612,21 @@ Examples
 <!--ID: 1763036595395-->
 
 
- It company #k #card
+ IT company | 企業 formally denotes an enterprise/corporation, a more formal register than the everyday word for "company" #k #card
 ほんやく: IT企業（きぎょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_企.html">企</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1763036595400-->
 
 
- trading company #k #card
+ trading company | denotes an import/export or trading firm specifically, narrower in scope than the generic word for "company" #k #card
 ほんやく: 商社（しょうしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_商.html">商</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1763036595405-->
 
 
- honda san will start work at trading company tomorrow #k #card
+ Mr. Honda will start working at a trading company starting tomorrow #k #card
 ほんやく: 本田さんは明日から商社で働きます（しょうしゃ,はたら）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -638,7 +638,7 @@ Examples
 <!--ID: 1763036595410-->
 
 
- i work in overseas department #k #card
+ I work in the overseas department #k #card
 ほんやく: 私は海外部で働いています(かいがい、はたら)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
@@ -648,7 +648,7 @@ Examples
 <!--ID: 1763036595414-->
 
 
- stock company/ Co., Ltd (used after a company's name) #k #card
+ stock company / Co., Ltd (used after a company's name) | formal legal suffix attached to a company's name indicating incorporation; often abbreviated in writing as (株) #k #card
 ほんやく: 株式会社（かぶしき、がいしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_株.html">株</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_式.html">式</a>
@@ -657,14 +657,14 @@ Examples
 <!--ID: 1763036595419-->
 
 
- stock #k #card
+ stock | refers to company stock/shares in a formal, financial register; a plain single share is expressed with a shorter, more casual word #k #card
 ほんやく: 株式（かぶしき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_株.html">株</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_式.html">式</a>
 <!--ID: 1763036595424-->
 
 
- ericsson Co Ltd #card
+ Ericsson Co., Ltd. #card
 ほんやく: ericsson 株式会社(かぶしきがいしゃ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_株.html">株</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_式.html">式</a>
@@ -673,24 +673,24 @@ Examples
 <!--ID: 1763036595429-->
 
 
- manufacturer #occupation #card
+ manufacturer | katakana loanword from English "maker", meaning a manufacturing company, not a person who casually "makes" things #occupation #card
 ほんやく: メーカー
 <!--ID: 1763036595433-->
 
 
- designer #occupation #card
+ designer | katakana loanword for a professional designer (fashion, product, graphic, etc.), the job title rather than the verb "to design" #occupation #card
 ほんやく: デザイナー
 <!--ID: 1763036595436-->
 
 
- station attendant #k #occupation #card
+ station attendant | 員 is a common suffix meaning "staff/member", attached to many occupation words the same way #k #occupation #card
 ほんやく: 駅員（えきいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1763036595440-->
 
 
- bank staff #k #occupation #card
+ bank staff | uses the same 員 (staff/member) suffix pattern as other occupation words like station attendant or shop clerk #k #occupation #card
 ほんやく: 銀行員（ぎんこういん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -698,14 +698,14 @@ Examples
 <!--ID: 1763036595444-->
 
 
- teacher (occupation) #k #occupation #card
+ teacher (occupation) | "teacher" specifically as a job title/profession, more formal than the word used as a respectful address for teachers, doctors, and other professionals #k #occupation #card
 ほんやく: 教師（きょうし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_師.html">師</a>
 <!--ID: 1763036595449-->
 
 
- teacher, doctor, lawyer but you can call this name someone #card
+ teacher / doctor / professional (respectful title) | used as a respectful title or form of address for teachers, doctors, lawyers and other professionals, not just as an occupation name #card
 ほんやく: 先生
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
@@ -717,7 +717,7 @@ Examples
 <!--ID: 1763036595457-->
 
 
- hairdresser #occupation #card
+ hairdresser | refers to a hair/beauty stylist, distinguished from the traditional term for a barber who mainly cuts men's hair #occupation #card
 ほんやく: 美容師（びようし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_美.html">美</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_容.html">容</a>
@@ -725,14 +725,14 @@ Examples
 <!--ID: 1763036595462-->
 
 
- clerk, cashier #k #occupation #card
+ clerk, cashier | general term for a shop employee regardless of specific duties (cashier, floor staff, etc.) #k #occupation #card
 ほんやく: 店員（てんいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1763036595466-->
 
 
- policeman #occupation #card
+ police officer | formal, gender-neutral term for a police officer; contrasts with the casual, affectionate term for a neighborhood policeman #occupation #card
 ほんやく: 警察官（けいさつかん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_警.html">警</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_察.html">察</a>
@@ -740,24 +740,25 @@ Examples
 <!--ID: 1763036595471-->
 
 
- song #card
+ song | general word for a song; a broader term for "music" as an art form is different and unrelated #card
 ほんやく: 歌（うた）
+お/ご (honorific): お歌(うた)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1763036595477-->
 
 
- ski resort #k #card
+ ski resort | 場 is a common suffix meaning "place/venue for an activity", so this literally means "skiing place" #k #card
 ほんやく: スキー場（じょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <!--ID: 1763036595483-->
 
 
- to ski #card
+ to ski | uses the light-verb pattern [noun]＋する to turn the loanword for "ski" into a verb #card
 ほんやく: スキーをする
 <!--ID: 1763036595488-->
 
 
- go to ski #card
+ go skiing | に行く after an activity noun expresses going somewhere to do that activity, i.e. "go do X" #card
 ほんやく: スキーに行く
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1763036595491-->
@@ -773,17 +774,17 @@ Examples
 <!--ID: 1763036595495-->
 
 
- part time job/short form #card
+ part-time job / part-timer | the full word for a part-time job; its casual everyday shortened form is used constantly in spoken Japanese and ultimately derives from the German word "Arbeit" #card
 ほんやく: アルバイト/バイト
 <!--ID: 1763036595498-->
 
 
- do a part time job #card
+ do a part-time job | combines the noun for "part-time job" with する, following the common noun＋する pattern for making verbs #card
 ほんやく: アルバイトをする
 <!--ID: 1763036595501-->
 
 
- I'm doing part time job in a flower shop #card
+ I'm doing a part-time job at a flower shop #card
 ほんやく: 私は花屋でアルバイトをしています（はなや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
@@ -791,15 +792,17 @@ Examples
 <!--ID: 1763036595505-->
 
 
- drink #k #card
+ drink | literally "drinking thing" — a noun formed from the verb "to drink" plus 物 (thing), the general pattern for naming consumables #k #card
 ほんやく: 飲み物（のみもの）
+お/ご (honorific): お飲み物(のみもの)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1763036595509-->
 
 
- food #k #card
+ food | literally "eating thing" — formed the same way as the word for "drink", from the verb "to eat" plus 物 (thing) #k #card
 ほんやく: 食べ物（たべもの)
+お/ご (honorific): お食べ物(たべもの)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1763036595512-->
@@ -819,7 +822,7 @@ Examples
 <!--ID: 1763036595518-->
 
 
- elementary school #k #card
+ elementary school | refers to Japanese elementary/primary school, covering grades 1 through 6 #k #card
 ほんやく: 小学校（しょうがっこう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_小.html">小</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -827,7 +830,7 @@ Examples
 <!--ID: 1763036595521-->
 
 
- junior high school #k  #card
+ junior high school | refers to Japanese junior high school, covering grades 7 through 9 #k  #card
 ほんやく: 中学校（ちゅうがっこう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -835,39 +838,39 @@ Examples
 <!--ID: 1763036595527-->
 
 
- high school #card
+ high school | common short form of the full term for "senior high school" (grades 10-12) #card
 ほんやく: 高校（こうこう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
 <!--ID: 1763036595530-->
 
 
- tobacco #card
+ tobacco | katakana loanword (from Portuguese) for tobacco/cigarettes; can also be written with kanji, though the katakana form is more common today #card
 ほんやく: タバコ
 <!--ID: 1763036595534-->
 
 
- do you smoke cigaretes? #card
+ Do you smoke cigarettes? #card
 ほんやく: タバコを吸いますか（す）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_吸.html">吸</a>
 <!--ID: 1763036595537-->
 
 
- English #card
+ English | 語 is the suffix meaning "language", attached the same way to form the words for Japanese, Chinese, French, etc. #card
 ほんやく: 英語（えいご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_英.html">英</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <!--ID: 1763036595540-->
 
 
- sweets #k  #card
+ sweets | the お prefix here is an honorific commonly attached in everyday speech; dropping it sounds more blunt/plain #k  #card
 ほんやく: お菓子（おかし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_菓.html">菓</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <!--ID: 1763036595544-->
 
 
- wrist watch #k #card
+ wrist watch | literally "arm clock" — the base word for "clock/watch" alone already refers to any clock or watch in general #k #card
 ほんやく: 腕時計（うでどけい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_腕.html">腕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
@@ -875,7 +878,7 @@ Examples
 <!--ID: 1763036595551-->
 
 
- Last month i went to abroad trip #k #card
+ Last month I went on an overseas trip #k #card
 ほんやく: 先月海外旅行に行きました(せんげつ、かいがいりょこう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
@@ -886,7 +889,7 @@ Examples
 <!--ID: 1763036595554-->
 
 
- last year i went to a trip with family #card
+ Last year I went on a trip with my family #card
 ほんやく: 去年、家族と旅行しました（きょねん、かぞく、りょこう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_去.html">去</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -897,32 +900,33 @@ Examples
 <!--ID: 1763036595559-->
 
 
- long time no see (also as a response) #card
+ long time no see (also as a response) | polite fixed greeting used after a long time apart; keeping です makes it more formal than dropping it #card
 ほんやく: お久しぶりです（ひさ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_久.html">久</a>
 <!--ID: 1763036595562-->
 
 
- long time no see (more polite) #card
+ long time no see (more polite) | the どうも prefix (contracted here) adds extra politeness/warmth, common in business or semi-formal contexts #card
 ほんやく: どもお久しぶりです（ひさ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_久.html">久</a>
 <!--ID: 1763036595565-->
 
 
- long time no see (less polite) #card
+ long time no see (less polite) | casual version without です, used among friends and family #card
 ほんやく: 久しぶり（ひさ）
+お/ご (honorific): お久しぶり(ひさ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_久.html">久</a>
 <!--ID: 1763036595568-->
 
 
- Im fine (thank you) #card
+ I'm fine (thank you) | the parenthetical phrase in the answer ("thanks to you") is often added before this to politely acknowledge the other person's concern/well-wishes #card
 ほんやく: （おかげさまで gratitude when someone has helped u）元気です
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <!--ID: 1763036595570-->
 
 
- congratulations #card
+ congratulations | the ございます ending makes this the polite/formal version; dropping it makes it casual, used among friends #card
 ほんやく: おめでとう(ございます)
 <!--ID: 1763036595574-->
 
@@ -945,18 +949,18 @@ Examples
 <!--ID: 1763036595582-->
 
 
- yes/all right/really? = hai #card
+ yes / all right / really? | a softer, more casual-feeling affirmative than the standard word for "yes"; can also express mild surprise, similar to "really?" #card
 ほんやく: ええ
 <!--ID: 1763036595585-->
 
 
- Really that person (polite) is a lawyer? #card
-ほんやく: ええ、あの方はべんごしですか(kata)
+ Really, that person (polite) is a lawyer? #card
+ほんやく: ええ、あの方はべんごしですか（かた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1763036595587-->
 
 
- after that, since then, then #card
+ after that, since then, then | a connector that sequences one action strictly after another; a more general word for "and then/and" also exists and is less strictly sequential #card
 ほんやく: それから
 <!--ID: 1763036595591-->
 
@@ -969,7 +973,7 @@ Examples
 <!--ID: 1763036595594-->
 
 
- Lets meet at the station, and then take the bus together #card
+ Let's meet at the station, and then take the bus together #card
 ほんやく: 駅で会って、それから、いっしょにバスに乗って（えき、あ、の）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
@@ -977,7 +981,7 @@ Examples
 <!--ID: 1763036595598-->
 
 
- to study japanese (noun) #k #card
+ to study Japanese (noun) | の勉強 nominalizes the activity, turning it into "study of X" rather than the verb "to study X" #k #card
 ほんやく: 日本語の勉強
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -987,7 +991,7 @@ Examples
 <!--ID: 1763036595602-->
 
 
- to study japanese (verb) #k #card
+ to study Japanese (verb) | を勉強する pairs the noun for "study" with する to form the verb "to study" #k #card
 ほんやく: 日本語を勉強する
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -997,21 +1001,23 @@ Examples
 <!--ID: 1763036595605-->
 
 
- research n/v #k #card
+ research (n/v) | a suru-noun: alone it means "research", and with する it becomes the verb "to research/study in depth", more academic than the everyday word for "study" #k #card
 ほんやく: 研究(する）（けんきゅう）
+お/ご (honorific): ご研究（けんきゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1763036595608-->
 
 
- research  #k #card
+ research | more academic and in-depth than the everyday word for "study"; used for scholarly or scientific investigation #k #card
 ほんやく: 研究(する）（けんきゅう）
+お/ご (honorific): ご研究（けんきゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
 <!--ID: 1763036595611-->
 
 
- researcher #k #card
+ researcher | 者 is a common suffix meaning "a person who does [X]", here forming "researcher" from the word for research #k #card
 ほんやく: 研究者（けんきゅうしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
@@ -1019,7 +1025,7 @@ Examples
 <!--ID: 1763036595614-->
 
 
- Studying Japanese language (research) #k  #card
+ Researching the Japanese language | uses the more academic, in-depth word for "research" rather than the everyday word for "study", implying scholarly investigation #k  #card
 ほんやく: 日本語を研究する（けんきゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1041,7 +1047,7 @@ Examples
 <!--ID: 1763036595619-->
 
 
- i live in poland #card
+ I live in Poland #card
 ほんやく: ポーランド**に**住んでいます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_住.html">住</a>
 <!--ID: 1763036595623-->
@@ -1054,7 +1060,7 @@ Examples
 <!--ID: 1763036595625-->
 
 
- i wait for lawyer #card
+ I am waiting for the lawyer #card
 ほんやく: 私はべんごしを待っています（ま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
@@ -1084,7 +1090,7 @@ Examples
 <!--ID: 1763036595642-->
 
 
- shall we do part time job together? B: Yes/No #card
+ Shall we do a part-time job together? B: Well... (a hesitant, indirect way of declining) #card
 ほんやく: いっしょにアルバイトをしませんか B:そうですね・ちょっと
 <!--ID: 1763036595646-->
 
@@ -1099,7 +1105,7 @@ Examples
 
 
  Would you like to sing together? #k #card
-ほんやく: いっしょうに歌を歌いませんか（うた）
+ほんやく: いっしょに歌を歌いませんか（うた）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <!--ID: 1763036595651-->
 
@@ -1121,7 +1127,7 @@ Examples
 <!--ID: 1763036595656-->
 
 
- Will you borrow a book from the library? #k #card
+ Why don't you borrow a book from the library? #k #card
 ほんやく: 図書館から本を借りませんか（としょかん、か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_図.html">図</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
@@ -1140,7 +1146,7 @@ Examples
 <!--ID: 1763036595661-->
 
 
- #k Lets meet at 7:00 on Sunday at Shinjuku Station #card
+ #k Let's meet at 7:00 on Sunday at Shinjuku Station #card
 ほんやく: 日曜日の七時にしんじゅく駅で会いましょう（しちじ、えき、あ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -1151,7 +1157,7 @@ Examples
 <!--ID: 1763036595664-->
 
 
- Let's go to school to school tomorrow together. #k #card
+ Let's go to school together tomorrow. #k #card
 ほんやく: 明日 いっしょに 学校に行きましょう（あした、がっこう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1161,8 +1167,8 @@ Examples
 <!--ID: 1763036595667-->
 
 
- let's go to osaka castle #card
-ほんやく: おおさかじょうに行きましょ
+ Let's go to Osaka Castle #card
+ほんやく: おおさかじょうに行きましょう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1763036595670-->
 
@@ -1211,7 +1217,7 @@ Examples
 <!--ID: 1763036595697-->
 
 
- You can smoke in the room #card
+ You can smoke in this room #card
 ほんやく: この部屋でタバコを吸ってもいいです（へや、す)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
@@ -1219,7 +1225,7 @@ Examples
 <!--ID: 1763036595702-->
 
 
- can i open the present? B: Yes, its fine #k  #card
+ Can I open the present? B: Yes, it's fine #k  #card
 ほんやく: A: プレゼントを開けてもいいですか (あ) B: はい、いいです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1763036595706-->
@@ -1233,20 +1239,20 @@ Examples
 <!--ID: 1763036595711-->
 
 
- you can't swim here #card
+ You can't swim here #card
 ほんやく: ここで泳いではいけません（およ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_泳.html">泳</a>
 <!--ID: 1763036595715-->
 
 
- mr Yamada is married #card
+ Mr. Yamada is married #card
 ほんやく: 山田さんはけっこん　しています
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1763036595719-->
 
 
- Im waiting outside #k #card
+ I'm waiting outside #k #card
 ほんやく: 私は外で待っています(そと)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
@@ -1254,7 +1260,7 @@ Examples
 <!--ID: 1763036595722-->
 
 
- Im free on next sunday #k #card
+ I'm free next Sunday #k #card
 ほんやく: 来週の日曜日は、空いています（らいしゅう、あ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
@@ -1305,7 +1311,7 @@ Examples
 <!--ID: 1763036595743-->
 
 
- Every day I go to the company at 9:am, eat lunch at 12 and go back home at 6 P.M #k #card
+ Every day I go to the company at 9 AM, eat lunch at 12 and go back home at 6 PM #k #card
 ほんやく: 毎日九時に会社に行って、１２じに昼ごはんを食べて午後六時に家へ戻って（まいにち、ひる、ごご、いえ、もど）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1324,7 +1330,7 @@ Examples
 <!--ID: 1763036595748-->
 
 
- I went to eat lunch with my friend, then we watched a movie and went to karaoke #card
+ I ate lunch with my friend, watched a movie, and went to karaoke #card
 ほんやく: 土曜日に友達といっしょに昼ご飯を食べて、映画を見て、カラオケに行きました（どようび、ともだち、えいが、み）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_土.html">土</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -1341,14 +1347,15 @@ Examples
 <!--ID: 1763036595752-->
 
 
-to invite, zachęcać, nakłaniać #wc #card
+to invite | to invite or ask someone along to do something together (e.g. a movie, a trip); often paired with a ませんか question rather than a blunt request #wc #card
 ほんやく: 誘う（さそ）
 て形: 誘って
 た形: 誘った
 ます形: 誘います
 出す形 (start): 誘い出す
 そう (looks): 誘いそう
-お〜になる (honorific): お誘いになる
+お〜になる/special verb (honorific):お誘いになる
+謙譲語 (humble): お誘いいたす／お誘いします
 ない形: 誘わない
 なかった形: 誘わなかった
 あれる形 (passive/honorific):  誘われる
@@ -1361,14 +1368,15 @@ to invite, zachęcać, nakłaniać #wc #card
 <!--ID: 1763036595755-->
 
 
-to work #wc #card
+to work | to work or labor, typically in a job context; distinct from the verb specifically meaning "to study" #wc #card
 ほんやく: 働く（はたらく）
 て形: 働いて
 た形: 働いた
 ます形: 働きます
 出す形 (start): 働き出す
 そう (looks): 働きそう
-お〜になる (honorific): お働きになる
+お〜になる/special verb (honorific):お働きになる
+謙譲語 (humble): お働きいたす／お働きします
 ない形: 働かない
 なかった形: 働かなかった
 あれる形 (passive/honorific):  働かれる
@@ -1381,14 +1389,15 @@ to work #wc #card
 <!--ID: 1763036595759-->
 
 
-to sing #k #wc #card
+to sing | to sing (a song); its related noun form for "song" comes from the same word stem #k #wc #card
 ほんやく: 歌う（うたう）
 て形: 歌って
 た形: 歌った
 ます形: 歌います
 出す形 (start): 歌い出す
 そう (looks): 歌いそう
-お〜になる (honorific): お歌いになる
+お〜になる/special verb (honorific):お歌いになる
+謙譲語 (humble): お歌いいたす／お歌いします
 ない形: 歌わない
 なかった形: 歌わなかった
 あれる形 (passive/honorific):  歌われる
@@ -1401,14 +1410,15 @@ to sing #k #wc #card
 <!--ID: 1763036595763-->
 
 
-to have, to possess, to hold/carry #k #wc #card
+to have, to possess, to hold/carry | covers both physically holding/carrying something and abstractly possessing or having (e.g. an opinion, a skill) #k #wc #card
 ほんやく: 持つ（もつ）
 て形: 持って
 た形: 持った
 ます形: 持ちます
 出す形 (start): 持ち出す
 そう (looks): 持ちそう
-お〜になる (honorific): お持ちになる
+お〜になる/special verb (honorific):お持ちになる
+謙譲語 (humble): お持ちいたす／お持ちします
 ない形: 持たない
 なかった形: 持たなかった
 あれる形 (passive/honorific):  持たれる
@@ -1421,14 +1431,15 @@ to have, to possess, to hold/carry #k #wc #card
 <!--ID: 1763036595768-->
 
 
-to smoke #wc #card
+to smoke | literally "to suck/inhale"; used both for smoking tobacco and for breathing air in #wc #card
 ほんやく: 吸う（すう）
 て形: 吸って
 た形: 吸った
 ます形: 吸います
 出す形 (start): 吸い出す
 そう (looks): 吸いそう
-お〜になる (honorific): お吸いになる
+お〜になる/special verb (honorific):お吸いになる
+謙譲語 (humble): お吸いいたす／お吸いします
 ない形: 吸わない
 なかった形: 吸わなかった
 あれる形 (passive/honorific):  吸われる
@@ -1441,14 +1452,15 @@ to smoke #wc #card
 <!--ID: 1763036595772-->
 
 
-to sleep #wc #card
+to sleep | to go to sleep/go to bed; emphasizes the act of lying down to sleep rather than the state of being asleep #wc #card
 ほんやく: 寝る（ね）
 て形: 寝て
 た形: 寝た
 ます形: 寝ます
 出す形 (start): 寝出す
 そう (looks): 寝そう
-お〜になる (honorific): お寝になる
+お〜になる/special verb (honorific):お休(やす)みになる
+謙譲語 (humble): -
 ない形: 寝ない
 なかった形: 寝なかった
 あれる形 (passive/honorific):  寝られる
@@ -1461,14 +1473,15 @@ to sleep #wc #card
 <!--ID: 1763036595776-->
 
 
-to live/reside #k #wc #card
+to live/reside | used for where someone permanently resides, marked with に for the place; not used for brief or temporary stays #k #wc #card
 ほんやく: 住む（す）
 て形: 住んで
 た形: 住んだ
 ます形: 住みます
 出す形 (start): 住み出す
 そう (looks): 住みそう
-お〜になる (honorific): お住みになる
+お〜になる/special verb (honorific):お住みになる
+謙譲語 (humble): お住みいたす／お住みします
 ない形: 住まない
 なかった形: 住まなかった
 あれる形 (passive/honorific):  住まれる
@@ -1481,14 +1494,15 @@ to live/reside #k #wc #card
 <!--ID: 1763036595780-->
 
 
-to wait #k #wc #card
+to wait | to wait for something or someone, with the thing waited for marked by を #k #wc #card
 ほんやく: 待つ（ま）
 て形: 待って
 た形: 待った
 ます形: 待ちます
 出す形 (start): 待ち出す
 そう (looks): 待ちそう
-お〜になる (honorific): お待ちになる
+お〜になる/special verb (honorific):お待ちになる
+謙譲語 (humble): お待ちいたす／お待ちします
 ない形: 待たない
 なかった形: 待たなかった
 あれる形 (passive/honorific):  待たれる

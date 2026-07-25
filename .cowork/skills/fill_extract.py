@@ -109,6 +109,7 @@ def skeleton(tag, japanese, translation):
             "出す形 (start): ",
             "そう (looks): ",
             "お〜になる/special verb (honorific): ",
+            "謙譲語 (humble): ",
             "ない形: ",
             "なかった形: ",
             "あれる形 (passive/honorific): ",

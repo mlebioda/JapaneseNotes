@@ -381,7 +381,7 @@ more polite
 <!--ID: 1761557180386-->
 
 
- conference room #card
+ conference room | the room designated for holding a 会議(かいぎ) meeting, as distinct from the meeting itself #card
 ほんやく: 会議室（かいぎしつ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
@@ -389,7 +389,7 @@ more polite
 <!--ID: 1761557180388-->
 
 
- Be able to ask and understand locations #card
+ Be able to ask about a place and understand the answer #card
 ほんやく: 場所を聞くことと答えを理解することができる（ばしょ,き, こた, りかい) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
@@ -400,26 +400,28 @@ more polite
 <!--ID: 1761557180389-->
 
 
- czynność pytania, forma rzeczownikowa od czasownika #card
+ asking (the act of asking/listening) | nominal form of a verb, formed with こと to turn an action into a noun phrase #card
 ほんやく: 聞くこと（きく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1761557180390-->
 
 
- odpowiedź #card
+ answer #card
 ほんやく: **答え（こたえ）** 
+お/ご (honorific): お答え(こたえ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
 <!--ID: 1761557180391-->
 
 
- rzeczownik: „zrozumienie”.   #card
+ understanding (noun) | grasping something intellectually or formally; more formal than the casual verb わかる #card
 ほんやく: **理解（りかい）** 
+お/ご (honorific): ご理解(りかい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_解.html">解</a>
 <!--ID: 1761557180392-->
 
 
- formalne, świadome, intelektualne „rozumieć, pojmować”. #card
+ to understand, comprehend | formal, deliberate, intellectual understanding, contrasted with the casual わかる #card
 ほんやく: **理解する（りかいする）** 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_解.html">解</a>
@@ -433,7 +435,7 @@ more polite
 <!--ID: 1761557180394-->
 
 
- „numbers 100 and above” #card
+ numbers 100 and above #card
 ほんやく: 百以上の数字の読み方（ひゃくいじょう、すうじ） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_百.html">百</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_以.html">以</a>
@@ -445,29 +447,30 @@ more polite
 <!--ID: 1761557180395-->
 
 
- „i więcej”, „powyżej” #card
+ and above / at least #card
 ほんやく: **以上（いじょう）** 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_以.html">以</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1761557180396-->
 
 
- conversation #card
+ conversation | a spoken exchange between people, more structured than casual 話(はなし) talk #card
 ほんやく: 会話（かいわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1761557180397-->
 
 
- overseas #card
+ overseas / abroad | places outside one's home country, similar in usage to 外国(がいこく) foreign country #card
 ほんやく: 海外（かいがい) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <!--ID: 1761557180398-->
 
 
-部（ぶ） #card
-ほんやく: 
+department (suffix) | attaches to an organization name to indicate a division, e.g. sales or personnel department #card
+ほんやく: 部（ぶ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <!--ID: 1761557180399-->
 
 
@@ -479,7 +482,7 @@ more polite
 <!--ID: 1761557180400-->
 
 
- sales department #k #card
+ sales department | 営業 broadly means business/sales operations, so this can also read as "business department" depending on context #k #card
 ほんやく: 営業部（えいぎょうぶ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_営.html">営</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
@@ -487,7 +490,7 @@ more polite
 <!--ID: 1761557180401-->
 
 
- personel department #card
+ personnel department #card
 ほんやく: 人事部（じんじぶ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
@@ -495,14 +498,14 @@ more polite
 <!--ID: 1761557180402-->
 
 
- office work #card
+ office work / administrative duties | clerical tasks like paperwork and office administration, distinct from 仕事(しごと) work/job in general #card
 ほんやく: 事務（じむ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_務.html">務</a>
 <!--ID: 1761557180403-->
 
 
- pocket notebook #card
+ pocket notebook / personal organizer | a small notebook for personal notes, schedules, or appointments, distinct from a general notebook #card
 ほんやく: 手帳（てちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帳.html">帳</a>
@@ -510,18 +513,19 @@ more polite
 
 
  notebook #card
-ほんやく: ノット 
+ほんやく: ノート 
 <!--ID: 1761557180405-->
 
 
- business card  #card
+ business card | exchanged formally at first meetings in Japanese business settings, following set etiquette #card
 ほんやく: 名刺（めいし）
+お/ご (honorific): お名刺(めいし)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_刺.html">刺</a>
 <!--ID: 1761557180406-->
 
 
- fountain pen, wieczne pióro #card
+ fountain pen #card
 ほんやく: 万年筆（まんねんひつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_万.html">万</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -537,11 +541,11 @@ more polite
 
 
  ballpoint pen #card
-ほんやく: ポールペン 
+ほんやく: ボールペン 
 <!--ID: 1761557180409-->
 
 
- personal computer #card
+ personal computer | wasei-eigo abbreviation for "personal computer," commonly used for home/work PCs; コンピューター refers to computers more generally #card
 ほんやく: パソコン 
 <!--ID: 1761557180410-->
 
@@ -559,6 +563,7 @@ computer #card
 
  chair #card
 ほんやく: 椅子（いす）
+お/ご (honorific): お椅子(いす)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_椅.html">椅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <!--ID: 1761557180413-->
@@ -577,54 +582,55 @@ computer #card
 <!--ID: 1761557180415-->
 
 
- next to #card
+ next to / adjacent | immediate physical adjacency, more specific than the broader 近く(ちかく) nearby #card
 ほんやく: 隣（となり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_隣.html">隣</a>
 <!--ID: 1761557180416-->
 
 
- meeting #card
+ meeting | a formal, often scheduled meeting, more official in tone than a casual 打ち合わせ(うちあわせ) discussion #card
 ほんやく: 会議 (かいぎ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
 <!--ID: 1761557180417-->
 
 
- koko, polite #card
+ here (polite) | polite way to indicate direction, place, or even a person ("this person"), more formal than ここ #card
 ほんやく: こちら 
 <!--ID: 1761557180418-->
 
 
- soko, polite #card
+ there, near you (polite) | polite equivalent of そこ, also used to politely refer to the listener's side #card
 ほんやく: そちら 
 <!--ID: 1761557180419-->
 
 
- aoko, polite #card
+ over there (polite) | polite equivalent of あそこ, referring to a place or person far from both speaker and listener #card
 ほんやく: あちら 
 <!--ID: 1761557180420-->
 
 
- doko, polite #card
+ where (polite) | polite equivalent of どこ, also used to politely ask "which one" or about a person #card
 ほんやく: どちら 
 <!--ID: 1761557180421-->
 
 
- dining hall, cafeteria #card
+ dining hall / cafeteria | a casual eatery, often in a workplace, school, or public facility, distinct from a formal レストラン restaurant #card
 ほんやく: 食堂（しょくどう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_堂.html">堂</a>
 <!--ID: 1761557180422-->
 
 
- room #card
+ room | general standalone word for a room, whereas 室 is used within compound words like a meeting room #card
 ほんやく: 部屋（へや) 
+お/ご (honorific): お部屋(へや)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <!--ID: 1761557180423-->
 
 
- reception desk #card
+ reception desk / front desk | where visitors check in or are greeted, common in offices, hospitals, and hotels #card
 ほんやく: 受付（うけつけ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_受.html">受</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
@@ -646,28 +652,28 @@ computer #card
 <!--ID: 1761557180426-->
 
 
- manager #card
+ section manager / section chief | a mid-level supervisory rank within a department, below the rank of 部長 (department manager) #card
 ほんやく: 課長（かちょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_課.html">課</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1761557180427-->
 
 
- general manager #card
+ department manager / general manager | senior managerial rank overseeing an entire department, above 課長 (section chief) and below 社長 (company president) #card
 ほんやく: 部長（ぶちょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1761557180428-->
 
 
- CEO #card
+ CEO / company president | the top executive rank in a company, above 部長 (department manager) #card
 ほんやく: 社長（しゃちょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1761557180429-->
 
 
- on hundred milion #card
+ one hundred million #card
 ほんやく: 億（おく) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_億.html">億</a>
 <!--ID: 1761557180430-->
@@ -683,7 +689,7 @@ computer #card
 <!--ID: 1761557180431-->
 
 
- the general manager's room is over there #card
+ The general manager's room is over there #card
 ほんやく: 部長の部屋はあそこです（ぶちょう、へや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
@@ -700,7 +706,7 @@ computer #card
 <!--ID: 1761557180433-->
 
 
- there is a vending machine #card
+ There is a vending machine #card
 ほんやく: 自動販売機があります（じどうはんばいき) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
@@ -710,7 +716,7 @@ computer #card
 <!--ID: 1761557180434-->
 
 
- there is a flower #card
+ There is a flower #card
 ほんやく: 花があります (はな) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1761557180435-->
@@ -721,12 +727,12 @@ computer #card
 <!--ID: 1761557180436-->
 
 
- excuse me (when entering to room such a work place, office, ceo office and factory, interview) people reply, hai, douzo #card
+ excuse me | said when entering a room such as a workplace, office, or during an interview; the typical reply is はい、どうぞ (yes, please) #card
 ほんやく: しつれいします 
 <!--ID: 1761557180437-->
 
 
- well ,umm(start conversation, when hesitate to do something) #card
+ well / um | used to start a conversation or express hesitation before speaking #card
 ほんやく: あのう 
 <!--ID: 1761557180438-->
 
@@ -736,80 +742,80 @@ computer #card
 <!--ID: 1761557180439-->
 
 
- excuse me, pardon, im sorry, thank you #card
+ excuse me / sorry / thank you | a versatile phrase used to apologize, get someone's attention, or express thanks for someone's trouble #card
 ほんやく: すみません 
 <!--ID: 1761557180440-->
 
 
- you're welcome #card
+ you're welcome | polite reply to thanks; いいえ (no) softens the response instead of directly accepting the gratitude #card
 ほんやく: (いいえ）どういたしまして 
 <!--ID: 1761557180441-->
 
 
- 1 rzecz płaska  #card
+ 1 flat object #card
 ほんやく: 一枚（いちまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180442-->
 
 
- 2 rzeczy płaskie  #card
+ 2 flat objects #card
 ほんやく: 二枚（にまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_二.html">二</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180443-->
 
 
- 3 rzeczy płaskie  #card
+ 3 flat objects #card
 ほんやく: 三枚（さんまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_三.html">三</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180444-->
 
 
- 4 rzeczy płaskie  #card
+ 4 flat objects #card
 ほんやく: 四枚（よんまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180445-->
 
 
- 5 rzeczy płaskich #card
+ 5 flat objects #card
 ほんやく: 五枚（ごまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_五.html">五</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180446-->
 
 
- 6 rzeczy płaskich #card
+ 6 flat objects #card
 ほんやく: 六枚（ろくまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_六.html">六</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180447-->
 
 
- 7 rzeczy płaskich #card
+ 7 flat objects #card
 ほんやく: 七枚（ななまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180448-->
 
 
- 8 rzeczy płaskich #card
+ 8 flat objects #card
 ほんやく: 八枚（はちまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180449-->
 
 
- 9 rzeczy płaskich #card
+ 9 flat objects #card
 ほんやく: 九枚（きゅうまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_九.html">九</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
 <!--ID: 1761557180450-->
 
 
- 10 rzeczy płaskich #card
+ 10 flat objects #card
 ほんやく: 十枚（じゅうまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_枚.html">枚</a>
@@ -831,7 +837,7 @@ computer #card
 <!--ID: 1761557180453-->
 
 
- where is toilet? #card
+ where is the toilet? #card
 ほんやく: おてあらいはどちらですか 
 <!--ID: 1761557180454-->
 
@@ -843,7 +849,7 @@ computer #card
 <!--ID: 1761557180455-->
 
 
- There is a chair and desk over there #card
+ There is a chair and a desk over there #card
 ほんやく: あそこに椅子と机があります（いす、つくえ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_椅.html">椅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
@@ -851,12 +857,12 @@ computer #card
 <!--ID: 1761557180456-->
 
 
- there is a restroom next to the elevator #card
+ There is a restroom next to the elevator #card
 ほんやく: エレベーターの　となり に　トイレがあります 
 <!--ID: 1761557180457-->
 
 
- who is in the meeting room? #card
+ Who is in the meeting room? #card
 ほんやく: 会議室にだれがいますか (かいぎしつ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
@@ -874,7 +880,7 @@ computer #card
 <!--ID: 1761557180459-->
 
 
- That picture is on MR Ando desk #card
+ That picture is on Mr. Ando's desk #card
 ほんやく: あの写真はアンドさんの机の上にあります（しゃしん、つくえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
@@ -896,14 +902,14 @@ computer #card
 <!--ID: 1761557180461-->
 
 
- Where is the CEO #card
+ Where is the CEO? #card
 ほんやく: 社長はどこにいますか（しゃちょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <!--ID: 1761557180462-->
 
 
- Ceo is in that room #card
+ The CEO is in that room #card
 ほんやく:  社長はあの部屋にいます（しゃちょう、へや) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
@@ -961,7 +967,9 @@ computer #card
 
 
  8000 #card
-ほんやく: はっせん（はっせん）
+ほんやく: 八千（はっせん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_八.html">八</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
 <!--ID: 1761557180471-->
 
 

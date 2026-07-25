@@ -218,7 +218,7 @@ Woman, not yet
  ---
 
 
-the household is 4 people family (gospodarstwo domowe) #k #card
+the household is a family of 4 people #k #card
 家は四人家族です（うち、よにん、かぞく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
@@ -227,14 +227,15 @@ the household is 4 people family (gospodarstwo domowe) #k #card
 <!--ID: 1780855042772-->
 
 
-family #k #card
+family | the standard word for one's family or household #k #card
 家族（かぞく）
+お/ご (honorific): ご家族（かぞく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
 <!--ID: 1780855042773-->
 
 
-My family consist of 3 people: my father, mother and me #k #card
+My family consists of 3 people: my father, mother and me #k #card
 家族は父と母と私の三人です（かぞく、ちち、はは、さんにん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
@@ -246,7 +247,7 @@ My family consist of 3 people: my father, mother and me #k #card
 <!--ID: 1780855042774-->
 
 
-yamada family #k #card
+the Yamada family | an alternate reading of the same word for "family," used specifically when attached to a family name #k #card
 山田家（やまだけ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -254,7 +255,7 @@ yamada family #k #card
 <!--ID: 1780855042775-->
 
 
-my family lives in US #k #card
+my family lives in the US #k #card
 家族はアメリカに住んでいます（かぞく、す）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
@@ -262,15 +263,16 @@ my family lives in US #k #card
 <!--ID: 1780855042776-->
 
 
-noble family (rodzina szlachecka) #k #card
+noble family | refers to a family of noble or aristocratic lineage #k #card
 名族（めいぞく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
 <!--ID: 1780855042777-->
 
 
-residence/mieszkania #k #card
+residence | a somewhat formal word for where someone lives #k #card
 住まい（す）
+お/ご (honorific): お住まい（す）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_住.html">住</a>
 <!--ID: 1780855042778-->
 
@@ -291,14 +293,15 @@ Your mother lives in your residence, doesn't she? #k #card
 <!--ID: 1780855042780-->
 
 
-address #k #card
+address | the standard word for a postal/home address #k #card
 住所（じゅうしょ）
+お/ご (honorific): ご住所（じゅうしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_住.html">住</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1780855042781-->
 
 
-please, tell me company addres #k #card
+Please tell me the company's address #k #card
 会社の住所を教えてください（じゅうしょ、おしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -308,19 +311,19 @@ please, tell me company addres #k #card
 <!--ID: 1780855042782-->
 
 
-place #k #card
+place | a general, everyday word for a place or spot #k #card
 所（ところ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1780855042783-->
 
 
-close place, w pobliżu #k #card
+a nearby place #k #card
 近いところ（ちかいところ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <!--ID: 1780855042784-->
 
 
-The factory is in a good location(place), isn't it? #k #card
+The factory is in a good location (place), isn't it? #k #card
 工場はいい所にありますね（こうじょう、ところ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_工.html">工</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
@@ -328,7 +331,7 @@ The factory is in a good location(place), isn't it? #k #card
 <!--ID: 1780855042785-->
 
 
-Please write down your adress #k #card
+Please write down your address #k #card
 あなたの住所を書いてください（じゅうしょ、か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_住.html">住</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
@@ -336,21 +339,21 @@ Please write down your adress #k #card
 <!--ID: 1780855042786-->
 
 
-location, spot #k #card
+location / spot | often used for the specific location of an event or venue #k #card
 場所（ばしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1780855042787-->
 
 
-Where is location of the party? #k #card
+Where is the location of the party? #k #card
 パーチイーの場所はどこですか（ばしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1780855042788-->
 
 
-where is location of the company? #k #card
+Where is the location of the company? #k #card
 会社の場所はどこですか（ばしょ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
@@ -359,14 +362,14 @@ where is location of the company? #k #card
 <!--ID: 1780855042789-->
 
 
-father  mother (formal, general term, any father) #k #card
+father | a formal, general term for "a father," not necessarily one's own #k #card
 父親（ちちおや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
 <!--ID: 1780855042790-->
 
 
-mother (formal, general term, any mother) #k #card
+mother | a formal, general term for "a mother," not necessarily one's own #k #card
 母親（ははおや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
@@ -393,7 +396,7 @@ Parents live in my elder brother's house #k #card
 <!--ID: 1780855042793-->
 
 
-parents #k #card
+parents | a plural compound referring to one's parents together #k #card
 親たち（おや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
 <!--ID: 1780855042794-->
@@ -409,14 +412,20 @@ My parents are learning Chinese on TV #k #card
 <!--ID: 1780855042795-->
 
 
-intimate, intymny, bliski #k #card
-親しい（した）
+close / friendly (of a relationship) | describes emotional closeness between people, like close friends or family; does not carry the romantic/physical connotation the English word "intimate" often has #k #card
+ほんやく: 親しい（した）
+過去形: 親しかった
+否定形: 親しくない
+副詞形: 親しく
+そう (looks): 親しそう
+お/ご (honorific): お親しい（した）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
 <!--ID: 1780855042796-->
 
 
-relatives #k #card
+relatives | a more formal word covering extended family members, broader than immediate family #k #card
 親族(しんぞく)
+お/ご (honorific): ご親族（しんぞく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
 <!--ID: 1780855042797-->
@@ -432,21 +441,21 @@ That building is my company #k #card
 <!--ID: 1780855042798-->
 
 
-private school #k #card
+private school | refers to a privately-run (non-public) school #k #card
 私学（しがく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <!--ID: 1780855042799-->
 
 
-private university #k #card
+private university | refers to a privately-run (non-public) university #k #card
 私大 (しだい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <!--ID: 1780855042800-->
 
 
-that university is private university #k #card
+That university is a private university #k #card
 あの大学は大学です(しだい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -464,14 +473,14 @@ My father is a teacher at the private university #k #card
 <!--ID: 1780855042802-->
 
 
-older brother #k #card
+older brother | the plain, casual word used for referring to one's own elder brother #k #card
 兄（あに）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <!--ID: 1781012605916-->
 
 
 
-by elder brother #k #card
+my elder brother #k #card
 私の兄（あに）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
@@ -486,7 +495,7 @@ My elder brother is my only sibling #k #card
 <!--ID: 1780855042804-->
 
 
-please tell me the address of your elder brother's company #k #card
+Please tell me the address of your elder brother's company #k #card
 お兄さんの会社の住所を教えて下さい（にい、じゅうしょ、おし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
@@ -498,13 +507,13 @@ please tell me the address of your elder brother's company #k #card
 <!--ID: 1780855042805-->
 
 
-odder brother (with more respect) #k #card
+older brother (with more respect) | an honorific term for addressing or referring to someone's older brother — or one's own, when speaking respectfully #k #card
 お兄さん（にい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <!--ID: 1780855042806-->
 
 
-Mr. yamada's elder brother #k #card
+Mr. Yamada's elder brother #k #card
 山田さんのお兄さん（にい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -520,14 +529,15 @@ Does your elder brother have any children? #k #card
 <!--ID: 1780855042808-->
 
 
-brothers #k #card
+brothers / siblings | can refer specifically to brothers, but is also commonly used generically for siblings regardless of gender #k #card
 兄弟（きょうだい）
+お/ご (honorific): ご兄弟（きょうだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <!--ID: 1780855042809-->
 
 
-my father has no brothers #k #card
+My father has no brothers #k #card
 父は兄弟はいません（きょうだい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
@@ -535,14 +545,14 @@ my father has no brothers #k #card
 <!--ID: 1780855042810-->
 
 
-eldest brother #k #card
+eldest brother | an old-fashioned, literary word for the eldest brother #k #card
 長兄（ちょうけい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <!--ID: 1780855042811-->
 
 
-younger brother #k #card
+younger brother | the plain, casual word used for referring to one's own younger brother #k #card
 弟（おとうと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <!--ID: 1780855042812-->
@@ -556,7 +566,7 @@ company of the younger brother #k #card
 <!--ID: 1780855042813-->
 
 
-younger brother is studying at the university #k #card
+My younger brother is studying at the university #k #card
 弟は大学で勉強しています（おとうと、べんきょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
@@ -566,27 +576,27 @@ younger brother is studying at the university #k #card
 <!--ID: 1780855042814-->
 
 
-minors in a family (nieletni) #k #card
+children / the younger generation (of a family) | often used in formal contexts about educating or raising the young #k #card
 子弟（してい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <!--ID: 1780855042815-->
 
 
-pupil #k #card
+disciple / apprentice | refers to a student or follower under a master's guidance, not a general schoolchild #k #card
 弟子（でし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <!--ID: 1780855042816-->
 
 
-older sister, #k #card
+older sister | the plain, casual word used for referring to one's own elder sister #k #card
 姉（あね）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <!--ID: 1780855042817-->
 
 
-my elder sister is a froreign language teacher #k #card
+my elder sister is a foreign language teacher #k #card
 姉は外国語の先生です（あね、がいこくご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
@@ -607,13 +617,13 @@ Please tell me your elder sister's address #k #card
 <!--ID: 1780855042819-->
 
 
-older sister, with respect/your #k #card
-お姉さん（おね）
+older sister (with respect / referring to someone else's) | an honorific term for addressing or referring to someone's older sister — or one's own, when speaking respectfully #k #card
+お姉さん（おねえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <!--ID: 1780855042820-->
 
 
-what kind of work is your sister doing? #k #card
+What kind of work is your sister doing? #k #card
 あなたのお姉さんはどんな仕事をしていますか(ねえ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
@@ -621,14 +631,15 @@ what kind of work is your sister doing? #k #card
 <!--ID: 1780855042821-->
 
 
-sisters #k #card
+sisters | can refer specifically to sisters, but is also commonly used generically for female siblings together #k #card
 姉妹（しまい）
+お/ご (honorific): ご姉妹（しまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
 <!--ID: 1780855042822-->
 
 
-We are the family of three sisters #k #card
+We are a family of three sisters #k #card
 家は3人姉妹です（しまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
@@ -637,7 +648,7 @@ We are the family of three sisters #k #card
 <!--ID: 1780855042823-->
 
 
-younger sister #k #card
+younger sister | the plain, casual word used for referring to one's own younger sister #k #card
 妹（いもうと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
 <!--ID: 1780855042824-->
@@ -651,13 +662,13 @@ letter from the younger sister #k #card
 <!--ID: 1780855042825-->
 
 
-younger sister (your) #k #card
+younger sister (someone else's) | the polite form used when referring to another person's younger sister #k #card
 妹さん（いもうと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
 <!--ID: 1780855042826-->
 
 
-Younger sister is learning chinese (formal learning) #k #card
+My younger sister is learning Chinese (formal learning) #k #card
 妹は中国語を学習していました (いもうと、がくしゅう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
@@ -668,7 +679,7 @@ Younger sister is learning chinese (formal learning) #k #card
 <!--ID: 1780855042827-->
 
 
-My younger sister will study chinese at the university from april #k #card
+My younger sister will study Chinese at the university from April #k #card
 妹は四月から大学で中国語を勉強します（いもうと、しがつ、べんきょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_妹.html">妹</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_四.html">四</a>
@@ -691,14 +702,15 @@ My younger sister is my only sibling #k #card
 <!--ID: 1780855042829-->
 
 
-serve #k #card
+to serve | a formal, somewhat archaic word for serving a lord or master, not everyday customer service #k #card
 ほんやく: 仕える（つか）
 て形: 仕えて
 た形: 仕えた
 ます形: 仕えます
 出す形 (start): 仕え出す
 そう (looks): 仕えそう
-お〜になる (honorific): お仕えになる
+お〜になる/special verb (honorific):お仕えになる
+謙譲語 (humble): お仕えいたす／お仕えします
 ない形: 仕えない
 なかった形: 仕えなかった
 あれる形 (passive/honorific): 仕えられる
@@ -711,8 +723,9 @@ serve #k #card
 <!--ID: 1780855042830-->
 
 
-job #k #card
+job / work | the standard, everyday word for one's job or work #k #card
 仕事（しごと）
+お/ご (honorific): お仕事（しごと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1780855042831-->
@@ -727,20 +740,20 @@ My younger brother is not working now #k #card
 <!--ID: 1780855042832-->
 
 
-waiter #k #card
+waiter | an old-fashioned, formal word for a waiter; modern Japanese usually uses other terms #k #card
 給仕（きゅうじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_給.html">給</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <!--ID: 1780855042833-->
 
 
-thing #k #card
+thing | an abstract "thing" — an event, matter, or intangible fact — as opposed to a tangible physical object #k #card
 事（こと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1780855042834-->
 
 
-matter, things #k #card
+matter / things | a broad compound covering things and matters in general #k #card
 物事（ものごと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
@@ -765,8 +778,9 @@ I don't know that person's job #k #card
 <!--ID: 1780855042837-->
 
 
-business #k #card
+business | a formal word for a business venture or enterprise, distinct from everyday "job/work" #k #card
 事業（じぎょう）
+お/ご (honorific): ご事業（じぎょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1780855042838-->

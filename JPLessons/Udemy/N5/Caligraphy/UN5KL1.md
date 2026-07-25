@@ -140,95 +140,100 @@ TARGET DECK: N5-Udemy::N5-Udemy-Caligraphy::UN5KL1-2
 
  Rzeczowniki:
 
- top of the mountain #card
+ top of the mountain | refers to the summit/peak area of a mountain #card
 ほんやく: 山の上(やまのうえ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <!--ID: 1761658965598-->
 
 
- near the river #card
+ near the river | describes a location close to a river #card
 ほんやく: 川の近く(かわのちかく) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_川.html">川</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <!--ID: 1761658965600-->
 
 
- river (formal name, river category)  #card
+ river | a formal, written term used as an umbrella category for rivers (e.g. in official/administrative contexts), more formal than the everyday word for river #card
 ほんやく: 河川（かせん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_河.html">河</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_川.html">川</a>
 <!--ID: 1761658965602-->
 
 
- ceiling #card
+ ceiling | the interior upper surface of a room #card
 ほんやく: 天井（てんじょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_井.html">井</a>
 <!--ID: 1761658965603-->
 
 
- tenpura #card
+ tempura | a Japanese dish of battered and deep-fried seafood or vegetables #card
 ほんやく: 天ぷら（てん) 
+お/ご (honorific): お天ぷら(てん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <!--ID: 1761658965604-->
 
 
- feeling #card
+ feeling | one's emotional state or physical sensation, a common everyday word #card
 ほんやく: 気持ち (きもち) 
+お/ご (honorific): お気持ち(きもち)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 <!--ID: 1761658965605-->
 
 
- rice field #card
+ rice field | a general, everyday word for a rice paddy/field #card
 ほんやく: 田んぼ（た）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1761658965606-->
 
 
- rural district, countryside #card
+ rural district, countryside | evokes a pastoral, idyllic rural/agricultural landscape #card
 ほんやく: 田園（でんえん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_園.html">園</a>
 <!--ID: 1761658965607-->
 
 
- water #card
+ paddy field | a rice field that is deliberately flooded with water during cultivation #card
 ほんやく: 水田（すいでん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1761658965608-->
 
 
- heavy rain #card
+ heavy rain | rain falling in large volume/intensity #card
 ほんやく: 大雨(おおあめ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <!--ID: 1761658965609-->
 
 
- rainy day #card
-ほんやく: あめのひ（あめのひ) 
+ rainy day | a day on which it rains #card
+ほんやく: 雨の日（あめのひ) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761658965610-->
 
 
- thunderstorm #card
+ thunderstorm | a storm combining thunder and rain #card
 ほんやく: 雷雨(らいう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雷.html">雷</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <!--ID: 1761658965611-->
 
 
- rainy season #card
+ rainy season | the season of the year with the most rainfall (monsoon-like period) #card
 ほんやく: 雨季(うき) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_季.html">季</a>
 <!--ID: 1761658965612-->
 
 
- chair/krzeslo #card
+ chair | krzesło — the everyday word for a chair #card
 ほんやく: いす 
+お/ご (honorific): おいす
 <!--ID: 1761658965613-->
 
 

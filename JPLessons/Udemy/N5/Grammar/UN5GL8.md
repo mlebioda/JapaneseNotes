@@ -456,7 +456,7 @@ Examples:
 <!--ID: 1763177150127-->
 
 
- Understanding japanese adjectives #card
+ Understanding Japanese adjectives | がわかること nominalizes 'to understand' via こと, framing it as a topic or goal #card
 ほんやく: 日本語の形容詞がわかること（けいようし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -467,7 +467,7 @@ Examples:
 <!--ID: 1763177150131-->
 
 
- adjectives #card
+ adjectives | the grammatical category for descriptive words in Japanese, covering both い-adjectives and な-adjectives #card
 ほんやく: 形容詞（けいようし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_形.html">形</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_容.html">容</a>
@@ -475,21 +475,21 @@ Examples:
 <!--ID: 1763177150134-->
 
 
- phone  #card
+ phone | the お- prefix adds politeness, common in customer service and formal speech #card
 ほんやく: (お）電話 （でんわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1763177150137-->
 
 
- cellphone #card
+ cellphone | けいたい alone is often used as shorthand for cellphone/mobile #card
 ほんやく: けいたい電話（でんわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1763177150139-->
 
 
- to make a phone call (2 sposoby) #card
+ to make a phone call (2 ways) | 掛ける is the standard verb for placing a call, while する here is a casual shorthand often heard in speech #card
 ほんやく: 電話を掛ける/suru（でんわ, か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
@@ -497,7 +497,7 @@ Examples:
 <!--ID: 1763177150142-->
 
 
- to answer the phone #card
+ to answer the phone | 出る here means to appear/respond; casual speech often instead uses 電話を取る (to pick up the phone) #card
 ほんやく: 電話**に**出る（でんわ、で）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
@@ -505,7 +505,7 @@ Examples:
 <!--ID: 1763177150146-->
 
 
- reject phone call #card
+ to hang up the phone | 切る (to cut) implies ending the call; can also describe hanging up abruptly on someone #card
 ほんやく: 電話を切る（でんわ、き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
@@ -513,21 +513,21 @@ Examples:
 <!--ID: 1763177150152-->
 
 
- can i call? #card
+ can I call? #card
 ほんやく: 電話してもいいですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1763177150155-->
 
 
- call to mother (2 ways) #card
+ to call mother (2 ways) | に and へ are interchangeable here since both simply mark the call's destination #card
 ほんやく: 母（に・へ）(する・掛ける)(か)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_掛.html">掛</a>
 <!--ID: 1763177150158-->
 
 
- call to hospital #card
+ I call the hospital #card
 ほんやく: 病院に電話します（びょういん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_病.html">病</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_院.html">院</a>
@@ -536,7 +536,7 @@ Examples:
 <!--ID: 1763177150162-->
 
 
- global   #card
+ global | typically used as a な-adjective, e.g. グローバルな問題 (a global issue) #card
 ほんやく: グローバル
 <!--ID: 1763177150165-->
 
@@ -551,7 +551,7 @@ Examples:
 <!--ID: 1763177150171-->
 
 
- very   #card
+ very | used only in affirmative statements; for negative degree, あまり is used instead #card
 ほんやく: とても
 <!--ID: 1763177150175-->
 
@@ -579,7 +579,7 @@ Examples:
 <!--ID: 1763177150185-->
 
 
- not much   #card
+ not much | あんまり is a more casual, emphatic variant heard in speech #card
 ほんやく: あまり(あんまり) + negative
 <!--ID: 1763177150187-->
 
@@ -609,7 +609,7 @@ Examples:
 <!--ID: 1763177150196-->
 
 
- busy everyday #card
+ busy every day #card
 ほんやく: 忙しい毎日（いそが、まいにち）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_忙.html">忙</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
@@ -624,7 +624,7 @@ Examples:
 <!--ID: 1763177150201-->
 
 
- interesting movie #k #card
+ movies are interesting #k #card
 ほんやく: 映画は面白い（えいが、おもしろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
@@ -651,23 +651,24 @@ Examples:
 
  color #color #card
 ほんやく: 色（いろ)
+お/ご (honorific): お色(いろ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1763177150212-->
 
 
- white, biel  #k #color #card
+ white  #k #color #card
 ほんやく: 白（しろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1763177150215-->
 
 
- black , czerń  #k #color #card
+ black  #k #color #card
 ほんやく: 黒（くろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <!--ID: 1763177150218-->
 
 
- red, czerwień   #k #color #card
+ red  #k #color #card
 ほんやく: 赤（あか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
 <!--ID: 1763177150220-->
@@ -693,7 +694,7 @@ Examples:
 <!--ID: 1763177150228-->
 
 
- naby blue (how to make color) #k #color #card
+ navy blue (how to make color) #k #color #card
 ほんやく: 紺色（の）（こんいろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紺.html">紺</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
@@ -738,7 +739,7 @@ Examples:
 
 
  purple notebook #card
-ほんやく: 紫のノット（むらさき）
+ほんやく: 紫のノート（むらさき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紫.html">紫</a>
 <!--ID: 1763177150250-->
 
@@ -763,7 +764,7 @@ Examples:
 <!--ID: 1763177150259-->
 
 
- The (from) school is close to my house #k #card
+ It is close from school to home #k #card
 ほんやく: 学校から家までは近いです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
@@ -779,14 +780,14 @@ Examples:
 
 
  far from the flower shop #card
-ほんやく: 花屋か遠い（はなや、とお）
+ほんやく: 花屋から遠い（はなや、とお）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遠.html">遠</a>
 <!--ID: 1763177150268-->
 
 
- it is far from saitama to yamanashi #k #card
+ it is far from Saitama to Yamanashi #k #card
 ほんやく: さいたまから山梨までは遠いです（やまなし、とおい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_梨.html">梨</a>
@@ -800,14 +801,15 @@ Examples:
 <!--ID: 1763177150273-->
 
 
- weather  #k #card
+ weather | refers to short-term weather conditions, distinct from 気候 (climate, long-term patterns) #k #card
 ほんやく: 天気（てんき）
+お/ご (honorific): お天気(てんき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <!--ID: 1763177150275-->
 
 
- today is a good weather, isn't is? #card
+ the weather is nice today, isn't it? #card
 ほんやく: 今日はいい天気ですね
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -816,7 +818,7 @@ Examples:
 <!--ID: 1763177150277-->
 
 
- good wether #card
+ good weather #card
 ほんやく: 天気がいい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
@@ -840,7 +842,7 @@ Examples:
 <!--ID: 1763177150285-->
 
 
- building  #k #card
+ building | the general, more formal term for a building, as opposed to the casual loanword ビル #k #card
 ほんやく: 建物（たてもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
@@ -855,7 +857,7 @@ Examples:
 <!--ID: 1763177150289-->
 
 
- Japan hotel is that tall building #w #card
+ Japan Hotel is that tall building #w #card
 ほんやく: ジャパンホテルはあの高い建物です（たか、たてもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
@@ -873,14 +875,15 @@ Examples:
 <!--ID: 1763177150296-->
 
 
- care / help  #k #card
+ care / help | most often appears in set phrases like お世話になる (to be indebted to someone for their help) #k #card
 ほんやく: 世話（せわ）
+お/ご (honorific): お世話(せわ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1763177150298-->
 
 
- building   #card
+ building | a modern loanword typically used for office/commercial high-rises, more casual than 建物 #card
 ほんやく: ビル
 <!--ID: 1763177150302-->
 
@@ -906,8 +909,9 @@ Examples:
 <!--ID: 1763177150308-->
 
 
- kind #card
+ kind | a な-adjective describing considerate, helpful behavior toward others #card
 ほんやく: 親切（しんせつ）
+お/ご (honorific): ご親切(しんせつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1763177150313-->
@@ -921,7 +925,7 @@ Examples:
 <!--ID: 1763177150316-->
 
 
- endrgetic person #card
+ energetic person #card
 ほんやく: 元気な人（げんき、ひと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
@@ -929,7 +933,7 @@ Examples:
 <!--ID: 1763177150320-->
 
 
- silent night #card
+ quiet night #card
 ほんやく: しずか **な** 夜（よる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夜.html">夜</a>
 <!--ID: 1763177150322-->
@@ -960,7 +964,7 @@ Examples:
 <!--ID: 1763177150331-->
 
 
- that hotel wasnt too good #card
+ that hotel wasn't too good #card
 ほんやく: あのホテルはあまり良くなかったです(よ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_良.html">良</a>
 <!--ID: 1763177150334-->
@@ -977,7 +981,7 @@ Examples:
 <!--ID: 1763177150337-->
 
 
- Is hotel expensive or cheap? #card
+ Is the hotel expensive or cheap? #card
 ほんやく: ホテルは高いですか、安いですか（たか、やす）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_安.html">安</a>
@@ -991,8 +995,8 @@ Examples:
 <!--ID: 1763177150342-->
 
 
- thank you for calling, this is ABC global co ltd #card
-ほんやく: お電話ありがとうございます。ABCグロバツ株式会社です（かぶしきがいしゃ）
+ thank you for calling, this is ABC Global Co., Ltd. #card
+ほんやく: お電話ありがとうございます。ABCグローバル株式会社です（かぶしきがいしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_株.html">株</a>
@@ -1002,22 +1006,22 @@ Examples:
 <!--ID: 1763177150344-->
 
 
- Thank you for cooperation (in company is greeting to partners or clients whom your company has had long relations with) used for example as greting or answer call to them + how to greet #card
-ほんやく: お世話になってあります（せわ）+ company name + no name desu
+ Thank you for cooperation (in company is greeting to partners or clients whom your company has had long relations with) used for example as greeting or answer call to them + how to greet #card
+ほんやく: お世話になっております（せわ）+ company name + no name desu
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1763177150347-->
 
 
- As a gereting when you **call to long cooperation clien**t + company branch name and name #card
-ほんやく: お世話んいなってあります（おせわ）おおさかししゃのミケルです
+ As a greeting when you **call to long cooperation client** + company branch name and name #card
+ほんやく: お世話になっております（おせわ）おおさかししゃのミケルです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1763177150351-->
 
 
- It is there #card
-ほんやく: あそこですか (higher tone at the and)
+ Is it over there? #card
+ほんやく: あそこですか (higher tone at the end)
 <!--ID: 1763177150353-->
 
 
@@ -1027,7 +1031,7 @@ Examples:
 <!--ID: 1763177150356-->
 
 
- I will stay at hotel near Akihabara station #card
+ I will stay at a hotel near Akihabara Station #card
 ほんやく: あきはばら駅に 近いホテルに泊まります（えき、ちか、と)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
@@ -1041,7 +1045,7 @@ Examples:
 <!--ID: 1763177150361-->
 
 
- suzuki knows yamada #k #card
+ Suzuki knows Yamada #k #card
 ほんやく: 鈴木さんは山田さんを知っています (し）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鈴.html">鈴</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
@@ -1051,14 +1055,14 @@ Examples:
 <!--ID: 1763177150364-->
 
 
- i don't know that song #card
+ I don't know that song #card
 ほんやく: あの歌を知りません（うた、し）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
 <!--ID: 1763177150369-->
 
 
- it will be not cold this week #card
+ it won't be cold this week #card
 ほんやく: 今週は寒くないです（こんしゅう、さむ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_週.html">週</a>
@@ -1090,14 +1094,14 @@ Examples:
 <!--ID: 1763177150387-->
 
 
- How is this coffee? B: It is very delicious #k #card
+ A: How is this coffee? B: It is very delicious #k #card
 ほんやく: A: このコーヒーはどうですか B: とても美味しいです（おいしい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_美.html">美</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_味.html">味</a>
 <!--ID: 1763177150391-->
 
 
- how was yesterday work? B: It wasn't so busy #card
+ A: How was work yesterday? B: It wasn't so busy #card
 ほんやく: A: 昨日の仕事はどうでしたか B: あまり忙しくなかったです（いそが）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1107,7 +1111,7 @@ Examples:
 <!--ID: 1763177150394-->
 
 
- How was the trip? B: It was fun #card
+ A: How was the trip? B: It was fun #card
 ほんやく: A: 旅行はどうでしたか  B：楽しかったです（たの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -1131,7 +1135,7 @@ Examples:
 <!--ID: 1763177150402-->
 
 
- train came late #card
+ The train came late #card
 ほんやく: 電車は遅く来ました（でんしゃ、おそ, き)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
@@ -1207,7 +1211,7 @@ Examples:
 <!--ID: 1763177150423-->
 
 
- I will go to Kyoto tomorrow **but** I will come back to Tokio at night #k   #card
+ I will go to Kyoto tomorrow **but** I will come back to Tokyo at night #k   #card
 ほんやく: 明日京都に**行きますが**、夜に東京に戻ります（もど）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1220,7 +1224,7 @@ Examples:
 <!--ID: 1763177150426-->
 
 
- (Even thought) my house is far from the station, but there is a bus #k #card
+ (Even though) my house is far from the station, but there is a bus #k #card
 ほんやく: 家から　駅までは**遠いですが**、バスがあります（いえ、えき、とお）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
@@ -1228,7 +1232,7 @@ Examples:
 <!--ID: 1763177150428-->
 
 
- I went to school but i did not meet the teacher #k #card
+ I went to school but I did not meet the teacher #k #card
 ほんやく: 学校に行**きましたが**、先生に会いませんでした(あ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
@@ -1239,19 +1243,19 @@ Examples:
 <!--ID: 1763177150431-->
 
 
- Which one is Hotel podmiotem jest hotel #card
+ Which one is the hotel? #card
 ほんやく: ホテルはどれですか (podmiotem jest hotel)
 <!--ID: 1763177150434-->
 
 
- who is mr yamada?  #card
+ who is Mr. Yamada? #card
 ほんやく: 山田さんはだれですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <!--ID: 1763177150436-->
 
 
- that white building is hotel (hotel podmiot) #card
+ that white building is the hotel (subject = hotel) #card
 ほんやく: あの白い建物がホテルです（しろ、たてもの）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_建.html">建</a>
@@ -1259,7 +1263,7 @@ Examples:
 <!--ID: 1763177150439-->
 
 
- that person is mr yamada (podmiot to yamada) #card
+ that person is Mr. Yamada (subject = Yamada) #card
 ほんやく: あの人が山田さんです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
@@ -1267,7 +1271,7 @@ Examples:
 <!--ID: 1763177150441-->
 
 
- (Jesli chodzi) Yamade, jedzie do osaki #card
+ as for Yamada, he is going to Osaka #card
 ほんやく: 山田さんは大阪に行きます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -1277,7 +1281,7 @@ Examples:
 <!--ID: 1763177150444-->
 
 
- (Konkretnie to) Yamada jedzie do osaki #card
+ it is specifically Yamada who is going to Osaka #card
 ほんやく: 山田さんが大阪に行きます(おおさか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -1288,14 +1292,15 @@ Examples:
 
 
 
-uruchomić, wykonywać czynność #wc #card
+to turn on / to operate (a switch, device) | a versatile verb that can also mean to hang something, to spend time or money, or to make a phone call #wc #card
 ほんやく: 掛ける（か）
 て形: 掛けて
 た形: 掛けた
 ます形: 掛けます
 出す形 (start): 掛け出す
 そう (looks): 掛けそう
-お〜になる (honorific): お掛けになる
+お〜になる/special verb (honorific):お掛けになる
+謙譲語 (humble): お掛けいたす／お掛けします
 ない形: 掛けない
 なかった形: 掛けなかった
 あれる形 (passive/honorific):  掛けられる
@@ -1308,14 +1313,15 @@ uruchomić, wykonywać czynność #wc #card
 <!--ID: 1763177150452-->
 
 
-to stay the night #wc #card
+to stay the night | implies an overnight stay, e.g. at a hotel or inn, as opposed to 住む (to live/reside somewhere long-term) #wc #card
 ほんやく: 泊まる（とまる）
 て形: 泊まって
 た形: 泊まった
 ます形: 泊まります
 出す形 (start): 泊まり出す
 そう (looks): 泊まりそう
-お〜になる (honorific): お泊まりになる
+お〜になる/special verb (honorific):お泊まりになる
+謙譲語 (humble): お泊まりいたす／お泊まりします
 ない形: 泊まらない
 なかった形: 泊まらなかった
 あれる形 (passive/honorific):  泊まられる
@@ -1328,14 +1334,15 @@ to stay the night #wc #card
 <!--ID: 1763177150455-->
 
 
-to know + particle #k #wc #card
+to know + particle | describes acquiring or possessing a piece of information, contrasted with わかる (to understand/comprehend) #k #wc #card
 ほんやく: 知る（を）（しる）
 て形: 知って
 た形: 知った
 ます形: 知ります
 出す形 (start): 知り出す
 そう (looks): 知りそう
-お〜になる (honorific): お知りになる
+お〜になる/special verb (honorific):お知りになる
+謙譲語 (humble): お知りいたす／お知りします
 ない形: 知らない
 なかった形: 知らなかった
 あれる形 (passive/honorific):  知られる
@@ -1348,17 +1355,18 @@ to know + particle #k #wc #card
 <!--ID: 1763177150458-->
 
 
-busy #wp #card
+busy | commonly used to politely decline invitations by citing a busy schedule #wp #card
 ほんやく: 忙しい（いそがしい）
 過去形: いそがしかった  
 否定形: いそがしくない  
 副詞形: いそがしく
 そう (looks): 忙しそう
+お/ご (honorific): お忙(いそが)しい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_忙.html">忙</a>
 <!--ID: 1763177150461-->
 
 
-interesting #k #wp #card
+interesting | can also mean funny or amusing depending on context, broader than just 'interesting' #k #wp #card
 ほんやく: 面白い（おもしろい）
 過去形: おもしろかった  
 否定形: おもしろくない  
@@ -1369,7 +1377,7 @@ interesting #k #wp #card
 <!--ID: 1763177150464-->
 
 
-fun #k #wp #card
+fun | describes an enjoyable experience, distinct from 面白い which leans toward interesting/amusing #k #wp #card
 ほんやく: 楽しい（たのしい）
 過去形: たのしかった  
 否定形: たのしくない  
@@ -1379,7 +1387,7 @@ fun #k #wp #card
 <!--ID: 1763177150466-->
 
 
-difficult #wp #card
+difficult | describes intellectual or technical difficulty, contrasted with 大変, which describes hardship or toughness generally #wp #card
 ほんやく: 難しい（むずかしい）
 過去形: むずかしかった  
 否定形: むずかしくない  
@@ -1389,7 +1397,7 @@ difficult #wp #card
 <!--ID: 1763177150469-->
 
 
-easy / simple #wp #card
+easy / simple | describes tasks or material requiring little effort, the opposite of 難しい #wp #card
 ほんやく: 易しい（やさしい）
 過去形: やさしかった  
 否定形: やさしくない  
@@ -1419,7 +1427,7 @@ small #k #wp #card
 <!--ID: 1763177150477-->
 
 
-cold #wp #card
+cold | describes ambient or weather temperature, contrasted with 冷たい, which describes the coldness of objects or drinks to the touch #wp #card
 ほんやく: 寒い（さむい）
 過去形: さむかった  
 否定形: さむくない  
@@ -1429,7 +1437,7 @@ cold #wp #card
 <!--ID: 1763177150480-->
 
 
-hot #k #wp #card
+hot | 熱い is for hot objects or liquids to the touch, 暑い is for hot weather or air temperature #k #wp #card
 ほんやく: 熱い・暑い（あつい）
 過去形: あつかった  
 否定形: あつくない  
@@ -1440,7 +1448,7 @@ hot #k #wp #card
 <!--ID: 1763177150482-->
 
 
-high / tall / expensive #k #wp #card
+high / tall / expensive | covers height, altitude, and price; the formal written term for 'expensive' alone is 高価 #k #wp #card
 ほんやく: 高い（たかい）
 過去形: たかかった  
 否定形: たかくない  
@@ -1450,7 +1458,7 @@ high / tall / expensive #k #wp #card
 <!--ID: 1763177150486-->
 
 
-cheap #k #wp #card
+cheap | can also carry a nuance of cheaply made or low quality, depending on context #k #wp #card
 ほんやく: 安い（やすい）
 過去形: やすかった  
 否定形: やすくない  
@@ -1470,7 +1478,7 @@ new #k #wp #card
 <!--ID: 1763177150492-->
 
 
-old #k #wp #card
+old | used for objects, buildings, and abstract things; not used to describe a person's age (年寄り is used for elderly people) #k #wp #card
 ほんやく: 古い（ふるい）
 過去形: ふるかった  
 否定形: ふるくない  
@@ -1480,7 +1488,7 @@ old #k #wp #card
 <!--ID: 1763177150495-->
 
 
-good #wp #card
+good | いい is the common modern reading, よい is more formal or literary and required in some fixed expressions #wp #card
 ほんやく: 良い（いい・よい）
 過去形: よかった  
 否定形: よくない  
@@ -1490,7 +1498,7 @@ good #wp #card
 <!--ID: 1763177150498-->
 
 
-bad #k #wp #card
+bad | can also mean 'at fault', e.g. 私が悪い (it's my fault) #k #wp #card
 ほんやく: 悪い（わるい）
 過去形: わるかった  
 否定形: わるくない  
@@ -1500,7 +1508,7 @@ bad #k #wp #card
 <!--ID: 1763177150502-->
 
 
-white #k #color #wp #card
+white | appears in the idiom 白黒つける, to make a clear distinction between right and wrong #k #color #wp #card
 ほんやく: 白い（しろい）
 過去形: しろかった  
 否定形: しろくない  
@@ -1520,7 +1528,7 @@ black #k #color #wp #card
 <!--ID: 1763177150507-->
 
 
-red #k #color #wp #card
+red | also used as an emphatic prefix meaning 'complete/total', e.g. 真っ赤な嘘 (a complete lie) #k #color #wp #card
 ほんやく: 赤い（あかい）
 過去形: あかかった  
 否定形: あかくない  
@@ -1530,13 +1538,15 @@ red #k #color #wp #card
 <!--ID: 1763177150510-->
 
 
-blue #k #color #wp #card
+blue | traditionally also covers what English calls green in some fixed expressions, e.g. 青信号 (a green traffic light) #k #color #wp #card
 ほんやく: 青い（あおい）
 過去形: あおかった  
 否定形: あおくない  
 副詞形: あおく
 そう (looks): 青そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
+<!--ID: 1784877914674-->
+
 
 yellow #k #color #wp #card
 ほんやく: 黄色い（きいろい）
@@ -1560,7 +1570,7 @@ brown #k #color #wp #card
 <!--ID: 1763177150518-->
 
 
-cool (chłodny) #wp #card
+cold (to the touch) #wp #card
 ほんやく: 冷たい（つめたい）
 過去形: つめたかった  
 否定形: つめたくない  
@@ -1580,7 +1590,7 @@ warm #k #wp #card
 <!--ID: 1763177150522-->
 
 
-near, close #k #wp #card
+near, close | commonly paired with に or から to mark the reference point being measured from #k #wp #card
 ほんやく: 近い（ちかい）
 過去形: ちかかった  
 否定形: ちかくない  
@@ -1590,7 +1600,7 @@ near, close #k #wp #card
 <!--ID: 1763177150525-->
 
 
-far #wp #card
+far | commonly paired with から to mark the starting point of the distance #wp #card
 ほんやく: 遠い（とおい）
 過去形: とおかった  
 否定形: とおくない  
@@ -1620,7 +1630,7 @@ narrow #wp #card
 <!--ID: 1763177150534-->
 
 
-early / fast #wp #card
+early / fast | 早い is used for time (early), 速い for speed (fast); the two are pronounced the same but written with different kanji #wp #card
 ほんやく: 早い・速い（はやい）
 過去形: はやかった  
 否定形: はやくない  
@@ -1631,7 +1641,7 @@ early / fast #wp #card
 <!--ID: 1763177150537-->
 
 
-late / slow #wp #card
+late / slow | a single word covers both 'late' (time) and 'slow' (speed), unlike the early/fast pair which splits across two kanji #wp #card
 ほんやく: 遅い（おそい）
 過去形: おそかった  
 否定形: おそくない  
@@ -1652,7 +1662,7 @@ delicious (more polite) #wp #card
 <!--ID: 1763177150543-->
 
 
-delicious (less polite, często używane przez mężczyzn) #wp #card
+delicious (less polite, often used by men) #wp #card
 ほんやく: うまい
 過去形: うまかった  
 否定形: うまくない  
@@ -1670,7 +1680,7 @@ bad (not tasty) #wp #card
 <!--ID: 1763177150548-->
 
 
-short, niski #wp #card
+short / low (height) #wp #card
 ほんやく: 低い（ひくい）
 過去形: ひくかった  
 否定形: ひくくない  

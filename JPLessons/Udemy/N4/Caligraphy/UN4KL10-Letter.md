@@ -231,20 +231,22 @@ under the ground is the body without head covered in RED blood
 
  Rzeczowniki:
 
- letter #card
+ letter | the standard word for a letter #card
 ほんやく: 手紙（てがみ）
+お/ご (honorific): お手紙（てがみ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <!--ID: 1746388496635-->
 
- magic #card
+ magic | refers to conjuring/sleight-of-hand tricks, not fantasy magic #card
 ほんやく: 手品（てじな）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_品.html">品</a>
 <!--ID: 1746388496637-->
 
- example (model to copy) #card
+ example | a model or template meant to be copied/imitated, not just any instance #card
 ほんやく: 手本（てほん）
+お/ご (honorific): お手本（てほん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <!--ID: 1746388496640-->
@@ -260,20 +262,20 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_多.html">多</a>
 <!--ID: 1746388496642-->
 
- driver #card
+ driver | refers to a professional driver, an occupation #card
 ほんやく: 運転手（うんてんしゅ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1746388496644-->
 
- singer #card
+ singer | refers to a professional singer, an occupation #card
 ほんやく: 歌手（かしゅ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1746388496647-->
 
- paper #card
+ paper | the standard word for paper #card
 ほんやく: 紙（かみ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <!--ID: 1746388496649-->
@@ -292,7 +294,7 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388496653-->
 
- I sent a letter to my mother yesterday? #card
+ I sent a letter to my mother yesterday. #card
 ほんやく: 昨日、母に手紙を出しました（てがみ、だ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -302,33 +304,33 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1746388496655-->
 
- japanese paper #card
+ Japanese paper | refers to traditional handmade Japanese paper #card
 ほんやく: 和紙（わし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_和.html">和</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <!--ID: 1746388496657-->
 
- newspaper paper #card
+ newsprint | newspaper used as paper material #card
 ほんやく: 新聞紙（しんぶんし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <!--ID: 1746388496660-->
 
- to cut paper  #card
+ to cut paper #card
 ほんやく: 紙を切る（かみ、き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388496662-->
 
- stamp #card
+ stamp | the standard word for a postage stamp #card
 ほんやく: 切手（きって) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1746388496664-->
 
  My elder sister went to buy a stamp #card
-ほんやく: 姉は切手を買いに行きましたよ（あえ、きって、か）
+ほんやく: 姉は切手を買いに行きましたよ（あね、きって、か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
@@ -343,14 +345,23 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1746388496671-->
 
- kind #card
+ kind | describes a kind, considerate personality or action #card
 ほんやく: 親切（しんせつ）
+過去形: —
+否定形: —
+副詞形: —
+そう (looks): 親切そう
+お/ご (honorific): ご親切（しんせつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388496674-->
 
- sorrowful #card
+ sorrowful | describes a bittersweet, heart-wrenching feeling, like painful longing, rather than plain sadness #card
 ほんやく: 切ない（せつない）
+過去形: 切なかった
+否定形: 切なくない
+副詞形: 切なく
+そう (looks): 切なそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388496676-->
 
@@ -362,7 +373,7 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388496678-->
 
- errand (act of use, casual) #card
+ an errand | a task someone is sent to run or carry out #card
 ほんやく: 使い（つか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <!--ID: 1746388496680-->
@@ -382,31 +393,32 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <!--ID: 1746388496684-->
 
- I;; will make notepad using this paper #card
+ I will make a notepad using this paper #card
 ほんやく: この紙を使って、メモを作ります（かみ、つか、つく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1746388496686-->
 
- notepad #card
+ notepad | a loanword from English, used for a small notebook or memo pad #card
 ほんやく: メモ 
 <!--ID: 1746388496687-->
 
- use /użycie/usage/technical #card
+ use | a technical/formal register word for usage, e.g. of a credit card or facility #card
 ほんやく: 使用（しよう）
+お/ご (honorific): ご使用（しよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1746388496690-->
 
- You can use credit card at this store #card
+ You can use a credit card at this store #card
 ほんやく: この店でクレジットカードが使用できます（しよう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1746388496692-->
 
- angel #card
+ angel | the standard word for an angel #card
 ほんやく: 天使（てんし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
@@ -419,25 +431,26 @@ under the ground is the body without head covered in RED blood
 <!--ID: 1746388496696-->
 
  copy the example #card
-ほんやく: 手本を写す（てほん、うつる）
+ほんやく: 手本を写す（てほん、うつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <!--ID: 1746388496698-->
 
- Who took(photographed) this picture? #card
+ Who took (photographed) this picture? #card
 ほんやく: この写真はだれが写しましたか(しゃしん、うつ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <!--ID: 1746388496700-->
 
- photo/picture #card
+ photo / picture | the standard word for a photograph #card
 ほんやく: 写真（しゃしん）
+お/ご (honorific): お写真（しゃしん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <!--ID: 1746388496702-->
 
- projection #card
+ projection | refers to projecting an image onto a screen, e.g. with a projector #card
 ほんやく: 映写（えいしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
@@ -450,20 +463,24 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <!--ID: 1746388496707-->
 
- serious #card
+ serious | describes someone diligent and sincere in character, not necessarily grim #card
 ほんやく: 真面目（まじめ）
+過去形: —
+否定形: —
+副詞形: —
+そう (looks): 真面目そう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_目.html">目</a>
 <!--ID: 1746388496709-->
 
- sincerity (szczerość) #card
+ sincerity | refers to a genuine, heartfelt sincerity #card
 ほんやく: 真心（まごころ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>
 <!--ID: 1746388496712-->
 
- Mr yamada is a serious person #card
+ Mr. Yamada is a serious person #card
 ほんやく: 山田さんは真面目な人です（まじめ、ひと) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -473,7 +490,7 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <!--ID: 1746388496714-->
 
- true  #card
+ true | a literary/archaic word for "true" or "genuine," used in formal or poetic contexts #card
 ほんやく: 真（まこと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <!--ID: 1746388496716-->
@@ -484,13 +501,13 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1746388496717-->
 
- innocen #card
+ innocent | rarely used standalone; most often seen in the compound describing innocent/artless cheerfulness #card
 ほんやく: 天真（てんしん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <!--ID: 1746388496719-->
 
- truth #card
+ truth | a philosophical/abstract word for objective truth, more formal than everyday "that's true" #card
 ほんやく: 真理（しんり）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
@@ -503,14 +520,14 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1746388496723-->
 
- I will send a letter to MR smith #card
+ I will send a letter to Mr. Smith #card
 ほんやく: スミスさんに手紙を送ります（てがみ、おく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1746388496725-->
 
- I send a picture of my family to my elder sister in France #card
+ I sent a picture of my family to my elder sister in France #card
 ほんやく: フランスの姉に家族の写真を送りました（あね、かぞく、しゃしん、おく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
@@ -520,7 +537,7 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1746388496727-->
 
- My father sends cards at christmas #card
+ My father sends cards at Christmas #card
 ほんやく: 父はクリスマスにカード送ります（おく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
@@ -532,19 +549,19 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1746388496731-->
 
- remittance (sending money,przekaz) #card
+ remittance | refers to the act of sending money, often formally/for business #card
 ほんやく: 送金（そうきん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <!--ID: 1746388496733-->
 
- postage (opłata pocztowa) #card
+ postage | refers to the shipping/postage fee for sending something #card
 ほんやく: 送料（そうりょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <!--ID: 1746388496734-->
 
- My mom send money (remittance to my younger brother in tokio) #card
+ My mom sends money (remittance) to my younger brother in Tokyo #card
 ほんやく: 母は東京の弟に送金します (はは、おとうと、そうきん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
@@ -565,25 +582,26 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1746388496738-->
 
- old name of kyoto  #card
+ old name of Kyoto | an archaic reading of the same word, no longer in common use #card
 ほんやく: 京都（みやこ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <!--ID: 1746388496740-->
 
- tokyo #card
+ Tokyo | literally "eastern capital" #card
 ほんやく: 東京（とうきょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_東.html">東</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <!--ID: 1746388496742-->
 
- go/come to tokyo #card
+ go/come to Tokyo | literally "go up to the capital"; traditionally used for going to Tokyo specifically, not travel in general #card
 ほんやく: 上京（じょうきょう）
+お/ご (honorific): ご上京（じょうきょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <!--ID: 1746388496744-->
 
- My elder brother will go to Tokio tommorow #card
+ My elder brother will go to Tokyo tomorrow #card
 ほんやく: 兄は明日上京します (あに、あした、じょうきょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_兄.html">兄</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
@@ -592,7 +610,7 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <!--ID: 1746388496746-->
 
- Elder sister will go to tokio this month #card
+ My elder sister will go to Tokyo this month #card
 ほんやく: 姉は今月上京します（あね、じょうきょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_姉.html">姉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
@@ -601,85 +619,87 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <!--ID: 1746388496748-->
 
- kyoto #card
+ Kyoto | the modern reading of the city's name #card
 ほんやく: 京都（きょうと） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <!--ID: 1746388496750-->
 
- beutiful flower #card
+ beautiful flower #card
 ほんやく: きれいな花（はな）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1746388496751-->
 
- hanami #card
+ hanami | flower viewing (especially cherry blossoms) #card
 ほんやく: 花見（はなみ）
+お/ご (honorific): お花見（はなみ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1746388496753-->
 
- It that you who PHOTOGRAPHED this picture of the flower? #card
+ Was it you who photographed this picture of the flower? #card
 ほんやく: この花の写真はあなたが写しましたか（はな、しゃしん、うつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <!--ID: 1746388496755-->
 
- blooming/kwitnący #card
+ blooming | refers to flowers blooming/opening #card
 ほんやく: 開花（かいか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1746388496757-->
 
- national flower #card
+ national flower | the official flower symbol of a nation #card
 ほんやく: 国花（こっか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1746388496759-->
 
- blue color (whole) #card
+ blue color | refers to the color blue as a whole category, rather than an object described as blue #card
 ほんやく: 青色（あおいろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496761-->
 
- red color (whole) #card
+ red color | refers to the color red as a whole category, rather than an object described as red #card
 ほんやく: 赤色（あかいろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496763-->
 
- color #card
+ color | the standard word for color #card
 ほんやく: 色（いろ）
+お/ご (honorific): お色（いろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496765-->
 
- colors of this photo is good #card
+ The color of this photo is nice, isn't it? #card
 ほんやく: この写真の色はいいですね 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496767-->
 
- What color sweater are going to buy? #card
+ What color sweater are you going to buy? #card
 ほんやく: どんな色のセーターを買いますか（いろ、か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1746388496769-->
 
- coloring (ubierać w kolor) #card
+ coloring | describes the act of adding color/dye to something #card
 ほんやく: 着色（ちゃくしょく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496771-->
 
- square poetry card (colored paper) #card
+ square poetry card | a decorative square card traditionally used for writing poems, autographs, or messages #card
 ほんやく: 色紙（しきし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
 <!--ID: 1746388496773-->
 
- deficit #card
+ deficit | literally "red characters/ink" — a business term for being financially in the red #card
 ほんやく: 赤字（あかじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
@@ -691,14 +711,14 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_花.html">花</a>
 <!--ID: 1746388496777-->
 
- red cross #card
+ red cross | refers to the Red Cross humanitarian organization #card
 ほんやく: 赤十字（せきじゅうじ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_十.html">十</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
 <!--ID: 1746388496779-->
 
- equator/równik #card
+ equator | the geographic term for the equator #card
 ほんやく: 赤道（せきどう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
@@ -714,13 +734,14 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1746388496782-->
 
- member #card
+ member | the standard word for a member of a group/organization #card
 ほんやく: 会員（かいいん）
+お/ご (honorific): ご会員（かいいん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_員.html">員</a>
 <!--ID: 1746388496785-->
 
- The countries on the equator are hot, aren't they #card
+ The countries on the equator are hot, aren't they? #card
 ほんやく: 赤道の国は熱いですねえ（せきどう、くに、あつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
@@ -728,8 +749,12 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_熱.html">熱</a>
 <!--ID: 1746388496787-->
 
- inmature #card
+ immature | literally "smells green/unripe" — describes someone naive or inexperienced #card
 ほんやく: 青くさい（あお）
+過去形: 青くさかった
+否定形: 青くさくない
+副詞形: 青くさく
+そう (looks): 青くさそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
 <!--ID: 1746388496789-->
 
@@ -740,13 +765,13 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1746388496791-->
 
- young boy/man #card
+ young boy/man | refers to a young man, typically a teenager or young adult #card
 ほんやく: 青年（せいねん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1746388496793-->
 
- youth #card
+ youth | often evokes the romanticized concept of youth, like "the springtime of life" #card
 ほんやく: 青春（せいしゅん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
@@ -761,43 +786,43 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <!--ID: 1746388496797-->
 
- yellow #card
+ yellow | refers to the color yellow #card
 ほんやく: 黄色（きいろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黄.html">黄</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496799-->
 
- brown #card
+ brown | refers to the color brown #card
 ほんやく: 茶色（ちゃいろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_茶.html">茶</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496801-->
 
- white #card
+ white | refers to the color white #card
 ほんやく: 白色（しろいろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496804-->
 
- black #card
+ black | refers to the color black #card
 ほんやく: 黒色（くろいろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_黒.html">黒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496806-->
 
- purple #card
+ purple | refers to the color purple #card
 ほんやく: 紫色（むらさきいろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紫.html">紫</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496807-->
 
- what color? #card
+ what color? | used to ask what color something is #card
 ほんやく: 何色（なにいろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
 <!--ID: 1746388496809-->
 
- greeemn #card
+ green | refers to the color green #card
 ほんやく: 緑色（みどりいろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_緑.html">緑</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
@@ -805,14 +830,15 @@ under the ground is the body without head covered in RED blood
 
  Czasowniki:
 
- nadać, wysłać, ale w kontekście fizycznym, list, dokument #card
+ to send / to submit (physical items, e.g. letters, documents) | describes sending or submitting a physical item, like mail or a document #card
 ほんやく: 出す（だす）  
 て形: 出して
 た形: 出した
 ます形: 出します
 出す形 (start): 出し出す
 そう (looks): 出しそう
-お〜になる (honorific): お出しになる
+お〜になる/special verb (honorific):お出しになる
+謙譲語 (humble): お出しいたす／お出しします
 ない形: 出さない
 なかった形: 出さなかった
 あれる形 (passive/honorific): 出される
@@ -824,14 +850,15 @@ under the ground is the body without head covered in RED blood
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <!--ID: 1746388572941-->
 
-to cut #card
+to cut | the standard word for cutting something #card
 ほんやく: 切る（きる）  
 て形: 切って
 た形: 切った
 ます形: 切ります
 出す形 (start): 切り出す
 そう (looks): 切りそう
-お〜になる (honorific): お切りになる
+お〜になる/special verb (honorific):お切りになる
+謙譲語 (humble): お切りいたす／お切りします
 ない形: 切らない
 なかった形: 切らなかった
 あれる形 (passive/honorific): 切られる
@@ -843,14 +870,15 @@ to cut #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <!--ID: 1746388572943-->
 
-to use #card
+to use | the standard word for using something #card
 ほんやく: 使う（つか）  
 て形: 使って
 た形: 使った
 ます形: 使います
 出す形 (start): 使い出す
 そう (looks): 使いそう
-お〜になる (honorific): お使いになる
+お〜になる/special verb (honorific):お使いになる
+謙譲語 (humble): お使いいたす／お使いします
 ない形: 使わない
 なかった形: 使わなかった
 あれる形 (passive/honorific): 使われる
@@ -862,14 +890,15 @@ to use #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <!--ID: 1746388572946-->
 
-be projected #card
+to be photographed / to appear in a photo | also used for images being reflected, e.g. on a screen #card
 ほんやく: 写る（うつ）  
 て形: 写って
 た形: 写った
 ます形: 写ります
 出す形 (start): 写り出す
 そう (looks): 写りそう
-お〜になる (honorific): お写りになる
+お〜になる/special verb (honorific):お写りになる
+謙譲語 (humble): お写りいたす／お写りします
 ない形: 写らない
 なかった形: 写らなかった
 あれる形 (passive/honorific): 写られる
@@ -881,14 +910,15 @@ be projected #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <!--ID: 1746388572949-->
 
-to copy/to photograph (more formal than take photo) #card
+to copy / to photograph | more formal than the everyday phrase for taking a photo #card
 ほんやく: 写す（うつ）
 て形: 写して
 た形: 写した
 ます形: 写します
 出す形 (start): 写し出す
 そう (looks): 写しそう
-お〜になる (honorific): お写しになる
+お〜になる/special verb (honorific):お写しになる
+謙譲語 (humble): お写しいたす／お写しします
 ない形: 写さない
 なかった形: 写さなかった
 あれる形 (passive/honorific): 写される
@@ -900,14 +930,15 @@ to copy/to photograph (more formal than take photo) #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <!--ID: 1746388572953-->
 
-to send #card 
+to send | the standard word for sending something, physical or otherwise #card 
 ほんやく: 送る（おく）  
 て形: 送って
 た形: 送った
 ます形: 送ります
 出す形 (start): 送り出す
 そう (looks): 送りそう
-お〜になる (honorific): お送りになる
+お〜になる/special verb (honorific):お送りになる
+謙譲語 (humble): お送りいたす／お送りします
 ない形: 送らない
 なかった形: 送らなかった
 あれる形 (passive/honorific): 送られる
@@ -919,14 +950,15 @@ to send #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1746388572956-->
 
-odwiedzać #card
+to visit | a somewhat formal/literary word for visiting a place or person #card
 ほんやく: 訪れる (おとず)  
 て形: 訪れて
 た形: 訪れた
 ます形: 訪れます
 出す形 (start): 訪れ出す
 そう (looks): 訪れそう
-お〜になる (honorific): お訪れになる
+お〜になる/special verb (honorific):お訪れになる
+謙譲語 (humble): 伺う
 ない形: 訪れない
 なかった形: 訪れなかった
 あれる形 (passive/honorific): 訪れられる
@@ -938,7 +970,7 @@ odwiedzać #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_訪.html">訪</a>
 <!--ID: 1746388572960-->
 
-red #card
+red | the standard い-adjective for red #card
 ほんやく: 赤い（あか）  
 過去形: 赤かった
 否定形: 赤くない
@@ -947,7 +979,7 @@ red #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_赤.html">赤</a>
 <!--ID: 1746388572963-->
 
-blue #card
+blue | the standard い-adjective for blue #card
 ほんやく: 青い（あお）  
 過去形: 青かった
 否定形: 青くない

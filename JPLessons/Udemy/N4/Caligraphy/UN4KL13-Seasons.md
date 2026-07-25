@@ -12,13 +12,12 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL13-Seasons
 #w 春休みはいつからですか（はるやす）- When does your spring vacation start?
 
 **(しゅん)**
-#w 新春（しんしゅん）- New year
+#w 新春（しんしゅん）- New year | a formal/literary term for the start of the new year
 #w 青春（せいしゅん）- youth
 
 #w 毎日青春を楽しんでいます（せいしゅん、たの）- I enjoy my youth every day
 #w 新春には父の家に帰ります（しんしゅん）- I'll return to my father's house in the new year
 
-#wc 楽しむ（たの）- to enjyoi
 ## 夏 - summer・なつ・カ
 [[夏-summer]]
 ![[Pasted image 20250610175736.png]]
@@ -245,13 +244,13 @@ car + 2 + self/private. Transfer 2 private goods with a car
 
  Rzeczowniki:
 
- spring #card
+ spring | the season of spring, often symbolizing renewal or new beginnings #card
 ほんやく: 春（はる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
 <!--ID: 1749744037652-->
 
 
- spring day #card
+ spring day | a day during the spring season #card
 ほんやく: 春の日（はるのひ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -271,14 +270,14 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037665-->
 
 
- New year #card
+ New year | a formal/literary term for the start of the new year #card
 ほんやく: 新春（しんしゅん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
 <!--ID: 1749744037668-->
 
 
- youth #card
+ youth | a somewhat literary/poetic word evoking the vigor and spirit of one's youthful years #card
 ほんやく: 青春（せいしゅん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
@@ -305,13 +304,13 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037674-->
 
 
- summer #card
+ summer | the season of summer #card
 ほんやく: 夏（なつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
 <!--ID: 1749744037676-->
 
 
- summer  break #card
+ summer break | the school/work holiday period during summer #card
 ほんやく: 夏休み（なつやすみ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
@@ -338,34 +337,35 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037682-->
 
 
- early summer #card
+ early summer | the early part of the summer season, a literary/seasonal term #card
 ほんやく: 初夏（しょか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_初.html">初</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
 <!--ID: 1749744037684-->
 
 
- the first day of summer #card
+ the first day of summer | one of the traditional 24 solar terms marking the seasonal start of summer (early May) #card
 ほんやく: 立夏（りっか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_夏.html">夏</a>
 <!--ID: 1749744037686-->
 
 
- early, fast #card
+ early, fast | an i-adjective covering both timing (early) and speed (quick) #card
 ほんやく: 早い（はや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <!--ID: 1749744037688-->
 
 
- wake up early, ranny ptaszek #card
+ getting up early / early rising (the habit, not "early bird" the person) #card
 ほんやく: 早起き（はやおき）
+お/ご (honorific): お早起き（はやおき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <!--ID: 1749744037690-->
 
 
- Please come to work 1 hour early tommorow #card
+ Please come to work 1 hour early tomorrow #card
 ほんやく: 明日は1時間早く出社してください（はや、しゅっしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -395,14 +395,14 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037696-->
 
 
- early sprig #card
+ early spring | a literary/seasonal term for the beginning of spring #card
 ほんやく: 早春（そうしゅん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_春.html">春</a>
 <!--ID: 1749744037698-->
 
 
- early morning #card
+ early morning | the early hours of the morning, more formal/written than a casual phrase for early morning #card
 ほんやく: 早朝（そうちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
@@ -419,14 +419,15 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037702-->
 
 
- going to work #card
+ going to work | refers to arriving at one's company/office, used from an employee's perspective #card
 ほんやく: 出社(しゅっしゃ)
+お/ご (honorific): ご出社（しゅっしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <!--ID: 1749744037704-->
 
 
- I wake up at 7:00 in morning #card
+ I wake up at 7:00 in the morning (plain form) #card
 ほんやく: 朝の七時に起きる（あさ、しちじ、お)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_七.html">七</a>
@@ -453,7 +454,7 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037710-->
 
 
- Please wake me up at 6 tommorow #card
+ Please wake me up at 6 tomorrow #card
 ほんやく: 明日は６じに起こしてください（お）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -461,15 +462,16 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037711-->
 
 
- starting bussiness #card
+ starting a business | refers to founding/launching a new business venture (entrepreneurship) #card
 ほんやく: 起業（きぎょう）
+お/ご (honorific): ご起業（きぎょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
 <!--ID: 1749744037713-->
 
 
- start #card
-ほんやく: 起動（きどう get up + move）
+ start (a machine/system) | refers to powering on or starting up a device, system, or engine #card
+ほんやく: 起動（きどう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1749744037715-->
@@ -483,34 +485,34 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037717-->
 
 
- autumn, fall #card
+ autumn, fall | the season of autumn #card
 ほんやく: 秋（あき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
 <!--ID: 1749744037719-->
 
 
- autumn breeze #card
+ autumn breeze | a breeze characteristic of autumn, often evoking a cool, refreshing feeling #card
 ほんやく: 秋風（あきかぜ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <!--ID: 1749744037721-->
 
 
- autumn sky #card
-ほんやく: 秋の空（あきのそろ）
+ autumn sky | the sky as it appears in autumn, often associated with high, clear weather in Japanese seasonal imagery #card
+ほんやく: 秋の空（あきのそら）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <!--ID: 1749744037723-->
 
 
- early atumn #card
+ early autumn | a literary term for the start of autumn #card
 ほんやく: 新秋（しんしゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
 <!--ID: 1749744037725-->
 
 
- the closing day of the show #card
+ the closing day of the show | refers to the final performance of a show's run (theater/sumo term), literally "a thousand autumns of pleasure" #card
 ほんやく: 千秋楽（せんしゅうらく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_千.html">千</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
@@ -518,20 +520,20 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037727-->
 
 
- wind #card
+ wind | the natural phenomenon of moving air #card
 ほんやく: 風（かぜ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <!--ID: 1749744037729-->
 
 
- gale (gejl) wichura #card
+ gale | wichura — a strong, powerful wind, more intense than an ordinary breeze #card
 ほんやく: 大風（おおかぜ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <!--ID: 1749744037731-->
 
 
- move fast against the wind #card
+ move fast against the wind | an idiom (literally "to cut the wind") describing swift, forceful movement, e.g. running fast #card
 ほんやく: 風を切る（かぜ、き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
@@ -555,14 +557,14 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037737-->
 
 
- strong wind #card
+ strong wind | a more formal/written term for powerful wind, often used in weather reports #card
 ほんやく: 強風（きょうふう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <!--ID: 1749744037740-->
 
 
- wind and rain #card
+ wind and rain | a formal/literary compound referring to windy, rainy weather (often stormy conditions) #card
 ほんやく: 風雨（ふうう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
@@ -578,7 +580,7 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037745-->
 
 
- Yesterday was a though day because of the strong wind #card
+ Yesterday was a tough day because of the strong wind #card
 ほんやく: 昨日は強風で大変でした（きのう、きょうふう、たいへん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -589,14 +591,14 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037747-->
 
 
- blue sky #card
+ blue sky | a clear sky, often used poetically to evoke openness or hope #card
 ほんやく: 青空（あおぞら)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_青.html">青</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <!--ID: 1749744037749-->
 
 
- sky blue (color) #card
+ sky blue (color) | the pale blue color resembling a clear sky #card
 ほんやく: 空色（そらいろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_色.html">色</a>
@@ -612,7 +614,7 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037753-->
 
 
- put #card
+ put-on cheeriness | forced or fake energy/cheerfulness, i.e. putting on a brave face despite not feeling well #card
 ほんやく: 空元気（からげんき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
@@ -620,34 +622,34 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037755-->
 
 
- air #card
+ air | the air/atmosphere; also used figuratively for the mood or atmosphere of a place or situation #card
 ほんやく: 空気（くうき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <!--ID: 1749744037757-->
 
 
- blank #card
+ blank | an empty or blank space, e.g. on a page or in a schedule #card
 ほんやく: 空白（くうはく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1749744037759-->
 
 
- bright #card
+ bright | an i-adjective describing brightness (light) or a cheerful personality #card
 ほんやく: 明るい（あか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1749744037761-->
 
 
- bright sky #card
+ bright sky | a sky that is bright/light, e.g. during daytime or clear weather #card
 ほんやく: 明るい空（あか、そら）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <!--ID: 1749744037763-->
 
 
- cheerful person #card
+ cheerful person | someone with a bright, upbeat personality, a figurative sense of the word for "bright" #card
 ほんやく: 明るい人（あか、ひと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
@@ -688,13 +690,17 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037771-->
 
 
- clear #card
+ clear | a na-adjective meaning obvious/evident, in a more formal register than the everyday word for "bright" #card
 ほんやく: 明らか（あき)
+過去形: —
+否定形: —
+副詞形: —
+そう (looks): 明らかそう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1749744037773-->
 
 
- to clarify #card
+ to clarify | to make something clear/evident, formed by combining a na-adjective with a causative-style construction #card
 ほんやく: 明らかにする (あき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <!--ID: 1749744037775-->
@@ -708,16 +714,15 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037777-->
 
 
- perfectly obvious #card
-ほんやく: 火を見るより明らか（日、見、あき）
+ perfectly obvious | an idiom (literally "clearer than seeing fire") meaning something is blatantly obvious #card
+ほんやく: 火を見るより明らか（火、見、あき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_火.html">火</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1749744037778-->
 
 
- civilization #card
+ civilization | refers to a civilization or cultural/technological advancement of a society #card
 ほんやく: 文明（ぶんめい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
@@ -735,14 +740,14 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037782-->
 
 
- next year (litwerary, rarely used) #card
+ next year (literary, rarely used) #card
 ほんやく: 明年（みょうねん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <!--ID: 1749744037784-->
 
 
- We are planing to build a factory in India next year #card
+ We are planning to build a factory in India next year #card
 ほんやく: 明年インドで工場を作る予定です（みょうねん、こうじょう、つく、よてい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -754,20 +759,20 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037786-->
 
 
- winter #card
+ winter | the season of winter #card
 ほんやく: 冬（ふゆ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
 <!--ID: 1749744037788-->
 
 
- winter break #card
+ winter break | the school/work holiday period during winter #card
 ほんやく: 冬休み（ふゆやす）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <!--ID: 1749744037790-->
 
 
- evergreen tree #card
+ winter tree | a tree as it appears in winter (typically bare and leafless), a common seasonal word in Japanese poetry — not the same as an evergreen #card
 ほんやく: 冬木（ふゆき）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
@@ -796,7 +801,7 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037796-->
 
 
- The winter in this region is though because of strong winf #card
+ The winter in this region is tough because of strong wind #card
 ほんやく: この地方では冬は強風で大変です（ちほう、ふゆ、きょうふう、たいへん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_地.html">地</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
@@ -808,7 +813,7 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037798-->
 
 
- What will you do in the winter break which starts from tommorow? #card
+ What will you do during the winter break that starts tomorrow? #card
 ほんやく: 明日からの冬休みには何をしますか（ふゆやすみ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -818,35 +823,35 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037799-->
 
 
- early winter #card
+ early winter | a literary/seasonal term for the beginning of winter #card
 ほんやく: 初冬（しょとう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_初.html">初</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
 <!--ID: 1749744037801-->
 
 
- last winter #card
+ last winter | a more formal/written term for last winter than the everyday phrasing #card
 ほんやく: 昨冬（さくとう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
 <!--ID: 1749744037804-->
 
 
- fields and hills #card
+ fields and hills | a set compound referring to natural, rural landscape (fields and hills together) #card
 ほんやく: 野山（のやま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <!--ID: 1749744037806-->
 
 
- middle of the field #card
+ middle of the field | refers to being in the middle of an open field, evoking a sense of open rural space #card
 ほんやく: 野中（のなか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <!--ID: 1749744037808-->
 
 
- I walk around neaby fields and hills in the winter #card
+ I walk around nearby fields and hills in the winter #card
 ほんやく: 冬は近くの野山を歩きます（ふゆ、ちか、のやま、ある）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冬.html">冬</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
@@ -866,45 +871,42 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037812-->
 
 
- outdoor  #card
+ outdoors | refers to being outside/in the open air, often used for outdoor activities #card
 ほんやく: 野外（やがい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <!--ID: 1749744037814-->
 
 
- hilly area #card
+ hilly area | a literary compound for natural mountainous/rural terrain (mountains and fields) #card
 ほんやく: 山野（さんや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_野.html">野</a>
 <!--ID: 1749744037818-->
 
 
-
-夏休みは、よく野外へきゃんぷ
-
- go (to carry legs) #card
+ to visit / to go (in person) | an idiom (literally "to carry one's legs") for making the effort to go somewhere in person #card
 ほんやく: 足を運ぶ（あし、はこ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <!--ID: 1749744037822-->
 
 
- transportation #card
+ transportation | refers to the transport/shipping of goods (freight), a business/industry term #card
 ほんやく: 運送（うんそう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1749744037824-->
 
 
- excercise #card
+ exercise | physical exercise or movement; also used for a "campaign" or "movement" in a social/political sense #card
 ほんやく: 運動（うんどう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1749744037827-->
 
 
- strong luck #card
+ to have strong luck | describes someone who is fortunate #card
 ほんやく: 運が強い（うん、つよ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
@@ -912,7 +914,7 @@ car + 2 + self/private. Transfer 2 private goods with a car
 
 
  That person is a bus driver #card
-ほんやく: あの人はバスの運転手です（うんてんしゅう）
+ほんやく: あの人はバスの運転手です（うんてんしゅ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
@@ -951,14 +953,15 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037839-->
 
 
- drive #card
+ drive | operating a vehicle; the base word behind related terms for "driver" and the act of driving #card
 ほんやく: 運転（うんてん）
+お/ご (honorific): ご運転（うんてん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1749744037841-->
 
 
- driver  #card
+ driver | a person who operates a vehicle for a living or occasion #card
 ほんやく: 運転手（うんてんしゅ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
@@ -966,7 +969,7 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037843-->
 
 
- change of job/bussiness #card
+ change of job/business | refers to switching one's occupation or line of business entirely #card
 ほんやく: 転業（てんぎょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_業.html">業</a>
@@ -989,7 +992,7 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037849-->
 
 
- I have a bad physical condition, so i am planning to change my job #card
+ I have a bad physical condition, so I am planning to change my job #card
 ほんやく: 体が悪いので、転業を計画しています（からだ、わる、てんぎょう、けいかく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_体.html">体</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
@@ -1000,7 +1003,7 @@ car + 2 + self/private. Transfer 2 private goods with a car
 <!--ID: 1749744037851-->
 
 
- I will change jobns since my current job is no so good. #card
+ I will change jobs since my current job is not so good. #card
 ほんやく: 今の仕事はよくないので、転業します（てんぎょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
@@ -1014,34 +1017,17 @@ car + 2 + self/private. Transfer 2 private goods with a car
 
  Czasowniki:
 
-to enjyoi #card
-ほんやく: 楽しむ（たの）
-て形: 楽しんで
-た形: 楽しんだ
-ます形: 楽しみます
-出す形 (start): 楽しみ出す
-そう (looks): 楽しみそう
-お〜になる (honorific): お楽しみになる
-ない形: 楽しまない
-なかった形: 楽しまなかった
-あれる形 (passive/honorific): 楽しまれる
-使役形 (make/let): 楽しませる
-ば形 (if): 楽しめば
-可能形 (can): 楽しめる
-おう形 (let's): 楽しもう
-命令形 (imperative): 楽しめ
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
-<!--ID: 1749744037854-->
 
 
-to get up #card
+to get up | to get out of bed or rise from sleep (intransitive - happens on its own) #card
 ほんやく: 起きる（お）
 て形: 起きて
 た形: 起きた
 ます形: 起きます
 出す形 (start): 起き出す
 そう (looks): 起きそう
-お〜になる (honorific): お起きになる
+お〜になる/special verb (honorific):お起きになる
+謙譲語 (humble): お起きいたす／お起きします
 ない形: 起きない
 なかった形: 起きなかった
 あれる形 (passive/honorific): 起きられる
@@ -1054,14 +1040,15 @@ to get up #card
 <!--ID: 1749744037856-->
 
 
-wake someone up #card
+wake someone up | to rouse another person from sleep (transitive - actively causing someone else to wake) #card
 ほんやく: 起こす（お）
 て形: 起こして
 た形: 起こした
 ます形: 起こします
 出す形 (start): 起こし出す
 そう (looks): 起こしそう
-お〜になる (honorific): お起こしになる
+お〜になる/special verb (honorific):お起こしになる
+謙譲語 (humble): お起こしいたす／お起こしします
 ない形: 起こさない
 なかった形: 起こさなかった
 あれる形 (passive/honorific): 起こされる
@@ -1074,14 +1061,15 @@ wake someone up #card
 <!--ID: 1749744037858-->
 
 
-być odwołanym / zostać anulowanym #card
+to be canceled / called off | pol. być odwołanym / zostać anulowanym — used for events being called off, in the passive voice #card
 ほんやく: 中止される(ちゅうし)
 て形: 中止されて
 た形: 中止された
 ます形: 中止されます
 出す形 (start): 中止され出す
 そう (looks): 中止されそう
-お〜になる (honorific): お中止されになる
+お〜になる/special verb (honorific):お中止されになる
+謙譲語 (humble): お中止されいたす／お中止されします
 ない形: 中止されない
 なかった形: 中止されなかった
 あれる形 (passive/honorific): 中止されられる
@@ -1095,14 +1083,15 @@ być odwołanym / zostać anulowanym #card
 <!--ID: 1749744037860-->
 
 
-to carry #card
+to carry | to transport or carry something (or move oneself) from one place to another #card
 ほんやく: 運ぶ（はこぶ）
 て形: 運んで
 た形: 運んだ
 ます形: 運びます
 出す形 (start): 運び出す
 そう (looks): 運びそう
-お〜になる (honorific): お運びになる
+お〜になる/special verb (honorific):お運びになる
+謙譲語 (humble): お運びいたす／お運びします
 ない形: 運ばない
 なかった形: 運ばなかった
 あれる形 (passive/honorific): 運ばれる
@@ -1115,14 +1104,15 @@ to carry #card
 <!--ID: 1749744037862-->
 
 
-to roll #card
+to fall down / to trip | to lose one's footing and fall, e.g. slipping on a slippery surface #card
 ほんやく: 転ぶ（ころ）
 て形: 転んで
 た形: 転んだ
 ます形: 転びます
 出す形 (start): 転び出す
 そう (looks): 転びそう
-お〜になる (honorific): お転びになる
+お〜になる/special verb (honorific):お転びになる
+謙譲語 (humble): お転びいたす／お転びします
 ない形: 転ばない
 なかった形: 転ばなかった
 あれる形 (passive/honorific): 転ばれる
@@ -1135,14 +1125,15 @@ to roll #card
 <!--ID: 1749744037864-->
 
 
-make something rool #card
+to make something roll | to cause an object (e.g. a ball) to roll along a surface #card
 ほんやく: 転がす（ころ）
 て形: 転がして
 た形: 転がした
 ます形: 転がします
 出す形 (start): 転がし出す
 そう (looks): 転がしそう
-お〜になる (honorific): お転がしになる
+お〜になる/special verb (honorific):お転がしになる
+謙譲語 (humble): お転がしいたす／お転がしします
 ない形: 転がさない
 なかった形: 転がさなかった
 あれる形 (passive/honorific): 転がされる

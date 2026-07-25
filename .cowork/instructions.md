@@ -67,6 +67,14 @@ Rules:
 - n./な-adj entries → use #wp
 - interj. / adv. with no kanji → use #w with no parentheses
 
+### Definitions (single-word extractions)
+For single-word extractions, add a short English definition/context after a `|` separator, placed after the translation. No Japanese example sentences.
+Example: `#w 満席(まんせき) - full house | all seats are taken.`
+
+### Sentence extraction rules
+- Register tags — for extracted sentences, add a tag for the speech register when identifiable: `#sonkeigo`, `#kenjougo`, or `#teineigo`, alongside `#w`.
+- Sentence translations — if a given translation (e.g. a red subtitle in an image) looks inaccurate, flag it and suggest a better one.
+
 ## fill workflow (fastest path)
 Load the `.cowork/skills/fill-templates.md` skill and follow its instructions.
 Claude generates cards directly — no script execution needed.
