@@ -1,0 +1,44 @@
+# Register & Confusability Pipeline Step — Tasks
+
+- [x] Update `.cowork/skills/lesson-to-web/_conventions.md`:
+  - [x] Add `## Register` and `## Often confused with` to the file structure rules list (positioned between `## Notes` and `## See also`)
+  - [x] Add `partial` to the frontmatter conventions section
+  - [x] Add clarifying note: `## See also` stays container-only; point-to-point relationships go in `## Often confused with`
+  - [x] Add the scoped proofread-guard exception for Step 9's bidirectional backlink writes (single, anchor-bounded insert to `## Often confused with` only)
+- [x] Create `.cowork/skills/lesson-to-web/register-confusability-grammar.md`:
+  - [x] Frontmatter (`name`, `description`), Trigger section with explicit path-prefix disambiguation (`JPLessons/` → backfill mode; `grammar-index/grammar/` or bare slug → pipeline/direct mode)
+  - [x] Shared files section loading `_conventions.md`; proofread-guard check line
+  - [x] Container-file skip guard + vocabulary/ out-of-scope note
+  - [x] Backfill mode: lesson parsing, reuse of `extract-grammar` Step 4b classification workflow (grammar/container/skip) before computing slugs, slug computation (reuse `extract-grammar` Step 5), minimal `partial: true` stub creation only for `文法`-sourced headings classified "grammar"
+  - [x] Backfill mode: `# Vocabulary`-sourced headings classified "grammar" are skipped entirely (not stubbed under `grammar-index/grammar/<slug>.md`), consistent with this skill's own vocabulary/ out-of-scope guard — log as `[SKIP] ... Vocabulary-sourced, out of scope`
+  - [x] Step 8 — Register: web-research format, insertion position, overwrite-on-rerun behavior
+  - [x] Step 9 — Often confused with: topic_slug prefilter, full-scan fallback, matching judgment, dedup, bidirectional backlink write — including explicit insertion mechanics for the matched file (append inside existing `## Often confused with` section, or anchor-insert a new section immediately before `## See also` when absent)
+  - [x] Forward-pointer note carrying forward `prompt.md`'s practice-grammar follow-up (informational only, not implemented here)
+  - [x] Handoff summary format + "Run see-also-grammar on these files?" prompt (yes/no/all)
+- [x] Update `.cowork/skills/lesson-to-web/structure-grammar.md` (two separate references, not just the bottom handoff):
+  - [x] Line 24 ("Workflow" section, "If called with **all** mode..."): change continuation target from `see-also-grammar` to `register-confusability-grammar`
+  - [x] Bottom handoff prompt: change "Run see-also-grammar on these files?" to "Run register-confusability-grammar on these files?"
+  - [x] Bottom **all** mode branch: chain through `register-confusability-grammar` → `see-also-grammar`
+- [x] Update `.cowork/skills/lesson-to-web/see-also-grammar.md`:
+  - [x] Renumber Step 8 → Step 10, Step 9 → Step 11
+  - [x] Update frontmatter `description` / Trigger comment to reference `register-confusability-grammar` instead of `structure-grammar`
+- [x] Update `.cowork/skills/lesson-to-web/update-grammar.md`:
+  - [x] Add `register-confusability-grammar` row (steps 8–9) to the pipeline table
+  - [x] Update `see-also-grammar` row's step numbers to 10–11
+  - [x] Update chain-order prose to list all five skills
+  - [x] Update the frontmatter `description:` line itself (not just body prose) to insert `register-confusability-grammar` in the chain
+- [x] Update chain-description prose in three sibling skill files:
+  - [x] `.cowork/skills/lesson-to-web/extract-grammar.md` (~line 443, "all" mode prose)
+  - [x] `.cowork/skills/lesson-to-web/preprocess-grammar.md` (~line 131, "all" mode prose)
+  - [x] `.cowork/skills/lesson-to-web/review-grammar.md` (~line 87, "all" mode prose)
+- [x] Update `.claude/commands/lesson-to-web/` stubs:
+  - [x] Create `.claude/commands/lesson-to-web/register-confusability-grammar.md`, labeled Step 4
+  - [x] Update `.claude/commands/lesson-to-web/see-also-grammar.md`: "Step 4" → "Step 5"
+  - [x] Update `.claude/commands/lesson-to-web/update-grammar.md`: chain prose to include register-confusability
+- [x] Update `.cowork/instructions.md`'s "Available skills" list — **ask user for explicit permission before editing this file** (separate from the standing license to edit `.cowork/skills/`):
+  - [x] Add `lesson-to-web/register-confusability-grammar` bullet (Step 4), positioned after `structure-grammar` and before `see-also-grammar`
+  - [x] Renumber `see-also-grammar` bullet "Step 4" → "Step 5"
+  - [x] Update `update-grammar` bullet: "chains all four steps below" → "chains all five steps below"
+- [x] Delete `prompt.md` (vault root) — superseded by the new skill
+- [x] Self-review: grep `.cowork/skills/lesson-to-web/` and `.cowork/instructions.md` for `Step 8` / `Step 9` AND `structure-grammar` / `see-also-grammar`; additionally grep `.claude/commands/lesson-to-web/` for the short forms `structure` / `see-also` (that directory's prose uses unhyphenated short names, not full compound skill names) to catch any remaining stale references
+- [x] Self-review: confirm no lesson files under `JPLessons/` were touched, no `<!--ID:-->` or `TARGET DECK` lines modified

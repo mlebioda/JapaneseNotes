@@ -4,7 +4,7 @@ description: >
   Populate ## See also sections in grammar files under grammar-index/grammar/ by
   scanning container files, then set proofread: true. Final step in the grammar
   post-processing pipeline. Trigger: "see-also grammar <file>" or called from
-  structure-grammar.
+  register-confusability-grammar.
 ---
 
 # See Also Grammar Skill
@@ -13,7 +13,7 @@ description: >
 
 - "see-also grammar `<slug>`" — filename without `.md`
 - "see-also grammar grammar-index/grammar/`<slug>`.md" — full relative path
-- (called automatically from structure-grammar with a list of file paths)
+- (called automatically from register-confusability-grammar with a list of file paths)
 
 ---
 
@@ -29,7 +29,7 @@ Process each file in order. Apply both steps to one file before moving to the ne
 
 ---
 
-### Step 8 — Populate ## See also
+### Step 10 — Populate ## See also
 
 **Core rule: `## See also` must only contain links to container files (files with a `## Sub-topics` section). Never link to individual grammar point files.**
 
@@ -50,7 +50,7 @@ To check all grammar files at once: `python3 .claude/scripts/grammar-audit.py --
 1. Scan all files in `grammar-index/grammar/` (exclude `index.md` if present) that contain a `## Sub-topics` section.
 2. For each container file, check whether the current file's slug appears in any of its `## Sub-topics` links.
 3. Collect all container files that include the current file. Extract each container's pattern name from its `# heading`.
-4. Format each as: `- [Container Name](/JapaneseNotes/grammar-index/<slug>) — <short phrase: what this container groups>`
+4. Format each as: `- [Container Name](/JapaneseNotes/grammar-index/grammar/<slug>) — <short phrase: what this container groups>` (containers live under `grammar-index/grammar/`, not the topic-file directory)
 5. Replace the entire content of `## See also` with the formatted list. If no containers include this file, write `*(none)*`.
 
 #### Algorithm — container files (has `## Sub-topics`)
@@ -61,13 +61,26 @@ To check all grammar files at once: `python3 .claude/scripts/grammar-audit.py --
    ```
 2. For each topic file, scan its `## Entries` for lines matching `- [Pattern Name](/JapaneseNotes/grammar-index/grammar/<slug>) · <level>`. Check whether any slug matches the current file's slug.
 3. Collect all co-entry slugs from matching topic files. Exclude the current file's own slug. De-duplicate across files.
-4. For each co-entry slug, read `grammar-index/<slug>.md`. If it has no `## Sub-topics` section, skip it. If it does, extract the pattern name from its `# heading`.
-5. Format each as: `- [Container Name](/JapaneseNotes/grammar-index/<slug>) — <short phrase describing the relationship>`
+4. For each co-entry slug, read `grammar-index/grammar/<slug>.md`. If it has no `## Sub-topics` section, skip it. If it does, extract the pattern name from its `# heading`.
+5. Format each as: `- [Container Name](/JapaneseNotes/grammar-index/grammar/<slug>) — <short phrase describing the relationship>`
 6. Replace the entire content of `## See also` with the formatted list. If no container co-entries exist, write `*(none)*`.
 
 ---
 
-### Step 9 — Set proofread: true
+### Step 10b — Strip register tags
+
+After `## See also` is populated and before setting proofread, remove trailing register
+hashtags from body lines: `#sonkeigo`, `#kenjougo`, `#teineigo` (including the whitespace
+immediately before each tag). These tags are source evidence for
+register-confusability-grammar Step 8 and must survive until that skill has run — this is
+the **only** step in the pipeline that removes them.
+
+- Body lines only — never touch frontmatter.
+- Remove only these three tags. Any other hashtag at this stage is unexpected — leave it
+  in place and note it in the completion report.
+- Report the number of tags stripped per file in the completion report.
+
+### Step 11 — Set proofread: true
 
 ```bash
 python3 .claude/scripts/grammar-process.py --set-proofread <file> [<file> ...]

@@ -96,11 +96,12 @@ Skills are defined in .cowork/skills/ — load the relevant skill before acting.
 **lesson-to-web/** (skills for extracting lesson content into published grammar-index files):
 - lesson-to-web/extract-grammar — extract grammar points from a lesson's 文法 section into standalone files under grammar-index/grammar/. Also classifies each file into grammar-index/ topic files. Trigger: "extract grammar from <lesson>"
 - lesson-to-web/extract-vocabulary — extract vocabulary lines from a lesson into Vocabulary/words-extracted.md. Trigger: "extract vocabulary from <lesson>"
-- lesson-to-web/update-grammar — full post-processing pipeline: chains all four steps below. Trigger: "update grammar <file>"
-- lesson-to-web/preprocess-grammar — Step 1: tag removal, Polish detection, furigana, typos (mechanical, no user gates). Trigger: "preprocess grammar <file>"
-- lesson-to-web/review-grammar — Step 2: correctness check + missing info suggestions (user-gated). Trigger: "review grammar <file>"
-- lesson-to-web/structure-grammar — Step 3: structure enforcement, Structure 1 vs 2 (user confirmation). Trigger: "structure grammar <file>"
-- lesson-to-web/see-also-grammar — Step 4: populate ## See also, set proofread: true. Trigger: "see-also grammar <file>"
+- lesson-to-web/update-grammar — full post-processing pipeline: chains all five steps below. Trigger: "update grammar <file>"
+- lesson-to-web/preprocess-grammar — Steps 1–4: tag removal, Polish detection, furigana, typos (mechanical, no user gates). Trigger: "preprocess grammar <file>"
+- lesson-to-web/review-grammar — Steps 5–6: correctness check + missing info suggestions (user-gated). Trigger: "review grammar <file>"
+- lesson-to-web/structure-grammar — Step 7: structure enforcement, Structure 1 vs 2 (user confirmation). Trigger: "structure grammar <file>"
+- lesson-to-web/register-confusability-grammar — Steps 8–9: Register research (web search) + Often confused with backlinks (user-gated where noted). Trigger: "register-confusability grammar <file>"
+- lesson-to-web/see-also-grammar — Steps 10–11: populate ## See also, set proofread: true. Trigger: "see-also grammar <file>"
 
 
 ## Agent system

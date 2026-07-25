@@ -188,11 +188,14 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL14-I-will-call-you-as-soon-as-seat
 # 文法
 
 ## 謙譲語（けんじょうご) - Humble expressions
+→ [[grammar-index/grammar/kenjougo-humble-expressions]]
 
 > Way of saying own actions, status and possessions in a humble way
 
 ### Verbs
+→ [[grammar-index/grammar/kenjougo-verbs]]
 #### 特別な動詞（とくべつなどうし）
+→ [[grammar-index/grammar/kenjougo-tokubetsunadoushi]]
 
 | Plain (dictionary) form | Kenjougo (humble) form | Meaning                     |
 | ----------------------- | ---------------------- | --------------------------- |
@@ -216,6 +219,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL14-I-will-call-you-as-soon-as-seat
 
 #w わたしはラジと申(もう)します。 - I am Raji. (literally "I am called Raji.") #kenjougo
 #### お・ご V『ます形」します
+→ [[grammar-index/grammar/o-go-v-masushimasu]]
 
 > only group 1 and 2, when there is no special verb
 > 
@@ -246,6 +250,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL14-I-will-call-you-as-soon-as-seat
 
 #w 田中(たなか)さん、来週(らいしゅう)本(ほん)をお返(かえ)しします。 - Mr. Tanaka, I will return the book next week. #kenjougo
 #### お・ご V「ます形」いたします
+→ [[grammar-index/grammar/o-go-v-masuitashimasu]]
 > More polite version of  お・ご + V「ます形」+ します
 > Commonly used in the service industry or in the workplace
 
@@ -261,6 +266,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL14-I-will-call-you-as-soon-as-seat
 #w パーティーが始(はじ)まる前(まえ)に、食(た)べ物(もの)と飲(の)み物(もの)をご用意(ようい)いたします。 - I will prepare food and drinks before the party starts. #kenjougo
 
 ## 丁寧語（ていねいご) - Polite expressions
+→ [[grammar-index/grammar/teineigo-polite-expressions]]
 
 > Neutral polite register showing formality and social distance — not tied to relative rank between speaker and listener (that's the job of sonkeigo/kenjougo)
 
@@ -272,7 +278,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL14-I-will-call-you-as-soon-as-seat
 | --------- | -------------------------------------------- |
 | ます       | Polite verb ending                           |
 | です       | Polite copula                                |
-| ございます  | More formal version of あります／います         |
+| ございます  | More formal version of あります (not います — that becomes おります／いらっしゃいます) |
 | でございます | Very formal version of です (e.g. こちらでございます) |
 | ましょう    | Polite volitional — "let's / shall we"        |
 | でしょう    | Polite presumptive — "probably"               |
@@ -292,6 +298,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL14-I-will-call-you-as-soon-as-seat
 
 
 ## ウチ・ソト (Uchi-Soto) - In-group / Out-group
+→ [[grammar-index/grammar/uchi-soto-in-group-out-group]]
 
 > Key concept for choosing between honorific (尊敬語) and humble (謙譲語) language — the boundary is relative and shifts depending on who you're comparing yourself to (e.g., your department vs. another department in the same company, or your whole company vs. an outside client)
 
@@ -322,6 +329,7 @@ Within ウチ only (e.g., talking to a fellow employee about the same CEO), norm
 
 #w ただいま山本(やまもと)は外出(がいしゅつ)しております。(no honorific like さん)  - Yamamoto is out at the moment. #kenjougo 
 ## V「て形」おります - Humble progressive / state form
+→ [[grammar-index/grammar/vteorimasu-humble-progressive-state-form]]
 
 > おる = humble (謙譲語) equivalent of いる
 > おります = おる (謙譲語) + ます (丁寧語) — this form stacks humble language under a polite ending, same layering idea as other kenjougo + teineigo combos (e.g. 参ります, 申しております)
@@ -350,6 +358,7 @@ Note: おる alone (without ます) can sound rough or dialectal (especially in 
 #w お世話(せわ)になっております。 - Thank you for your continued support. #kenjougo
 
 ## V「て形」いらっしゃいます - Respectful (尊敬語) progressive/state form
+→ [[grammar-index/grammar/vteirasshaimasu-respectful-progressive-state-form]]
 
 >いらっしゃる／いらっしゃいます = 尊敬語 (honorific) equivalent of いる. Raises the subject's status — used for the listener, a customer, a superior, or a respected third party. Also functions as 尊敬語 for 行く／来る in dictionary form.
 
@@ -368,6 +377,7 @@ V「て形」+ いらっしゃいます
 #w チケットを持(も)っていらっしゃいますか。見(み)せていただけますか。 - Do you have a ticket? Could you show it to me? #sonkeigo #kenjougo
 
 ## お/ご V「ます形」ください - Respectful request form (尊敬語)
+→ [[grammar-index/grammar/o-go-v-masukudasai-respectful-request-form]]
 
 Raises the listener's action — used to politely ask someone else to do something. Opposite direction from 謙譲語 (which lowers the speaker's own action); do not confuse with お/ご V「ます形」します.
 

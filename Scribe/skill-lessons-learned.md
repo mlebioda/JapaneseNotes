@@ -294,3 +294,12 @@
 **Source**: uncommitted — planner
 
 ---
+
+## 2026-07-25 — register-confusability-grammar-plan.md, register-confusability-grammar-tasks.md
+
+**Classification**: new-feature
+**What happened**: A plan was created to fold the ad-hoc `prompt.md` workaround (Register + Often-confused-with notes on `grammar-index/grammar/` files) into the lesson-to-web pipeline as a proper skill step (`register-confusability-grammar`, steps 8–9, between `structure-grammar` and `see-also-grammar`), with bidirectional cross-file backlink writes, updated `_conventions.md`, and deletion of the superseded `prompt.md`.
+**Rule**: **[Rule]** When an ad-hoc, un-versioned workaround file proves valuable, fold it into the real pipeline as a proper skill step with documented conventions and delete the workaround — an ad-hoc file's output survives only until the next full pipeline run silently overwrites it.
+**Source**: uncommitted — Plans/register-confusability-grammar-plan.md, Plans/register-confusability-grammar-tasks.md
+
+---

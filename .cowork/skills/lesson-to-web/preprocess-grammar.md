@@ -128,5 +128,5 @@ Run review-grammar on these files? (yes / no / all)
 
 - **yes** — load `.cowork/skills/lesson-to-web/review-grammar.md` and pass the file list.
 - **no** — end the skill.
-- **all** — load review-grammar, instructing it to continue through structure-grammar and see-also-grammar without prompting at each handoff.
+- **all** — load review-grammar, instructing it to continue through structure-grammar, register-confusability-grammar, and see-also-grammar without prompting at each handoff.
 

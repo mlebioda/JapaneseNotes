@@ -84,4 +84,4 @@ Run structure-grammar on these files? (yes / no / all)
 
 - **yes** — load `.cowork/skills/lesson-to-web/structure-grammar.md` and pass the file list.
 - **no** — end the skill.
-- **all** — load structure-grammar, instructing it to continue through see-also-grammar without prompting at the next handoff.
+- **all** — load structure-grammar, instructing it to continue through register-confusability-grammar then see-also-grammar without prompting at the next handoff.

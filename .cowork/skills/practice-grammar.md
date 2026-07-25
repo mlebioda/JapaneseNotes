@@ -156,13 +156,19 @@ Don't skip any step. Start practicing immediately after the user triggers the sk
 
 Both top-level sections contain grammar points to drill. `# 文法` is core grammar; `# Vocabulary` covers more complex sentence-construction patterns that don't fit a single `#w`/`#wc`/`#wp` line. Treat them the same way.
 
-For each section, find its `^# ` heading and collect content until the next `^# ` heading of the same level. Inside:
+For each section, find its `^# ` heading and collect content until the next `^# ` heading of the same level.
 
-- Every `## Heading` is a top-level grammar point — always include.
-- Every `### Heading` under a `##` that contains only `###` subpoints (no prose of its own) becomes a grammar point on its own. If the `##` has both prose and `###` children, include the `##` only (same rule as grammar-summary skill).
+Load `.cowork/skills/_heading-roles.md` and apply its rules to the section's heading tree — roles are content-based and apply at **any nesting depth** (real patterns appear at `##`, `###`, and `####`):
+
+- **Point** headings become drill points — one `{grammar_header, body_text, source_section}` triple each. Scaffolding children (`Examples`, `Structure`, …) fold into the point's `body_text`.
+- **Container** headings are never drilled themselves — their descendant points are drilled individually.
+- **Scaffolding** headings are never drill points.
+- practice-grammar applies these rules deterministically — no user gate. When a child heading is ambiguous (explanation-part vs sub-pattern), fold it into the parent point's body.
 - Preserve Japanese characters exactly.
 
-Build a list of `{grammar_header, body_text, source_section}` triples. The body text (Structure blocks, examples) is what generates exercises.
+The body text (Structure blocks, examples) is what generates exercises.
+
+**Migration note:** role-based parsing can change the drill-point set for lessons first drilled under the older level-based rules. `grammar-state.json` entries whose `grammar_header` no longer matches any heading are skipped with a warning (existing behavior) — when that warning fires, tell the user which entry was orphaned so they can re-practice the lesson or delete the stale entry.
 
 #### Use case extraction
 

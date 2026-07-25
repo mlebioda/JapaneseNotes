@@ -14,6 +14,9 @@ Rules (matching update-grammar skill step 3):
 - Matches readings to maximal CJK runs left-to-right
 - Skips lines already in inline format (no trailing list)
 - Skips lines inside ## Structure / ### Structure sections
+- Skips YAML frontmatter lines and markdown heading lines (`# ...`)
+- Readings must be kana-only — a trailing parenthetical containing kanji or Latin
+  (e.g. `(尊敬語)`, `(Uchi-Soto)`) is not a reading list; line left unchanged
 - Logs a warning if reading count != kanji-group count; leaves line unchanged
 - Lines with no kanji: skipped
 """
@@ -23,6 +26,7 @@ import sys
 from pathlib import Path
 
 CJK_RE = re.compile(r'[一-鿿]+')
+KANA_RE = re.compile(r'[ぁ-ゖァ-ヺー]+')
 
 # Patterns for trailing reading list (fullwidth or ASCII parens)
 TRAILING_FW = re.compile(r'（([^）]+)）([ \t]*-.*)?$')
@@ -44,6 +48,9 @@ def convert_line(line, in_structure=False):
 
     reading_str = m.group(1)
     readings = [r.strip() for r in re.split(r'[、,]', reading_str)]
+    # A real reading list is kana-only; (尊敬語), (Uchi-Soto) etc. are not readings
+    if not readings or not all(KANA_RE.fullmatch(r) for r in readings):
+        return line, None
     raw_suffix = m.group(2) or ''
     # Normalise separator: always " - " regardless of original spacing
     suffix = re.sub(r'^[ \t]*-[ \t]*', ' - ', raw_suffix) if raw_suffix else ''
@@ -79,15 +86,27 @@ def convert_file(path, dry_run=False):
     warnings = []
     converted = 0
     in_structure = False
+    in_frontmatter = bool(lines) and lines[0].rstrip('\n') == '---'
+    fm_closed = not in_frontmatter
 
-    for line in lines:
+    for idx, line in enumerate(lines):
         stripped = line.rstrip('\n')
+
+        # Frontmatter and heading lines are never converted
+        skip = False
+        if not fm_closed:
+            skip = True
+            if idx > 0 and stripped == '---':
+                fm_closed = True
+        elif stripped.startswith('#'):
+            skip = True
+
         if re.match(r'^#{2,3} Structure', stripped):
             in_structure = True
         elif re.match(r'^## ', stripped) and not re.match(r'^## Structure', stripped):
             in_structure = False
 
-        new_stripped, warn = convert_line(stripped, in_structure)
+        new_stripped, warn = (stripped, None) if skip else convert_line(stripped, in_structure)
         if warn:
             warnings.append(warn)
         if new_stripped != stripped:

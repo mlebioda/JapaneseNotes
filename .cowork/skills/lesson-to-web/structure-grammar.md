@@ -21,7 +21,7 @@ description: >
 
 Process each file in order. Apply all steps to one file before moving to the next.
 
-If called with **all** mode (from review-grammar "all" answer): skip the handoff prompt at the end and automatically continue to see-also-grammar.
+If called with **all** mode (from review-grammar "all" answer): skip the handoff prompt at the end and automatically continue to register-confusability-grammar.
 
 ---
 
@@ -51,6 +51,7 @@ If the file is a container file:
 
 - `## Examples` absent → add an empty `## Examples` section between `## Structure` and `## Notes`.
 - `## Notes` present but empty → remove the section entirely.
+- **Re-run preservation:** when reformatting a file into Structure 1 or Structure 2, preserve any existing `## Register` and `## Often confused with` sections unchanged, in their `_conventions.md` section-order position (after `## Notes`, before `## See also`) — the templates below end at `## See also` and predate these sections; dropping them would wipe register-confusability-grammar's work and dangle reverse links held by other files.
 
 #### Summary line
 
@@ -85,10 +86,6 @@ What should I do?
 
 > One-line summary of what the pattern expresses.
 
-## Use Cases
-
-Short description of when/how to use the pattern (1–3 sentences). Omit if the summary line already covers it.
-
 ## Structure
 
 ### Verb
@@ -119,20 +116,27 @@ Short description of when/how to use the pattern (1–3 sentences). Omit if the 
 
 [Full natural sentences showing real usage in context — required; leave empty if none available]
 
+## Use Cases
+
+Short description of when/how to use the pattern (1–3 sentences). Omit if the summary line already covers it.
+
 ## Notes
 
 [Optional — nuances, contrasts, or learner pitfalls. Omit the section entirely if empty.]
 
 ## See also
 
-- [Container Name](/JapaneseNotes/grammar-index/<slug>) — short reason
+- [Container Name](/JapaneseNotes/grammar-index/grammar/<slug>) — short reason
 ```
+
+Section order follows `_conventions.md` **File structure rules**: Structure → Examples → Use Cases → Notes → See also.
 
 Omit word-type sections and tense rows that do not apply. Each remaining row must have at least one inline example (`→ example`).
 
 **Section distinction:**
 - `## Structure` rows use `→` for short inline examples showing the pattern mechanically.
 - `## Examples` holds full natural sentences showing real usage in context.
+- Within `## Structure`, order content: formation rules first, exception tables/blocks after — the reader must meet the basic pattern before its special cases, regardless of the order in the source lesson.
 
 #### Structure 2 — Distinct use cases
 
@@ -170,7 +174,7 @@ Omit word-type sections and tense rows that do not apply. Each remaining row mus
 
 ## See also
 
-- [Container Name](/JapaneseNotes/grammar-index/<slug>) — short reason
+- [Container Name](/JapaneseNotes/grammar-index/grammar/<slug>) — short reason
 ```
 
 Each use case is a numbered `##` header. Structure subsections follow the same word-type / tense pattern as Structure 1, limited to what applies.
@@ -197,9 +201,9 @@ structure-grammar — N files processed
 Then ask (skip if running in **all** mode):
 
 ```
-Run see-also-grammar on these files? (yes / no / all)
+Run register-confusability-grammar on these files? (yes / no / all)
 ```
 
-- **yes** — load `.cowork/skills/lesson-to-web/see-also-grammar.md` and pass the file list.
+- **yes** — load `.cowork/skills/lesson-to-web/register-confusability-grammar.md` and pass the file list.
 - **no** — end the skill.
-- **all** — load see-also-grammar, instructing it to continue in all mode (no further handoff prompts after processing).
+- **all** — load register-confusability-grammar in all mode (which itself continues to see-also-grammar in all mode; no further handoff prompts after processing).

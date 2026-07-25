@@ -1,35 +1,15 @@
----
-layout: page
-title: Grammar Index
----
-
-Browse grammar topics by category:
+# Grammar Index
 
 ## Verbs
-- [Verb Forms](verb-forms) — dictionary form and masu form
 
-## Adjectives
-- [Special Adjectives](adjectives-special)
-
-## Particles
-- [Particles に・へ・を](particles-ni-he-wo) — direction, time, and object marking
-- [Particle で](particles-de) — means/method and location of action
-
-## Sentence Patterns
-- [Sentence-Final Particles](sentence-final-particles)
-
-## Questions & References
-- [Demonstratives](demonstratives)
+- [verb-te-form](/JapaneseNotes/grammar-index/verb-te-form) — Patterns built on the verb て-form — connecting, progressive/state, and auxiliary constructions.
 
 ## Patterns
-- [Existence & Location](existence-location)
-- [Conjunctions & Alternatives](conjunction-alternatives)
-- [Common Expressions](expressions-common) — expressions and adverbs like いっしょ
 
-## Forms & Counters
-- [Time & Date Expressions](time-date-expressions)
+- [requests-commands](/JapaneseNotes/grammar-index/requests-commands) — Patterns for asking, requesting, and instructing — from plain requests to honorific service-industry forms.
 
 ## Other
-- [Location & Directions](location-directions)
-- [Numbers & Counters](numbers-counters)
-- [Quantity Expressions](quantity-expressions)
+
+- [humble-expressions](/JapaneseNotes/grammar-index/humble-expressions) — Kenjougo (謙譲語) — patterns for lowering your own actions, status, and possessions when speaking to or about people outside your group.
+- [polite-expressions](/JapaneseNotes/grammar-index/polite-expressions) — Teineigo (丁寧語) — the neutral polite register (ます／です and their formal variants) showing formality and social distance, independent of relative rank.
+- [respectful-expressions](/JapaneseNotes/grammar-index/respectful-expressions) — Sonkeigo (尊敬語) — patterns for raising the status of the listener, a customer, a superior, or a respected third party.
