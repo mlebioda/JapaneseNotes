@@ -2325,7 +2325,7 @@
       "next_review": "2026-08-11"
     },
     "UN4GL12::imperative-form": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL12.md",
+      "lesson_file": "grammar-index/grammar/meireikei-imperative-form.md",
       "grammar_header": "命令形（めいれいけい）- imperative form",
       "last_reviewed": "2026-07-24",
       "next_review": "2026-09-01",
@@ -2338,7 +2338,7 @@
       "score": 4
     },
     "UN4GL12::vdict-na": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL12.md",
+      "lesson_file": "grammar-index/grammar/vdictna-dont-do.md",
       "grammar_header": "V「dict」+な - Don't do...",
       "last_reviewed": "2026-07-12",
       "next_review": "2026-07-30",
@@ -2354,7 +2354,7 @@
       "score": 2
     },
     "UN4GL12::masukei-nasai": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL12.md",
+      "lesson_file": "grammar-index/grammar/masu-nasai-giving-instructions.md",
       "grammar_header": "ます形 なさい - giving instructions",
       "last_reviewed": "2026-07-12",
       "next_review": "2026-07-30",
@@ -2370,7 +2370,7 @@
       "score": 2
     },
     "UN4GL12::noni": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL12.md",
+      "lesson_file": "grammar-index/grammar/noni-even-though.md",
       "grammar_header": "。。。のに - even though",
       "last_reviewed": "2026-07-12",
       "next_review": "2026-07-31",
@@ -2389,7 +2389,7 @@
       "score": 2
     },
     "UN4GL12::n-ga-shimasu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL12.md",
+      "lesson_file": "grammar-index/grammar/n-ga-shimasu.md",
       "grammar_header": "N が します",
       "last_reviewed": "2026-07-12",
       "next_review": "2026-07-31",
@@ -2405,7 +2405,7 @@
       "score": 2
     },
     "UN4GL12::n-no-hou-ga-adj-desu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL12.md",
+      "lesson_file": "grammar-index/grammar/n-nohouga-adj-desu-n-is-more-adj.md",
       "grammar_header": "N のほうが adj です - N is more adj",
       "last_reviewed": "2026-07-12",
       "next_review": "2026-07-31",
@@ -2422,7 +2422,7 @@
       "score": 2
     },
     "UN4GL12::toiu-imi-desu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL12.md",
+      "lesson_file": "grammar-index/grammar/toiuimidesu-means.md",
       "grammar_header": "という意味（いみ）です - means",
       "last_reviewed": "2026-07-24",
       "next_review": "2026-09-01",
@@ -2437,7 +2437,7 @@
       "score": 4
     },
     "UN4GL12::moshi": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL12.md",
+      "lesson_file": "grammar-index/grammar/moshi-if.md",
       "grammar_header": "もし - if",
       "last_reviewed": "2026-07-29",
       "interval_days": 1,

@@ -5,6 +5,7 @@ topic_slug: ["conditionals"]
 function: ["conditional"]
 level: N4
 register: neutral
+confused_with: ["moshi-if"]
 proofread: true
 ---
 
@@ -38,6 +39,10 @@ proofread: true
 ## Register
 Register: neutral
 場合は is a conditional connector, not a politeness marker — usable identically in casual, business, or written Japanese.
+
+## Often confused with
+
+- [もし - if](/JapaneseNotes/grammar-index/grammar/moshi-if) — test: Are you describing a specific circumstantial case, often in formal/procedural contexts (場合は), or just flagging general hypothetical uncertainty before a ば/たら/なら clause (もし)?
 
 ## See also
 

@@ -14,6 +14,9 @@
 - [change-of-state](/JapaneseNotes/grammar-index/change-of-state) — Patterns expressing a change of state over time — gaining or losing an ability, or starting/stopping a habit: ようになる, なくなる, and related forms.
 - [effort-intention](/JapaneseNotes/grammar-index/effort-intention) — Patterns expressing a speaker's deliberate effort or resolution to do (or not do) something, including polite requests built on that framing: ようにする, ようにしている, ようにしてください.
 - [desire-want](/JapaneseNotes/grammar-index/desire-want) — Patterns for expressing desire — wanting a thing, wanting to do something yourself, or wanting someone else to do something: が欲しい, たい, てほしい.
+- [concession-contrast](/JapaneseNotes/grammar-index/concession-contrast) — Patterns expressing a mismatch between expectation and reality — despite/even though something is true, the opposite happens: のに, and related forms.
+- [sensory-perception](/JapaneseNotes/grammar-index/sensory-perception) — Patterns for expressing a sensory quality being perceived — smell, taste, sound, or feeling — arising on its own: がする, and related forms.
+- [comparison](/JapaneseNotes/grammar-index/comparison) — Patterns for comparing two things — which one is more X: のほうが, と比べて, and related forms.
 
 ## Forms & Counters
 

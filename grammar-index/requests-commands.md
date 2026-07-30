@@ -7,6 +7,9 @@
 - [お/ご V「ます形」ください - Respectful request form (尊敬語)](/JapaneseNotes/grammar-index/grammar/o-go-v-masukudasai-respectful-request-form) · N4
 - [Vて形＋くださいませんか politer form of くれませんか - could you please (do smth for me)](/JapaneseNotes/grammar-index/grammar/kudasaimasenka-polite-request) · N4
 - [ようにします - working hard on / making an effort to](/JapaneseNotes/grammar-index/grammar/you-ni-shimasu) · N4
+- [命令形（めいれいけい）- imperative form](/JapaneseNotes/grammar-index/grammar/meireikei-imperative-form) · N4
+- [V「dict」＋な - Don't do...](/JapaneseNotes/grammar-index/grammar/vdictna-dont-do) · N4
+- [ます形 なさい - giving instructions](/JapaneseNotes/grammar-index/grammar/masu-nasai-giving-instructions) · N4
 
 ## See also
 

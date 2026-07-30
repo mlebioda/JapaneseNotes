@@ -22,7 +22,7 @@ The heading's text is a bare structural label from the **scaffolding label list*
 
 **Scaffolding label list:**
 
-`Examples`, `Example`, `Structure`, `Structures`, `Form`, `Forms`, `Conjugation`, `Use Cases`, `Use cases`, `Note`, `Notes`, `Function`, `Exception`, `Exceptions`, `Core rule`, `Connecting sentences`, `Meaning`, `Register`
+`Examples`, `Example`, `Structure`, `Structures`, `Form`, `Forms`, `Conjugation`, `Use Cases`, `Use cases`, `Note`, `Notes`, `Function`, `Exception`, `Exceptions`, `Core rule`, `Connecting sentences`, `Meaning`, `Register`, `Nuance`
 
 **Extending the list:** if a lesson uses a new structural label not listed here, add it to this list **first** (with explicit user confirmation), then proceed. Skills never treat an unlisted label as scaffolding silently, and never extend this list on their own.
 

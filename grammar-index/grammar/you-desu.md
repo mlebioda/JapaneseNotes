@@ -5,7 +5,7 @@ topic_slug: ["similarity-inference"]
 function: ["comparison", "hearsay-appearance"]
 level: N4
 register: neutral
-confused_with: ["marude"]
+confused_with: ["marude", "n-ga-shimasu"]
 proofread: true
 ---
 
@@ -66,6 +66,7 @@ Register: neutral
 ## Often confused with
 
 - [まるで - just like / not at all](/JapaneseNotes/grammar-index/grammar/marude) — test: Just stating a general impression of similarity, or emphasizing that the resemblance is total/complete?
+- [N が します](/JapaneseNotes/grammar-index/grammar/n-ga-shimasu) — test: Is this an inference based on how something appears (ようです), or a direct sensory perception like smell/taste/sound (がする)?
 
 ## See also
 

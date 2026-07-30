@@ -197,11 +197,12 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL12-I-was-told-by-my-company-presid
 # 文法
 
 ## 命令形（めいれいけい）- imperative form
+→ [[grammar-index/grammar/meireikei-imperative-form]]
 
 > Imperative form is a verb form often used when strongly ordering someone like: accidents, disasters, emergencies occur, cheering and supporting during sports (by men).
 > 止まれ - on roads
 > がんばれ
-> Rude to use it towards superior and friends
+> Blunt/masculine-coded. Rude toward superiors, but used casually among close (often male) friends, often softened with よ (来(こ)いよ).
 
 ### Conjugation
 
@@ -229,9 +230,13 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL12-I-was-told-by-my-company-presid
 |する|しろ|
 |くる|こい|
 
-**Negative imperative:** dictionary form + な
+> する can also become せよ — more formal/literary/archaic (writing, military commands); しろ is the common conversational form.
+
+**Negative imperative（禁止形 - きんしけい, prohibitive form）:** dictionary form + な
 - 行くな — Don't go!
 - 食べるな — Don't eat!
+
+**よ softening:** imperative + よ softens the tone into casual encouragement/advice, mostly among close (often male) friends — 来(こ)いよ、頑張(がんば)れよ
 
 **Softer alternatives:**
 - 〜てください — polite request
@@ -243,7 +248,15 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL12-I-was-told-by-my-company-presid
 #w がんばれ！がんばれ！ - Come on! Come on!
 #w 明日(あした)暇(ひま)だったら、うちへ来(こ)いよ。 - If you are free tomorrow, come to my house. (imperative)
 
+### Register
+
+Register: tiered
+- Plain imperative / 禁止形 (書け、食べろ、しろ、こい、行くな) — blunt, masculine-coded; used toward subordinates, in emergencies, on signs, sports cheering; rude toward superiors; casual among close (usually male) friends, often softened with よ.
+- なさい — softer, still top-down (parent→child, teacher→student); not used toward superiors.
+- てください／てくれ — everyday register; てください is neutral-polite for anyone, てくれ is casual/masculine among equals.
+
 ### V「dict」＋な - Don't do...
+→ [[grammar-index/grammar/vdictna-dont-do]]
 
 > Stronger restriction than ではいけない
 > impolite when used towards superiors and friends unless in the extreme emergencies.
@@ -260,31 +273,42 @@ Structure:
 #w 明日(あした)大事(だいじ)な試験(しけん)がある。勉強(べんきょう)を邪魔(じゃま)するなよ - Tomorrow I have an important exam. Don't interrupt me (softening)
 
 ## ます形 なさい - giving instructions
+→ [[grammar-index/grammar/masu-nasai-giving-instructions]]
 
 > て形 ください - used towards someone in general
 > ます形 なさい - used often superior -> someone lower in hierarchy like teacher to students
+> なさい sits between てください and the plain imperative (しろ) — firmer than てください, softer than しろ; not used toward superiors or peers
 
 ### Structure:
 - V「ます形」なさい
 	- 食べなさい
 
 #### Examples
-#w 練習問題(れんしゅうもんだい)に答(こた)えなさい。 - Please answer the exercises.
-#w テレビを見(み)ないで、早(はや)く食(た)べなさい。 - Don't watch TV, come eat.
+#w 練習問題(れんしゅうもんだい)に答(こた)えなさい。 - Answer the exercises.
+#w テレビを見(み)ないで、早(はや)く食(た)べなさい。 - Stop watching TV and eat quickly.
 #w ご飯(はん)を食(た)べる前(まえ)に、手(て)を洗(あら)いなさい。 - Wash your hands before the meal.
 
+### Register
+
+Register: tiered
+- なさい — authority-based instruction; parent→child, teacher→student, or written/exam instructions; firmer than てください, softer than plain imperative (しろ); not used toward superiors or peers.
+- てください — neutral-polite request, usable toward anyone regardless of hierarchy.
+
 ## 。。。のに - even though
+→ [[grammar-index/grammar/noni-even-though]]
 
 > In polish: mimo, ze
 
 > 1. Creating a complex sentence between conflicting contexts
 > 2. reveal the dissatisfied, sad or surprised feelings of the speaker
-> Cannot be used in questions
+> Cannot be followed by a question, command, request, suggestion, or volitional (let's) in the second clause — のに requires both clauses to be factual/real
 
 ### Structure
-- V「dict」+ のに ....(second sentence)
+- V「plain」+ のに ....(second sentence)
 - いadj + のに ....(second sentence)
+	- 過去形: 安(やす)くなかったのに
 - なadj + な + のに....(second sentence)
+	- 過去形: 好(す)きだったのに
 - N + な + のに....(second sentence)
 
 #### Examples
@@ -294,19 +318,28 @@ Structure:
 #w 旅行(りょこう)が好(す)きなのに、お金(かね)がなくて、どこへもいけません。 - Even though I like traveling, I don't have money, so I can't go anywhere.
 #w ご飯(はん)を食(た)べたばかりなのに、またお腹(なか)が空(す)いた。 -  Even though I just ate some food, I feel hungry again.
 
+### Register
+
+Register: neutral
+- Used in both casual and polite speech — the surrounding grammar can be made formal — but the regret/complaint/surprise nuance persists regardless of register, so it can sound blunt or accusatory toward superiors unless softened by the rest of the sentence.
+
 ## N が します
+→ [[grammar-index/grammar/n-ga-shimasu]]
 
 > in polish: czuć, słychać, mieć przeczucie
 
 > Often used when the speaker senses a smell, sound, voice, taste, or symptom
+> がする marks a sensory quality arising/being perceived (passive) — contrasts with active verbs for the same senses, e.g. 匂(にお)いを嗅(か)ぐ (to sniff/smell something on purpose), 音(おと)を聞(き)く (to listen/hear deliberately)
 
 ### Structure
 - N が する
 	- N - sensory nouns to express perceiving something through senses:
-		- - においがする — to smell (something)
+		- においがする — to have a smell / to smell of (something)
 		- 味がする — to taste like (something)
-		- 音がする — to hear a sound
-		- 気がする — to have a feeling that 
+		- 音がする — a sound occurs / can be heard
+		- 気分(きぶん)がする — to have a feeling / mood (physical or emotional state)
+		- 気(き)がする — to have a feeling/hunch that ~ (idiom, follows a plain-form clause)
+			- 何(なに)か悪(わる)いことが起(お)こる気(き)がする。 - I have a feeling something bad is going to happen.
 
 #### Examples
 
@@ -316,7 +349,13 @@ Structure:
 #w この車(くるま)、何(なに)か変(へん)な音(おと)がしませんか。 - Isn't this car making a strange noise? (less direct and certain)
 #w 今日(きょう)はいい気分(きぶん)がします。 - I feel good today.
 
+### Register
+
+Register: neutral
+- Plain する / polite します is standard verb conjugation here — no hierarchy or gender coding; used identically across casual and polite speech.
+
 ## N のほうが adj です - N is more adj
+→ [[grammar-index/grammar/n-nohouga-adj-desu-n-is-more-adj]]
 
 ### Structure
 - N1 より N2 のほうが adj です - N2 is more adj than N1
@@ -333,17 +372,28 @@ Structure:
 #w 着物(きもの)と洋服(ようふく)とどちらが好(す)きですか。 - Which do you like, kimonos or western clothes?
 #w 洋服(ようふく)より着物(きもの)のほうが好(す)きです。 - I like kimonos more than western clothes.
 #w わたしは猫(ねこ)より犬(いぬ)のほうが好(す)きです。 - I like dogs more than cats. 
+#w 電車(でんしゃ)より新幹線(しんかんせん)のほうが速(はや)いです。 - The bullet train is faster than the regular train.
 
-#w わたしは猫(ねこ)と比(くら)べて犬(いぬ)のほうが好(す)きです。 - compared to cats I like dogs more 
-#w 京都(きょうと)へ行(い)くなら、飛行機(ひこうき)と比(くら)べて、新幹線(しんかんせん)のほうが便利(べんり)だと思(おも)います。 - If you go to Kyoto, Compared to planes I think the bullet train is more convenient 
+#w わたしは猫(ねこ)と比(くら)べて犬(いぬ)のほうが好(す)きです。 - compared to cats, I like dogs more
+#w 京都(きょうと)へ行(い)くなら、飛行機(ひこうき)と比(くら)べて、新幹線(しんかんせん)のほうが便利(べんり)だと思(おも)います。 - If you go to Kyoto, compared to planes I think the bullet train is more convenient
+
+### Register
+
+Register: tiered
+- より — neutral, everyday casual/polite speech alike.
+- と比べて — more formal/explicit, emphasizes the act of comparing; common in writing or deliberate/formal speech.
 
 ## という意味（いみ）です - means
+→ [[grammar-index/grammar/toiuimidesu-means]]
 
 > Used when explaining meaning of a word
+> という意味です can also quote a full clause/sentence, not just a noun (see: 写真(しゃしん)を撮(と)るなという意味(いみ)です below)
+
 ### Structure
-1. N1 は N２ ＋ という意味（いみ）です
+1. N1 は N2 ＋ という意味（いみ）です
 2. Questions:
-	1. N は どのような 意味ですか
+	1. N は どのような 意味ですかye
+	2. N は どういう 意味ですか （more common/neutral; どのような is slightly more formal/descriptive）
 
 #### Examples
 
@@ -354,20 +404,34 @@ Structure:
 #w このマークは「駐車禁止(ちゅうしゃきんし)」という意味(いみ)です。 - This mark means "No parking".
 #w これは写真(しゃしん)を撮(と)るなという意味(いみ)です。 - This means no photography.
 #w 「行(い)く」は英語(えいご)で「go」という意味(いみ)です。 - "行く" means "go" in English.
-# Vocabulary
 
+### Register
+
+Register: tiered
+- という(意味です) — neutral, used in both speech and writing.
+- っていう(意味) — casual contraction, spoken only, not used in formal writing.
+- Question form: どういう意味ですか (common/neutral) vs どのような意味ですか (more formal/descriptive).
+
+---
 ## もし - if
+→ [[grammar-index/grammar/moshi-if]]
 
-> もし has no meaning on its own, it just signals to the listener that a hypothetical condition is coming. Think of it as a warning word.
+> もし adds a hypothetical/uncertain nuance to a conditional clause — it doesn't change the grammar, it just signals in advance that a conditional (ば/たら/なら) is coming and that the condition is less certain.
 > - always paired with ば/たら/なら
+> - distinct from もしかしたら／もしかして ("perhaps" / "by any chance") — those express the speaker's own uncertainty about a statement, not a conditional
 
 Comparison
 - 晴れたら、出かけよう。— neutral condition, speaker expects it might happen
 - もし晴れたら、出かけよう — more hypothetical, "if by chance it clears up..." — speaker is less certain it will happen, treating it more as a "what if"
 
-### Register — exercise note
+### Nuance
 
 もし marks a hypothetical, uncertain framing ("what if..."), not a neutral/likely condition.
+
+### Register
+
+Register: neutral
+- Used identically in casual and polite speech; no formality restriction (unlike なさい or the plain imperative, which are tied to hierarchy).
 
 #w もし - if (used to introduce a hypothetical condition, always paired with ば/たら/なら)
 
@@ -375,6 +439,10 @@ Comparison
 
 #w もし晴(は)れたら、出(で)かけよう。 - If it clears up, let's go out.
 #w もしあなたが行(い)くなら、私(わたし)も行(い)く。 - If you are going, I will go too.
+
+# Vocabulary
+
+
 
 
 # Summary

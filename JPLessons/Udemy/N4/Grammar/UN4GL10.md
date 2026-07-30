@@ -653,6 +653,8 @@ broadcast / to broadcast + verb | to transmit information or programs via TV, ra
 
 I will keep studying Japanese from now on. #card
 これから日本語(にほんご)を勉強(べんきょう)していきます 
+<!--ID: 1785395547785-->
+
 
 
 sleepy | feeling drowsy or in need of sleep #card

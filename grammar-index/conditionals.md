@@ -5,3 +5,4 @@
 ## Entries
 
 - [。。。場合は, 。。。 - in case of, if](/JapaneseNotes/grammar-index/grammar/baai-in-case-of-if) · N4
+- [もし - if](/JapaneseNotes/grammar-index/grammar/moshi-if) · N4
