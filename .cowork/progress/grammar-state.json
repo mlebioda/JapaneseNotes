@@ -2288,7 +2288,7 @@
       "next_review": "2026-08-11"
     },
     "UN4GL11::causative-form": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL11.md",
+      "lesson_file": "grammar-index/grammar/shiekikei-causative-form.md",
       "grammar_header": "使役形（しえきけい) - causative form",
       "interval_days": 4,
       "ease": 2.0,
@@ -2307,8 +2307,8 @@
       "next_review": "2026-08-12"
     },
     "UN4GL11::is-the-most-important": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL11.md",
-      "grammar_header": "... is the most important",
+      "lesson_file": "grammar-index/grammar/ngadesu-n-is-the-most-important.md",
+      "grammar_header": "Nが一番です - N is the most important",
       "interval_days": 14,
       "ease": 2.35,
       "streak": 3,
@@ -2730,7 +2730,7 @@
       "score": 4,
       "next_review": "2026-09-11"
     },
-    "N4GL13::dai-counter": {
+    "UN4GL13::dai-counter": {
       "lesson_file": "grammar-index/grammar/dai-counter.md",
       "grammar_header": "台（だい）counter",
       "last_reviewed": "2026-07-15",
@@ -2745,7 +2745,7 @@
       ],
       "score": 2
     },
-    "N4GL13::sonkeigo-rareru": {
+    "UN4GL13::sonkeigo-rareru": {
       "lesson_file": "grammar-index/grammar/sonkeikei-passive-form.md",
       "grammar_header": "尊敬語 — られる (passive-based respectful form)",
       "last_reviewed": "2026-07-15",
@@ -2760,7 +2760,7 @@
       ],
       "score": 2
     },
-    "N4GL13::sonkeigo-special-verbs": {
+    "UN4GL13::sonkeigo-special-verbs": {
       "lesson_file": "grammar-index/grammar/tokubetsunadoushi-special-verbs.md",
       "grammar_header": "尊敬語 — 特別な動詞 (special verbs)",
       "last_reviewed": "2026-07-15",
@@ -2775,7 +2775,7 @@
       ],
       "score": 2
     },
-    "N4GL13::sonkeigo-o-masu-ni-naru": {
+    "UN4GL13::sonkeigo-o-masu-ni-naru": {
       "lesson_file": "grammar-index/grammar/o-vmasu-ninarimasu.md",
       "grammar_header": "尊敬語 — お＋ます形＋になる",
       "last_reviewed": "2026-07-15",
@@ -2790,7 +2790,7 @@
       ],
       "score": 2
     },
-    "N4GL13::o-go-prefix": {
+    "UN4GL13::o-go-prefix": {
       "lesson_file": "grammar-index/grammar/sonkeigo-o-go-prefix-nouns-adjectives-adverbs.md",
       "grammar_header": "お・ご ＋ Noun/Adj (keigo prefix)",
       "last_reviewed": "2026-07-15",
@@ -2805,7 +2805,7 @@
       ],
       "score": 2
     },
-    "N4GL13::kochira-sochira-achira-dochira-sama": {
+    "UN4GL13::kochira-sochira-achira-dochira-sama": {
       "lesson_file": "grammar-index/grammar/sonkeigo-polite-people-reference.md",
       "grammar_header": "こちら／そちら／あちら／どちら＋様",
       "last_reviewed": "2026-07-15",
@@ -2820,7 +2820,7 @@
       ],
       "score": 2
     },
-    "N4GL13::te-itadaku": {
+    "UN4GL13::te-itadaku": {
       "lesson_file": "grammar-index/grammar/te-form-itadaku-kudasaru-favor-received.md",
       "grammar_header": "Vて形＋いただく (favor received, kenjougo)",
       "last_reviewed": "2026-07-15",
@@ -2835,7 +2835,7 @@
       ],
       "score": 2
     },
-    "N4GL13::te-kudasaru": {
+    "UN4GL13::te-kudasaru": {
       "lesson_file": "grammar-index/grammar/te-form-itadaku-kudasaru-favor-received.md",
       "grammar_header": "Vて形＋くださる (favor given, sonkeigo)",
       "last_reviewed": "2026-07-15",
@@ -2850,7 +2850,7 @@
       ],
       "score": 2
     },
-    "N4GL13::te-kudasaimasenka": {
+    "UN4GL13::te-kudasaimasenka": {
       "lesson_file": "grammar-index/grammar/kudasaimasenka-polite-request.md",
       "grammar_header": "Vて形＋くださいませんか",
       "last_reviewed": "2026-07-15",
@@ -2865,7 +2865,7 @@
       ],
       "score": 2
     },
-    "N4GL13::baai-wa": {
+    "UN4GL13::baai-wa": {
       "lesson_file": "grammar-index/grammar/baai-in-case-of-if.md",
       "grammar_header": "。。。場合は (V/Vた・い-adj・な-adj/N)",
       "last_reviewed": "2026-07-15",
@@ -2880,7 +2880,7 @@
       ],
       "score": 2
     },
-    "N4GL13::kenjougo-haiken-ukagau": {
+    "UN4GL13::kenjougo-haiken-ukagau": {
       "lesson_file": "grammar-index/grammar/kenjougo-humble-expressions-un4gl13.md",
       "grammar_header": "謙譲語 (拝見する／伺う／わたくし／弊社)",
       "last_reviewed": "2026-07-15",
@@ -2895,7 +2895,7 @@
       ],
       "score": 2
     },
-    "N4GL13::teineigo-gozaimasu": {
+    "UN4GL13::teineigo-gozaimasu": {
       "lesson_file": "grammar-index/grammar/gozaimasu-polite-arimasu-desu.md",
       "grammar_header": "丁寧語 (ございます)",
       "last_reviewed": "2026-07-15",
@@ -2910,7 +2910,7 @@
       ],
       "score": 2
     },
-    "N4GL13::nakanaka": {
+    "UN4GL13::nakanaka": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/nakanaka-quite.md",
       "grammar_header": "なかなか (positive & negative)",
       "last_reviewed": "2026-07-15",
@@ -2925,7 +2925,7 @@
       ],
       "score": 2
     },
-    "N4GL13::hotondo": {
+    "UN4GL13::hotondo": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/hotondo-almost-amount.md",
       "grammar_header": "ほとんど (positive & negative)",
       "last_reviewed": "2026-07-15",
@@ -2940,7 +2940,7 @@
       ],
       "score": 2
     },
-    "N4GL13::shiraseru": {
+    "UN4GL13::shiraseru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/shiraseru-to-inform-let-know.md",
       "grammar_header": "知らせる (to inform)",
       "last_reviewed": "2026-07-15",
@@ -2955,7 +2955,7 @@
       ],
       "score": 2
     },
-    "N4GL13::bun-portion": {
+    "UN4GL13::bun-portion": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/bun-portion-range.md",
       "grammar_header": "分（ぶん）usage (counter suffix・divided portion・range)",
       "last_reviewed": "2026-07-15",
@@ -3887,6 +3887,53 @@
         "exception verbs (見る→ご覧ください) not attempted"
       ],
       "score": 1
+    },
+    "UN4GL11::causative-intransitive": {
+      "lesson_file": "grammar-index/grammar/make-let-a-person-intransitive-verb.md",
+      "grammar_header": "Make/let a person intransitive verb",
+      "interval_days": 4,
+      "ease": 2.0,
+      "streak": 1,
+      "total_reviews": 3,
+      "last_reviewed": "2026-07-23",
+      "last_score": 2,
+      "score": 2,
+      "next_review": "2026-08-12",
+      "weak_points": [
+        "を vs に for intransitive causative object marking (recurred — 学生に instead of 学生を)",
+        "帰る causative conjugation (帰らせる, not 帰させる) — godan exception verb — recurring error"
+      ]
+    },
+    "UN4GL11::causative-transitive": {
+      "lesson_file": "grammar-index/grammar/make-let-a-person-transitive-verb.md",
+      "grammar_header": "Make/let a person transitive verb",
+      "interval_days": 4,
+      "ease": 2.0,
+      "streak": 1,
+      "total_reviews": 3,
+      "last_reviewed": "2026-07-23",
+      "last_score": 2,
+      "score": 2,
+      "next_review": "2026-08-12",
+      "weak_points": [
+        "missing の in 子供の頃"
+      ]
+    },
+    "UN4GL11::causative-request": {
+      "lesson_file": "grammar-index/grammar/would-you-please-let-me-do.md",
+      "grammar_header": "Would you please let me do...",
+      "interval_days": 4,
+      "ease": 2.0,
+      "streak": 1,
+      "total_reviews": 3,
+      "last_reviewed": "2026-07-23",
+      "last_score": 2,
+      "score": 2,
+      "next_review": "2026-08-12",
+      "weak_points": [
+        "causative+ていただけませんか not produced (skipped)",
+        "ていただけませんか not produced — used てください instead — recurring gap"
+      ]
     }
   }
 }

@@ -186,17 +186,18 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL11-The-manager-allowed-me-to-be-in
 # 文法
 
 ## 使役形（しえきけい) - causative form
+→ [[grammar-index/grammar/shiekikei-causative-form]]
 
 >The causative form expresses **making or letting someone do something**. It translates as "make [someone] do" or "let [someone] do" depending on context.
- > Can’t be used to higher ranking person
+ > Plain causative (書かせる, 帰らせました) is top-down only — can't be used toward a higher-ranking person. The causative-request forms below ("let me do...") are the exception: they're the standard humble way to ask permission *from* a superior (see 部長 example below).
 
 > In polish: kazać/pozwolić coś zrobić
 
-### Formation
+### Conjugation
 
 **Group 1 (う-verbs):** change the final う-sound to あ-sound + せる
 - 書く → 書**かせる** (kaku → kakaseru)
-- 飲む → 飲**ませる** (nomu → nomаseru)
+- 飲む → 飲**ませる** (nomu → nomaseru)
 - 話す → 話**させる** (hanasu → hanasaseru)
 
 **Group 2 (る-verbs):** drop る, add させる
@@ -209,6 +210,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL11-The-manager-allowed-me-to-be-in
 
 ### Use cases
 #### Make/let a person intransitive verb
+→ [[grammar-index/grammar/make-let-a-person-intransitive-verb]]
 Structure:
 - (N1 は/が )N2 を Vi「causative form」
 	- Where
@@ -225,14 +227,15 @@ Structure:
 #w 昨日(きのう)友達(ともだち)とけんかして、親(おや)は私(わたし)を友達(ともだち)に謝(あやま)らせた。 - Yesterday I had a fight with my friend, so my parents made me apologize to him.
 #w (あなたを)待(ま)たせて、ごめんなさい。 - Sorry to keep you waiting.(abbrieviated)
 
-#### Make/let a person intransitive verb
+#### Make/let a person transitive verb
+→ [[grammar-index/grammar/make-let-a-person-transitive-verb]]
 
->Make/let a person intransitive verb
+>Make/let a person transitive verb
 
 Structure:
 - N0 は/が　N1 に N2 を Vt「causative form」- 
 	- Where
-		- N1 - causer
+		- N0 - causer
 		- N1 - person who acts
 		- N2 - Thing
 		- V - transitive
@@ -244,6 +247,7 @@ Structure:
 #w 会議(かいぎ)で、部長(ぶちょう)はみなさんに自由(じゆう)に意見(いけん)を言(い)わせました。 - In the meeting, the manager let everybody say their opinions freely.
 
 #### Would you please let me do... 
+→ [[grammar-index/grammar/would-you-please-let-me-do]]
 
 
 Structure:
@@ -256,16 +260,30 @@ Structure:
 #w 新(あたら)しい絵(え)ができたと聞(き)いたんですが、見(み)させてもらえませんか。 - I heard that you have finished a new drawing, could you please let me have a look? (polite enoufh)
 #w 相談（そうだん）させてください - please let me ask for your advice (least polite)
 
-## ... is the most important
+### Register
+
+Register: tiered
+- Plain causative (書かせる、帰らせました) — used top-down only (authority causing/letting a subordinate act: parent, teacher, boss); not used toward superiors.
+- Causative-request for "let me do X" — usable toward superiors, tiered: てください (polite but least) < てもらえませんか (usually polite enough) < ていただけませんか (very polite).
+
+## Nが一番です - N is the most important
+→ [[grammar-index/grammar/ngadesu-n-is-the-most-important]]
 
 ### Structure
 - N + が + 一番です（いちばん）
-- V「dict」+ こと + が + 一番です（いちばん）
+- V「dict」+ の/こと + が + 一番です（いちばん）
+- いadj + の + が + 一番です（いちばん）
 
 #### Examples
 #w 健康(けんこう)が一番(いちばん)です。 - Health is the most important.
 #w 見(み)やすいのが一番(いちばん)です。 - It is most important to see clearly(easily).
 #w 風邪(かぜ)を引(ひ)いた時(とき)は薬(くすり)を飲(の)んで寝(ね)るのが一番(いちばん)だ。 - When you catch a cold, it is most important to take medicine and sleep.
+
+### Register
+
+Register: tiered
+- 一番です — polite/neutral, spoken and written.
+- 一番だ — plain/casual, friends/family or internal monologue/writing.
 
 
 # Vocabulary

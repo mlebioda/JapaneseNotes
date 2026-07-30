@@ -5,6 +5,7 @@ topic_slug: ["comparison"]
 function: ["comparison"]
 level: N4
 register: tiered
+confused_with: ["ngadesu-n-is-the-most-important"]
 proofread: true
 ---
 
@@ -35,6 +36,10 @@ proofread: true
 Register: tiered
 - より — neutral, everyday casual/polite speech alike.
 - と比べて — more formal/explicit, emphasizes the act of comparing; common in writing or deliberate/formal speech.
+
+## Often confused with
+
+- [Nが一番です - N is the most important](/JapaneseNotes/grammar-index/grammar/ngadesu-n-is-the-most-important) — test: Are you comparing exactly two specific things against each other (のほうが), or ranking the single best/most extreme option among many (一番)?
 
 ## See also
 

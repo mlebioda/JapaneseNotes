@@ -5,7 +5,7 @@ topic_slug: ["respectful-expressions", "politeness-hierarchy"]
 function: ["formality", "passive-causative"]
 level: N4
 register: tiered
-confused_with: ["tokubetsunadoushi-special-verbs", "o-vmasu-ninarimasu"]
+confused_with: ["tokubetsunadoushi-special-verbs", "o-vmasu-ninarimasu", "shiekikei-causative-form"]
 proofread: true
 ---
 
@@ -49,6 +49,7 @@ Still respectful, but casual/everyday — appropriate for colleagues or quick, l
 ## Often confused with
 - [**3. お + V「ます形」になります**](/JapaneseNotes/grammar-index/grammar/o-vmasu-ninarimasu) — test: Casual/quick respect with no special verb (→ this られる pattern), or a more careful お＋ます形＋になる construction toward a superior/customer (→ お＋ます形＋になる)?
 - [**2. 特別な動詞（とくべつなどうし）- special verbs**](/JapaneseNotes/grammar-index/grammar/tokubetsunadoushi-special-verbs) — test: Does a dedicated special verb exist for this action (→ 特別な動詞), or not (→ this られる pattern)?
+- [使役形（しえきけい) - causative form](/JapaneseNotes/grammar-index/grammar/shiekikei-causative-form) — test: Respectfully describing what a superior does using the passive-shaped honorific (られる), or making/letting someone perform an action (causative せる/させる)?
 
 ## See also
 

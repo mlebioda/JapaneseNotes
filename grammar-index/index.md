@@ -4,6 +4,7 @@
 
 - [verb-te-form](/JapaneseNotes/grammar-index/verb-te-form) — Patterns built on the verb て-form — connecting, progressive/state, and auxiliary constructions.
 - [communication-verbs](/JapaneseNotes/grammar-index/communication-verbs) — Verbs for informing, telling, reporting, and contacting others.
+- [causative](/JapaneseNotes/grammar-index/causative) — Patterns for making or letting someone do something (使役形), including the humble causative-request forms used to ask permission from a superior.
 
 ## Patterns
 
@@ -16,7 +17,7 @@
 - [desire-want](/JapaneseNotes/grammar-index/desire-want) — Patterns for expressing desire — wanting a thing, wanting to do something yourself, or wanting someone else to do something: が欲しい, たい, てほしい.
 - [concession-contrast](/JapaneseNotes/grammar-index/concession-contrast) — Patterns expressing a mismatch between expectation and reality — despite/even though something is true, the opposite happens: のに, and related forms.
 - [sensory-perception](/JapaneseNotes/grammar-index/sensory-perception) — Patterns for expressing a sensory quality being perceived — smell, taste, sound, or feeling — arising on its own: がする, and related forms.
-- [comparison](/JapaneseNotes/grammar-index/comparison) — Patterns for comparing two things — which one is more X: のほうが, と比べて, and related forms.
+- [comparison](/JapaneseNotes/grammar-index/comparison) — Patterns for comparing two things or ranking the most extreme case — which one is more X, or which one is the most X: のほうが, と比べて, 一番, and related forms.
 
 ## Forms & Counters
 
