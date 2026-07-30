@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Japanese Grammar Review//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Japanese Grammar Review — 2 point(s)
+DESCRIPTION:Volitional form + と思っています\nかかる - to spend/c
+ ost (time, money, effort)
+UID:20260817-20260730T160356-fa5b4bcf@japanese-notes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Japanese Grammar Review — 5 point(s)
+DESCRIPTION:V「dict」+な - Don't do...\nます形 なさい - giving ins
+ tructions\n分かる - understand\n知る - to know\n返す（かえす）
+ - to return
+UID:20260818-20260730T160356-755cfab6@japanese-notes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Japanese Grammar Review — 1 point(s)
+DESCRIPTION:必ず（かならず）
+UID:20260820-20260730T160356-f19108cf@japanese-notes
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Japanese Grammar Review — 2 point(s)
+DESCRIPTION:全部で (in total)\nこれ/それ/あれ (demonstrative prono
+ uns)
+UID:20261215-20260730T160356-8101a11d@japanese-notes
+END:VEVENT
+END:VCALENDAR
