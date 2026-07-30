@@ -513,7 +513,7 @@ hat / cap #k  #card
 <!--ID: 1774708228392-->
 
 
-to wear hat | かぶる is used specifically for putting things on the head (hats, helmets), unlike 着る or はく #k  #card
+to wear hat | used specifically for putting things on the head (hats, helmets) #k  #card
 ほんやく: 帽子をかぶる（ぼうし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帽.html">帽</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>

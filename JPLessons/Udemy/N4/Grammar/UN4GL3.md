@@ -1499,7 +1499,7 @@ Please turn up the radio volume. #k #card
 
 
 
-I cleaned my room. #k #card
+I cleaned my room. (made (it) become clean") #k #card
 部屋(へや)をきれい**にしました**
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
@@ -1749,7 +1749,7 @@ I will wrap the glass with newspaper so that it won't break #k #card
 
 
 
-In order not to be late, I took the earlier train. #k #card
+In order not to be late, I took the (one before) earlier train. #k #card
 遅刻(ちこく)しない**ように**、一(ひと)つ前(まえ)の電車(でんしゃ)に乗(の)りました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遅.html">遅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_刻.html">刻</a>

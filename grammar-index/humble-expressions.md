@@ -11,6 +11,9 @@
 - [お・ご V「ます形」いたします](/JapaneseNotes/grammar-index/grammar/o-go-v-masuitashimasu) · N4
 - [ウチ・ソト (Uchi-Soto) - In-group / Out-group](/JapaneseNotes/grammar-index/grammar/uchi-soto-in-group-out-group) · N4
 - [V「て形」おります - Humble progressive / state form](/JapaneseNotes/grammar-index/grammar/vteorimasu-humble-progressive-state-form) · N4
+- [Vて形 + いただく（謙譲語）・くださる（尊敬語） - describing a favor received from a superior](/JapaneseNotes/grammar-index/grammar/te-form-itadaku-kudasaru-favor-received) · N4
+- [謙譲語（けんじょうご） - humble expressions](/JapaneseNotes/grammar-index/grammar/kenjougo-humble-expressions-un4gl13) · N4
+- [敬語(けいご)](/JapaneseNotes/grammar-index/grammar/keigo) · N4
 
 ## See also
 

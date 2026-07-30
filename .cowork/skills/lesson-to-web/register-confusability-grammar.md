@@ -106,7 +106,7 @@ If web search is unavailable or the results are inconclusive, do not guess:
 Register: unknown — insufficient source material
 ```
 
-**Insertion position:** immediately after `## Notes` if present, otherwise immediately after `## Examples` (or `## Use Cases` if that is the last section present in the file). Always before `## Often confused with` and before `## See also`.
+**Insertion position:** immediately after `## Notes` if present, otherwise immediately after the last content section present — `## Examples` or `## Use Cases` for Structure 1, or the last numbered `## N. Use Case Name` section (including its nested `### Examples`) for Structure 2. Always before `## Often confused with` and before `## See also`.
 
 **Frontmatter mirror:** after writing/overwriting the `## Register` section, mirror its value into the `register:` frontmatter field (bare scalar, per `_conventions.md` Canonical YAML serialization). Value mapping:
 

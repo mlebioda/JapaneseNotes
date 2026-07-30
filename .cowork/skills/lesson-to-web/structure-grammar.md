@@ -114,7 +114,8 @@ What should I do?
 
 ## Examples
 
-[Full natural sentences showing real usage in context — required; leave empty if none available]
+[Full natural sentences showing real usage in context — required; leave empty if none available.
+One Markdown bullet (`- `) per sentence — see `_conventions.md` "## Examples content format"]
 
 ## Use Cases
 
@@ -135,7 +136,8 @@ Omit word-type sections and tense rows that do not apply. Each remaining row mus
 
 **Section distinction:**
 - `## Structure` rows use `→` for short inline examples showing the pattern mechanically.
-- `## Examples` holds full natural sentences showing real usage in context.
+- `## Examples` holds full natural sentences showing real usage in context, one Markdown
+  bullet (`- `) per sentence — see `_conventions.md` "## Examples content format".
 - Within `## Structure`, order content: formation rules first, exception tables/blocks after — the reader must meet the basic pattern before its special cases, regardless of the order in the source lesson.
 
 #### Structure 2 — Distinct use cases
@@ -158,15 +160,20 @@ Omit word-type sections and tense rows that do not apply. Each remaining row mus
 
 (etc. — only applicable word types and tenses)
 
+### Examples
+
+[Full natural sentences for this use case only — required; leave empty if none available.
+One Markdown bullet (`- `) per sentence — see `_conventions.md` "## Examples content format"]
+
 ## 2. Use Case Name
 
 ### Structure
 
 (same format)
 
-## Examples
+### Examples
 
-[Full natural sentences — required; leave empty if none available]
+(same format — this use case's own examples only)
 
 ## Notes
 
@@ -177,7 +184,7 @@ Omit word-type sections and tense rows that do not apply. Each remaining row mus
 - [Container Name](/JapaneseNotes/grammar-index/grammar/<slug>) — short reason
 ```
 
-Each use case is a numbered `##` header. Structure subsections follow the same word-type / tense pattern as Structure 1, limited to what applies.
+Each use case is a numbered `##` header. Structure subsections follow the same word-type / tense pattern as Structure 1, limited to what applies. **Examples nest under each use case as its own `### Examples` subsection** — unlike Structure 1's single shared `## Examples` section, Structure 2 has no top-level Examples section at all; every example belongs to exactly one use case. If the attachment structure itself is identical across use cases (only the meaning/examples differ), repeat the shared `### Structure` content under each use case rather than hoisting it out — each use-case section must stay self-contained.
 
 ---
 

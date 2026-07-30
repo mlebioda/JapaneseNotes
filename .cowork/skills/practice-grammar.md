@@ -65,16 +65,27 @@ This section runs when scope = TODAY or scope = OVERDUE. It produces `selected_e
 Once `selected_entries` is resolved:
 
 1. Collect unique `lesson_file` values from `selected_entries`.
-2. For each lesson file, read content up to `# Summary` using:
-   ```bash
-   awk '/^# Summary$/{exit} {print}' "$LESSON_FILE"
-   ```
-   Load lazily — only read a file on first demand. Each path is read at most once.
-3. For each selected entry, locate `grammar_header` in the loaded lesson slice by searching `# 文法` and `# Vocabulary` sections for a `## Heading` match. Strategy: exact → case-insensitive → whitespace-normalised. If no match: skip with warning. If more than one match (ambiguous): skip with warning.
-4. Build merged vocab pool: union of all `# ごい` + `# ひょうげん` tagged lines from all loaded lesson files. Deduplicate by Japanese form (full kanji+reading string). When the same form appears in multiple lesson files, keep the first occurrence (session-list order).
-5. If all lesson files fail to load: print `Error: no lesson files could be loaded — session cancelled.` and report all warnings. Stop.
+2. **Source-type branch** — for each `lesson_file` path, determine its source type before loading. Load lazily in both flows — only read a file on first demand. Each path is read at most once.
+   - Path starts with `grammar-index/grammar/` → **extracted-file flow** (2a below).
+   - Otherwise → **lesson-file flow, unchanged from prior behavior** (2b below).
 
-**N (the count shown to the user) is derived solely from `grammar-state.json`** — it equals the number of entries passing the date filter. Lesson-file load failures and warned-and-skipped entries do NOT reduce N.
+   **2a. Extracted-file flow:**
+   - Read the whole file directly (no awk slice — these files have no `# Summary`).
+   - Parse the YAML frontmatter for `pattern`, `register`, `confused_with`, `function`, `topic_slug`, `level`. Attach these to the entry for use in **Metadata-driven exercise generation**.
+   - **Container-file guard**: if the file contains a `## Sub-topics` heading, it is a container file — skip the entry with a warning naming the file (e.g. `Skipped <file> — container file, no drillable content.`). Container files are never drilled.
+   - `grammar_header` = the file's H1 (`# <pattern>` line). If the H1 text differs from the entry's stored `grammar_header`, print a warning (e.g. `grammar_header mismatch for <file> — using file H1.`) but continue using the H1 — do **not** skip the entry.
+   - `body_text` = the gloss blockquote (the `>` line under the H1) + `## Structure` + `## Examples` + `## Use Cases` (if present) + `## Notes` (if present) + `## Register` (if present) + `## Often confused with` (if present). Exclude the YAML frontmatter block and `## See also`.
+
+   **2b. Lesson-file flow (existing behavior, unchanged):**
+   - Read content up to `# Summary` using:
+     ```bash
+     awk '/^# Summary$/{exit} {print}' "$LESSON_FILE"
+     ```
+   - For each selected entry, locate `grammar_header` in the loaded lesson slice by searching `# 文法` and `# Vocabulary` sections for a `## Heading` match. Strategy: exact → case-insensitive → whitespace-normalised. If no match: skip with warning. If more than one match (ambiguous): skip with warning.
+3. Build merged vocab pool — see **Vocabulary base** (under Parsing) for how extracted-file topics contribute. For lesson-file entries the pool is unchanged: union of all `# ごい` + `# ひょうげん` tagged lines from all loaded lesson files. Deduplicate by Japanese form (full kanji+reading string). When the same form appears in multiple lesson files, keep the first occurrence (session-list order).
+4. If all lesson/extracted files fail to load: print `Error: no lesson files could be loaded — session cancelled.` and report all warnings. Stop.
+
+**N (the count shown to the user) is derived solely from `grammar-state.json`** — it equals the number of entries passing the date filter. Lesson/extracted-file load failures and warned-and-skipped entries do NOT reduce N.
 
 ### Edge cases
 
@@ -84,9 +95,13 @@ The following cause an entry to be skipped **silently** (no output):
 The following cause an entry to be skipped **with a warning line**:
 - `lesson_file` missing or empty.
 - `grammar_header` missing or empty.
-- Lesson file path not found on disk.
-- `grammar_header` not found in lesson file after all match strategies.
-- `grammar_header` matches more than one heading in the lesson file (ambiguous).
+- Lesson/extracted file path not found on disk.
+- Lesson-file flow only: `grammar_header` not found in lesson file after all match strategies.
+- Lesson-file flow only: `grammar_header` matches more than one heading in the lesson file (ambiguous).
+- Extracted-file flow only: the file contains `## Sub-topics` (container file) — never drilled.
+
+The following causes a warning line but does **not** skip the entry (extracted-file flow only):
+- The entry's stored `grammar_header` differs from the file's H1 — the H1 is authoritative; continue using it.
 
 ---
 
@@ -178,6 +193,15 @@ After building each triple, identify the use cases within the body text:
 2. **`### Structure` section with multiple top-level bullet variants** — if the section contains two or more top-level bullet points each beginning with a structural pattern (`V「...」`, `N + ...`, `いadj`, `なadj`, etc.) with distinct structures, each top-level variant is one use case. Label with the pattern text (e.g. `"V「dict」+ の"`, `"V「た」+ の"`).
 3. **Neither applies** — the grammar point is prose/examples only, no explicit structural variants. Treat the whole grammar point as one use case (label: the grammar header itself).
 
+**Extracted-file flow (`## Structure` / `## Use Cases` at H2 level)**: apply the same three-way logic, but keyed on **semantic content, not markdown heading level or bullet/heading style**:
+
+1. **Multiple distinct structural sub-groups** — if `## Structure` (or `## Use Cases`) contains two or more genuinely distinct structural sub-groups (e.g. different verb-group conjugation patterns, different grammatical contexts, different registers of the same pattern), each sub-group is its own use case — regardless of whether the file expresses them as H3 subheadings, bold labels, bullets, or plain prose, and regardless of heading depth. Do not key this rule on any specific markdown construct (H3, numbered list, etc.) — those are incidental formatting choices that vary file to file. Label each use case with its sub-group's own heading/label text.
+2. **Single unified pattern** — if `## Structure`/`## Use Cases` describes one pattern with no distinct sub-groups, the whole point is one use case (label: the grammar header / H1 itself). **This is the common case in current data** — verified against all 8 non-container files extracted so far (all from UN4GL14); only `o-go-v-masukudasai-respectful-request-form.md` has genuinely distinct sub-groups (Group 1/2 verbs vs. Group 3 vs. Exceptions — currently marked with H3 headings, but the rule above keys on the semantic grouping, not the H3 markup itself).
+
+Same labels-stay-internal rule as above — the use case label must never appear in the exercise prompt.
+
+**Unconfirmed against a second lesson**: this extracted-file rule set is derived from a single-lesson sample (all 8 extracted files come from UN4GL14). Re-validate against a second lesson's extracted files, which may use different formatting conventions, once one is available.
+
 Minimum: every grammar point yields at least one use case; there is no maximum. The use case label is used only internally for exercise generation — it must **not** appear in the exercise prompt shown to the user (showing it would leak the tested structure).
 
 ### Vocab pool (`# ごい` and `# ひょうげん`)
@@ -200,6 +224,21 @@ Variants (same parsing rules as fill-templates):
 For each line, build `{japanese, reading, translation, type}` where `type ∈ {word, verb, adjective}` from the `#w`/`#wc`/`#wp` tag. Verb conjugations and adjective forms aren't pre-stored — derive them from rules at exercise-generation time using your Japanese knowledge.
 
 All three types are first-class practice material — drill conjugations and form transformations, not just plain-word translation.
+
+### Vocabulary base (`Vocabulary/*.md` — extracted-file topics only)
+
+Extracted-file topics have no lesson `# ごい`/`# ひょうげん` pool of their own (the file itself contains no vocab section). When a session includes at least one extracted-file topic, supplement the pool from `Vocabulary/*.md`:
+
+- Source: every `.md` file directly under `Vocabulary/` (**top level only**) — skip the `Vocabulary/JLPT-decks/` subdirectory entirely.
+- Collect only **plain tag lines** — never lines inside an Anki card-format block.
+- **Block-boundary rule (explicit, mechanical)** — real files mix both formats, so apply this test to every `#w`/`#wc`/`#wp` line encountered:
+  - A **card block** starts at a tag line whose next non-blank line is a card-field line (e.g. `ほんやく:`, `Przykład:`, `informal:`, `polite:`, `sonkeigo:`, `kenjougo:`, or any other `Label:` line). The block ends at the next `<!--ID:-->` line, **inclusive**, or at the next `---` separator line — whichever comes first. Never read past a card block's closing `<!--ID:-->` line back into plain-line collection; treat it strictly as the block's closing boundary.
+  - A **plain usable line** is a `#w`/`#wc`/`#wp` tag line whose next non-blank line is **not** a card-field line — i.e. it is another tag line, a `---` separator, or end of file. Collect these into the pool.
+  - Files vary in how the two formats mix: `Interview.md`/`Car.md` separate card blocks with `---`; `Bank-vocabulary.md`/`Post-vocabulary.md`/`Slownictwo-kolejowe.md` interleave plain tag lines directly between card blocks with no `---` separator; a file can also be 100% cards (e.g. `Interview.md`), yielding zero usable lines — that's fine, just move to the next file.
+- For each usable line, parse `{japanese, reading, translation, type}` exactly as in the lesson vocab pool above, but the parsing must be **tag-position-agnostic**: the lesson-pool format documented above is tag-last (`日本語（よみ）- translation #w`), while real `Vocabulary/*.md` plain lines are tag-first (`#w 日本語（よみ）- translation`). Accept both orders.
+- Prefer topically relevant words when drawing from this base for a given extracted-file topic (best-effort judgment — deterministic topic_slug-to-file matching is Phase 2, not implemented here).
+
+**Mixed-session pool merge**: the final pool for a session = union of (lesson `# ごい`/`# ひょうげん` pools, from lesson-file entries) + (Vocabulary base, from extracted-file entries). Apply the existing dedup-by-Japanese-form rule across the merged pool (keep first occurrence, session-list order). The existing outside-vocab rule (strict N5, used only when the pool cannot express the grammar point) remains the final fallback and is unchanged.
 
 ### Grammar point ID
 
@@ -226,7 +265,7 @@ Pick the exercise type that best tests the specific use case:
 
 **Vocabulary rule** — content words in the exercise must come from the vocab pool (`# ごい` + `# ひょうげん`) first. Only reach for outside vocabulary if the pool cannot express the grammar point. Any outside vocabulary must be strict N5 level.
 
-**Weak-point bias** — if the state entry for this grammar point has `weak_points`, design the exercise so the answer requires getting that aspect right (e.g. if the weak point is "particle placement," the exercise must have the particle in the target answer). For weak-point reinforcement (low SM-2 ease or recent failure), prefer Type 1 or Type 3. Avoid Types 5 and 6 when targeting known weak conjugations — those types test comprehension and meta-awareness, not production accuracy.
+**Weak-point bias** — if the state entry for this grammar point has `weak_points`, design the exercise so the answer requires getting that aspect right (e.g. if the weak point is "particle placement," the exercise must have the particle in the target answer). For weak-point reinforcement (low SM-2 ease or recent failure), prefer Type 1 or Type 3. Avoid Types 5 and 6 when targeting known weak conjugations — those types test comprehension and meta-awareness, not production accuracy. For extracted-file topics, if the weak_point names a pattern confusion (e.g. "だけ vs しか"), apply the **weak_points ↔ confused_with synergy** rule instead (see Metadata-driven exercise generation) — that takes priority over the generic bias above for that topic.
 
 **Type selection rule** — pick the type that best fits what the grammar point needs:
 - Single nuanced word/expression (ぜひ, きっと, etc.) → Type 1 or Type 6
@@ -234,6 +273,7 @@ Pick the exercise type that best tests the specific use case:
 - Counters, classifiers, specific constructions → Type 3
 - Grammar points with rich context dependency → Type 5
 - Any grammar point the student has already seen in a prior session (recorded in grammar-state.json) → prefer Type 6
+- Extracted-file topic with a resolvable `confused_with` entry → Type 2 is available even without in-lesson confusable forms (see Metadata-driven exercise generation → confused_with); a `register: polite` topic may take the plain↔keigo transformation flavor on one existing use-case exercise (see Metadata-driven exercise generation → register)
 
 **Variety rule** — vary types only when multiple types are equally valid for a given grammar point. Never override the pedagogically correct type just for variety.
 
@@ -247,11 +287,36 @@ Pick the exercise type that best tests the specific use case:
 
 ---
 
+## Metadata-driven exercise generation (extracted-file topics)
+
+This section applies only to grammar points loaded via the **extracted-file flow** (Multi-lesson file loading, step 2a). Their frontmatter fields (`confused_with`, `register`, `function`, `topic_slug`) unlock additional exercise-generation options beyond the base rules in **Exercise generation** above. Lesson-file topics are unaffected — nothing in this section changes their behavior.
+
+### confused_with — Type 2 sourcing and minimal-pair contrast
+
+- **On-demand distractor sourcing.** For an extracted-file topic, Type 2 distractors may be drawn from its `confused_with`-linked patterns **even when those patterns are not part of the current session**. Load `grammar-index/grammar/<slug>.md` on demand, read-only, solely to retrieve its pattern name (H1, or frontmatter `pattern` if the H1 is unavailable). This relaxes, for extracted-file topics only, the base Type 2 constraint that confusable forms must come from within the lesson itself.
+- **Test-line seeding.** The pre-authored `— test: <question>` line under `## Often confused with` seeds Type 2 / Type 6 prompts — build the discrimination the exercise tests from that contrast question. Wrong-answer feedback quotes or derives from the test line.
+- **Broken reference fallback.** If a `confused_with` slug does not resolve to an existing file under `grammar-index/grammar/` (confirmed live example: `o-go-v-masushimasu.md` lists `o-go-v-masukudasai`, but the real file is `o-go-v-masukudasai-respectful-request-form.md`), silently skip that specific pairing and fall back to ordinary Type 2 distractor selection for the topic. Never print a warning for this — it is a data-quality issue in the extract-grammar pipeline's output, outside this skill's control, and must never block or interrupt a session.
+- **Minimal-pair contrast exercise.** When both halves of a `confused_with` pair are due in the same session **and land in the same generation batch** (Workflow step 6/7a — batches are formed by even-count split with no `confused_with`-awareness), generate one contrast exercise (built from the pair's test line) that **replaces** one exercise slot for each of the two topics. It does not add to the session — the total exercise count stays exactly as it would without the pair merge. The self-evaluation score from this one exercise counts toward SM-2 for **both** topics (both grammar_point_ids receive the same min_score/weak_points contribution from it).
+  - **Phase-1 batching constraint (known limitation).** If both halves of a pair land in the **same** batch, apply the minimal-pair replacement above. If they land in **different** batches, do **not** attempt a cross-batch merge — treat each topic independently with ordinary Type 2 distractors (using the on-demand lookup above, which works regardless of batching). This gap is fully resolved by Task C's `topic_slug`-based batching (Phase 2, deferred) and is out of scope for Phase 1.
+  - **`Exercise N / T` total.** `T` must be computed **after** pair-merging is applied, at session start — the progress indicator must reflect the merged (post-replacement) count, not the pre-merge count.
+
+### register — situation matching and transformation flavor
+
+- Exercise situations for an extracted-file topic must match its `register` frontmatter value **and** the prose in its own `## Register` section — never default to a generic "polite" or "formal" flavor without reading that section.
+- **`register: polite`** — situations should be business/service/customer scenarios. One of the topic's existing use-case exercises may take a **plain ↔ keigo transformation** form (student converts a given plain-register sentence to the keigo pattern, or vice versa) as an **alternative form** — this does not add an exercise, it replaces the form of one that would exist anyway; session length is unchanged.
+- **`register: tiered`** (confirmed live examples due day one: `teineigo-polite-expressions.md`, `uchi-soto-in-group-out-group.md`) — do **not** apply the polite-transformation flavor above. Instead, build situations that exercise the register-**selection** logic itself: e.g. the ウチ・ソト (in-group/out-group) boundary decision, or tier-escalation across a formality scale (ます／です → ございます／でございます). Read the pattern's own `## Register` section prose for the specific selection rule to drill — which parties, which contexts trigger which tier — rather than inferring a generic transformation.
+
+### weak_points ↔ confused_with synergy
+
+When a stored `weak_point` string for an extracted-file topic names a pattern confusion (e.g. `"だけ vs しか"`), look up that topic's `confused_with` list, load the counterpart file (same on-demand, read-only rule as above), and build a targeted discrimination drill from its test line and pattern name — this takes priority over a generic weak-point-biased exercise for that topic.
+
+---
+
 ## Interaction flow
 
 There are two modes — **batch** (default) and **interactive**. Pick batch unless the user explicitly asks for one-at-a-time.
 
-**Progress indicator — required.** Every exercise prompt MUST start with `Exercise <current> / <total>` so the user always knows where they are in the session. `<current>` is 1-based (first exercise is `1 / N`, last is `N / N`). The total is fixed at the start of the session and does not change mid-session. The exercise title shows only the number — never the grammar point name. Study Mode exercises use a local `study_counter` and are excluded from the session-wide progress indicator.
+**Progress indicator — required.** Every exercise prompt MUST start with `Exercise <current> / <total>` so the user always knows where they are in the session. `<current>` is 1-based (first exercise is `1 / N`, last is `N / N`). The total is fixed at the start of the session and does not change mid-session. If the session includes a `confused_with` minimal-pair merge, `<total>` already reflects the post-merge count (see Metadata-driven exercise generation → confused_with) — merging happens before the total is fixed, not after. The exercise title shows only the number — never the grammar point name. Study Mode exercises use a local `study_counter` and are excluded from the session-wide progress indicator.
 
 ### Batch mode (default — works on flaky connections)
 
@@ -391,6 +456,7 @@ Compare user's answer to the expected answer with tolerance:
 - **Verb conjugation** — strict. Wrong form = mistake.
 - **Word order** — if the sentence is still grammatically valid and conveys the same meaning, accept with a note rather than mark wrong.
 - **Spelling typos** — accept if the intent is clear and only one character is off.
+- **Register match (extracted-file topics only)** — a grammatically correct answer in the wrong register is a mistake. Name the register mismatch and cite the `## Register` guidance in feedback; for `register: tiered` patterns, cite the specific selection rule that was violated (e.g. which party/context should have triggered the other tier), not a generic politeness note.
 
 **Furigana in answers** — if the user writes furigana (e.g. 食べる(たべる) or 食べる【たべる】), strip the furigana before comparing to the expected answer. Do not penalise for its presence or absence.
 

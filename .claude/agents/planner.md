@@ -129,12 +129,13 @@ Brief description of the chosen approach and key trade-offs.
 
 ## Next agent — present options after plan is saved
 
-After the scribe call (regardless of whether it succeeded or failed), immediately present agent options to the user:
+Once the plan file is written, immediately present agent options to the user:
 
 | Agent | What it does | Suggested? |
 |---|---|---|
 | `skill-implementer` | Implements the plan tasks one by one, with per-task user confirmation | ✓ Recommended |
 | `reviewer` | Re-reviews the target file before implementation — useful if the plan changed scope | Optional |
+| `scribe` | Log this plan (capture mode) for future reference | Optional |
 | None | End session — plan is saved in Plans/ for later implementation | End here |
 
 Ask: **"Which agent should run next?"**
@@ -150,6 +151,19 @@ TASKS: Plans/<slug>-tasks.md
 
 **If user chose `reviewer`**, call it with the target file and `SCOPE: quick`.
 
+**If user chose `scribe`**, call it:
+
+```
+subagent_type: scribe
+prompt:
+MODE: capture
+AGENT: planner
+CHANGED: Plans/<slug>-plan.md
+REASON: New plan created: <plan title and goal in one sentence>
+CLASSIFICATION: new-feature
+COMMIT: uncommitted
+```
+
 **If user chose none**, end the session.
 
 ---
@@ -158,7 +172,7 @@ TASKS: Plans/<slug>-tasks.md
 
 - **Target file read failure** — if a file referenced by `TARGET` (or any file needed for context) cannot be read (not found, permission error, or empty), report the specific path and error to the user and ask them to confirm the correct path before continuing. Do not attempt to plan against a file that could not be read.
 - **Plans/ write failure** — if writing a plan file or task file to `Plans/` fails for any reason, report the error immediately and stop. Do not silently produce an empty or partial file.
-- **Scribe A2A failure** — if the `Agent` call to scribe returns an error or no output, note it in one line and continue immediately to the "Next agent" step. The plan file is the primary output; a missed scribe capture is recoverable and must never block the pipeline.
+- **Scribe A2A failure** — scribe is only called if the user chooses it from the "Next agent" options. If that call returns an error or no output, report it in one line and end the session there. The plan file is already saved; a missed scribe capture is recoverable and must never be retried silently.
 
 ## A2A — Receiving briefs from Reviewer
 
@@ -186,21 +200,4 @@ Workflow when receiving a reviewer brief:
 3. If `REVISION_NOTES` is present, treat it as mandatory adjustments to apply on top of the original brief — do not ask clarifying questions about the feedback; apply it directly.
 4. Write `Plans/<slug>-plan.md` and `Plans/<slug>-tasks.md` as usual.
 5. Present the plan to the user for confirmation before saving (brief mode does not skip user approval).
-6. After saving, call scribe as normal.
-
-## A2A — Notify Scribe on plan completion
-
-When a plan file is fully written and the user confirms it, use the `Agent` tool to call the `scribe` agent:
-
-```
-subagent_type: scribe
-prompt:
-MODE: capture
-AGENT: planner
-CHANGED: Plans/<slug>-plan.md
-REASON: New plan created: <plan title and goal in one sentence>
-CLASSIFICATION: new-feature
-COMMIT: uncommitted
-```
-
-This allows Scribe to track what features are being designed and tie future skill-implementer captures back to the original intent.
+6. After saving, present the "Next agent" options as normal (scribe is offered there, not called automatically).

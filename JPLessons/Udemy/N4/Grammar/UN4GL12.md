@@ -365,6 +365,9 @@ Comparison
 - 晴れたら、出かけよう。— neutral condition, speaker expects it might happen
 - もし晴れたら、出かけよう — more hypothetical, "if by chance it clears up..." — speaker is less certain it will happen, treating it more as a "what if"
 
+### Register — exercise note
+
+もし marks a hypothetical, uncertain framing ("what if..."), not a neutral/likely condition.
 
 #w もし - if (used to introduce a hypothetical condition, always paired with ば/たら/なら)
 
@@ -867,7 +870,7 @@ Please watch out for cars. #k #card
 <!--ID: 1783522687630-->
 
 
-Be careful not to drink too much. #k #card
+Be careful not to drink too much. (soft imperative instruction) #k #card
 飲(の)みすぎに注意(ちゅうい)しなさい。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
@@ -875,7 +878,7 @@ Be careful not to drink too much. #k #card
 <!--ID: 1783522687631-->
 
 
-Pay attention and listen carefully. #k #card
+Pay attention and listen carefully.(soft imperative instruction) #k #card
 注意(ちゅうい)してよく聞(き)きなさい。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
@@ -1427,7 +1430,7 @@ Tomorrow I have an important exam. Don't interrupt me (softening) #k #card
 <!--ID: 1783522687684-->
 
 
-Please answer the exercises. #k #card
+Please answer the exercises (soft imperative instruction). #k #card
 練習問題(れんしゅうもんだい)に答(こた)えなさい。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_練.html">練</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_習.html">習</a>
@@ -1437,7 +1440,7 @@ Please answer the exercises. #k #card
 <!--ID: 1783522687685-->
 
 
-Don't watch TV, eat quickly. #k #card
+Don't watch TV, eat quickly. (soft imperative instruction) #k #card
 テレビを見(み)ないで、早(はや)く食(た)べなさい。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
@@ -1445,7 +1448,7 @@ Don't watch TV, eat quickly. #k #card
 <!--ID: 1783522687686-->
 
 
-Wash your hands before the meal. #k #card
+Wash your hands before the meal. (soft imperative instruction) #k #card
 ご飯(はん)を食(た)べる前(まえ)に、手(て)を洗(あら)いなさい。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>

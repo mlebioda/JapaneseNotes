@@ -22,9 +22,11 @@ The heading's text is a bare structural label from the **scaffolding label list*
 
 **Scaffolding label list:**
 
-`Examples`, `Example`, `Structure`, `Structures`, `Form`, `Forms`, `Use Cases`, `Use cases`, `Note`, `Notes`, `Function`, `Exception`, `Exceptions`, `Core rule`, `Connecting sentences`, `Meaning`
+`Examples`, `Example`, `Structure`, `Structures`, `Form`, `Forms`, `Conjugation`, `Use Cases`, `Use cases`, `Note`, `Notes`, `Function`, `Exception`, `Exceptions`, `Core rule`, `Connecting sentences`, `Meaning`, `Register`
 
 **Extending the list:** if a lesson uses a new structural label not listed here, add it to this list **first** (with explicit user confirmation), then proceed. Skills never treat an unlisted label as scaffolding silently, and never extend this list on their own.
+
+**Special case — `Register`:** unlike other scaffolding labels, a `### Register` heading's body is not folded into the parent's general prose. extract-grammar routes it directly into the parent grammar point file's `## Register` section (and, when the text states a scalar value like "Register: neutral", also seeds the `register:` frontmatter field at creation time). See `_conventions.md` for the frontmatter ownership note this implies.
 
 ### 2. Container
 

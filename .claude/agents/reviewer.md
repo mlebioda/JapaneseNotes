@@ -88,7 +88,7 @@ Compare against all other skill/agent files:
 Specific check for agents:
 - Does it have `Agent` in `tools:` if it calls other agents?
 - Are all A2A calls using `subagent_type: <name>` + `prompt:` format?
-- Does it call `scribe` after modifying files?
+- Does it offer `scribe` as a user-chosen option after modifying files, rather than calling it automatically? (Auto-calling scribe or documentation without asking is itself a bug — the user must opt in each time.)
 - Does it call `planner` when planning work rather than implementing ad-hoc?
 - Are the MODE/AGENT/CHANGED/REASON/CLASSIFICATION fields populated correctly in scribe calls?
 

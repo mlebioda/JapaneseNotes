@@ -330,33 +330,38 @@ Add **であれば** (or なら（ば - often omitted） in casual speech)
 #w 将来(しょうらい)日本(にほん)で働(はたら)くために、日本語(にほんご)を勉強(べんきょう)しています。 - I am studying Japanese for the purpose of working in Japan in the future.
 
 ---
-## V「て-form」くる / きた — action continuing over time
+## V「て-form」くる / きた / いく — action continuing over time
 
 Expresses an action or change that has been building up over a period of time.
 
 Structure:
 1. **てきた** — from past up to now (the arrow goes → present)
-2. **てくる** — from now continuing into the future
+2. **てくる** — a change becoming noticeable as it approaches now (still past → present, not future); also the literal "go do X and come back" (行ってきます)
+3. **ていく** — this is the form that expresses future continuation — from now onward (present → future). Not てくる.
 
 ```
 past ────────────────●──────────────→ future
                   present
 勉強してきた →●  (studied and arrived at now)
-                  ●→ 勉強してくる  (will keep studying from now)
+                  ●→ 勉強していく  (will keep studying from now)
 ```
 
 | Sentence                 | Meaning                                                     |
 | ------------------------ | ----------------------------------------------------------- |
 | 日本語(にほんご)を勉強(べんきょう)してきた。 | I have been studying Japanese (up to now).                  |
 | 日本語を勉強する人(ひと)が増(ふ)えてきた。  | The number of people studying Japanese has been increasing. |
+| これから日本語(にほんご)を勉強(べんきょう)していきます。 | I will keep studying Japanese from now on.                  |
 
-Note: this is **not** physical movement — くる/きた here means the action *accumulated toward the present*. Compare:
+Note: this is **not** physical movement — くる/きた/いく here mark the time direction of an accumulating change, not literal coming/going. Compare:
 - ている — describes a current state or ongoing action (snapshot)
-- てきた — emphasizes the action built up *over time* leading to now
+- てきた — the action/change built up *over time*, leading to now (past → present)
+- ていく — the action/change will keep building up *from now onward* (present → future)
+- てくる (non-literal use) — a change becoming apparent as it nears now, very close to てきた in meaning; the everyday literal use is a round trip toward "here" (行ってきます — go and come back). てくる does **not** express future continuation — that's ていく's job.
 
 ### Examples
 #w 日本語(にほんご)を勉強(べんきょう)してきた - I have been studying Japanese (up to now).
 #w 日本語を勉強する人(ひと)が増(ふ)えてきた - The number of people studying Japanese has been increasing.
+#w これから日本語(にほんご)を勉強(べんきょう)していきます - I will keep studying Japanese from now on.
 
 ## ている → てる / ていた → てた (casual contraction)
 
@@ -645,6 +650,9 @@ broadcast / to broadcast + verb | to transmit information or programs via TV, ra
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_放.html">放</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1782213671862-->
+
+I will keep studying Japanese from now on. #card
+これから日本語(にほんご)を勉強(べんきょう)していきます 
 
 
 sleepy | feeling drowsy or in need of sleep #card

@@ -5,7 +5,7 @@ topic_slug: ["humble-expressions"]
 function: ["formality"]
 level: N4
 register: polite
-confused_with: ["kenjougo-tokubetsunadoushi", "o-go-v-masuitashimasu", "o-go-v-masukudasai"]
+confused_with: ["kenjougo-tokubetsunadoushi", "o-go-v-masuitashimasu", "o-go-v-masukudasai", "o-vmasu-ninarimasu"]
 proofread: true
 ---
 
@@ -38,7 +38,7 @@ Register: polite-context typical
 Humble register for offering or announcing something you do for a superior, customer, or outsider — typical in business and customer-facing speech. Casual conversation uses the plain verb instead.
 
 ## Often confused with
-
+- [**3. お + V「ます形」になります**](/JapaneseNotes/grammar-index/grammar/o-vmasu-ninarimasu) — test: Humbly describing your own action for someone (→ お・ご V「ます形」します), or raising a superior's/listener's action (→ お＋ます形＋になります)?
 - [特別な動詞（とくべつなどうし）](/JapaneseNotes/grammar-index/grammar/kenjougo-tokubetsunadoushi) — test: Does the verb have a special kenjougo replacement (→ use the special verb), or not (→ お・ご V「ます形」します)?
 - [お・ご V「ます形」いたします](/JapaneseNotes/grammar-index/grammar/o-go-v-masuitashimasu) — test: Ordinary humble statement (→ します), or extra-formal service/business context (→ いたします)?
 - [お/ご V「ます形」ください - Respectful request form (尊敬語)](/JapaneseNotes/grammar-index/grammar/o-go-v-masukudasai-respectful-request-form) — test: Who acts — the speaker doing it for the listener (→ お・ご V「ます形」します), or the listener being asked to act (→ お/ご V「ます形」ください)?

@@ -277,7 +277,8 @@ proofread: false
 
 ## Examples
 
-[Example sentences extracted from the lesson file body — required; leave empty if the lesson has none]
+[Example sentences extracted from the lesson file body — required; leave empty if the lesson has none.
+One Markdown bullet (`- `) per sentence — see `_conventions.md` "## Examples content format"]
 
 ## Use Cases
 
@@ -304,9 +305,23 @@ Rules for populating each section:
   above any formation rule.
 - `## Examples` — all example sentences found in the body. Preserve Japanese + any
   translation present. Always include the section; leave it empty if the lesson has none.
-- `## Use Cases` — explanation from the lesson body, in English. If the body is in Polish,
-  translate to English. Omit the section entirely if the gloss line already covers it.
-- `## Notes` — always omit on creation (leave out the section entirely).
+  One bullet per sentence, per `_conventions.md` "## Examples content format" — never
+  blank-line-separated paragraphs.
+- `## Use Cases` — explanation from the lesson body, in English, describing when/how to use
+  **this pattern's own** forms or semantic variants. If the body is in Polish, translate to
+  English. Omit the section entirely if the gloss line already covers it. Never put a
+  comparison/nuance table naming a *different*, separately-named grammar pattern here — that
+  belongs in `## Notes` below (or, once the compared pattern has its own
+  `grammar-index/grammar/` file, in `## Often confused with`, populated later by
+  register-confusability-grammar — not this skill).
+- `## Notes` — omit on creation (leave out the section entirely) **unless** the lesson body
+  contains a nuance/contrast table or prose comparing this pattern against a genuinely
+  *different* pattern that has no standalone `grammar-index/grammar/` file yet — `##
+  Often confused with` requires a resolvable slug to link to, so it cannot hold this content
+  until that other pattern is itself extracted. In that case, carry the comparison here
+  verbatim under `## Notes`. This is the only content extract-grammar ever puts in `## Notes`
+  on creation — never add anything else, and never emit an empty placeholder section when no
+  such table exists in the lesson body.
 
 **Container file format** — used when classification is `container`:
 

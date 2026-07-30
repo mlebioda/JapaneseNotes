@@ -5,7 +5,7 @@ topic_slug: ["respectful-expressions", "requests-commands"]
 function: ["formality", "request"]
 level: N4
 register: polite
-confused_with: ["o-go-v-masushimasu"]
+confused_with: ["o-go-v-masushimasu", "kudasaimasenka-polite-request", "you-ni-shimasu"]
 proofread: true
 ---
 
@@ -53,8 +53,9 @@ Register: polite-context typical
 Respectful request register — signage and announcements, service staff addressing customers, and business correspondence. Politer than plain V「て形」ください.
 
 ## Often confused with
-
+- [Vて形＋くださいませんか politer form of くれませんか - could you please (do smth for me)](/JapaneseNotes/grammar-index/grammar/kudasaimasenka-polite-request) — test: Formal/service-industry-style request (→ お/ご V「ます形」ください), or a general everyday-to-polite spoken request (→ Vて形＋くださいませんか)?
 - [お・ご V『ます形」します](/JapaneseNotes/grammar-index/grammar/o-go-v-masushimasu) — test: Are you asking the listener to act (→ お/ご V「ます形」ください), or humbly offering your own action (→ お・ご V「ます形」します)?
+- [ようにします - working hard on / making an effort to](/JapaneseNotes/grammar-index/grammar/you-ni-shimasu) — test: A specific one-time respectful request, or asking someone to be mindful of an ongoing effort/goal?
 
 ## See also
 

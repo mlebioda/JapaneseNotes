@@ -145,9 +145,11 @@ Tell the user:
 - A one-line summary of what was captured, e.g.: "5 agents, 12 skills, N relationships extracted."
 - If any agent or skill file could not be read, list those paths and note that they were skipped.
 
-### Step 8 — Call scribe (A2A)
+### Step 8 — Offer to call scribe (A2A)
 
-After writing the file, call scribe with:
+After writing the file, ask the user: **"Log this diagram regeneration with scribe?"** Do not call scribe unless the user says yes.
+
+If confirmed, call it:
 
 ```
 subagent_type: scribe

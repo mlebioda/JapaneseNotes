@@ -130,6 +130,8 @@ to meet (intransitive) | To come together with a person face to face, often by c
 おう形 (let's): 会おう
 命令形 (imperative): 会え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<!--ID: 1785095244306-->
+
 
 to open (intransitive) | Describes a door, window, or lid becoming open by itself, with no one shown doing it. #k #card
 ほんやく: 開く(あく)
@@ -149,6 +151,8 @@ to open (intransitive) | Describes a door, window, or lid becoming open by itsel
 おう形 (let's): 開こう
 命令形 (imperative): 開け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
+<!--ID: 1785095244311-->
+
 
 to open (transitive) | To cause a door, window, or container to become open; someone or something acts on it directly. #k #card
 ほんやく: 開ける(あける)
@@ -168,6 +172,8 @@ to open (transitive) | To cause a door, window, or container to become open; som
 おう形 (let's): 開けよう
 命令形 (imperative): 開けろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
+<!--ID: 1785095244312-->
+
 
 to raise, to give (transitive) | To lift something upward, or to give something to a person of equal or lower status. #k #card
 ほんやく: 上げる(あげる)
@@ -187,6 +193,8 @@ to raise, to give (transitive) | To lift something upward, or to give something 
 おう形 (let's): 上げよう
 命令形 (imperative): 上げろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<!--ID: 1785095244313-->
+
 
 to play (intransitive) | To spend time enjoying oneself, such as with friends or children, without a specific productive goal. #card
 ほんやく: 遊ぶ(あそぶ)
@@ -206,6 +214,8 @@ to play (intransitive) | To spend time enjoying oneself, such as with friends or
 おう形 (let's): 遊ぼう
 命令形 (imperative): 遊べ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遊.html">遊</a>
+<!--ID: 1785095244315-->
+
 
 to bathe, to shower (transitive) | To let water or light fall over one's body, as in シャワーを浴びる. #card
 ほんやく: 浴びる(あびる)
@@ -225,6 +235,8 @@ to bathe, to shower (transitive) | To let water or light fall over one's body, a
 おう形 (let's): 浴びよう
 命令形 (imperative): 浴びろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_浴.html">浴</a>
+<!--ID: 1785095244316-->
+
 
 to wash (transitive) | To clean an object or body part with water, soap, or a similar substance. #card
 ほんやく: 洗う(あらう)
@@ -244,6 +256,8 @@ to wash (transitive) | To clean an object or body part with water, soap, or a si
 おう形 (let's): 洗おう
 命令形 (imperative): 洗え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_洗.html">洗</a>
+<!--ID: 1785095244317-->
+
 
 to be, to exist (intransitive) | States the existence or location of an inanimate object or abstract thing. #card
 ほんやく: ある
@@ -262,6 +276,8 @@ to be, to exist (intransitive) | States the existence or location of an inanimat
 可能形 (can): あれる
 おう形 (let's): あろう
 命令形 (imperative): あれ
+<!--ID: 1785095244318-->
+
 
 to walk (intransitive) | To move on foot at an ordinary pace. #k #card
 ほんやく: 歩く(あるく)
@@ -281,6 +297,8 @@ to walk (intransitive) | To move on foot at an ordinary pace. #k #card
 おう形 (let's): 歩こう
 命令形 (imperative): 歩け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
+<!--ID: 1785095244319-->
+
 
 to say (transitive) | To utter words or express an opinion aloud; a very common, neutral verb in everyday speech. #k #card
 ほんやく: 言う(いう)
@@ -300,6 +318,8 @@ to say (transitive) | To utter words or express an opinion aloud; a very common,
 おう形 (let's): 言おう
 命令形 (imperative): 言え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<!--ID: 1785095244321-->
+
 
 to go (intransitive) | To move from the speaker's location toward another place. #k #card
 ほんやく: 行く(いく)
@@ -319,6 +339,8 @@ to go (intransitive) | To move from the speaker's location toward another place.
 おう形 (let's): 行こう
 命令形 (imperative): 行け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<!--ID: 1785095244322-->
+
 
 to be, to exist (intransitive) | Used for the presence of a person or animal, unlike the version used for objects. #card
 ほんやく: 居る(いる)
@@ -338,6 +360,8 @@ to be, to exist (intransitive) | Used for the presence of a person or animal, un
 おう形 (let's): 居よう
 命令形 (imperative): 居ろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_居.html">居</a>
+<!--ID: 1785095244323-->
+
 
 to need (intransitive) | To require something as necessary; the thing needed is marked with が. #card
 ほんやく: 要る(いる)
@@ -357,6 +381,8 @@ to need (intransitive) | To require something as necessary; the thing needed is 
 おう形 (let's): 要ろう
 命令形 (imperative): 要れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_要.html">要</a>
+<!--ID: 1785095244324-->
+
 
 to put in (transitive) | To place an object inside a container or space. #k #card
 ほんやく: 入れる(いれる)
@@ -376,6 +402,8 @@ to put in (transitive) | To place an object inside a container or space. #k #car
 おう形 (let's): 入れよう
 命令形 (imperative): 入れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
+<!--ID: 1785095244325-->
+
 
 to sing (transitive) | To produce a melody with the voice, typically along with music. #k #card
 ほんやく: 歌う(うたう)
@@ -395,6 +423,8 @@ to sing (transitive) | To produce a melody with the voice, typically along with 
 おう形 (let's): 歌おう
 命令形 (imperative): 歌え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
+<!--ID: 1785095244326-->
+
 
 to be born (intransitive) | Describes the moment a person, animal, or idea comes into existence. #k #card
 ほんやく: 生まれる(うまれる)
@@ -414,6 +444,8 @@ to be born (intransitive) | Describes the moment a person, animal, or idea comes
 おう形 (let's): 生まれよう
 命令形 (imperative): 生まれろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<!--ID: 1785095244327-->
+
 
 to sell (transitive) | To exchange goods or services for money. #k #card
 ほんやく: 売る(うる)
@@ -433,6 +465,8 @@ to sell (transitive) | To exchange goods or services for money. #k #card
 おう形 (let's): 売ろう
 命令形 (imperative): 売れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
+<!--ID: 1785095244328-->
+
 
 to get up (intransitive) | To rise from a lying or sleeping position, or for an event to occur. #k #card
 ほんやく: 起きる(おきる)
@@ -452,6 +486,8 @@ to get up (intransitive) | To rise from a lying or sleeping position, or for an 
 おう形 (let's): 起きよう
 命令形 (imperative): 起きろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_起.html">起</a>
+<!--ID: 1785095244329-->
+
 
 to put (transitive) | To set an object down in a particular location. #card
 ほんやく: 置く(おく)
@@ -471,6 +507,8 @@ to put (transitive) | To set an object down in a particular location. #card
 おう形 (let's): 置こう
 命令形 (imperative): 置け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_置.html">置</a>
+<!--ID: 1785095244330-->
+
 
 to teach (transitive) | To share knowledge or information with someone, whether in a classroom or casual setting. #k #card
 ほんやく: 教える(おしえる)
@@ -490,6 +528,8 @@ to teach (transitive) | To share knowledge or information with someone, whether 
 おう形 (let's): 教えよう
 命令形 (imperative): 教えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_教.html">教</a>
+<!--ID: 1785095244331-->
+
 
 to push (transitive) | To apply force against something, such as a button or door, to move it away. #card
 ほんやく: 押す(おす)
@@ -509,6 +549,8 @@ to push (transitive) | To apply force against something, such as a button or doo
 おう形 (let's): 押そう
 命令形 (imperative): 押せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_押.html">押</a>
+<!--ID: 1785095244332-->
+
 
 to remember (transitive) | To commit something to memory or recall it later. #card
 ほんやく: 覚える(おぼえる)
@@ -528,6 +570,8 @@ to remember (transitive) | To commit something to memory or recall it later. #ca
 おう形 (let's): 覚えよう
 命令形 (imperative): 覚えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_覚.html">覚</a>
+<!--ID: 1785095244333-->
+
 
 to swim (intransitive) | To move through water using one's body, as in a pool or sea. #card
 ほんやく: 泳ぐ(およぐ)
@@ -547,6 +591,8 @@ to swim (intransitive) | To move through water using one's body, as in a pool or
 おう形 (let's): 泳ごう
 命令形 (imperative): 泳げ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_泳.html">泳</a>
+<!--ID: 1785095244334-->
+
 
 to get off (intransitive) | To descend from a vehicle, or move down from a higher place. #card
 ほんやく: 降りる(おりる)
@@ -566,6 +612,8 @@ to get off (intransitive) | To descend from a vehicle, or move down from a highe
 おう形 (let's): 降りよう
 命令形 (imperative): 降りろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
+<!--ID: 1785095244335-->
+
 
 to end (intransitive) | Describes an event or activity reaching its conclusion by itself. #k #card
 ほんやく: 終わる(おわる)
@@ -585,6 +633,8 @@ to end (intransitive) | Describes an event or activity reaching its conclusion b
 おう形 (let's): 終わろう
 命令形 (imperative): 終われ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_終.html">終</a>
+<!--ID: 1785095244336-->
+
 
 to buy (transitive) | To acquire something in exchange for money. #k #card
 ほんやく: 買う(かう)
@@ -604,6 +654,8 @@ to buy (transitive) | To acquire something in exchange for money. #k #card
 おう形 (let's): 買おう
 命令形 (imperative): 買え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
+<!--ID: 1785095244337-->
+
 
 to return something (transitive) | To give an object back to its original owner or place. #card
 ほんやく: 返す(かえす)
@@ -623,6 +675,8 @@ to return something (transitive) | To give an object back to its original owner 
 おう形 (let's): 返そう
 命令形 (imperative): 返せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_返.html">返</a>
+<!--ID: 1785095244338-->
+
 
 to go home (intransitive) | To return to one's home, country, or usual place. #k #card
 ほんやく: 帰る(かえる)
@@ -642,6 +696,8 @@ to go home (intransitive) | To return to one's home, country, or usual place. #k
 おう形 (let's): 帰ろう
 命令形 (imperative): 帰れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
+<!--ID: 1785095244339-->
+
 
 to take (time, money) (intransitive) | Describes the amount of time or money a task or trip requires. #card
 ほんやく: かかる
@@ -660,6 +716,8 @@ to take (time, money) (intransitive) | Describes the amount of time or money a t
 可能形 (can): かかれる
 おう形 (let's): かかろう
 命令形 (imperative): かかれ
+<!--ID: 1785095244340-->
+
 
 to write (transitive) | To put characters or words onto paper or another surface. #k #card
 ほんやく: 書く(かく)
@@ -679,6 +737,8 @@ to write (transitive) | To put characters or words onto paper or another surface
 おう形 (let's): 書こう
 命令形 (imperative): 書け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
+<!--ID: 1785095244341-->
+
 
 to hang, to make a call (transitive) | To suspend something on a hook or wall, or to dial someone on the phone. #card
 ほんやく: かける
@@ -697,6 +757,8 @@ to hang, to make a call (transitive) | To suspend something on a hook or wall, o
 可能形 (can): かけられる
 おう形 (let's): かけよう
 命令形 (imperative): かけろ
+<!--ID: 1785095244342-->
+
 
 to lend (transitive) | To let someone borrow something of yours temporarily. #k #card
 ほんやく: 貸す(かす)
@@ -716,6 +778,8 @@ to lend (transitive) | To let someone borrow something of yours temporarily. #k 
 おう形 (let's): 貸そう
 命令形 (imperative): 貸せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貸.html">貸</a>
+<!--ID: 1785095244343-->
+
 
 to put on (the head) (transitive) | To cover the head with a hat or similar item. #card
 ほんやく: かぶる
@@ -734,6 +798,8 @@ to put on (the head) (transitive) | To cover the head with a hat or similar item
 可能形 (can): かぶれる
 おう形 (let's): かぶろう
 命令形 (imperative): かぶれ
+<!--ID: 1785095244344-->
+
 
 to borrow (transitive) | To use something belonging to someone else, intending to give it back. #k #card
 ほんやく: 借りる(かりる)
@@ -753,6 +819,8 @@ to borrow (transitive) | To use something belonging to someone else, intending t
 おう形 (let's): 借りよう
 命令形 (imperative): 借りろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
+<!--ID: 1785095244345-->
+
 
 to disappear, to go out (intransitive) | Describes a light, fire, or image vanishing on its own. #card
 ほんやく: 消える(きえる)
@@ -772,6 +840,8 @@ to disappear, to go out (intransitive) | Describes a light, fire, or image vanis
 おう形 (let's): 消えよう
 命令形 (imperative): 消えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
+<!--ID: 1785095244346-->
+
 
 to listen, to ask (transitive) | To take in sound with the ears, or to pose a question to someone. #k #card
 ほんやく: 聞く(きく)
@@ -791,6 +861,8 @@ to listen, to ask (transitive) | To take in sound with the ears, or to pose a qu
 おう形 (let's): 聞こう
 命令形 (imperative): 聞け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
+<!--ID: 1785095244347-->
+
 
 to become cloudy (intransitive) | Describes the sky filling with clouds. #card
 ほんやく: 曇る(くもる)
@@ -810,6 +882,8 @@ to become cloudy (intransitive) | Describes the sky filling with clouds. #card
 おう形 (let's): 曇ろう
 命令形 (imperative): 曇れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曇.html">曇</a>
+<!--ID: 1785095244348-->
+
 
 to come (intransitive) | To move toward the speaker's location or the place being discussed. #k #card
 ほんやく: 来る(くる)
@@ -829,6 +903,8 @@ to come (intransitive) | To move toward the speaker's location or the place bein
 おう形 (let's): 来よう
 命令形 (imperative): 来い（こい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<!--ID: 1785095244349-->
+
 
 to erase, to turn off (transitive) | To remove writing, or to switch off a light, TV, or similar device. #card
 ほんやく: 消す(けす)
@@ -848,6 +924,8 @@ to erase, to turn off (transitive) | To remove writing, or to switch off a light
 おう形 (let's): 消そう
 命令形 (imperative): 消せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_消.html">消</a>
+<!--ID: 1785095244350-->
+
 
 to answer (intransitive) | To respond to a question, usually verbally; takes に for the question answered. #k #card
 ほんやく: 答える(こたえる)
@@ -867,6 +945,8 @@ to answer (intransitive) | To respond to a question, usually verbally; takes に
 おう形 (let's): 答えよう
 命令形 (imperative): 答えろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_答.html">答</a>
+<!--ID: 1785095244351-->
+
 
 to be troubled (intransitive) | To find oneself in an awkward or difficult situation with no easy solution. #card
 ほんやく: 困る(こまる)
@@ -886,6 +966,8 @@ to be troubled (intransitive) | To find oneself in an awkward or difficult situa
 おう形 (let's): 困ろう
 命令形 (imperative): 困れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_困.html">困</a>
+<!--ID: 1785095244352-->
+
 
 to bloom (intransitive) | Describes a flower opening as it grows. #card
 ほんやく: 咲く(さく)
@@ -905,6 +987,8 @@ to bloom (intransitive) | Describes a flower opening as it grows. #card
 おう形 (let's): 咲こう
 命令形 (imperative): 咲け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_咲.html">咲</a>
+<!--ID: 1785095244353-->
+
 
 to hold up (an umbrella) (transitive) | To open and raise something overhead, most often an umbrella. #card
 ほんやく: 差す(さす)
@@ -924,6 +1008,8 @@ to hold up (an umbrella) (transitive) | To open and raise something overhead, mo
 おう形 (let's): 差そう
 命令形 (imperative): 差せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_差.html">差</a>
+<!--ID: 1785095244354-->
+
 
 to die (intransitive) | To stop living; a direct, plain word rather than a euphemism. #card
 ほんやく: 死ぬ(しぬ)
@@ -943,6 +1029,8 @@ to die (intransitive) | To stop living; a direct, plain word rather than a euphe
 おう形 (let's): 死のう
 命令形 (imperative): 死ね
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_死.html">死</a>
+<!--ID: 1785095244355-->
+
 
 to close (intransitive) | Describes a door or shop becoming closed by itself. #card
 ほんやく: 閉まる(しまる)
@@ -962,6 +1050,8 @@ to close (intransitive) | Describes a door or shop becoming closed by itself. #c
 おう形 (let's): 閉まろう
 命令形 (imperative): 閉まれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_閉.html">閉</a>
+<!--ID: 1785095244356-->
+
 
 to close (transitive) | To shut a door, window, or store; requires someone acting on the object. #card
 ほんやく: 閉める(しめる)
@@ -981,6 +1071,8 @@ to close (transitive) | To shut a door, window, or store; requires someone actin
 おう形 (let's): 閉めよう
 命令形 (imperative): 閉めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_閉.html">閉</a>
+<!--ID: 1785095244357-->
+
 
 to fasten, to tighten (transitive) | To pull something tight around a part of the body, such as a belt or seatbelt. #card
 ほんやく: 締める(しめる)
@@ -1000,6 +1092,8 @@ to fasten, to tighten (transitive) | To pull something tight around a part of th
 おう形 (let's): 締めよう
 命令形 (imperative): 締めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_締.html">締</a>
+<!--ID: 1785095244358-->
+
 
 to know (transitive) | To become aware of or acquainted with a fact or person; often used in the ている form. #k #card
 ほんやく: 知る(しる)
@@ -1019,6 +1113,8 @@ to know (transitive) | To become aware of or acquainted with a fact or person; o
 おう形 (let's): 知ろう
 命令形 (imperative): 知れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_知.html">知</a>
+<!--ID: 1785095244359-->
+
 
 to smoke, to inhale (transitive) | To draw air, smoke, or liquid into the body through the mouth. #card
 ほんやく: 吸う(すう)
@@ -1038,6 +1134,8 @@ to smoke, to inhale (transitive) | To draw air, smoke, or liquid into the body t
 おう形 (let's): 吸おう
 命令形 (imperative): 吸え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_吸.html">吸</a>
+<!--ID: 1785095244360-->
+
 
 to live, to reside (intransitive) | To have one's home in a particular place. #k #card
 ほんやく: 住む(すむ)
@@ -1057,6 +1155,8 @@ to live, to reside (intransitive) | To have one's home in a particular place. #k
 おう形 (let's): 住もう
 命令形 (imperative): 住め
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_住.html">住</a>
+<!--ID: 1785095244361-->
+
 
 to do (transitive) | An extremely common, general-purpose verb used for actions and attached to many nouns to form verbs. #card
 ほんやく: する
@@ -1075,6 +1175,8 @@ to do (transitive) | An extremely common, general-purpose verb used for actions 
 可能形 (can): できる
 おう形 (let's): しよう
 命令形 (imperative): しろ
+<!--ID: 1785095244362-->
+
 
 to sit (intransitive) | To lower oneself onto a chair, floor, or other surface. #card
 ほんやく: 座る(すわる)
@@ -1094,6 +1196,8 @@ to sit (intransitive) | To lower oneself onto a chair, floor, or other surface. 
 おう形 (let's): 座ろう
 命令形 (imperative): 座れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_座.html">座</a>
+<!--ID: 1785095244363-->
+
 
 to take out, to hand in (transitive) | To move something from inside to outside, or to submit an item such as homework. #k #card
 ほんやく: 出す(だす)
@@ -1113,6 +1217,8 @@ to take out, to hand in (transitive) | To move something from inside to outside,
 おう形 (let's): 出そう
 命令形 (imperative): 出せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<!--ID: 1785095244364-->
+
 
 to stand (intransitive) | To rise to or remain in an upright position. #k #card
 ほんやく: 立つ(たつ)
@@ -1132,6 +1238,8 @@ to stand (intransitive) | To rise to or remain in an upright position. #k #card
 おう形 (let's): 立とう
 命令形 (imperative): 立て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
+<!--ID: 1785095244365-->
+
 
 to request (transitive) | To ask someone for a favor or to place an order. #card
 ほんやく: 頼む(たのむ)
@@ -1151,6 +1259,8 @@ to request (transitive) | To ask someone for a favor or to place an order. #card
 おう形 (let's): 頼もう
 命令形 (imperative): 頼め
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頼.html">頼</a>
+<!--ID: 1785095244366-->
+
 
 to eat (transitive) | To take in food; a basic, everyday verb. #k #card
 ほんやく: 食べる(たべる)
@@ -1170,6 +1280,8 @@ to eat (transitive) | To take in food; a basic, everyday verb. #k #card
 おう形 (let's): 食べよう
 命令形 (imperative): 食べろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<!--ID: 1785095244367-->
+
 
 to differ, to be wrong (intransitive) | Describes two things not matching, or a statement being incorrect. #card
 ほんやく: 違う(ちがう)
@@ -1189,6 +1301,8 @@ to differ, to be wrong (intransitive) | Describes two things not matching, or a 
 おう形 (let's): 違おう
 命令形 (imperative): 違え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_違.html">違</a>
+<!--ID: 1785095244369-->
+
 
 to use (transitive) | To employ a tool, object, or resource for a purpose. #k #card
 ほんやく: 使う(つかう)
@@ -1208,6 +1322,8 @@ to use (transitive) | To employ a tool, object, or resource for a purpose. #k #c
 おう形 (let's): 使おう
 命令形 (imperative): 使え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
+<!--ID: 1785095244372-->
+
 
 to get tired (intransitive) | To lose energy after exertion; often used in past or て-form for a current state. #card
 ほんやく: 疲れる(つかれる)
@@ -1227,6 +1343,8 @@ to get tired (intransitive) | To lose energy after exertion; often used in past 
 おう形 (let's): 疲れよう
 命令形 (imperative): 疲れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_疲.html">疲</a>
+<!--ID: 1785095244376-->
+
 
 to arrive (intransitive) | To reach a destination after traveling. #k #card
 ほんやく: 着く(つく)
@@ -1246,6 +1364,8 @@ to arrive (intransitive) | To reach a destination after traveling. #k #card
 おう形 (let's): 着こう
 命令形 (imperative): 着け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
+<!--ID: 1785095244377-->
+
 
 to make (transitive) | To produce or create something, from food to objects to plans. #k #card
 ほんやく: 作る(つくる)
@@ -1265,6 +1385,8 @@ to make (transitive) | To produce or create something, from food to objects to p
 おう形 (let's): 作ろう
 命令形 (imperative): 作れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
+<!--ID: 1785095244380-->
+
 
 to turn on, to attach (transitive) | To switch on a device such as a light or TV, or to attach one thing to another. #card
 ほんやく: つける
@@ -1283,6 +1405,8 @@ to turn on, to attach (transitive) | To switch on a device such as a light or TV
 可能形 (can): つけられる
 おう形 (let's): つけよう
 命令形 (imperative): つけろ
+<!--ID: 1785095244381-->
+
 
 to work for (an employer) (intransitive) | To be employed at a company or organization; takes に. #card
 ほんやく: 勤める(つとめる)
@@ -1302,6 +1426,8 @@ to work for (an employer) (intransitive) | To be employed at a company or organi
 おう形 (let's): 勤めよう
 命令形 (imperative): 勤めろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勤.html">勤</a>
+<!--ID: 1785095244382-->
+
 
 to go out (intransitive) | To leave one's home for an errand or outing. #k #card
 ほんやく: 出かける(でかける)
@@ -1321,6 +1447,8 @@ to go out (intransitive) | To leave one's home for an errand or outing. #k #card
 おう形 (let's): 出かけよう
 命令形 (imperative): 出かけろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<!--ID: 1785095244383-->
+
 
 to be able to (intransitive) | Expresses ability, or the coming into existence of something newly available. #card
 ほんやく: できる
@@ -1339,6 +1467,8 @@ to be able to (intransitive) | Expresses ability, or the coming into existence o
 可能形 (can): できられる
 おう形 (let's): できよう
 命令形 (imperative): できろ
+<!--ID: 1785095244384-->
+
 
 to leave, to appear (intransitive) | To exit a place, or for something to come into view. #k #card
 ほんやく: 出る(でる)
@@ -1358,6 +1488,8 @@ to leave, to appear (intransitive) | To exit a place, or for something to come i
 おう形 (let's): 出よう
 命令形 (imperative): 出ろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<!--ID: 1785095244385-->
+
 
 to fly, to hop (intransitive) | To move through the air, or to jump. #card
 ほんやく: 飛ぶ(とぶ)
@@ -1377,6 +1509,8 @@ to fly, to hop (intransitive) | To move through the air, or to jump. #card
 おう形 (let's): 飛ぼう
 命令形 (imperative): 飛べ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飛.html">飛</a>
+<!--ID: 1785095244386-->
+
 
 to stop (intransitive) | Describes a moving thing coming to a halt on its own. #card
 ほんやく: 止まる(とまる)
@@ -1396,6 +1530,8 @@ to stop (intransitive) | Describes a moving thing coming to a halt on its own. #
 おう形 (let's): 止まろう
 命令形 (imperative): 止まれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_止.html">止</a>
+<!--ID: 1785095244387-->
+
 
 to take (transitive) | To pick up or acquire something with the hands, or in an abstract sense such as a grade. #card
 ほんやく: 取る(とる)
@@ -1415,6 +1551,8 @@ to take (transitive) | To pick up or acquire something with the hands, or in an 
 おう形 (let's): 取ろう
 命令形 (imperative): 取れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_取.html">取</a>
+<!--ID: 1785095244388-->
+
 
 to take (a photo) (transitive) | To capture an image with a camera. #card
 ほんやく: 撮る(とる)
@@ -1434,6 +1572,8 @@ to take (a photo) (transitive) | To capture an image with a camera. #card
 おう形 (let's): 撮ろう
 命令形 (imperative): 撮れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_撮.html">撮</a>
+<!--ID: 1785095244389-->
+
 
 to make a sound (animal) (intransitive) | Refers to the sound an animal, bird, or insect makes, such as barking or chirping. #card
 ほんやく: 鳴く(なく)
@@ -1453,6 +1593,8 @@ to make a sound (animal) (intransitive) | Refers to the sound an animal, bird, o
 おう形 (let's): 鳴こう
 命令形 (imperative): 鳴け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鳴.html">鳴</a>
+<!--ID: 1785095244390-->
+
 
 to lose something (transitive) | To misplace a possession so that it can no longer be found. #card
 ほんやく: 無くす(なくす)
@@ -1472,6 +1614,8 @@ to lose something (transitive) | To misplace a possession so that it can no long
 おう形 (let's): 無くそう
 命令形 (imperative): 無くせ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_無.html">無</a>
+<!--ID: 1785095244391-->
+
 
 to learn (transitive) | To study a skill or subject, typically under instruction. #k #card
 ほんやく: 習う(ならう)
@@ -1491,6 +1635,8 @@ to learn (transitive) | To study a skill or subject, typically under instruction
 おう形 (let's): 習おう
 命令形 (imperative): 習え
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_習.html">習</a>
+<!--ID: 1785095244392-->
+
 
 to line up (intransitive) | Describes people or things forming a row on their own. #card
 ほんやく: 並ぶ(ならぶ)
@@ -1510,6 +1656,8 @@ to line up (intransitive) | Describes people or things forming a row on their ow
 おう形 (let's): 並ぼう
 命令形 (imperative): 並べ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_並.html">並</a>
+<!--ID: 1785095244393-->
+
 
 to arrange in a row (transitive) | To place several things side by side in order. #card
 ほんやく: 並べる(ならべる)
@@ -1529,6 +1677,8 @@ to arrange in a row (transitive) | To place several things side by side in order
 おう形 (let's): 並べよう
 命令形 (imperative): 並べろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_並.html">並</a>
+<!--ID: 1785095244394-->
+
 
 to become (intransitive) | Describes a change of state, from one condition to another. #card
 ほんやく: なる
@@ -1547,6 +1697,8 @@ to become (intransitive) | Describes a change of state, from one condition to an
 可能形 (can): なれる
 おう形 (let's): なろう
 命令形 (imperative): なれ
+<!--ID: 1785095244395-->
+
 
 to take off (clothes) (transitive) | To remove an item of clothing or footwear from the body. #card
 ほんやく: 脱ぐ(ぬぐ)
@@ -1566,6 +1718,8 @@ to take off (clothes) (transitive) | To remove an item of clothing or footwear f
 おう形 (let's): 脱ごう
 命令形 (imperative): 脱げ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_脱.html">脱</a>
+<!--ID: 1785095244396-->
+
 
 to sleep, to go to bed (intransitive) | To lie down to rest or fall asleep. #card
 ほんやく: 寝る(ねる)
@@ -1585,6 +1739,8 @@ to sleep, to go to bed (intransitive) | To lie down to rest or fall asleep. #car
 おう形 (let's): 寝よう
 命令形 (imperative): 寝ろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寝.html">寝</a>
+<!--ID: 1785095244397-->
+
 
 to climb (intransitive) | To move upward along a slope, mountain, or stairs. #card
 ほんやく: 登る(のぼる)
@@ -1604,6 +1760,8 @@ to climb (intransitive) | To move upward along a slope, mountain, or stairs. #ca
 おう形 (let's): 登ろう
 命令形 (imperative): 登れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_登.html">登</a>
+<!--ID: 1785095244398-->
+
 
 to drink (transitive) | To take a liquid into the mouth and swallow it. #k #card
 ほんやく: 飲む(のむ)
@@ -1623,6 +1781,8 @@ to drink (transitive) | To take a liquid into the mouth and swallow it. #k #card
 おう形 (let's): 飲もう
 命令形 (imperative): 飲め
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
+<!--ID: 1785095244399-->
+
 
 to get on, to ride (intransitive) | To board a vehicle such as a train, bus, or bicycle; takes に. #card
 ほんやく: 乗る(のる)
@@ -1642,6 +1802,8 @@ to get on, to ride (intransitive) | To board a vehicle such as a train, bus, or 
 おう形 (let's): 乗ろう
 命令形 (imperative): 乗れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_乗.html">乗</a>
+<!--ID: 1785095244400-->
+
 
 to enter (intransitive) | To go into a room, building, or organization. #k #card
 ほんやく: 入る(はいる)
@@ -1661,6 +1823,8 @@ to enter (intransitive) | To go into a room, building, or organization. #k #card
 おう形 (let's): 入ろう
 命令形 (imperative): 入れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
+<!--ID: 1785095244401-->
+
 
 to put on (from the waist down) (transitive) | To put on trousers, skirts, shoes, or socks. #card
 ほんやく: はく
@@ -1679,6 +1843,8 @@ to put on (from the waist down) (transitive) | To put on trousers, skirts, shoes
 可能形 (can): はける
 おう形 (let's): はこう
 命令形 (imperative): はけ
+<!--ID: 1785095244402-->
+
 
 to begin (intransitive) | Describes an event or activity starting on its own. #k #card
 ほんやく: 始まる(はじまる)
@@ -1698,6 +1864,8 @@ to begin (intransitive) | Describes an event or activity starting on its own. #k
 おう形 (let's): 始まろう
 命令形 (imperative): 始まれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
+<!--ID: 1785095244403-->
+
 
 to run (intransitive) | To move quickly on foot, faster than walking. #k #card
 ほんやく: 走る(はしる)
@@ -1717,6 +1885,8 @@ to run (intransitive) | To move quickly on foot, faster than walking. #k #card
 おう形 (let's): 走ろう
 命令形 (imperative): 走れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
+<!--ID: 1785095244404-->
+
 
 to work (intransitive) | To perform labor, typically for pay. #card
 ほんやく: 働く(はたらく)
@@ -1736,6 +1906,8 @@ to work (intransitive) | To perform labor, typically for pay. #card
 おう形 (let's): 働こう
 命令形 (imperative): 働け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_働.html">働</a>
+<!--ID: 1785095244405-->
+
 
 to speak (transitive) | To use words to communicate, whether casually or formally. #k #card
 ほんやく: 話す(はなす)
@@ -1755,6 +1927,8 @@ to speak (transitive) | To use words to communicate, whether casually or formall
 おう形 (let's): 話そう
 命令形 (imperative): 話せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
+<!--ID: 1785095244406-->
+
 
 to stick, to paste (transitive) | To attach something flat, like a stamp or poster, to a surface. #card
 ほんやく: 貼る(はる)
@@ -1774,6 +1948,8 @@ to stick, to paste (transitive) | To attach something flat, like a stamp or post
 おう形 (let's): 貼ろう
 命令形 (imperative): 貼れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_貼.html">貼</a>
+<!--ID: 1785095244407-->
+
 
 to clear up (intransitive) | Describes the sky becoming clear and sunny. #card
 ほんやく: 晴れる(はれる)
@@ -1793,6 +1969,8 @@ to clear up (intransitive) | Describes the sky becoming clear and sunny. #card
 おう形 (let's): 晴れよう
 命令形 (imperative): 晴れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_晴.html">晴</a>
+<!--ID: 1785095244408-->
+
 
 to pull, to subtract (transitive) | To draw something toward oneself, or to subtract in arithmetic. #card
 ほんやく: 引く(ひく)
@@ -1812,6 +1990,8 @@ to pull, to subtract (transitive) | To draw something toward oneself, or to subt
 おう形 (let's): 引こう
 命令形 (imperative): 引け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
+<!--ID: 1785095244409-->
+
 
 to play (a stringed instrument or piano) (transitive) | To produce music from an instrument by plucking strings or pressing keys. #card
 ほんやく: 弾く(ひく)
@@ -1831,6 +2011,8 @@ to play (a stringed instrument or piano) (transitive) | To produce music from an
 おう形 (let's): 弾こう
 命令形 (imperative): 弾け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弾.html">弾</a>
+<!--ID: 1785095244410-->
+
 
 to blow (intransitive) | Describes wind moving, or a person blowing air from the mouth. #card
 ほんやく: 吹く(ふく)
@@ -1850,6 +2032,8 @@ to blow (intransitive) | Describes wind moving, or a person blowing air from the
 おう形 (let's): 吹こう
 命令形 (imperative): 吹け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_吹.html">吹</a>
+<!--ID: 1785095244411-->
+
 
 to fall (rain, snow) (intransitive) | Describes precipitation coming down from the sky. #card
 ほんやく: 降る(ふる)
@@ -1869,6 +2053,8 @@ to fall (rain, snow) (intransitive) | Describes precipitation coming down from t
 おう形 (let's): 降ろう
 命令形 (imperative): 降れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
+<!--ID: 1785095244412-->
+
 
 to turn, to bend (intransitive) | To change direction, such as at a corner, or to bend out of a straight shape. #card
 ほんやく: 曲る(まがる)
@@ -1888,6 +2074,8 @@ to turn, to bend (intransitive) | To change direction, such as at a corner, or t
 おう形 (let's): 曲がろう
 命令形 (imperative): 曲がれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曲.html">曲</a>
+<!--ID: 1785095244413-->
+
 
 to wait (transitive) | To remain in place until someone arrives or something happens. #k #card
 ほんやく: 待つ(まつ)
@@ -1907,6 +2095,8 @@ to wait (transitive) | To remain in place until someone arrives or something hap
 おう形 (let's): 待とう
 命令形 (imperative): 待て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
+<!--ID: 1785095244414-->
+
 
 to brush, to polish (transitive) | To clean something, most often teeth, by rubbing repeatedly. #card
 ほんやく: 磨く(みがく)
@@ -1926,6 +2116,8 @@ to brush, to polish (transitive) | To clean something, most often teeth, by rubb
 おう形 (let's): 磨こう
 命令形 (imperative): 磨け
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_磨.html">磨</a>
+<!--ID: 1785095244415-->
+
 
 to show (transitive) | To let someone see an object by presenting it. #k #card
 ほんやく: 見せる(みせる)
@@ -1945,6 +2137,8 @@ to show (transitive) | To let someone see an object by presenting it. #k #card
 おう形 (let's): 見せよう
 命令形 (imperative): 見せろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+<!--ID: 1785095244416-->
+
 
 to see, to watch (transitive) | To use one's eyes to perceive something, from casual glances to watching a film. #k #card
 ほんやく: 見る(みる)
@@ -1964,6 +2158,8 @@ to see, to watch (transitive) | To use one's eyes to perceive something, from ca
 おう形 (let's): 見よう
 命令形 (imperative): 見ろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+<!--ID: 1785095244417-->
+
 
 to hold, to carry (transitive) | To keep something in one's hand or possession. #k #card
 ほんやく: 持つ(もつ)
@@ -1983,6 +2179,8 @@ to hold, to carry (transitive) | To keep something in one's hand or possession. 
 おう形 (let's): 持とう
 命令形 (imperative): 持て
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
+<!--ID: 1785095244418-->
+
 
 to rest (intransitive) | To take a break from work or study, or to be absent. #k #card
 ほんやく: 休む(やすむ)
@@ -2002,6 +2200,8 @@ to rest (intransitive) | To take a break from work or study, or to be absent. #k
 おう形 (let's): 休もう
 命令形 (imperative): 休め
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
+<!--ID: 1785095244419-->
+
 
 to do, to give (to a subordinate or pet) (transitive) | A casual synonym for する, or to give something to someone or something of lower status. #card
 ほんやく: やる
@@ -2020,6 +2220,8 @@ to do, to give (to a subordinate or pet) (transitive) | A casual synonym for す
 可能形 (can): やれる
 おう形 (let's): やろう
 命令形 (imperative): やれ
+<!--ID: 1785095244420-->
+
 
 to call, to invite (transitive) | To call out someone's name, or to ask someone to come along. #card
 ほんやく: 呼ぶ(よぶ)
@@ -2039,6 +2241,8 @@ to call, to invite (transitive) | To call out someone's name, or to ask someone 
 おう形 (let's): 呼ぼう
 命令形 (imperative): 呼べ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_呼.html">呼</a>
+<!--ID: 1785095244421-->
+
 
 to read (transitive) | To look at written text and understand its meaning. #k #card
 ほんやく: 読む(よむ)
@@ -2058,6 +2262,8 @@ to read (transitive) | To look at written text and understand its meaning. #k #c
 おう形 (let's): 読もう
 命令形 (imperative): 読め
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_読.html">読</a>
+<!--ID: 1785095244422-->
+
 
 to understand (intransitive) | Describes information becoming clear to a person; the thing understood is marked with が. #k #card
 ほんやく: 分かる(わかる)
@@ -2077,6 +2283,8 @@ to understand (intransitive) | Describes information becoming clear to a person;
 おう形 (let's): 分かろう
 命令形 (imperative): 分かれ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
+<!--ID: 1785095244423-->
+
 
 to forget (transitive) | To lose a memory, or to leave an item behind by accident. #card
 ほんやく: 忘れる(わすれる)
@@ -2096,6 +2304,8 @@ to forget (transitive) | To lose a memory, or to leave an item behind by acciden
 おう形 (let's): 忘れよう
 命令形 (imperative): 忘れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_忘.html">忘</a>
+<!--ID: 1785095244424-->
+
 
 to hand over (transitive) | To pass an object directly into someone else's hands. #card
 ほんやく: 渡す(わたす)
@@ -2115,6 +2325,8 @@ to hand over (transitive) | To pass an object directly into someone else's hands
 おう形 (let's): 渡そう
 命令形 (imperative): 渡せ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_渡.html">渡</a>
+<!--ID: 1785095244425-->
+
 
 to cross (intransitive) | To go from one side of something, like a street or bridge, to the other. #card
 ほんやく: 渡る(わたる)
@@ -2134,3 +2346,5 @@ to cross (intransitive) | To go from one side of something, like a street or bri
 おう形 (let's): 渡ろう
 命令形 (imperative): 渡れ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_渡.html">渡</a>
+<!--ID: 1785095244426-->
+

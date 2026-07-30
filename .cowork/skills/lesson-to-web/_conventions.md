@@ -39,7 +39,7 @@ Required fields and expected values on file creation:
 
 Optional machine-readable fields (the ontology layer — frontmatter mirrors of human-readable content):
 
-- `register` — bare scalar; one of `neutral | polite | tiered | unknown`. Owned by register-confusability-grammar Step 8, which writes it whenever it writes/overwrites the `## Register` section: `polite` mirrors the section value "polite-context typical"; `unknown` mirrors "unknown — insufficient source material". Overwritten (not appended) on every re-run, mirroring the section overwrite rule. No other skill writes this field.
+- `register` — bare scalar; one of `neutral | polite | tiered | unknown`. Normally owned by register-confusability-grammar Step 8, which writes it whenever it writes/overwrites the `## Register` section: `polite` mirrors the section value "polite-context typical"; `unknown` mirrors "unknown — insufficient source material". Overwritten (not appended) on every re-run, mirroring the section overwrite rule. **Seeding exception:** extract-grammar may also write `## Register` and `register:` at file-creation time, when the source lesson has its own `### Register` heading under a grammar point (see `_heading-roles.md` scaffolding special case) — the lesson author's own analysis, not hashtag-derived. register-confusability-grammar still has final authority: a later run overwrites the seeded value with its own hashtag-based analysis, same as any other file. No skill other than extract-grammar (seeding) and register-confusability-grammar (authoritative) writes this field.
 - `confused_with` — YAML array of grammar slugs. Owned by register-confusability-grammar Step 9. Append-only and dedup-checked; must always mirror the link targets of the `## Often confused with` section (one array entry per section link). No other skill writes this field.
 - `function` — YAML array of 0–2 values taken exclusively from the **`function` controlled vocabulary** section below. Created as `function: []` by extract-grammar's grammar point template (step 7) and populated by extract-grammar step 9d during the same run; immutable after that run completes (same protected status as `topic_slug`). Grammar point files only — container files and vocabulary files never carry `function`.
 
@@ -90,6 +90,29 @@ Required sections in order:
 Container files use `## Sub-topics` in place of the standard sections. Topic index files use `## Entries`.
 
 `## See also` keeps its existing container-only rule (links only to files with `## Sub-topics`). Point-to-point relationships between individual grammar points (e.g. ように / のに / ために) belong exclusively in `## Often confused with`, never in `## See also`.
+
+---
+
+## Examples content format
+
+Every example sentence inside an Examples section is one Markdown bullet (`- `), never a
+blank-line-separated paragraph. One sentence per bullet, in source order. Applies to both
+shapes an Examples section takes:
+- `## Examples` — the single shared section in Structure 1.
+- `### Examples` — nested under each `## N. Use Case Name` heading in Structure 2. Each
+  use case's examples stay scoped to that use case only — never pooled into one shared
+  list across use cases.
+
+```
+## Examples
+
+- これから夕飯(ゆうはん)を食(た)べるところで - Just as I'm about to eat dinner now, ...
+- 家(いえ)に帰(かえ)ると、妻(つま)が晩(ばん)ご飯(はん)を作(つく)るところだった。 - When I got home, my wife was just about to make dinner.
+```
+
+Applies whenever this section is written or rewritten — extract-grammar on file creation,
+and structure-grammar on any reformat into Structure 1 or Structure 2. Dialogue examples
+(A: ... B: ...) stay on one bullet per exchange, not split across two bullets.
 
 ---
 

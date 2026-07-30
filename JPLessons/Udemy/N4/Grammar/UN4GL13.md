@@ -219,8 +219,10 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL13-Keigo
 ## 文法
 
 ### numbers
+→ [[grammar-index/grammar/numbers]]
 
 #### 台(だい) - urządzenia mechaniczne, elektroniczne, pojazdy
+→ [[grammar-index/grammar/dai-counter]]
 
 #w １台（いちだい） - one machine, electric devices, vehicles #number  
 #w ２台（にだい） - two machines, electric devices, vehicles #number  
@@ -239,16 +241,20 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL13-Keigo
 
 
 ## 敬語(けいご)
+→ [[grammar-index/grammar/keigo]]
 
 ### 尊敬語（そんけいご）- Honorific expressions
+→ [[grammar-index/grammar/sonkeigo-honorific-expressions]]
 
 #w 動詞(どうし)の尊敬語(そんけいご) - respectful verbs
 
 ---
 
 #### Types of verbs:
+→ [[grammar-index/grammar/sonkeigo-types-of-verbs]]
 
 ##### 1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**
+→ [[grammar-index/grammar/sonkeikei-passive-form]]
 > the least formal of the three sonkeigo patterns (special verbs > おVになる > られる); casual/everyday register, common in speech but best avoided when addressing superiors directly — for formal writing, prefer なさっている／しておられます over plain られる
 
 **動詞(どうし)の尊敬形(そんけいけい) = passive form**
@@ -277,6 +283,7 @@ Examples:
 ---
 
 ##### **2. 特別な動詞（とくべつなどうし）- special verbs**
+→ [[grammar-index/grammar/tokubetsunadoushi-special-verbs]]
 
 - 行く, 来る - to go, come
     - いらっしゃる - default, everyday, slightly casual
@@ -327,6 +334,7 @@ Examples:
 ---
 
 ##### **3. お + V「ます形」になります**
+→ [[grammar-index/grammar/o-vmasu-ninarimasu]]
 
 Structure:
 
@@ -364,6 +372,7 @@ Examples:
 ---
 
 #### Nouns, adjectives, adverbs
+→ [[grammar-index/grammar/sonkeigo-o-go-prefix-nouns-adjectives-adverbs]]
 
  Structure: 
  - ご・お + Noun/Verb/Adverb/adjective
@@ -397,6 +406,7 @@ Examples:
 #w ご自由(じゆう)にご意見(いけん)をおっしゃってください - please say your opinions freely #sonkeigo
 
 ##### People
+→ [[grammar-index/grammar/sonkeigo-polite-people-reference]]
 
 - for persons (indirect/polite reference, not strictly sonkeigo)
 	- こちら / そちら / あちら / どちら — polite indirect way to refer to a person instead of pointing directly (add 様 for more politeness: そちら様)
@@ -409,6 +419,7 @@ Examples:
 
 ---
 #### Vて形 + いただく（謙譲語）・くださる（尊敬語） - describing a favor received from a superior
+→ [[grammar-index/grammar/te-form-itadaku-kudasaru-favor-received]]
 
 Structure:
 - Aは Bに Vて形 + いただきます = もらいます (A = receiver, B = benefactor) — kenjougo
@@ -426,6 +437,7 @@ Structure:
 ---
 
 ####  Vて形＋くださいませんか politer form of くれませんか - could you please (do smth for me)
+→ [[grammar-index/grammar/kudasaimasenka-polite-request]]
 - Structure
 	- て形 ＋ くださいませんか - could you please
 		- ケーキの作(つく)り方を教(おし)えてくださいませんか - Could you please teach me how to bake a cake? #sonkeigo 
@@ -438,6 +450,7 @@ Structure:
 
 ---
 ## 。。。場合は, 。。。 - in case of, if
+→ [[grammar-index/grammar/baai-in-case-of-if]]
 
 > Situation happens hypothetically or generally
 
@@ -464,6 +477,7 @@ Structure:
 
 ---
 ## 謙譲語（けんじょうご） - humble expressions
+→ [[grammar-index/grammar/kenjougo-humble-expressions-un4gl13]]
 Lower the speaker's own action to indirectly show respect toward the listener/referent.
 
 Verbs
@@ -479,6 +493,7 @@ People or objects
 
 ---
 ## 丁寧語（ていねいご）- polite expressions
+→ [[grammar-index/grammar/teineigo-polite-expressions-un4gl13]]
 Raises the formality of the speech itself, regardless of who's being talked about — usable toward anyone.
 
 - です — polite copula
@@ -488,6 +503,7 @@ Raises the formality of the speech itself, regardless of who's being talked abou
 - でしょう — polite conjecture ("probably...")
 
 ### ございます - polite arimasu、desu
+→ [[grammar-index/grammar/gozaimasu-polite-arimasu-desu]]
 
 | Plain | 丁寧語（ていねいご） | Use cases                                                                    |
 | ----- | ---------- | ---------------------------------------------------------------------------- |
@@ -506,6 +522,7 @@ Raises the formality of the speech itself, regardless of who's being talked abou
 # Vocabulary
 
 ## 分(ぶん) - portion, range
+→ [[grammar-index/grammar/vocabulary/Nouns/bun-portion-range]]
 
 #w 分（ぶん） - portion  
 
@@ -528,6 +545,7 @@ Raises the formality of the speech itself, regardless of who's being talked abou
 #w 食べた分(たべたぶん) - portion I ate 
 
 ## なかなか - quite
+→ [[grammar-index/grammar/vocabulary/Adverbs/nakanaka-quite]]
 
 
 #w なかなか - very, pretty, much (positive), barely(difficulty)
@@ -552,6 +570,7 @@ Raises the formality of the speech itself, regardless of who's being talked abou
 #w あの人となかなか話せなかったです - Trudno było nawiązać rozmowę z tą osobą 
 
 ## I'm sorry
+→ [[grammar-index/grammar/vocabulary/Nouns/im-sorry]]
 
 order of politeness
 - 申し訳ありません・申し訳ございません (formal)
@@ -567,6 +586,7 @@ order of politeness
 
 
 ## ほとんど - almost (amount)
+→ [[grammar-index/grammar/vocabulary/Adverbs/hotondo-almost-amount]]
 
 > Meanings: roughly, about, almost, hardly
 
@@ -595,8 +615,10 @@ Negative - ほとんど + ない
 | **ほとんど** | almost / nearly / mostly                 | Amount or degree                  |
 | **なかなか** | quite (positive) / not easily (negative) | Difficulty or positive evaluation |
 ## Verbs
+→ [[grammar-index/grammar/verbs-informing-un4gl13]]
 
 ### 知らせる（し）- to inform, let know
+→ [[grammar-index/grammar/vocabulary/Verbs/shiraseru-to-inform-let-know]]
 
 - Structure
 	- Xをに知らせる　- inform about X
@@ -1154,6 +1176,26 @@ to ask / inquire (transitive) | to ask about something specific you don't know, 
 命令形 (imperative): 尋ねろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_尋.html">尋</a>
 <!--ID: 1784123172562-->
+
+to remain / to be left over #card
+ほんやく: 残る(のこる)
+て形: 残(のこ)って
+た形: 残(のこ)った
+ます形: 残(のこ)ります
+出す形 (start): 残(のこ)り出す
+そう (looks): 残(のこ)りそう
+お〜になる/special verb (honorific): お残(のこ)りになる (unconfirmed — verify)
+謙譲語 (humble): お残(のこ)りいたす／お残(のこ)りします (unconfirmed — verify)
+ない形: 残(のこ)らない
+なかった形: 残(のこ)らなかった
+あれる形 (passive/honorific): 残(のこ)られる
+使役形 (make/let): 残(のこ)らせる
+ば形 (if): 残(のこ)れば
+可能形 (can): 残(のこ)れる
+おう形 (let's): 残(のこ)ろう
+命令形 (imperative): 残(のこ)れ
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_残.html">残</a>
+<!--ID: 1785254341320-->
 
 
 to ask for a way #k #card
@@ -2083,7 +2125,7 @@ Will you go out? Czy Pan wychodzi? | (formal sonkeigo) #sonkeigo #k #card
 <!--ID: 1784123172649-->
 
 
-Do you have something to ask? / Czy chcialby pan o cos zapytac? | (formal sonkeigo) #sonkeigo #k #card
+Is there anything you'd like to ask? / Czy chcialby pan o cos zapytac? | (formal sonkeigo) #sonkeigo #k #card
 何かお聞(き)きになりたいことはありますか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
@@ -2416,7 +2458,7 @@ i found it difficult to sleep, bylo dosc trudno mi zasnac #card
 <!--ID: 1784123172690-->
 
 
-I just couldn't manage to talk with that person, no matter how I tried #k #card
+I couldn't easily talk with that person #k #card
 あの人となかなか話せなかったです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>

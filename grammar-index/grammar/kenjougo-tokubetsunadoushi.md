@@ -5,7 +5,7 @@ topic_slug: ["humble-expressions"]
 function: ["formality"]
 level: N4
 register: polite
-confused_with: ["o-go-v-masushimasu"]
+confused_with: ["o-go-v-masushimasu", "tokubetsunadoushi-special-verbs"]
 proofread: true
 ---
 
@@ -45,7 +45,7 @@ Register: polite-context typical
 Used when speaking about your own actions to a superior, customer, or outsider — business settings, service industry, formal introductions. Pairs with polite ます endings; not used in casual speech.
 
 ## Often confused with
-
+- [**2. 特別な動詞（とくべつなどうし）- special verbs**](/JapaneseNotes/grammar-index/grammar/tokubetsunadoushi-special-verbs) — test: Lowering your own action (→ kenjougo special verbs like 伺う／申す), or raising someone else's status (→ sonkeigo special verbs like いらっしゃる／おっしゃる)?
 - [お・ご V『ます形」します](/JapaneseNotes/grammar-index/grammar/o-go-v-masushimasu) — test: Is there a special humble verb for this action (→ use it from the table), or none (→ fall back to お・ご V「ます形」します)?
 
 ## See also

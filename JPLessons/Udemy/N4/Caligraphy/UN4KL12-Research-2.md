@@ -821,7 +821,7 @@ rice field + heart
 <!--ID: 1749743105703-->
 
 
- We didn't know each other's name even though I was in the same class with that person in our university days. #card
+Back in my university days, even though that person and I were in the same class, we didn't know each other's name #card
 ほんやく: 大学時代、あの人とクラスが同じなのに、おたがいの　なまえを知りませんでした（じだい、おな、し）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -880,7 +880,7 @@ rice field + heart
 <!--ID: 1749743105721-->
 
 
- Please don't worry because we have enough money for this project #card
+There's enough money for this project, so please don't worry. #card
 ほんやく: 今回のプロジェクトのお金は十分ありますから、安心してください（こんかい、かね、じゅうぶん、あんしん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_回.html">回</a>

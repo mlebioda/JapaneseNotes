@@ -82,20 +82,22 @@ After all tasks for the session are done (or the user says they are finished), r
 3. Report the review result: "All checks passed" or list specific issues found.
 4. If issues are found, propose fixes and ask the user whether to apply them.
 
-### Step 4 — Regenerate vault diagram (A2A)
+### Step 4 — Offer to regenerate vault diagram (A2A)
 
-After all file changes are complete and all scribe calls have been made, if any file under `.claude/agents/` or `.cowork/skills/` was created, edited, or deleted during this session, call the `documentation` agent once to regenerate `docs/vault-system-diagram.puml`.
+If any file under `.claude/agents/` or `.cowork/skills/` was created, edited, or deleted during this session, ask the user: **"Regenerate the vault diagram now?"** Do not call `documentation` unless the user says yes.
+
+If confirmed, call it once (not once per file):
 
 ```
 subagent_type: documentation
 prompt: update diagram
 ```
 
-This call is made **once per skill-implementer run** — not once per file. Do not wait for user confirmation — this is automatic. If the documentation agent call fails, report the failure to the user but do not block the session. Continue to Step 5.
+If the documentation agent call fails, report the failure to the user but do not block the session. If the user declines or no relevant files changed, skip this step. Continue to Step 5.
 
 ### Step 5 — Suggest commit message
 
-After all scribe calls are complete, compose a suggested git commit message for the user to copy. Do not run any git command.
+After Step 4 (diagram regeneration, if applicable) is complete, compose a suggested git commit message for the user to copy. Do not run any git command.
 
 Format:
 - One-line summary in imperative mood, max 72 characters, describing the aggregate change (e.g. "add error handling protocol to all agent files")

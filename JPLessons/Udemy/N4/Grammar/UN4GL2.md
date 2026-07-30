@@ -573,7 +573,7 @@ to help | to help/assist with a task (hands-on help) #k #card
 
 
 
-Could you tell me where to put the trash, please? #k #card
+Could you tell me where (is the place) to put the trash, please? #k #card
 ゴミを置く(お)場所(ばしょ)を教え(おし)ていただけませんか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_置.html">置</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
@@ -1456,7 +1456,7 @@ There is a book **left** on the desk (someone put it) #k #card
 
 
 
-The burnable waste has already **been taken** out #k #card
+The burnable waste has already **been taken** out (someone intentional action) #k #card
 燃(も)えるごみはもう出(だ)してあります
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_燃.html">燃</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>

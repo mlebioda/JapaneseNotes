@@ -5,6 +5,9 @@
 ## Entries
 
 - [丁寧語（ていねいご) - Polite expressions](/JapaneseNotes/grammar-index/grammar/teineigo-polite-expressions) · N4
+- [丁寧語（ていねいご）- polite expressions](/JapaneseNotes/grammar-index/grammar/teineigo-polite-expressions-un4gl13) · N4
+- [ございます - polite arimasu、desu](/JapaneseNotes/grammar-index/grammar/gozaimasu-polite-arimasu-desu) · N4
+- [敬語(けいご)](/JapaneseNotes/grammar-index/grammar/keigo) · N4
 
 ## See also
 
