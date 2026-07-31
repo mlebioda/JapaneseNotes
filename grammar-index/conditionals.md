@@ -6,3 +6,10 @@
 
 - [。。。場合は, 。。。 - in case of, if](/JapaneseNotes/grammar-index/grammar/baai-in-case-of-if) · N4
 - [もし - if](/JapaneseNotes/grammar-index/grammar/moshi-if) · N4
+- [条件形（じょうけんけい）- ば - conditional form](/JapaneseNotes/grammar-index/grammar/joukenkei-ba-conditional-form) · N4
+- [。。。なら。。。- if](/JapaneseNotes/grammar-index/grammar/nara-if) · N4
+- [Interrogative V conditional form + 　いいですか - ask for opinion or advice](/JapaneseNotes/grammar-index/grammar/v-ba-iidesuka) · N4
+
+## See also
+
+- [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — the interrogative ば + いいですか conditional doubles as a request for advice

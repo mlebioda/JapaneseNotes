@@ -11,6 +11,7 @@
 - [V「dict」＋な - Don't do...](/JapaneseNotes/grammar-index/grammar/vdictna-dont-do) · N4
 - [ます形 なさい - giving instructions](/JapaneseNotes/grammar-index/grammar/masu-nasai-giving-instructions) · N4
 - [Would you please let me do...](/JapaneseNotes/grammar-index/grammar/would-you-please-let-me-do) · N4
+- [Interrogative V conditional form + 　いいですか - ask for opinion or advice](/JapaneseNotes/grammar-index/grammar/v-ba-iidesuka) · N4
 
 ## See also
 
@@ -18,3 +19,4 @@
 - [Verb Te-Form](/JapaneseNotes/grammar-index/verb-te-form) — くださいませんか requests are built on the て-form
 - [Effort & Intention](/JapaneseNotes/grammar-index/effort-intention) — ようにしてください requests mindfulness toward an ongoing goal, softer than plain てください
 - [Causative](/JapaneseNotes/grammar-index/causative) — the causative-request forms (てもらえませんか／ていただけませんか) are the humble way to ask permission from a superior
+- [Conditionals](/JapaneseNotes/grammar-index/conditionals) — the interrogative ば + いいですか conditional doubles as a request for advice

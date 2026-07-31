@@ -5,7 +5,7 @@ topic_slug: ["action-timing"]
 function: ["temporal"]
 level: N4
 register: neutral
-confused_with: ["tokoro-desu-teiru-form", "tokoro-desu-ta-form"]
+confused_with: ["tokoro-desu-teiru-form", "tokoro-desu-ta-form", "te-kuru-kita-iku"]
 proofread: true
 ---
 
@@ -46,6 +46,7 @@ Politeness comes only from the copula attached after it — だ (casual) vs で�
 
 - [2. V「て形」いるところです - action in progress right now](/JapaneseNotes/grammar-index/grammar/tokoro-desu-teiru-form) — test: Is the action about to begin, or already underway right now?
 - [3. V「た形」ところです - action has just finished](/JapaneseNotes/grammar-index/grammar/tokoro-desu-ta-form) — test: Has the action not started yet, or has it already just finished?
+- [V「て-form」くる / きた / いく — action continuing over time](/JapaneseNotes/grammar-index/grammar/te-kuru-kita-iku) — test: is the action about to begin right now (ところです), or will it keep continuing/building from now onward (ていく)?
 
 ## See also
 

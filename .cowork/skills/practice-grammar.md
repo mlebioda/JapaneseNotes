@@ -147,17 +147,18 @@ The following causes a warning line but does **not** skip the entry (extracted-f
          - "Study mode" → enter Study Mode for the topics in batch B (see **Study Mode** section). After Study Mode exits, ask again: `Next batch / Finish` (same rules as Step 3 of Study Mode).
          - If the user asks an off-topic question, answer it and re-present the same prompt.
          - The prompt must always appear — never auto-advance to the next batch.
-       - If B == `num_batches` (last batch): ask:
+       - If B == `num_batches` (last batch): immediately after self-evaluation scores are collected for this batch, run Workflow steps 8–10 unconditionally (write the session summary, persist to `grammar-state.json`, write the calendar `.ics` — see **Session summary** and **Persistence and Calendar sync** sections). This happens before any prompt is shown; it is no longer gated behind a user choice. Then ask:
          ```
-         Study mode / Save & finish
+         Study mode / Finish
          ```
-         - "Study mode" → enter Study Mode for the topics in the last batch. After Study Mode exits, proceed to post-session (write state + calendar).
-         - "Save & finish" (or equivalent) → proceed to post-session.
+         - "Study mode" → enter Study Mode for the topics in the last batch. Session data is already saved at this point — Study Mode is purely supplementary practice. After Study Mode exits, end the session (nothing further to persist).
+         - "Finish" (or equivalent affirmative) → end the session immediately.
          - If the user asks an off-topic question, answer it and re-present the same prompt.
-         - The prompt must always appear — never auto-finish without user confirmation.
-       - **Early exit:** if the user types "stop" or "end" as a standalone message at any point mid-session, load `practice-grammar-srs.md` and write grammar-state.json and .ics for all scores collected so far, print the partial session summary, and end immediately. "stop" is no longer offered as a named option in the between-batch prompt.
+         - The prompt must always appear — never auto-finish without user confirmation, even though persistence has already occurred.
+         - **Guard — "stop"/"end" at this prompt.** If the user types "stop" or "end" in reply to this `Study mode / Finish` prompt, treat it as a no-op alias for "Finish" — end the session immediately. Do **not** re-invoke `practice-grammar-srs.md`, do not rewrite `grammar-state.json`, and do not write a second `.ics` file. This overrides the general Early-exit rule below for this specific prompt only, since persistence for this batch (and the whole session) already happened one step above.
+       - **Early exit:** if the user types "stop" or "end" as a standalone message at any other point mid-session (i.e. not in reply to the last-batch `Study mode / Finish` prompt above), load `practice-grammar-srs.md` and write grammar-state.json and .ics for all scores collected so far, print the partial session summary, and end immediately. "stop" is no longer offered as a named option in the between-batch prompt.
     f. Never skip a batch automatically — always wait for user confirmation before advancing.
-8. **After the last batch** — write the session summary (see **Session summary**).
+8. **After the last batch** — write the session summary (see **Session summary**). For the last batch, steps 8–10 execute inline and automatically as part of step 7e's last-batch branch, immediately after self-evaluation scores are collected — not as a separate phase reached only after a user chooses to finish.
 9. **Persist results** — update `grammar-state.json` (see **Persistence and Calendar sync**).
 10. **Write calendar file** — after writing `grammar-state.json`, write a new timestamped `japanese-grammar-review-<timestamp>.ics` file at the vault root (see **Persistence and Calendar sync**).
 
@@ -438,10 +439,10 @@ On first Study Mode invocation, read `.cowork/skills/practice-grammar-study-mode
 (skip re-reading if already in context). Pass to it:
 - `batch_topics`: list of grammar headers + body_text for topics in the just-completed batch
 - `user_answers`: the user's raw answers for each topic in this batch (keyed by grammar_header)
-- `batch_number` and `num_batches`: so Step 3 knows whether to ask "Next batch" or proceed to post-session
+- `batch_number` and `num_batches`: so Step 3 knows whether to ask "Next batch / Finish" (non-last batch) or simply end the session (last batch — the session was already saved before Study Mode was entered)
 - `is_last_batch`: boolean
 - `vocab_pool`: the session vocab pool (needed for Study Mode exercise generation)
-- `weak_points`: per grammar_point_id weak_points from grammar-state.json (for bias in practice exercises)
+- `weak_points`: per grammar_point_id weak_points, as loaded once at Workflow step 5 (session start) and/or accumulated in memory during the session — never re-read from `grammar-state.json` after persistence
 
 Follow the instructions in that file exactly.
 
@@ -501,8 +502,11 @@ Rules:
 
 ## Persistence and Calendar sync
 
-After the last batch completes (or when the user types "stop"), read
-`.cowork/skills/practice-grammar-srs.md` and follow its instructions.
+For the last batch, this happens immediately upon reaching self-evaluation
+completion for that batch — before the `Study mode / Finish` prompt is shown
+— not after the user chooses to finish. (For an early "stop"/"end" at any
+other point mid-session, this also runs immediately with scores collected so
+far.) Read `.cowork/skills/practice-grammar-srs.md` and follow its instructions.
 Pass to it:
 - `session_scores`: dict keyed by grammar_point_id → `{min_score, weak_points, grammar_header, lesson_file}`
 - `session_grammar_ids`: ordered list of grammar_point_ids practiced this session

@@ -18,6 +18,7 @@
 - [concession-contrast](/JapaneseNotes/grammar-index/concession-contrast) — Patterns expressing a mismatch between expectation and reality — despite/even though something is true, the opposite happens: のに, and related forms.
 - [sensory-perception](/JapaneseNotes/grammar-index/sensory-perception) — Patterns for expressing a sensory quality being perceived — smell, taste, sound, or feeling — arising on its own: がする, and related forms.
 - [comparison](/JapaneseNotes/grammar-index/comparison) — Patterns for comparing two things or ranking the most extreme case — which one is more X, or which one is the most X: のほうが, と比べて, 一番, and related forms.
+- [purpose-reason](/JapaneseNotes/grammar-index/purpose-reason) — Patterns for stating a goal or purpose behind an action — ために, ように, and related forms.
 
 ## Forms & Counters
 

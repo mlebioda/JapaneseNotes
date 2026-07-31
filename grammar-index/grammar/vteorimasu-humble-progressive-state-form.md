@@ -5,7 +5,7 @@ topic_slug: ["humble-expressions", "verb-te-form"]
 function: ["formality"]
 level: N4
 register: polite
-confused_with: ["vteirasshaimasu-respectful-progressive-state-form"]
+confused_with: ["vteirasshaimasu-respectful-progressive-state-form", "teiru-teru-teita-teta-casual-contraction"]
 proofread: true
 ---
 
@@ -40,6 +40,7 @@ Business and formal keigo for describing your own or your in-group's ongoing act
 ## Often confused with
 
 - [V「て形」いらっしゃいます - Respectful (尊敬語) progressive/state form](/JapaneseNotes/grammar-index/grammar/vteirasshaimasu-respectful-progressive-state-form) — test: Is the subject the speaker or the speaker's in-group (→ おります), or someone being honored (→ いらっしゃいます)?
+- [ている → てる / ていた → てた (casual contraction)](/JapaneseNotes/grammar-index/grammar/teiru-teru-teita-teta-casual-contraction) — test: is this humble/kenjougo speech about your own actions to a superior (おります), or casual speech about anyone (drop the い: てる)?
 
 ## See also
 

@@ -146,8 +146,11 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL10-it-is-nice-if-you-could-basketb
 # 文法
 
 ## 条件形（じょうけんけい）- ば - conditional form
+→ [[grammar-index/grammar/joukenkei-ba-conditional-form]]
 
 **Structure:** A ば、B — "If A, then B"
+
+**Register:** the most formal/literary of the four conditionals (ば/たら/と/なら). Common in written Japanese, proverbs, and set expressions (よければ, 〜ば〜のに).
 
 ### Conjugation
 #### Verbs
@@ -201,12 +204,12 @@ Add **であれば** (or なら（ば - often omitted） in casual speech)
 
 #### Nouns
 
-Add **であれば** (or なら（ば - often omitted） in casual speech)
+Add **であれば** (or なら（ば - often omitted） in casual speech). **でしたら** is also common as a polite/formal noun conditional, especially in customer-service Japanese.
 
-| Plain | ば form - formal written | natural, spoken |
-| ----- | ----------------------- | --------------- |
-| 学生    | 学生であれば                  | 学生なら（ば）         |
-| 日本人   | 日本人であれば                 | 日本人なら（ば）        |
+| Plain | ば form - formal written | natural, spoken | polite |
+| ----- | ----------------------- | --------------- | ------ |
+| 学生    | 学生であれば                  | 学生なら（ば）         | 学生でしたら |
+| 日本人   | 日本人であれば                 | 日本人なら（ば）        | 日本人でしたら |
 #### Examples
 #w このボタンを押(お)せば、ドアが開(ひら)きます。 - If you press this button, the door will open.
 
@@ -214,7 +217,17 @@ Add **であれば** (or なら（ば - often omitted） in casual speech)
 
 #w 非常(ひじょう)に不便(ふべん)じゃなければ、引越(ひっこ)しする必要(ひつよう)がありません。 - If it's not extremely inconvenient, there's no need to move.
 
-#w 明日(あした)いい天気(てんき)なら、一緒(いっしょ)に散歩(さんぽ)に行(
+#w 明日(あした)天気(てんき)がよければ、一緒(いっしょ)に散歩(さんぽ)に行(い)きましょう。 - If the weather is nice tomorrow, let's go for a walk together.
+
+#### Usage restriction
+
+ば is awkward when clause B is a deliberate, same-subject volitional action — たら is preferred there:
+- ❌ 家(いえ)に帰(かえ)ればテレビを見(み)ます。
+- ✅ 家(いえ)に帰(かえ)ったらテレビを見(み)ます。 - When I get home, I'll watch TV.
+
+ば works fine with wishes/requests/volitional B when the subjects of A and B differ, or in set expressions:
+- ✅ 明日(あした)天気(てんき)がよければ、一緒(いっしょ)に散歩(さんぽ)に行(い)きましょう。（A's subject: 天気 / B's subject: we）
+- ✅ よければ、一緒(いっしょ)に行(い)きませんか。 - If you'd like, would you come with me?
 
 ### ば vs たら vs と vs なら — comparison
 
@@ -251,6 +264,7 @@ Add **であれば** (or なら（ば - often omitted） in casual speech)
 ---
 
 ## 。。。なら。。。- if
+→ [[grammar-index/grammar/nara-if]]
 
 > In polish: skoro/jesli i tak (A), B, 
 > In english:
@@ -258,20 +272,25 @@ Add **であれば** (or なら（ば - often omitted） in casual speech)
 > 	If you're doing A anyway
 >A - condition
 >B - will of the speaker
+
+**Register:** neutral — used freely in both casual and polite speech, no separate formal variant (unlike ば's であれば).
+
 ### Structure
 - V「dict」  + なら
 - いadj  + なら
 - なadj  + なら
 - N  + なら
 
+**Common mistake:** nouns and な-adjectives attach directly to なら with no だ — 彼なら, not ~~彼だなら~~; 嫌いなら, not ~~嫌いだなら~~.
+
 ### Examples
 
 
-#w 手袋(てぶくろ)を買(か)うなら、駅前(えきまえ)の店(みせ)がいいと思(おも)います。 - If you want to buy gloves, I think the store around the station is good.
+#w 手袋(てぶくろ)を買(か)うなら、駅前(えきまえ)の店(みせ)がいいと思(おも)います。 - If you're going to buy gloves, I think the store around the station is good.
 #w 近(ちか)いなら、歩(ある)いて行(い)きます。 - If it is near, I will walk.
 
 #w 嫌(きら)いなら、もう食(た)べなくてもいいよ。 - If you don't like it, you don't have to eat it any more.
-#w 彼(かれ)なら、きっとできると思(おも)う。 - If it is him, I think he can surely do it.
+#w 彼(かれ)なら、きっとできると思(おも)う。 - If it is him, I think he can surely do it. (topic-marking use: "as for him / speaking of him" — reacting to 彼 as the topic under discussion)
 
 
 ### ば vs たら vs と vs なら — comparison
@@ -289,6 +308,7 @@ Add **であれば** (or なら（ば - often omitted） in casual speech)
 ---
 
 ## Interrogative V conditional form + 　いいですか - ask for opinion or advice
+→ [[grammar-index/grammar/v-ba-iidesuka]]
 
 > What should I do
 
@@ -299,11 +319,22 @@ Add **であれば** (or なら（ば - often omitted） in casual speech)
 
 #w この書類(しょるい)に何(なに)を書(か)けばいいですか。 - What should I write in this document?
 #w コンサートのチケットを買(か)いたいんですが、どこで買(か)えばいいですか。 - I want to buy a concert ticket, but where should I buy it?
-#w 明日(あした)パーティーに参加(さんか)するんだけど、どんな服(ふく)を着(き)ればいいの？ - Tomorrow I will attend a party. What kind of clothes should I wear?
+#w どうしたらいいですか。 - What should I do?
+
+**casual (いいの？ instead of いいですか):**
+#w 明日(あした)パーティーに参加(さんか)するんだけど、どんな服(ふく)を着(き)ればいいの？ - I'm attending a party tomorrow, so what kind of clothes should I wear?
+
+### Often confused with
+
+**「たら」+ いいですか** — equally common alternative to ば, often more natural in spoken Japanese (e.g. どうしたらいいですか). The only difference from ば here is naturalness/frequency — both are neutral conditionals that work fine with questions and advice-seeking.
+
+**なら + いいですか** — なら reacts to an already-stated or assumed premise (行くなら, 買うなら); an open interrogative like 何/どう has no premise to react to, so this combination doesn't occur naturally.
+
 
 ---
 
 ## ために - for (purpose of)
+→ [[grammar-index/grammar/tameni-for-purpose-of]]
 
 > In Polish: żeby, po to żeby, w celu
 
@@ -313,24 +344,36 @@ Add **であれば** (or なら（ば - often omitted） in casual speech)
 | **A (condition)**       | volitional verb (you control it)         | non-volitional verb / potential / negative        |
 | **B (result)**          | action you directly do                   | state that happens / becomes possible             |
 | **Control over result** | ✅ direct                                 | ❌ indirect / not guaranteed                       |
-| **Example**             | 勉強するために練習する — practice in order to study | 上手になるように練習する — practice so that I become good     |
+| **Example**             | 合格(ごうかく)するために勉強(べんきょう)する — study in order to pass | 上手になるように練習する — practice so that I become good     |
 | **Negative form**       | ✅ ないために (in order not to)                | ✅ ないように (so that it doesn't happen) — more common |
 | **Polish**              | żeby zrobić                              | żeby się stało / żeby było możliwe                |
+
+**Note on negative purpose:** ないために only works for a volitional, controllable negative goal — something you can choose to avoid by acting:
+- ✅ 遅刻(ちこく)しないために早(はや)く家(いえ)を出(で)る。 - I leave home early so as not to be late.
+- ❌ 忘(わす)れないために → ✅ 忘(わす)れないようにメモをする。 - I take notes so as not to forget. (forgetting isn't something you directly control, so ように is required here)
 
 ### Structure
 - V「dict」＋ ために
 - N　の ために
 
+### Benefactive use — "for the sake of / for the benefit of"
+
+N + の + ために can also mean "for someone/something's sake," where the beneficiary is a different subject from the one acting — not just "in order to" with a shared subject:
+
+#w 家族(かぞく)のために働(はたら)く。 - I work for my family's sake.
+#w 健康(けんこう)のために毎日(まいにち)運動(うんどう)する。 - I exercise every day for the sake of my health.
+
 ### Examples
 
 #w 世界旅行(せかいりょこう)のために、一生懸命(いっしょうけんめい)働(はたら)いて、お金(かね)を貯(た)めています。 - I am working hard and saving money for traveling around the world.
 
-#w ラジさんはインド工場(こうじょう)を作(つく)るために、インドに出張(しゅっちょう)に行(い)った。 - Raj went (on busiess) to India to set up an Indian factory.
+#w ラジさんはインド工場(こうじょう)を作(つく)るために、インドに出張(しゅっちょう)に行(い)った。 - Raj went (on business) to India to set up an Indian factory.
 
 #w 将来(しょうらい)日本(にほん)で働(はたら)くために、日本語(にほんご)を勉強(べんきょう)しています。 - I am studying Japanese for the purpose of working in Japan in the future.
 
 ---
 ## V「て-form」くる / きた / いく — action continuing over time
+→ [[grammar-index/grammar/te-kuru-kita-iku]]
 
 Expresses an action or change that has been building up over a period of time.
 
@@ -351,6 +394,8 @@ past ────────────────●────────
 | 日本語(にほんご)を勉強(べんきょう)してきた。 | I have been studying Japanese (up to now).                  |
 | 日本語を勉強する人(ひと)が増(ふ)えてきた。  | The number of people studying Japanese has been increasing. |
 | これから日本語(にほんご)を勉強(べんきょう)していきます。 | I will keep studying Japanese from now on.                  |
+| 雨(あめ)が降(ふ)ってきた。 | It has started raining. (non-literal てくる — change emerging now) |
+| コンビニで飲(の)み物(もの)を買(か)ってきます。 | I'll go buy a drink (and come back). (literal てくる — round trip) |
 
 Note: this is **not** physical movement — くる/きた/いく here mark the time direction of an accumulating change, not literal coming/going. Compare:
 - ている — describes a current state or ongoing action (snapshot)
@@ -362,8 +407,11 @@ Note: this is **not** physical movement — くる/きた/いく here mark the t
 #w 日本語(にほんご)を勉強(べんきょう)してきた - I have been studying Japanese (up to now).
 #w 日本語を勉強する人(ひと)が増(ふ)えてきた - The number of people studying Japanese has been increasing.
 #w これから日本語(にほんご)を勉強(べんきょう)していきます - I will keep studying Japanese from now on.
+#w 雨(あめ)が降(ふ)ってきた - It has started raining.
+#w コンビニで飲(の)み物(もの)を買(か)ってきます - I'll go buy a drink (and come back).
 
 ## ている → てる / ていた → てた (casual contraction)
+→ [[grammar-index/grammar/teiru-teru-teita-teta-casual-contraction]]
 
 In casual spoken Japanese, **ている** and **ていた** are commonly contracted by dropping the い.
 
@@ -374,19 +422,25 @@ In casual spoken Japanese, **ている** and **ていた** are commonly contract
 | 言っていた | 言ってた | was saying / used to say |
 | やっていた | やってた | was doing / used to do |
 | 勉強していた | 勉強してた | was studying |
+| 遊(あそ)んでいる | 遊(あそ)んでる | to be playing |
+
+The same "drop the い" rule applies equally to で-form verbs (nu/bu/mu group: 読んでいる→読んでる, 死んでいる→死んでる), not just って-form ones.
 
 The **よ** particle at the end adds an assertive/informing tone — "you know" or "I'll have you know."
 
 **Example:**
 - クラブ活動(かつどう)でやっていたよ。→ やってたよ。
-- I used to do it as a club activity (you know).
+- I had played basketball as a club activity. (よ adds an assertive/informing tone here — "you know")
 
 This contraction is casual speech only — avoid in formal writing or polite situations.
+
+**Related contraction:** ておく→とく (e.g. 買っておく→買っとく — "buy it in advance") follows a different pattern (drops お, not い) but is commonly learned alongside this one.
 
 # Vocabulary
 
 ## はっきり
-### Meanings
+→ [[grammar-index/grammar/vocabulary/Nouns/hakkiri]]
+### Meaning
 
 ####  clearly
 #w はっきり見える - to see clearly
@@ -394,9 +448,9 @@ This contraction is casual speech only — avoid in formal writing or polite sit
 #### obvious
 #w 原因（げんいん）ははっきりしている - the reason is obvious
 
-#### clearly / clearly defined / sharp - mood or physical condition is uplifted
+#### clearly / clearly defined / sharp - mental clarity, becoming lucid or sharp-minded
 #w 頭（あたま）がはっきりする - to think clearly
-#w 気分(げんき)がはっきりする - to be comfortable
+#w 意識（いしき）がはっきりする - to regain clear consciousness
 
 
 # Summary
@@ -404,7 +458,7 @@ This contraction is casual speech only — avoid in formal writing or polite sit
  ---
 
 
-it would be nice if you could play basketball again #card
+it would be nice if you could play basketball again | a hopeful hypothetical wish — formal/logical tone, not reacting to an existing plan #card
 また、バスケットボールができればいいですね
 <!--ID: 1782213671833-->
 
@@ -1194,21 +1248,21 @@ I have been studying Japanese very hard. #k #card
 <!--ID: 1782213671915-->
 
 
-If you press this button, the door will open. #k #card
+If you press this button, the door will open. | a general hypothetical condition, formal/logical framing #k #card
 このボタンを押(お)せば、ドアが開(ひら)きます。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_押.html">押</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_開.html">開</a>
 <!--ID: 1782213671916-->
 
 
-If this cake is delicious, I will go to buy it again. #k #card
+If this cake is delicious, I will go to buy it again. | hypothetical judgment about quality, formal/logical tone #k #card
 このケーキがおいしければ、また買(か)いに行(い)きます。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1782213671917-->
 
 
-If it's not extremely inconvenient, there's no need to move. #k #card
+If it's not extremely inconvenient, there's no need to move. | hypothetical negative condition, formal tone #k #card
 非常(ひじょう)に不便(ふべん)じゃなければ、引越(ひっこ)しする必要(ひつよう)がありません。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_非.html">非</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_常.html">常</a>
@@ -1221,7 +1275,7 @@ If it's not extremely inconvenient, there's no need to move. #k #card
 <!--ID: 1782213671918-->
 
 
-If you want to buy gloves, I think the store around the station is good. #k #card
+If you want to buy gloves, I think the store around the station is good. | reacting to a plan you've just mentioned, not a general hypothetical #k #card
 手袋(てぶくろ)を買(か)うなら、駅前(えきまえ)の店(みせ)がいいと思(おも)います。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_袋.html">袋</a>
@@ -1233,7 +1287,7 @@ If you want to buy gloves, I think the store around the station is good. #k #car
 <!--ID: 1782213671919-->
 
 
-If it is near, I will walk. #k #card
+If it is near, I will walk. | responding to an already-stated situation #k #card
 近(ちか)いなら、歩(ある)いて行(い)きます。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_近.html">近</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
@@ -1241,21 +1295,21 @@ If it is near, I will walk. #k #card
 <!--ID: 1782213671920-->
 
 
-If you don't like it, you don't have to eat it any more. #k #card
+If you don't like it, you don't have to eat it any more. | responding to the listener's stated preference #k #card
 嫌(きら)いなら、もう食(た)べなくてもいいよ。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_嫌.html">嫌</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1782213671921-->
 
 
-If it is him, I think he can surely do it. #k #card
+If it is him, I think he can surely do it. | topic-reacting: "as for him / speaking of him" #k #card
 彼(かれ)なら、きっとできると思(おも)う。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
 <!--ID: 1782213671922-->
 
 
-What should I write in this document? #k #card
+What should I write in this document? | neutral advice-seeking question, slightly more literary tone #k #card
 この書類(しょるい)に何(なに)を書(か)けばいいですか。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_類.html">類</a>
@@ -1263,13 +1317,13 @@ What should I write in this document? #k #card
 <!--ID: 1782213671923-->
 
 
-I want to buy a concert ticket, but where should I buy it? #k #card
+I want to buy a concert ticket, but where should I buy it? | neutral advice-seeking question, slightly more literary tone #k #card
 コンサートのチケットを買(か)いたいんですが、どこで買(か)えばいいですか。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1782213671924-->
 
 
-Tomorrow I will attend a party. What kind of clothes should I wear? #k #card
+Tomorrow I will attend a party. What kind of clothes should I wear? | casual advice-seeking, dropped ですか #k #card
 明日(あした)パーティーに参加(さんか)するんだけど、どんな服(ふく)を着(き)ればいいの？
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1280,7 +1334,7 @@ Tomorrow I will attend a party. What kind of clothes should I wear? #k #card
 <!--ID: 1782213671925-->
 
 
-I am working hard and saving money for traveling around the world. #k #card
+I am working hard and saving money for traveling around the world. | noun-based purpose (世界旅行 is a goal-noun, not a verb clause) #k #card
 世界旅行(せかいりょこう)のために、一生懸命(いっしょうけんめい)働(はたら)いて、お金(かね)を貯(た)めています。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_界.html">界</a>
@@ -1296,7 +1350,7 @@ I am working hard and saving money for traveling around the world. #k #card
 <!--ID: 1782213671926-->
 
 
-Raj went (on business) to India to set up an Indian factory. #k #card
+Raj went (on business) to India to set up an Indian factory. |  same-subject purpose — a direct, controllable goal #k #card
 ラジさんはインド工場(こうじょう)を作(つく)るために、インドに出張(しゅっちょう)に行(い)った。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_工.html">工</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
@@ -1307,7 +1361,7 @@ Raj went (on business) to India to set up an Indian factory. #k #card
 <!--ID: 1782213671927-->
 
 
-I am studying Japanese for the purpose of working in Japan in the future. #k #card
+I am studying Japanese for the purpose of working in Japan in the future. | same-subject purpose — a direct, controllable goal #k #card
 将来(しょうらい)日本(にほん)で働(はたら)くために、日本語(にほんご)を勉強(べんきょう)しています。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_将.html">将</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
@@ -1318,6 +1372,32 @@ I am studying Japanese for the purpose of working in Japan in the future. #k #ca
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勉.html">勉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <!--ID: 1782213671928-->
+
+
+I study in order to pass. | same-subject purpose (clearer than the ambiguous 勉強するために練習する original) #k #card
+合格(ごうかく)するために勉強(べんきょう)する
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_格.html">格</a>
+<!--ID: 1785486299797-->
+
+
+
+I work for my family's sake. | beneficiary differs from the one acting #k #card
+家族(かぞく)のために働(はたら)く。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
+<!--ID: 1785486299799-->
+
+
+
+I exercise every day for the sake of my health. |  goal is a noun (health), not an action you directly perform #k #card
+健康(けんこう)のために毎日(まいにち)運動(うんどう)する。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_健.html">健</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_康.html">康</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
+<!--ID: 1785486299801-->
+
 
 
 I have been studying Japanese (up to now). #k #card
@@ -1338,6 +1418,23 @@ The number of people studying Japanese has been increasing. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勉.html">勉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<!--ID: 1785498897390-->
+
+
+
+It has started raining. | a change becoming noticeable right now #k #card
+雨(あめ)が降(ふ)ってきた。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
+<!--ID: 1785486299803-->
+
+
+
+I'll go buy a drink (and come back). | literal てくる — round trip toward "here" #k #card
+コンビニで飲(の)み物(もの)を買(か)ってきます。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飲.html">飲</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_増.html">増</a>
 <!--ID: 1782213671930-->
 
@@ -1361,11 +1458,12 @@ to think clearly #k #card
 <!--ID: 1782213671933-->
 
 
-to feel refreshed / clear-headed #k #card
-気分(きぶん)がはっきりする
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
-<!--ID: 1782213671934-->
+to regain clear consciousness #k #card
+意識（いしき）がはっきりする
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_識.html">識</a>
+<!--ID: 1785486299804-->
+
 
 
 

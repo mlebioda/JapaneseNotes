@@ -224,7 +224,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL9-you-dont-have-to-wear-suite-to-c
 #w さあ、わたしもよくわかりません。 - Well, I am not really sure either.
 #w A: 山田（やまだ）さんを知（し）っている B:  さあ - A: Do you know Yamada? No, I don't (interjection)
 
-遠慮(えんりょ)しなくても「いいですよ・かまいません」。  Please help yourself. (polite and less polite)
+遠慮(えんりょ)しなくても「いいですよ・かまいません」。  Please help yourself. (いいですよ: everyday polite / かまいません: more formal-polite)
 
 # 文法
 
@@ -242,11 +242,14 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL9-you-dont-have-to-wear-suite-to-c
 | 必要がある                    | Vdict + 必要がある      | There is a need to                         | ★★★                       | UN4GL9       |
 | **なくてもいいです/ なくてもかまいません** | **Vない + なくてもいいです** | **Don't have to / no need**                | **✗ negative obligation** | **UN5GL14 ** |
 | てもいいです                   | Vて + もいいです         | It's okay to / you may (permission)        | ✓ permission              | UN5GL7       |
+
+**Note on はずです's place in this table:** unlike the other rows, はずです isn't a weaker "must" — it's a different kind of modality entirely. The must/have-to/advice/permission rows are all *deontic* (they tell someone what to do or is allowed to do). はずです is *epistemic*: it states the speaker's confident logical expectation about a state of affairs ("X should logically be true"), not an instruction or recommendation. Don't read it as "a softer should."
+
 ### Structure
 
 Positive:
 - **V「dict」 +  はずです**
-	-  佐藤(さとう)さんは英語教師(えいごきょうし)なので、英語(えいご)が話(はな)せるはずです。 - Mr. Sato is an English language teacher, so he should be able to speak English.
+	-  佐藤(さとう)さんは英語教師(えいごきょうし)なので、英語(えいご)が話(はな)せるはずです。 - Mr. Sato is an English language teacher, so he should be able to speak English. (話せる is itself the dictionary form of the potential verb — はずです just attaches to whatever the final plain form is, including potential/passive/causative conjugations)
 - **いadj       +   はずです**
 	- さっき暖房(だんぼう)をつけたから、部屋(へや)が暖(あたた)かいはずだ。 - I turned on the heater a little while ago, so the room ought to be warm.
 - **なadj + な + はずです**
@@ -254,12 +257,17 @@ Positive:
 - **N + の   +     はずです**
 	- 今日(きょう)は祝日(しゅくじつ)だから、銀行(ぎんこう)は休(やす)みのはずです。 - Because today is a holiday, the bank should be closed.
 **Negative**
-- for all types - はずがない/はずではありません  instead of はずです
-	- 彼（かれ）は出（で）かけたばかりで、こんなに早（はや）く戻（もど）るはずばがない - He just went out. He couldn't come back so quickly
+- for all types - はずがない/はずではありません  instead of はずです — but these two aren't simple interchangeable synonyms:
+	- **はずがない** = "there's no way / it's impossible" — a strong logical negation
+	- **はずではない/はずではありません** = "it wasn't supposed to be the case" — contrary to an earlier expectation or plan (softer, about a broken assumption, not logical impossibility)
+	- 彼（かれ）は出（で）かけたばかりで、こんなに早（はや）く戻（もど）るはずがない - He just went out. He couldn't come back so quickly (impossible)
+	- こんなに難（むずか）しいテストになるはずではなかった。 - This test wasn't supposed to be this hard. (contrary to expectation)
 
 
 ### Examples
-#w 彼（かれ）は出（で）かけたばかりで、こんなに早（はや）く戻（もど）るは**ずばがない** - He just went out. He **couldn't** come back so quickly
+#w 彼（かれ）は出（で）かけたばかりで、こんなに早（はや）く戻（もど）るは**ずがない** - He just went out. He **couldn't** come back so quickly
+
+#w こんなに難（むずか）しいテストになる**はずではなかった**。 - This test **wasn't supposed to be** this hard.
 
 #w 佐藤(さとう)さんは英語教師(えいごきょうし)なので、英語(えいご)が話(はな)せる**はずです**。 - Mr. Sato is an English language teacher, so he **should be able** to speak English.
 
@@ -287,27 +295,30 @@ Positive:
 
 ### Structure
 - V「ない」なくてもいいです　・なくてもいい
-- V「ない」なくてもかまいません　・なくてもかまわない　- politer way of なくてもいい
+- V「ない」なくてもかまいません　・なくてもかまわない　- more formal/polite than なくてもいい; common in writing, business contexts, or when checking you won't inconvenience someone
 
 ### Examples
 
-#w お茶(ちゃ)をどうぞ。遠慮(えんりょ)しなくても「いいですよ・かまいません」。 - Here is some tea. Please help yourself. (polite and less polite)
-#w 明日(あした)スーツを着(き)てこなくてもいいですか・かまいませんか」。 - Don't I have to wear (come wearing suit) a suit tomorrow? (polite and less polite)
-#w このメールに返事(へんじ)をしなくてもいい・かまわない」。 - You don't have to reply to this email. (polite and less polite, short)
+#w お茶(ちゃ)をどうぞ。遠慮(えんりょ)しなくても「いいですよ・かまいません」。 - Here is some tea. Please help yourself. (いいですよ: everyday polite / かまいません: more formal-polite)
+#w 明日(あした)スーツを着(き)てこなくても「いいですか・かまいませんか」。 - Is it okay if I don't wear a suit tomorrow? (いいですか: everyday polite / かまいませんか: more formal-polite, deferential)
+#w このメールに返事(へんじ)をしなくても「いい・かまわない」。 - You don't have to reply to this email. (casual/plain forms of いい・かまわない)
 
 ---
 ## なくてはなりません・なければなりません - must, have to
 
 ### Structure
-Both same meaning
+Largely interchangeable — なければなりません leans slightly more formal/written (general rule), なくてはならない can feel a touch more personal/emphatic, but at this level treat them as equivalent.
 - V「ない」なくてはなりません
 - V「ない」なければなりません
+
+Also applies to い-adjectives/な-adjectives/nouns via である: 静(しず)かでなければならない。 - It must be quiet.
 
 ### Examples
 
 #w 明日(あした)台風(たいふう)が来(く)るので、イベントは中止(ちゅうし)しなくてはなりません。 - Because a typhoon will come tomorrow, the event has to be cancelled.
 #w 結婚式(けっこんしき)までに指輪(ゆびわ)を用意(ようい)しなくてはなりません。 - I must prepare the ring before the wedding ceremony.
 #w 目(め)が悪(わる)いから、毎日(まいにち)めがねをかけなくてはならない。 - Since I have poor eyesight, I have to wear glasses every day.
+#w 電車(でんしゃ)に間(ま)に合(あ)うように、早(はや)く家(いえ)を出(で)なければなりません。 - I must leave home early so as to catch the train.
 
 ---
 
@@ -316,7 +327,9 @@ Both same meaning
 > To indicate doing something as planned or instructed
 
 ### Structure
-- V「た」 通りに。。。（と）
+- V「dict」 通りに。。。（と） - a general/habitual pattern ("as X always says/does")
+	- 先生(せんせい)が言(い)うとおりに書(か)いてください。 - Please write as the teacher says (in general).
+- V「た」 通りに。。。（と） - one specific completed instance ("as X did/said that one time")
 	- わたしが書(か)いたとおりに、書(か)いてください。 - Please write exactly as I have written.
 - N の　　通りに。。。（と）
 	- 予定(よてい)のとおり、9時(じ)に集合(しゅうごう)します。 - As planned, we will gather at 9 o'clock.
@@ -330,9 +343,9 @@ Both same meaning
 
 ### Examples
 
-#w 通り（と）に - exactly as, as, just like
+#w 先生(せんせい)が言(い)**うとおりに**書(か)いてください。 - Please write as the teacher says. (general/habitual — dict form)
 
-#w わたしが書(か)い**たとおりに**、書(か)いてください。 - Please write exactly as I have written.
+#w わたしが書(か)い**たとおりに**、書(か)いてください。 - Please write exactly as I have written. (one specific instance — た form)
 
 #w 「**予定(よてい)どおり/予定(よてい)のとおり**」、9時(じ)に集合(しゅうごう)します。 - As planned, we will gather at 9 o'clock.  (2 readings)
 
@@ -347,9 +360,12 @@ Both same meaning
 ## のに。。。- for, to (to indicate the application of purpose)
 
 > Purpose of use
+
+**Don't confuse with contrastive のに ("even though / despite"):** that's a completely different, much more common grammar point using the identical spelling. This purpose/utility のに only appears before 使う・役に立つ・便利・いい・悪い and means "useful for / for the purpose of ~ing," not "even though."
+
 ### Structure
-- V「dict」 + のに。。。 - (V + の - nominalization)
-- N + のに。。。
+- V「dict」 + のに。。。 - (V + の - nominalization; verbs need の since they aren't already nominal)
+- N + に。。。 - nouns attach directly with just に (no の — a noun is already nominal, so no nominalization is needed)
 
 Often used with:
 - 使う（つか）、
@@ -360,8 +376,8 @@ Often used with:
 
 ### Examples
 
-#w スマートフォンは道(みち)を調(しら)べる**のに**とても便利(べんり)です。 - Smart phones are very convenient **for** searching roads.
-#w お酒(さけ)を飲(の)みすぎると、体(からだ)**に**よくないです。 - If you drink too much alcohol, it is not good **for** your health.
+#w スマートフォンは道(みち)を調(しら)べる**のに**とても便利(べんり)です。 - Smart phones are very convenient **for** looking up directions.
+#w お酒(さけ)を飲(の)みすぎると、体(からだ)**に**よくないです。 - If you drink too much alcohol, it is not good **for** your health. (N + に, no の)
 #w この写真(しゃしん)はレポートを作(つく)る**のに**使(つか)いたいです。 - I want to use this picture **for** (make) my report.
 
 
@@ -395,24 +411,27 @@ Often used with:
 
  #w 明日（あした）は休（やす）みだが、学校（がっこう）に行（い）く**必要**（ひつよう）がある - Tomorrow is a day off, but **there is need** to go to school
  
-#w あの子(こ)におもちゃを買(か)ってあげたから、新(あたら)しいおもちゃを買(か)う必要(**ひつよう)がない。 - Since I bought that child a toy, there is no need to buy a new toy.
+#w あの子(こ)におもちゃを買(か)ってあげたから、新(あたら)しいおもちゃを買(か)う**必要**(ひつよう)がない。 - Since I bought that child a toy, there is no need to buy a new toy.
 
 ---
 #### used as a な adjective - essential/necessary
 ##### Structure
-- N＋が＋必要（ひつよう）
+- N＋が＋必要（ひつよう） - predicative use ("N is necessary")
 	- お金(かね)が必要(ひつよう)です。 - Money is **necessary**.
+- 必要（ひつよう）な＋N - attributive use ("necessary N"), the defining な-adjective pattern
+	- 必要（ひつよう）な書類（しょるい） - necessary documents
 ##### Examples
 
 #w お金(かね)が**必要(**ひつよう)です。 - Money is **necessary**.
 #w めがねが**必要**(ひつよう)になった。 - I came to need glasses. / Glasses became **necessary**.
+#w 新入生(しんにゅうせい)に**必要**(ひつよう)な書類(しょるい) - documents necessary for new students
 
 #wp 必要(ひつよう) - essential / necessary
 
 ---
 ## Verbs
 
-### かける - to wear (glasses)
+### かける - multi-use verb (hang/pour, attach, lock, wear, sit, phone)
 
 #### Use cases
 
@@ -433,8 +452,13 @@ Often used with:
 #wc かける - Put something in a removable position
 #w めがね**を**かける - to wear glasses
 
-##### to sit down on a chair 
+##### to sit down on a chair
+#wc かける - to sit down on a chair (more formal/polite than 座る, e.g. どうぞおかけください - "please have a seat")
 #w 椅子(いす)**に**かける - to sit on a chair
+
+##### to make a phone call
+#wc かける - to make a phone call
+#w 友達(ともだち)**に**電話(でんわ)をかける。 - to make a phone call to a friend.
 
 
 
@@ -1732,13 +1756,21 @@ A: 山田（やまだ）さんを知（し）っている B: さあ
 <!--ID: 1781717354917-->
 
 
-He just went out. He couldn't come back so quickly #k #card
-彼（かれ）は出（で）かけたばかりで、こんなに早（はや）く戻（もど）るはずばがない
+He just went out. He couldn't come back so quickly | はずがない — no way, logically impossible #k #card
+彼（かれ）は出（で）かけたばかりで、こんなに早（はや）く戻（もど）るはずがない
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_戻.html">戻</a>
 <!--ID: 1781717354918-->
+
+
+This test wasn't supposed to be this hard. | はずではなかった — contrary to an earlier expectation, not logical impossibility #k #card
+こんなに難（むずか）しいテストになるはずではなかった。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_難.html">難</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
+<!--ID: 1785486299789-->
+
 
 
 Mr. Sato is an English language teacher, so he should be able to speak English. #k #card
@@ -1785,7 +1817,7 @@ Because today is a holiday, the bank should be closed. #k #card
 <!--ID: 1781717354922-->
 
 
-Here is some tea. Please help yourself. (polite and less polite) #k #card
+Here is some tea. Please help yourself. (いいですよ: everyday polite / かまいません: more formal-polite) #k #card
 お茶(ちゃ)をどうぞ。遠慮(えんりょ)しなくても「いいですよ・かまいません」。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_茶.html">茶</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遠.html">遠</a>
@@ -1793,16 +1825,16 @@ Here is some tea. Please help yourself. (polite and less polite) #k #card
 <!--ID: 1781717354923-->
 
 
-Don't I have to wear (come wearing suit) a suit tomorrow? (polite and less polite) #k #card
-明日(あした)スーツを着(き)てこなくてもいいですか・かまいませんか」。
+Is it okay if I don't wear a suit tomorrow? (いいですか: everyday polite / かまいませんか: more formal-polite, deferential) #k #card
+明日(あした)スーツを着(き)てこなくても「いいですか・かまいませんか」。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_着.html">着</a>
 <!--ID: 1781717354924-->
 
 
-You don't have to reply to this email. (polite and less polite, short) #k #card
-このメールに返事(へんじ)をしなくてもいい・かまわない」。
+You don't have to reply to this email. (casual/plain forms of いい・かまわない) #k #card
+このメールに返事(へんじ)をしなくても「いい・かまわない」。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_返.html">返</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
 <!--ID: 1781717354925-->
@@ -1841,13 +1873,16 @@ Since I have poor eyesight, I have to wear glasses every day. #k #card
 <!--ID: 1781717354928-->
 
 
-exactly as, as, just like #k #card
-通り（と）に
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_通.html">通</a>
-<!--ID: 1781717354929-->
+Please write as the teacher says. | general/habitual — dict form とおりに #k #card
+先生(せんせい)が言(い)うとおりに書(か)いてください。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
+<!--ID: 1785486299793-->
 
 
-Please write exactly as I have written. #k #card
+
+Please write exactly as I have written. | one specific instance — た form とおりに #k #card
 わたしが書(か)いたとおりに、書(か)いてください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1781717354930-->
@@ -1901,7 +1936,7 @@ Please do it exactly like this. #card
 <!--ID: 1781717354935-->
 
 
-Smart phones are very convenient for searching roads. #k #card
+Smart phones are very convenient for looking up directions. #k #card
 スマートフォンは道(みち)を調(しら)べるのにとても便利(べんり)です。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_調.html">調</a>
@@ -1965,6 +2000,19 @@ I came to need glasses. / Glasses became necessary. #card
 <!--ID: 1781717354942-->
 
 
+documents necessary for new students | attributive な-adjective use (必要な＋N) #k #card
+新入生(しんにゅうせい)に必要(ひつよう)な書類(しょるい)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_必.html">必</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_要.html">要</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_類.html">類</a>
+<!--ID: 1785486299794-->
+
+
+
 put something on the top #card
 ほんやく: かける
 ます形: かけます
@@ -2015,11 +2063,21 @@ to wear glasses #card
 <!--ID: 1781717354948-->
 
 
-to sit on a chair #k #card
+to sit on a chair | more formal/polite than 座る #k #card
 椅子(いす)にかける
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_椅.html">椅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <!--ID: 1781717354949-->
+
+
+to make a phone call to a friend #k #card
+友達(ともだち)に電話(でんわ)をかける。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
+<!--ID: 1785486299795-->
+
 
 
 

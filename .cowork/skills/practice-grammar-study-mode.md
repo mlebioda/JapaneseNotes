@@ -14,9 +14,9 @@ description: >
 - `batch_topics`: list of grammar headers + body_text for the completed batch
 - `user_answers`: user's raw answers for each topic, keyed by grammar_header
 - `batch_number` / `num_batches`: current batch position
-- `is_last_batch`: boolean — controls whether Step 3 asks "Next batch" or proceeds to post-session
+- `is_last_batch`: boolean — controls whether Step 3 asks "Next batch / Finish" (non-last batch) or ends the session (last batch — already saved)
 - `vocab_pool`: the session vocab pool (needed for Study Mode exercise generation)
-- `weak_points`: per grammar_point_id weak_points from grammar-state.json (for bias in practice exercises)
+- `weak_points`: per grammar_point_id weak_points, as loaded once at Workflow step 5 (session start) and/or accumulated in memory during the session — never re-read from `grammar-state.json` after persistence
 
 ---
 
@@ -40,7 +40,7 @@ Reply with number(s), topic name(s), or "none" to skip.
 ```
 
 - The user may name any subset (e.g. "1 3", "Counter 本", "all").
-- "None" or empty reply → treat as skipping the topic loop entirely and jump directly to Step 3. Step 3 already handles both cases (non-last batch: ask "Next batch / Finish"; last batch: proceed to post-session). Do not re-present the between-batch prompt.
+- "None" or empty reply → treat as skipping the topic loop entirely and jump directly to Step 3. Step 3 already handles both cases (non-last batch: ask "Next batch / Finish"; last batch: end the session — already saved). Do not re-present the between-batch prompt.
 - If the user names a topic not in the current batch list, reply: "That topic is not in this batch. Please choose from the numbered list." and re-present the prompt once. If still not recognized: skip silently.
 
 Selected topics are processed in the order the user listed them (or in batch order if "all").
@@ -150,9 +150,9 @@ When all selected topics have been processed (or the user chose "none"):
 - If not the last batch: ask `Next batch / Finish`
   - "Next batch" → continue to batch B+1.
   - "Finish" → proceed to post-session (write state + calendar) with all scores collected so far.
-- If the last batch: proceed directly to post-session (write state + calendar).
+- If the last batch: the session was already saved before Study Mode was entered — end the session now. Do **not** re-invoke `practice-grammar-srs.md`, do not rewrite `grammar-state.json`, and do not write a second `.ics` file. There is nothing further to persist.
 
-The "Finish" option in Step 3 is a full early exit — load `practice-grammar-srs.md`, write grammar-state.json and .ics for all scores collected so far, print the session summary, and end.
+The "Finish" option in the non-last-batch case above is a full early exit — load `practice-grammar-srs.md`, write grammar-state.json and .ics for all scores collected so far, print the session summary, and end. (This does not apply to the last-batch case above, which never re-persists.)
 
 ---
 

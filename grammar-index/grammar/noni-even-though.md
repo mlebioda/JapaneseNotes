@@ -5,6 +5,7 @@ topic_slug: ["concession-contrast"]
 function: []
 level: N4
 register: neutral
+confused_with: ["tameni-for-purpose-of"]
 proofread: true
 ---
 
@@ -43,6 +44,10 @@ Creates a complex sentence between conflicting contexts, revealing the speaker's
 
 Register: neutral
 - Used in both casual and polite speech — the surrounding grammar can be made formal — but the regret/complaint/surprise nuance persists regardless of register, so it can sound blunt or accusatory toward superiors unless softened by the rest of the sentence.
+
+## Often confused with
+
+- [ために - for (purpose of)](/JapaneseNotes/grammar-index/grammar/tameni-for-purpose-of) — test: does the clause express an unexpected contrast between two facts (のに) or a purpose/goal being pursued (ために)?
 
 ## See also
 

@@ -428,11 +428,11 @@ Structure:
 	- ケーキをくださいました - I was given cake
 	- 先輩(せんぱい)はランチを奢(おご)ってくださいました - My senior treated me to lunch
 
-#w 手紙をいただきました (てがみ) - I received a letter #kenjougo
-#w 社長(しゃちょう)に会議(かいぎ)に出席(しゅっせき)していただきました - prezes wziął udział w spotkaniu (zaszczycił obecnością) #kenjougo
-#w お客様に お名前を 書いて いただきます (きゃくさま、か) - Could you (customer) write your name, please? #kenjougo
-#w ケーキをくださいました - I was given cake #sonkeigo
-#w 先輩(せんぱい)はランチを奢(おご)ってくださいました - My senior treated me to lunch #sonkeigo
+#w 手紙をいただきました (てがみ) - I received a letter | receiving something from someone above you (boss, teacher, client) #kenjougo
+#w 社長(しゃちょう)に会議(かいぎ)に出席(しゅっせき)していただきました - prezes wziął udział w spotkaniu (zaszczycił obecnością) | describing a superior's action, spoken humbly by you about them #kenjougo
+#w お客様に お名前を 書いて いただきます (きゃくさま、か) - Could you (customer) write your name, please? | staff staying humble about themselves while describing the customer's action, not elevating the customer directly #kenjougo
+#w ケーキをくださいました - I was given cake | someone above you graciously did something for you #sonkeigo
+#w 先輩(せんぱい)はランチを奢(おご)ってくださいました - My senior treated me to lunch | praising a senior's kind act toward you #sonkeigo
 
 ---
 
@@ -443,9 +443,9 @@ Structure:
 		- ケーキの作(つく)り方を教(おし)えてくださいませんか - Could you please teach me how to bake a cake? #sonkeigo 
 	- て形＋　いただきませんか - co  
 
-#w 展覧会(てんらんかい)の準備(じゅんび)を手伝(てつだ)ってくださいませんか - Could you please help me prepare for the exhibition? #sonkeigo 
-#w おいしい お店(みせ)を紹介(しょうかい)してくださいませんか - Could you please introduce me to some delicious stores? #sonkeigo
-#w お金(かね)を少(すこ)し貸(か)してくださいませんか - Would you lend me some money?  #sonkeigo 
+#w 展覧会(てんらんかい)の準備(じゅんび)を手伝(てつだ)ってくださいませんか - Could you please help me prepare for the exhibition? | asking a favor from your boss or a client #sonkeigo
+#w おいしい お店(みせ)を紹介(しょうかい)してくださいませんか - Could you please introduce me to some delicious stores? | polite favor-request to someone above you or not close to you #sonkeigo
+#w お金(かね)を少(すこ)し貸(か)してくださいませんか - Would you lend me some money? | formal, distant favor-request — not how you'd ask a close friend #sonkeigo
 
 
 ---
@@ -2168,7 +2168,7 @@ May I ask who you are? #sonkeigo #card
 <!--ID: 1784123172655-->
 
 
-I received a letter #kenjougo #k #card
+I received a letter | receiving something from someone above you (boss, teacher, client) #kenjougo #k #card
 手紙をいただきました (てがみ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紙.html">紙</a>
@@ -2186,7 +2186,7 @@ The president was gracious enough to attend the meeting #kenjougo #k #card
 <!--ID: 1784123172657-->
 
 
-I will have you (the customer) write your name. #kenjougo #k #card
+Could you (customer) write your name, please? | staff staying humble about themselves while describing the customer's action, not elevating the customer directly #kenjougo #k #card
 お客様に お名前を 書いて いただきます (きゃくさま、か)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_客.html">客</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_様.html">様</a>
@@ -2196,12 +2196,12 @@ I will have you (the customer) write your name. #kenjougo #k #card
 <!--ID: 1784123172658-->
 
 
-I was given cake #sonkeigo #card
+I was given cake | someone above you graciously did something for you #sonkeigo #card
 ケーキをくださいました
 <!--ID: 1784123172659-->
 
 
-My senior treated me to lunch #sonkeigo #k #card
+My senior treated me to lunch | praising a senior's kind act toward you #sonkeigo #k #card
 先輩(せんぱい)はランチを奢(おご)ってくださいました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_輩.html">輩</a>
@@ -2209,7 +2209,7 @@ My senior treated me to lunch #sonkeigo #k #card
 <!--ID: 1784123172660-->
 
 
-Could you please help me prepare for the exhibition? #sonkeigo #k #card
+Could you please help me prepare for the exhibition? | asking a favor from your boss or a client #sonkeigo #k #card
 展覧会(てんらんかい)の準備(じゅんび)を手伝(てつだ)ってくださいませんか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_展.html">展</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_覧.html">覧</a>
@@ -2221,7 +2221,7 @@ Could you please help me prepare for the exhibition? #sonkeigo #k #card
 <!--ID: 1784123172661-->
 
 
-Could you please introduce me to some delicious stores? #sonkeigo #k #card
+Could you please introduce me to some delicious stores? | polite favor-request to someone above you or not close to you #sonkeigo #k #card
 おいしい お店(みせ)を紹介(しょうかい)してくださいませんか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_店.html">店</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_紹.html">紹</a>
@@ -2229,7 +2229,7 @@ Could you please introduce me to some delicious stores? #sonkeigo #k #card
 <!--ID: 1784123172662-->
 
 
-Would you lend me some money? #sonkeigo #k #card
+Would you lend me some money? | formal, distant favor-request — not how you'd ask a close friend #sonkeigo #k #card
 お金(かね)を少(すこ)し貸(か)してくださいませんか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>

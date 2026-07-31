@@ -27,7 +27,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL14-I-will-call-you-as-soon-as-seat
 
 ---
 #wc おかけになる - to sit (respectful expression, intransitive) / honorific form used when telling a customer/guest to sit used in hospitality, service context #sonkeigo
-#w 椅子(いす)におかけになってお待(ま)ちください。 - Please have a seat and wait. ( respectful "to sit") #sonkeigo 
+#w 椅子(いす)におかけになってお待(ま)ちください。 - Please have a seat and wait. | polite instruction to a guest/customer, e.g. in a waiting room or reception #sonkeigo
 
 ---
 
@@ -182,7 +182,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL14-I-will-call-you-as-soon-as-seat
 #w 大変(たいへん)お待(ま)たせしました。ご案内(あんない)いたします。 - I'm very sorry to have kept you waiting. I'll show you the way/please follow me. #kenjougo
 
   
-#w ご注文(ちゅうもん)が決(き)まりましたら、お呼(よ)びください。 - Please call me when you've decided on your order. #sonkeigo
+#w ご注文(ちゅうもん)が決(き)まりましたら、お呼(よ)びください。 - Please call me when you've decided on your order. | restaurant/service staff politely inviting a customer to call when ready #sonkeigo
 
 #w どうなさいましたか。 - Is something wrong? #sonkeigo 
 # 文法
@@ -213,7 +213,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL14-I-will-call-you-as-soon-as-seat
 
 ##### Examples
 #w 昨日(きのう)、高橋(たかはし)先生(せんせい)にお目(め)にかかりました。 - I met Mr. Takahashi yesterday. #kenjougo
-#w A: どうぞ、このケーキを召(め)し上(あ)がってください。 B: ありがとうございます。いただきます。 - A: Please, go ahead and have this cake.  B: Thank you. I will have some. 
+#w A: どうぞ、このケーキを召(め)し上(あ)がってください。 B: ありがとうございます。いただきます。 - A: Please, go ahead and have this cake.  B: Thank you. I will have some. | polite set phrase for humbly accepting food or drink offered to you
 
 #w 日曜日(にちようび)、午後(ごご)3時(じ)ごろ、社長(しゃちょう)のお宅(たく)にうかがってもよろしいでしょうか。 - May I visit your home around 3:00 p.m. on Sunday, Sir? #kenjougo
 
@@ -374,7 +374,7 @@ V「て形」+ いらっしゃいます
 
 #w 社長(しゃちょう)は日本酒(にほんしゅ)を飲(の)んでいらっしゃいます。 - The company president is drinking sake. #sonkeigo
 
-#w チケットを持(も)っていらっしゃいますか。見(み)せていただけますか。 - Do you have a ticket? Could you show it to me? #sonkeigo #kenjougo
+#w チケットを持(も)っていらっしゃいますか。見(み)せていただけますか。 - Do you have a ticket? Could you show it to me? | staff politely asking to check a customer's ticket — elevating them, humbling the request #sonkeigo #kenjougo
 
 ## お/ご V「ます形」ください - Respectful request form (尊敬語)
 → [[grammar-index/grammar/o-go-v-masukudasai-respectful-request-form]]
@@ -405,17 +405,17 @@ Verbs with a 1-mora ます-stem, plus irregular verbs する／来る, don't use
 
 #### Examples
 
-#w お探(さが)しください。 - Please look for it. #sonkeigo
-#w お立(た)ちください。 - Please stand up. #sonkeigo
+#w お探(さが)しください。 - Please look for it. | polite instruction telling someone to search, elevating their action #sonkeigo
+#w お立(た)ちください。 - Please stand up. | formal instruction/announcement, e.g. at an event or ceremony #sonkeigo
 
-#w ご連絡(れんらく)ください。 - Please contact us. #sonkeigo
-#w ご利用(りよう)ください。 - Please use it. #sonkeigo
+#w ご連絡(れんらく)ください。 - Please contact us. | formal business closing line, inviting the listener to reach out #sonkeigo
+#w ご利用(りよう)ください。 - Please use it. | polite service instruction, e.g. shop/facility signage #sonkeigo
 
-#w 明日(あした)イベントに行くかどうかメールでお返事(へんじ)ください。 - Please reply by email whether you will attend tomorrow's event. #sonkeigo
+#w 明日(あした)イベントに行くかどうかメールでお返事(へんじ)ください。 - Please reply by email whether you will attend tomorrow's event. | formal event invitation/instruction #sonkeigo
 
-#w 会議(かいぎ)がなくなることをみなさんにお伝(つた)えください。 - Please inform everyone that the meeting is cancelled. #sonkeigo
+#w 会議(かいぎ)がなくなることをみなさんにお伝(つた)えください。 - Please inform everyone that the meeting is cancelled. | asking someone (e.g. an assistant) to notify a group, treating their action respectfully #sonkeigo
 
-#w 足元(あしもと)にご注意(ちゅうい)ください。 - Please watch your step. #sonkeigo
+#w 足元(あしもと)にご注意(ちゅうい)ください。 - Please watch your step. | formal caution announcement, e.g. train/station signage #sonkeigo
 
 
 # Vocabulary
@@ -1417,7 +1417,7 @@ I'm very sorry to have kept you waiting. I'll show you the way/please follow me.
 <!--ID: 1784753847824-->
 
 
-Please call me when you've decided on your order. #sonkeigo #k #card
+Please call me when you've decided on your order. | restaurant/service staff politely inviting a customer to call when ready #sonkeigo #k #card
 ご注文(ちゅうもん)が決(き)まりましたら、お呼(よ)びください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
@@ -1443,7 +1443,7 @@ I met Mr. Takahashi yesterday. #kenjougo #k #card
 <!--ID: 1784753847827-->
 
 
-A: Please, go ahead and have this cake.  B: Thank you. I will have some. #k #card
+A: Please, go ahead and have this cake.  B: Thank you. I will have some. | polite set phrase for humbly accepting food or drink offered to you #k #card
 A: どうぞ、このケーキを召(め)し上(あ)がってください。 B: ありがとうございます。いただきます。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_召.html">召</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
@@ -1576,7 +1576,7 @@ He threw a baseball. #teineigo #k #card
 <!--ID: 1784753847840-->
 
 
-Is Mr. Yamamoto (the president) in? #sonkeigo #k #card
+Is Mr. Yamamoto (the president) in[available]? #sonkeigo #k #card
 山本(やまもと)社長(しゃちょう)はいらっしゃいますか。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1642,40 +1642,40 @@ The company president is drinking sake. #sonkeigo #k #card
 <!--ID: 1784753847848-->
 
 
-Do you have a ticket? Could you show it to me? #sonkeigo #kenjougo #k #card
+Do you have a ticket? Could you show it to me? | staff politely asking to check a customer's ticket — elevating them, humbling the request #sonkeigo #kenjougo #k #card
 チケットを持(も)っていらっしゃいますか。見(み)せていただけますか。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
 <!--ID: 1784753847849-->
 
 
-Please look for it. #sonkeigo #card
+Please look for it. | polite instruction telling someone to search, elevating their action #sonkeigo #card
 お探(さが)しください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_探.html">探</a>
 <!--ID: 1784753847850-->
 
 
-Please stand up. #sonkeigo #k #card
+Please stand up. | formal instruction/announcement, e.g. at an event or ceremony #sonkeigo #k #card
 お立(た)ちください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_立.html">立</a>
 <!--ID: 1784753847851-->
 
 
-Please contact us. #sonkeigo #card
+Please contact us. | formal business closing line, inviting the listener to reach out #sonkeigo #card
 ご連絡(れんらく)ください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_連.html">連</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_絡.html">絡</a>
 <!--ID: 1784753847852-->
 
 
-Please use it. #sonkeigo #k #card
+Please use it. | polite service instruction, e.g. shop/facility signage #sonkeigo #k #card
 ご利用(りよう)ください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_利.html">利</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_用.html">用</a>
 <!--ID: 1784753847853-->
 
 
-Please reply by email whether you will attend tomorrow's event. #sonkeigo #k #card
+Please reply by email whether you will attend tomorrow's event. | formal event invitation/instruction #sonkeigo #k #card
 明日(あした)イベントに行くかどうかメールでお返事(へんじ)ください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1685,7 +1685,7 @@ Please reply by email whether you will attend tomorrow's event. #sonkeigo #k #ca
 <!--ID: 1784753847854-->
 
 
-Please inform everyone that the meeting is cancelled. #sonkeigo #k #card
+Please inform everyone that the meeting is cancelled. | asking someone (e.g. an assistant) to notify a group, treating their action respectfully #sonkeigo #k #card
 会議(かいぎ)がなくなることをみなさんにお伝(つた)えください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
@@ -1693,12 +1693,14 @@ Please inform everyone that the meeting is cancelled. #sonkeigo #k #card
 <!--ID: 1784753847855-->
 
 
-Please watch your step. #sonkeigo #k #card
+Please watch your step. | formal caution announcement, e.g. train/station signage #sonkeigo #k #card
 足元(あしもと)にご注意(ちゅうい)ください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_足.html">足</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_注.html">注</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_意.html">意</a>
+<!--ID: 1785499520235-->
+
 
 
  ---

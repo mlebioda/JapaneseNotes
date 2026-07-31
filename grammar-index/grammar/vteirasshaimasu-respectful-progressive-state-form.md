@@ -5,7 +5,7 @@ topic_slug: ["respectful-expressions", "verb-te-form"]
 function: ["formality"]
 level: N4
 register: polite
-confused_with: ["vteorimasu-humble-progressive-state-form"]
+confused_with: ["vteorimasu-humble-progressive-state-form", "teiru-teru-teita-teta-casual-contraction"]
 proofread: true
 ---
 
@@ -36,6 +36,7 @@ Honorific register for describing the ongoing actions or state of a customer, su
 ## Often confused with
 
 - [V「て形」おります - Humble progressive / state form](/JapaneseNotes/grammar-index/grammar/vteorimasu-humble-progressive-state-form) — test: Is the subject someone you honor (→ いらっしゃいます), or yourself/your in-group (→ おります)?
+- [ている → てる / ていた → てた (casual contraction)](/JapaneseNotes/grammar-index/grammar/teiru-teru-teita-teta-casual-contraction) — test: is this respectful/sonkeigo speech about a superior's actions (いらっしゃいます), or casual speech about anyone (drop the い: てる)?
 
 ## See also
 

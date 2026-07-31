@@ -840,7 +840,7 @@ Back in my university days, even though that person and I were in the same class
 <!--ID: 1749743105707-->
 
 
- a clue / some idea (about something), e.g. 心当たりがある "to have a clue" #card
+ a clue / some idea (about something), e.g. "to have a clue" #card
 ほんやく: 心当たり（こころ、あ）
 お/ご (honorific): お心当たり（こころ、あ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>

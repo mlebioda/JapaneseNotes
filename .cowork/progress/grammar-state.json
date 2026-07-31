@@ -404,20 +404,21 @@
     "UN4GL6::transitive-and-intransitive-verbs": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
       "grammar_header": "Transitive and Intransitive verbs",
-      "last_reviewed": "2026-07-03",
-      "interval_days": 28,
-      "ease": 2.35,
-      "streak": 6,
-      "total_reviews": 6,
-      "last_score": 3,
+      "last_reviewed": "2026-07-31",
+      "interval_days": 34,
+      "ease": 2.2,
+      "streak": 7,
+      "total_reviews": 7,
+      "last_score": 2,
       "weak_points": [
+        "空く/開く kanji mixup (new)",
+        "開く(intransitive) を→が confusion (recurred)",
+        "割る(transitive)+を not attempted (Ex1 blank)",
         "割れた(intransitive)+を→割った(transitive) confusion (recurred)",
-        "cause で confused with から (風から→風で)",
-        "開く(intransitive) confused with 開ける(transitive)",
-        "風ので→風で (cause = で, no の needed)"
+        "cause で confused with から (風から→風で)"
       ],
-      "score": 3,
-      "next_review": "2026-07-31"
+      "score": 2,
+      "next_review": "2026-09-03"
     },
     "UN4GL6::vta-bakari": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
@@ -1162,19 +1163,19 @@
     "UN5GL7::time-place-v-order": {
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL7.md",
       "grammar_header": "Time + Place + V order",
-      "last_reviewed": "2026-07-02",
-      "next_review": "2026-07-31",
-      "interval_days": 29,
-      "ease": 2.65,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 3,
+      "last_reviewed": "2026-07-31",
+      "interval_days": 100,
+      "ease": 2.8,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 4,
       "weak_points": [
         "で vs に for action location",
         "missing object 日本語を with 勉強する",
         "missing に after time expression"
       ],
-      "score": 3
+      "score": 4,
+      "next_review": "2026-11-08"
     },
     "UN5GL7::benkyo-noun-verb": {
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL7.md",
@@ -2373,54 +2374,57 @@
     "UN4GL12::noni": {
       "lesson_file": "grammar-index/grammar/noni-even-though.md",
       "grammar_header": "。。。のに - even though",
-      "last_reviewed": "2026-07-12",
-      "next_review": "2026-07-31",
-      "interval_days": 5,
-      "ease": 2.2,
-      "streak": 2,
-      "total_reviews": 2,
+      "last_reviewed": "2026-07-31",
+      "interval_days": 6,
+      "ease": 2.05,
+      "streak": 3,
+      "total_reviews": 3,
       "last_score": 2,
       "weak_points": [
+        "noun+のに missing な before のに (recurred)",
+        "ても used instead of のに for regret/surprise nuance",
+        "missing 試験に落ちる vocab (fail exam)",
         "used ても/でも instead of のに (concessive vs factual confusion)",
-        "past た-form required before のに",
-        "duration + に particle error",
-        "な-adjective/noun need な before のに",
-        "missing topic particle は"
+        "past た-form required before のに"
       ],
-      "score": 2
+      "score": 2,
+      "next_review": "2026-08-18"
     },
     "UN4GL12::n-ga-shimasu": {
       "lesson_file": "grammar-index/grammar/n-ga-shimasu.md",
       "grammar_header": "N が します",
-      "last_reviewed": "2026-07-12",
-      "next_review": "2026-07-31",
-      "interval_days": 5,
-      "ease": 2.2,
-      "streak": 2,
-      "total_reviews": 2,
+      "last_reviewed": "2026-07-31",
+      "interval_days": 6,
+      "ease": 2.05,
+      "streak": 3,
+      "total_reviews": 3,
       "last_score": 2,
       "weak_points": [
+        "motion verb 通る needs を before it (path traversed)",
+        "tense mismatch between subordinate clause and main verb",
         "used らしい instead of sensory N+がします construction",
         "did not produce におい/音/味/気 + がする construction"
       ],
-      "score": 2
+      "score": 2,
+      "next_review": "2026-08-18"
     },
     "UN4GL12::n-no-hou-ga-adj-desu": {
       "lesson_file": "grammar-index/grammar/n-nohouga-adj-desu-n-is-more-adj.md",
       "grammar_header": "N のほうが adj です - N is more adj",
-      "last_reviewed": "2026-07-12",
-      "next_review": "2026-07-31",
-      "interval_days": 5,
-      "ease": 2.2,
-      "streak": 2,
-      "total_reviews": 2,
+      "last_reviewed": "2026-07-31",
+      "interval_days": 6,
+      "ease": 2.05,
+      "streak": 3,
+      "total_reviews": 3,
       "last_score": 2,
       "weak_points": [
+        "のほうが dropped, used plain が instead of comparison marker",
         "vocabulary confusion (アメリカ vs アフリカ)",
         "と omitted before 比べて",
         "adjective choice mismatch (好き vs いい)"
       ],
-      "score": 2
+      "score": 2,
+      "next_review": "2026-08-19"
     },
     "UN4GL12::toiu-imi-desu": {
       "lesson_file": "grammar-index/grammar/toiuimidesu-means.md",
@@ -2457,17 +2461,18 @@
     "UN4GL2::toka-toka": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL2.md",
       "grammar_header": "とか...とか",
-      "last_reviewed": "2026-07-09",
-      "next_review": "2026-07-31",
-      "interval_days": 4,
-      "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
+      "last_reviewed": "2026-07-31",
+      "interval_days": 5,
+      "ease": 2.2,
+      "streak": 2,
+      "total_reviews": 2,
       "last_score": 2,
       "weak_points": [
-        "とか...とか enumeration - not attempted"
+        "redundant など stacked with とか...とか",
+        "sentence left incomplete after とか...とか - needs object marker + verb"
       ],
-      "score": 2
+      "score": 2,
+      "next_review": "2026-08-19"
     },
     "UN4GL2::node": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL2.md",
@@ -3463,43 +3468,43 @@
       "next_review": "2026-08-17"
     },
     "UN5GL10::ageru": {
-      "interval_days": 4,
-      "ease": 2.65,
-      "streak": 1,
-      "total_reviews": 1,
+      "interval_days": 14,
+      "ease": 2.8,
+      "streak": 2,
+      "total_reviews": 2,
       "weak_points": [],
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL10.md",
       "grammar_header": "あげる - to give",
-      "last_reviewed": "2026-07-15",
+      "last_reviewed": "2026-07-31",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-07-31"
+      "next_review": "2026-08-19"
     },
     "UN5GL10::kasu": {
-      "interval_days": 4,
-      "ease": 2.65,
-      "streak": 1,
-      "total_reviews": 1,
+      "interval_days": 14,
+      "ease": 2.8,
+      "streak": 2,
+      "total_reviews": 2,
       "weak_points": [],
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL10.md",
       "grammar_header": "貸す（か）- to lend",
-      "last_reviewed": "2026-07-15",
+      "last_reviewed": "2026-07-31",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-07-31"
+      "next_review": "2026-08-19"
     },
     "UN5GL10::oshieru": {
-      "interval_days": 4,
-      "ease": 2.65,
-      "streak": 1,
-      "total_reviews": 1,
+      "interval_days": 14,
+      "ease": 2.8,
+      "streak": 2,
+      "total_reviews": 2,
       "weak_points": [],
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL10.md",
       "grammar_header": "教える - to teach",
-      "last_reviewed": "2026-07-15",
+      "last_reviewed": "2026-07-31",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-07-31"
+      "next_review": "2026-08-19"
     },
     "UN5GL10::morau": {
       "interval_days": 13,
@@ -3518,17 +3523,19 @@
       "next_review": "2026-08-16"
     },
     "UN5GL10::kariru": {
-      "interval_days": 4,
-      "ease": 2.65,
-      "streak": 1,
-      "total_reviews": 1,
-      "weak_points": [],
+      "interval_days": 14,
+      "ease": 2.8,
+      "streak": 2,
+      "total_reviews": 2,
+      "weak_points": [
+        "object 本を dropped before 借りました - を-marked object needs restating"
+      ],
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL10.md",
       "grammar_header": "借りる（か）- to borrow",
-      "last_reviewed": "2026-07-15",
+      "last_reviewed": "2026-07-31",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-07-31"
+      "next_review": "2026-08-19"
     },
     "UN5GL10::narau": {
       "interval_days": 4,
