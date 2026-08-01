@@ -23,9 +23,8 @@ proofread: false
 
 ### Examples
 
-なかなか立派(りっぱ)です - it is (quite) so great
-なかなかよくできています - you did a very good job
-
-なかなか 見(み)えない - i can barely see
-なかなか 眠(ねむ)れなかった - i found it difficult to sleep, bylo dosc trudno mi zasnac
-あの人となかなか話せなかったです - Trudno było nawiązać rozmowę z tą osobą
+- なかなか立派(りっぱ)です - it is (quite) so great
+- なかなかよくできています - you did a very good job
+- なかなか 見(み)えない - i can barely see
+- なかなか 眠(ねむ)れなかった - i found it difficult to sleep, bylo dosc trudno mi zasnac
+- あの人となかなか話せなかったです - Trudno było nawiązać rozmowę z tą osobą

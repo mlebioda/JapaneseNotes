@@ -5,7 +5,7 @@ topic_slug: ["respectful-expressions", "requests-commands"]
 function: ["formality", "request"]
 level: N4
 register: polite
-confused_with: ["o-go-v-masushimasu", "kudasaimasenka-polite-request", "you-ni-shimasu"]
+confused_with: ["o-go-v-masushimasu", "kudasaimasenka-polite-request", "you-ni-shimasu", "v-te-moraemasenka-v-te-kuremasenka"]
 proofread: true
 ---
 
@@ -56,6 +56,7 @@ Respectful request register — signage and announcements, service staff address
 - [Vて形＋くださいませんか politer form of くれませんか - could you please (do smth for me)](/JapaneseNotes/grammar-index/grammar/kudasaimasenka-polite-request) — test: Formal/service-industry-style request (→ お/ご V「ます形」ください), or a general everyday-to-polite spoken request (→ Vて形＋くださいませんか)?
 - [お・ご V『ます形」します](/JapaneseNotes/grammar-index/grammar/o-go-v-masushimasu) — test: Are you asking the listener to act (→ お/ご V「ます形」ください), or humbly offering your own action (→ お・ご V「ます形」します)?
 - [ようにします - working hard on / making an effort to](/JapaneseNotes/grammar-index/grammar/you-ni-shimasu) — test: A specific one-time respectful request, or asking someone to be mindful of an ongoing effort/goal?
+- [V「て」もらえませんか, V「て」くれませんか](/JapaneseNotes/grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka) — test: Is this a direct respectful (尊敬語) request common in service/business contexts, or a favor-asking question phrased with もらう／くれる?
 
 ## See also
 

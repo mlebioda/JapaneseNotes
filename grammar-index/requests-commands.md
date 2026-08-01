@@ -13,6 +13,8 @@
 - [Would you please let me do...](/JapaneseNotes/grammar-index/grammar/would-you-please-let-me-do) · N4
 - [Interrogative V conditional form + 　いいですか - ask for opinion or advice](/JapaneseNotes/grammar-index/grammar/v-ba-iidesuka) · N4
 
+- [V「て」もらえませんか, V「て」くれませんか](/JapaneseNotes/grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka) · N4
+
 ## See also
 
 - [Respectful Expressions](/JapaneseNotes/grammar-index/respectful-expressions) — honorific requests raise the listener's action

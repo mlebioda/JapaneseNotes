@@ -10,6 +10,8 @@
 ## Patterns
 
 - [requests-commands](/JapaneseNotes/grammar-index/requests-commands) — Patterns for asking, requesting, and instructing — from plain requests to honorific service-industry forms.
+- [decisions-plans](/JapaneseNotes/grammar-index/decisions-plans) — Patterns for stating a decision or an arrangement — a firm choice made by the speaker, a decision made by someone/something else, or an already-established rule or schedule: ことにする, ことになる, ことになっている.
+- [nominalization](/JapaneseNotes/grammar-index/nominalization) — Patterns for turning a verb, adjective, or clause into a noun so it can act as a subject, object, or topic: の, こと, and related formal nouns.
 - [conditionals](/JapaneseNotes/grammar-index/conditionals) — Patterns for expressing hypothetical or general "if/when" situations — たら, ば, なら, と, 場合, and related forms.
 - [action-timing](/JapaneseNotes/grammar-index/action-timing) — Patterns marking the timing of an action relative to now — about to start, in progress, or just finished.
 - [similarity-inference](/JapaneseNotes/grammar-index/similarity-inference) — Patterns for expressing resemblance, simile, or an inference based on indirect evidence — まるで, ようだ／ようです, みたい, contrasted with そう(様態).

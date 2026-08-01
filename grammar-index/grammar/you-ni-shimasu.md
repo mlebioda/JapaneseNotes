@@ -5,7 +5,7 @@ topic_slug: ["effort-intention", "requests-commands"]
 function: ["intention"]
 level: N4
 register: neutral
-confused_with: ["o-go-v-masukudasai-respectful-request-form", "kudasaimasenka-polite-request"]
+confused_with: ["o-go-v-masukudasai-respectful-request-form", "kudasaimasenka-polite-request", "v-dict-koto-ni-suru-i-decided-on-my-own-will"]
 proofread: true
 ---
 
@@ -50,6 +50,7 @@ Register: neutral
 
 - [お/ご V「ます形」ください - Respectful request form (尊敬語)](/JapaneseNotes/grammar-index/grammar/o-go-v-masukudasai-respectful-request-form) — test: Asking for a specific one-time respectful action right now, or asking someone to keep making an effort toward an ongoing goal?
 - [Vて形＋くださいませんか politer form of くれませんか - could you please (do smth for me)](/JapaneseNotes/grammar-index/grammar/kudasaimasenka-polite-request) — test: A direct one-time polite request, or asking someone to be mindful of an ongoing goal going forward?
+- [V「dict」 こと ＋ に　＋ する - I decided (on my own will)](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-suru-i-decided-on-my-own-will) — test: An ongoing effort/resolution kept up over time, or a firm one-time decision made once?
 
 ## See also
 

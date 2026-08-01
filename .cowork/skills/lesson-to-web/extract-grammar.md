@@ -368,8 +368,8 @@ Rules for vocabulary file body:
 - Strip only the tag prefix from lines that start with `#w `, `#wc `, or `#wp ` — keep everything after the tag and space.
   - `#w こんな - like this/ so` → `こんな - like this/ so`
   - `#wc 出来る（でき）- to be built` → `出来る（でき）- to be built`
-- Lines without a tag prefix (prose, bullet points, sub-headings) are copied unchanged.
-- Do **not** add `## Structure`, `## Meaning`, `## Examples`, or `## Notes` sections.
+- Lines without a tag prefix (prose, bullet points, sub-headings) are copied unchanged, **except** lines that fall under an existing `### Examples` heading — format those per `_conventions.md` "## Examples content format" (one Markdown bullet (`- `) per line, no blank-line-separated paragraphs).
+- Do **not** add `## Structure`, `## Meaning`, `## Examples`, or `## Notes` sections — only reformat an `### Examples` section the source lesson already has.
 - Do **not** create a topic index entry (step 9) for vocabulary files — their subdir path is their classification.
 
 Target path: `grammar-index/grammar/vocabulary/<subdir>/<slug>.md`

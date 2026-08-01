@@ -15,9 +15,8 @@ proofread: false
 - X へ・に 寄る
 
 #### Examples
-そばに(へ)寄(よ)る - to approach / draw near (someone or something); に or へ can both mark the target
-
-家(いえ)に帰(かえ)る途中(とちゅう)、デパートに寄(よ)る。 - On the way home, I stop by the department store.
+- そばに(へ)寄(よ)る - to approach / draw near (someone or something); に or へ can both mark the target
+- 家(いえ)に帰(かえ)る途中(とちゅう)、デパートに寄(よ)る。 - On the way home, I stop by the department store.
 ### 2. To get together
 
 >root meaning is "to approach / draw near." When used collectively (おおぜいで寄って), it pictures people physically converging toward each other, closing distance to form a tight cluster — like a huddle. The emphasis is on drawing close together, often as a first step before doing something 
@@ -25,7 +24,7 @@ proofread: false
 #### Structure
 - X で 寄る
 #### Examples
-おおぜいで寄(よ)って話(はな)し合(あ)います。 - A large group gathers together and discusses it. #teineigo
+- おおぜいで寄(よ)って話(はな)し合(あ)います。 - A large group gathers together and discusses it. #teineigo
 
 ---
 

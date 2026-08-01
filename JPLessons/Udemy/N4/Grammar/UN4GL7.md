@@ -157,6 +157,7 @@ The でした softens the statement and signals shared knowledge or a reminder r
 # 文法
 
 ## V「dict」 こと ＋ に　＋ する - I decided (on my own will)
+→ [[grammar-index/grammar/v-dict-koto-ni-suru-i-decided-on-my-own-will]]
 
 - **にする = I decided**
 - **になる = it was decided (by something outside me)**
@@ -184,6 +185,7 @@ The でした softens the statement and signals shared knowledge or a reminder r
 ---
 
 ## V「dict」 こと ＋ に + なります - It was decided
+→ [[grammar-index/grammar/v-dict-koto-ni-narimasu-it-was-decided]]
 
 - にする = I choose
 - **になる = it was decided (by something outside me)**
@@ -208,6 +210,7 @@ The でした softens the statement and signals shared knowledge or a reminder r
 ---
 
 ##  V「dict」 こと ＋ に + なっています - It is supposed to
+→ [[grammar-index/grammar/v-dict-koto-ni-natteimasu-it-is-supposed-to]]
 
 - にする = I choose
 - になる = it was decided (by something outside me)
@@ -232,6 +235,7 @@ The でした softens the statement and signals shared knowledge or a reminder r
 ---
 
 ## の 名詞化（めいしか） - nominaliser (when word is added after an adjective or verb)
+→ [[grammar-index/grammar/no-meishika]]
 
 Nominalising - Changing to nouns
 
@@ -272,6 +276,7 @@ Nominalising - Changing to nouns
 ---
 
 ## 名詞（めいし） + 中（ちゅう・じゅう）- during 
+→ [[grammar-index/grammar/meishi-chuu-juu-during]]
 
 
 ### Use cases
@@ -316,6 +321,7 @@ Nominalising - Changing to nouns
 ---
 
 ## V「て」もらえませんか, V「て」くれませんか
+→ [[grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka]]
 
 - Using the negative interrogative form turns a question into a polite request
 - Politer than 「て」もらえますか and 「て」くれますか
@@ -350,6 +356,7 @@ Nominalising - Changing to nouns
 # Vocabulary
 
 ## 是非(ぜひ) - sure / of course
+→ [[grammar-index/grammar/vocabulary/Adverbs/zehi-sure-of-course]]
 
 ### Use cases
 
@@ -374,6 +381,7 @@ Nominalising - Changing to nouns
 ---
 
 ## 必ず(かなら) - must / surely / certainly
+→ [[grammar-index/grammar/vocabulary/Adverbs/kanara-must-surely-certainly]]
 
 ### Use cases
 
@@ -394,6 +402,7 @@ Nominalising - Changing to nouns
 
 ---
 ## 力(ちから) - strength / effect / power / ability
+→ [[grammar-index/grammar/vocabulary/Nouns/chikara-strength-effect-power-ability]]
 
 ### Use cases
 

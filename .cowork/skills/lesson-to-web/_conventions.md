@@ -96,12 +96,15 @@ Container files use `## Sub-topics` in place of the standard sections. Topic ind
 ## Examples content format
 
 Every example sentence inside an Examples section is one Markdown bullet (`- `), never a
-blank-line-separated paragraph. One sentence per bullet, in source order. Applies to both
-shapes an Examples section takes:
-- `## Examples` — the single shared section in Structure 1.
-- `### Examples` — nested under each `## N. Use Case Name` heading in Structure 2. Each
-  use case's examples stay scoped to that use case only — never pooled into one shared
-  list across use cases.
+blank-line-separated paragraph. One sentence per bullet, in source order. Applies to every
+shape an Examples section takes, in every file type that has one:
+- `## Examples` — the single shared section in Structure 1 grammar point files.
+- `### Examples` — nested under each `## N. Use Case Name` heading in Structure 2 grammar
+  point files. Each use case's examples stay scoped to that use case only — never pooled
+  into one shared list across use cases.
+- `### Examples` — inside vocabulary files (`grammar-index/grammar/vocabulary/**`). Applies
+  only to the Examples section itself; other copied content (e.g. a `### Use cases` section)
+  keeps whatever list/heading structure it already has in the source lesson.
 
 ```
 ## Examples
@@ -110,9 +113,10 @@ shapes an Examples section takes:
 - 家(いえ)に帰(かえ)ると、妻(つま)が晩(ばん)ご飯(はん)を作(つく)るところだった。 - When I got home, my wife was just about to make dinner.
 ```
 
-Applies whenever this section is written or rewritten — extract-grammar on file creation,
-and structure-grammar on any reformat into Structure 1 or Structure 2. Dialogue examples
-(A: ... B: ...) stay on one bullet per exchange, not split across two bullets.
+Applies whenever this section is written or rewritten — extract-grammar on file creation
+(both grammar point files and vocabulary files), and structure-grammar on any reformat into
+Structure 1 or Structure 2. Dialogue examples (A: ... B: ...) stay on one bullet per
+exchange, not split across two bullets.
 
 ---
 

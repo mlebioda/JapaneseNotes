@@ -5,7 +5,7 @@ topic_slug: ["requests-commands"]
 function: ["request"]
 level: N4
 register: tiered
-confused_with: ["meireikei-imperative-form"]
+confused_with: ["meireikei-imperative-form", "v-te-moraemasenka-v-te-kuremasenka"]
 proofread: true
 ---
 
@@ -37,6 +37,7 @@ Register: tiered
 ## Often confused with
 
 - [命令形（めいれいけい）- imperative form](/JapaneseNotes/grammar-index/grammar/meireikei-imperative-form) — test: Is this a calm, authority-based instruction like teacher-to-student (なさい), or a blunt, urgent command (plain imperative)?
+- [V「て」もらえませんか, V「て」くれませんか](/JapaneseNotes/grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka) — test: Is this a firm instruction from a position of authority, or a favor-asking request phrased as a question?
 
 ## See also
 

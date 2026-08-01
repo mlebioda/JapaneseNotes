@@ -14,3 +14,4 @@
 ## See also
 
 - [similarity-inference](/JapaneseNotes/grammar-index/similarity-inference) — はずです is a related epistemic pattern for logical expectation, not obligation
+- [Decisions & Plans](/JapaneseNotes/grammar-index/decisions-plans) — ことになっている describes an external rule/arrangement, contrasted with はずです's speaker-side logical expectation

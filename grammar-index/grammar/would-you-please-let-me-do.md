@@ -5,7 +5,7 @@ topic_slug: ["causative", "requests-commands"]
 function: ["passive-causative", "request"]
 level: N4
 register: tiered
-confused_with: ["kudasaimasenka-polite-request"]
+confused_with: ["kudasaimasenka-polite-request", "v-te-moraemasenka-v-te-kuremasenka"]
 proofread: true
 ---
 
@@ -40,6 +40,7 @@ Register: tiered
 ## Often confused with
 
 - [Vて形＋くださいませんか politer form of くれませんか - could you please (do smth for me)](/JapaneseNotes/grammar-index/grammar/kudasaimasenka-polite-request) — test: Are you asking permission to do something yourself (causative + て形 + ください/もらえませんか/いただけませんか, "let me do X"), or asking the other person to do something for you (plain て形 + くださいませんか, "please do X for me")?
+- [V「て」もらえませんか, V「て」くれませんか](/JapaneseNotes/grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka) — test: Are you asking permission to do something yourself (causative-based), or asking someone else to act on your behalf?
 
 ## See also
 
