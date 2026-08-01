@@ -115,7 +115,7 @@
       "next_review": "2026-12-15"
     },
     "UN4GL5::ikoukei-group-1": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/ikoukei-volitional-form.md",
       "grammar_header": "いこうけい Group 1",
       "last_reviewed": "2026-07-12",
       "next_review": "2026-09-08",
@@ -128,7 +128,7 @@
       "score": 4
     },
     "UN4GL5::ikoukei-group-2": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/ikoukei-volitional-form.md",
       "grammar_header": "いこうけい Group 2",
       "last_reviewed": "2026-07-12",
       "next_review": "2026-08-28",
@@ -141,7 +141,7 @@
       "score": 3
     },
     "UN4GL5::ikoukei-group-3": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/ikoukei-volitional-form.md",
       "grammar_header": "いこうけい Group 3",
       "last_reviewed": "2026-07-12",
       "next_review": "2026-09-08",
@@ -156,7 +156,7 @@
       "score": 4
     },
     "UN4GL5::volitional-to-omotteimasu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/volitional-form-totteimasu-im-thinking-of.md",
       "grammar_header": "Volitional form + と思っています",
       "last_reviewed": "2026-07-30",
       "interval_days": 10,
@@ -174,7 +174,7 @@
       "next_review": "2026-08-17"
     },
     "UN4GL5::tara-verb": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/past-tense-tara-if.md",
       "grammar_header": "たら — verb",
       "last_reviewed": "2026-07-15",
       "interval_days": 40,
@@ -189,7 +189,7 @@
       "score": 4
     },
     "UN4GL5::tara-i-adj": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/past-tense-tara-if.md",
       "grammar_header": "たら — i-adj",
       "last_reviewed": "2026-07-15",
       "interval_days": 17,
@@ -208,7 +208,7 @@
       "score": 2
     },
     "UN4GL5::tara-na-adj-n": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/past-tense-tara-if.md",
       "grammar_header": "たら — na-adj/N",
       "last_reviewed": "2026-07-15",
       "interval_days": 17,
@@ -225,7 +225,7 @@
       "score": 2
     },
     "UN4GL5::tara-iidesu-interrogative": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/interrogative-vtara-iidesuka-ask-for-advice-or-instructions.md",
       "grammar_header": "たら + いいですか",
       "last_reviewed": "2026-07-16",
       "interval_days": 1,
@@ -244,7 +244,7 @@
       "next_review": "2026-08-07"
     },
     "UN4GL5::tsumori-affirmative": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker.md",
       "grammar_header": "V「plain」つもりです (affirmative)",
       "last_reviewed": "2026-07-07",
       "interval_days": 33,
@@ -263,7 +263,7 @@
       "next_review": "2026-08-09"
     },
     "UN4GL5::tsumori-negative": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker.md",
       "grammar_header": "つもりです — negative",
       "last_reviewed": "2026-07-24",
       "interval_days": 55,
@@ -280,7 +280,7 @@
       "next_review": "2026-09-17"
     },
     "UN4GL5::yotei-noun": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/yotei-desu-plan-scheduled.md",
       "grammar_header": "予定です (N + の + 予定です)",
       "last_reviewed": "2026-07-21",
       "interval_days": 37,
@@ -297,7 +297,7 @@
       "next_review": "2026-08-28"
     },
     "UN4GL5::yotei-verb": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/yotei-desu-plan-scheduled.md",
       "grammar_header": "予定です (V plain + 予定です)",
       "last_reviewed": "2026-07-12",
       "interval_days": 37,
@@ -329,7 +329,7 @@
       "score": 4
     },
     "UN4GL5::joshi-mo-listing": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/joshimo-list-things.md",
       "grammar_header": "助詞＋も (listing / even on)",
       "last_reviewed": "2026-07-12",
       "interval_days": 29,
@@ -347,8 +347,18 @@
       "score": 3,
       "next_review": "2026-08-10"
     },
+    "UN4GL5::joshi-mo-both-and": {
+      "lesson_file": "grammar-index/grammar/joshimo-list-things.md",
+      "grammar_header": "助詞＋も (both A and B)",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 0,
+      "total_reviews": 0,
+      "weak_points": [],
+      "next_review": "2026-08-03"
+    },
     "UN4GL5::joshi-mo-unexpected": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/joshimo-list-things.md",
       "grammar_header": "助詞＋も (emphasizing unexpected)",
       "last_reviewed": "2026-07-03",
       "interval_days": 34,
@@ -367,7 +377,7 @@
       "next_review": "2026-08-06"
     },
     "UN4GL5::joshi-mo-total-denial": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/joshimo-list-things.md",
       "grammar_header": "助詞＋も (interrogative — total denial)",
       "last_reviewed": "2026-07-23",
       "next_review": "2026-09-20",
@@ -386,7 +396,7 @@
       "score": 4
     },
     "UN4GL5::yasui-nikui": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
+      "lesson_file": "grammar-index/grammar/vmasuyasuidesu-nikuidesu-easy-difficult-to-do.md",
       "grammar_header": "V「ます形」やすいです・にくいです",
       "last_reviewed": "2026-07-14",
       "next_review": "2026-09-28",
@@ -401,8 +411,28 @@
       ],
       "score": 4
     },
+    "UN4GL5::aida-between-during-among": {
+      "lesson_file": "grammar-index/grammar/aida-between-during-among.md",
+      "grammar_header": "間（あいだ）- between, during, among",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 0,
+      "total_reviews": 0,
+      "weak_points": [],
+      "next_review": "2026-08-03"
+    },
+    "UN4GL5::gotsugou-availability": {
+      "lesson_file": "grammar-index/grammar/gotsugou-ii-i-asking-about-someones-availability.md",
+      "grammar_header": "(ご)都合（つごう）+ いい／悪い - asking about someone's availability",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 0,
+      "total_reviews": 0,
+      "weak_points": [],
+      "next_review": "2026-08-03"
+    },
     "UN4GL6::transitive-and-intransitive-verbs": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
+      "lesson_file": "grammar-index/grammar/transitive-and-intransitive-verbs.md",
       "grammar_header": "Transitive and Intransitive verbs",
       "last_reviewed": "2026-07-31",
       "interval_days": 34,
@@ -421,8 +451,8 @@
       "next_review": "2026-09-03"
     },
     "UN4GL6::vta-bakari": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
-      "grammar_header": "V「た」ばかり",
+      "lesson_file": "grammar-index/grammar/ta-bakari.md",
+      "grammar_header": "V「た」ばかり - action that just ended",
       "last_reviewed": "2026-07-26",
       "interval_days": 13,
       "ease": 1.65,
@@ -440,8 +470,8 @@
       "next_review": "2026-08-13"
     },
     "UN4GL6::vplain-soudesu-souda": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
-      "grammar_header": "V「plain」そうです / そうだ",
+      "lesson_file": "grammar-index/grammar/sou-desu-hearsay.md",
+      "grammar_header": "V「plain」そうです / そうだ - It is said that / I heard",
       "last_reviewed": "2026-07-13",
       "interval_days": 5,
       "ease": 1.65,
@@ -459,8 +489,8 @@
       "next_review": "2026-08-03"
     },
     "UN4GL6::rashiidesu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
-      "grammar_header": "らしいです",
+      "lesson_file": "grammar-index/grammar/rashii-desu.md",
+      "grammar_header": "。。。らしいです - it seems",
       "last_reviewed": "2026-07-16",
       "next_review": "2026-08-23",
       "interval_days": 37,
@@ -478,8 +508,8 @@
       "score": 3
     },
     "UN4GL6::shika-dake": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
-      "grammar_header": "しか、だけ",
+      "lesson_file": "grammar-index/grammar/shika-dake-only.md",
+      "grammar_header": "しか、だけ - only",
       "last_reviewed": "2026-07-14",
       "interval_days": 7,
       "ease": 2.15,
@@ -497,8 +527,8 @@
       "next_review": "2026-08-04"
     },
     "UN4GL6::mada": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
-      "grammar_header": "まだ",
+      "lesson_file": "grammar-index/grammar/mada-still-not-yet.md",
+      "grammar_header": "まだ - still, not yet",
       "last_reviewed": "2026-07-09",
       "interval_days": 27,
       "ease": 2.5,
@@ -514,8 +544,8 @@
       "next_review": "2026-08-05"
     },
     "UN4GL6::yahari-yappari": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
-      "grammar_header": "やはり・やっぱり",
+      "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/yahari-yappari.md",
+      "grammar_header": "やはり・やっぱり - as I thought, still",
       "last_reviewed": "2026-07-26",
       "interval_days": 2,
       "ease": 1.9,
@@ -533,8 +563,8 @@
       "next_review": "2026-08-12"
     },
     "UN4GL6::renraku": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
-      "grammar_header": "連絡（れんらく）",
+      "lesson_file": "grammar-index/grammar/vocabulary/Nouns/renraku.md",
+      "grammar_header": "連絡（れんらく）- contact",
       "last_reviewed": "2026-07-27",
       "interval_days": 1,
       "ease": 1.75,
@@ -552,8 +582,8 @@
       "next_review": "2026-08-14"
     },
     "UN4GL6::tsukiau": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL6.md",
-      "grammar_header": "付き合う (つきあう)",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/tsukiau.md",
+      "grammar_header": "付き合う (つきあう) - to associate with / to go out with",
       "last_reviewed": "2026-07-21",
       "interval_days": 1,
       "ease": 1.75,
@@ -1377,7 +1407,7 @@
       "score": 2
     },
     "UN4GL7::vdict-koto-ni-suru": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL7.md",
+      "lesson_file": "grammar-index/grammar/v-dict-koto-ni-suru-i-decided-on-my-own-will.md",
       "grammar_header": "V「dict」こと ＋ に ＋ する",
       "last_reviewed": "2026-07-21",
       "interval_days": 17,
@@ -1395,7 +1425,7 @@
       "next_review": "2026-08-07"
     },
     "UN4GL7::vdict-koto-ni-narimasu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL7.md",
+      "lesson_file": "grammar-index/grammar/v-dict-koto-ni-narimasu-it-was-decided.md",
       "grammar_header": "V「dict」こと ＋ に + なります",
       "last_reviewed": "2026-07-24",
       "interval_days": 17,
@@ -1413,7 +1443,7 @@
       "next_review": "2026-08-12"
     },
     "UN4GL7::vdict-koto-ni-natteimasu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL7.md",
+      "lesson_file": "grammar-index/grammar/v-dict-koto-ni-natteimasu-it-is-supposed-to.md",
       "grammar_header": "V「dict」こと ＋ に + なっています",
       "last_reviewed": "2026-07-24",
       "interval_days": 7,
@@ -1432,7 +1462,7 @@
       "next_review": "2026-08-12"
     },
     "UN4GL7::no-meishika": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL7.md",
+      "lesson_file": "grammar-index/grammar/no-meishika.md",
       "grammar_header": "の 名詞化（めいしか）",
       "last_reviewed": "2026-07-20",
       "interval_days": 37,
@@ -1451,7 +1481,7 @@
       "next_review": "2026-08-28"
     },
     "UN4GL7::meishi-chuu-juu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL7.md",
+      "lesson_file": "grammar-index/grammar/meishi-chuu-juu-during.md",
       "grammar_header": "名詞（めいし） + 中（ちゅう・じゅう）",
       "last_reviewed": "2026-07-26",
       "interval_days": 7,
@@ -1470,7 +1500,7 @@
       "next_review": "2026-08-13"
     },
     "UN4GL7::vte-moraemasenka": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL7.md",
+      "lesson_file": "grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka.md",
       "grammar_header": "V「て」もらえませんか / くれませんか",
       "last_reviewed": "2026-07-13",
       "interval_days": 27,
@@ -1487,7 +1517,7 @@
       "next_review": "2026-08-09"
     },
     "UN4GL7::zehi": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL7.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/zehi-sure-of-course.md",
       "grammar_header": "是非（ぜひ）",
       "last_reviewed": "2026-07-27",
       "interval_days": 17,
@@ -1506,7 +1536,7 @@
       "next_review": "2026-08-14"
     },
     "UN4GL7::kanarazu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL7.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/kanara-must-surely-certainly.md",
       "grammar_header": "必ず（かならず）",
       "last_reviewed": "2026-07-30",
       "interval_days": 21,
@@ -1525,7 +1555,7 @@
       "next_review": "2026-08-20"
     },
     "UN4GL7::chikara": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL7.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Nouns/chikara-strength-effect-power-ability.md",
       "grammar_header": "力（ちから）",
       "last_reviewed": "2026-07-21",
       "interval_days": 28,
@@ -1924,7 +1954,7 @@
       "next_review": "2026-09-16"
     },
     "UN4GL9::kakeru": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL9.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/kakeru.md",
       "grammar_header": "### かける - multi-use verb (hang/pour, attach, lock, wear, sit, phone, trouble, time/money)",
       "last_reviewed": "2026-07-08",
       "interval_days": 24,
@@ -3983,6 +4013,56 @@
         "causative+ていただけませんか not produced (skipped)",
         "ていただけませんか not produced — used てください instead — recurring gap"
       ]
+    },
+    "UN4GL13::im-sorry": {
+      "lesson_file": "grammar-index/grammar/vocabulary/Nouns/im-sorry.md",
+      "grammar_header": "I'm sorry",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 0,
+      "total_reviews": 0,
+      "weak_points": [],
+      "next_review": "2026-08-02"
+    },
+    "UN4GL8::n1-ha-n2-ni-passive-was-v-by-n2": {
+      "lesson_file": "grammar-index/grammar/n1-ha-n2-ni-passive-was-v-by-n2.md",
+      "grammar_header": "N1 + は  + N2 + に + V「passive form」- **N1 was V by N2**",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 0,
+      "total_reviews": 0,
+      "weak_points": [],
+      "next_review": "2026-08-02"
+    },
+    "UN4GL8::passive-n3-wo-affected-person": {
+      "lesson_file": "grammar-index/grammar/passive-n3-wo-affected-person.md",
+      "grammar_header": "N1 + は  + N2 + に N3 + を + V「passive form」- representing bad/good result of action on someone",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 0,
+      "total_reviews": 0,
+      "weak_points": [],
+      "next_review": "2026-08-02"
+    },
+    "UN4GL8::n-ha-ga-v-passive-form-passing-information": {
+      "lesson_file": "grammar-index/grammar/n-ha-ga-v-passive-form-passing-information.md",
+      "grammar_header": "N + は/が + V 「passive form」- passing information",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 0,
+      "total_reviews": 0,
+      "weak_points": [],
+      "next_review": "2026-08-02"
+    },
+    "UN4GL8::n-ha-ga-n-kara-de-v-passive-form-material-ingredient": {
+      "lesson_file": "grammar-index/grammar/n-ha-ga-n-kara-de-v-passive-form-material-ingredient.md",
+      "grammar_header": "N + は/が N + から/で + V 「passive form」- Material, ingredient",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 0,
+      "total_reviews": 0,
+      "weak_points": [],
+      "next_review": "2026-08-02"
     }
   }
 }

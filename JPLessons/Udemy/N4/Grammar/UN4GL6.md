@@ -5,7 +5,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL6-Iam-wondering-what-buy-for-a-bir
 
 #w 自動詞と他動詞が理解できること (じどうし、たどうし) - being able to understand intransitive and transitive verbs
 #w 聞いてきた情報を話題にして、話すことができること (じょうほう、わだい) - being able to talk about information you have heard
-#w 他人から得た情報に基づく伝聞の言い方 (たにん、え, じょうほう、でんぶん、いいかた) - how to express hearsay based on information received from others
+#w 他人から得た情報に基づく伝聞の言い方 (たにん、え、じょうほう、もと、でんぶん、いいかた) - how to express hearsay based on information received from others
 
 
 #w 自動詞 (じどうし) - intransitive verb
@@ -29,10 +29,10 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL6-Iam-wondering-what-buy-for-a-bir
 
 ---
 
-#w 旦那 (だんな) - husband (your own, more causal)
-#w 旦那 (だんな) さん/さま - husband (someone's else, more casual)
+#w 旦那 (だんな) - husband (your own, more casual)
+#w 旦那 (だんな) さん/さま - husband (someone else's, polite)
 
-#w 主人 (しゅじん) - husband (your own and someone's else, master of the house)
+#w 主人 (しゅじん) - husband (your own or someone else's, master of the house)
 #w うちの主人（しゅじん）- my husband (master of the house)
  
 #w 夫 (おっと) - husband (your own, most formal)
@@ -47,7 +47,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL6-Iam-wondering-what-buy-for-a-bir
 
 
 #w (お)祝い (いわい) - celebration / celebration gift
-#w 結婚（けっこん）祝い（いわ）- weeding celebration
+#w 結婚（けっこん）祝い（いわ）- wedding celebration
  
 
 
@@ -72,8 +72,8 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL6-Iam-wondering-what-buy-for-a-bir
 
 ---
 
-#w たまに - occasionally / seldom
-#w うちにたまにお客（きゃく）さんが来ます（き） - Sometimes visitors come to home
+#w たまに - occasionally / once in a while
+#w うちにたまにお客（きゃく）さんが来ます（き） - Visitors occasionally come to our house
 
 ---
 
@@ -82,24 +82,24 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL6-Iam-wondering-what-buy-for-a-bir
 
 #wc (を)開ける (あける) - to open (transitive)
 
-#w ドアが開く（あ）- the doo opens (by themselves)
-#w ドアを開けう（あ）- to open door (someone)
+#w ドアが開く（あ）- the door opens (by itself)
+#w ドアを開ける（あ）- someone opens the door
 
 
 ---
 
-#wc 消す（け) - dissapear (transitive)
+#wc 消す（け）- to turn off / erase (transitive)
 #wc 消える (きえる) - to disappear  (intransitive)
 #w 火（ひ）が消える（き）- The fire went out
 
 #wc 直す（なお）- to fix (transitive)
-#wc 直る (なお) - to fix (object) (intransitive)
+#wc 直る (なお) - to be fixed / repaired (intransitive)
 #w 時計（とけい）が直った（なお）- The clock is fixed.
 
 
 #wc 治す (なお) - to cure (injury / illness) (transitive)
-#wc 治る (なお) - to cure (injury / illness) (intransitive)
-#w 風が治った(な) - I recovered from my cold
+#wc 治る (なお) - to recover / heal (from injury or illness) (intransitive)
+#w 風邪が治った（なお） - I recovered from my cold
 
 
 --- 
@@ -110,11 +110,11 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL6-Iam-wondering-what-buy-for-a-bir
 ---
 
 #wc 決まる (き) - to be decided (intransitive)
-#w 来月（らいげつ）の出張（しゅっちょう）が決まった（き）- Next mont's business trip was decided
+#w 来月（らいげつ）の出張（しゅっちょう）が決まった（き）- Next month's business trip was decided
 
 
 #wc 決める (き) - to decide (transitive)
-#w 会議（かいぎ）の時間（じかん）を決（き）めたいと思います（おも）-　I think I want to decide the meeting time
+#w 会議（かいぎ）の時間（じかん）を決（き）めたいと思います（おも）- I think I want to decide the meeting time
 
 ---
 
@@ -125,11 +125,11 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL6-Iam-wondering-what-buy-for-a-bir
 #w 映画（えいが）が始まった（はじ）- the movie began
 
 
-#wc 返る (かえ) - to return (an object to previous state) (transitive)
- #w 忘れ物（わすれもの）が 返った（かえ）- I got my lost item back
+#wc 返る (かえ) - to go back / be returned (an object to previous state) (intransitive)
+#w 忘れ物（わすれもの）が返った（かえ）- I got my lost item back
 
-#wc 返す (かえ) - to be returned (an object to previous state) (intransitive)
-#w 答え（こた）が返って（かえ）きた - Responded (returned) with an answer
+#wc 返す (かえ) - to return (an object to previous state) (transitive)
+#w 答え（こた）が返って（かえ）きた - An answer came back
 
 
 #wc 割る (わ) - to break (transitive)
@@ -148,14 +148,14 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL6-Iam-wondering-what-buy-for-a-bir
 #wc 増える (ふ) - to be increased (intransitive)
 #wc 増やす (ふ) - to increase (transitive)
 #wc 焼ける (や) - to be burnt (intransitive)
-#wc 焼く (や) - to grill　（transitive)
+#wc 焼く (や) - to grill (transitive)
 #wc 回る (ま) - to turn (intransitive)
 #wc 回す (ま) - to turn (transitive)
 #wc 冷える (ひ) - to cool down (intransitive)
 #wc 冷やす (ひ) - to cool (transitive)
 
 #wc 濡らす (ぬ) - to wet (transitive)
-#w ハンドカチを濡らす（ぬ）- to wet a handkerchief
+#w ハンカチを濡らす（ぬ）- to wet a handkerchief
 #wc 濡れる（ぬ）- to get wet (intransitive)
 #w この本は雨（あめ）に濡れた（ぬ）- The book got wet from the rain
 
@@ -167,7 +167,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL6-Iam-wondering-what-buy-for-a-bir
 
 #wc 止める（と）- to stop (transitive)
 
-#w 何（なに）にしようか - volitional form of 何にする
+何（なに）にしようか - volitional form of 何にする
 
 
 #wc 起きる (おきる) - to wake up (intransitive)
@@ -185,6 +185,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL6-Iam-wondering-what-buy-for-a-bir
 # 文法
 
 ## Transitive and Intransitive verbs
+→ [[grammar-index/grammar/transitive-and-intransitive-verbs]]
 
 **Transitive verbs** need an object — something that receives the action.
 
@@ -196,32 +197,43 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL6-Iam-wondering-what-buy-for-a-bir
 
 In Japanese this maps neatly to particles:
 
-Structure
+### Structure
 - Transitive:
 	- Object を + Verb
 		- ドアを開ける（あ） - To open the door.
 - Intransitive
 	- Often used with
 		- に
+			- 東京（とうきょう）に行く（い） - to go to Tokyo
 		- へ
+			- 学校（がっこう）へ行く（い） - to go to school
 		- と
+			- 友達（ともだち）と話す（はな） - to talk with a friend
 		- が
 	- Object が + Verb
 		- ドアが開く（あ） - The door opens
 
 | Intransitive (自動詞)         | Transitive (他動詞)                  |
 | -------------------------- | --------------------------------- |
-| 起きる（おきる） - to wake up      | 起こす（おこす） - to wake up             |
+| 起きる（おきる） - to wake up      | 起こす（おこす） - to wake (someone) up   |
 | 倒れる（たおれる） - to fall        | 倒す（たおす） - to knock down           |
 | 壊れる（こわれる） - to be broken   | 壊す（こわす） - to break                |
-| 返る（かえる） - to return        | 返す（かえす） - to return               |
-| 割れる（われる） - to break/crack  | 割る（わる） - to break                 |
+| 返る（かえる） - to go back / be returned | 返す（かえす） - to return (something)  |
+| 割れる（われる） - to break/crack (on its own) | 割る（わる） - to break (something) |
 | 決まる（きまる） - to be decided   | 決める（きめる） - to decide              |
-| 開く（あく） - to open           | 開ける（あける） - to open                |
+| 開く（あく） - to open (by itself) | 開ける（あける） - to open (something)  |
 | 付く（つく） - to be attached    | 付ける（つける） - to attach / to turn on |
-| 始まる（はじまる） - to begin       | 始める（はじめる） - to begin              |
+| 始まる（はじまる） - to begin (on its own) | 始める（はじめる） - to begin (something) |
 | 増える（ふえる） - to be increased | 増やす（ふやす） - to increase            |
 | 焼ける（やける） - to be burnt     | 焼く（やく） - to grill                 |
+| 消える（きえる） - to disappear     | 消す（けす） - to turn off / erase       |
+| 直る（なおる） - to be fixed       | 直す（なおす） - to fix                  |
+| 治る（なおる） - to recover / heal | 治す（なおす） - to cure                 |
+| 回る（まわる） - to turn (on its own) | 回す（まわす） - to turn (something)  |
+| 冷える（ひえる） - to cool down     | 冷やす（ひやす） - to cool               |
+| 濡れる（ぬれる） - to get wet       | 濡らす（ぬらす） - to wet                |
+| 沸く（わく） - to be boiled        | 沸かす（わかす） - to boil               |
+| 止まる（とまる） - to stop (on its own) | 止める（とめる） - to stop (something) |
 
 ### Examples
 
@@ -230,31 +242,40 @@ Structure
 
 
 ## V「た」ばかり - action that just ended
+→ [[grammar-index/grammar/ta-bakari]]
+
+Attaches directly to the plain past (た-form) of a verb to express that an action has just finished.
 
 ### Structure
 - V「た」ばかり
-	- ご飯（はん）を食べ**た**（た）**ばかり**- I just ate a meal
+	- ご飯（はん）を食べ**た**ばかり - I just ate a meal
 - 。。。ばかり＋の＋NOUN
 	- 生まれた（う）**ばかりの赤**（あか）ちゃん - baby who was just born
 
 ### Examples
 
 #w 帰った（かえ）ばかり - I just came back
-#w ご飯（はん）を食べ**た**（た）**ばかり**- I just ate a meal
+#w ご飯（はん）を食べ**た**ばかり - I just ate a meal
 #w 生まれた（う）**ばかりの赤**（あか）ちゃん - baby who was just born
 
 
-#w 新しい（あたら）家（いえ）に引っ越し（ひっこし）し**たばかり**なので、まだ片付けていませんかたづ - I just moved to a new house, so I haven't tidied up yet.
+#w 新しい（あたら）家（いえ）に引っ越し（ひっこし）し**たばかり**なので、まだ片付け（かたづ）ていません - I just moved to a new house, so I haven't tidied up yet.
 #w A: 金(きむ)さんはいますか。B: 出かけ**た**(で)**ばかり**です - A: Is Miss Kim here? B: She just went out.
+
+**Don't confuse with [V「た形」ところです - action has just finished](/JapaneseNotes/grammar-index/grammar/tokoro-desu-ta-form)** — ところ marks the immediate moment right after an action completes, while ばかり marks an action as subjectively recent (it may have happened a little while ago but still feels recent to the speaker).
 
 ---
 
 ## Hearsay
+→ [[grammar-index/grammar/hearsay]]
 
 ### V「plain」そうです / そうだ - It is said that / I heard
+→ [[grammar-index/grammar/sou-desu-hearsay]]
 
 Expressing what you've heard from others.
 Similar to らしいです but is usually used **when the information is certain**.
+
+Register: そうです is the polite form (attached to です); dropping です gives the plain/casual equivalent そうだ.
 
 #### Structure:
 - V「plain」そうです
@@ -268,13 +289,17 @@ Similar to らしいです but is usually used **when the information is certain
 #w 天気予報を聞いたんですが、明日は雪が降らない**そうです**。 (てんきよほう、き、あした、ゆき、ふ) - I heard from the weather forecast that it won't snow tomorrow.
 #w ラジさんのお父さんは大学の先生**だそうです**。 (とう、だいがく、せんせい) - I heard that Raj's father is a university teacher.
 #w 佐藤くんの話では、来週の試験は難し**いそうです**。 (さとう、はなし、らいしゅう、しけん、むずか) - I heard from Mr. Sato that the exam next week will be difficult.
+#w 明日（あした）は雪（ゆき）が降らない**そうだ**。 (あした、ゆき、ふ) - I heard it won't snow tomorrow.
 
 ---
 
 ### 。。。らしいです - it seems
+→ [[grammar-index/grammar/rashii-desu]]
 
 Expressing what you've heard from others.
-Similar to V「plain」そうです  but is usually used when the information is **not** certain
+Similar to V「plain」そうです but is usually used when the information is **not** certain
+
+Register: らしいです is the polite form; dropping です gives the plain/casual equivalent らしい (see その話は本当らしいね below).
 
 
 #### Use cases
@@ -284,8 +309,9 @@ Similar to V「plain」そうです  but is usually used when the information is
 	- V「た」らしいです
 	- い adjective　らしいです
 	- な adjective　らしいです
+	- Noun　らしいです
 2. Situation that is very likely, presenting a typical situation or condition
-	- Noun　らしいです 
+	- Noun　らしいです
 		- ここはアメリカらしいです - Here feels like America
 
 #### Examples
@@ -293,24 +319,26 @@ Similar to V「plain」そうです  but is usually used when the information is
 #w 友達から聞いたんですが、富士山に登るのは大変だった**らしいです**。 (ともだち、き、ふじさん、のぼ、たいへん) - I heard from my friend that climbing Mt. Fuji was really difficult.
 #w 高校からあの二人は付き合っている**らしいです**よ。 (こうこう、ふたり、つ、あ) - It seems that those two people have been going out since high school.
 #w その話は本当**らしいね**。 (はなし、ほんとう) - The story seems to be true.
+#w 彼（かれ）は学生（がくせい）**らしいです** - I heard he's a student.
 
 #w ここはアメリカらしいです - Here feels like America
 
 ---
 ## しか、だけ - only
+→ [[grammar-index/grammar/shika-dake-only]]
 
-- Both means only, but しか uses negative form
+- Both mean only, but しか uses negative form. しか also replaces other particles like を/が rather than combining with them (e.g. テレビ**しか**見ない, not テレビ**を**しか見ない).
 
 ### Structure:
 - Noun + しか + negative form - only (nothing but)
 	- 私（わたし）は日本語（にほんご）**しか** 話せない（はな）です - I can speak only Japanese
 - Noun + だけ + affirmative form - only
-	- 私（わたし）は日本語（にほんご）**だけ** 話せます（はな）です - I can speak only Japanese
+	- 私（わたし）は日本語（にほんご）**だけ** 話せます（はな） - I can speak only Japanese
 
 ### Examples
 
 #w 私（わたし）は日本語（にほんご）**しか** 話せない（はな）です - I can speak only Japanese
-#w 私（わたし）は日本語（にほんご）**だけ** 話せます（はな）です - I can speak only Japanese
+#w 私（わたし）は日本語（にほんご）**だけ** 話せます（はな） - I can speak only Japanese
 
 #w 待つしかない。 (ま) - I can only wait.
 #w この仕事は山田さん**しか**できないです。 (しごと、やまだ) - Only Mr. Yamada can do this work.
@@ -320,76 +348,90 @@ Similar to V「plain」そうです  but is usually used when the information is
 ---
 
 ## まだ - still, not yet
+→ [[grammar-index/grammar/mada-still-not-yet]]
+
+Note: まだ is commonly taught opposite もう (already / anymore) — もう + affirmative = "already," もう + negative = "not anymore," while まだ + affirmative = "still," まだ + negative = "not yet."
 
 ### Use cases
 
 1. まだ + Affirmative
 	1. Still
+		- 雪がまだ降っています。 - It is still snowing.
 	2. Still / as of yet
+		- ９月に海外旅行に行きます。今はまだ３月です。 - I will travel overseas in September. It is still March now.
 	3. More besides
-2. まだ＋negative
-	1. Not yet 
+		- 冷蔵庫の中にリンゴがまだ５つあります。 - There are 5 more apples in the refrigerator.
+2. まだ + Negative
+	1. Not yet
+		- まだ食べていません。 - I haven't eaten yet.
 
 ### Examples
 
 #w 雪がまだ降っています。 (ゆき、ふ) - It is still snowing.
 #w ９月に海外旅行に行きます。今はまだ３月です。 (くがつ、かいがいりょこう、い、いま、さんがつ) - I will travel overseas in September. It is still March now.
 #w 冷蔵庫の中にリンゴがまだ５つあります。 (れいぞうこ、なか、いつ) - There are 5 more apples in the refrigerator.
+#w まだ食べていません。 (た) - I haven't eaten yet.
 
 # Vocabulary
 
-## やはり・やっぱり - as I though, still
+## やはり・やっぱり - as I thought, still
+→ [[grammar-index/grammar/vocabulary/Adverbs/yahari-yappari]]
+
+**Don't confuse with [通(とお)りに。。。 - exactly as, as, just like](/JapaneseNotes/grammar-index/grammar/toorini-exactly-as-as-just-like)** — 思ったとおりに is a more literal, explicit way to say "just as I thought / exactly as expected," whereas やはり/やっぱり conveys the same idea more idiomatically and can also mean "still" or "after all" depending on context.
 
 ### Use cases
 
-1.  As i thought
+1. As I thought
 	- あの人（ひと）はやはり弁護士（べんごし）です - As I thought, that person is a lawyer
 2. Situation where an outcome becomes the same despite several options being considered - after all
-	- 
+	- お土産（みやげ）はやっぱりカメラにします - I decided on a camera as a souvenir after all
 
-#w やはり/やっぱり - as I thought / still (written/spoken)
+#w やはり/やっぱり - as I thought / still | やはり is the neutral/written form, やっぱり is the casual spoken contraction
 #w あの人（ひと）はやはり弁護士（べんごし）です - As I thought, that person is a lawyer
 #w お土産（みやげ）はやっぱりカメラにします - I decided on a camera as a souvenir after all
-#w やはり日本製（にほんせい）の贈り物（おくりもの）の方（ほう）がいいと思います(お) - I think a present that's made in Japan
+#w やはり日本製（にほんせい）の贈り物（おくりもの）の方（ほう）がいいと思（お）います - I think a present made in Japan is better, after all.
 
 ---
-## 連絡（れんらく）-  contact
+## 連絡（れんらく）- contact
+→ [[grammar-index/grammar/vocabulary/Nouns/renraku]]
 
 ### Use cases
-1. 人＋**と**＋連絡（れんらく）**を**取る（と）- to get in touch with person
-	- お父（ちち）さん**と**連絡（れんらく）**を**取った（と）- I got in touch with my father
+1. 人 + **と** + 連絡（れんらく）を取る（と）- to get in touch with a person
+	- お父（ちち）さん**と**連絡（れんらく）を取った（と）- I got in touch with my father
 2. X **に** + 連絡（れんらく）する - to contact/notify X
-	- 部長（ぶちょう）に連絡（れんらく）する - to contact general manager
+	- 部長（ぶちょう）**に**連絡（れんらく）する - to contact the general manager
 
 ### Examples
 
 #w (ご)連絡 (れんらく) (する) - contact / to contact + verb
-#w 連絡（れんらく）を取る（とる）- get in touch
+#w 連絡（れんらく）を取る（と）- get in touch
 #w お父（ちち）さん**と**連絡（れんらく）を取った（と）- I got in touch with my father
-#w 部長（ぶちょう）に連絡（れんらく）する - to contact general manager
+#w 部長（ぶちょう）**に**連絡（れんらく）する - to contact the general manager
 
 ---
 
 ## Verbs
+→ [[grammar-index/grammar/verbs-tsukiau]]
 
-### 付き合う (つきあう)  - to associate with / to go out with
+### 付き合う (つきあう) - to associate with / to go out with
+→ [[grammar-index/grammar/vocabulary/Verbs/tsukiau]]
 
 #wc 付き合う (つきあう) - to associate with / to go out with
 
 #### Use cases
 
 1. Companionship (used between friends, colleagues, etc.)
-	- １０年（ねん）付き合った（つきあった）仲（なか）- a 10 year associated relationship
+	- １０年（ねん）付き合った（つきあった）仲（なか）- a 10-year relationship
 2. Boyfriend, girlfriend relationship
-	- 佐藤（さとう）くんは彼女（かのじょ）と大学（だいがく）から付き合っている（つきあって）- Mr Sato has been together with his girlfriend since university
+	- 佐藤（さとう）くんは彼女（かのじょ）と大学（だいがく）から付き合っている（つきあって）- Mr. Sato has been together with his girlfriend since university
 3. To do something together
-	- これから本屋（ほんや）に行く（い）だけど、付き合って（つきあって）くれる？ - I will go to the book store now, would you like to go with me? 
+	- これから本屋（ほんや）に行く（い）んだけど、付き合って（つきあって）くれる？ - I will go to the book store now, would you like to go with me?
 
-#w １０年（ねん）付き合った（つきあった）仲（なか）- a 10 year associated relationship
+#w １０年（ねん）付き合った（つきあった）仲（なか）- a 10-year relationship
 
-#w 佐藤（さとう）くんは彼女（かのじょ）と大学（だいがく）から付き合っている（つきあって）- Mr Sato has been together with his girlfriend since university
+#w 佐藤（さとう）くんは彼女（かのじょ）と大学（だいがく）から付き合っている（つきあって）- Mr. Sato has been together with his girlfriend since university
 
-#w これから本屋（ほんや）に行く（い）だけど、付き合って（つきあって）くれる？ - I will go to the book store now, would you like to go with me? 
+#w これから本屋（ほんや）に行く（い）んだけど、付き合って（つきあって）くれる？ - I will go to the book store now, would you like to go with me?
 
 
 # Summary
@@ -907,7 +949,7 @@ to recover / heal (from injury or illness) (intransitive) | for an illness or in
 
 
 I recovered from my cold #k #card
-風邪が治った(な)
+風邪が治った（なお）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_邪.html">邪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_治.html">治</a>
@@ -1099,7 +1141,7 @@ to be returned / go back (to a previous state) (intransitive) | for an object to
 
 
 I got my lost item back #k #card
-忘れ物（わすれもの）が 返った（かえ）
+忘れ物（わすれもの）が返った（かえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_忘.html">忘</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_返.html">返</a>
@@ -1421,7 +1463,7 @@ to wet (transitive) | to make something wet through one's own action #card
 
 
 to wet a handkerchief #card
-ハンドカチを濡らす（ぬ）
+ハンカチを濡らす（ぬ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_濡.html">濡</a>
 <!--ID: 1779824391755-->
 
@@ -1668,7 +1710,7 @@ I just came back #k #card
 
 
 I just ate a meal #k #card
-ご飯（はん）を食べた（た）ばかり
+ご飯（はん）を食べたばかり
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1779824391827-->
@@ -1682,7 +1724,7 @@ baby who was just born #k #card
 
 
 I just moved to a new house, so I haven't tidied up yet. #k #card
-新しい（あたら）家（いえ）に引っ越し（ひっこし）したばかりなので、まだ片付けていませんかたづ
+新しい（あたら）家（いえ）に引っ越し（ひっこし）したばかりなので、まだ片付け（かたづ）ていません
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_引.html">引</a>
@@ -1736,6 +1778,14 @@ I heard from Mr. Sato that the exam next week will be difficult. #k #card
 <!--ID: 1779824391852-->
 
 
+I heard it won't snow tomorrow. #k #card
+明日（あした）は雪（ゆき）が降らないそうだ。 (あした、ゆき、ふ)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雪.html">雪</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
+
+
 I heard from my friend that climbing Mt. Fuji seemed really difficult. #k #card
 友達から聞いたんですが、富士山に登るのは大変だったらしいです。 (ともだち、き、ふじさん、のぼ、たいへん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
@@ -1767,6 +1817,13 @@ The story seems to be true. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <!--ID: 1779824391864-->
+
+
+I heard he's a student #k #card
+彼（かれ）は学生（がくせい）らしいです
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 
 
 Here feels like America #card
@@ -1843,6 +1900,11 @@ There are 5 more apples in the refrigerator. #k #card
 <!--ID: 1779824391901-->
 
 
+I haven't eaten yet. #k #card
+まだ食べていません。 (た)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+
+
 as I thought / still | expresses that something turned out as expected, or a decision reached after weighing options; やっぱり is the casual, spoken contraction of the more neutral/written やはり #card
 やはり/やっぱり
 <!--ID: 1779824391905-->
@@ -1864,8 +1926,8 @@ I decided on a camera as a souvenir after all #k #card
 <!--ID: 1779824391913-->
 
 
-I think a present that's made in Japan #k #card
-やはり日本製（にほんせい）の贈り物（おくりもの）の方（ほう）がいいと思います(お)
+I think a present made in Japan is better, after all. #k #card
+やはり日本製（にほんせい）の贈り物（おくりもの）の方（ほう）がいいと思（お）います
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_製.html">製</a>
@@ -1884,7 +1946,7 @@ contact / to contact + verb | to get in touch with someone by phone, email, or m
 
 
 get in touch #card
-連絡（れんらく）を取る（とる）
+連絡（れんらく）を取る（と）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_連.html">連</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_絡.html">絡</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_取.html">取</a>
@@ -1900,7 +1962,7 @@ I got in touch with my father #k #card
 <!--ID: 1779824391930-->
 
 
-to contact general manager #k #card
+to contact the general manager #k #card
 部長（ぶちょう）に連絡（れんらく）する
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
@@ -1931,7 +1993,7 @@ to associate with / to go out with | to keep company with someone — covering e
 <!--ID: 1779824391938-->
 
 
-a 10 year associated relationship #k #card
+a 10-year relationship #k #card
 １０年（ねん）付き合った（つきあった）仲（なか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
@@ -1940,7 +2002,7 @@ a 10 year associated relationship #k #card
 <!--ID: 1779824391942-->
 
 
-Mr Sato has been together with his girlfriend since university #k #card
+Mr. Sato has been together with his girlfriend since university #k #card
 佐藤（さとう）くんは彼女（かのじょ）と大学（だいがく）から付き合っている（つきあって）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_佐.html">佐</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_藤.html">藤</a>

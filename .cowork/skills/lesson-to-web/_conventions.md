@@ -93,6 +93,184 @@ Container files use `## Sub-topics` in place of the standard sections. Topic ind
 
 ---
 
+## File structure rules (vocabulary file)
+
+Vocabulary files (`grammar-index/grammar/vocabulary/**/*.md`) use one of two section orders, inferred once at creation time (see **## Structure format** below):
+
+**Flat (single sense):**
+1. Frontmatter (`---` block)
+2. `# <pattern>` — heading matching the `pattern` frontmatter field
+3. `## Structure`
+4. `## Examples`
+
+**Numbered (2+ distinct senses):**
+1. Frontmatter (`---` block)
+2. `# <pattern>` — heading matching the `pattern` frontmatter field
+3. `## 1. <Sense Name>` — `### Structure` + `### Examples`
+4. `## 2. <Sense Name>` — `### Structure` + `### Examples`
+5. (repeated for each additional sense)
+
+Vocabulary files never carry any of the following sections or frontmatter fields — these belong exclusively to grammar point files (see **File structure rules (grammar point file)** above) and exist to support the confusability graph, which vocabulary files never enter:
+- Sections: `## Use Cases`, `## Notes`, `## Register`, `## Often confused with`, `## See also`
+- Frontmatter fields: `function`, `register`, `confused_with`
+
+See `register-confusability-grammar.md` (explicit `vocabulary/` scope guard) and `see-also-grammar.md` (implicit exclusion — its algorithm only scans `## Sub-topics` / `## Entries` files, which vocabulary files never are) for why these files never receive this content.
+
+---
+
+## Structure format
+
+Canonical home for the single-vs-multi inference concept and every Structure-section template, shared across grammar point files and vocabulary files.
+
+**Inference concept** (applies to both file types): one unified thing → flat shape (a single `## Structure` + `## Examples`, or the bare `### Structure` + `### Examples` grouping within a container); two or more meaningfully distinct things → numbered `## N. <Name>` shape, each with its own `### Structure` + `### Examples` — examples are never pooled across numbered sections.
+
+**Content differs by file type**, even though the section shape and inference logic are shared:
+- Grammar point files — `Structure` content is a word-type conjugation table (Verb / い-adjective / な-adjective / Noun × Present / Negative / Past / Past-negative), because a grammar pattern attaches differently to different word types. See the full templates below.
+- Vocabulary files — `Structure` content is free-form prose (part of speech, reading, transitivity, collocations, a short attachment note where relevant) — never a forced conjugation table. A standalone word (e.g. a plain noun) has no word-type rows to fill.
+
+### Grammar point files — Structure 1
+
+```markdown
+# Pattern Name
+
+> One-line summary of what the pattern expresses.
+
+## Structure
+
+### Verb
+- Present:         V-plain + pattern        → example sentence
+- Negative:        V-ない + pattern          → example sentence
+- Past:            V-た + pattern            → example sentence
+- Past-negative:   V-なかった + pattern      → example sentence
+
+### い-adjective
+- Present:         Adj + pattern             → example sentence
+- Negative:        Adj-くない + pattern      → example sentence
+- Past:            Adj-かった + pattern      → example sentence
+- Past-negative:   Adj-くなかった + pattern  → example sentence
+
+### な-adjective
+- Present:         Adj + pattern             → example sentence
+- Negative:        Adj + じゃない + pattern  → example sentence
+- Past:            Adj + だった + pattern    → example sentence
+- Past-negative:   Adj + じゃなかった + pattern → example sentence
+
+### Noun
+- Present:         N + pattern               → example sentence
+- Negative:        N + じゃない + pattern    → example sentence
+- Past:            N + だった + pattern      → example sentence
+- Past-negative:   N + じゃなかった + pattern → example sentence
+
+## Examples
+
+[Full natural sentences showing real usage in context — required; leave empty if none available.
+One Markdown bullet (`- `) per sentence — see `_conventions.md` "## Examples content format"]
+
+## Use Cases
+
+Short description of when/how to use the pattern (1–3 sentences). Omit if the summary line already covers it.
+
+## Notes
+
+[Optional — nuances, contrasts, or learner pitfalls. Omit the section entirely if empty.]
+
+## See also
+
+- [Container Name](/JapaneseNotes/grammar-index/grammar/<slug>) — short reason
+```
+
+### Grammar point files — Structure 2
+
+```markdown
+# Pattern Name
+
+> One-line summary of what the pattern expresses.
+
+## 1. Use Case Name
+
+### Structure
+
+### Verb
+- Present: ...  → example
+- ...
+
+### い-adjective
+- ...
+
+(etc. — only applicable word types and tenses)
+
+### Examples
+
+[Full natural sentences for this use case only — required; leave empty if none available.
+One Markdown bullet (`- `) per sentence — see `_conventions.md` "## Examples content format"]
+
+## 2. Use Case Name
+
+### Structure
+
+(same format)
+
+### Examples
+
+(same format — this use case's own examples only)
+
+## Notes
+
+[Optional — omit if empty]
+
+## See also
+
+- [Container Name](/JapaneseNotes/grammar-index/grammar/<slug>) — short reason
+```
+
+### Vocabulary files — flat (single sense)
+
+```markdown
+# <heading>
+
+## Structure
+
+[Free-form prose: part of speech, reading, transitivity, collocations, an attachment note
+where relevant. No word-type conjugation table.]
+
+## Examples
+
+[One Markdown bullet (`- `) per sentence — see `_conventions.md` "## Examples content format"]
+```
+
+### Vocabulary files — numbered (2+ distinct senses)
+
+```markdown
+# <heading>
+
+## 1. <Sense Name>
+
+### Structure
+
+[Free-form prose, scoped to this sense only.]
+
+### Examples
+
+[One Markdown bullet (`- `) per sentence, scoped to this sense only — never pooled across
+senses.]
+
+## 2. <Sense Name>
+
+### Structure
+
+(same format — this sense's own content only)
+
+### Examples
+
+(same format — this sense's own examples only)
+```
+
+**Applied by:**
+- `structure-grammar.md` Step 7 — grammar point files, post-processing pass, user-confirmed reformat.
+- `extract-grammar.md` Step 7b — vocabulary files, creation-time only, user-confirmed before the file is written; never re-entered later by `structure-grammar.md`.
+
+---
+
 ## Examples content format
 
 Every example sentence inside an Examples section is one Markdown bullet (`- `), never a
@@ -102,9 +280,11 @@ shape an Examples section takes, in every file type that has one:
 - `### Examples` — nested under each `## N. Use Case Name` heading in Structure 2 grammar
   point files. Each use case's examples stay scoped to that use case only — never pooled
   into one shared list across use cases.
-- `### Examples` — inside vocabulary files (`grammar-index/grammar/vocabulary/**`). Applies
-  only to the Examples section itself; other copied content (e.g. a `### Use cases` section)
-  keeps whatever list/heading structure it already has in the source lesson.
+- `## Examples` — flat vocabulary files (`grammar-index/grammar/vocabulary/**`, single-sense
+  shape).
+- `### Examples` — nested under each `## N. <Sense Name>` heading in numbered vocabulary
+  files (2+ distinct senses). Each sense's examples stay scoped to that sense only — never
+  pooled into one shared list across senses.
 
 ```
 ## Examples
@@ -113,10 +293,11 @@ shape an Examples section takes, in every file type that has one:
 - 家(いえ)に帰(かえ)ると、妻(つま)が晩(ばん)ご飯(はん)を作(つく)るところだった。 - When I got home, my wife was just about to make dinner.
 ```
 
-Applies whenever this section is written or rewritten — extract-grammar on file creation
-(both grammar point files and vocabulary files), and structure-grammar on any reformat into
-Structure 1 or Structure 2. Dialogue examples (A: ... B: ...) stay on one bullet per
-exchange, not split across two bullets.
+Applies whenever this section is written or rewritten — extract-grammar on file creation for
+grammar point files, and on file creation for vocabulary files via the Step 7b flat/numbered
+inference (see **## Structure format** above); structure-grammar on any reformat into
+Structure 1 or Structure 2 for grammar point files. Dialogue examples (A: ... B: ...) stay on
+one bullet per exchange, not split across two bullets.
 
 ---
 

@@ -11,7 +11,9 @@
 - [V「て-form」くる / きた / いく — action continuing over time](/JapaneseNotes/grammar-index/grammar/te-kuru-kita-iku) · N4
 
 - [名詞（めいし） + 中（ちゅう・じゅう）- during](/JapaneseNotes/grammar-index/grammar/meishi-chuu-juu-during) · N4
+- [V「た」ばかり - action that just ended](/JapaneseNotes/grammar-index/grammar/ta-bakari) · N4
 
 ## See also
 
 - [Verb Te-Form](/JapaneseNotes/grammar-index/verb-te-form) — ているところです is built on the て-form progressive
+- [Temporal Adverbs](/JapaneseNotes/grammar-index/temporal-adverbs) — both mark an action's status relative to the present moment

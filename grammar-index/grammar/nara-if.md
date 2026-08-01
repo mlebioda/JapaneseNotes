@@ -5,7 +5,7 @@ topic_slug: ["conditionals"]
 function: ["conditional"]
 level: N4
 register: neutral
-confused_with: ["joukenkei-ba-conditional-form", "baai-in-case-of-if", "v-ba-iidesuka"]
+confused_with: ["joukenkei-ba-conditional-form", "baai-in-case-of-if", "v-ba-iidesuka", "past-tense-tara-if"]
 proofread: true
 ---
 
@@ -67,6 +67,7 @@ Register: neutral
 - [条件形（じょうけんけい）- ば - conditional form](/JapaneseNotes/grammar-index/grammar/joukenkei-ba-conditional-form) — test: does B react to an already-stated/assumed plan (なら) or express a general hypothetical/logical condition (ば)?
 - [。。。場合は, 。。。 - in case of, if](/JapaneseNotes/grammar-index/grammar/baai-in-case-of-if) — test: is this reacting to an already-mentioned plan or premise (なら) or framing a general contingency scenario (場合は)?
 - [Interrogative V conditional form + 　いいですか - ask for opinion or advice](/JapaneseNotes/grammar-index/grammar/v-ba-iidesuka) — test: is this an open interrogative "what should I do" advice question (ば/たら, なら doesn't fit) or a reaction to an already-assumed plan (なら)?
+- [past tense + たら - if](/JapaneseNotes/grammar-index/grammar/past-tense-tara-if) — test: Does the condition happen before the result (たら), or is the speaker reacting to something already mentioned/known (なら)?
 
 ## See also
 

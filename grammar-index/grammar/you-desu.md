@@ -5,7 +5,7 @@ topic_slug: ["similarity-inference"]
 function: ["comparison", "hearsay-appearance"]
 level: N4
 register: neutral
-confused_with: ["marude", "n-ga-shimasu", "hazudesu-should-do-ought-logically"]
+confused_with: ["marude", "n-ga-shimasu", "hazudesu-should-do-ought-logically", "sou-desu-hearsay", "rashii-desu"]
 proofread: true
 ---
 
@@ -68,6 +68,8 @@ Register: neutral
 - [まるで - just like / not at all](/JapaneseNotes/grammar-index/grammar/marude) — test: Just stating a general impression of similarity, or emphasizing that the resemblance is total/complete?
 - [N が します](/JapaneseNotes/grammar-index/grammar/n-ga-shimasu) — test: Is this an inference based on how something appears (ようです), or a direct sensory perception like smell/taste/sound (がする)?
 - [。。。はずです - should do/ought (logically)](/JapaneseNotes/grammar-index/grammar/hazudesu-should-do-ought-logically) — test: Is the speaker deducing from known facts/reasoning (はずです) or judging from what they can see/sense (ようです)?
+- [V「plain」そうです / そうだ - It is said that / I heard](/JapaneseNotes/grammar-index/grammar/sou-desu-hearsay) — test: Is this something the speaker heard from someone else (そうです), or an inference the speaker is making themself from indirect evidence (ようです)?
+- [。。。らしいです - it seems](/JapaneseNotes/grammar-index/grammar/rashii-desu) — test: Is this based on hearsay or a typical/stereotypical impression (らしいです), or the speaker's own direct inference from evidence (ようです)?
 
 ## See also
 

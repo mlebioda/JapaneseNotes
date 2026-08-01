@@ -79,56 +79,12 @@ Options:
 What should I do?
 ```
 
-#### Structure 1 — Shared structure across word types
+#### Structure 1 and Structure 2 templates
 
-```markdown
-# Pattern Name
-
-> One-line summary of what the pattern expresses.
-
-## Structure
-
-### Verb
-- Present:         V-plain + pattern        → example sentence
-- Negative:        V-ない + pattern          → example sentence
-- Past:            V-た + pattern            → example sentence
-- Past-negative:   V-なかった + pattern      → example sentence
-
-### い-adjective
-- Present:         Adj + pattern             → example sentence
-- Negative:        Adj-くない + pattern      → example sentence
-- Past:            Adj-かった + pattern      → example sentence
-- Past-negative:   Adj-くなかった + pattern  → example sentence
-
-### な-adjective
-- Present:         Adj + pattern             → example sentence
-- Negative:        Adj + じゃない + pattern  → example sentence
-- Past:            Adj + だった + pattern    → example sentence
-- Past-negative:   Adj + じゃなかった + pattern → example sentence
-
-### Noun
-- Present:         N + pattern               → example sentence
-- Negative:        N + じゃない + pattern    → example sentence
-- Past:            N + だった + pattern      → example sentence
-- Past-negative:   N + じゃなかった + pattern → example sentence
-
-## Examples
-
-[Full natural sentences showing real usage in context — required; leave empty if none available.
-One Markdown bullet (`- `) per sentence — see `_conventions.md` "## Examples content format"]
-
-## Use Cases
-
-Short description of when/how to use the pattern (1–3 sentences). Omit if the summary line already covers it.
-
-## Notes
-
-[Optional — nuances, contrasts, or learner pitfalls. Omit the section entirely if empty.]
-
-## See also
-
-- [Container Name](/JapaneseNotes/grammar-index/grammar/<slug>) — short reason
-```
+The full templates for Structure 1 (shared structure across word types) and Structure 2
+(distinct use cases) live in `_conventions.md`'s **## Structure format** section, labeled
+"Grammar point files — Structure 1" and "Grammar point files — Structure 2" — reformat the
+file into whichever template was confirmed above.
 
 Section order follows `_conventions.md` **File structure rules**: Structure → Examples → Use Cases → Notes → See also.
 
@@ -140,51 +96,14 @@ Omit word-type sections and tense rows that do not apply. Each remaining row mus
   bullet (`- `) per sentence — see `_conventions.md` "## Examples content format".
 - Within `## Structure`, order content: formation rules first, exception tables/blocks after — the reader must meet the basic pattern before its special cases, regardless of the order in the source lesson.
 
-#### Structure 2 — Distinct use cases
+Each use case (Structure 2) is a numbered `##` header. Structure subsections follow the same word-type / tense pattern as Structure 1, limited to what applies. **Examples nest under each use case as its own `### Examples` subsection** — unlike Structure 1's single shared `## Examples` section, Structure 2 has no top-level Examples section at all; every example belongs to exactly one use case. If the attachment structure itself is identical across use cases (only the meaning/examples differ), repeat the shared `### Structure` content under each use case rather than hoisting it out — each use-case section must stay self-contained.
 
-```markdown
-# Pattern Name
-
-> One-line summary of what the pattern expresses.
-
-## 1. Use Case Name
-
-### Structure
-
-### Verb
-- Present: ...  → example
-- ...
-
-### い-adjective
-- ...
-
-(etc. — only applicable word types and tenses)
-
-### Examples
-
-[Full natural sentences for this use case only — required; leave empty if none available.
-One Markdown bullet (`- `) per sentence — see `_conventions.md` "## Examples content format"]
-
-## 2. Use Case Name
-
-### Structure
-
-(same format)
-
-### Examples
-
-(same format — this use case's own examples only)
-
-## Notes
-
-[Optional — omit if empty]
-
-## See also
-
-- [Container Name](/JapaneseNotes/grammar-index/grammar/<slug>) — short reason
-```
-
-Each use case is a numbered `##` header. Structure subsections follow the same word-type / tense pattern as Structure 1, limited to what applies. **Examples nest under each use case as its own `### Examples` subsection** — unlike Structure 1's single shared `## Examples` section, Structure 2 has no top-level Examples section at all; every example belongs to exactly one use case. If the attachment structure itself is identical across use cases (only the meaning/examples differ), repeat the shared `### Structure` content under each use case rather than hoisting it out — each use-case section must stay self-contained.
+**Vocabulary files are out of scope for this skill.** Vocabulary files
+(`grammar-index/grammar/vocabulary/**`) are structured at creation time by
+`extract-grammar.md` Step 7b, using the same shared inference concept from
+`_conventions.md`'s **## Structure format** section, and never enter this post-processing
+pass. This is a documentation cross-reference only — this skill's container-file-detection
+logic and file-path handling are unchanged; it is not extended to accept `vocabulary/` paths.
 
 ---
 

@@ -6,6 +6,13 @@
 - [communication-verbs](/JapaneseNotes/grammar-index/communication-verbs) — Verbs for informing, telling, reporting, and contacting others.
 - [causative](/JapaneseNotes/grammar-index/causative) — Patterns for making or letting someone do something (使役形), including the humble causative-request forms used to ask permission from a superior.
 - [passive-voice](/JapaneseNotes/grammar-index/passive-voice) — Patterns for the passive/receptive verb form (受身形) — direct passive, suffering passive, agentless informational passive, and material/ingredient passive.
+- [verb-transitivity](/JapaneseNotes/grammar-index/verb-transitivity) — Patterns and vocabulary for the transitive/intransitive (他動詞／自動詞) verb pair system — which particle a verb takes and how paired verbs differ in meaning.
+- [verb-volitional-form](/JapaneseNotes/grammar-index/verb-volitional-form) — Patterns built on the verb volitional form (行こう, 食べよう) — expressing the speaker's will, a suggestion, or an intention still being considered.
+
+## Particles
+
+- [particles-restrictive](/JapaneseNotes/grammar-index/particles-restrictive) — Patterns for limiting a statement to a single item or option — "only" — しか (with negative form) and だけ (with affirmative form).
+- [particles-mo](/JapaneseNotes/grammar-index/particles-mo) — Patterns built on the particle も — listing items, pairing "both A and B," emphasizing something unexpected, and (with an interrogative) expressing total affirmation or total denial.
 
 ## Patterns
 
@@ -25,10 +32,14 @@
 - [obligation-necessity](/JapaneseNotes/grammar-index/obligation-necessity) — Patterns expressing obligation, prohibition, necessity, and permission — from strongest "must" to "don't have to" to "may" — plus はずです, the related epistemic pattern for logical expectation.
 - [manner-accordance](/JapaneseNotes/grammar-index/manner-accordance) — Patterns for describing an action performed in accordance with a plan, instruction, or expectation — 通り／どおり, and related forms.
 - [subordinate-clauses](/JapaneseNotes/grammar-index/subordinate-clauses) — Patterns describing how a subordinate clause carries its own が-marked subject, separate from the main clause's subject — とき, てから, まえに, たら, ても, and related connectors.
+- [hearsay-reported-speech](/JapaneseNotes/grammar-index/hearsay-reported-speech) — Patterns for reporting information heard from someone else, rather than experienced directly — そうです（伝聞）, らしいです.
+- [ease-difficulty](/JapaneseNotes/grammar-index/ease-difficulty) — Patterns for describing how easy or difficult an action is to do, attaching to a verb's ます-stem: やすい, にくい.
 
 ## Forms & Counters
 
 - [counters-numbers](/JapaneseNotes/grammar-index/counters-numbers) — Number/counter reference tables — how to count different categories of objects.
+- [temporal-adverbs](/JapaneseNotes/grammar-index/temporal-adverbs) — Adverbs marking the ongoing status of a state relative to expectation — still happening, no longer happening, already happened, not yet happened: まだ, もう.
+- [range-interval](/JapaneseNotes/grammar-index/range-interval) — Patterns marking a range or span — a distance/time interval, a specific action occurring within a span, or a state holding across a group: 間.
 
 ## Other
 
@@ -36,3 +47,4 @@
 - [polite-expressions](/JapaneseNotes/grammar-index/polite-expressions) — Teineigo (丁寧語) — the neutral polite register (ます／です and their formal variants) showing formality and social distance, independent of relative rank.
 - [respectful-expressions](/JapaneseNotes/grammar-index/respectful-expressions) — Sonkeigo (尊敬語) — patterns for raising the status of the listener, a customer, a superior, or a respected third party.
 - [politeness-hierarchy](/JapaneseNotes/grammar-index/politeness-hierarchy) — Compares the three 尊敬語 verb-formation patterns by formality level, from highest to lowest: dedicated special verbs, お＋ます形＋になる, and the られる passive-form pattern.
+- [relationships](/JapaneseNotes/grammar-index/relationships) — Vocabulary and expressions for describing interpersonal relationships — friendships, romantic relationships, and social bonds.

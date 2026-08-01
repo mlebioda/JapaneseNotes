@@ -5,7 +5,7 @@ topic_slug: ["conditionals"]
 function: ["conditional"]
 level: N4
 register: neutral
-confused_with: ["moshi-if", "joukenkei-ba-conditional-form", "nara-if"]
+confused_with: ["moshi-if", "joukenkei-ba-conditional-form", "nara-if", "past-tense-tara-if"]
 proofread: true
 ---
 
@@ -45,6 +45,7 @@ Register: neutral
 - [もし - if](/JapaneseNotes/grammar-index/grammar/moshi-if) — test: Are you describing a specific circumstantial case, often in formal/procedural contexts (場合は), or just flagging general hypothetical uncertainty before a ば/たら/なら clause (もし)?
 - [条件形（じょうけんけい）- ば - conditional form](/JapaneseNotes/grammar-index/grammar/joukenkei-ba-conditional-form) — test: is this a general hypothetical "if A then B" (ば) or a specific contingency/scenario instruction "in the case that A happens" (場合は)?
 - [。。。なら。。。- if](/JapaneseNotes/grammar-index/grammar/nara-if) — test: is this a general contingency scenario (場合は) or a reaction to an already-mentioned plan or premise (なら)?
+- [past tense + たら - if](/JapaneseNotes/grammar-index/grammar/past-tense-tara-if) — test: Is this an everyday conditional (たら), or a more formal reference to a hypothetical case/scenario (場合は)?
 
 ## See also
 

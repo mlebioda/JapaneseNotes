@@ -7,6 +7,8 @@
 - [V「dict」 こと ＋ に　＋ する - I decided (on my own will)](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-suru-i-decided-on-my-own-will) · N4
 - [V「dict」 こと ＋ に + なります - It was decided](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-narimasu-it-was-decided) · N4
 - [V「dict」 こと ＋ に + なっています - It is supposed to](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-natteimasu-it-is-supposed-to) · N4
+- [V「plain」つもりです - conviction of doing something planned by speaker](/JapaneseNotes/grammar-index/grammar/vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker) · N4
+- [V「plain」予定です（よてい）- plan, scheduled - fixed schedule regardless of the speaker intention](/JapaneseNotes/grammar-index/grammar/yotei-desu-plan-scheduled) · N4
 
 ## See also
 

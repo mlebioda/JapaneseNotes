@@ -347,7 +347,11 @@ proofread: false
 List only the sub-headings that were classified as `grammar` or `container` (not `skip`).
 As with grammar point files, always omit `## Notes` on creation — never emit an empty section.
 
-**Vocabulary file format** — used for `grammar` headings sourced from `# Vocabulary`:
+**Vocabulary file format** — used for `grammar` headings sourced from `# Vocabulary`.
+
+Frontmatter and heading block (literal — the only markdown extract-grammar.md keeps inline
+for vocabulary files; it is unique to this skill's file-creation step and is not part of the
+shared Structure format templates in `_conventions.md`):
 
 ```
 ---
@@ -359,17 +363,54 @@ proofread: false
 ---
 
 # <exact heading text>
-
-<body content with #w / #wc / #wp tag prefixes stripped>
 ```
 
+**Step 7b-i — infer single sense vs 2+ distinct senses**
+
+Read the heading's collected body (from step 4) and judge whether it describes one unified
+sense, or two-plus genuinely different senses (not just different grammatical forms of the
+same meaning — the same test `structure-grammar.md` applies to grammar use cases, scoped
+here to a vocabulary word's senses). Existing source structure (a `### Use cases` or
+`### Meaning` list with 2+ distinct entries) is a strong signal but not authoritative.
+
+Propose the shape to the user and wait for confirmation before writing the file, using a
+prompt in the same style as `structure-grammar.md`'s ambiguity prompt:
+
+```
+Vocabulary word: <heading text> (<slug>)
+Content summary: <brief description of what senses/uses appear in the source body>
+
+Options:
+  1. Single sense — flat ## Structure / ## Examples
+  2. <N> distinct senses — numbered ## 1..<N> sections: <proposed sense names>
+  3. Skip structuring — write flat shape anyway (fallback for genuinely unclear content)
+
+Which should I use?
+```
+
+A user override of sense count or names is used verbatim in Step 7b-ii.
+
+**Step 7b-ii — populate the file**
+
+Populate the body per the flat or numbered vocabulary template in `_conventions.md`'s
+**## Structure format** section — "Vocabulary files — flat (single sense)" or "Vocabulary
+files — numbered (2+ distinct senses)" — chosen per the Step 7b-i inference. Reference the
+template by name only; do **not** restate its markdown inline here.
+
 Rules for vocabulary file body:
-- Copy the entire body content from the lesson file verbatim.
 - Strip only the tag prefix from lines that start with `#w `, `#wc `, or `#wp ` — keep everything after the tag and space.
   - `#w こんな - like this/ so` → `こんな - like this/ so`
   - `#wc 出来る（でき）- to be built` → `出来る（でき）- to be built`
-- Lines without a tag prefix (prose, bullet points, sub-headings) are copied unchanged, **except** lines that fall under an existing `### Examples` heading — format those per `_conventions.md` "## Examples content format" (one Markdown bullet (`- `) per line, no blank-line-separated paragraphs).
-- Do **not** add `## Structure`, `## Meaning`, `## Examples`, or `## Notes` sections — only reformat an `### Examples` section the source lesson already has.
+- Sort the (tag-stripped) body content into the `Structure` and `Examples` buckets of the
+  confirmed template, per sense where numbered:
+  - `Structure` — free-form prose: part of speech, reading, transitivity, collocations, an
+    attachment note where relevant, and any source `### Structure` line.
+  - `Examples` — bulleted, one sentence per bullet, per `_conventions.md` "## Examples
+    content format".
+  This replaces copying the body as one verbatim block — content is reorganized into these
+  buckets, not pasted as-is.
+- Do **not** add `## Use Cases`, `## Notes`, `## Register`, or `## Often confused with`
+  sections (cross-reference `_conventions.md` "File structure rules (vocabulary file)").
 - Do **not** create a topic index entry (step 9) for vocabulary files — their subdir path is their classification.
 
 Target path: `grammar-index/grammar/vocabulary/<subdir>/<slug>.md`

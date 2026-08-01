@@ -5,7 +5,7 @@ topic_slug: ["decisions-plans"]
 function: []
 level: N4
 register: neutral
-confused_with: ["v-dict-koto-ni-suru-i-decided-on-my-own-will", "v-dict-koto-ni-narimasu-it-was-decided", "hazudesu-should-do-ought-logically"]
+confused_with: ["v-dict-koto-ni-suru-i-decided-on-my-own-will", "v-dict-koto-ni-narimasu-it-was-decided", "hazudesu-should-do-ought-logically", "yotei-desu-plan-scheduled"]
 proofread: true
 ---
 
@@ -44,6 +44,7 @@ Used across casual and formal speech alike — politeness comes from the sentenc
 - [V「dict」 こと ＋ に　＋ する - I decided (on my own will)](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-suru-i-decided-on-my-own-will) — test: Is this an already-established rule or arrangement, or a firm decision the speaker just made?
 - [V「dict」 こと ＋ に + なります - It was decided](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-narimasu-it-was-decided) — test: Is this an ongoing established arrangement/rule, or the one-time event of something getting decided?
 - [。。。はずです - should do/ought (logically)](/JapaneseNotes/grammar-index/grammar/hazudesu-should-do-ought-logically) — test: Is this an external rule or arrangement set by someone else, or the speaker's own logical expectation about something?
+- [V「plain」予定です（よてい）- plan, scheduled - fixed schedule regardless of the speaker intention](/JapaneseNotes/grammar-index/grammar/yotei-desu-plan-scheduled) — test: Is this a general established rule/routine arrangement (ことになっている), or a specific upcoming scheduled event (予定です)?
 
 ## See also
 

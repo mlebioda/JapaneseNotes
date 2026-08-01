@@ -5,7 +5,7 @@ topic_slug: ["conditionals", "requests-commands"]
 function: ["conditional", "request"]
 level: N4
 register: tiered
-confused_with: ["nara-if"]
+confused_with: ["nara-if", "interrogative-vtara-iidesuka-ask-for-advice-or-instructions"]
 proofread: true
 ---
 
@@ -40,6 +40,7 @@ Register: tiered (polite / casual)
 ## Often confused with
 
 - [。。。なら。。。- if](/JapaneseNotes/grammar-index/grammar/nara-if) — test: can なら replace ば here for an open interrogative "what should I do" question (no — なら needs an already-assumed premise to react to), or must ば/たら be used?
+- [interrogative V「た」ら + いいですか - ask for advice or instructions](/JapaneseNotes/grammar-index/grammar/interrogative-vtara-iidesuka-ask-for-advice-or-instructions) — test: Is this the たら-conditional version of "what should I do?" (たら, equally common and often more natural in speech), or the ば-conditional version (ば)?
 
 ## See also
 

@@ -5,7 +5,7 @@ topic_slug: ["decisions-plans"]
 function: ["intention"]
 level: N4
 register: neutral
-confused_with: ["you-ni-shimasu", "v-dict-koto-ni-narimasu-it-was-decided", "v-dict-koto-ni-natteimasu-it-is-supposed-to"]
+confused_with: ["you-ni-shimasu", "v-dict-koto-ni-narimasu-it-was-decided", "v-dict-koto-ni-natteimasu-it-is-supposed-to", "volitional-form-totteimasu-im-thinking-of", "vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker"]
 proofread: true
 ---
 
@@ -43,6 +43,8 @@ Used across casual and formal speech alike — politeness comes from the sentenc
 - [ようにします - working hard on / making an effort to](/JapaneseNotes/grammar-index/grammar/you-ni-shimasu) — test: Are you stating a firm, one-time decision, or an ongoing effort/resolution you keep making?
 - [V「dict」 こと ＋ に + なります - It was decided](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-narimasu-it-was-decided) — test: Did the speaker decide this themselves, or was it decided by someone/something else?
 - [V「dict」 こと ＋ に + なっています - It is supposed to](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-natteimasu-it-is-supposed-to) — test: Is this a firm decision the speaker just made, or an already-established rule or arrangement?
+- [Volitional form + と思っています - I'm thinking of](/JapaneseNotes/grammar-index/grammar/volitional-form-totteimasu-im-thinking-of) — test: Is this an ongoing consideration, or a firm one-time decision the speaker has just made? (と思っています = considering; ことにする = firm decision)
+- [V「plain」つもりです - conviction of doing something planned by speaker](/JapaneseNotes/grammar-index/grammar/vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker) — test: Is this an ongoing personal resolution/plan (つもりです), or a firm, one-time decision the speaker has just made (ことにする)?
 
 ## See also
 

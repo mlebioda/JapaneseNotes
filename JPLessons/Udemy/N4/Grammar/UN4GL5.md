@@ -19,17 +19,17 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL5-Iam-thinking-of-working-japan-in
 ---
 
 #w 間 (あいだ) - distance / interval / range (during, among)
-#w 駅から家までの間 (えき、いえ、いあだ) - form the station to my home (distance)
+#w 駅から家までの間 (えき、いえ、あいだ) - from the station to my home (distance)
 #w １０時から 11時までの間 (じ、あいだ) - in range of from 10:00 to 11:00
 
 #w 休みの**間**に勉強する（あいだ）- to study **during** the holiday
-#w 学校の間で人気がある (あいだ、にんき) - be popular among the students
+#w 学生の間で人気がある (がくせい、あいだ、にんき) - be popular among the students
 
 #w つもり - intention
 
 ---
 
-#w (ご)都合 (つごう) (often with いい、わるい)-  convenience (polite/casual) (for you, not if something is convenient, someone availability)
+#w (ご)都合 (つごう) - availability / convenience (refers to a person's schedule, not whether a thing itself is convenient; often paired with いい/わるい)
 
 #w （ご）都合がいい（つごう）- to be convenient
 #w （ご）都合が悪い（つごう、わる）- to be inconvenient
@@ -85,7 +85,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL5-Iam-thinking-of-working-japan-in
 #w 線 (せん) - line (something long and continuous)
 #w 電話線（でんわせん）- telephone line
 #w ....線（せん）- line (train line name)
-#w 何戦（なにせん）- what line
+#w 何線（なにせん）- what line
 #w 山手線（やまのてせん）- Yamanote line
 #w 日比谷線（ひびやせん）- Hibiya line
 #w 銀座線（ぎんざせん）- Ginza line
@@ -168,42 +168,44 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL5-Iam-thinking-of-working-japan-in
 # 文法
 
 ## いこうけい - Volitional form
+→ [[grammar-index/grammar/ikoukei-volitional-form]]
 
 - Used to express the subject's intention and will, such as when asking someone something
 
 Structure:
 - Group 1:
-	- 行く - いこう
-	- 読む - 読もう
-	- 帰る - 帰ろう
-	- 走る - 走ろう (はし)
-	- 遊ぶ（あそ) - あそぼう
+	- 行く（い）- 行こう
+	- 読む（よ）- 読もう
+	- 帰る（かえ）- 帰ろう
+	- 走る（はし）- 走ろう
+	- 遊ぶ（あそ）- あそぼう
 	- およぐ - およごう
-	- 立つ - たとう
-	- はいる - 入ろう
+	- 立つ（た）- 立とう
+	- 入る（はい）- 入ろう
 - Group 2:
-	- 食べる - 食べよう
-	- 教える - 教えよう
-	- 借りる - 借りよう
-	- 教える -  教えよう
+	- 食べる（た）- 食べよう
+	- 教える（おし）- 教えよう
+	- 借りる（か）- 借りよう
 - Group 3:
-	- 来る - こよう
+	- 来る（く）- 来よう
 	- する - しよう
 	- じゅんびする - じゅんびしよう
 
-ましょう - is volitional form 
+Register: plain volitional (行こう, 食べよう) is casual; ましょう (ます-stem + ましょう, e.g. 行きましょう) is the polite equivalent.
 
-#w ランチを食べに　行こう・行きましょう - Let's go for luch　（plain and masu form of volitional)
+#w ランチを食べに行こう・行きましょう - Let's go for lunch (plain and ます forms of the volitional)
 
 #w 明日わたしは休みなので、いっしょに映画を見に行こうか。(あす, やす, えいが, み, い) - Tomorrow is my day off, shall we go watch a movie together?
-#w A: 来週引っ越しします。(らいしゅう, ひ, こ) B: 手伝おうか。(てつだ) - A: I will move next week. B: Do you need my help? 
-(volitional)
+#w A: 来週引っ越しします。(らいしゅう, ひ, こ) B: 手伝おうか。(てつだ) - A: I will move next week. B: Do you need my help?
 #w 山田さんはまだ来ていないね。彼に電話しよう。(やまだ, き, かれ, でんわ) - Mr. Yamada has not come yet. Let's call him.
 
 ---
-## Volitional form + と思っています - i'm thinking of
+## Volitional form + と思っています - I'm thinking of
+→ [[grammar-index/grammar/volitional-form-totteimasu-im-thinking-of]]
 
-- Use when you say about your intention
+- Used to state your intention
+
+**Don't confuse with [V「dict」ことにする - I decided (on my own will)](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-suru-i-decided-on-my-own-will)** — と思っています expresses an intention you're still considering, while ことにする is a firm, one-time decision. つもりです (later in this lesson) sits in between the two.
 
 - Structure
 	- Volitional form + と思っています
@@ -215,33 +217,39 @@ Structure:
 
 ---
 ## past tense + たら - if
+→ [[grammar-index/grammar/past-tense-tara-if]]
 
 - Structure:
-	- A　V 「た」ら　B
-	- A　いadk -> かったら　B
-	- A　なadj + だったら　 B
-	- A 　N + だったら 　B
+	- A　V「た」ら　B
+	- A　い-adjective (drop い) + かったら　B
+	- A　な-adjective + だったら　B
+	- A　N + だったら　B
 
-Diference between たら and と
-- たら 
-	- A has not happened yet triggers B as one of the results
-	- しゅくだいができたら、私に出してください - If you finish the homework, please submit to me
+Difference between たら and と
+- たら
+	- A hasn't happened yet; B is one possible result once it does
+	- しゅくだいができたら、私に出してください - If you finish the homework, please submit it to me
 	- cannot be said using と
-- と 
-	- A habitually causes B
+- と
+	- A habitually/automatically causes B
 	- 左へ曲がると、病院が見えます（ひだり、まが、びょういん、み）- If you turn left, you can see a hospital
-	- Can be said by たら
+	- can also be expressed using たら
+
+Key test: と cannot be followed by a volitional, request, or command in clause B — that's why the homework example above must use たら (出してください is a request; しゅくだいができると、出してください would be ungrammatical).
 
 ---
 ### interrogative V「た」ら + いいですか - ask for advice or instructions
+→ [[grammar-index/grammar/interrogative-vtara-iidesuka-ask-for-advice-or-instructions]]
+
+**Don't confuse with [Interrogative V conditional form「ば」+ いいですか](/JapaneseNotes/grammar-index/grammar/v-ba-iidesuka)** — the ば version of this same pattern; たら is an equally common, often more natural-in-speech alternative to ば here, not a different meaning.
 
 Structure:
 - Interrogative V「た」ら + いい(です)か - ask for advice or instructions
-	- どうしたらいいか、わかりません - Idk what to do
+	- どうしたらいいか、わかりません - I don't know what to do
 
-#w **どう**(interrogative)したらいいか、わかりません - Idk what to do
+#w **どう**したらいいか、わかりません - I don't know what to do
 
-#w しゅくだいができたら、私に出してください - If you finish the homework, please submit to me
+#w しゅくだいができたら、私に出してください - If you finish the homework, please submit it to me
 #w 左へ曲がると、病院が見えます（ひだり、まが、びょういん、み）- If you turn left, you can see a hospital
 
 #w 雨が降ったら、遊園地に行きません。(あめ、ふ、ゆうえんち、い) - If it rains, we won't go to the amusement park.
@@ -250,107 +258,170 @@ Structure:
 
 #w 暇だったら、家で一緒にゲームをやろうか。(ひま、いえ、いっしょ) - If you're free, let's play a game together at my house.
 
-#w A: 明日日本語のスピーチで何を言ったらいいですか。(あした、にほんご、なに、い)  B: 日本の留学生活のことを話したほうがいいと思います。(にほん、りゅうがくせいかつ、はな、おも) -A : What should I say in tomorrow's Japanese speech? B: I think you'd better talk about something about your life studying abroad in Japan.
+#w A: 明日日本語のスピーチで何を言ったらいいですか。(あした、にほんご、なに、い) B: 日本の留学生活のことを話したほうがいいと思います。(にほん、りゅうがくせいかつ、はな、おも) - A: What should I say in tomorrow's Japanese speech? B: I think you'd better talk about your life studying abroad in Japan.
 
-#w A: 秋葉原に行きたいんですが、何戦に乗ったらいいですか B: 地下鉄のひびや線で行けます（あにせん、の、ちかてつ、せん) - A: I want go to Akihabara, which line should i take? B: You can go there by the subway Hibiya line
+#w A: 秋葉原に行きたいんですが、何線に乗ったらいいですか。B: 地下鉄のひびや線で行けます。(あきはばら、い、なにせん、の、ちかてつ、せん) - A: I want to go to Akihabara, which line should I take? B: You can go there by the subway Hibiya line
 
 ---
 ## V「plain」つもりです - conviction of doing something planned by speaker
+→ [[grammar-index/grammar/vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker]]
 
-- Express some intension or resolution more than volitional form と思います
+- Expresses a stronger intention or resolution than volitional form + と思います
+
+**Don't confuse with [V「dict」ことにする - I decided (on my own will)](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-suru-i-decided-on-my-own-will)** — つもりです is a personal intention/resolution, while ことにする is a firm, one-time decision; と思っています (earlier in this lesson) is the weakest of the three.
+
+Register: つもりです is the polite form; dropping です gives the plain/casual equivalent つもりだ.
 
 Structure:
 - V「plain」つもりです - intentions
+	- 今年、日本語能力試験を受けるつもりです（ことし、のうりょくしけん、う）- This year, I intend to take the Japanese Language Proficiency Test
 - Vない + つもりです
+	- あの人もう会わないつもりです。(ひと、あ) - I don't intend to meet that person again
 
 
-#w 今年、日本語能力試験を受けるつもりです（ことし、のうりょくしけん、う）- this year, I intend to take the Japanese Language Proficiency Test
+#w 今年、日本語能力試験を受けるつもりです（ことし、のうりょくしけん、う）- This year, I intend to take the Japanese Language Proficiency Test
 
-#w あの人もう会わないつもりです - I don't intend to meet this person again
+#w あの人もう会わないつもりです。(ひと、あ) - I don't intend to meet that person again
 
-#w 体が丈夫になるように、今日から毎日運動するつもりです。(からだ、じょうぶ、きょう、まいにち、うんどう) - To build a strong body, I intend to exercise every day from today. 
+#w 体が丈夫になるように、今日から毎日運動するつもりです。(からだ、じょうぶ、きょう、まいにち、うんどう) - To build a strong body, I intend to exercise every day from today.
 
-#w わたしは沖縄で休みを過ごすつもりです。(おきなわ、やす、す) - I intend to spend my holiday in Okinawa. 
+#w わたしは沖縄で休みを過ごすつもりです。(おきなわ、やす、す) - I intend to spend my holiday in Okinawa.
 
 #w 東京の生活に慣れたので、田舎に帰らないつもりです。(とうきょう、せいかつ、な、いなか、かえ) - Because I got used to the life in Tokyo, I don't intend to return to my countryside.
 
 
 ---
 
-## V「plain」予定です（よてい）- plan, scheduled -fixed schedule regardless of the speaker intention
+## V「plain」予定です（よてい）- plan, scheduled - fixed schedule regardless of the speaker intention
+→ [[grammar-index/grammar/yotei-desu-plan-scheduled]]
 
 - volitional form と思います - weaker intention than つもりです
 - つもりです - strong will, resolution, intention
 - 予定です - fixed schedule regardless of the speaker intention
 
+Register: 予定です is the polite form; dropping です gives the plain/casual equivalent 予定だ.
+
 Structure:
-- N + の + 予定です（よてい）-  plan, scheduled
-- V「plain」予定です（よてい）
+- N + の + 予定です（よてい）- plan, scheduled
+	- 明日は休みの予定です。(あした、やす、よてい) - Tomorrow is scheduled to be a day off.
+- V「plain」予定です（よてい）- plan, scheduled
+	- ３月10日にアメリカへ出張する予定です。(さんがつ、とおか、しゅっちょう、よてい) - I plan to go to America on business on March 10th.
+- V「ない」+ 予定です（よてい）- not planning to V
+	- 来月は出張しない予定です。(らいげつ、しゅっちょう、よてい) - I'm not planning to go on a business trip next month.
 
 #w ３月10日にアメリカへ出張する予定です。(さんがつ、とおか、しゅっちょう、よてい) - I plan to go to America on business on March 10th.
 
-#w 展覧会に参加する予定です。(てんらんかい、さんか、よてい) - We plan to attend an exhibition.
+#w 来月は出張しない予定です。(らいげつ、しゅっちょう、よてい) - I'm not planning to go on a business trip next month.
+
+#w 展覧会に参加する予定です。(てんらんかい、さんか、よてい) - I plan to attend an exhibition.
 
 #w 明日は休みの予定です。(あした、やす、よてい) - Tomorrow is scheduled to be a day off.
 
 ---
 
-## 助詞(じょし)＋も  - list things
+## 助詞(じょし)＋も - list things
+→ [[grammar-index/grammar/joshimo-list-things]]
 
 - list things
+- both A and B (も...も...)
 - emphasizing something unexpected
 - with interrogative - express total affirmation or total denial
 
-Structure: 
+Structure:
 - list things
 	- 彼は毎日野球を練習しています。**雨の日にも**練習しています。(かれ、まいにち、やきゅう、れんしゅう、あめ、ひ、れんしゅう) - He practices baseball every day. Even on rainy days, he practices.
+- N**も**N**も**+ affirmative - both N and N
+	- 犬**も**猫**も**好きです。(いぬ、ねこ、す) - I like both dogs and cats.
 - emphasizing something unexpected
-	- 忙しい社長が、飲み会**にも**参加しました。(いそが、しゃちょう、の、かい、さんか) - Our busy company president still attends the drinking party. (feeling of surprise)
+	- 忙しい社長が、飲み会**にも**参加しました。(いそが、しゃちょう、の、かい、さんか) - Our busy company president still attended the drinking party. (feeling of surprise)
 - with interrogative - express total affirmation or total denial
-	- 足を怪我したので、どこへも行けません。(あし、けが、い) - Because I injured my foot, I can't go anywhere.
+	- 足を怪我したので、**どこへも**行けません。(あし、けが、い) - Because I injured my foot, I can't go anywhere.
 
+**Don't confuse with [interrogative + ても... - no matter](/JapaneseNotes/grammar-index/grammar/interrogative-temo-no-matter)** — that pattern is the positive-polarity twin (interrogative + でも/ても = "any-/anything," total affirmation), while どこへも + negative here is total denial ("nowhere/nothing at all").
 
 #w 彼は毎日野球を練習しています。雨の日にも練習しています。(かれ、まいにち、やきゅう、れんしゅう、あめ、ひ、れんしゅう) - He practices baseball every day. Even on rainy days, he practices.
-#w 忙しい社長が、飲み会にも参加しました。(いそが、しゃちょう、の、かい、さんか) - Our busy company president still attends the drinking party. (feeling of surprise)
-#w 足を怪我したので、**どこへも行け**ません。(あし、けが、い) - Because I injured my foot, I can't go anywhere. 
+#w 犬も猫も好きです。(いぬ、ねこ、す) - I like both dogs and cats.
+#w 忙しい社長が、飲み会にも参加しました。(いそが、しゃちょう、の、かい、さんか) - Our busy company president still attended the drinking party. (feeling of surprise)
+#w 足を怪我したので、**どこへも**行けません。(あし、けが、い) - Because I injured my foot, I can't go anywhere.
 
 ---
 
-## V「ます形」 やすいです・にくいです - easy/difficult to do
+## V「ます形」やすいです・にくいです - easy/difficult to do
+→ [[grammar-index/grammar/vmasuyasuidesu-nikuidesu-easy-difficult-to-do]]
 
 Structure:
-- V「ます形」 やすいです - easy to V
+- V「ます形」やすいです - easy to V
 	- 読みやすい（よ）- easy to read
-- V「ます形」にくいです
+- V「ます形」にくいです - difficult to V
 	- difficult/hard to V
-		-  使いにくい - difficult to use
+		- 使いにくい - difficult to use
 	- unlikely to happen
-		- 壊れにくい（こわ）- unlikely to break 
-- Past form: にくい、やすい are adjective
-	-  V「ます形」やすかった
-	-  V「ます形」にくかった
+		- 壊れにくい（こわ）- unlikely to break
+- Past form: にくい and やすい are い-adjectives
+	- V「ます形」やすかった
+		- このパソコンは使いやすかった - This computer was easy to use
+	- V「ます形」にくかった
+		- このパソコンは使いにくかった - This computer was hard to use
 
 
 #w 読みやすい（よ）- easy to read
 #w 読みにくい（よ）- difficult to read
 
-#w 食べ(やすい/にくい) - easy/difficult to eat
-#w 滑り(やすい/にくい)（すべ) - easy/difficult to slip (be very slippery)
-#w 書き(やすい/にくい) - easy/difficult to  write
-#w 割れ(やすい/にくい)　（わ)  - easy/difficult to  break (to be easily broken)
+#w 食べやすい - easy to eat
+#w 食べにくい - difficult to eat
+#w 滑りやすい（すべ）- easy to slip (slippery)
+#w 滑りにくい（すべ）- hard to slip
+#w 書きやすい - easy to write
+#w 書きにくい - difficult to write
+#w 割れやすい（わ）- easy to break (fragile)
+#w 割れにくい（わ）- hard to break (durable)
 
 #w 使いにくい - difficult to use
-#w 聞きにくい (き) - hard to listen
-#w 壊れにくい（こわ）- unlikely to break (hard to)
+#w 聞きにくい (き) - hard to hear
+#w 壊れにくい（こわ）- unlikely to break
 
-#w このパソコンは使いやすかった - this computer was easy to use
+#w このパソコンは使いやすかった - This computer was easy to use
+#w このパソコンは使いにくかった - This computer was hard to use
 
 
 #w 新しい靴は軽くて、とても歩きやすいです。(あたら、くつ、かる、ある) - The new shoes are light and very easy to walk in.
 #w この肉はかたくて食べにくいです。(にく、た) - This meat is tough and difficult to eat.
 
 
-#w A: このレポートの 字が 小さすぎますよ（じ、ちい) B: すみません、見やすくします - A: the words on this report are too small B: Sorry, I'll make it easy to see
+#w A: このレポートの字が小さすぎますよ。（じ、ちい） B: すみません、見やすくします - A: The words on this report are too small. B: Sorry, I'll make it easy to see
+
+---
+
+## 間（あいだ）- between, during, among
+→ [[grammar-index/grammar/aida-between-during-among]]
+
+- 間 marks a range or span. Which meaning it takes depends on the particle that follows: から〜まで marks a distance/range, に marks a specific action happening within a span ("during"), and で marks a state holding across a group ("among").
+
+Structure:
+- N から N までの間 - the range from N to N
+	- 駅から家までの間（えき、いえ、あいだ）- from the station to my home (distance)
+	- １０時から11時までの間（じ、あいだ）- in the range of 10:00 to 11:00
+- N の間に + V - during N (a specific action happens within the span)
+	- 休みの**間**に勉強する（あいだ）- to study during the holiday
+- N の間で + V - among N (a state holds across a group)
+	- 学生の間で人気がある（がくせい、あいだ、にんき）- popular among students
+
+---
+
+## (ご)都合（つごう）+ いい／悪い - asking about someone's availability
+→ [[grammar-index/grammar/gotsugou-ii-i-asking-about-someones-availability]]
+
+- 都合 refers to a person's availability or schedule — not whether an object or situation is inherently convenient. Often paired with いい (available/convenient) or 悪い (unavailable/inconvenient), with the polite ご prefix used when asking about someone else's schedule.
+
+Structure:
+- （ご）都合が + いい／悪い - to be convenient / inconvenient (for someone)
+	- （ご）都合がいい（つごう）- to be convenient
+	- （ご）都合が悪い（つごう、わる）- to be inconvenient
+- ご都合は + いかがでしょうか／よろしいでしょうか - polite ways to ask about someone's availability
+	- ご都合はいかがでしょうか（つごう）- How is your availability? / Does that work for you? (open-ended)
+	- ご都合はよろしいでしょうか（つごう）- Would that be convenient for you? (confirming a specific time)
+
+---
 
 
 
@@ -443,7 +514,7 @@ distance / interval / range (during, among) | a bounded span of space, time, or 
 
 
 from the station to my home (distance) #k #card
-駅から家までの間 (えき、いえ、いあだ)
+駅から家までの間 (えき、いえ、あいだ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
@@ -467,7 +538,7 @@ to study during the holiday #k #card
 
 
 be popular among the students #k #card
-学校の間で人気がある (あいだ、にんき)
+学生の間で人気がある (がくせい、あいだ、にんき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
@@ -483,7 +554,7 @@ intention | a firm personal intention already decided in one's mind; stronger an
 
 
 (someone's) availability / convenience of schedule | refers to whether a time or plan suits a person, not whether an object itself is convenient #card
-(ご)都合 (つごう) (often with いい、わるい)
+(ご)都合 (つごう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <!--ID: 1779388974982-->
@@ -1218,8 +1289,8 @@ Please do your best #card
 <!--ID: 1779388975062-->
 
 
-Let's go for lunch　（plain and masu form of volitional) #k #card
-ランチを食べに　行こう・行きましょう
+Let's go for lunch (plain and ます forms of the volitional) #k #card
+ランチを食べに行こう・行きましょう
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1779388975063-->
@@ -1290,7 +1361,7 @@ I am thinking of inviting Mr. Suzuki to the party. #k #card
 
 
 I don't know what to do #card
-どう(interrogative)したらいいか、わかりません
+どうしたらいいか、わかりません
 <!--ID: 1779388975070-->
 
 
@@ -1338,8 +1409,24 @@ If you're free, let's play a game together at my house. #k #card
 <!--ID: 1779388975075-->
 
 
+A: What should I say in tomorrow's Japanese speech? B: I think you'd better talk about your life studying abroad in Japan. #k #card
+A: 明日日本語のスピーチで何を言ったらいいですか。(あした、にほんご、なに、い) B: 日本の留学生活のことを話したほうがいいと思います。(にほん、りゅうがくせいかつ、はな、おも)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_活.html">活</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
+
+
 A: I want to go to Akihabara, which line should I take? B: You can go there by the subway Hibiya line #k #card
-A: 秋葉原に行きたいんですが、何線に乗ったらいいですか B: 地下鉄のひびや線で行けます（なにせん、の、ちかてつ、せん)
+A: 秋葉原に行きたいんですが、何線に乗ったらいいですか。B: 地下鉄のひびや線で行けます。(あきはばら、い、なにせん、の、ちかてつ、せん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_秋.html">秋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_葉.html">葉</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_原.html">原</a>
@@ -1353,7 +1440,7 @@ A: 秋葉原に行きたいんですが、何線に乗ったらいいですか B
 <!--ID: 1779388975076-->
 
 
-this year, I intend to take the Japanese Language Proficiency Test #k #card
+This year, I intend to take the Japanese Language Proficiency Test #k #card
 今年、日本語能力試験を受けるつもりです（ことし、のうりょくしけん、う）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
@@ -1369,7 +1456,7 @@ this year, I intend to take the Japanese Language Proficiency Test #k #card
 
 
 I don't intend to meet that person again #k #card
-あの人もう会わないつもりです
+あの人もう会わないつもりです。(ひと、あ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <!--ID: 1779388975078-->
@@ -1421,7 +1508,17 @@ I plan to go to America on business on March 10th. #k #card
 <!--ID: 1779388975082-->
 
 
-We plan to attend an exhibition. #k #card
+I'm not planning to go on a business trip next month. #k #card
+来月は出張しない予定です。(らいげつ、しゅっちょう、よてい)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_張.html">張</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_予.html">予</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_定.html">定</a>
+
+
+I plan to attend an exhibition. #k #card
 展覧会に参加する予定です。(てんらんかい、さんか、よてい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_展.html">展</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_覧.html">覧</a>
@@ -1454,6 +1551,13 @@ He practices baseball every day. Even on rainy days, he practices. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_習.html">習</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <!--ID: 1779388975085-->
+
+
+I like both dogs and cats. #k #card
+犬も猫も好きです。(いぬ、ねこ、す)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_猫.html">猫</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 
 
 Our busy company president still attended the drinking party. (feeling of surprise) #k #card
@@ -1489,28 +1593,48 @@ difficult to read #k #card
 <!--ID: 1779388975089-->
 
 
-easy/difficult to eat #k #card
-食べ(やすい/にくい)
+easy to eat #k #card
+食べやすい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1779388975090-->
 
 
-easy/difficult to slip (be very slippery) #card
-滑り(やすい/にくい)（すべ)
+difficult to eat #k #card
+食べにくい
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+
+
+easy to slip (slippery) #card
+滑りやすい（すべ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_滑.html">滑</a>
 <!--ID: 1779388975091-->
 
 
-easy/difficult to write #k #card
-書き(やすい/にくい)
+hard to slip #card
+滑りにくい（すべ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_滑.html">滑</a>
+
+
+easy to write #k #card
+書きやすい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1779388975092-->
 
 
-easy/difficult to break (to be easily broken) #card
-割れ(やすい/にくい)　（わ)
+difficult to write #k #card
+書きにくい
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
+
+
+easy to break (fragile) #card
+割れやすい（わ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_割.html">割</a>
 <!--ID: 1779388975093-->
+
+
+hard to break (durable) #card
+割れにくい（わ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_割.html">割</a>
 
 
 difficult to use #k #card
@@ -1525,16 +1649,21 @@ hard to hear #k #card
 <!--ID: 1779388975095-->
 
 
-unlikely to break (hard to break) #card
+unlikely to break #card
 壊れにくい（こわ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_壊.html">壊</a>
 <!--ID: 1779388975096-->
 
 
-this computer was easy to use #k #card
+This computer was easy to use #k #card
 このパソコンは使いやすかった
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 <!--ID: 1779388975097-->
+
+
+This computer was hard to use #k #card
+このパソコンは使いにくかった
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
 
 
 The new shoes are light and very easy to walk in. #k #card
@@ -1553,8 +1682,8 @@ This meat is tough and difficult to eat. #k #card
 <!--ID: 1779388975099-->
 
 
-A: the words on this report are too small B: Sorry, I'll make it easy to see #k #card
-A: このレポートの 字が 小さすぎますよ（じ、ちい) B: すみません、見やすくします
+A: The words on this report are too small. B: Sorry, I'll make it easy to see #k #card
+A: このレポートの字が小さすぎますよ。（じ、ちい） B: すみません、見やすくします
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_字.html">字</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_小.html">小</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>

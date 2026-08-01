@@ -173,7 +173,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL4-would-you-like-to-go-to-hospital
 
 # 文法
 
-## 疑問詞（ぎもんし) ...か ... - pytanie pośrednie
+## 疑問詞（ぎもんし）...か ... - indirect question
 
 Structure:
 - interrogative:
@@ -181,77 +181,77 @@ Structure:
 	- い adj + か ...
 	- な adj + か ...
 	- N + か ...
-- Often used with 
+- Often used with
 	- だれ
 	- いつ
 	- どこ
 	- いくら
 	- 何
-- Comparsion
-	- 奈良はどんなところ**か**、知っていますか。(なら, し) Czy wiesz, **jakim miejscem** jest Nara?
-	- 奈良はどんなところ、知っていますか。(なら, し) Czy wiesz, **jakie miejsce** Nara?
+- Comparison
+	- 奈良はどんなところ**か**、知っていますか。(なら, し) - Do you know what kind of place Nara is?
+	- 奈良はどんなところ、知っていますか。(なら, し) - Without か, this isn't a complete sentence — か is what turns "what kind of place" into an embedded question that 知っていますか can attach to.
 
 
 
+#w コンサートは何時に始まる**か**、覚えていますか。(なんじ, はじ, おぼ) - Do you remember when the concert will begin?
+#w プレゼントは何がいい**か**、聞きました。(なに, き) - I asked what would be a good present.
 
-#w コンサートは何時に始まる**か**、覚えていますか。(interrogative) (なんじ, はじ, おぼ) - Do you remember when the concert will begin?/ Pamiętasz? O której zaczyna się koncert? 
-#w プレゼントは何がいい**か**、聞きました。(なに, き)(interrogative) - I asked what would be a good present. / zapytałem, co byłoby dobrym prezentem
-
-#w あの映画がどうしてこんなに人気**か**、知りたいです。(えいが, にんき, し) - I want to know why that movie is so popular. / Chcę wiedzieć, dlaczego ten film jest tak popularny.
-#w 奈良はどんなところ**か**、知っていますか。(なら, し) - Do you know what kind of place Nara is?/ Czy wiesz, jakim miejscem jest Nara?
+#w あの映画がどうしてこんなに人気**か**、知りたいです。(えいが, にんき, し) - I want to know why that movie is so popular.
+#w 奈良はどんなところ**か**、知っていますか。(なら, し) - Do you know what kind of place Nara is?
 
 ---
 ## 言っていました - relay ideas
 
-Summary:
+Comparison:
 - と言いました - **quote what someone said**, fact in the past
-- と言っていました - relays ideas, someone told something that still is actual (formal conversation and writting)
-	-  社長は明日のミーティングがなくなると言っていました。(しゃちょう, あす, い) - The company president said that tomorrow's meeting is cancelled.
-- V「て」言っていました - less formal, used more often in speaking 
+- と言っていました - relays something someone said that's still relevant (formal, spoken and written)
+	- 社長は明日のミーティングがなくなると言っていました。(しゃちょう, あす, い) - The company president said that tomorrow's meeting is cancelled.
+- V「て」言っていました - less formal, used more often in speaking
 
-### Vplain + と言っていました（い）- X said...
+Register: と言っていました is polite; dropping ました gives the plain/casual と言っていた.
 
-- と言っていました - relays ideas, someone told something that still is actual
-	-  社長は明日のミーティングがなくなると言っていました。(しゃちょう, あす, い) - The company president said that tomorrow's meeting is cancelled.
-	- (formal conversation and writting)
+### V「plain」+ と言っていました（い）- X said...
+
+- と言っていました - relays something someone said that's still relevant (formal conversation and writing)
+	- 社長は明日のミーティングがなくなると言っていました。(しゃちょう, あす, い) - The company president said that tomorrow's meeting is cancelled.
 
 Structure:
 - V「plain / た」と言っていました（い）
-- いadj　と言っていました（い）
-- なadj + だ　と言っていました（い）
-- N　+ 　だ　と言っていました（い）
+- い-adjective　と言っていました（い）
+- な-adjective + だ　と言っていました（い）
+- N + だ　と言っていました（い）
 
-#w みんなは　さとうくんが いい人だと言っていました（い）- everyone said that Satou kun is a good person
+#w みんなはさとうくんがいい人だと言っていました。(ひと, い) - Everyone said that Satou-kun is a good person.
 #w 社長は明日のミーティングがなくなると言っていました。(しゃちょう, あす, い) - The company president said that tomorrow's meeting is cancelled.
 #w 天気予報では明日天気がいいと言っていました。(てんきよほう, あす, てんき, い) - The weather forecast said it will be good weather tomorrow.
 
-#w 部長は佐藤くんが真面目だと言っていました。(ぶちょう, さとう, まじめ, い) - The manager said that Mr. Sato is very hard working.
+#w 部長は佐藤くんが真面目だと言っていました。(ぶちょう, さとう, まじめ, い) - The manager said that Mr. Sato is diligent.
 #w ワンさんは明日は休みだと言っていました。(あす, やす, い) - Miss Wang said tomorrow is a day off.
 
 ---
 
-## V　+って言っていました - less formal, used more often in speaking 
+## V + って言っていました - less formal, used more often in speaking
 
-- less formal, used more often in speaking 
+- less formal, used more often in speaking
 
 - Structure
 	- V「dict」/ 「た」＋ って言っていました
-	- いadj ＋ って言っていまし
-	- な ＋ だ ＋ って言っていました
-	- N ＋ だ  + 「た」＋ って言っていました
+	- い-adjective ＋ って言っていました
+	- な-adjective ＋ だ ＋ って言っていました
+	- N + だ／だった + って言っていました
 - 言っていました can be omitted
 	- スミスさんは日本の桜が大好きだって。(にほん, さくら, だいす) - Mr. Smith said that he really likes Japanese cherry blossoms.
 
 
 #w 山田さんはパーティーにちょっと遅れるって(言っていました)。(やまだ, おく, い) - Mr. Yamada said he would be a little late to the party.
-#w スミスさんは日本の桜が大好きだって。(にほん, さくら, だいす) - Mr. Smith said(short version) that he really likes Japanese cherry blossoms.
+#w スミスさんは日本の桜が大好きだって。(にほん, さくら, だいす) - Mr. Smith said that he really likes Japanese cherry blossoms.
 #w 天気予報では、明日は台風だって(言っていた)よ。(てんきよほう, あす, たいふう, い) - The weather forecast said there will be a typhoon tomorrow.
 
 
 ---
-## んじゃない - when someone ask for opinion and speaker is sure of their idea
+## んじゃない - when someone asks for an opinion and the speaker is sure of their idea
 
-Comparasion:
+Comparison:
 **んじゃない** — _you_ already have a view, you're seeking confirmation
 
 > 果物のほうがいいんじゃない？ — "Fruit is better, don't you think?" The speaker leans toward fruit. Casual, confident nudge.
@@ -263,25 +263,22 @@ Comparasion:
 **んじゃない = "I think X, agree?"** / **と思いますか = "What do you think?"**
 
 Structure
-- question
-	- じゃない - negative
-- response
-	- (いい)んじゃない - positive = いいよね
+- んじゃない is grammatically a negative (じゃない) attached after the explanatory ん, but pragmatically it functions as a positive, confirmation-seeking question — "isn't it X?" effectively means "it's X, right?"
+	- V/adj + んじゃない - as a question: seeks the listener's agreement with a view the speaker already holds
+	- (いい)んじゃない - as a response: agrees/affirms, roughly equivalent to いいよね ("yeah, good, right?")
 
 
 #w 果物のほうがいいんじゃない？ (くだもの) - Don't you think the fruit is better?
-#w A: 田中さんは今日来ないのですか。(たなか, きょう, こ) B: 田中さんは大阪に出張に行ったんじゃない？(たなか, おおさか, しゅっちょう, い) - A: Won't Mr. Tanaka come today? B: Mr. Tanaka has been to Osaka for business, hasn't he?
+#w A: 田中さんは今日来ないのですか。(たなか, きょう, こ) B: 田中さんは大阪に出張に行ったんじゃない？(たなか, おおさか, しゅっちょう, い) - A: Won't Mr. Tanaka come today? B: Didn't he go to Osaka on business?
 
 ---
 
-## 。。。し、。。。し - spójnik
+## 。。。し、。。。し - conjunction
 
-- used on two or more descriptions on a 1 topic
-	- ジャパんホテルは部屋が広い**し**、食事も美味しい**し**、良いホテルだと思います（へや、ひろ、しょくじ、い、おも）- The rooms are big and the meals are delicious so I think Japan Hotel is a good hotel
+- used to give two or more descriptions about one topic
+	- ジャパンホテルは部屋が広い**し**、食事も美味しい**し**、良いホテルだと思います（へや、ひろ、しょくじ、おい、い、おも）- The rooms are big and the meals are delicious so I think Japan Hotel is a good hotel
 - Used to list the causes
-	- うちは駅から遠い**し**、部屋もせまい**し**、ひっこしをしたいと思っています（とお） - My house is far from the station and the room is small, so i think i want to move
-
-**Key habit to build:** when listing parallel items, the second one takes **も** — 喉**も**痛くない, 食事**も**美味しい. It signals "...and also."
+	- うちは駅から遠い**し**、部屋もせまい**し**、ひっこしをしたいと思っています（えき、とお、へや、おも） - My house is far from the station and the room is small, so I think I want to move
 
 Structure:
 - Attach し to every item in the list.
@@ -295,29 +292,29 @@ Structure:
     - も on an item → explicitly flags it as one of several similar things.
     - も can go on the first item, all items, some items, or none — it's about which items you tag, not where they sit in the list.
 - Typical patterns (usage tendencies, not rules):
-    - も on every item → emphasizes a shared category of traits. アイツはお金もないし、才能もない。
-    - も on the first item only → "and this isn't even the main reason." 天気もいいし、ピクニックに行かない？
+    - も on every item → emphasizes a shared category of traits. アイツはお金もないし、才能もない。(That guy has no money and no talent either.)
+    - も on the first item only → "and this isn't even the main reason." 天気もいいし、ピクニックに行かない？(The weather's nice too — want to go on a picnic?)
     - も on none → neutral, plain listing. Still fully grammatical.
 - Reason-list vs. description-list — same structure, different use:
     - Reason-list: leads to a conclusion (softer than から/ので, implies unstated reasons too).
     - Description-list: characterizes one subject, no conclusion required.
 - A single し-clause (no second item) is valid on its own — implies "and there's more I'm not saying."
 - Examples
-	- ジャパんホテルは部屋が広い**し**、食事も美味しい**し**、良いホテルだと思います（へや、ひろ、しょくじ、い、おも）- The rooms are big and the meals are delicious so I think Japan Hotel is a good hotel
+	- ジャパンホテルは部屋が広い**し**、食事も美味しい**し**、良いホテルだと思います（へや、ひろ、しょくじ、おい、い、おも）- The rooms are big and the meals are delicious so I think Japan Hotel is a good hotel
 
-#w ジャパんホテルは部屋が広い**し**、食事も美味しい**し**、良いホテルだと思います（へや、ひろ、しょくじ、い、おも）- The rooms are big and the meals are delicious so I think Japan Hotel is a good hotel
+#w ジャパンホテルは部屋が広い**し**、食事も美味しい**し**、良いホテルだと思います（へや、ひろ、しょくじ、おい、い、おも）- The rooms are big and the meals are delicious so I think Japan Hotel is a good hotel
 
-#w A: 佐藤くん、風邪は大丈夫ですか。(さとう, かぜ, だいじょうぶ) B: 熱はもう下がった**し**、のども痛くない**し**、大丈夫です。(ねつ, さ, いた, だいじょうぶ)  - A: Mr. Sato, how is your cold? B: My fever is gone, and I don't have a sore throat any more, so I am fine.
+#w A: 佐藤くん、風邪は大丈夫ですか。(さとう, かぜ, だいじょうぶ) B: 熱はもう下がった**し**、のども痛くない**し**、大丈夫です。(ねつ, さ, いた, だいじょうぶ) - A: Mr. Sato, how is your cold? B: My fever is gone, and I don't have a sore throat anymore, so I am fine.
 
-#w この靴、色もきれいだ**し**、サイズもちょうどいい**し**、これにします。(くつ, いろ) - These shoes color look nice and the size is just right, so I will buy them.
+#w この靴、色もきれいだ**し**、サイズもちょうどいい**し**、これにします。(くつ, いろ) - These shoes' color looks nice and the size is just right, so I will buy them.
 
-#w うちは駅から遠い**し**、部屋もせまい**し**、ひっこしをしたいと思っています（とお） - My house is far from the station and the room is small, so i think i want to move
+#w うちは駅から遠い**し**、部屋もせまい**し**、ひっこしをしたいと思っています（えき、とお、へや、おも） - My house is far from the station and the room is small, so I think I want to move
 
-#w 明日数学のテストだし、わたしは数学が苦手だし、今日は家で復習します。(あした, すうがく, すうがく, にがて, きょう, いえ, ふくしゅう) - Tomorrow is a math test, and I am not good at math, so I will do preparation for test at home.
+#w 明日数学のテストだし、わたしは数学が苦手だし、今日は家で復習します。(あした, すうがく, すうがく, にがて, きょう, いえ, ふくしゅう) - Tomorrow is a math test, and I am not good at math, so I will review at home.
 
 
 #w 佐藤くんは足をけがした**し**、あまり動けないよね。(さとう, あし, うご) - Mr. Sato injured his foot, so he can't move that much.
-#w ごめん、今日飲み会に行けないわ。これから、仕事もある**し**…。(きょうの, かい, い, しごと) - Sorry, I can't go to the drinking party today. I have work to do...
+#w ごめん、今日飲み会に行けないわ。これから、仕事もある**し**…。(きょう, の, かい, い, しごと) - Sorry, I can't go to the drinking party today. I have work to do...
 
 ### Polish explaination
 
@@ -330,24 +327,21 @@ Ale し ma jedną cechę, która odróżnia go od prostego „i" — **lista cel
 
 ---
 
-## V「て」しまいます- Finish something completely/complete an action
+## V「て」しまいます - Finish something completely/complete an action
 
 - Finish something completely/complete an action
 	- みのりちゃんからもらったケーキを全部食べて**しまいました**（ぜんぶ、た） - I ate the entire cake Minori gave me (complete action)
-- Emphasizing something is completely done and express regret and annoyed that something was unsuccessful unintentionally
+- Emphasizing something is completely done, and expressing regret or annoyance that something happened unintentionally
 	- ああ、花瓶が割れてしまいました（かびん、わ）- Oh no, the vase is broken (express feeling of regret or being troubled)
 
 Structure:
-- V「て」しまいます
-- V「て」しまいました
-- V「て」しまう
-- Not formal form
-	- ちゃいます
+- V「て」しまいます → casual: V「て」ちゃいます
+- V「て」しまいました → casual: V「て」ちゃいました
+- V「て」しまう → casual: V「て」ちゃう
 
-#w みのりちゃんからもらったケーキを全部食べて**しまいました・ちゃいます
-**（ぜんぶ、た）** - I ate the entire cake Minori gave me (complete action) (formal and not formal)
+#w みのりちゃんからもらったケーキを全部食べて**しまいました・ちゃいます**（ぜんぶ、た）- I ate the entire cake Minori gave me (complete action) (formal and not formal)
 
-#w あのスーパーの弁当は安いので、すぐに全部売れて**しまいました・ちゃいました**。(べんとう, やす, ぜんぶ, う) - Because the boxed lunch in that supermarket is cheap, so it was sold out immediately. (formal and not formal)
+#w あのスーパーの弁当は安いので、すぐに全部売れて**しまいました・ちゃいました**。(べんとう, やす, ぜんぶ, う) - The boxed lunch at that supermarket is cheap, so it sold out right away. (formal and not formal)
 
 #w のどがかわいたので、水を全部飲んで**しまいました・ちゃいました**。(みず, ぜんぶ, の) - I was thirsty, so I drank all the water. (formal and not formal)
 
@@ -355,7 +349,7 @@ Structure:
 
 
 #w さいふを部屋に忘れ**てしまった・ちゃった**。(へや, わす) - I left my wallet in my room. (forgot, express regret) (formal and not formal)
-#w A: どうして、元気がないの？(げんき) B: 風邪をひいて**しまったんです・ちゃいます**。(かぜ) - A: Why do you look so down? B: I caught a cold.(express regret, explain)   (formal and not formal)
+#w A: どうして、元気がないの？(げんき) B: 風邪をひいて**しまったんです・ちゃったんです**。(かぜ) - A: Why do you look so down? B: I caught a cold. (express regret, explain) (formal and not formal)
 #w 道に迷って**しまって・ちゃって**、遅れました。すみません。(みち, まよ, おく) - I got lost and was late. Sorry. (express regret) (formal and not formal)
 
 ### Polish example
@@ -378,12 +372,15 @@ Albo tryb dokonany z emocją:
 
 W polskim robimy to bardziej intonacją i kontekstem niż konkretnym słowem — nie ma jednego odpowiednika. てしまいました to ta chwila gdy mówisz _„no i..."_ albo _„niestety..."_ z rezygnacją w głosie.
 
-## V「た・ない」 ほうがいいです - give advice or suggestion to the listener
+## V「た・ない」ほうがいいです - give advice or suggestion to the listener
 
 Structure
-- V「た・ない」 ほうがいいです - You'd bette
+- V「た」ほうがいいです - You'd better V
+	- 天気予報では雨が降ると言っていたよ。かさを持って行ったほうがいいよ。(てんきよほう, あめ, ふ, い, も, い) - The weather forecast said it would rain. You'd better take an umbrella when you go out.
+- V「ない」ほうがいいです - You'd better not V
+	- 明日台風が来るから、出かけないほうがいいですよ。(あした, たいふう, く, で) - A typhoon will come tomorrow, so you'd better not go outside.
 
-#w 天気予報では雨が降ると言っていたよ。かさを持って行ったほうがいいよ。(てんきよほう, あめ, ふ, い, も, い) - The weather forecast said it would rain. You'd better take your umbrella to go outside.
+#w 天気予報では雨が降ると言っていたよ。かさを持って行ったほうがいいよ。(てんきよほう, あめ, ふ, い, も, い) - The weather forecast said it would rain. You'd better take an umbrella when you go out.
 #w ガラスは割れないように新聞紙で包んだほうがいいと思います。(わ, しんぶんし, つつ, おも) - You'd better wrap the glass in newspaper so that it won't break.
 
 #w 明日台風が来るから、出かけないほうがいいですよ。(あした, たいふう, く, で) - A typhoon will come tomorrow, so you'd better not go outside.
@@ -393,18 +390,20 @@ Structure
 
 Structure:
 - V「plain」 + でしょう
-- いadj + でしょう
-- なadj + でしょう
+- い-adjective + でしょう
+- な-adjective + でしょう
 - N + でしょう
 - Questions:
-	- でしょうか - more polite desuka
-		- こちらはお客様のお荷物でしょうか（きゃくさま、にもつ) - Is this your luggage, Sir?
+	- でしょうか - more polite than ですか
+		- こちらはお客様のお荷物でしょうか（きゃくさま、にもつ）- Is this your luggage, Sir?
 Meanings:
 - Seems
 	- 明日は雨でしょう。(あした, あめ) - It seems that it will rain tomorrow.
 - Right? (confirming guess is correct)
-	- Important is intonation to confirm to the listener that guess is correct
-		-  あなた朝から晩までずっと働いて、疲れたでしょう。(あさ, ばん, はたら, つか) - You worked from morning to night, so you must be very tired, mustn't you?
+	- Intonation is important here — it signals to the listener that you're confirming your guess.
+		- あなた朝から晩までずっと働いて、疲れたでしょう。(あさ, ばん, はたら, つか) - You worked from morning to night, so you must be very tired, right?
+
+Register: でしょう is polite; the plain/casual equivalent is だろう.
 
 
 #w 明日は雨でしょう。(あした, あめ) - It seems that it will rain tomorrow.
@@ -412,26 +411,33 @@ Meanings:
 #w このかばん、高いでしょう。(たか) - It seems that this bag is expensive.
 
 
-#w あなた朝から晩までずっと働いて、疲れたでしょう。(あさ, ばん, はたら, つか) - You worked from morning to night, so you must be very tired, mustn't you?
+#w あなた朝から晩までずっと働いて、疲れたでしょう。(あさ, ばん, はたら, つか) - You worked from morning to night, so you must be very tired, right?
 #w これはあなたのものでしょう。- This is yours, right?
 
-#w A: こちらはお客様のお荷物でしょうか B: ええ、そうです（きゃくさま、にもつ) - A: Is this your luggage, Sir? B: Yes, it is
+#w A: こちらはお客様のお荷物でしょうか。B: ええ、そうです（きゃくさま、にもつ）- A: Is this your luggage, Sir? B: Yes, it is
 
 ---
 
 ## かもしれません・かもしれない - may/might
 
-- Used to mention both high and low possibilities
+- Used to mention a possibility the speaker isn't confident about (contrast with でしょう, which expresses a more confident guess)
 
 Structure:
 - V「plain」 + かもしれません / かもしれない
-- いadj + かもしれません
-- なadj + かもしれません
+	- 来年私の会社はインドで工場を作るかもしれません。(らいねん, わたし, かいしゃ, こうじょう, つく) - My company might establish a factory in India next year.
+- い-adjective + かもしれません
+	- この問題は難しいかもしれません。(もんだい, むずか) - This problem might be difficult.
+- な-adjective + かもしれません
+	- 彼は今日暇かもしれません。(かれ, きょう, ひま) - He might be free today.
 - N + かもしれません
+	- これは山田さんの本かもしれません。(やまだ, ほん) - This might be Mr. Yamada's book.
 
 #w 来年私の会社はインドで工場を作るかもしれません。(らいねん, わたし, かいしゃ, こうじょう, つく) - My company might establish a factory in India next year.
 #w 電車に間に合わないかもしれません。(でんしゃ, ま, あ) - I may not catch the train.
+#w この問題は難しいかもしれません。(もんだい, むずか) - This problem might be difficult.
+#w 彼は今日暇かもしれません。(かれ, きょう, ひま) - He might be free today.
 #w これは山田さんの本かもしれません。(やまだ, ほん) - This might be Mr. Yamada's book.
+
 # Vocabulary
 
 ## ずっと - continuous / far / all the time
@@ -446,26 +452,26 @@ Structure:
 Structure:
 - ずっと + V/N - continue V
 	- Continue
-		- この道をずっと行くと、コンビニが 見えます(みち、み) - You can see a conbini store if you continue down this street
+		- この道をずっと行くと、コンビニが見えます(みち、い、み) - You can see a convenience store if you continue down this street
 	- something continues for a long time
-		- 10時からずっと仕事です - I've been doing work since 10:00
+		- 10時からずっと仕事です(じ、しごと) - I've been working since 10:00
 	- things that are far separated by time or distance
-		- 田中さんとずっと会っていません - I haven't meet Mr Tanaka for a long time
+		- 田中さんとずっと会っていません(たなか、あ) - I haven't met Mr. Tanaka for a long time
 	- By far
-		- 
--  ずっと前 (まえ) - long ago
+		- ランさんの日本語は、スミスさんよりずっと上手です（にほんご、じょうず）- Lan's Japanese is much better than Mr. Smith
+- ずっと前 (まえ) - long ago
 
 
-#w この道を**ずっと**行くと、コンビニが 見えます(みち、み) - You can see a conbini store if you **continue** down this street
-#w 10時からずっと仕事です - I've been doing work since 10:00
-#w ずっと待っているよ - I'm waiting a while (long time)
+#w この道を**ずっと**行くと、コンビニが見えます(みち、い、み) - You can see a convenience store if you **continue** down this street
+#w 10時からずっと仕事です(じ、しごと) - I've been working since 10:00
+#w ずっと待っているよ(ま) - I've been waiting a long time
 
-#w 田中さんとずっと会っていません - I haven't meet Mr Tanaka for a long time
+#w 田中さんとずっと会っていません(たなか、あ) - I haven't met Mr. Tanaka for a long time
 
 #w ずっと前 (まえ) - long ago
-#w ずっと前、彼女に会いました (まえ) - I met her a long time ago
+#w ずっと前、彼女に会いました (まえ、かのじょ、あ) - I met her a long time ago
 
-#w ランさんの日本語は、スミスさんよりずっと上手です（じょうず）- Lan's Japanese is much better than MR smith
+#w ランさんの日本語は、スミスさんよりずっと上手です（にほんご、じょうず）- Lan's Japanese is much better than Mr. Smith
 
 ### Polish example
 **ずっと** → **"cały czas / bez przerwy / od dawna"**
@@ -1493,8 +1499,8 @@ Moreover, he doesn't like flowers very much. #k #card
 
 
 
-Do you remember when the concert will begin? / Pamiętasz? O której zaczyna się koncert? #k #card
-コンサートは何時(なんじ)に始(はじ)まるか、覚(おぼ)えていますか。(interrogative)
+Do you remember when the concert will begin? #k #card
+コンサートは何時(なんじ)に始(はじ)まるか、覚(おぼ)えていますか。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_始.html">始</a>
@@ -1503,15 +1509,15 @@ Do you remember when the concert will begin? / Pamiętasz? O której zaczyna si�
 
 
 
-I asked what would be a good present. / zapytałem, co byłoby dobrym prezentem #k #card
-プレゼントは何(なに)がいいか、聞(き)きました。(interrogative)
+I asked what would be a good present. #k #card
+プレゼントは何(なに)がいいか、聞(き)きました。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1779254557738-->
 
 
 
-I want to know why that movie is so popular. / Chcę wiedzieć, dlaczego ten film jest tak popularny. #k #card
+I want to know why that movie is so popular. #k #card
 あの映画(えいが)がどうしてこんなに人気(にんき)か、知(し)りたいです。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
@@ -1522,7 +1528,7 @@ I want to know why that movie is so popular. / Chcę wiedzieć, dlaczego ten fil
 
 
 
-Do you know what kind of place Nara is? / Czy wiesz, jakim miejscem jest Nara? #k #card
+Do you know what kind of place Nara is? #k #card
 奈良(なら)はどんなところか、知っ(し)ていますか。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_奈.html">奈</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_良.html">良</a>
@@ -1563,7 +1569,7 @@ The weather forecast said it will be good weather tomorrow. #k #card
 
 
 
-The manager said that Mr. Sato is very hardworking. #k #card
+The manager said that Mr. Sato is diligent. #k #card
 部長(ぶちょう)は佐藤(さとう)くんが真面目(まじめ)だと言っ(い)ていました。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
@@ -1597,7 +1603,7 @@ Mr. Yamada said he would be a little late to the party. #k #card
 
 
 
-Mr. Smith said(short version) that he really likes Japanese cherry blossoms. #k #card
+Mr. Smith said that he really likes Japanese cherry blossoms. #k #card
 スミスさんは日本(にほん)の桜(さくら)が大好(だいす)きだって。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1631,7 +1637,7 @@ Don't you think the fruit is better? #k #card
 
 
 
-A: Won't Mr. Tanaka come today? B: Mr. Tanaka has been to Osaka for business, hasn't he? #k #card
+A: Won't Mr. Tanaka come today? B: Didn't he go to Osaka on business? #k #card
 A: 田中(たなか)さんは今日(きょう)来(こ)ないのですか。B: 田中(たなか)さんは大阪(おおさか)に出張(しゅっちょう)に行っ(い)たんじゃない？
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
@@ -1662,7 +1668,7 @@ The rooms are big and the meals are delicious so I think Japan Hotel is a good h
 
 
 
-A: Mr. Sato, how is your cold? B: My fever is gone, and I don't have a sore throat any more, so I am fine. #k #card
+A: Mr. Sato, how is your cold? B: My fever is gone, and I don't have a sore throat anymore, so I am fine. #k #card
 A: 佐藤(さとう)くん、風邪(かぜ)は大丈夫(だいじょうぶ)ですか。B: 熱(ねつ)はもう下(さ)がったし、のども痛(いた)くないし、大丈夫(だいじょうぶ)です。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_佐.html">佐</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_藤.html">藤</a>
@@ -1745,7 +1751,7 @@ I ate the entire cake Minori gave me (complete action) (formal and not formal) #
 
 
 
-Because the boxed lunch in that supermarket is cheap, so it was sold out immediately. (formal and not formal) #k #card
+The boxed lunch at that supermarket is cheap, so it sold out right away. (formal and not formal) #k #card
 あのスーパーの弁当(べんとう)は安(やす)いので、すぐに全部(ぜんぶ)売(う)れてしまいました・ちゃいました。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弁.html">弁</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
@@ -1786,7 +1792,7 @@ I left my wallet in my room. (forgot, express regret) (formal and not formal) #k
 
 
 A: Why do you look so down? B: I caught a cold. (express regret, explain) (formal and not formal) #k #card
-A: どうして、元気(げんき)がないの？ B: 風邪(かぜ)をひいてしまったんです・ちゃいます。
+A: どうして、元気(げんき)がないの？ B: 風邪(かぜ)をひいてしまったんです・ちゃったんです。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_元.html">元</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
@@ -1804,7 +1810,7 @@ I got lost and was late. Sorry. (express regret) (formal and not formal) #k #car
 
 
 
-The weather forecast said it would rain. You'd better take your umbrella to go outside. #k #card
+The weather forecast said it would rain. You'd better take an umbrella when you go out. #k #card
 天気予報(てんきよほう)では雨(あめ)が降(ふ)ると言っ(い)ていたよ。かさを持っ(も)て行っ(い)たほうがいいよ。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
@@ -1914,6 +1920,21 @@ I may not catch the train. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
+
+
+This problem might be difficult. #k #card
+この問題(もんだい)は難(むずか)しいかもしれません。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_難.html">難</a>
+
+
+He might be free today. #k #card
+彼(かれ)は今日(きょう)暇(ひま)かもしれません。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_暇.html">暇</a>
 <!--ID: 1779254557775-->
 
 
@@ -1942,7 +1963,7 @@ You can see a convenience store if you continue down this street #k #card
 
 
 
-I've been doing work since 10:00 #k #card
+I've been working since 10:00 #k #card
 10時(じ)からずっと仕事(しごと)です
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
@@ -1951,7 +1972,7 @@ I've been doing work since 10:00 #k #card
 
 
 
-I've been waiting for a while (long time) #k #card
+I've been waiting a long time #k #card
 ずっと待(ま)っているよ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1779254557780-->

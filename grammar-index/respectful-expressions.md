@@ -17,6 +17,7 @@
 - [People](/JapaneseNotes/grammar-index/grammar/sonkeigo-polite-people-reference) · N4
 - [Vて形 + いただく（謙譲語）・くださる（尊敬語） - describing a favor received from a superior](/JapaneseNotes/grammar-index/grammar/te-form-itadaku-kudasaru-favor-received) · N4
 - [Vて形＋くださいませんか politer form of くれませんか - could you please (do smth for me)](/JapaneseNotes/grammar-index/grammar/kudasaimasenka-polite-request) · N4
+- [(ご)都合（つごう）+ いい／悪い - asking about someone's availability](/JapaneseNotes/grammar-index/grammar/gotsugou-ii-i-asking-about-someones-availability) · N4
 
 ## See also
 

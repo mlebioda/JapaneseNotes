@@ -9,6 +9,8 @@
 - [条件形（じょうけんけい）- ば - conditional form](/JapaneseNotes/grammar-index/grammar/joukenkei-ba-conditional-form) · N4
 - [。。。なら。。。- if](/JapaneseNotes/grammar-index/grammar/nara-if) · N4
 - [Interrogative V conditional form + 　いいですか - ask for opinion or advice](/JapaneseNotes/grammar-index/grammar/v-ba-iidesuka) · N4
+- [past tense + たら - if](/JapaneseNotes/grammar-index/grammar/past-tense-tara-if) · N4
+- [interrogative V「た」ら + いいですか - ask for advice or instructions](/JapaneseNotes/grammar-index/grammar/interrogative-vtara-iidesuka-ask-for-advice-or-instructions) · N4
 
 ## See also
 

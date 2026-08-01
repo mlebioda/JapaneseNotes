@@ -12,3 +12,4 @@
 
 - [Sensory Perception](/JapaneseNotes/grammar-index/sensory-perception) — direct sensory perception (がする) contrasts with indirect, appearance-based inference (ようだ／みたい)
 - [Obligation & Necessity](/JapaneseNotes/grammar-index/obligation-necessity) — はずです is compared there against the must/should/permission modality ladder
+- [Hearsay & Reported Speech](/JapaneseNotes/grammar-index/hearsay-reported-speech) — both express indirect, non-first-hand information: inference from appearance (ようだ／みたい) vs. reported hearsay (そうです／らしいです)
