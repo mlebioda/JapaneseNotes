@@ -1906,7 +1906,7 @@
       "next_review": "2026-08-02"
     },
     "UN4GL10::jyoukenki-ba": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL10.md",
+      "lesson_file": "grammar-index/grammar/joukenkei-ba-conditional-form.md",
       "grammar_header": "条件形（じょうけんけい）- ば - conditional form",
       "last_reviewed": "2026-07-27",
       "interval_days": 7,
@@ -1924,7 +1924,7 @@
       "next_review": "2026-08-16"
     },
     "UN4GL10::nara": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL10.md",
+      "lesson_file": "grammar-index/grammar/nara-if.md",
       "grammar_header": "。。。なら。。。- if",
       "last_reviewed": "2026-07-23",
       "interval_days": 13,
@@ -1943,7 +1943,7 @@
       "next_review": "2026-08-11"
     },
     "UN4GL10::interrogative-ba-ii-desu-ka": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL10.md",
+      "lesson_file": "grammar-index/grammar/v-ba-iidesuka.md",
       "grammar_header": "Interrogative V conditional form + いいですか",
       "last_reviewed": "2026-07-29",
       "interval_days": 1,
@@ -1962,7 +1962,7 @@
       "next_review": "2026-08-17"
     },
     "UN4GL10::tame-ni": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL10.md",
+      "lesson_file": "grammar-index/grammar/tameni-for-purpose-of.md",
       "grammar_header": "ために - for (purpose of)",
       "last_reviewed": "2026-07-23",
       "interval_days": 13,
@@ -1981,7 +1981,7 @@
       "next_review": "2026-08-12"
     },
     "UN4GL10::v-te-kuru-kita": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL10.md",
+      "lesson_file": "grammar-index/grammar/te-kuru-kita-iku.md",
       "grammar_header": "V「て-form」くる / きた — action continuing over time",
       "last_reviewed": "2026-07-29",
       "interval_days": 1,
@@ -2000,7 +2000,7 @@
       "next_review": "2026-08-17"
     },
     "UN4GL10::teru-teta-contraction": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL10.md",
+      "lesson_file": "grammar-index/grammar/teiru-teru-teita-teta-casual-contraction.md",
       "grammar_header": "ている → てる / ていた → てた (casual contraction)",
       "last_reviewed": "2026-07-26",
       "interval_days": 31,
@@ -2016,7 +2016,7 @@
       "next_review": "2026-08-28"
     },
     "UN4GL10::hakkiri": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL10.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Nouns/hakkiri.md",
       "grammar_header": "はっきり",
       "last_reviewed": "2026-07-27",
       "interval_days": 24,

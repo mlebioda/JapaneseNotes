@@ -182,7 +182,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL8-I-Was-Asked-to-do-Work-related-t
 ### What is?
 
 Active form:
-- 先生（せんせい）は学生（がくせい）を褒（ほ）める　- The teacher praise students
+- 先生（せんせい）は学生（がくせい）を褒（ほ）める　- The teacher praises students
 Passive form
 - 学生（がくせい）は 先生（せんせい）に褒（ほ）め**られる**　- Students are praised by teacher
 
@@ -196,7 +196,7 @@ Passive form
 - ぐ → がれる
     - 脱ぐ(ぬぐ) → 脱がれる(ぬがれる) — to take off → to be taken off
 - す → される
-    - 話す(はなす) → 話される(はなされる) — to speak → to be spoken to
+    - 話す(はなす) → 話される(はなされる) — to speak → to be spoken / talked about
 - つ → たれる
     - 打つ(うつ) → 打たれる(うたれる) — to hit → to be hit
 - ぬ → なれる
@@ -215,7 +215,9 @@ Passive form
 
 **Group 3 (G3) — irregular**
 - する → される — to do → to be done
-- くる → こられる — to come → to be come to
+- くる → こられる — to come → (to be inconvenienced by someone's arrival)
+
+**Note — 迷惑(めいわく)の受身(うけみ) (suffering/indirect passive):** passivizing an intransitive verb (死(し)なれる, 来(こ)られる) implies the speaker was negatively affected by the event, even though there's no direct object "receiving" the action — e.g. 母(はは)に死(し)なれた ("my mother's death affected me badly"), 友達(ともだち)に来(こ)られた ("a friend came, to my inconvenience"). The same nuance extends to transitive verbs in the N1は N2に N3を V「passive」pattern below (足(あし)をふまれた, ケーキを食(た)べられた) — the point isn't just what happened, but that it happened *to the speaker's detriment*.
 
 ### Use cases 
 
@@ -226,13 +228,16 @@ Passive form
 
 ##### Examples
 
-#w 先生（せんせい）は学生（がくせい）を褒（ほ）める　- The teacher praise students
-#w 先生（せんせい）は学生（がくせい）に褒（ほ）め**られる**　- The teacher praise students
+#w 先生（せんせい）は学生（がくせい）を褒（ほ）める　- The teacher praises students
+#w 学生（がくせい）は先生（せんせい）に褒（ほ）め**られる**　- Students are praised by the teacher
 
 #w 私（わたし）は母（はは）に叱られました（しか） - I was scolded by my mom
 
 #w 安藤(あんどう)さんは部長(ぶちょう)にほめられました。 - Miss Ando was praised by the general manager.
 #w わたしとラジさんは社長(しゃちょう)にパーティーに招待(しょうたい)されました。 - Raj and I were invited to a party by the company president.
+
+**Note:** two に in one clause (agent + destination) is grammatical but can read ambiguously — から often replaces the agent instead: 社長(しゃちょう)からパーティーに招待(しょうたい)されました。
+
 #w さっき知(し)らない人(ひと)に道(みち)を聞(き)かれました。 - I was asked about the way by a stranger just now.
 
 ---
@@ -250,7 +255,7 @@ Passive form
 ##### Examples
  #w 電車（でんしゃ）の中（なか）で私（わたし）**は**となりの人（ひと）**に**足（あし）**を**ふまれました - The person next to me stepped on my foot on train
 
-#w A: その手（て）、どうしたの？ B: 犬（犬）に手（て）をかまれちゃった - A: What's wrong with your hand? B: I had my hand bitten by a dog
+#w A: その手（て）、どうしたの？ B: 犬（いぬ）に手（て）をかまれちゃった - A: What's wrong with your hand? B: I had my hand bitten by a dog
 
 #w 弟(おとうと)は泥棒(どろぼう)にさいふを盗(ぬす)まれました。 - My younger brother had his wallet stolen by a thief.
 #w 妹(いもうと)**に**大好(だいす)きなケーキ**を**全部(ぜんぶ)食(た)べ**られた**。 - My favorite cake was eaten entirely by my younger sister.
@@ -259,14 +264,18 @@ Passive form
 
 
 ---
-#### N + は/が + V 「passive form」- passing informations
+#### N + は/が + V 「passive form」- passing information
 ##### Structure
 - N + は/が + V 「passive form」
 	- Use cases
-		- express something or facts that are important
+		- express facts considered noteworthy or important
 			- この寺(てら)は江戸時代(えどじだい)に建(た)てられました。 - The temple was built in the Edo Period.
-		- Multiple people or speaker cannot identify the initiators of the action
+		- used when the agent is unknown, irrelevant, or an unspecified/general group
 			- この小説（しょうせつ）は世界中（せかいじゅう）で読まれています（よ） - This novel is read all over the world
+
+**Note — aspect matters here:** 読まれています (passive + ている) marks an ongoing/general state ("is read [habitually, right now]"), while 建てられました／描かれました (passive + た) mark a one-time completed historical event ("was built/drawn"). Same passive form, different aspect layered on top.
+
+**Register:** this agentless "informational passive" is typical of formal/written Japanese — news reports, history, reference text. It reads more neutral/objective than the suffering-passive uses above, which carry a personal, often negative, emotional charge.
 
 ##### Examples
 #w この小説（しょうせつ）**は**世界中（せかいじゅう）で読ま**れています**（よ） - This novel is read all over the world
@@ -287,7 +296,10 @@ Passive form
 ##### Examples
 
 #w ワインは葡萄（ぶどう）**から** 作られました（つく） - wine is made from grapes
-#w この家（いえ）は木（き）**で**作られました（つく）- this house is made from wood
+#w この家（いえ）は木（き）**で**作られました（つく）- this house is made of wood
+
+Related expression: 〜でできている ("is made of/from ~") is a common alternative to the passive 作られる, especially in casual speech.
+#w この椅子(いす)は木(き)でできている。 - This chair is made of wood.
 
 ---
 
@@ -301,28 +313,30 @@ Passive form
 	- たとえ
 	- もし
 
+**Don't confuse with contrastive [のに ("even though / despite")](/JapaneseNotes/grammar-index/grammar/noni-even-though):** both can gloss as "even though" in English, but they differ in kind. ても is concessive/hypothetical — "no matter if/when X happens, B still holds" — and works fine with imagined or general situations. のに is factual contrast with an implied complaint — "X happened, and yet B" — about something that actually occurred.
+
 ##### Structure
 - V「て」も。。。
 - いadj　 (く)ても。。。
 	- 寒（さむ）**くても**泳（およ）ぎます - I will swim even if it is cold
 - V「ない」(く)ても。。。  - (behaves here as adjective)
-	- まだ時間（じかん）があるから、急（いそ）がな**くても** 電車（でんしゃ）に間に合います（まにあいます）- Because we still have time left, we can catch train **even if** we are not in a hurry
+	- まだ時間（じかん）があるから、急（いそ）がな**くても** 電車（でんしゃ）に間に合います（まにあいます）- Because we still have time left, we can catch the train **even if** we are not in a hurry
 - なadj　でも。。。
 	- いや**でも**、宿題（しゅくだい）をやらなくちゃ - I still have to do homework **even though** I hate it
 - N　　　でも。。。
-	- **たとえ**雨（あめ）**でも** 自転車（じてんしゃ）で学校（がっこう）に行きます（い）- I go to shool by bicycle **even if** its rains
+	- **たとえ**雨（あめ）**でも** 自転車（じてんしゃ）で学校（がっこう）に行きます（い）- I go to school by bicycle **even if** it rains
 
 ##### Examples
 
-#w まだ時間（じかん）があるから、急（いそ）がなく**ても** 電車（でんしゃ）に間に合います（まにあいます）- Because we still have time left, we can catch train **even if** we are not in a hurry
+#w まだ時間（じかん）があるから、急（いそ）がなく**ても** 電車（でんしゃ）に間に合います（まにあいます）- Because we still have time left, we can catch the train **even if** we are not in a hurry
 
 #w 寒（さむ）**くても**泳（およ）ぎます - I will swim even if it is cold
 
 #w いや**でも**、宿題（しゅくだい）をやらなくちゃ - I still have to do homework **even though** I hate it
 
-#w たとえ.... + ても - Even if structure (emphasize no matter what)　more stronger 
+Note: たとえ...ても pairs たとえ with ても for extra emphasis — "even if [X], no matter what."
 
-#w **たとえ**雨（あめ）**でも** 自転車（じてんしゃ）で学校（がっこう）に行きます（い）- **Even if** its rains, I go to school by bicycle (emphasize no matter what)
+#w **たとえ**雨（あめ）**でも** 自転車（じてんしゃ）で学校（がっこう）に行きます（い）- **Even if** it rains, I go to school by bicycle (emphasize no matter what)
 
 ---
 ### interrogative + ても.... - no matter
@@ -332,6 +346,7 @@ interrogatives are:
 - **誰(だれ)** — who
 - **どこ** — where
 - **いつ** — when
+- **どんな** — what kind
 - **なぜ/どうして** — why
 - **どう/どのように** — how
 - **どれ** — which (of many)
@@ -339,6 +354,8 @@ interrogatives are:
 - **いくつ** — how many
 - **いくら** — how much (price)
 - **どのくらい/どれぐらい** — how long / how much (extent)
+
+**Caveat:** not every interrogative above plugs directly into V+ても. なぜ/どうして (why) has no standard "no matter why" equivalent — this pattern doesn't cover it. どう/どのように (how) doesn't attach as plain どうても either; degree-based "no matter how [adjective/adverb]" instead uses どんなに + adjective/adverb + ても (see どんなに難しくても below) — a separate construction from bare どんな + でも ("any kind of ~").
 
 #### Structure
 - 何(なに) — no matter what / anything:
@@ -351,9 +368,12 @@ interrogatives are:
     - いつ電話(でんわ)しても出(で)ない。 - No matter when I call, he doesn't answer.
 - どんな — no matter what kind / any kind:
     - どんな歌(うた)でも歌(うた)える。 - I can sing any song.
+- どんなに + adjective/adverb + ても — no matter how [much/adjective]:
+    - どんなに難(むずか)しくても諦(あきら)めない。 - No matter how hard it is, I won't give up.
 - いくら — no matter how much:
     - いくら食(た)べても太(ふと)らない。 - No matter how much I eat, I don't gain weight.
 
+**Note:** interrogative + でも alone (何でも, 誰でも, いつでも, どんな N でも) is a simpler pattern meaning "any/anything" — no verb clause attached. Interrogative + [verb]ても is the fuller concessive clause meaning "no matter if/when [verb happens]." Both appear below — compare 何でも食べられる ("I can eat anything") with 何を言われても気持ちは変わらない ("no matter what you say, my feelings won't change").
 
 #### Examples
 
@@ -369,9 +389,9 @@ interrogatives are:
 #w いつ電話(でんわ)しても出(で)ない。 - No matter when I call, he doesn't answer. 
 #w いつでも来(き)てください。 - Please come anytime.
 
+#w どんな歌(うた)でも歌(うた)える。 - I can sing any song.
 
-
-#w どんな歌(うた)でも歌(うた)える。 - I can sing any song. #w どんなに難(むずか)しくても諦(あきら)めない。 - No matter how hard it is, I won't give up.
+#w どんなに難(むずか)しくても諦(あきら)めない。 - No matter how hard it is, I won't give up.
 
 #w いくら食(た)べても太(ふと)らない。 - No matter how much I eat, I don't gain weight.
 
@@ -380,6 +400,8 @@ interrogatives are:
 
 - 本文（ほんぶん）- main clause
 - 付属分（ふぞくぶん） - subordinate clause (often with が)
+
+**The core idea:** a subordinate clause can carry its own subject, marked with が, separate from whatever the main clause is about. In the examples below, the labeled 本文／付属分 subject tags show exactly this — the が-marked noun inside the subordinate clause is often not the same as the (frequently omitted) subject of the main clause.
 
 ### Structure
 - 付属分 + X + 本文 - where X:
@@ -392,6 +414,13 @@ interrogatives are:
 			-  わたし - 本文
 			- 仕事 - 付属分
 	- ... まえに ...
+		- 雨(あめ)が降(ふ)るまえに、家(いえ)に帰(かえ)ります。 - I will go home before it rains.
+			- わたし - 本文
+			- 雨 - 付属分
+	- ... たら ...
+		- 雨(あめ)が降(ふ)ったら、ハイキングに行(い)きません - If it rains, I won't go hiking
+			- わたし - 本文
+			- 雨 - 付属分
 	- ... **ても** ...
 		- お金がなくても、(わたし) 幸せ（しあわ）です - I'm happy even if I don't have money
 			- わたし - 本文
@@ -409,7 +438,8 @@ interrogatives are:
 
 #w 仕事(しごと)が終(お)わってから、ご飯(はん)を食(た)べます - I am going to eat a meal after I finish work
 #w 雨(あめ)が降(ふ)ったら、ハイキングに行(い)きません - If it rains, I won't go hiking
-#w 体(からだ)の調子(ちょうし)がわるいとき、いつもたくさん寝(ね)ています - When I don't feel well(body condition is bad), I always sleep a lot
+#w 体(からだ)の調子(ちょうし)がわるいとき、いつもたくさん寝(ね)ています - When I don't feel well (body condition is bad), I always sleep a lot
+#w 雨(あめ)が降(ふ)るまえに、家(いえ)に帰(かえ)ります。 - I will go home before it rains.
 
 
 # Summary
@@ -1467,6 +1497,24 @@ EH? Where is my wallet? #k #card
 <!--ID: 1781113785136-->
 
 
+The teacher praises students. #k #card
+先生（せんせい）は学生（がくせい）を褒（ほ）める
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_褒.html">褒</a>
+<!--ID: 1785576381875-->
+
+
+Students are praised by the teacher. #k #card
+学生（がくせい）は先生（せんせい）に褒（ほ）められる
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_褒.html">褒</a>
+<!--ID: 1785576381876-->
+
+
 I was scolded by my mom #k #card
 私（わたし）は母（はは）に叱られました（しか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
@@ -1599,12 +1647,20 @@ wine is made from grapes #k #card
 <!--ID: 1781113785150-->
 
 
-this house is made of wood #k #card
+this house is made of wood | passive form #k #card
 この家（いえ）は木（き）で作られました（つく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1781113785151-->
+
+
+This chair is made of wood. | resultative construction, not passive #k #card
+この椅子(いす)は木(き)でできている。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_椅.html">椅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
+<!--ID: 1785576652064-->
 
 
 Because we still have time left, we can catch the train even if we are not in a hurry #k #card
@@ -1630,11 +1686,6 @@ I still have to do homework even though I hate it #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_宿.html">宿</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <!--ID: 1781113785154-->
-
-
-Even if structure (emphasize no matter what)　more stronger #card
-たとえ.... + ても
-<!--ID: 1781113785155-->
 
 
 Even if it rains, I go to school by bicycle (emphasize no matter what) #k #card
@@ -1720,6 +1771,13 @@ I can sing any song. #k #card
 <!--ID: 1781113785165-->
 
 
+No matter how hard it is, I won't give up. #k #card
+どんなに難(むずか)しくても諦(あきら)めない。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_難.html">難</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_諦.html">諦</a>
+<!--ID: 1785577091756-->
+
+
 No matter how much I eat, I don't gain weight. #k #card
 いくら食(た)べても太(ふと)らない。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
@@ -1759,6 +1817,15 @@ When I don't feel well (body condition is bad), I always sleep a lot #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寝.html">寝</a>
 <!--ID: 1781113785170-->
+
+
+I will go home before it rains. #k #card
+雨(あめ)が降(ふ)るまえに、家(いえ)に帰(かえ)ります。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
+<!--ID: 1785577796826-->
 
 
 to praise / to compliment | describes giving positive recognition for something someone did well #card

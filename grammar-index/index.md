@@ -19,6 +19,8 @@
 - [sensory-perception](/JapaneseNotes/grammar-index/sensory-perception) — Patterns for expressing a sensory quality being perceived — smell, taste, sound, or feeling — arising on its own: がする, and related forms.
 - [comparison](/JapaneseNotes/grammar-index/comparison) — Patterns for comparing two things or ranking the most extreme case — which one is more X, or which one is the most X: のほうが, と比べて, 一番, and related forms.
 - [purpose-reason](/JapaneseNotes/grammar-index/purpose-reason) — Patterns for stating a goal or purpose behind an action — ために, ように, and related forms.
+- [obligation-necessity](/JapaneseNotes/grammar-index/obligation-necessity) — Patterns expressing obligation, prohibition, necessity, and permission — from strongest "must" to "don't have to" to "may" — plus はずです, the related epistemic pattern for logical expectation.
+- [manner-accordance](/JapaneseNotes/grammar-index/manner-accordance) — Patterns for describing an action performed in accordance with a plan, instruction, or expectation — 通り／どおり, and related forms.
 
 ## Forms & Counters
 

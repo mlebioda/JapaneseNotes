@@ -5,7 +5,7 @@ topic_slug: ["concession-contrast"]
 function: []
 level: N4
 register: neutral
-confused_with: ["tameni-for-purpose-of"]
+confused_with: ["tameni-for-purpose-of", "noni-purpose-use"]
 proofread: true
 ---
 
@@ -48,6 +48,7 @@ Register: neutral
 ## Often confused with
 
 - [ために - for (purpose of)](/JapaneseNotes/grammar-index/grammar/tameni-for-purpose-of) — test: does the clause express an unexpected contrast between two facts (のに) or a purpose/goal being pursued (ために)?
+- [のに。。。- for, to (to indicate the application of purpose)](/JapaneseNotes/grammar-index/grammar/noni-purpose-use) — test: Same spelling, different pattern — does のに mean "even though" (contrastive, unexpected mismatch) or "useful for / for the purpose of ~ing" (only before 使う／役に立つ／便利／いい／悪い)?
 
 ## See also
 

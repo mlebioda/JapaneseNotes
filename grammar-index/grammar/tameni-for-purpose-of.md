@@ -5,7 +5,7 @@ topic_slug: ["purpose-reason"]
 function: ["purpose"]
 level: N4
 register: neutral
-confused_with: ["noni-even-though"]
+confused_with: ["noni-even-though", "noni-purpose-use"]
 proofread: true
 ---
 
@@ -62,6 +62,7 @@ Register: neutral
 ## Often confused with
 
 - [。。。のに - even though](/JapaneseNotes/grammar-index/grammar/noni-even-though) — test: does the clause express a purpose/goal being pursued (ために) or an unexpected contrast between two facts (のに)?
+- [のに。。。- for, to (to indicate the application of purpose)](/JapaneseNotes/grammar-index/grammar/noni-purpose-use) — test: Is this describing something as useful/convenient for a purpose (のに, only before 使う／役に立つ／便利／いい／悪い) or stating an active goal someone works toward (ために, freely productive with volitional verbs)?
 
 ## See also
 

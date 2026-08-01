@@ -229,6 +229,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL9-you-dont-have-to-wear-suite-to-c
 # 文法
 
 ## 。。。はずです - should do/ought (logically)
+→ [[grammar-index/grammar/hazudesu-should-do-ought-logically]]
 
 >Feeling of assurance as a result of some reasonable assumption - He is an English teacher so he should speak english
 
@@ -245,11 +246,15 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL9-you-dont-have-to-wear-suite-to-c
 
 **Note on はずです's place in this table:** unlike the other rows, はずです isn't a weaker "must" — it's a different kind of modality entirely. The must/have-to/advice/permission rows are all *deontic* (they tell someone what to do or is allowed to do). はずです is *epistemic*: it states the speaker's confident logical expectation about a state of affairs ("X should logically be true"), not an instruction or recommendation. Don't read it as "a softer should."
 
+**Register:** neutral — です is the polite form, plain-form equivalent is はずだ (see いadj example below); no further politeness tiers.
+
 ### Structure
 
 Positive:
 - **V「dict」 +  はずです**
 	-  佐藤(さとう)さんは英語教師(えいごきょうし)なので、英語(えいご)が話(はな)せるはずです。 - Mr. Sato is an English language teacher, so he should be able to speak English. (話せる is itself the dictionary form of the potential verb — はずです just attaches to whatever the final plain form is, including potential/passive/causative conjugations)
+- **V「た」 +  はずです** (past event — "should have already ~")
+	- 田中(たなか)さんはもう出発(しゅっぱつ)したはずです。 - Mr. Tanaka should have already left.
 - **いadj       +   はずです**
 	- さっき暖房(だんぼう)をつけたから、部屋(へや)が暖(あたた)かいはずだ。 - I turned on the heater a little while ago, so the room ought to be warm.
 - **なadj + な + はずです**
@@ -263,13 +268,22 @@ Positive:
 	- 彼（かれ）は出（で）かけたばかりで、こんなに早（はや）く戻（もど）るはずがない - He just went out. He couldn't come back so quickly (impossible)
 	- こんなに難（むずか）しいテストになるはずではなかった。 - This test wasn't supposed to be this hard. (contrary to expectation)
 
+**Related but not negative — はずだった**
+- はずだった is the *past tense of the positive form*, not a negative pattern — but it's easy to confuse with はずではなかった because both often describe something that didn't pan out as expected:
+	- **はずだった** = "was supposed to / should have" — states the past expectation itself, usually implying it wasn't fulfilled
+	- **はずではなかった** = negates the expectation itself — "it wasn't supposed to be this way" (something unexpected happened)
+	- 彼（かれ）は来（く）るはずだった。 - He was supposed to come. (implying he didn't)
 
 ### Examples
 #w 彼（かれ）は出（で）かけたばかりで、こんなに早（はや）く戻（もど）るは**ずがない** - He just went out. He **couldn't** come back so quickly
 
 #w こんなに難（むずか）しいテストになる**はずではなかった**。 - This test **wasn't supposed to be** this hard.
 
+#w 彼（かれ）は来（く）る**はずだった**。 - He **was supposed to come**. (implying he didn't)
+
 #w 佐藤(さとう)さんは英語教師(えいごきょうし)なので、英語(えいご)が話(はな)せる**はずです**。 - Mr. Sato is an English language teacher, so he **should be able** to speak English.
+
+#w 田中(たなか)さんはもう出発(しゅっぱつ)した**はずです**。 - Mr. Tanaka **should have already left**.
 
 #w さっき暖房(だんぼう)をつけたから、部屋(へや)が暖(あたた)かい**はずだ**。 - I turned on the heater a little while ago, so the room **ought to be** warm.
 
@@ -280,6 +294,7 @@ Positive:
 ---
 
 ## なくてもいいです・なくてもかまいません - doesn't have to
+→ [[grammar-index/grammar/nakutemoiidesu-nakutemokamaimasen-doesnt-have-to]]
 
 | Pattern                  | Form               | Meaning                                    | Strength                  | Source       |
 | ------------------------ | ------------------ | ------------------------------------------ | ------------------------- | ------------ |
@@ -293,6 +308,8 @@ Positive:
 | てもいいです                   | Vて + もいいです         | It's okay to / you may (permission)        | ✓ permission              | UN5GL7       |
 |                          |                    |                                            |                           |              |
 
+**Register:** neutral — なくてもいいです is the everyday polite default; なくてもかまいません/かまいませんか is the more formal/business register (see Structure note below).
+
 ### Structure
 - V「ない」なくてもいいです　・なくてもいい
 - V「ない」なくてもかまいません　・なくてもかまわない　- more formal/polite than なくてもいい; common in writing, business contexts, or when checking you won't inconvenience someone
@@ -305,13 +322,16 @@ Positive:
 
 ---
 ## なくてはなりません・なければなりません - must, have to
+→ [[grammar-index/grammar/nakutehanarimasen-nakerebanarimasen-must-have-to]]
 
 ### Structure
 Largely interchangeable — なければなりません leans slightly more formal/written (general rule), なくてはならない can feel a touch more personal/emphatic, but at this level treat them as equivalent.
 - V「ない」なくてはなりません
 - V「ない」なければなりません
 
-Also applies to い-adjectives/な-adjectives/nouns via である: 静(しず)かでなければならない。 - It must be quiet.
+い-adjectives conjugate directly, no copula needed: 部屋(へや)は暖(あたた)かくなければならない。 - The room must be warm. (い→く + なければならない)
+
+な-adjectives and nouns route through the だ/である copula (で connects): 静(しず)かでなければならない。 - It must be quiet.
 
 ### Examples
 
@@ -319,21 +339,24 @@ Also applies to い-adjectives/な-adjectives/nouns via である: 静(しず)�
 #w 結婚式(けっこんしき)までに指輪(ゆびわ)を用意(ようい)しなくてはなりません。 - I must prepare the ring before the wedding ceremony.
 #w 目(め)が悪(わる)いから、毎日(まいにち)めがねをかけなくてはならない。 - Since I have poor eyesight, I have to wear glasses every day.
 #w 電車(でんしゃ)に間(ま)に合(あ)うように、早(はや)く家(いえ)を出(で)なければなりません。 - I must leave home early so as to catch the train.
+#w 部屋(へや)は暖(あたた)かくなければならない。 - The room must be warm.
+#w 静(しず)かでなければならない。 - It must be quiet.
 
 ---
 
-## 通りに。。。（と）- exactly as, as, just like
+## 通(とお)りに。。。 - exactly as, as, just like
+→ [[grammar-index/grammar/toorini-exactly-as-as-just-like]]
 
-> To indicate doing something as planned or instructed
+> To indicate doing something as planned or instructed, or confirming that something matched a prediction/expectation ("just as I thought")
 
 ### Structure
-- V「dict」 通りに。。。（と） - a general/habitual pattern ("as X always says/does")
+- V「dict」 + 通(とお)りに。。。 - a general/habitual pattern ("as X always says/does")
 	- 先生(せんせい)が言(い)うとおりに書(か)いてください。 - Please write as the teacher says (in general).
-- V「た」 通りに。。。（と） - one specific completed instance ("as X did/said that one time")
+- V「た」 + 通(とお)りに。。。 - one specific completed instance ("as X did/said that one time"), including confirming a prediction (思(おも)ったとおりに - "just as I thought")
 	- わたしが書(か)いたとおりに、書(か)いてください。 - Please write exactly as I have written.
-- N の　　通りに。。。（と）
+- N + の + 通(とお)りに。。。
 	- 予定(よてい)のとおり、9時(じ)に集合(しゅうごう)します。 - As planned, we will gather at 9 o'clock.
-- N 　　　通りに。。。（ど）- without の sound is changing
+- N + 通(どお)りに。。。 - without の, sound changes to どおり
 	- 予定(よてい)どおり、9時(じ)に集合(しゅうごう)します。 - As planned, we will gather at 9 o'clock.
 - As noun can be used:
 	- このとおり - like this / in this way
@@ -358,10 +381,11 @@ Also applies to い-adjectives/な-adjectives/nouns via である: 静(しず)�
 #w **このとおりに**、やってください。 - Please do it exactly **like this**.
 
 ## のに。。。- for, to (to indicate the application of purpose)
+→ [[grammar-index/grammar/noni-purpose-use]]
 
 > Purpose of use
 
-**Don't confuse with contrastive のに ("even though / despite"):** that's a completely different, much more common grammar point using the identical spelling. This purpose/utility のに only appears before 使う・役に立つ・便利・いい・悪い and means "useful for / for the purpose of ~ing," not "even though."
+**Don't confuse with contrastive [のに ("even though / despite")](/JapaneseNotes/grammar-index/grammar/noni-even-though):** that's a completely different, much more common grammar point using the identical spelling. This purpose/utility のに only appears before 使う・役に立つ・便利・いい・悪い and means "useful for / for the purpose of ~ing," not "even though."
 
 ### Structure
 - V「dict」 + のに。。。 - (V + の - nominalization; verbs need の since they aren't already nominal)
@@ -385,6 +409,7 @@ Often used with:
 # Vocabulary
 
 ## 必要(ひつよう) - essential / necessary, is need to
+→ [[grammar-index/grammar/hitsuyou-essential-necessary-is-need-to]]
 
 | Pattern                  | Form               | Meaning                                    | Strength                  | Source       |
 | ------------------------ | ------------------ | ------------------------------------------ | ------------------------- | ------------ |
@@ -400,6 +425,7 @@ Often used with:
 ### Use cases
 
 #### Used as noun - there is (not) need
+→ [[grammar-index/grammar/hitsuyou-noun-use-ga-aru-nai]]
 
 ##### Structure
 - V「dict」- 必要（ひつよう）がある
@@ -409,33 +435,38 @@ Often used with:
 
 ##### Examples
 
- #w 明日（あした）は休（やす）みだが、学校（がっこう）に行（い）く**必要**（ひつよう）がある - Tomorrow is a day off, but **there is need** to go to school
- 
+#w 明日（あした）は休（やす）みだが、学校（がっこう）に行（い）く**必要**（ひつよう）がある - Tomorrow is a day off, but **there is need** to go to school
+
 #w あの子(こ)におもちゃを買(か)ってあげたから、新(あたら)しいおもちゃを買(か)う**必要**(ひつよう)がない。 - Since I bought that child a toy, there is no need to buy a new toy.
 
 ---
 #### used as a な adjective - essential/necessary
+→ [[grammar-index/grammar/hitsuyou-na-adjective-use]]
 ##### Structure
 - N＋が＋必要（ひつよう） - predicative use ("N is necessary")
 	- お金(かね)が必要(ひつよう)です。 - Money is **necessary**.
 - 必要（ひつよう）な＋N - attributive use ("necessary N"), the defining な-adjective pattern
 	- 必要（ひつよう）な書類（しょるい） - necessary documents
+- N＋は＋必要（ひつよう）ではありません - negative predicative use ("N isn't necessary")
+	- この書類(しょるい)は必要(ひつよう)ではありません。 - This document isn't necessary.
 ##### Examples
 
-#w お金(かね)が**必要(**ひつよう)です。 - Money is **necessary**.
+#w お金(かね)が**必要**(ひつよう)です。 - Money is **necessary**.
 #w めがねが**必要**(ひつよう)になった。 - I came to need glasses. / Glasses became **necessary**.
 #w 新入生(しんにゅうせい)に**必要**(ひつよう)な書類(しょるい) - documents necessary for new students
+#w この書類(しょるい)は**必要**(ひつよう)ではありません。 - This document **isn't necessary**.
 
 #wp 必要(ひつよう) - essential / necessary
 
 ---
 ## Verbs
 
-### かける - multi-use verb (hang/pour, attach, lock, wear, sit, phone)
+### かける - multi-use verb (hang/pour, attach, lock, wear, sit, phone, trouble, time/money)
+→ [[grammar-index/grammar/vocabulary/Verbs/kakeru]]
 
 #### Use cases
 
-##### Put something like covering or pouring liquid or powder from the top
+##### put something like covering or pouring liquid or powder from the top
 
 #wc かける - put something on the top
 #w 足(あし)**に**布団(ふとん)をかける。 - to put a comforter over one's feet.
@@ -448,8 +479,8 @@ Often used with:
 ##### put something in a fixed position so that it cannot move
 #wc かける - put something in a fixed position so that it cannot move
 #w ドアにカギ**を**かける - to lock the door
-##### Put something in a removable position
-#wc かける - Put something in a removable position
+##### put something in a removable position
+#wc かける - put something in a removable position
 #w めがね**を**かける - to wear glasses
 
 ##### to sit down on a chair
@@ -459,6 +490,18 @@ Often used with:
 ##### to make a phone call
 #wc かける - to make a phone call
 #w 友達(ともだち)**に**電話(でんわ)をかける。 - to make a phone call to a friend.
+
+##### to cause someone trouble / inconvenience
+#wc かける - to cause someone trouble / inconvenience
+#w 彼(かれ)は家族(かぞく)**に**迷惑(めいわく)をかけた。 - He caused trouble for his family.
+
+Near-synonym: 人(ひと)を困(こま)らせる (causative of 困(こま)る - "to be troubled") — "to trouble/bother someone." More personal than 迷惑をかける, usually pointing at one person's specific behavior rather than a general inconvenience.
+#w 子供(こども)は親(おや)を困(こま)らせた。 - The child troubled his parents.
+
+##### to spend time / money on something
+#wc かける - to spend time / money on something
+#w 日本語(にほんご)の勉強(べんきょう)**に**時間(じかん)をかけている。 - I'm spending time on studying Japanese.
+#w 旅行(りょこう)**に**お金(かね)をかける。 - to spend money on travel.
 
 
 
@@ -1756,7 +1799,7 @@ A: 山田（やまだ）さんを知（し）っている B: さあ
 <!--ID: 1781717354917-->
 
 
-He just went out. He couldn't come back so quickly | はずがない — no way, logically impossible #k #card
+He just went out. He couldn't come back so quickly | no way, logically impossible #k #card
 彼（かれ）は出（で）かけたばかりで、こんなに早（はや）く戻（もど）るはずがない
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
@@ -1765,12 +1808,18 @@ He just went out. He couldn't come back so quickly | はずがない — no way,
 <!--ID: 1781717354918-->
 
 
-This test wasn't supposed to be this hard. | はずではなかった — contrary to an earlier expectation, not logical impossibility #k #card
+This test wasn't supposed to be this hard.  #k #card
 こんなに難（むずか）しいテストになるはずではなかった。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_難.html">難</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
 <!--ID: 1785486299789-->
 
+
+He was supposed to come. (implying he didn't) #k #card
+彼（かれ）は来（く）るはずだった。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
+<!--ID: 1785574408552-->
 
 
 Mr. Sato is an English language teacher, so he should be able to speak English. #k #card
@@ -1783,6 +1832,15 @@ Mr. Sato is an English language teacher, so he should be able to speak English. 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_師.html">師</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1781717354919-->
+
+
+Mr. Tanaka should have already left. #k #card
+田中(たなか)さんはもう出発(しゅっぱつ)したはずです。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_発.html">発</a>
+<!--ID: 1785574408553-->
 
 
 I turned on the heater a little while ago, so the room ought to be warm. #k #card
@@ -1871,6 +1929,32 @@ Since I have poor eyesight, I have to wear glasses every day. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_毎.html">毎</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1781717354928-->
+
+
+I must leave home early so as to catch the train. #k #card
+電車(でんしゃ)に間(ま)に合(あ)うように、早(はや)く家(いえ)を出(で)なければなりません。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_早.html">早</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<!--ID: 1785574673141-->
+
+
+The room must be warm. #k #card
+部屋(へや)は暖(あたた)かくなければならない。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_暖.html">暖</a>
+<!--ID: 1785574673142-->
+
+
+It must be quiet. #k #card
+静(しず)かでなければならない。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_静.html">静</a>
+<!--ID: 1785574673143-->
 
 
 Please write as the teacher says. | general/habitual — dict form とおりに #k #card
@@ -2012,6 +2096,15 @@ documents necessary for new students | attributive な-adjective use (必要な�
 <!--ID: 1785486299794-->
 
 
+This document isn't necessary. #k #card
+この書類(しょるい)は必要(ひつよう)ではありません。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_類.html">類</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_必.html">必</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_要.html">要</a>
+<!--ID: 1785575101485-->
+
+
 
 put something on the top #card
 ほんやく: かける
@@ -2077,6 +2170,45 @@ to make a phone call to a friend #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1785486299795-->
+
+
+He caused trouble for his family. #k #card
+彼(かれ)は家族(かぞく)に迷惑(めいわく)をかけた。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_迷.html">迷</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_惑.html">惑</a>
+<!--ID: 1785575212635-->
+
+
+The child troubled his parents. #k #card
+子供(こども)は親(おや)を困(こま)らせた。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_供.html">供</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_親.html">親</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_困.html">困</a>
+<!--ID: 1785575292712-->
+
+
+I'm spending time on studying Japanese. #k #card
+日本語(にほんご)の勉強(べんきょう)に時間(じかん)をかけている。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勉.html">勉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
+<!--ID: 1785575212636-->
+
+
+to spend money on travel. #k #card
+旅行(りょこう)にお金(かね)をかける。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_旅.html">旅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_金.html">金</a>
+<!--ID: 1785575212637-->
 
 
 

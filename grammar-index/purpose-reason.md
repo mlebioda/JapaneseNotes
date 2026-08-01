@@ -5,3 +5,4 @@
 ## Entries
 
 - [ために - for (purpose of)](/JapaneseNotes/grammar-index/grammar/tameni-for-purpose-of) · N4
+- [のに。。。- for, to (to indicate the application of purpose)](/JapaneseNotes/grammar-index/grammar/noni-purpose-use) · N4
