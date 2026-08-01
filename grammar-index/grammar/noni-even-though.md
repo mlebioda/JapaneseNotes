@@ -5,7 +5,7 @@ topic_slug: ["concession-contrast"]
 function: []
 level: N4
 register: neutral
-confused_with: ["tameni-for-purpose-of", "noni-purpose-use"]
+confused_with: ["tameni-for-purpose-of", "noni-purpose-use", "temo-even-if-even-though"]
 proofread: true
 ---
 
@@ -49,6 +49,7 @@ Register: neutral
 
 - [ために - for (purpose of)](/JapaneseNotes/grammar-index/grammar/tameni-for-purpose-of) — test: does the clause express an unexpected contrast between two facts (のに) or a purpose/goal being pursued (ために)?
 - [のに。。。- for, to (to indicate the application of purpose)](/JapaneseNotes/grammar-index/grammar/noni-purpose-use) — test: Same spelling, different pattern — does のに mean "even though" (contrastive, unexpected mismatch) or "useful for / for the purpose of ~ing" (only before 使う／役に立つ／便利／いい／悪い)?
+- [。。。ても。。。- even if, even though](/JapaneseNotes/grammar-index/grammar/temo-even-if-even-though) — test: Is B a factual complaint about an A that actually happened (のに), or does B hold true regardless of a hypothetical or general A (ても)?
 
 ## See also
 

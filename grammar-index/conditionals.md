@@ -13,3 +13,4 @@
 ## See also
 
 - [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — the interrogative ば + いいですか conditional doubles as a request for advice
+- [Subordinate Clauses](/JapaneseNotes/grammar-index/subordinate-clauses) — たら subordinate clauses can carry their own が-marked subject

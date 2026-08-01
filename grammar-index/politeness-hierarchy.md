@@ -11,3 +11,4 @@
 ## See also
 
 - [Respectful Expressions](/JapaneseNotes/grammar-index/respectful-expressions) — the three verb patterns being compared here
+- [Passive Voice](/JapaneseNotes/grammar-index/passive-voice) — the られる respectful form reuses the passive conjugation for a different (honorific) function

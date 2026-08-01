@@ -12,3 +12,4 @@
 ## See also
 
 - [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — the causative-request forms (てもらえませんか／ていただけませんか) are the humble way to ask permission from a superior
+- [Passive Voice](/JapaneseNotes/grammar-index/passive-voice) — the same られる conjugation combines with 使役形 to form the causative-passive

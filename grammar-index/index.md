@@ -5,6 +5,7 @@
 - [verb-te-form](/JapaneseNotes/grammar-index/verb-te-form) — Patterns built on the verb て-form — connecting, progressive/state, and auxiliary constructions.
 - [communication-verbs](/JapaneseNotes/grammar-index/communication-verbs) — Verbs for informing, telling, reporting, and contacting others.
 - [causative](/JapaneseNotes/grammar-index/causative) — Patterns for making or letting someone do something (使役形), including the humble causative-request forms used to ask permission from a superior.
+- [passive-voice](/JapaneseNotes/grammar-index/passive-voice) — Patterns for the passive/receptive verb form (受身形) — direct passive, suffering passive, agentless informational passive, and material/ingredient passive.
 
 ## Patterns
 
@@ -21,6 +22,7 @@
 - [purpose-reason](/JapaneseNotes/grammar-index/purpose-reason) — Patterns for stating a goal or purpose behind an action — ために, ように, and related forms.
 - [obligation-necessity](/JapaneseNotes/grammar-index/obligation-necessity) — Patterns expressing obligation, prohibition, necessity, and permission — from strongest "must" to "don't have to" to "may" — plus はずです, the related epistemic pattern for logical expectation.
 - [manner-accordance](/JapaneseNotes/grammar-index/manner-accordance) — Patterns for describing an action performed in accordance with a plan, instruction, or expectation — 通り／どおり, and related forms.
+- [subordinate-clauses](/JapaneseNotes/grammar-index/subordinate-clauses) — Patterns describing how a subordinate clause carries its own が-marked subject, separate from the main clause's subject — とき, てから, まえに, たら, ても, and related connectors.
 
 ## Forms & Counters
 

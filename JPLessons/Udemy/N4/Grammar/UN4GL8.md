@@ -178,6 +178,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL8-I-Was-Asked-to-do-Work-related-t
 # 文法
 
 ## 受身系（うけみけい）- passive form
+→ [[grammar-index/grammar/ukemikei-passive-form]]
 
 ### What is?
 
@@ -222,6 +223,7 @@ Passive form
 ### Use cases 
 
 #### N1 + は  + N2 + に + V「passive form」- **N1 was V by N2**
+→ [[grammar-index/grammar/n1-ha-n2-ni-passive-was-v-by-n2]]
 ##### Structure
 -  N1 + は  + N2 + に + V「passive form」- **N1 was V by N2**
 	- 私（わたし）は母（はは）**に**叱**られました**（しか） - I was scolded by my mom
@@ -242,6 +244,7 @@ Passive form
 
 ---
 #### N1 + は  + N2 + に N3 + を + V「passive form」- representing bad/good result of action on someone
+→ [[grammar-index/grammar/passive-n3-wo-affected-person]]
 ##### Structure
 -  N1 + は  + N2 + に N3 + を + V「passive form」- representing bad result of action
 	- N1 - receives bad action (can be omitted when it obvious)
@@ -265,6 +268,7 @@ Passive form
 
 ---
 #### N + は/が + V 「passive form」- passing information
+→ [[grammar-index/grammar/n-ha-ga-v-passive-form-passing-information]]
 ##### Structure
 - N + は/が + V 「passive form」
 	- Use cases
@@ -287,6 +291,7 @@ Passive form
 ---
 
 #### N + は/が N + から/で + V 「passive form」- Material, ingredient
+→ [[grammar-index/grammar/n-ha-ga-n-kara-de-v-passive-form-material-ingredient]]
 ##### Structure
 -  N + は/が N + から/で + V 「passive form」- Material, ingredient
 	1. から - made from (material transforms completely) 
@@ -304,9 +309,11 @@ Related expression: 〜でできている ("is made of/from ~") is a common alte
 ---
 
 ## 。。。ても。。。
+→ [[grammar-index/grammar/temo]]
 
 ### Use cases 
 #### 。。。ても。。。- even if, even though
+→ [[grammar-index/grammar/temo-even-if-even-though]]
 
 - A ても B - B happens regardless of the situation of A
 - Often used with 
@@ -340,6 +347,7 @@ Note: たとえ...ても pairs たとえ with ても for extra emphasis — "eve
 
 ---
 ### interrogative + ても.... - no matter
+→ [[grammar-index/grammar/interrogative-temo-no-matter]]
 
 interrogatives are:
 - **何(なに/なん)** — what
@@ -397,6 +405,7 @@ interrogatives are:
 
 
 ## 付属分（ふぞくぶん）の 主語（しゅご）- the subject of a subordinate clause
+→ [[grammar-index/grammar/fuzokubun-no-shugo-the-subject-of-a-subordinate-clause]]
 
 - 本文（ほんぶん）- main clause
 - 付属分（ふぞくぶん） - subordinate clause (often with が)

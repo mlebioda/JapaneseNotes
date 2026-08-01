@@ -161,22 +161,25 @@ The でした softens the statement and signals shared knowledge or a reminder r
 - **にする = I decided**
 - **になる = it was decided (by something outside me)**
 - になっている = it is already set (rule/schedule/arrangement)
+
+**Don't confuse with [ようにします ("working hard on / making an effort to")](/JapaneseNotes/grammar-index/grammar/you-ni-shimasu):** both surface as V + に + する/します, but ことにする is a firm, one-time decision ("I decided to do X"), while ようにする is an ongoing effort or standing resolution ("I try to / make sure to keep doing X").
+
 ### Structure
 - V「dict」 こと ＋ に　＋ する
-	- 卒業（そつぎょう）したら 大学院（だいがくいん）へ行く（い）こ**とにしました** - When I graduate(undergraduate), **I have decided** to go to graduate school
+	- 卒業（そつぎょう）したら 大学院（だいがくいん）へ行く（い）こ**とにしました** - When I graduate (undergraduate), **I have decided** to go to graduate school
 - V「ない」 こと ＋ に　＋ する
 	- 風邪(かぜ)がひどいので、スキーに行(い)かないことにしました。 - Because I caught a bad cold, I decided not to go skiing.
 
 
 ### Examples
 
-#w 卒業（そつぎょう）したら 大学院（だいがくいん）へ行く（い）こ**とにしました** - When I graduate(undergraduate), **I have decided** to go to graduate school
+#w 卒業（そつぎょう）したら 大学院（だいがくいん）へ行く（い）こ**とにしました** - When I graduate (undergraduate), **I have decided** to go to graduate school
 
 #w わたしは卒業(そつぎょう)したら、帰国(きこく)する**ことにしました**。 - I have **decided** to go back to my home country after graduation.
 
 #w 風邪(かぜ)がひどいので、スキーに行(い)かない**ことにしました**。 - Because I caught a bad cold, I **decided** not to go skiing.
 
-#w 仕事後(しごとご)に、必ず(かならず)2キロ歩(ある)くこと**にしました**。 - I **decided** to walk 2 kilometers after work. (surerly)
+#w 仕事後(しごとご)に、必ず(かならず)2キロ歩(ある)くこと**にしました**。 - I **decided** to make sure to walk 2 kilometers after work.
 
 ---
 
@@ -198,7 +201,7 @@ The でした softens the statement and signals shared knowledge or a reminder r
 
 #w 私(わたし)は来年(らいねん)インドへ転勤(てんきん)する**ことになった**。 - It **has been decided** that I will transfer to India next year.
 
-#w シルヴァンさんはちょうど日本(にほん)に出張(しゅっちょう)でいるから、明日(あした)のミーティングに参加(さんか)する**ことになりました**。 - Because Sylvain is just in Japan for a business trip, **it has been decided** that he would attend the meeting tomorrow.
+#w シルヴァンさんはちょうど日本(にほん)に出張中(しゅっちょうちゅう)だから、明日(あした)のミーティングに参加(さんか)する**ことになりました**。 - Because Sylvain is just in Japan for a business trip, **it has been decided** that he will attend the meeting tomorrow.
 
 #w 中国(ちゅうごく)で工場(こうじょう)は作(つく)**らないことになりました**。 - It **has been decided not to** establish a factory in China.
 
@@ -209,23 +212,26 @@ The でした softens the statement and signals shared knowledge or a reminder r
 - にする = I choose
 - になる = it was decided (by something outside me)
 - **になっている = it is already set (rule/schedule/arrangement)**
+
+**Don't confuse with はずだった／はずです ("was supposed to" / "should be"):** both can gloss as "supposed to" in English, but ことになっている describes an external/institutional rule or arrangement (a schedule, a policy, something agreed by others), while はず expresses the speaker's own logical expectation about something, often revealing it wasn't fulfilled. "Parking isn't allowed here" (ことになっている, a rule) is a different kind of claim from "he should be here by now" (はずです, my own reasoning).
+
 ### Structure
 - V「dict」 こと ＋ に + なっています 
 	- 8時(じ)に友達(ともだち)と駅(えき)で会(あ)うことになっている。 - It is arranged that I will meet my friend at the station at 8.
-- V「あに」 こと ＋ に + なっています - **not allowed**
+- V「ない」 こと ＋ に + なっています - **not allowed**
 	- ここは駐車(ちゅうしゃ)できないことになっています。 - Parking is not allowed here (it's the rule).
 
 
 ### Examples
-#w 8時(じ)に友達(ともだち)と駅(えき)で会(あ)う**ことになっている**。 - I**t is arranged** that I will meet my friend at the station at 8.
+#w 8時(じ)に友達(ともだち)と駅(えき)で会(あ)う**ことになっている**。 - **It is arranged** that I will meet my friend at the station at 8.
 #w ここは駐車(ちゅうしゃ)できない**ことになっています**。 - Parking **is not allowed** here (it's the rule).
-#w 水曜日(すいようび)に荷物(にもつ)が届(とど)くことになっています。 - The mail is supposed to arrive on Wednesday.
+#w 水曜日(すいようび)に荷物(にもつ)が届(とど)くことになっています。 - The package is supposed to arrive on Wednesday.
 #w 娘(むすめ)は来年(らいねん)から留学(りゅうがく)することになっている。 - My daughter is supposed to study abroad next year.
 #w 映画館(えいがかん)では、タバコは吸(す)えないことになっています。 - You are not supposed to smoke in the movie theater.
 
 ---
 
-## の 名刺化(めいしか） - nominaliser (when word is added after and adjective or verb)
+## の 名詞化（めいしか） - nominaliser (when word is added after an adjective or verb)
 
 Nominalising - Changing to nouns
 
@@ -245,6 +251,7 @@ Nominalising - Changing to nouns
 - いadj　+ の 
 	- 会社(かいしゃ)で一番忙(いちばんいそが)しいのは山田(やまだ)さんです。 - The person who is the busiest in the company is Mr. Yamada.
 - なadj + な + の 
+	- 大切（たいせつ）なのは家族（かぞく）です。 - What's important is family.
 
 ### Examples
 
@@ -256,9 +263,11 @@ Nominalising - Changing to nouns
 
 #w 広島(ひろしま)の旅(たび)はとても楽(たの)しかった。残念(ざんねん)なのはお好み焼(このみや)きを食(た)べなかったことです。 - The trip to Hiroshima was really fun, but it is a pity that I didn't eat okonomiyaki.
 
-#w 鈴木(すずき)さんは歩(ある)く**のが**速(はや)いです。 - Mr. Suzuki walks(noun) fast.
-#w 窓(まど)を閉(し)める**の**を忘(わす)れました。 - I forgot to close(noun) the window.
-#w スミスさんは日本語(にほんご)を話(はな)す**の**が上手(じょうず)です。 - Mr. Smith speaks（noun) Japanese very well.
+#w 鈴木(すずき)さんは歩(ある)く**のが**速(はや)いです。 - Mr. Suzuki is a fast walker.
+#w 窓(まど)を閉(し)める**の**を忘(わす)れました。 - I forgot to close the window.
+#w スミスさんは日本語(にほんご)を話(はな)す**の**が上手(じょうず)です。 - Mr. Smith speaks Japanese very well.
+
+#w 大切（たいせつ）なのは家族（かぞく）です。 - What's important is family.
 
 ---
 
@@ -267,9 +276,9 @@ Nominalising - Changing to nouns
 
 ### Use cases
 
-1. - N 中 == Nしています. - Be doing something
+1. N 中 == Nしています - Be doing something
 		- 仕事中（しごとちゅう）= 仕事(しごと)をしています
-	- N + 中（ちゅう・じゅう)
+	- N + 中（ちゅう・じゅう）
 		- 仕事中（しごとちゅう）- during work
 2. During Period of time
 	- 三月中（さんがつちゅう） - during March
@@ -278,7 +287,7 @@ Nominalising - Changing to nouns
 			- 今日中（きょうじゅう）- during today
 			- 今年中（ことしじゅう）- during this year
 3. Whole (Place, area)
-			- 日本中（にほん**じゅう**）- whole world 
+			- 日本中（にほん**じゅう**）- throughout Japan
 			- 世界中（せかい**じゅう**）- whole planet
 
 ### Examples
@@ -296,9 +305,9 @@ Nominalising - Changing to nouns
 
 #w この仕事(しごと)は今月中(こんげつちゅう)にやらなければなりません。 - We have to finish this work within this month.
 #w 飛行機(ひこうき)は午前中(ごぜんちゅう)に着(つ)きます。 - The flight will arrive in the morning.
-#w 今日中(きょうじゅう)に申(もう)し込(こ)まないと、間(ま)に合(あ)いません。 - We will be late (don't be on time) if we don't apply for it by the end of today.
+#w 今日中(きょうじゅう)に申(もう)し込(こ)まないと、間(ま)に合(あ)いません。 - We will be late if we don't apply for it by the end of today.
 
-#w 日本中（にほん**じゅう**）- **whole** world 
+#w 日本中（にほん**じゅう**）- **throughout** Japan
 #w 世界中（せかい**じゅう**）- **whole** planet
 
 #w あの子(こ)はとても頭(あたま)が良(よ)いです。学校中(がっこうじゅう)の人(ひと)が知(し)っています。 - That child is really clever. All the people in school know that. (whole school)
@@ -308,16 +317,26 @@ Nominalising - Changing to nouns
 
 ## V「て」もらえませんか, V「て」くれませんか
 
-- Negative form of interrogative when ask, becomes a request
+- Using the negative interrogative form turns a question into a polite request
 - Politer than 「て」もらえますか and 「て」くれますか
 
 | 「て」もらう | 「て」もらえる | 「て」もらえますか |
 | ------ | ------- | --------- |
 | 「て」くれる |         | 「て」くれますか  |
+
+**Note on the empty cell:** くれる doesn't get the same potential-form step もらう does. もらえる ("can receive") is a natural, commonly used potential form that softens もらう into a request. くれられる is grammatically constructible but isn't actually used this way — requests with くれる jump straight from plain くれる to くれませんか.
+
 - V「て」くれませんか - sounds too formal between intimate people
 - When use to superior use
 	- 「て」いただけませんか
 	- 「て」くださいませんか
+
+**Don't confuse with these related request patterns:**
+- [Vて形＋くださいませんか - politer form of くれませんか](/JapaneseNotes/grammar-index/grammar/kudasaimasenka-polite-request) — the direct polite escalation of くれませんか used here, appropriate toward superiors, customers, and business contexts.
+- [Would you please let me do...](/JapaneseNotes/grammar-index/grammar/would-you-please-let-me-do) — same もらえませんか／いただけませんか endings, but causative-based: asking permission to do something *yourself*, not asking someone else to act.
+- [ます形 なさい - giving instructions](/JapaneseNotes/grammar-index/grammar/masu-nasai-giving-instructions) — the opposite direction: a firm instruction issued *by* someone in authority *to* a subordinate (teacher→student), with no favor-asking framing at all.
+- [お/ご V「ます形」ください - Respectful request form (尊敬語)](/JapaneseNotes/grammar-index/grammar/o-go-v-masukudasai-respectful-request-form) — a direct respectful request *toward* a superior/customer (sonkeigo), common in service/business contexts — more direct than asking a favor with もらえませんか／くださいませんか.
+
 ### Examples
 
 #w 来（き）てもらえませんか - could you please come (for me)?
@@ -325,7 +344,7 @@ Nominalising - Changing to nouns
 
 #w 明日(あした)の引(ひ)っ越(こ)し、手伝(てつだ)ってもらえませんか。 - Could you help me with moving tomorrow?
 #w お兄(にい)さん、明日(あした)京都(きょうと)に行(い)くんだけど、案内(あんない)してくれる？ - Brother, I will go to Kyoto tomorrow, could you guide me there?
-#w この漢字(かんじ)の発音(はつおん)を教(おし)えてもらえませんか(or tekuremasenka)。 - Could you please teach me how to pronounce this kanji?
+#w この漢字(かんじ)の発音(はつおん)を教(おし)えてもらえませんか(or てくれませんか)。 - Could you please teach me how to pronounce this kanji?
 
 ---
 # Vocabulary
@@ -334,8 +353,9 @@ Nominalising - Changing to nouns
 
 ### Use cases
 
-1. As a Noun - indicates a good and bad thing (sure, of course)
-2. As an adverb - expresses the strong desire of a thing's realisation or practice (really)
+1. As a noun - the rightness or wrongness of a matter; the merits/pros and cons (formal/classical usage, distinct from the common adverb sense below)
+	- この計画（けいかく）の是非（ぜひ）を話（はな）し合（あ）いましょう。- Let's discuss the merits (pros and cons) of this plan.
+2. As an adverb - expresses a strong wish for something to happen or be done (really, by all means)
 	- Often used with
 		- てください
 		- たい・欲しい
@@ -346,6 +366,8 @@ Nominalising - Changing to nouns
 
 #w 是非(ぜひ) - sure / of course
 
+#w この計画（けいかく）の是非（ぜひ）を話（はな）し合（あ）いましょう。- Let's discuss the merits (pros and cons) of this plan.
+
 #w 是非（ぜひ）行ってみたいです（い）- I really want to go
 #w 是非（ぜひ）見て（み）欲しい（ほ）- I really want you to see
 
@@ -355,9 +377,9 @@ Nominalising - Changing to nouns
 
 ### Use cases
 
-1. Describe a thing that is sure to happen, without exception
+1. Objective inevitability - a fact or rule that is sure to happen, without exception
 	1. 人間（にんげん）は必ず（かなら）死ぬ（し）- People are mortal (surely die)
-2. Represent something that surely happen
+2. Effort-based assurance - taking action to guarantee something surely happens
 	1. 必ず(かならず)電車(でんしゃ)に間(ま)に合(あ)うように、早(はや)く家(いえ)を出(で)ます。 - We will leave home early so that we will surely catch the train.
 
 
@@ -1217,12 +1239,13 @@ It has been decided that I will transfer to India next year. #k #card
 <!--ID: 1780755321559-->
 
 
-Because Sylvain is just in Japan for a business trip, it has been decided that he would attend the meeting tomorrow. #k #card
-シルヴァンさんはちょうど日本(にほん)に出張(しゅっちょう)でいるから、明日(あした)のミーティングに参加(さんか)することになりました。
+Because Sylvain is just in Japan for a business trip, it has been decided that he will attend the meeting tomorrow. #k #card
+シルヴァンさんはちょうど日本(にほん)に出張中(しゅっちょうちゅう)だから、明日(あした)のミーティングに参加(さんか)することになりました。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_張.html">張</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_参.html">参</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_加.html">加</a>
@@ -1330,7 +1353,7 @@ The trip to Hiroshima was really fun, but it is a pity that I didn't eat okonomi
 <!--ID: 1780755321570-->
 
 
-Mr. Suzuki walks (noun) fast. #k #card
+Mr. Suzuki is a fast walker. #k #card
 鈴木(すずき)さんは歩(ある)くのが速(はや)いです。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鈴.html">鈴</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
@@ -1339,7 +1362,7 @@ Mr. Suzuki walks (noun) fast. #k #card
 <!--ID: 1780755321571-->
 
 
-I forgot to close (noun) the window. #card
+I forgot to close the window. #card
 窓(まど)を閉(し)めるのを忘(わす)れました。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_窓.html">窓</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_閉.html">閉</a>
@@ -1347,7 +1370,7 @@ I forgot to close (noun) the window. #card
 <!--ID: 1780755321572-->
 
 
-Mr. Smith speaks (noun) Japanese very well. #k #card
+Mr. Smith speaks Japanese very well. #k #card
 スミスさんは日本語(にほんご)を話(はな)すのが上手(じょうず)です。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1356,6 +1379,15 @@ Mr. Smith speaks (noun) Japanese very well. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1780755321573-->
+
+
+What's important is family. #k #card
+大切（たいせつ）なのは家族（かぞく）です。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_族.html">族</a>
+<!--ID: 1785580022939-->
 
 
 during work #k #card
@@ -1465,7 +1497,7 @@ We will be late if we don't apply for it by the end of today. #k #card
 <!--ID: 1780755321584-->
 
 
-whole world #k #card
+throughout Japan #k #card
 日本中（にほんじゅう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1560,6 +1592,17 @@ sure / of course | as an adverb, expresses a strong desire for something to happ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_是.html">是</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_非.html">非</a>
 <!--ID: 1780755321594-->
+
+
+Let's discuss the merits (pros and cons) of this plan. | noun usage — the rightness/wrongness of a matter #k #card
+この計画（けいかく）の是非（ぜひ）を話（はな）し合（あ）いましょう。
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_是.html">是</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_非.html">非</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
+<!--ID: 1785580522546-->
 
 
 I really want to go #k #card

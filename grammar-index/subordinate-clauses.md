@@ -1,0 +1,12 @@
+# Subordinate Clauses
+
+> Patterns describing how a subordinate clause carries its own が-marked subject, separate from the main clause's subject — とき, てから, まえに, たら, ても, and related connectors.
+
+## Entries
+
+- [付属分（ふぞくぶん）の 主語（しゅご）- the subject of a subordinate clause](/JapaneseNotes/grammar-index/grammar/fuzokubun-no-shugo-the-subject-of-a-subordinate-clause) · N4
+
+## See also
+
+- [Concession & Contrast](/JapaneseNotes/grammar-index/concession-contrast) — ても/のに subordinate clauses can carry their own が-marked subject
+- [Conditionals](/JapaneseNotes/grammar-index/conditionals) — たら subordinate clauses can carry their own が-marked subject

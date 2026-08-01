@@ -1721,7 +1721,7 @@
       "score": 4
     },
     "UN4GL8::ukemikei-passive-form": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL8.md",
+      "lesson_file": "grammar-index/grammar/ukemikei-passive-form.md",
       "grammar_header": "受身形（うけみけい）- passive form",
       "last_reviewed": "2026-07-08",
       "interval_days": 25,
@@ -1739,27 +1739,9 @@
       "score": 3,
       "next_review": "2026-08-02"
     },
-    "UN4GL8::temo": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL8.md",
-      "grammar_header": "。。。ても。。。",
-      "last_reviewed": "2026-07-13",
-      "interval_days": 2,
-      "ease": 1.7,
-      "streak": 3,
-      "total_reviews": 6,
-      "last_score": 2,
-      "weak_points": [
-        "何回でも confused with verb+ても for the interrogative+ても 'no matter how many times' pattern",
-        "時間が多い→時間がある",
-        "いくら～ても not produced",
-        "い-adj + くても — dropped て (寒くも)"
-      ],
-      "score": 2,
-      "next_review": "2026-08-04"
-    },
     "UN4GL8::fuzokubun-no-shugo": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL8.md",
-      "grammar_header": "付属分（ふぞくぶん）の 主語（しゅご）",
+      "lesson_file": "grammar-index/grammar/fuzokubun-no-shugo-the-subject-of-a-subordinate-clause.md",
+      "grammar_header": "付属分（ふぞくぶん）の 主語（しゅご）- the subject of a subordinate clause",
       "last_reviewed": "2026-07-14",
       "interval_days": 2,
       "ease": 1.85,
@@ -1776,9 +1758,45 @@
       "score": 2,
       "next_review": "2026-08-05"
     },
+    "UN4GL8::temo-even-if-even-though": {
+      "lesson_file": "grammar-index/grammar/temo-even-if-even-though.md",
+      "grammar_header": "。。。ても。。。- even if, even though",
+      "last_reviewed": "2026-07-13",
+      "interval_days": 2,
+      "ease": 1.7,
+      "streak": 3,
+      "total_reviews": 6,
+      "last_score": 2,
+      "weak_points": [
+        "何回でも confused with verb+ても for the interrogative+ても 'no matter how many times' pattern",
+        "時間が多い→時間がある",
+        "いくら～ても not produced",
+        "い-adj + くても — dropped て (寒くも)"
+      ],
+      "score": 2,
+      "next_review": "2026-08-04"
+    },
+    "UN4GL8::interrogative-temo-no-matter": {
+      "lesson_file": "grammar-index/grammar/interrogative-temo-no-matter.md",
+      "grammar_header": "interrogative + ても.... - no matter",
+      "last_reviewed": "2026-07-13",
+      "interval_days": 2,
+      "ease": 1.7,
+      "streak": 3,
+      "total_reviews": 6,
+      "last_score": 2,
+      "weak_points": [
+        "何回でも confused with verb+ても for the interrogative+ても 'no matter how many times' pattern",
+        "時間が多い→時間がある",
+        "いくら～ても not produced",
+        "い-adj + くても — dropped て (寒くも)"
+      ],
+      "score": 2,
+      "next_review": "2026-08-04"
+    },
     "UN4GL9::hazudesu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL9.md",
-      "grammar_header": "はずです",
+      "lesson_file": "grammar-index/grammar/hazudesu-should-do-ought-logically.md",
+      "grammar_header": "。。。はずです - should do/ought (logically)",
       "last_reviewed": "2026-07-26",
       "interval_days": 16,
       "ease": 2.0,
@@ -1796,8 +1814,8 @@
       "next_review": "2026-08-13"
     },
     "UN4GL9::nakutemo-iidesu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL9.md",
-      "grammar_header": "なくてもいいです・なくてもかまいません",
+      "lesson_file": "grammar-index/grammar/nakutemoiidesu-nakutemokamaimasen-doesnt-have-to.md",
+      "grammar_header": "なくてもいいです・なくてもかまいません - doesn't have to",
       "last_reviewed": "2026-07-21",
       "interval_days": 13,
       "ease": 2.15,
@@ -1812,8 +1830,8 @@
       "next_review": "2026-08-07"
     },
     "UN4GL9::nakute-wa-narimasen": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL9.md",
-      "grammar_header": "なくてはなりません・なければなりません",
+      "lesson_file": "grammar-index/grammar/nakutehanarimasen-nakerebanarimasen-must-have-to.md",
+      "grammar_header": "なくてはなりません・なければなりません - must, have to",
       "last_reviewed": "2026-07-21",
       "interval_days": 49,
       "ease": 2.35,
@@ -1830,8 +1848,8 @@
       "next_review": "2026-09-08"
     },
     "UN4GL9::toori-ni": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL9.md",
-      "grammar_header": "通りに（とおりに・どおりに）",
+      "lesson_file": "grammar-index/grammar/toorini-exactly-as-as-just-like.md",
+      "grammar_header": "通(とお)りに。。。 - exactly as, as, just like",
       "last_reviewed": "2026-07-20",
       "interval_days": 21,
       "ease": 2.15,
@@ -1848,8 +1866,46 @@
       "score": 4,
       "next_review": "2026-08-10"
     },
+    "UN4GL9::hitsuyou-noun-use": {
+      "lesson_file": "grammar-index/grammar/hitsuyou-noun-use-ga-aru-nai.md",
+      "grammar_header": "Used as noun - there is (not) need",
+      "last_reviewed": "2026-07-21",
+      "interval_days": 10,
+      "ease": 1.85,
+      "streak": 6,
+      "total_reviews": 7,
+      "last_score": 2,
+      "weak_points": [
+        "必要は→必要が particle confusion — now recurring across 3+ sessions",
+        "unnecessary こと nominalizer inserted before 必要がない (V「dict」should attach directly)",
+        "はずがない vs 必要がない confusion",
+        "朝 → 傘 vocabulary confusion",
+        "N+が+必要 pattern not produced"
+      ],
+      "score": 2,
+      "next_review": "2026-08-11"
+    },
+    "UN4GL9::hitsuyou-na-adjective-use": {
+      "lesson_file": "grammar-index/grammar/hitsuyou-na-adjective-use.md",
+      "grammar_header": "used as a な adjective - essential/necessary",
+      "last_reviewed": "2026-07-21",
+      "interval_days": 10,
+      "ease": 1.85,
+      "streak": 6,
+      "total_reviews": 7,
+      "last_score": 2,
+      "weak_points": [
+        "必要は→必要が particle confusion — now recurring across 3+ sessions",
+        "unnecessary こと nominalizer inserted before 必要がない (V「dict」should attach directly)",
+        "はずがない vs 必要がない confusion",
+        "朝 → 傘 vocabulary confusion",
+        "N+が+必要 pattern not produced"
+      ],
+      "score": 2,
+      "next_review": "2026-08-11"
+    },
     "UN4GL9::noni-purpose": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL9.md",
+      "lesson_file": "grammar-index/grammar/noni-purpose-use.md",
       "grammar_header": "のに。。。- for, to (to indicate the application of purpose)",
       "last_reviewed": "2026-07-29",
       "interval_days": 49,
@@ -1867,28 +1923,9 @@
       "score": 4,
       "next_review": "2026-09-16"
     },
-    "UN4GL9::hitsuyou": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL9.md",
-      "grammar_header": "必要（ひつよう）",
-      "last_reviewed": "2026-07-21",
-      "interval_days": 10,
-      "ease": 1.85,
-      "streak": 6,
-      "total_reviews": 7,
-      "last_score": 2,
-      "weak_points": [
-        "必要は→必要が particle confusion — now recurring across 3+ sessions",
-        "unnecessary こと nominalizer inserted before 必要がない (V「dict」should attach directly)",
-        "はずがない vs 必要がない confusion",
-        "朝 → 傘 vocabulary confusion",
-        "N+が+必要 pattern not produced"
-      ],
-      "score": 2,
-      "next_review": "2026-08-11"
-    },
     "UN4GL9::kakeru": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL9.md",
-      "grammar_header": "かける（多義語）",
+      "grammar_header": "### かける - multi-use verb (hang/pour, attach, lock, wear, sit, phone, trouble, time/money)",
       "last_reviewed": "2026-07-08",
       "interval_days": 24,
       "ease": 2.2,
