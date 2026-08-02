@@ -12,6 +12,8 @@
 - [V「て-form」くる / きた / いく — action continuing over time](/JapaneseNotes/grammar-index/grammar/te-kuru-kita-iku) · N4
 - [ている → てる / ていた → てた (casual contraction)](/JapaneseNotes/grammar-index/grammar/teiru-teru-teita-teta-casual-contraction) · N4
 
+- [V「て」しまいます - Finish something completely/complete an action](/JapaneseNotes/grammar-index/grammar/vteshimaimasu-finish-something-completely-complete-an-action) · N4
+
 ## See also
 
 - [Humble Expressions](/JapaneseNotes/grammar-index/humble-expressions) — kenjougo て-form progressive おります

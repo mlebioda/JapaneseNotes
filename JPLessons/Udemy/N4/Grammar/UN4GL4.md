@@ -174,6 +174,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL4-would-you-like-to-go-to-hospital
 # 文法
 
 ## 疑問詞（ぎもんし）...か ... - indirect question
+→ [[grammar-index/grammar/gimonshika-indirect-question]]
 
 Structure:
 - interrogative:
@@ -201,6 +202,7 @@ Structure:
 
 ---
 ## 言っていました - relay ideas
+→ [[grammar-index/grammar/tteimashita-relay-ideas]]
 
 Comparison:
 - と言いました - **quote what someone said**, fact in the past
@@ -211,6 +213,7 @@ Comparison:
 Register: と言っていました is polite; dropping ました gives the plain/casual と言っていた.
 
 ### V「plain」+ と言っていました（い）- X said...
+→ [[grammar-index/grammar/v-plain-to-itteimashita]]
 
 - と言っていました - relays something someone said that's still relevant (formal conversation and writing)
 	- 社長は明日のミーティングがなくなると言っていました。(しゃちょう, あす, い) - The company president said that tomorrow's meeting is cancelled.
@@ -231,6 +234,7 @@ Structure:
 ---
 
 ## V + って言っていました - less formal, used more often in speaking
+→ [[grammar-index/grammar/v-tte-itteimashita-informal]]
 
 - less formal, used more often in speaking
 
@@ -250,6 +254,7 @@ Structure:
 
 ---
 ## んじゃない - when someone asks for an opinion and the speaker is sure of their idea
+→ [[grammar-index/grammar/njanai-seeking-agreement]]
 
 Comparison:
 **んじゃない** — _you_ already have a view, you're seeking confirmation
@@ -274,6 +279,7 @@ Structure
 ---
 
 ## 。。。し、。。。し - conjunction
+→ [[grammar-index/grammar/shishi-conjunction]]
 
 - used to give two or more descriptions about one topic
 	- ジャパンホテルは部屋が広い**し**、食事も美味しい**し**、良いホテルだと思います（へや、ひろ、しょくじ、おい、い、おも）- The rooms are big and the meals are delicious so I think Japan Hotel is a good hotel
@@ -328,6 +334,7 @@ Ale し ma jedną cechę, która odróżnia go od prostego „i" — **lista cel
 ---
 
 ## V「て」しまいます - Finish something completely/complete an action
+→ [[grammar-index/grammar/vteshimaimasu-finish-something-completely-complete-an-action]]
 
 - Finish something completely/complete an action
 	- みのりちゃんからもらったケーキを全部食べて**しまいました**（ぜんぶ、た） - I ate the entire cake Minori gave me (complete action)
@@ -373,6 +380,7 @@ Albo tryb dokonany z emocją:
 W polskim robimy to bardziej intonacją i kontekstem niż konkretnym słowem — nie ma jednego odpowiednika. てしまいました to ta chwila gdy mówisz _„no i..."_ albo _„niestety..."_ z rezygnacją w głosie.
 
 ## V「た・ない」ほうがいいです - give advice or suggestion to the listener
+→ [[grammar-index/grammar/v-ta-nai-hou-ga-ii-desu]]
 
 Structure
 - V「た」ほうがいいです - You'd better V
@@ -387,6 +395,7 @@ Structure
 
 ---
 ## でしょう - seems / right
+→ [[grammar-index/grammar/deshou-seems-right]]
 
 Structure:
 - V「plain」 + でしょう
@@ -419,6 +428,7 @@ Register: でしょう is polite; the plain/casual equivalent is だろう.
 ---
 
 ## かもしれません・かもしれない - may/might
+→ [[grammar-index/grammar/kamoshiremasen-kamoshirenai-may-might]]
 
 - Used to mention a possibility the speaker isn't confident about (contrast with でしょう, which expresses a more confident guess)
 
@@ -441,6 +451,7 @@ Structure:
 # Vocabulary
 
 ## ずっと - continuous / far / all the time
+→ [[grammar-index/grammar/vocabulary/Nouns/zutto-continuous-far-all-the-time]]
 
 #w ずっと - continuous / far / all the time
 

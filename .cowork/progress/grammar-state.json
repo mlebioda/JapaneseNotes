@@ -1236,8 +1236,8 @@
       "next_review": "2026-08-28"
     },
     "UN4GL4::gimonshi-ka": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL4.md",
-      "grammar_header": "疑問詞（ぎもんし) ...か ...",
+      "lesson_file": "grammar-index/grammar/gimonshika-indirect-question.md",
+      "grammar_header": "疑問詞（ぎもんし）...か ... - indirect question",
       "last_reviewed": "2026-07-14",
       "interval_days": 5,
       "ease": 1.8,
@@ -1253,8 +1253,8 @@
       "score": 2
     },
     "UN4GL4::to-itte-imashita": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL4.md",
-      "grammar_header": "V「plain」と言っていました",
+      "lesson_file": "grammar-index/grammar/v-plain-to-itteimashita.md",
+      "grammar_header": "V「plain」+ と言っていました（い）- X said...",
       "last_reviewed": "2026-07-22",
       "interval_days": 29,
       "ease": 2.05,
@@ -1272,8 +1272,8 @@
       "next_review": "2026-08-20"
     },
     "UN4GL4::tte-itte-imashita": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL4.md",
-      "grammar_header": "V「て」って言っていました (informal relay)",
+      "lesson_file": "grammar-index/grammar/v-tte-itteimashita-informal.md",
+      "grammar_header": "V + って言っていました - less formal, used more often in speaking",
       "last_reviewed": "2026-07-08",
       "interval_days": 35,
       "ease": 2.2,
@@ -1288,8 +1288,8 @@
       "next_review": "2026-08-12"
     },
     "UN4GL4::n-janai": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL4.md",
-      "grammar_header": "んじゃない",
+      "lesson_file": "grammar-index/grammar/njanai-seeking-agreement.md",
+      "grammar_header": "んじゃない - when someone asks for an opinion and the speaker is sure of their idea",
       "last_reviewed": "2026-07-22",
       "interval_days": 10,
       "ease": 1.8,
@@ -1305,8 +1305,8 @@
       "score": 2
     },
     "UN4GL4::shi-shi": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL4.md",
-      "grammar_header": "。。。し、。。。し",
+      "lesson_file": "grammar-index/grammar/shishi-conjunction.md",
+      "grammar_header": "。。。し、。。。し - conjunction",
       "last_reviewed": "2026-07-15",
       "interval_days": 5,
       "ease": 1.8,
@@ -1324,8 +1324,8 @@
       "score": 2
     },
     "UN4GL4::te-shimaimasu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL4.md",
-      "grammar_header": "V「て」しまいます",
+      "lesson_file": "grammar-index/grammar/vteshimaimasu-finish-something-completely-complete-an-action.md",
+      "grammar_header": "V「て」しまいます - Finish something completely/complete an action",
       "last_reviewed": "2026-07-16",
       "interval_days": 1,
       "ease": 1.8,
@@ -1342,8 +1342,8 @@
       "score": 2
     },
     "UN4GL4::hou-ga-ii": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL4.md",
-      "grammar_header": "V「た・ない」 ほうがいいです",
+      "lesson_file": "grammar-index/grammar/v-ta-nai-hou-ga-ii-desu.md",
+      "grammar_header": "V「た・ない」ほうがいいです - give advice or suggestion to the listener",
       "last_reviewed": "2026-07-26",
       "interval_days": 17,
       "ease": 1.6,
@@ -1361,8 +1361,8 @@
       "next_review": "2026-08-13"
     },
     "UN4GL4::deshou": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL4.md",
-      "grammar_header": "でしょう",
+      "lesson_file": "grammar-index/grammar/deshou-seems-right.md",
+      "grammar_header": "でしょう - seems / right",
       "last_reviewed": "2026-07-22",
       "next_review": "2026-10-28",
       "interval_days": 98,
@@ -1374,8 +1374,8 @@
       "score": 4
     },
     "UN4GL4::kamoshiremasen": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL4.md",
-      "grammar_header": "かもしれません",
+      "lesson_file": "grammar-index/grammar/kamoshiremasen-kamoshirenai-may-might.md",
+      "grammar_header": "かもしれません・かもしれない - may/might",
       "last_reviewed": "2026-07-13",
       "interval_days": 32,
       "ease": 2.05,
@@ -1390,8 +1390,8 @@
       "next_review": "2026-08-14"
     },
     "UN4GL4::zutto": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL4.md",
-      "grammar_header": "ずっと",
+      "lesson_file": "grammar-index/grammar/vocabulary/Nouns/zutto-continuous-far-all-the-time.md",
+      "grammar_header": "ずっと - continuous / far / all the time",
       "last_reviewed": "2026-07-20",
       "interval_days": 1,
       "ease": 1.8,
@@ -4063,6 +4063,16 @@
       "total_reviews": 0,
       "weak_points": [],
       "next_review": "2026-08-02"
+    },
+    "UN4GL4::tteimashita-relay-ideas": {
+      "lesson_file": "grammar-index/grammar/tteimashita-relay-ideas.md",
+      "grammar_header": "言っていました - relay ideas",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 0,
+      "total_reviews": 0,
+      "weak_points": [],
+      "next_review": "2026-08-05"
     }
   }
 }

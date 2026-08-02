@@ -34,6 +34,10 @@
 - [subordinate-clauses](/JapaneseNotes/grammar-index/subordinate-clauses) — Patterns describing how a subordinate clause carries its own が-marked subject, separate from the main clause's subject — とき, てから, まえに, たら, ても, and related connectors.
 - [hearsay-reported-speech](/JapaneseNotes/grammar-index/hearsay-reported-speech) — Patterns for reporting information heard from someone else, rather than experienced directly — そうです（伝聞）, らしいです.
 - [ease-difficulty](/JapaneseNotes/grammar-index/ease-difficulty) — Patterns for describing how easy or difficult an action is to do, attaching to a verb's ます-stem: やすい, にくい.
+- [question-formation](/JapaneseNotes/grammar-index/question-formation) — Patterns for forming and embedding questions — indirect/embedded questions, question-word combinations, and related forms.
+- [conjecture-guessing](/JapaneseNotes/grammar-index/conjecture-guessing) — Patterns for expressing a guess or confident assumption, and its confidence level — from confirming a view the speaker already holds (んじゃない) to a guess presented as likely (でしょう) to an unconfident possibility (かもしれません).
+- [reason-listing](/JapaneseNotes/grammar-index/reason-listing) — Patterns for listing multiple reasons or descriptive traits about one topic, implying the list isn't exhaustive: し, and related forms.
+- [advice-suggestions](/JapaneseNotes/grammar-index/advice-suggestions) — Patterns for giving advice or a suggestion to the listener: ほうがいい, and related forms.
 
 ## Forms & Counters
 

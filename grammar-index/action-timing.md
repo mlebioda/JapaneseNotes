@@ -13,6 +13,8 @@
 - [名詞（めいし） + 中（ちゅう・じゅう）- during](/JapaneseNotes/grammar-index/grammar/meishi-chuu-juu-during) · N4
 - [V「た」ばかり - action that just ended](/JapaneseNotes/grammar-index/grammar/ta-bakari) · N4
 
+- [V「て」しまいます - Finish something completely/complete an action](/JapaneseNotes/grammar-index/grammar/vteshimaimasu-finish-something-completely-complete-an-action) · N4
+
 ## See also
 
 - [Verb Te-Form](/JapaneseNotes/grammar-index/verb-te-form) — ているところです is built on the て-form progressive
