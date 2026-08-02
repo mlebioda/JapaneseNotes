@@ -711,19 +711,20 @@
     "UN5GL4::years-nen": {
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL4.md",
       "grammar_header": "Years 年",
-      "last_reviewed": "2026-07-08",
-      "interval_days": 25,
-      "ease": 2.5,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 3,
+      "last_reviewed": "2026-08-02",
+      "interval_days": 81,
+      "ease": 2.65,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 4,
       "weak_points": [
         "四年間 + に — duration span does not take に (recurred again)",
         "日本語 vocab typo (wrote 日本ほ)",
-        "reading of 4 before 年: よ not よん (4年 = よねん)"
+        "reading of 4 before 年: よ not よん (4年 = よねん)",
+        "していました vs しています (ongoing tense)"
       ],
-      "score": 3,
-      "next_review": "2026-08-02"
+      "score": 4,
+      "next_review": "2026-10-22"
     },
     "UN5GL4::irregular-date-readings": {
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL4.md",
@@ -1651,21 +1652,21 @@
     "UN4GL3::vte-okimasu": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL3.md",
       "grammar_header": "V「て形」＋おきます",
-      "last_reviewed": "2026-07-16",
-      "next_review": "2026-08-02",
-      "interval_days": 14,
-      "ease": 1.75,
-      "streak": 6,
-      "total_reviews": 6,
-      "last_score": 3,
+      "last_reviewed": "2026-08-02",
+      "next_review": "2026-09-03",
+      "interval_days": 32,
+      "ease": 1.9,
+      "streak": 7,
+      "total_reviews": 7,
+      "last_score": 4,
       "weak_points": [
-        "dropped して entirely - used plain 置く instead of the layered して+おく construction",
         "そのままにしておく — に required, cannot drop",
         "てから (after) vs 前に (before) — opposite meaning",
         "そのまま+ておく = leave as is (not preparation)",
-        "dropped にして — used plain 置く instead of layered そのままにしておく construction"
+        "dropped にして — used plain 置く instead of layered そのままにしておく construction",
+        "つける vs 消す confusion (leave-on vs turn-off)"
       ],
-      "score": 3
+      "score": 4
     },
     "UN4GL3::vte-haikemasen": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL3.md",
@@ -1753,21 +1754,21 @@
     "UN4GL8::ukemikei-passive-form": {
       "lesson_file": "grammar-index/grammar/ukemikei-passive-form.md",
       "grammar_header": "受身形（うけみけい）- passive form",
-      "last_reviewed": "2026-07-08",
-      "interval_days": 25,
-      "ease": 2.05,
-      "streak": 5,
-      "total_reviews": 5,
-      "last_score": 3,
+      "last_reviewed": "2026-08-02",
+      "interval_days": 67,
+      "ease": 2.2,
+      "streak": 6,
+      "total_reviews": 6,
+      "last_score": 4,
       "weak_points": [
-        "wrong verb for adversative passive (used 汚される instead of 踏まれる)",
         "invalid passive conjugation (突かられました instead of 作られました)",
         "弟 vs 妹 vocabulary",
         "が→は for ongoing facts (repeated)",
-        "て-form instead of ています"
+        "て-form instead of ています",
+        "電気 vs 電車 kanji mix-up"
       ],
-      "score": 3,
-      "next_review": "2026-08-02"
+      "score": 4,
+      "next_review": "2026-10-08"
     },
     "UN4GL8::fuzokubun-no-shugo": {
       "lesson_file": "grammar-index/grammar/fuzokubun-no-shugo-the-subject-of-a-subordinate-clause.md",
@@ -1956,21 +1957,21 @@
     "UN4GL9::kakeru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/kakeru.md",
       "grammar_header": "### かける - multi-use verb (hang/pour, attach, lock, wear, sit, phone, trouble, time/money)",
-      "last_reviewed": "2026-07-08",
-      "interval_days": 24,
-      "ease": 2.2,
-      "streak": 4,
-      "total_reviews": 4,
-      "last_score": 3,
+      "last_reviewed": "2026-08-02",
+      "interval_days": 1,
+      "ease": 2.0,
+      "streak": 0,
+      "total_reviews": 5,
+      "last_score": 1,
       "weak_points": [
-        "missing request form てください when prompt asks for a request (recurred twice this session)",
-        "ドアに鍵を (not 鍵に) for locking",
-        "椅子に (not 席を) for sitting",
-        "着る confused with かける for glasses/hanging",
-        "missing を for object of かける (pour use case)"
+        "missing を for object of かける (pour use case)",
+        "past tense missing after かける (dictionary form used)",
+        "ハンガーに location omitted",
+        "ている missing for ongoing worn/spending states",
+        "迷惑をかける use case skipped"
       ],
-      "score": 3,
-      "next_review": "2026-08-02"
+      "score": 1,
+      "next_review": "2026-08-19"
     },
     "UN4GL10::jyoukenki-ba": {
       "lesson_file": "grammar-index/grammar/joukenkei-ba-conditional-form.md",
@@ -2544,61 +2545,66 @@
     "UN4GL2::node": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL2.md",
       "grammar_header": "。。。ので",
-      "last_reviewed": "2026-07-09",
-      "next_review": "2026-08-02",
-      "interval_days": 4,
-      "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
+      "last_reviewed": "2026-08-02",
+      "next_review": "2026-08-19",
+      "interval_days": 5,
+      "ease": 2.2,
+      "streak": 2,
+      "total_reviews": 2,
       "last_score": 2,
       "weak_points": [
-        "いadj + ので - not attempted",
-        "に vs で after 住む (existence/settling location)",
         "から used instead of ので when ので specifically targeted",
-        "て-form/aspectual conjugation of 混む (混んでいる, not こまれた)"
+        "て-form/aspectual conjugation of 混む (混んでいる, not こまれた)",
+        "hedging between から/ので instead of committing",
+        "い-adjective + ので still avoided (recurring)",
+        "N + な + ので missing な"
       ],
       "score": 2
     },
     "UN4GL2::n-nara": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL2.md",
       "grammar_header": "Nなら",
-      "last_reviewed": "2026-07-09",
-      "next_review": "2026-08-02",
-      "interval_days": 4,
+      "last_reviewed": "2026-08-02",
+      "next_review": "2026-08-19",
+      "interval_days": 9,
       "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
-      "last_score": 2,
+      "streak": 2,
+      "total_reviews": 2,
+      "last_score": 3,
       "weak_points": [
-        "Nなら topic-comment pattern - not attempted"
+        "Nなら topic-comment pattern - not attempted",
+        "missing と思います opinion softener"
       ],
-      "score": 2
+      "score": 3
     },
     "UN4GL2::ha-emphasis": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL2.md",
       "grammar_header": "は - emphasizes a noun placed right before the other particle",
-      "last_reviewed": "2026-07-16",
-      "next_review": "2026-08-02",
-      "interval_days": 10,
+      "last_reviewed": "2026-08-02",
+      "next_review": "2026-08-28",
+      "interval_days": 25,
       "ease": 2.5,
-      "streak": 2,
-      "total_reviews": 2,
+      "streak": 3,
+      "total_reviews": 3,
       "last_score": 3,
-      "weak_points": [],
+      "weak_points": [
+        "unclear on では contrastive emphasis (で location + は contrast)"
+      ],
       "score": 3
     },
     "UN4GL2::vte-itadakemasenka": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL2.md",
       "grammar_header": "Vて いただけませんか",
-      "last_reviewed": "2026-07-09",
-      "next_review": "2026-08-02",
-      "interval_days": 4,
-      "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
+      "last_reviewed": "2026-08-02",
+      "next_review": "2026-08-20",
+      "interval_days": 5,
+      "ease": 2.2,
+      "streak": 2,
+      "total_reviews": 2,
       "last_score": 2,
       "weak_points": [
-        "incomplete sentence produced - vocabulary gap, not grammar"
+        "incomplete sentence produced - vocabulary gap, not grammar",
+        "who/what content still incomplete (recurring)"
       ],
       "score": 2
     },
@@ -2620,16 +2626,17 @@
     "UN4GL2::vte-kuremasu": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL2.md",
       "grammar_header": "Vて形 + くれます",
-      "last_reviewed": "2026-07-09",
-      "next_review": "2026-08-02",
-      "interval_days": 4,
-      "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
+      "last_reviewed": "2026-08-02",
+      "next_review": "2026-08-20",
+      "interval_days": 5,
+      "ease": 2.2,
+      "streak": 2,
+      "total_reviews": 2,
       "last_score": 2,
       "weak_points": [
         "手伝う object particle: を not に",
-        "missing embedded verb for 'help do X' (のを手伝う)"
+        "missing embedded verb for 'help do X' (のを手伝う)",
+        "missing の nominalizer before を in Vdictのを手伝う (recurring)"
       ],
       "score": 2
     },
@@ -3605,17 +3612,19 @@
       "next_review": "2026-08-19"
     },
     "UN5GL10::narau": {
-      "interval_days": 4,
+      "interval_days": 11,
       "ease": 2.65,
-      "streak": 1,
-      "total_reviews": 1,
-      "weak_points": [],
+      "streak": 2,
+      "total_reviews": 2,
+      "weak_points": [
+        "習います vs 習っています tense (ongoing)"
+      ],
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL10.md",
       "grammar_header": "習う（なら）- to study/get knowledge",
-      "last_reviewed": "2026-07-15",
-      "last_score": 4,
-      "score": 4,
-      "next_review": "2026-08-02"
+      "last_reviewed": "2026-08-02",
+      "last_score": 3,
+      "score": 3,
+      "next_review": "2026-08-19"
     },
     "UN5GL11::n-wo-vs-n-wa": {
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL11.md",
@@ -4017,52 +4026,76 @@
     "UN4GL13::im-sorry": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/im-sorry.md",
       "grammar_header": "I'm sorry",
-      "interval_days": 1,
+      "interval_days": 4,
       "ease": 2.5,
-      "streak": 0,
-      "total_reviews": 0,
+      "streak": 1,
+      "total_reviews": 1,
       "weak_points": [],
-      "next_review": "2026-08-02"
+      "next_review": "2026-08-20",
+      "last_reviewed": "2026-08-02",
+      "last_score": 3,
+      "score": 3
     },
     "UN4GL8::n1-ha-n2-ni-passive-was-v-by-n2": {
       "lesson_file": "grammar-index/grammar/n1-ha-n2-ni-passive-was-v-by-n2.md",
       "grammar_header": "N1 + は  + N2 + に + V「passive form」- **N1 was V by N2**",
-      "interval_days": 1,
-      "ease": 2.5,
-      "streak": 0,
-      "total_reviews": 0,
-      "weak_points": [],
-      "next_review": "2026-08-02"
+      "interval_days": 4,
+      "ease": 2.65,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [
+        "N1/N2 role reversal in passive (topic vs agent confusion)"
+      ],
+      "next_review": "2026-08-20",
+      "last_reviewed": "2026-08-02",
+      "last_score": 4,
+      "score": 4
     },
     "UN4GL8::passive-n3-wo-affected-person": {
       "lesson_file": "grammar-index/grammar/passive-n3-wo-affected-person.md",
       "grammar_header": "N1 + は  + N2 + に N3 + を + V「passive form」- representing bad/good result of action on someone",
-      "interval_days": 1,
+      "interval_days": 4,
       "ease": 2.5,
-      "streak": 0,
-      "total_reviews": 0,
-      "weak_points": [],
-      "next_review": "2026-08-02"
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [
+        "vocabulary gaps block affected-person passive production"
+      ],
+      "next_review": "2026-08-20",
+      "last_reviewed": "2026-08-02",
+      "last_score": 3,
+      "score": 3
     },
     "UN4GL8::n-ha-ga-v-passive-form-passing-information": {
       "lesson_file": "grammar-index/grammar/n-ha-ga-v-passive-form-passing-information.md",
       "grammar_header": "N + は/が + V 「passive form」- passing information",
-      "interval_days": 1,
-      "ease": 2.5,
-      "streak": 0,
-      "total_reviews": 0,
-      "weak_points": [],
-      "next_review": "2026-08-02"
+      "interval_days": 4,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [
+        "が used instead of は for definite/specific topic in passive-info pattern"
+      ],
+      "next_review": "2026-08-21",
+      "last_reviewed": "2026-08-02",
+      "last_score": 2,
+      "score": 2
     },
     "UN4GL8::n-ha-ga-n-kara-de-v-passive-form-material-ingredient": {
       "lesson_file": "grammar-index/grammar/n-ha-ga-n-kara-de-v-passive-form-material-ingredient.md",
       "grammar_header": "N + は/が N + から/で + V 「passive form」- Material, ingredient",
-      "interval_days": 1,
-      "ease": 2.5,
-      "streak": 0,
-      "total_reviews": 0,
-      "weak_points": [],
-      "next_review": "2026-08-02"
+      "interval_days": 4,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [
+        "が→は recurring across から/で material passive",
+        "革(leather) vocabulary gap"
+      ],
+      "next_review": "2026-08-21",
+      "last_reviewed": "2026-08-02",
+      "last_score": 2,
+      "score": 2
     },
     "UN4GL4::tteimashita-relay-ideas": {
       "lesson_file": "grammar-index/grammar/tteimashita-relay-ideas.md",
