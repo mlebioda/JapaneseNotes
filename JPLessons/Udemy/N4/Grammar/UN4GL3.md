@@ -184,60 +184,67 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL3-its-too-heavy-so-i-cant-carry-it
 
 # 文法
 
-## 可能形（かのう) - potential form - can
+## 可能形（かのうけい）- potential form - can
+
+Register: neutral — works in both casual (話せる) and polite (話せます) forms.
 
 Structure
  - が + V 可能形
-	 - 私は日本語の新聞を読みます - i read japanese newspapers
-	 - 私は日本語の新聞**が**読**めます** - i can read japanese newspapers
+	 - 私は日本語の新聞を読みます - I read Japanese newspapers
+	 - 私は日本語の新聞**が**読**めます** - I can read Japanese newspapers
+
+Often confused with: ことができる — V-dict + ことができる is an alternative, more formal way to express ability that works uniformly for all verbs, sidestepping Group 1/2/3 conjugation (日本語を話すことができます = 日本語が話せます). Also see が+見える／が+聞こえる in Vocabulary below — those are spontaneous-perception verbs, not the potential form of 見る/聞く; don't confuse them with 可能形.
 
 Transforming verbs:
-- Group 1:
+- Group 1 (godan):
 	- む -> め 
 		- 読む -> 読める
-	- う -> 買える
-	- いる、える from group 1
+	- う -> える
+		- 買う -> 買える
+	- く -> ける
+		- 書く -> 書ける、かけません、書けない
+	- ぶ -> べる
+		- 遊ぶ（あそ）-> 遊べる
+	- ぐ -> げる
+		- 泳ぐ（およ）-> 泳げる
+	- つ -> てる
+		- 立つ -> 立てる
+	- いる、える verbs that are actually Group 1 (look ichidan, conjugate as godan):
 		- 入る -> 入れる
 		- 帰る -> 帰れる
-- group 2:
-	- る
+- Group 2 (ichidan):
+	- る -> られる
 		- 食べる -> 食べられる
 		- 起きる -> 起きられる (お)
-	- く
-		- 書く -> 書ける、かけません、書けない
-- Group 3
+		- 借りる -> 借りられる
+		- 教える -> 教えられる
+- Group 3 (irregular):
 	- 来る -> 来られる（こ）
 	- する -> できる
-	- けっこんする -> けっこんできる
-
-遊ぶ (あそ) - 遊べる
-泳ぐ（およ) - 泳げる
-立つ - 立てる
-入る - 入れる
-
-借りる - 借りられる
-教える - 教えられる
-
-じゅんびする - じゅんびできる
-くる - こられる
+		- けっこんする -> けっこんできる
+		- じゅんびする -> じゅんびできる
 
 
-#w 私は日本語の新聞**が**読**めます** - i can read japanese newspapers 
+#w 私は日本語の新聞**が**読**めます** - I can read Japanese newspapers 
 
-#w 明日は 休みなので、家で そうじができる - Because tomorrow is day of, I can clean my house
+#w 明日は 休みなので、家で そうじができる - Because tomorrow is a day off, I can clean my house
 
-#w 図書館で外国語の辞書が借りられる（としょかん、がいこくご、じしょ、か) - I can borrow a foreign language dictionary from library
+#w 図書館で外国語の辞書が借りられる（としょかん、がいこくご、じしょ、か) - I can borrow a foreign language dictionary from the library
 
-#w A: どうして、元気ないの B: 昨日あまり眠れなかった（ねむ) - A: Why do you look so down? (not fine) B:
-I couldn't sleep well yesterday 
+#w A: どうして、元気ないの。B: 昨日あまり眠れなかった（ねむ) - A: Why do you look so down? (not fine) B: I couldn't sleep well yesterday
 
 ## Conditions
 ### V dict + と - if
+
+Register: neutral — works in both casual and polite speech.
 
 Structure:
 - Condition (Vdict) + と + Result - if Condition then result
 	- 風邪を引くと、何もやりたくない。(かぜ・ひ・なに) - If I catch a cold, I don't want to do anything.
 
+Important restriction: the result clause can NEVER be a volition, request, command, or suggestion (can't say 春になると、旅行しましょう - "when it becomes spring, let's travel"). と is only for natural/inevitable consequences, discoveries, or automatic sequences — all three examples below are statements, not commands, which is why と works for them.
+
+Often confused with (see ば／たら／なら below): と = automatic/natural consequence, no volitional result allowed; たら = most flexible, allows volitional results, often a specific one-time condition; ば = more literary/written register, common for general truths and with い-adjectives; なら = responds to something already said/assumed ("if that's the case").
 
 #w 風邪を引くと、何もやりたくない。(かぜ・ひ・なに) - If I catch a cold, I don't want to do anything.
 #w 全部の本を入れると、箱は重すぎると思います。(ぜんぶ・ほん・い・はこ・おも・おも) - I think the box will be too heavy if I put all the books in it.
@@ -245,74 +252,67 @@ Structure:
 
 #w 申込書(もうしこみしょ) - application form
 
-### ば
- //TODO
-### たら
-//TODO
-### なら
-//TODO
 
-Structure
-- V dict + と - if
-
-## ....します - situation is changed through a person's will - なる but because of person, not nature
+## ....します - a situation changed through a person's will (compare なる, a change due to nature/circumstance, not a person's will)
 
 - ...なります - change state because of nature
 	- 最近、あたたかくなりました(さいきん) - it became warm recently
 - ...します - change caused by person
-	- エアコンをつけて、部屋を暖かくしましょう - Turn on the air conditioner to make room warm (become warm by human will)
-Structure:
+	- エアコンをつけて、部屋を暖かくしましょう - Let's turn on the air conditioner and warm up the room
+
+Structure — the target of change is marked with を in every case below, whether followed by an い-adj stem+く, a な-adj/noun+に, or a plain noun+に:
 - い-adj -> く
 	- あたたかい→あたたかく
-- な-adj＋にします
+- な-adj/N＋にします
 	- 部屋をきれいにしました。(へや) - I cleaned my room.
-- N＋にします
-- N+ を。。。します　- when mention an subject to change
-	- .
+	- 会議を3時にします。(かいぎ・じ) - I'll make the meeting 3 o'clock.
 
+Note: a separate section further down this file, "N＋に＋します - speaker says what he/she decided on," uses this same N+に+します surface form for a different function (choosing/deciding among options, not causing a change of state) — don't conflate the two.
 
 #w 最近、あたたか**くなりました**(さいきん) - it became warm recently
 #w 最近(さいきん) - recently
-#w エアコンをつけて、部屋を暖か**くしましょう** - Turn on the air conditioner to make room warm (become warm by human will)
+#w エアコンをつけて、部屋を暖か**くしましょう** - Let's turn on the air conditioner and warm up the room
 
 #w ラジオの音を大きくしてください。(おと・おお) - Please turn up the radio volume.
 #w 部屋をきれい**にしました**。(へや) - I cleaned my room.
-#w パンフレットを半分だけ**にして**、あとは箱に何か軽いものを入れてください。(はんぶん・はこ・なに・かる・い) - Zmniejsz (liczbę) broszur do połowy, a do pudełka dołóż coś lekkiego
+#w パンフレットを半分だけ**にして**、あとは箱に何か軽いものを入れてください。(はんぶん・はこ・なに・かる・い) - Please cut the pamphlets down to half, and put something light in the box for the rest / Zmniejsz (liczbę) broszur do połowy, a do pudełka dołóż coś lekkiego
 
 ## N＋に＋します - speaker says what he/she decided on
 
 Structure:
 - N＋に＋します
 
-#w A: 彼女へのプレゼント、何**にする**？(かのじょ・なに) B: うーん、花かな。女の子はみんな花が好きでしょう。(はな・おんな・こ・はな・す) - A: What present will you give to your girlfriend? B: Um, maybe flowers. All girls like flowers, right?
+#w A: 彼女へのプレゼント、何**にする**？(かのじょ・なに) B: うーん、花かな。女の子はみんな花が好きでしょう。(はな・おんな・こ・はな・す) - A: "What are you going to get/decide on for her present?" B: "Hmm, flowers I guess. All girls like flowers, right?"
 
-#w A: 部長、来週月曜日の会議は何時**にしますか**。(ぶちょう・らいしゅう・げつようび・かいぎ・なんじ) B: 午後3時**にしましょう**。(ごご・じ)  - A: General manager, what time will the meeting be on the next Monday? B: Let's make it at 3:00 p.m
+#w A: 部長、来週月曜日の会議は何時**にしますか**。(ぶちょう・らいしゅう・げつようび・かいぎ・なんじ) B: 午後3時**にしましょう**。(ごご・じ)  - A: General manager, what time will the meeting be next Monday? B: Let's make it 3:00 p.m.
 
 ---
 ## V「て形」＋おきます - V continues without any changes, leave
 
+Register: neutral baseline is ておきます; おいとく／しとく (dropping て before く) are casual, spoken-register contractions.
+
 Structure: 
-- V「て形」＋おきます - 
+- V「て形」＋おきます
 	- V continues without any changes
 		- Often with そのまま、このまま
-		- おいておく - often pronounced as おいとく
-		- しておく - often pronounced as しとく
+		- おいておく - often pronounced as おいとく (casual)
+		- しておく - often pronounced as しとく (casual)
 	- Do V in advance (preparation to achieve goal)
 
 
-#w そのまま にして **おいて** ください - Pease leave it as it is
+#w そのまま にして **おいて** ください - Please leave it as it is
 #w 窓を開け**ておいて**ください。(まど・あ) - Please leave the window open.
 #w 電気はそのままつけ**ておいて**ください。(でんき) - Please leave the light on as it is.
 
-#w A:　この 書類はどこ**におきますか**（しょるい）、B:机の上においといて （おいておいてください）（つくえ、うえ）- A: Where can I put this file? B: Leave it on the desk
+#w A:　この書類はどこ**におきますか**（しょるい）。B:机の上においといて （置いておいてください）（つくえ、うえ）- A: Where can I put this file? B: Leave it on the desk
 
-#w おいといて （おいておいてください） - leave it leaved please.. (short and long version)
+#w おいといて （置いておいてください） - leave it as it is, please (short and long version)
 
 #w 母が戻る前に、部屋を片付け**ておきます**（はは、もど、まえ、かたづ）- I will clean up my room before mum comes back
 
-#w 出かける前に、天気よほうを調べて**おいて**ください。(で・まえ・てんき・しら) - Please look up the weather forecast before leaving.
+#w 出かける前に、天気予報を調べて**おいて**ください。(で・まえ・てんき・しら) - Please look up the weather forecast before leaving.
 #w 試験の前によく復習して**おいて**ね。(しけん・まえ・ふくしゅう) - Please review well before the test.
-#w あのレストランはとても人気ですから、予約して**おかないと**入れません。(にんき・よやく・はい) と=if - Because that restaurant is very popular, if we don't make reservation in advance, we can't enter.
+#w あのレストランはとても人気ですから、予約して**おかないと**入れません。(にんき・よやく・はい) と=if - Because that restaurant is very popular, if we don't make a reservation in advance, we can't enter.
 
 
 ## V「て形」はいけません - is forbidden to do something
@@ -1480,7 +1480,7 @@ recently #k #card
 
 
 
-Turn on the air conditioner to make the room warm (become warm by human will) #k #card
+Let's turn on the air conditioner and warm up the room #k #card
 エアコンをつけて、部屋(へや)を暖(あたた)か**くしましょう**
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
@@ -1499,7 +1499,7 @@ Please turn up the radio volume. #k #card
 
 
 
-I cleaned my room. (made (it) become clean") #k #card
+I cleaned my room. (made it become clean) #k #card
 部屋(へや)をきれい**にしました**
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
@@ -1580,7 +1580,7 @@ Please leave the light on as it is. #k #card
 
 
 A: Where can I put this file? B: Leave it on the desk #k #card
-A: この書類(しょるい)はどこ**におきますか**。B: 机(つくえ)の上(うえ)においといて（おいておいてください）
+A: この書類(しょるい)はどこ**におきますか**。B: 机(つくえ)の上(うえ)においといて（置いておいてください）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_類.html">類</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
@@ -1591,7 +1591,7 @@ A: この書類(しょるい)はどこ**におきますか**。B: 机(つくえ)
 
 
 leave it as it is, please (short and long version) #card
-おいといて（おいておいてください）
+おいといて（置いておいてください）
 <!--ID: 1778257577117-->
 
 

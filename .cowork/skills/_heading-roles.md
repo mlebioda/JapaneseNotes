@@ -1,11 +1,11 @@
 ---
 name: _heading-roles
-description: Shared heading-role recognition rules for lesson 文法/Vocabulary sections. Loaded by lesson-to-web/extract-grammar and practice-grammar so a heading means the same thing in both pipelines.
+description: Shared heading-role recognition rules for lesson 文法/Vocabulary sections. Loaded by lesson-to-web/extract-grammar and _practice-grammar-common.md so a heading means the same thing in both pipelines.
 ---
 
 # Heading Roles
 
-Single source of truth for classifying headings found in a lesson file's `# 文法` and `# Vocabulary` sections. Both `lesson-to-web/extract-grammar` (file extraction) and `practice-grammar` (drill-topic parsing) load this file and apply the same rules.
+Single source of truth for classifying headings found in a lesson file's `# 文法` and `# Vocabulary` sections. Both `lesson-to-web/extract-grammar` (file extraction) and `_practice-grammar-common.md` (drill-topic parsing) load this file and apply the same rules.
 
 Roles are decided by **content and tree position, not by heading level** — real patterns appear at `##`, `###`, and `####` depending on the lesson (e.g. in UN4GL14: `## V「て形」おります`, `### Verbs`, `#### お・ご V「ます形」します`).
 

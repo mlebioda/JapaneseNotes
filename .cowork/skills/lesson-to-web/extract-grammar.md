@@ -24,7 +24,7 @@ User says:
 ## Shared files
 
 Load `.cowork/skills/lesson-to-web/_conventions.md` before starting.
-Load `.cowork/skills/_heading-roles.md` before starting — heading-role recognition rules (scaffolding / container / point), shared with practice-grammar.
+Load `.cowork/skills/_heading-roles.md` before starting — heading-role recognition rules (scaffolding / container / point), shared with `_practice-grammar-common.md`.
 
 ---
 

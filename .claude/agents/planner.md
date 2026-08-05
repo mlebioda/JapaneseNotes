@@ -49,7 +49,8 @@ Every lesson file has:
 |---|---|---|
 | kanji-headers | `.cowork/skills/kanji-headers.md` | Formats kanji blocks in calligraphy files: fixes headers (・ separator), adds/verifies wikilinks to `Caligraphy/Kanji/`, standardizes `**(reading)**` format, adds `# Summary`. Then runs update-kanji-list. |
 | update-kanji-list | `.cowork/skills/update-kanji-list.md` | Updates `KanjiList.md` and individual kanji files in `Caligraphy/Kanji/` with occurrence links after kanji-headers runs. |
-| practice-grammar | `.cowork/skills/practice-grammar.md` | Interactive SM-2 grammar drill from a lesson file. Reads `# 文法` + `# Vocabulary` sections. State persisted in `.cowork/progress/grammar-state.json`. |
+| lesson-grammar-practice | `.cowork/skills/lesson-grammar-practice.md` | Interactive SM-2 grammar drill for a single lesson file (lesson-code/filename trigger only). Reads `# 文法` + `# Vocabulary` sections. State persisted in `.cowork/progress/grammar-state.json`. |
+| scheduled-grammar-practice | `.cowork/skills/scheduled-grammar-practice.md` | Interactive SM-2 grammar drill sourced from `.cowork/progress/grammar-state.json` (TODAY/OVERDUE scope trigger only) rather than a single lesson file. |
 | summarize-grammar | `.cowork/skills/summarize-grammar.md` | Adds a lesson's grammar points to topic files in `grammar-index/`. One file per topic, wikilinks only. |
 | fill-templates | `.cowork/skills/fill-templates.md` | Generates Anki card content (the `# Summary` section) for a lesson file from vocabulary tagged with `#w`/`#wc`/`#wp`. |
 | templates-update | `.cowork/skills/templates-update.md` | Audits and repairs already-filled Anki card templates in a lesson's `# Summary` section: normalizes field names, fills missing forms, verifies conjugations, fixes kanji links. |

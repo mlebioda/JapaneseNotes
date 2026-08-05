@@ -8,7 +8,7 @@ description: >
 
 # Practice Grammar — Persistence and Calendar Sync
 
-## Context required (passed by practice-grammar.md)
+## Context required (passed by lesson-grammar-practice.md or scheduled-grammar-practice.md via _practice-grammar-common.md)
 
 - `session_scores`: dict keyed by grammar_point_id →
     `{min_score, weak_points[], grammar_header, lesson_file, interval_days}`

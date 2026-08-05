@@ -1,7 +1,8 @@
 # Progress — grammar practice state
 
 This folder tracks spaced-repetition state for grammar practice. Written by
-`practice-grammar` and read by `repeat-grammar` (future skill).
+`lesson-grammar-practice` and `scheduled-grammar-practice`, and read by
+`repeat-grammar` (future skill).
 
 ## Files
 

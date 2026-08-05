@@ -34,6 +34,11 @@ proofread: true
 Register: polite-context typical
 ご都合 (with the ご honorific prefix) and いかがでしょうか／よろしいでしょうか are formal/business register, typically used toward customers, superiors, or people outside one's in-group — not used when asking a close friend.
 
+## Often confused with
+
+- 便利（べんり）／不便（ふべん）- convenient/inconvenient (a thing's usefulness, not a person's schedule) — test: is the sentence about whether a place, tool, or app is practical in general, or about whether a specific proposed time fits a person's circumstances (都合)?
+- 暇（ひま）／忙（いそが）しい - free/busy (a person's general state of being occupied or not) — test: is the sentence asking about someone's overall business level right now, or about whether one specific proposed time works given their existing commitments (都合)?
+
 ## See also
 
 *(none)*

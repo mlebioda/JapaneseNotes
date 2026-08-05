@@ -154,7 +154,7 @@ If the field is absent, create it (insert after `level`, before `proofread`, per
 
 ## Future work
 
-Not in scope for this skill. The retired `prompt.md`'s "Usage" note said that once backfilling is done, the follow-up is wiring `practice-grammar` to consume the new `Register` + `Often confused with` fields in its SRS drills. Carried forward as a pointer only: **Future work (separate planning session): update `practice-grammar` to read `## Register` and `## Often confused with` when selecting/explaining drill items.**
+Not in scope for this skill. The retired `prompt.md`'s "Usage" note said that once backfilling is done, the follow-up is wiring `scheduled-grammar-practice` to consume the new `Register` + `Often confused with` fields in its SRS drills. Carried forward as a pointer only: **Future work (separate planning session): update `scheduled-grammar-practice` to read `## Register` and `## Often confused with` when selecting/explaining drill items.**
 
 ---
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Load control for practice-grammar SRS date placement.
+Load control for lesson-grammar-practice / scheduled-grammar-practice SRS date placement.
 
 Prevents review pile-ups by spreading topics across days after SM-2 computes
 review dates. Applies only to TODAY/OVERDUE scope sessions.
