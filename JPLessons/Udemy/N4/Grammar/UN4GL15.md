@@ -181,8 +181,9 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL15-Recently-Im-trying-to-walk-more
 
 #wp 低い(ひくい) - low | low in height, position, or level (opposite of 高い)
 
-#w 推定(すいてい)(する) - estimation / to estimate, presume, infer | to infer or guess based on available information, e.g. 推定年齢 "estimated age"
-#wc 塗(ぬ)る - to paint / to coat (transitive) | to apply paint, lacquer, cream, or a similar substance to a surface, e.g. 壁を塗る "to paint a wall"
+#w 推定(すいてい)(する) - estimation / to estimate, presume, infer | to infer or guess based on available information "estimated age"
+#wc 塗(ぬ)る - to paint / to coat (transitive) | to apply paint, lacquer, cream, or a similar substance to a surface, e.g. 壁をX
+ "to paint a wall"
 
 # ひょうげん
 
@@ -518,7 +519,7 @@ I'm trying to walk as much as possible instead of taking the elevator or train #
 <!--ID: 1785395547643-->
 
 
-Being able to state a change in a condition or habit. #k #card
+Being able to say a change in a condition or habit. #k #card
 状態(じょうたい)や習慣(しゅうかん)の変化(へんか)を言(い)うことができること
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_状.html">状</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_態.html">態</a>
@@ -696,7 +697,7 @@ apply for a job #k #card
 <!--ID: 1785395547668-->
 
 
-textbook | in a school/course context テキスト usually means "textbook," not a text message #card
+textbook | in a school/course context usually means "textbook," not a text message #card
 テキスト
 <!--ID: 1785395547669-->
 
@@ -737,7 +738,7 @@ to shine / to glow (intransitive) #card
 <!--ID: 1785395547673-->
 
 
-light #card
+light | as a natural phenomenon/noun: sunlight, light rays, glow #card
 光(ひかり)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_光.html">光</a>
 <!--ID: 1785395547674-->
@@ -852,7 +853,7 @@ I don't know how to clean. #teineigo #k #card
 <!--ID: 1785395547686-->
 
 
-it can't be helped / there's no other way (仕方ない is the casual contraction, dropping が) #k #card
+it can't be helped / there's no other way #k #card
 仕方(しかた)がない、仕方(しかた)ない
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
@@ -1061,7 +1062,7 @@ to pray (transitive) | to wish or pray for something #card
 <!--ID: 1785395547707-->
 
 
-to get dark / to end (intransitive) | 日が暮れる "the day grows dark"; also used for a year ending, 年が暮れる #card
+to get dark / to end (intransitive) | also used for a year ending, #card
 ほんやく: 暮れる(くれる)
 て形: 暮れて
 た形: 暮れた

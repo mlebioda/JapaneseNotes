@@ -5,7 +5,7 @@ topic_slug: ["obligation-necessity"]
 function: ["obligation"]
 level: N4
 register: tiered
-confused_with: ["nakutemoiidesu-nakutemokamaimasen-doesnt-have-to", "hitsuyou-noun-use-ga-aru-nai", "hazudesu-should-do-ought-logically"]
+confused_with: ["nakutemoiidesu-nakutemokamaimasen-doesnt-have-to", "hitsuyou-noun-use-ga-aru-nai", "hazudesu-should-do-ought-logically", "vnai-nakutemoiidesu-does-not-have-to"]
 proofread: true
 ---
 
@@ -46,6 +46,7 @@ Register: tiered (casual / standard)
 - [なくてもいいです・なくてもかまいません - doesn't have to](/JapaneseNotes/grammar-index/grammar/nakutemoiidesu-nakutemokamaimasen-doesnt-have-to) — test: Does the sentence use なくても (permission to skip — なくてもいい) or なくては (obligation — なくてはならない)?
 - [Used as noun - there is (not) need](/JapaneseNotes/grammar-index/grammar/hitsuyou-noun-use-ga-aru-nai) — test: Is this an objective/factual necessity independent of any rule (必要がある) or an obligation/rule imposed on the subject (なければならない)?
 - [。。。はずです - should do/ought (logically)](/JapaneseNotes/grammar-index/grammar/hazudesu-should-do-ought-logically) — test: Is this a rule/obligation the subject must follow (なければならない) or the speaker's confident logical expectation about a fact (はずです)?
+- [Vない なくてもいいです - does not have to](/JapaneseNotes/grammar-index/grammar/vnai-nakutemoiidesu-does-not-have-to) — test: Does the sentence use なくても (permission to skip — なくてもいい) or なくては (obligation — なくてはならない)?
 
 ## See also
 

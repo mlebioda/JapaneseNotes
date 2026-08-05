@@ -2139,7 +2139,7 @@ Did your family come? #sonkeigo #k #card
 <!--ID: 1784123172651-->
 
 
-You are so beautiful #sonkeigo #k #card
+You are so beautiful person, aren't you? #sonkeigo #k #card
 おきれいな方(かた)ですね
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_方.html">方</a>
 <!--ID: 1784123172652-->

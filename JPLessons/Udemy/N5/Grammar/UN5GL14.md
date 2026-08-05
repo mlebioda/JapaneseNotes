@@ -185,7 +185,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL14-Please-come-to-station-at-7-pm
 
 # ひょうげん
 
-#w 何か質問はありますか(しつもん) - Do ypu have any questions?
+#w 何か質問はありますか(しつもん) - Do you have any questions?
 #w どうしますか - what should i do/ what will you do?
 
 #w この部屋（へや）は とても 暗（くら）いです。電気（でんき）を つけて ください。- Ten pokój jest bardzo ciemny. Proszę włączyć światło。
@@ -199,13 +199,21 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL14-Please-come-to-station-at-7-pm
 #w 辞書（じしょ）- dictionary
 # 文法
 
-## Vないで ください - please don’t do it
+## Vないでください - please don’t do it
+→ [[grammar-index/grammar/vnaidekudasai-please-dont-do-it]]
 
 Structure
 - V「ない」でください - please don’t do it
-	-  売らないでください（う）- please don't buy it
+	-  売らないでください（う）- please don't sell it
 
-#w 売らないでください（う）- please don't buy it
+Register: polite-context typical — ください softens the negative request into a polite instruction; appropriate with teachers, service staff, on signs, and in formal spoken requests to people you're not close to.
+
+Note: dropping ください (Vないで alone) makes it casual — 見ないで - "don't look" — used between friends/family or in emotional speech.
+
+Often confused with:
+- V-plain + な - blunt/commanding prohibitive (e.g. 立ち入るな "do not enter") — common on signs and in rough/masculine speech; avoid with people you don't know well.
+
+#w 売らないでください（う）- please don't sell it
 #w 忘れないでください（わす) - please don't forget
 
 #w 消さないでください（け）- please don't turn off
@@ -215,6 +223,7 @@ Structure
 #w この部屋（へや）で タバコを 吸（す）わないでください。 - Proszę nie palić w tym pokoju。
 
 ## Vない なくてもいいです - does not have to
+→ [[grammar-index/grammar/vnai-nakutemoiidesu-does-not-have-to]]
 
 Structure
 - V「ない」なくてもいいです
@@ -222,12 +231,14 @@ Structure
 - Often used as a negative answer to questions using Vない なければなりませんか 
 	- A: ここの料理を全部食べなければなりませんか。B：いいえ 全部食べなくてもいいです（ぜんぶ）- A: Must I eat all the food? B: No you don't have to
 
+Register: polite-context typical — です keeps this at the standard polite baseline. Casual speech drops です entirely: なくてもいい (e.g. 食べなくてもいい - "don't have to eat"), used with friends/family.
+
 #w A: ここの料理を全部食べなければなりませんか。B：いいえ 全部食べなくてもいいです（ぜんぶ）- A: Must I eat all the food? B: No you don't have to
 
 
 
 #w 食べなくてもいいです - You don't have to eat
-#w 予 約しなくてもいいです（よやく）- you don't have to book reservation
+#w 予約しなくてもいいです（よやく）- you don't have to book reservation
 
 #w 彼(かれ)に電話(でんわ)をかけなくてもいいです。 - Nie trzeba do niego dzwonić。
 
@@ -239,6 +250,7 @@ Structure
 ---
 
 ## Vplain + N - use verb to modify noun
+→ [[grammar-index/grammar/vplain-n-use-verb-to-modify-noun]]
 
 Structure
 1. N1のN2
@@ -248,21 +260,23 @@ Structure
 3. なadj＋な＋N
 	1. しずかな 人
 4. (N+が/の)　＋**Vplain + N** 
-   Particle is が because subject is V+N
+   The subject of the modifying clause takes が (or の, in this construction) — it's the subject of the embedded verb phrase, not of the main sentence.
 	1. すしを食べる人 - person who eats sushi
 	2. すしを食べない人 - a person who does not eat sushi
 	3. すしを食べた人 - person who ate sushi
-	4. すしを食べなかった人 - person who didn’t  sushi
+	4. すしを食べなかった人 - person who didn't eat sushi
+
+Register: neutral — the modifying verb always stays in plain form regardless of the sentence's overall politeness level (e.g. すしを食べる人です is correct, not すしを食べます人です).
 
 #w すしを食べる人 - person who eats sushi
 #w すしを食べない人 - a person who does not eat sushi
 #w すしを食べた人 - person who ate sushi
-#w すしを食べなかった人 - person who didn’t  sushi
+#w すしを食べなかった人 - person who didn't eat sushi
 
 #w 授業（じゅぎょう）- class room
 #w 授業で使う本（じゅぎょう、ほん) - book to use in class 
 
-#w これは母(はは)（が/の) 作(つく)ったケーキです。- This is the cake my mom made。 I borrowed a book that Raj bought (2 particles can be used)
+#w これは母(はは)（が/の) 作(つく)ったケーキです。- This is the cake my mom made. (2 particles can be used: が/の)
 
 #w もうすぐ、昼(ひる)ごはんを食(た)べる時間(じかん)になります。- It will be lunch time soon。
 
@@ -272,21 +286,24 @@ Structure
 
 #w 私はラジさん(が/の)買った本を借りました（か）- I borrowed a book that Raj bought (2 particles can be used)
 
-#w 昨日 飲んだ牛乳はとてもおいしかったです (きのう、ぎゅうにゅう)
+#w 昨日 飲んだ牛乳はとてもおいしかったです (きのう、ぎゅうにゅう) - The milk I drank yesterday was very delicious
 
 #w これは駅の前のスーパーで買った弁当です（えき、まえ、べんとう) - This is the lunch box i bought at the supermarket in front of the station
 
 ---
 
 ## 。。。が。。。 - 
+→ [[grammar-index/grammar/ga]]
 
 1. **But**
-	1. 昨日 山田さんは 始めてダンスしました **が** とても上手でした - Yamada danced for the first time yesterday but was very good
+	1. 昨日 山田さんは はじめてダンスしました **が** とても上手でした - Yamada danced for the first time yesterday but was very good
 2. Introduction to a topic
 	1. すみませんが.... - excuse me (with bring topic)
 	2. すみませんが。。。すずきさんはいませんか - excuse me, is Suzuki here?
 
-#w 昨日 山田さんは 始めてダンスしました **が** とても上手でした - Yamada danced for the first time yesterday but was very good
+Register: neutral — が itself is register-flexible (works in both polite and plain sentences). Casual speech typically prefers けど instead; written/formal Japanese prefers けれども/けれど. The topic-introducing use (すみませんが...) is itself a common polite cushioning device, frequent in business Japanese.
+
+#w 昨日 山田さんは はじめてダンスしました **が** とても上手でした - Yamada danced for the first time yesterday but was very good
 
 #w すみません**が**.... - excuse me (with bring topic)
 #w すみません**が**。。。すずきさんはいませんか - excuse me, is Suzuki here? (bring topic)
@@ -298,10 +315,15 @@ Structure
 #w 自転車（じてんしゃ）で来（き）ましたが、自転車（じてんしゃ）でそのレストランに行（い）ってもいいですか。 - I came by bicycle, can I go to that restaurant by bicycle? (bring topic, first introduced mean of transport, then question)
 
 ## Subject + で + V - who performs action
+→ [[grammar-index/grammar/subject-de-v-who-performs-action]]
 
 Structure
 - Subject + で + V - who performs action
 	- 一人で行く - to go alone
+
+Register: neutral — works across all politeness levels.
+
+Often confused with: this is a different use of で from the instrument/means marker (電車で行く - "go by train"). Here で attaches to a person/group count or a group noun (一人で, みんなで, クラスで) to mark who performs the action together/alone, not what is used to perform it.
 
 #w 一人で行く - to go by oneself
 #w みんなで 旅行する (りょこう) - to travel with everyone
@@ -313,9 +335,14 @@ Structure
 #w クラスで京都（きょうと）へ行（い）きます。- We will go to Kyoto with the whole class.
 
 ## N＋たけ - only N 
+→ [[grammar-index/grammar/ndake-only-n]]
 
 - N + だけ - only N
 	- 一人だけ - only 1 person
+
+Register: neutral — works across all politeness levels, in both spoken and written Japanese.
+
+Often confused with: しか...ない - also means "only," but requires a negative verb and carries a stronger, more emphatic nuance (often implying "not enough" or mild regret). だけ is neutral/matter-of-fact; 一人だけいます (there's only one person) vs 一人しかいません (there's only one person — and that's not enough / that's surprisingly few).
 
 #w 一人だけ - only 1 person
 #w 先生だけ - only sensei
@@ -328,16 +355,22 @@ Structure
 #w 母（はは）が作（つく）る料理（りょうり）だけを食（た）べたいです。- I only want to eat the food my mother cooks.
 
 ## Counter sufixes
+→ [[grammar-index/grammar/counter-sufixes]]
 
 - 人 - people
 - つ - items
 - 個（こ） - small items
-- 枚(まい) - thin thingg
+- 枚(まい) - thin thing
 - かい - floors
 - さい - years old
 - 番 - number
 
+Register: neutral — counters are used across all politeness levels.
+
+Often confused with: かい here is 階 (floor), not 回 (times, covered below) — same reading, different kanji and meaning.
+
 ### 回 - times
+→ [[grammar-index/grammar/times]]
 #w １回（いっかい）- one time  
 #w ２回（にかい）- two times  
 #w ３回（さんかい）- three times  
@@ -351,6 +384,7 @@ Structure
 #w 何回（なんかい）- how many times  
 
 ### 匹 (ひき) - small Animals / fish/insects
+→ [[grammar-index/grammar/hiki-small-animals-fish-insects]]
 
 #w **１匹（いっぴき）- one (small animal)**  
 #w ２匹（にひき）- two (small animals)  
@@ -364,6 +398,7 @@ Structure
 #w **１０匹（じゅっぴき）- ten (small animals)**  
 #w 何匹（なんびき）- how many (small animals)  
 ### 杯 (はい/ぱい/ばい) - number of cups/glasses of liquid
+→ [[grammar-index/grammar/hai-pai-bai-number-of-cups-glasses-of-liquid]]
 
 #w **１杯（いっぱい）- one cup/glass**  
 #w ２杯（にはい）- two cups/glasses  
@@ -379,6 +414,7 @@ Structure
 #w コーヒーを２杯（にはい）飲（の）みました。- I drank two cups of coffee.  
 
 ### 本（ほん）- long items
+→ [[grammar-index/grammar/hon-long-items]]
 
 #w **１本（いっぽん）- one (long cylindrical object)**  
 #w ２本（にほん）- two (long cylindrical objects)  
@@ -395,6 +431,7 @@ Structure
 #w 水（みず）を３本（さんぼん）買（か）いました。- I bought three bottles of water.  
 
 ### 冊　（さつ) - number of books
+→ [[grammar-index/grammar/satsu-number-of-books]]
 
 #w **１冊（いっさつ）- one (book)**  
 #w ２冊（にさつ）- two (books)  
@@ -411,6 +448,7 @@ Structure
 #w 本（ほん）を３冊（さんさつ）読（よ）みました。- I read three books.  
 
 ### 台（だい) - machines and vehicles
+→ [[grammar-index/grammar/dai-machines-and-vehicles]]
 
 #w １台（いちだい）- one (machine/vehicle)  
 #w ２台（にだい）- two (machines/vehicles)  
@@ -429,13 +467,16 @@ Structure
 
 #TODO - Excercises
 
-## 回 (かい) - period of time
+## 回 (かい) - frequency
+→ [[grammar-index/grammar/kai-frequency]]
 
 Structure
 - きかん に Number 回（かい）
-	- 一週間に回（いっしゅうかんにかい）- 2 times a week
+	- 一週間に２回（いっしゅうかんににかい）- 2 times a week
 
-#w 一週間に回（いっしゅうかんにかい）- 2 times a week
+Register: neutral — used across all politeness levels.
+
+#w 一週間に２回（いっしゅうかんににかい）- 2 times a week
 #w 一年に一回（いちねんにいっかい) - once a year
 
 #w １年（ねん）に２回（かい）旅行（りょこう）します。- I travel twice a year.
@@ -452,102 +493,127 @@ Structure
 ## Verbs
 
 ### 話す（はな) - to talk
+→ [[grammar-index/grammar/vocabulary/Verbs/hana-to-talk]]
 
 1. Nに話す（はな）- **talk to N**
 	1. 部長に話す（ぶちょう、はなす）- talk to general manager
 2. Language を 話す - speak in Language
-	1. 日本語を話す - speak in japanese
+	1. 日本語を話す - speak in Japanese
 
-#w 父に話す - talk to father
+#w 父に話す（ちち）- talk to father
 #w 部長に話す（ぶちょう、はなす）- talk to general manager
 
-#w 日本語を話す - speak in japanese
-#w 中国を話す - speak in chinese
+#w 日本語を話す - speak in Japanese
+#w 中国語を話す（ちゅうごくご）- speak in Chinese
 
 ---
-### 質問 (しつもん）（する）- (to ask) question
+### 質問（しつもん）（する）- (to ask) question
+→ [[grammar-index/grammar/vocabulary/Verbs/shitsumonsuru-to-ask-question]]
 
 Verb
 1. Nに質問する - to ask N a question
-	1. 先生に質問する（せんせい、しつもん）- to ask sensei question
+	1. 先生に質問する（せんせい、しつもん）- to ask sensei a question
 
-#w 質問（(を)  + する）（しつもん）- question / to ask a question  (verb different) usualy by a teachers
-#w みなさん、質問はありますか（しつもん）- anyone has questions?
+Other ways to say "to ask":
 
-#w 先生に質問する（せんせい、しつもん）- to ask sensei question
+| Verb | Reading | Register / nuance                                                                                                                                                                            |
+| ---- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 質問する | しつもんする  | Neutral-formal; noun＋する; a discrete, often formal Q&A act (classroom, press conference, "any questions?")                                                                                    |
+| 聞く   | きく      | Neutral/casual; the everyday default for "ask" (same verb also means "to hear/listen")                                                                                                       |
+| 尋ねる  | たずねる    | More polite/formal than 聞く; typical for asking directions or requesting information, common in written Japanese — confusable with 訪ねる (same reading たずねる, means "to visit," different kanji) |
+| 問う   | とう      | Formal/literary; "to question, to interrogate," often abstract (責任を問う - "to question responsibility") — rare in daily conversation                                                           |
+| 質す   | ただす     | Formal, investigative; "to ask in order to clarify or correct," often confrontational (真意を質す - "to press for someone's true intent")                                                         |
+| 伺う   | うかがう    | Humble (謙譲語/kenjougo) — used when asking someone of higher status or in formal/business settings; also doubles as humble "to visit" and "to hear"                                            |
+| 頼む   | たのむ     | Different meaning, easy to conflate — "to ask for help / request a favor," not "to ask a question." Already appears elsewhere in this lesson (父に頼む, 仕事を頼む)                                   |
 
-#w 店員に質問する（てんいん、しつもん）- to ask  shop clerk a question
+#w 質問（を+する）（しつもん）- question / to ask a question | the verb form (質問する) is especially used by teachers asking students
+#w みなさん、質問はありますか（しつもん）- does anyone have questions?
 
-### 答える - to answer
+#w 先生に質問する（せんせい、しつもん）- to ask sensei a question
+
+#w 店員に質問する（てんいん、しつもん）- to ask a shop clerk a question
+
+### 答える（こた）- to answer
+→ [[grammar-index/grammar/vocabulary/Verbs/kota-to-answer]]
 
 1. N　に 答える(こた) - to answer N
 	1. 質問に答える（しつもん、こた）- to answer a question
+
+Often confused with:
+- 応える（こたえる）- same reading, different kanji and meaning: "to respond to / live up to" (expectations, requests) — e.g. 期待に応える (to meet expectations). 答える is specifically "to answer" a question.
+- 返事する（へんじする）- "to reply" — a looser, more general reply to a letter, invitation, or call (RSVP-style), not specifically answering a question.
 
 #w 質問に答える（しつもん、こた）- to answer a question
 
 ---
 
 ### 置く（お）- to put down
+→ [[grammar-index/grammar/vocabulary/Verbs/o-to-put-down]]
 
 Structure
-- Nを Pに おく- put something N in P a location  or position
+- Nを Pに おく - to put N at/on location P
 	- 資料を机の上に置きました（しりょう、つくえ、お）- I put materials on the desk
+
+Often confused with:
+- 入れる（いれる）- "to put into" a container/enclosed space (かばんに入れる - put into a bag), vs 置く which is "to place on/at" a surface or location.
 
 #w 資料を机の上に置きました（しりょう、つくえ、お）- I put materials on the desk
 
-#w 自転車を駅のとなりに置いてください（じてんしゃ、えき,お）- please park (put down) the bicycle near the station
+#w 自転車を駅のとなりに置いてください（じてんしゃ、えき、お）- please park (put down) the bicycle near the station
 
-### 頼む（たの) - to ask(for help)/entrust
+### 頼む（たの）- to ask(for help)/entrust
+→ [[grammar-index/grammar/vocabulary/Verbs/tano-to-askfor-help-entrust]]
 
 1. To ask for help
 	1. N に たのむ
 		1. 父に頼む（ちち、たの）- to ask father (for help)
-2. entrust something to someone (powierzyc)
+2. entrust something to someone (powierzyć)
 	1. N1 に N2 を 頼む（たの）
-		1. 仕事を頼む（たの）- to entrust you with the work (powierzyc komuś prace)
+		1. 仕事を頼む（たの）- to entrust someone with work (powierzyć komuś pracę)
 
-#wc (に)頼む（たのむ）- to ask / request  (particle)/Hoping someone will help you in something
+#wc (に)頼む（たのむ）- to ask / to request (used with に) | implies hoping someone will help you with something
 #w 父に頼む（ちち、たの）- to ask father (for help)
-#w 友達に頼む（ともだち、たの）- to ask friend (for help)
+#w 友達に頼む（ともだち、たの）- to ask a friend (for help)
 
-#w 
 
-#w 仕事を頼む（たの）- to entrust you with the work (powierzyc komuś prace)
-#w コピを頼む（たの）- to entrust with the copy
-#w 山田さんに私の仕事を頼みます（たの）- Ill ask Yamada to fork for me
+#w 仕事を頼む（たの）- to entrust someone with work (powierzyć komuś pracę)
+#w コピーを頼む（たの）- to ask someone to make a copy
+#w 山田さんに私の仕事を頼みます（たの）- I'll ask Yamada to do my work for me
 
 ### 呼ぶ（よ）- to call, invite
+→ [[grammar-index/grammar/vocabulary/Verbs/yo-to-call-invite]]
 
 #wc 呼ぶ（よぶ）- to call /invite
 
-1. To call someone or to callout someone name
+1. To call someone or to call out someone's name
 	1. Nを呼ぶ -
-		1. わんさんを呼んでいます（よ）- Im calling miss wang (przywolac)
+		1. わんさんを呼んでいます（よ）- I'm calling Miss Wang (przywołać)
 2. Invite someone to the party
 	1. NをPに呼ぶ（よ）・N - person, P - place
-		1. 先生をパーティーに呼びましょう（よ）- lets invite the teacher to the party
+		1. 先生をパーティーに呼びましょう（よ）- let's invite the teacher to the party
 3. Call someone to come forward
 	1. N を 呼ぶ（よ）
-		1. 医者を呼ぶ（いしゃ, よ) - to call the doctor
+		1. 医者を呼ぶ（いしゃ、よ）- to call the doctor
 
 
-#w わんさんを呼んでいます（よ）- Im calling miss wang (przywolac)
-#w アンドさんはお兄さんを呼んでいます（にい、よ）- Miss Ando is calling (wola) her elder brother
-#w 先生をパーティーに呼びましょう（よ）- lets invite the teacher to the party
+#w わんさんを呼んでいます（よ）- I'm calling Miss Wang (przywołać)
+#w アンドさんはお兄さんを呼んでいます（にい、よ）- Miss Ando is calling (woła) her elder brother
+#w 先生をパーティーに呼びましょう（よ）- let's invite the teacher to the party
 
-#w タクシーを呼ぶ(よ)  - to hail a cab
-#w 医者を呼ぶ（いしゃ, よ) - to call the doctor
+#w タクシーを呼ぶ（よ）- to hail a cab
+#w 医者を呼ぶ（いしゃ、よ）- to call the doctor
 
 ### 見せる（みせる） - to show  
+→ [[grammar-index/grammar/vocabulary/Verbs/miseru-to-show]]
 
 #wc 見せる（みせる） - to show  
 
 Structure
-- N1 + に + N2 +を + 見せる
+- N1 + に + N2 + を + 見せる
 
-#w 駅員に切符を見せます（えきいん、きっぷ、み）- to show ticket to station attendant 
+#w 駅員に切符を見せます（えきいん、きっぷ、み）- to show a ticket to the station attendant
 
-#w 写真を見せてください（しゃしん、み）- show a photo please
+#w 写真を見せてください（しゃしん、み）- please show a photo
 
  --- 
 
@@ -1214,7 +1280,7 @@ You don't have to eat  #card
 
 
 you don't have to make a reservation  #card
-ほんやく: 予 約しなくてもいいです（よやく）
+ほんやく: 予約しなくてもいいです（よやく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_予.html">予</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_約.html">約</a>
 <!--ID: 1775021395484-->
@@ -1261,7 +1327,7 @@ person who ate sushi  #card
 <!--ID: 1775021395490-->
 
 
-person who didn’t  sushi  #card
+person who didn't eat sushi  #card
 ほんやく: すしを食べなかった人
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
@@ -1334,7 +1400,7 @@ This is the lunch box I bought at the supermarket in front of the station  #card
 
 
 Yamada danced for the first time yesterday but was very good  #card
-ほんやく: 昨日 山田さんは 始めてダンスしました **が** とても上手でした
+ほんやく: 昨日 山田さんは はじめてダンスしました **が** とても上手でした
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
@@ -1959,7 +2025,7 @@ I go to Tokyo once a week.  #card
 
 
 talk to father  #card
-ほんやく: 父に話す
+ほんやく: 父に話す（ちち）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1775021395591-->
@@ -1983,9 +2049,10 @@ speak in Japanese  #card
 
 
 speak in Chinese  #card
-ほんやく: 中国を話す
+ほんやく: 中国語を話す（ちゅうごくご）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <!--ID: 1775021395594-->
 
@@ -2042,7 +2109,7 @@ I put materials on the desk  #card
 
 
 please park (put down) the bicycle near the station  #card
-ほんやく: 自転車を駅のとなりに置いてください（じてんしゃ、えき,お）
+ほんやく: 自転車を駅のとなりに置いてください（じてんしゃ、えき、お）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
@@ -2116,13 +2183,13 @@ let's invite the teacher to the party  #card
 
 
 to hail a cab  #card
-ほんやく: タクシーを呼ぶ(よ)
+ほんやく: タクシーを呼ぶ（よ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_呼.html">呼</a>
 <!--ID: 1775021395610-->
 
 
 to call the doctor  #card
-ほんやく: 医者を呼ぶ（いしゃ, よ)
+ほんやく: 医者を呼ぶ（いしゃ、よ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_者.html">者</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_呼.html">呼</a>
@@ -2139,7 +2206,7 @@ to show a ticket to the station attendant  #card
 <!--ID: 1775021395612-->
 
 
-show a photo please  #card
+please show a photo  #card
 ほんやく: 写真を見せてください（しゃしん、み）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>

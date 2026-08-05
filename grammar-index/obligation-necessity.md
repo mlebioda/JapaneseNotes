@@ -10,6 +10,7 @@
 - [Used as noun - there is (not) need](/JapaneseNotes/grammar-index/grammar/hitsuyou-noun-use-ga-aru-nai) · N4
 - [used as a な adjective - essential/necessary](/JapaneseNotes/grammar-index/grammar/hitsuyou-na-adjective-use) · N4
 - [なくてもいいです・なくてもかまいません - doesn't have to](/JapaneseNotes/grammar-index/grammar/nakutemoiidesu-nakutemokamaimasen-doesnt-have-to) · N4
+- [Vない なくてもいいです - does not have to](/JapaneseNotes/grammar-index/grammar/vnai-nakutemoiidesu-does-not-have-to) · N5
 
 ## See also
 

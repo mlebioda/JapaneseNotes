@@ -1422,7 +1422,7 @@ The number of people studying Japanese has been increasing. #k #card
 
 
 
-It has started raining. | a change becoming noticeable right now #k #card
+It has started raining. | started in the past and still ongoing #k #card
 雨(あめ)が降(ふ)ってきた。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>

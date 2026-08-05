@@ -592,7 +592,7 @@ orientation #card
 <!--ID: 1781717354794-->
 
 
-new product | a newly manufactured item; 製品(せいひん) emphasizes something industrially made, distinct from 商品(しょうひん), which emphasizes goods for sale #k #card
+new product | a newly manufactured item; emphasizes something industrially made, distinct from 商品(しょうひん), which emphasizes goods for sale #k #card
 新製品（しんせいひん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_新.html">新</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_製.html">製</a>
@@ -1808,7 +1808,7 @@ He just went out. He couldn't come back so quickly | no way, logically impossibl
 <!--ID: 1781717354918-->
 
 
-This test wasn't supposed to be this hard.  #k #card
+It wasn't supposed to turn out to be such a hard test.　#k #card
 こんなに難（むずか）しいテストになるはずではなかった。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_難.html">難</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_試.html">試</a>
@@ -1957,7 +1957,7 @@ It must be quiet. #k #card
 <!--ID: 1785574673143-->
 
 
-Please write as the teacher says. | general/habitual — dict form とおりに #k #card
+Please write as the teacher says. | general/habitual #k #card
 先生(せんせい)が言(い)うとおりに書(か)いてください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_先.html">先</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
@@ -1966,7 +1966,7 @@ Please write as the teacher says. | general/habitual — dict form とおりに 
 
 
 
-Please write exactly as I have written. | one specific instance — た form とおりに #k #card
+Please write exactly as I have written. | one specific instance #k #card
 わたしが書(か)いたとおりに、書(か)いてください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <!--ID: 1781717354930-->

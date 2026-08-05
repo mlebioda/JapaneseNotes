@@ -507,7 +507,7 @@ Różnica po polsku widoczna w:
  ---
 
 
-Would you like to go to the hospital to visit Mr. Sato on Sunday? #k #card
+I'm going to visit Satō (informally, using 'kun') in the hospital on Sunday — want to come with me? #k #card
 日曜日(にちようび)、さとうくんのお見舞(みま)いに行(い)くんだけど、いっしょに行(い)かない?
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
@@ -529,7 +529,7 @@ Being able to express your opinions and give advice to others. #k #card
 
 
 
-Being able to tell somebody something you heard from other people. #k #card
+One can convey to others a story/thing one has heard oneself. #k #card
 自分(じぶん)が聞い(き)た話(はなし)を他人(たにん)に伝達(でんたつ)できる
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
@@ -1931,6 +1931,8 @@ I may not catch the train. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_間.html">間</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
+<!--ID: 1785921293641-->
+
 
 
 This problem might be difficult. #k #card
@@ -1938,6 +1940,8 @@ This problem might be difficult. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_問.html">問</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_題.html">題</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_難.html">難</a>
+<!--ID: 1785672797271-->
+
 
 
 He might be free today. #k #card

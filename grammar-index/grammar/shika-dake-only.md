@@ -5,6 +5,7 @@ topic_slug: ["particles-restrictive"]
 function: []
 level: N4
 register: neutral
+confused_with: ["ntake-only-n"]
 proofread: true
 ---
 
@@ -33,6 +34,10 @@ proofread: true
 
 Register: neutral
 Both particles are register-neutral; formality comes entirely from the verb ending they attach to (話せないです is polite, 話せない is plain).
+
+## Often confused with
+
+- [N＋たけ - only N](/JapaneseNotes/grammar-index/grammar/ntake-only-n) — test: Does the sentence use a negative verb (only しか works — 一人しかいません) or an affirmative verb (only だけ works — 一人だけいます)?
 
 ## See also
 

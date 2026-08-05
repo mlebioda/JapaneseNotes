@@ -1604,7 +1604,7 @@ I am working at ABC Global company. #kenjougo #k #card
 <!--ID: 1784753847843-->
 
 
-I look forward to hearing from you. #kenjougo #k #card
+I look forward to hearing from you. | I will be awaiting your contact/reply. #kenjougo #k #card
 ご連絡(れんらく)をお待(ま)ちしております。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_連.html">連</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_絡.html">絡</a>

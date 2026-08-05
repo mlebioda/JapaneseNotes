@@ -450,7 +450,7 @@ being able to understand intransitive and transitive verbs #k #card
 <!--ID: 1779824391423-->
 
 
-Being able to talk about information you've obtained by asking/listening #k #card
+Being able to talk about something by using information one has heard as a conversation topic. #k #card
 聞いてきた情報を話題にして、話すことができること (じょうほう、わだい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_情.html">情</a>
@@ -1784,6 +1784,8 @@ I heard it won't snow tomorrow. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雪.html">雪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
+<!--ID: 1785672797258-->
+
 
 
 I heard from my friend that climbing Mt. Fuji seemed really difficult. #k #card
@@ -1824,6 +1826,8 @@ I heard he's a student #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
+<!--ID: 1785672797260-->
+
 
 
 Here feels like America #card
@@ -1903,6 +1907,8 @@ There are 5 more apples in the refrigerator. #k #card
 I haven't eaten yet. #k #card
 まだ食べていません。 (た)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<!--ID: 1785672797262-->
+
 
 
 as I thought / still | expresses that something turned out as expected, or a decision reached after weighing options; やっぱり is the casual, spoken contraction of the more neutral/written やはり #card

@@ -5,6 +5,7 @@ topic_slug: ["requests-commands"]
 function: ["prohibition"]
 level: N4
 register: tiered
+confused_with: ["vnaidekudasai-please-dont-do-it"]
 proofread: true
 ---
 
@@ -36,6 +37,10 @@ Stronger/more direct restriction than ではいけない.
 
 Register: tiered
 - 禁止形 (dictionary form + な) sits at the blunt end of the command register spectrum — the same tier as the plain imperative (書け、しろ, etc.); rude toward superiors, but usable in warnings/emergencies or casually among close (often male) friends, especially when softened with よ (するなよ).
+
+## Often confused with
+
+- [Vないでください - please don't do it](/JapaneseNotes/grammar-index/grammar/vnaidekudasai-please-dont-do-it) — test: Is the request polite/asking (ください) or blunt/commanding (plain form + な)?
 
 ## See also
 

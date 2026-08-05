@@ -5,6 +5,7 @@
 ## Entries
 
 - [付属分（ふぞくぶん）の 主語（しゅご）- the subject of a subordinate clause](/JapaneseNotes/grammar-index/grammar/fuzokubun-no-shugo-the-subject-of-a-subordinate-clause) · N4
+- [Vplain + N - use verb to modify noun](/JapaneseNotes/grammar-index/grammar/vplain-n-use-verb-to-modify-noun) · N5
 
 ## See also
 

@@ -446,7 +446,7 @@ Being able to make the verbs' volitional form #k #card
 <!--ID: 1779388974967-->
 
 
-Being able to talk about strong desires and future plans #k #card
+Saying about one's own strong will, future hopes, and plans #k #card
 自分の強い意志や今後の希望、計画についていえること (じぶん, つよ, いし, こんご, きぼう, けいかく, い)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_分.html">分</a>
@@ -1423,6 +1423,8 @@ A: 明日日本語のスピーチで何を言ったらいいですか。(あし�
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_活.html">活</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
+<!--ID: 1785672797263-->
+
 
 
 A: I want to go to Akihabara, which line should I take? B: You can go there by the subway Hibiya line #k #card
@@ -1516,6 +1518,8 @@ I'm not planning to go on a business trip next month. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_張.html">張</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_予.html">予</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_定.html">定</a>
+<!--ID: 1785672797264-->
+
 
 
 I plan to attend an exhibition. #k #card
@@ -1558,6 +1562,8 @@ I like both dogs and cats. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_犬.html">犬</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_猫.html">猫</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
+<!--ID: 1785672797265-->
+
 
 
 Our busy company president still attended the drinking party. (feeling of surprise) #k #card
@@ -1602,6 +1608,8 @@ easy to eat #k #card
 difficult to eat #k #card
 食べにくい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<!--ID: 1785672797266-->
+
 
 
 easy to slip (slippery) #card
@@ -1613,6 +1621,8 @@ easy to slip (slippery) #card
 hard to slip #card
 滑りにくい（すべ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_滑.html">滑</a>
+<!--ID: 1785672797267-->
+
 
 
 easy to write #k #card
@@ -1624,6 +1634,8 @@ easy to write #k #card
 difficult to write #k #card
 書きにくい
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
+<!--ID: 1785672797268-->
+
 
 
 easy to break (fragile) #card
@@ -1635,6 +1647,8 @@ easy to break (fragile) #card
 hard to break (durable) #card
 割れにくい（わ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_割.html">割</a>
+<!--ID: 1785672797269-->
+
 
 
 difficult to use #k #card
@@ -1664,6 +1678,8 @@ This computer was easy to use #k #card
 This computer was hard to use #k #card
 このパソコンは使いにくかった
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_使.html">使</a>
+<!--ID: 1785672797270-->
+
 
 
 The new shoes are light and very easy to walk in. #k #card

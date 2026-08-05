@@ -13,6 +13,8 @@
 
 - [particles-restrictive](/JapaneseNotes/grammar-index/particles-restrictive) — Patterns for limiting a statement to a single item or option — "only" — しか (with negative form) and だけ (with affirmative form).
 - [particles-mo](/JapaneseNotes/grammar-index/particles-mo) — Patterns built on the particle も — listing items, pairing "both A and B," emphasizing something unexpected, and (with an interrogative) expressing total affirmation or total denial.
+- [particles-ga](/JapaneseNotes/grammar-index/particles-ga) — The particle が used to connect two clauses as "but," or to softly introduce a new topic.
+- [particles-de](/JapaneseNotes/grammar-index/particles-de) — The particle で marking who performs an action, alone or as a group, distinct from its instrument/means use.
 
 ## Patterns
 
