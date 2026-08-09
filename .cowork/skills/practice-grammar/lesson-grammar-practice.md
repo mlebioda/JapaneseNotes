@@ -36,7 +36,7 @@ phrasing such as "today's topics" or "overdue" — that shape belongs to
 ## Workflow
 
 1. **Resolve the lesson file** — by code or filename (see Trigger above).
-2. Load `.cowork/skills/_practice-grammar-common.md`. Call its **Loading a
+2. Load `.cowork/skills/practice-grammar/_practice-grammar-common.md`. Call its **Loading a
    lesson file slice** routine on the resolved file path.
 3. Parse fresh via the common file's **Parsing → Grammar topics**
    (heading-role classification, loads `_heading-roles.md`) and **Parsing →
@@ -44,7 +44,14 @@ phrasing such as "today's topics" or "overdue" — that shape belongs to
    point in the lesson is discovered fresh via heading-role classification.
    There is no entry-lookup-by-search step and no Migration note here; both
    only apply to the scheduled trigger's pre-selected `grammar-state.json`
-   entries.
+   entries. This fresh parse also captures `extracted_file_path` per point
+   (via the common file's **Extracted-file linkage (fresh-discovery
+   detection)** subsection, including its container-file guard) — used only
+   when building `session_scores` for persistence in step 7 below; it has no
+   effect on exercise generation, which continues to read only the lesson
+   body exactly as today. A point's extracted linkage may silently fall back
+   to plain lesson-file linking if the container guard rejects it — this is
+   expected and requires no user-facing message.
 4. `num_batches` is always `1` — no batch-split prompt, no batch headers, no
    between-batch `Batch B / num_batches` printouts. (The common file's
    Batch-loop mechanics still run their single pass for this one batch,
@@ -106,7 +113,7 @@ Worked example: `Session complete — UN4GL7 (14 exercises across 9 grammar poin
 
 ## Study Mode
 
-Handled entirely by `.cowork/skills/_practice-grammar-common.md`'s
+Handled entirely by `.cowork/skills/practice-grammar/_practice-grammar-common.md`'s
 **Study Mode** section — see that file for the invocation hookup. No
 duplicate content here.
 
@@ -114,7 +121,7 @@ duplicate content here.
 
 ## Persistence
 
-Call `.cowork/skills/_practice-grammar-common.md`'s **Persistence and
+Call `.cowork/skills/practice-grammar/_practice-grammar-common.md`'s **Persistence and
 Calendar sync** directive with `scope="lesson"`.
 
 ---
@@ -125,5 +132,5 @@ Calendar sync** directive with `scope="lesson"`.
 - `<!--ID: -->` lines anywhere
 - `TARGET DECK` lines
 - Do not run `git push` or any remote git operation
-- See `.cowork/skills/_practice-grammar-common.md`'s own Never-touch list for
+- See `.cowork/skills/practice-grammar/_practice-grammar-common.md`'s own Never-touch list for
   the full shared rule set (this skill loads that file for everything else)

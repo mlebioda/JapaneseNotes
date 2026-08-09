@@ -364,10 +364,11 @@ def merge_and_write(
                 if field in topic:
                     entry[field] = topic[field]
         else:
-            # Existing entry: only update identity fields, never SM-2 fields
-            for field in ("lesson_file", "grammar_header"):
-                if field in topic:
-                    entry[field] = topic[field]
+            # Existing entry: never SM-2 fields, never identity fields.
+            # lesson_file/grammar_header are set once at creation and must
+            # stay untouched on every later update — entry already starts
+            # as grammar_points[key].copy() above, so nothing to do here.
+            pass
 
         # Set the computed next_review
         entry["next_review"] = placed_date.isoformat()

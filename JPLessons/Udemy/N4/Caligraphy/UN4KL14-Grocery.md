@@ -52,7 +52,7 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 #w 広場（ひろば）- square
 
 #w 田中さんの田んぼは広いですね（たん、ひろ）- Mr Tanaka's rice field is spacious (isnt is?)
-#w この台所は広いですね（だいどころ、ひろ）- This kithen is spacious (isn't  it)
+#w この台所は広いですね（だいどころ、ひろ）- This kitchen is spacious (isn't  it)
 
 **(こう)**
 #w 広大（こうだい）- vast
@@ -224,7 +224,6 @@ rice + woman + whip
 
 # Summary
 
- Rzeczowniki:
 
  rice | the general word for rice, both as a growing crop and a food staple #card
 ほんやく: 米（こめ)
@@ -233,14 +232,14 @@ rice + woman + whip
 <!--ID: 1749744829284-->
 
 
- eat rice #card
+ eat rice | refers to the raw-grain sense of rice, not cooked rice/a meal #card
 ほんやく: お米を食べる（こめ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1749744829294-->
 
 
- do you make rice in this paddy field? #card
+ do you make rice in this paddy field? | uses the more technical/formal word for a flooded rice paddy, not the everyday general word for a rice field #card
 ほんやく: この水田で米を作りますか（すいでん、こめ、つく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -263,7 +262,7 @@ rice + woman + whip
 <!--ID: 1749744829302-->
 
 
- I bought this rice from USA #card
+ I bought this rice from USA | uses the formal, kanji-based word for the USA, not the common katakana loanword #card
 ほんやく: この米は米国から買いました（こめ、べいこく、か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
@@ -282,7 +281,7 @@ rice + woman + whip
 <!--ID: 1749744829306-->
 
 
- We are also producing rice in the US #card
+ We are also producing rice in the US | uses the formal, kanji-based word for the US, not the common katakana loanword #card
 ほんやく: 米国でも米を作っていますよ（べいこく、こめ、つく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
@@ -311,7 +310,7 @@ rice + woman + whip
 <!--ID: 1749744829316-->
 
 
- I think white rice is good for cooked rice after all. #card
+ after all, I think white rice is good for cooked rice. #card
 ほんやく: やはり米飯は白米がいいと思いますよ（べいはん、はくまい、おも）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
@@ -326,7 +325,7 @@ rice + woman + whip
 <!--ID: 1749744829321-->
 
 
- paddy field (pola ryżowe, technicznie zalewane pola uprawne) #card
+ paddy field | a flooded field specifically used for growing rice — more technical than the general, everyday word for a rice field (pola ryżowe, technicznie zalewane pola uprawne) #card
 ほんやく: 水田（すいでん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_水.html">水</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
@@ -340,7 +339,7 @@ rice + woman + whip
 <!--ID: 1749744829325-->
 
 
- Tanaka is the owner of this paddy field #card
+ Tanaka is the owner of this paddy field | uses the technical/formal word for a paddy field, not the everyday general term #card
 ほんやく: 田中さんはこの水田の持ち主です（すいでん、もちぬし）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
@@ -350,7 +349,7 @@ rice + woman + whip
 <!--ID: 1749744829328-->
 
 
- The main business of Tanaka's company is the trade of rice #card
+ The main business of Tanaka's company is the trade of rice | "trade" here means the buying-and-selling sense, not international trade or a single transaction #card
 ほんやく: 田中さんの会社の主な仕事は米の売買です（おも、こめ、ばいばい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
@@ -380,7 +379,7 @@ rice + woman + whip
 <!--ID: 1749744829335-->
 
 
- This kitchen is spacious, isn't it? #card
+ This kitchen is spacious, isn't it? | uses the traditional Japanese-native word for kitchen, not the katakana loanword #card
 ほんやく: この台所は広いですね（だいどころ、ひろ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_台.html">台</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
@@ -463,7 +462,7 @@ rice + woman + whip
 <!--ID: 1749744829359-->
 
 
- Please bring groceries to the kitchen #card
+ Please bring groceries to the kitchen | "groceries" is a general term for foodstuffs/provisions, not fresh produce specifically, and not the word for "shopping" #card
 ほんやく: 食料品は台所に運んでください（しょくりょうひん、だいどころ、はこ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
@@ -480,7 +479,7 @@ rice + woman + whip
 <!--ID: 1749744829363-->
 
 
- There are many cows in the USA, aren't there? #card
+ There are many cows in the USA, aren't there? | uses the formal, kanji-based word for the USA, not the common katakana loanword #card
 ほんやく: 米国は牛が多いですね（べいこく、うし、おお）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_米.html">米</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_国.html">国</a>
@@ -502,7 +501,7 @@ rice + woman + whip
 <!--ID: 1749744829372-->
 
 
- Which do you like better, beef or chicken meat? #card
+ Which do you like better, beef or chicken meat? | chicken meat can be written with either of two different kanji, both read the same way and interchangeable here #card
 ほんやく: 牛肉と鳥肉とどちらが好きですか（ぎゅうにく、とりにく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_牛.html">牛</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_肉.html">肉</a>
@@ -511,7 +510,7 @@ rice + woman + whip
 <!--ID: 1749744829375-->
 
 
- This restaurant is famous for beef dishes #card
+ This restaurant is famous for beef dishes | "restaurant" uses a traditional Japanese term, not the katakana loanword #card
 ほんやく: この料理屋は牛肉が有名です（りょうりや、ぎゅうにく、ゆうめい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
@@ -552,7 +551,7 @@ rice + woman + whip
 <!--ID: 1749744829387-->
 
 
- My mother likes chicken meat #card
+ My mother likes chicken meat | chicken meat can be written with either of two different kanji, both read the same way and interchangeable here #card
 ほんやく: 母は(鶏/鳥)肉が好きです（とりにく）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鶏.html">鶏</a>
@@ -586,7 +585,7 @@ rice + woman + whip
 <!--ID: 1749744829397-->
 
 
- to kill two birds with one stone (idiom) #card
+ to kill two birds with one stone (idiom) | a four-character idiom (yojijukugo) that matches the English idiom's meaning exactly #card
 ほんやく: 一石二鳥（いっせきにちょう）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_石.html">石</a>
@@ -649,7 +648,7 @@ rice + woman + whip
 <!--ID: 1749744829416-->
 
 
-  trees break under the weight of snow #card
+  trees break under the weight of snow | "weight" here is the felt/pressing sense, not a measured numeric weight #card
 ほんやく: 雪の重みで木がおれる（ゆき、おも、き）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雪.html">雪</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_重.html">重</a>
@@ -762,7 +761,7 @@ rice + woman + whip
 <!--ID: 1749744829449-->
 
 
-  after university (graduation) #card
+  after university (graduation) | formed with a noun followed by a suffix meaning "after" #card
 ほんやく: 大学卒業後 (だいがくそつぎょうご)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -772,7 +771,7 @@ rice + woman + whip
 <!--ID: 1749744829454-->
 
 
-  university graduation #card
+  university graduation | refers to completing/graduating from university, not the ceremony itself #card
 ほんやく: 大学卒業 (だいがくそつぎょう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -806,7 +805,7 @@ rice + woman + whip
 <!--ID: 1749744829470-->
 
 
- Yamada-san runs fast #card
+ Yamada-san runs fast | expressed idiomatically using a body-part noun + adjective construction, not a verb meaning "to run" #card
 ほんやく: 山田さんは足が速い（あし、はや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>

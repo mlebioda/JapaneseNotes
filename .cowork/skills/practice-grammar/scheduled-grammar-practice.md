@@ -67,14 +67,16 @@ Once `selected_entries` is resolved:
    - Otherwise → **lesson-file flow** (2b below).
 
    **2a. Extracted-file flow:**
-   - Read the whole file directly (no awk slice — these files have no `# Summary`).
-   - Parse the YAML frontmatter for `pattern`, `register`, `confused_with`, `function`, `topic_slug`, `level`. Attach these to the entry for use in **Metadata-driven exercise generation**.
-   - **Container-file guard**: if the file contains a `## Sub-topics` heading, it is a container file — skip the entry with a warning naming the file (e.g. `Skipped <file> — container file, no drillable content.`). Container files are never drilled.
-   - `grammar_header` = the file's H1 (`# <pattern>` line). If the H1 text differs from the entry's stored `grammar_header`, print a warning (e.g. `grammar_header mismatch for <file> — using file H1.`) but continue using the H1 — do **not** skip the entry.
-   - `body_text` = the gloss blockquote (the `>` line under the H1) + `## Structure` + `## Examples` + `## Use Cases` (if present) + `## Notes` (if present) + `## Register` (if present) + `## Often confused with` (if present). Exclude the YAML frontmatter block and `## See also`.
+   - Call `.cowork/skills/practice-grammar/_practice-grammar-common.md`'s **Loading an
+     extracted grammar file** routine on this `lesson_file` path. That
+     routine performs the whole-file read, frontmatter parse, container-file
+     guard (skip with warning if `## Sub-topics` is present), `grammar_header`
+     resolution (file H1, with mismatch warning but no skip), and
+     `body_text` assembly. See that routine for the full behavior — no
+     behavioral change from before this refactor, this is a pure move.
 
    **2b. Lesson-file flow:**
-   - Call `.cowork/skills/_practice-grammar-common.md`'s **Loading a lesson file slice** routine on this `lesson_file` path (the shared `awk '/^# Summary$/{exit}' "$LESSON_FILE"` extraction).
+   - Call `.cowork/skills/practice-grammar/_practice-grammar-common.md`'s **Loading a lesson file slice** routine on this `lesson_file` path (the shared `awk '/^# Summary$/{exit}' "$LESSON_FILE"` extraction).
    - For each selected entry, locate `grammar_header` in the loaded slice by searching `# 文法` and `# Vocabulary` sections for a `## Heading` match. Strategy: exact → case-insensitive → whitespace-normalised. If no match: skip with warning. If more than one match (ambiguous): skip with warning.
    - **Migration note:** role-based parsing can change the drill-point set for lessons first drilled under older level-based rules. `grammar-state.json` entries whose `grammar_header` no longer matches any heading are skipped with a warning (per the no-match rule immediately above) — when that warning fires, tell the user which entry was orphaned so they can re-practice the lesson or delete the stale entry.
 3. Build merged vocab pool — see **Vocabulary base** below for how extracted-file topics contribute. For lesson-file entries the pool is unchanged: union of all `# ごい` + `# ひょうげん` tagged lines from all loaded lesson files (parsed per the common file's Vocab pool base rules). Deduplicate by Japanese form (full kanji+reading string). When the same form appears in multiple lesson files, keep the first occurrence (session-list order).
@@ -200,7 +202,7 @@ Weak-point bias rule for extracted-file topics specifically).
    - If `num_batches` > total topics: inform the user "Only X topics available — running as a single batch." and set `num_batches = 1`.
    - If `num_batches` > 1: divide `selected_entries` evenly into `num_batches` ordered batches. First batch = entries 1 through ⌈total/num_batches⌉; last batch may be smaller. Do not reorder entries.
    - If the user gives an invalid answer (non-integer, negative, zero): ask once more with the same prompt. If still invalid: set `num_batches = 1`.
-4. Load `.cowork/skills/_practice-grammar-common.md`. Run its **Batch-loop mechanics** with the resolved `num_batches` — this covers loading `weak_points`, exercise generation (via the common file's **Exercise generation** plus this file's **Metadata-driven exercise generation** for extracted-file topics), presentation via **Interaction flow**, and grading via **Grading**.
+4. Load `.cowork/skills/practice-grammar/_practice-grammar-common.md`. Run its **Batch-loop mechanics** with the resolved `num_batches` — this covers loading `weak_points`, exercise generation (via the common file's **Exercise generation** plus this file's **Metadata-driven exercise generation** for extracted-file topics), presentation via **Interaction flow**, and grading via **Grading**.
 5. On completion, use this skill's own **Session header and footer** (below) plugged into the common file's generic Session summary / batch-prompt formats.
 6. Persist via the common file's **Persistence and Calendar sync** directive with `scope="TODAY"` or `scope="OVERDUE"` (matching the resolved scope).
 
@@ -242,7 +244,7 @@ count of grammar points for which at least one exercise will be generated.
 
 ## Study Mode
 
-Handled entirely by `.cowork/skills/_practice-grammar-common.md`'s
+Handled entirely by `.cowork/skills/practice-grammar/_practice-grammar-common.md`'s
 **Study Mode** section — see that file for the invocation hookup. No
 duplicate content here.
 
@@ -254,5 +256,5 @@ duplicate content here.
 - `<!--ID: -->` lines anywhere
 - `TARGET DECK` lines
 - Do not run `git push` or any remote git operation
-- See `.cowork/skills/_practice-grammar-common.md`'s own Never-touch list for
+- See `.cowork/skills/practice-grammar/_practice-grammar-common.md`'s own Never-touch list for
   the full shared rule set (this skill loads that file for everything else)

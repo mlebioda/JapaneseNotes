@@ -43,6 +43,12 @@ One write at the end of the session: update `.cowork/progress/grammar-state.json
 Read the file (create with `{"grammar_points": {}}` if missing). For each practiced grammar point:
 
 - If no prior entry: create one with defaults — `interval_days: 1`, `ease: 2.5`, `streak: 0`, `total_reviews: 0`.
+- `lesson_file` and `grammar_header` are written **only** at this creation
+  step. When an entry already exists for the `grammar_point_id`, its stored
+  `lesson_file` and `grammar_header` are left untouched, regardless of what
+  value `session_scores` supplies for that point this session — this is the
+  only path this feature's new entries actually go through (the
+  lesson-scope direct-write path).
 - Apply the algorithm based on the score the user gave:
 
 | Score | interval_days update                         | ease update        | streak          |
@@ -64,7 +70,7 @@ For TODAY/OVERDUE scope sessions only — after computing SM-2 fields for all se
 
 **Step A — Write SM-2 fields directly to grammar-state.json:**
 
-Read `grammar-state.json` (create with `{"grammar_points": {}}` if missing). For each practiced grammar point, update its entry with the computed SM-2 fields: `interval_days`, `ease`, `streak`, `total_reviews`, `weak_points`, `last_reviewed`, `last_score`, `score`. Also write identity fields `lesson_file` and `grammar_header`. Do NOT compute or write `next_review` — that is handled by Step B. Write the file (pretty-printed, 2-space indent).
+Read `grammar-state.json` (create with `{"grammar_points": {}}` if missing). For each practiced grammar point, update its entry with the computed SM-2 fields: `interval_days`, `ease`, `streak`, `total_reviews`, `weak_points`, `last_reviewed`, `last_score`, `score`. Write identity fields `lesson_file` and `grammar_header` **only when creating a new entry** for that `grammar_point_id`. When an entry already exists, leave its stored `lesson_file` and `grammar_header` untouched and update only the computed SM-2 fields listed above, regardless of what value `session_scores` supplies for that point this session. Do NOT compute or write `next_review` — that is handled by Step B. Write the file (pretty-printed, 2-space indent).
 
 **Step B — Pipe minimal JSON to load-control.py for date placement:**
 
@@ -82,7 +88,13 @@ Build a minimal JSON array with only the fields load-control.py needs — one el
 ]
 ```
 
-Always include `lesson_file` and `grammar_header` (identity fields — harmless for existing entries, required safety net for any edge case).
+Always include `lesson_file` and `grammar_header` in the Step B payload —
+harmless to send for every entry. They are only ever *applied* by
+`load-control.py`'s `merge_and_write()` when the entry is being created for
+the first time (`is_new` branch); for an already-existing entry, the script
+ignores these two fields entirely and keeps the stored values (see
+`merge_and_write()`'s identity-field handling in
+`.cowork/scripts/load-control.py`).
 
 Run:
 
@@ -93,7 +105,7 @@ echo '<json_array>' | python3 .cowork/scripts/load-control.py \
   --today <today_ISO>
 ```
 
-The script reads the updated state (SM-2 fields from Step A), computes `next_review` via `place_topics()`, and writes only `next_review` (plus identity fields) via `merge_and_write()`. Step A must complete (file written and closed) before Step B runs, since load-control.py reads the state file.
+The script reads the updated state (SM-2 fields from Step A), computes `next_review` via `place_topics()`, and writes `next_review` (plus identity fields, but only for newly created entries — see `merge_and_write()`'s `is_new` branch) via `merge_and_write()`. Step A must complete (file written and closed) before Step B runs, since load-control.py reads the state file.
 
 The script prints a placement summary to stdout. Use the summary in the session output.
 

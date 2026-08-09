@@ -529,7 +529,7 @@ rice field + heart
 <!--ID: 1749743105625-->
 
 
- I will take a picture of you, so please stand here #card
+ I'm going to take a photo, so please stand there #card
 ほんやく: 写真を写しますから、そこに立って下さい（しゃしん、うつ、た）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_写.html">写</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_真.html">真</a>

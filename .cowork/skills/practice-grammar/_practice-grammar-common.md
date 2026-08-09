@@ -2,7 +2,7 @@
 name: _practice-grammar-common
 description: >
   Shared logic for grammar practice sessions — lesson-file slicing, grammar-topic
-  and vocab-pool parsing, exercise generation (Types 1–6 and the 3 gates),
+  and vocab-pool parsing, exercise generation (Types 1–6 and the 4 gates),
   interaction-flow mechanics, grading, session-summary formatting, the
   Persistence/Calendar-sync load-directive, the Study Mode invocation hookup,
   and the batch-loop mechanics. Never triggered directly — loaded by
@@ -35,6 +35,47 @@ Both trigger skills call this routine once per resolved lesson file path —
 `lesson-grammar-practice.md` calls it once for its single resolved file;
 `scheduled-grammar-practice.md` calls it once per `lesson_file` in its
 Multi-lesson file loading loop.
+
+---
+
+## Loading an extracted grammar file
+
+Given a target file path under `grammar-index/grammar/` (an extracted
+grammar-point file), load it as follows. This routine is shared — any
+caller passes in a file path and gets back `{grammar_header, body_text,
+frontmatter}` (or a skip signal, per the container-file guard below).
+Today's only caller is `scheduled-grammar-practice.md`'s "2a. Extracted-file
+flow" (Multi-lesson file loading), which calls this once per unique
+extracted-file `lesson_file` value, lazily, on first demand.
+
+- Read the whole file directly (no awk slice — these files have no
+  `# Summary`).
+- Parse the YAML frontmatter for `pattern`, `register`, `confused_with`,
+  `function`, `topic_slug`, `level`. Attach these to the entry for use in
+  **Metadata-driven exercise generation** (defined in
+  `scheduled-grammar-practice.md`, the only current consumer of these
+  fields).
+- **Container-file guard**: if the file contains a `## Sub-topics` heading,
+  it is a container file — skip the entry with a warning naming the file
+  (e.g. `Skipped <file> — container file, no drillable content.`). Container
+  files are never drilled.
+- `grammar_header` = the file's H1 (`# <pattern>` line). If the H1 text
+  differs from the entry's stored `grammar_header`, print a warning (e.g.
+  `grammar_header mismatch for <file> — using file H1.`) but continue using
+  the H1 — do **not** skip the entry.
+- `body_text` = the gloss blockquote (the `>` line under the H1) +
+  `## Structure` + `## Examples` + `## Use Cases` (if present) + `## Notes`
+  (if present) + `## Register` (if present) + `## Often confused with` (if
+  present). Exclude the YAML frontmatter block and `## See also`.
+
+This is a separate, heavier routine from the "Extracted-file linkage
+(fresh-discovery detection)" container-file guard under **Parsing → Grammar
+topics** below — the two happen to check the same `## Sub-topics` signature
+but at different depths of file inspection: that guard is a lightweight
+heading-presence check only, performed once per point during fresh
+discovery; this routine does a full whole-file read, frontmatter parse, and
+body_text assembly, performed once per unique extracted file when a session
+actually drills it. The lightweight guard never calls into this routine.
 
 ---
 
@@ -77,6 +118,66 @@ it would leak the tested structure).
 (Extracted-file topics use a different use-case-extraction variant, keyed on
 semantic content rather than markdown heading level — see
 `scheduled-grammar-practice.md`'s own Use case extraction subsection.)
+
+#### Extracted-file linkage (fresh-discovery detection)
+
+This subsection is only ever walked by `lesson-grammar-practice`'s full
+heading-role-classification pass over `# 文法`/`# Vocabulary` — it runs once
+per point triple, immediately after that triple is built. It never runs for
+`scheduled-grammar-practice`'s "2b. Lesson-file flow" (a separate, narrower
+single-heading-text search over pre-selected entries that already carry a
+`lesson_file` — it has no use for this detection).
+
+For each **point**-role heading (never for container- or scaffolding-role
+headings, since those never become point triples in the first place — see
+`_heading-roles.md`), check the line immediately after the heading line,
+before any other body content. extract-grammar step 8 guarantees the
+wikilink is always inserted there when a point has been extracted, so this
+is a single, committed positional check — not a "search the whole body"
+fallback. Test the line against:
+
+```
+^→ \[\[(grammar-index/grammar/[^\]]+)\]\]\s*$
+```
+
+This regex covers both `grammar-index/grammar/<slug>.md` and
+`grammar-index/grammar/vocabulary/<subdir>/<slug>.md` (vocabulary
+extractions nest under the same prefix).
+
+- **Match** → provisionally set `extracted_file_path = "<captured path>.md"`
+  on the point's triple (append `.md` — the wikilink target omits the
+  extension, the file on disk has it). This is provisional, subject to the
+  container-file guard immediately below. Strip the matched wikilink line
+  out of `body_text` — it's a bare navigation link, not example content, and
+  must not be fed into exercise-generation prompts as if it were.
+- **No match** → `extracted_file_path = null` on the triple. No further
+  check needed.
+
+**Why the duplicate-heading-text carve-out doesn't apply here:**
+extract-grammar step 8's duplicate-heading-text handling exists because that
+step does a *global* regex substitution keyed on heading text across the
+whole pre-Summary slice, so an ambiguous match must be narrowed to a parent
+section's line range. This detection routine is a *positional* check (line
+immediately after a specific node) performed while walking an already
+distinct per-node heading tree — each node is already unambiguous by
+construction, so no analogous scoping fix is needed.
+
+**Container-file guard.** For any point where the check above found a
+wikilink match, before finalizing `extracted_file_path`, open the target
+file and check whether it contains a `## Sub-topics` heading — the exact
+container-file signature already defined above for the "Loading an
+extracted grammar file" routine (reuse that check verbatim; do not invent a
+second one). This is a lightweight read — open the file and check for
+heading presence only; it does **not** parse frontmatter or assemble
+`body_text` (that heavier work is exclusive to "Loading an extracted
+grammar file", used only when `scheduled-grammar-practice` actually drills
+the point later).
+
+- If `## Sub-topics` **is present**: discard the match — set
+  `extracted_file_path = null` and fall back to ordinary lesson-file linking
+  for that point, exactly as if no wikilink had been detected. Never leave
+  the point silently unlinked.
+- If `## Sub-topics` **is absent**: keep `extracted_file_path` as captured.
 
 ### Vocab pool (`# ごい` and `# ひょうげん`)
 
@@ -179,19 +280,26 @@ a given grammar point. Never override the pedagogically correct type just
 for variety.
 
 **Non-trivial exercise checklist — mandatory.** Before outputting any
-exercise, verify all three gates pass. If a gate fails, redesign the
-exercise (change type or rewrite the prompt) until it passes all three.
+exercise, verify all four gates pass. If a gate fails, redesign the
+exercise (change type or rewrite the prompt) until it passes all four.
 
-**Gate 1 — Prompt does not leak the answer — grammar point name must not
-appear anywhere in the exercise shown to the student before they answer.**
-The prompt must not contain, quote, or directly name the exact form the user
-must produce. A prompt like "Translate to Japanese: 'I decided to go to
-graduate school'" is fine — the grammar form (ことにしました) is not named
-in the prompt. A prompt like "Use ことにする to say you decided to quit"
-fails because it names the target form; rewrite as a neutral translation or
-context prompt instead. The grammar point name is held internally by Claude
-and may appear in grading feedback after the student submits their answer —
-never before.
+**Gate 1 — Prompt does not leak the answer.**
+
+1. Grammar-point name/form must not be named anywhere in the prompt. A
+   prompt like "Translate to Japanese: 'I decided to go to graduate school'"
+   is fine — the form (ことにしました) is not named. "Use ことにする to say
+   you decided to quit" fails — rewrite as a neutral translation/context
+   prompt.
+2. Extract the exact string the student must produce. Confirm it does not
+   already appear complete and intact anywhere in the prompt, in any
+   language — Japanese included. Describing or setting a scene (English,
+   Polish, or Japanese) is fine; pre-stating the finished answer is not.
+   **Banned template:** a complete target sentence followed by an
+   instruction like "say/write/repeat this sentence in complete form" — this
+   hands over the answer and always fails Gate 1.
+
+The grammar point name (and the answer itself) may appear in grading
+feedback after the student submits — never before.
 
 **Gate 2 — Answer requires genuinely using the grammar point.** A native
 speaker who does not know this grammar point but knows vocabulary could not
@@ -206,6 +314,27 @@ character to a given stem. Exception: exercises explicitly testing a single
 difficult distinction (e.g. rendaku in counters, sound changes in irregular
 forms like いっぽん, さんぼん) are allowed, because the tested knowledge is
 genuinely difficult and cannot be meaningfully widened.
+
+**Gate 4 — Prompt language complexity matches the grammar point's JLPT
+level.** Derive the level from the lesson-code prefix already in hand (e.g.
+`UN5GL9` → `N5`, `UN4GL7` → `N4`) — no extra file read needed, even for
+extracted-file topics (their `level` frontmatter is itself derived from the
+same lesson-code digit, never independently researched).
+
+| Level | Prompt complexity |
+|---|---|
+| N5 | Short, everyday-vocabulary sentences. No idioms, no abstract phrasing. |
+| N4 | Slightly richer but still plain, concrete language. |
+| N3 | Moderate complexity — some abstract phrasing okay. |
+| N2/N1 | Natural native-level prompts are fine. |
+
+Example (N5): ✗ "You're complimenting a coworker. Point out that his
+serious, hardworking nature is one of his good qualities." → ✓ "Tell your
+coworker: 'You're always serious about work — that's a good thing.'"
+
+Unlike Gate 1's mechanical string check, there's no mechanical test for
+prompt sophistication — this is a judgment call the table and example
+anchor but can't guarantee against.
 
 (Extracted-file topics unlock additional exercise-generation options driven
 by their `confused_with`/`register` frontmatter — see
@@ -414,12 +543,29 @@ For the last batch, this happens immediately upon reaching self-evaluation
 completion for that batch — before the `Study mode / Finish` prompt is shown
 — not after the user chooses to finish. (For an early "stop"/"end" at any
 other point mid-session, this also runs immediately with scores collected so
-far.) Read `.cowork/skills/practice-grammar-srs.md` and follow its
+far.) Read `.cowork/skills/practice-grammar/practice-grammar-srs.md` and follow its
 instructions. Pass to it:
 - `session_scores`: dict keyed by grammar_point_id → `{min_score, weak_points, grammar_header, lesson_file}`
 - `session_grammar_ids`: ordered list of grammar_point_ids practiced this session
 - `today`: ISO date (YYYY-MM-DD)
 - `scope`: one of `"lesson"`, `"TODAY"`, `"OVERDUE"` — set by whichever trigger skill calls this directive (`lesson-grammar-practice.md` always passes `"lesson"`; `scheduled-grammar-practice.md` passes `"TODAY"` or `"OVERDUE"` depending on which flow resolved the session)
+
+**Per-point `lesson_file` source.** For each point in `session_scores`, the
+`lesson_file` value passed to `practice-grammar-srs.md` defaults to the
+session's resolved lesson file path. If the point's parsed triple carries
+`extracted_file_path` (set only by the **Extracted-file linkage
+(fresh-discovery detection)** subsection above — populated only during
+`lesson-grammar-practice`'s fresh-discovery parse, and only when the
+container-file guard there passed), use `extracted_file_path` instead.
+`grammar_header` is unaffected — always the lesson heading text already
+parsed, regardless of which `lesson_file` value is used.
+
+Passing a different `lesson_file` for an already-existing entry is safe:
+`lesson_file` and `grammar_header` are identity fields written only when a
+`grammar-state.json` entry is created for the first time and left untouched
+on every later update — enforced at both write sites (see
+`practice-grammar-srs.md`'s generic Persistence section and Step A wording,
+and `load-control.py`'s `merge_and_write()`).
 
 Study Mode exercises are excluded — only include grammar points that
 received self-evaluation scores from the main batch exercises.
@@ -429,7 +575,7 @@ received self-evaluation scores from the main batch exercises.
 ## Study Mode
 
 On first Study Mode invocation, read
-`.cowork/skills/practice-grammar-study-mode.md` (skip re-reading if already
+`.cowork/skills/practice-grammar/practice-grammar-study-mode.md` (skip re-reading if already
 in context). Pass to it:
 - `batch_topics`: list of grammar headers + body_text for topics in the just-completed batch
 - `user_answers`: the user's raw answers for each topic in this batch (keyed by grammar_header)

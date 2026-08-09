@@ -926,5 +926,58 @@ class TestMergeWriteOnlyChangesDate(unittest.TestCase):
             tmp_path.unlink(missing_ok=True)
 
 
+class TestIdentityFieldsNotOverwritten(unittest.TestCase):
+    """merge_and_write should never overwrite lesson_file/grammar_header for
+    an existing entry — those are identity fields, set only at creation."""
+
+    def test_identity_fields_preserved_on_existing_entry(self):
+        """Existing entry has lesson_file='old/path.md', grammar_header='Old
+        Header'. Input sends different values for both. After
+        merge_and_write, persisted lesson_file/grammar_header must remain
+        the original values."""
+        today = date(2026, 6, 18)
+        existing_entry = {
+            "lesson_file": "old/path.md",
+            "grammar_header": "Old Header",
+            "last_reviewed": "2026-06-14",
+            "next_review": "2026-06-20",
+            "interval_days": 6,
+            "ease": 2.35,
+            "streak": 4,
+            "total_reviews": 4,
+            "last_score": 4,
+            "weak_points": [],
+        }
+        gp = {"test::identity-point": existing_entry.copy()}
+        state_data = {"grammar_points": gp}
+
+        topics = [make_topic(
+            "test::identity-point",
+            interval_days=1, score=4,
+            lesson_file="grammar-index/grammar/new-path.md",
+            grammar_header="New Header",
+        )]
+        results = lc.place_topics(topics, gp, today)
+
+        with tempfile.NamedTemporaryFile(
+            mode="w", suffix=".json", delete=False
+        ) as f:
+            tmp_path = Path(f.name)
+
+        try:
+            lc.merge_and_write(results, gp, tmp_path, state_data)
+            with open(tmp_path) as f:
+                written = json.load(f)
+
+            entry = written["grammar_points"]["test::identity-point"]
+            # next_review should have changed (placed by load control)
+            self.assertNotEqual(entry["next_review"], "2026-06-20")
+            # lesson_file/grammar_header must NOT be overwritten
+            self.assertEqual(entry["lesson_file"], "old/path.md")
+            self.assertEqual(entry["grammar_header"], "Old Header")
+        finally:
+            tmp_path.unlink(missing_ok=True)
+
+
 if __name__ == "__main__":
     unittest.main()
