@@ -46,6 +46,10 @@ Two meanings:
 - Seems — 明日は雨でしょう。(It seems that it will rain tomorrow.)
 - Right? (confirming a guess is correct) — intonation is important here, it signals to the listener that you're confirming your guess: あなた朝から晩までずっと働いて、疲れたでしょう。(You worked from morning to night, so you must be very tired, right?)
 
+## Notes
+
+- ね particle (not yet in grammar-index) — test: is this an inferred guess based on evidence you're checking (でしょう, e.g. 疲れたでしょう - "you must be tired, right?"), or an assumed shared/obvious observation seeking empathy (ね, e.g. 疲れたね - "you're tired, aren't you")? They can combine: 明日は雨でしょうね - "it'll probably rain tomorrow, won't it"
+
 ## Register
 
 Register: polite-context typical

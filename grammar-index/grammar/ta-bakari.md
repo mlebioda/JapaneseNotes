@@ -5,7 +5,7 @@ topic_slug: ["action-timing"]
 function: ["temporal"]
 level: N4
 register: neutral
-confused_with: ["tokoro-desu-ta-form", "vteshimaimasu-finish-something-completely-complete-an-action"]
+confused_with: ["tokoro-desu-ta-form", "vteshimaimasu-finish-something-completely-complete-an-action", "ta-kotogaarimasu-have-you-ever", "ttakotogaarimashita-i-once-did-recalling-a-single-past-experience"]
 proofread: true
 ---
 
@@ -39,6 +39,8 @@ Register: neutral
 
 - [3. V「た形」ところです - action has just finished](/JapaneseNotes/grammar-index/grammar/tokoro-desu-ta-form) — test: Is this marking the exact instant an action finished (たところです), or that it happened somewhat recently, possibly a little while ago (たばかり)?
 - [V「て」しまいます - Finish something completely/complete an action](/JapaneseNotes/grammar-index/grammar/vteshimaimasu-finish-something-completely-complete-an-action) — test: Does the sentence simply mark that something happened recently (たばかり), or emphasize that the action is fully/completely done, often with a nuance of regret (てしまいました)?
+- [た形 + ことがあります - have you ever](/JapaneseNotes/grammar-index/grammar/ta-kotogaarimasu-have-you-ever) — test: does this describe an action that just finished a moment ago (た形＋ばかり), or a lifetime experience of ever having done something (た形＋ことがあります)?
+- [行ったことがありました - I once did ~ (recalling a single past experience)](/JapaneseNotes/grammar-index/grammar/ttakotogaarimashita-i-once-did-recalling-a-single-past-experience) — test: does this mark an action that had just finished at a past moment (た形＋ばかり), or recall a specific one-time experience from further back (た形＋ことがありました)?
 
 ## See also
 

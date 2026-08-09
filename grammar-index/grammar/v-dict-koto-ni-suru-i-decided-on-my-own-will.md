@@ -5,7 +5,7 @@ topic_slug: ["decisions-plans"]
 function: ["intention"]
 level: N4
 register: neutral
-confused_with: ["you-ni-shimasu", "v-dict-koto-ni-narimasu-it-was-decided", "v-dict-koto-ni-natteimasu-it-is-supposed-to", "volitional-form-totteimasu-im-thinking-of", "vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker"]
+confused_with: ["you-ni-shimasu", "v-dict-koto-ni-narimasu-it-was-decided", "v-dict-koto-ni-natteimasu-it-is-supposed-to", "volitional-form-totteimasu-im-thinking-of", "vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker", "ta-kotogaarimasu-have-you-ever", "ttakotogaarimashita-i-once-did-recalling-a-single-past-experience"]
 proofread: true
 ---
 
@@ -45,6 +45,8 @@ Used across casual and formal speech alike — politeness comes from the sentenc
 - [V「dict」 こと ＋ に + なっています - It is supposed to](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-natteimasu-it-is-supposed-to) — test: Is this a firm decision the speaker just made, or an already-established rule or arrangement?
 - [Volitional form + と思っています - I'm thinking of](/JapaneseNotes/grammar-index/grammar/volitional-form-totteimasu-im-thinking-of) — test: Is this an ongoing consideration, or a firm one-time decision the speaker has just made? (と思っています = considering; ことにする = firm decision)
 - [V「plain」つもりです - conviction of doing something planned by speaker](/JapaneseNotes/grammar-index/grammar/vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker) — test: Is this an ongoing personal resolution/plan (つもりです), or a firm, one-time decision the speaker has just made (ことにする)?
+- [た形 + ことがあります - have you ever](/JapaneseNotes/grammar-index/grammar/ta-kotogaarimasu-have-you-ever) — test: does this announce a one-time decision you made (辞書形＋ことにする), or report whether you've ever done something (た形＋ことがあります)?
+- [行ったことがありました - I once did ~ (recalling a single past experience)](/JapaneseNotes/grammar-index/grammar/ttakotogaarimashita-i-once-did-recalling-a-single-past-experience) — test: does this announce a decision the speaker made at that time (辞書形＋ことにする), or recall a specific past experience (た形＋ことがありました)?
 
 ## See also
 

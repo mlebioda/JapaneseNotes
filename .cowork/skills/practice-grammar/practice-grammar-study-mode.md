@@ -11,20 +11,20 @@ description: >
 
 # Practice Grammar — Study Mode
 
-## Context required (passed by lesson-grammar-practice.md or scheduled-grammar-practice.md via _practice-grammar-common.md)
+## Context required (passed by lesson-grammar-practice.md or scheduled-grammar-practice.md via _practice-grammar-common.md — lesson-grammar-practice.md may invoke Step 2 directly, skipping Step 1)
 
 - `batch_topics`: list of grammar headers + body_text for the completed batch
 - `user_answers`: user's raw answers for each topic, keyed by grammar_header
 - `batch_number` / `num_batches`: current batch position
 - `is_last_batch`: boolean — controls whether Step 3 asks "Next batch / Finish" (non-last batch) or ends the session (last batch — already saved)
 - `vocab_pool`: the session vocab pool (needed for Study Mode exercise generation)
-- `weak_points`: per grammar_point_id weak_points, as loaded once at session start (in `_practice-grammar-common.md`'s Batch-loop mechanics section) and/or accumulated in memory during the session — never re-read from `grammar-state.json` after persistence
+- `weak_points`: per grammar_point_id weak_points, as loaded once at session start (in `scheduled-grammar-practice.md`'s Batch-loop mechanics section) and/or accumulated in memory during the session — never re-read from `grammar-state.json` after persistence
 
 ---
 
 ### Trigger
 
-Study Mode is entered only when the user selects "Study mode" from the between-batch prompt (see the between-batch gate in `_practice-grammar-common.md`'s Batch-loop mechanics section). It cannot be entered from any other point in the session.
+Study Mode is entered only when the user selects "Study mode" from the between-batch prompt (see the between-batch gate in `scheduled-grammar-practice.md`'s Batch-loop mechanics section), or when `lesson-grammar-practice.md`'s Workflow step 5 enters directly at Step 2 below for every topic in a lesson session. It cannot be entered from any other point in either session type.
 
 ---
 

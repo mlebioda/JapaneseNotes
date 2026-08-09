@@ -156,26 +156,72 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 # 文法
 
 ## た形 + ことがあります - have you ever
+→ [[grammar-index/grammar/ta-kotogaarimasu-have-you-ever]]
 
 ### Structure
-	- た形＋ことがあります - have the exprience
-	- た形＋ことがあります - have you ever?
-		- あります
-		- ありません
+	- た形＋ことがあります - have the experience (have done something)
+	- た形＋ことがありますか - have you ever...?
+	- た形＋ことがありません - have never done something (negative)
+	- casual: た形＋ことがある／ことある (が often dropped) - casual statement/question
+
 ### Examlpes:
 	- A: 富士山に登ったことがありますか B: はい、あります (ふじさん、のぼ) - Have you ever climbed Mt. Fuji (masu)
 	- A: ハッピー遊園地に行ったことある？B: ないよ (ゆうえんち) - Have you ever been to happy amusement park (stem)?
+	- 海外に留学したことがありますか（かいがい、りゅうがく) - Have you ever studied abroad?
+	- 富士山に登ったことがありません（ふじさん、のぼ）- I have never climbed Mt. Fuji
+
+### Register
+	- ことがあります - neutral/polite register
+	- casual speech commonly drops が: ことある (see example 2)
+
+### Often confused with
+	- た形＋ばかり (just did something) - marks an action that just finished, not a lifetime experience
+	- 辞書形＋ことにする (decided to do) - shares こと, but expresses a one-time decision, not past experience
 
  #w 富士山に登ったことがありますか B: はい、あります (ふじさん、のぼ) - Have you ever climbed Mt. Fuji (masu)
 #w A: ハッピー遊園地に行ったことある？B: ないよ (ゆうえんち) - Have you ever been to happy amusement park (stem)?
 
 #w 海外に留学したことがありますか（かいがい、りゅうがく) - Have you ever studied abroad?
 
---- 
+#w 富士山に登ったことがありません（ふじさん、のぼ）- I have never climbed Mt. Fuji
+
+---
+
+## 行ったことがありました - I once did ~ (recalling a single past experience)
+→ [[grammar-index/grammar/ttakotogaarimashita-i-once-did-recalling-a-single-past-experience]]
+
+### Structure
+	- た形＋ことがありました - there was a time (in the past) I had done ~
+	- た形＋ことがありましたか - was there ever a time you had done ~?
+	- た形＋ことはありませんでした - there was never a time I had done ~ (negative)
+	- casual: た形＋ことがあった／ことあった
+
+### Examlpes:
+	- 昔、一度富士山に登ったことがありました（むかし、いちど、ふじさん、のぼ）- Long ago, there was a time I climbed Mt. Fuji (once)
+	- 子供の頃、海外に留学したことがありました（こども、ころ、かいがい、りゅうがく）- When I was a child, there was a time I studied abroad
+	- 前に、ハッピー遊園地に行ったことがありました（まえ、ゆうえんち）- There was a time before when I went to Happy amusement park
+
+### Register
+	- ことがありました - neutral/polite; narrates an experience from further back, often paired with 昔／子供の頃／前に
+	- casual: ことがあった／ことあった
+
+### Often confused with
+	- た形＋ことがあります (have you ever) - test: is this about the speaker's experience up to now (ことがあります), or recalling something from a specific past period/story (ことがありました)?
+	- "used to do" / habitual past (〜ていました／〜ものです) - test: is this a single recalled occasion (ことがありました), or a repeated habit (〜ていました／〜ものです)?
+	- "used to be" / past state (昔は〜でした／だった) - test: is this a one-time verb experience (ことがありました), or a description of a past state that no longer holds (昔は〜でした)?
+	- た形＋ばかり (just did something)
+	- 辞書形＋ことにする (decided to do)
+
+#w 昔、一度富士山に登ったことがありました（むかし、いちど、ふじさん、のぼ）- Long ago, there was a time I climbed Mt. Fuji (once)
+#w 子供の頃、海外に留学したことがありました（こども、ころ、かいがい、りゅうがく）- When I was a child, there was a time I studied abroad
+#w 前に、ハッピー遊園地に行ったことがありました（まえ、ゆうえんち）- There was a time before when I went to Happy amusement park
+
+---
 ##  V ふつう形 + でしょう - it seems
-- Speaker is not sure about what she/he is talking about
-- talk about it based on assumption
-- PITCH RISES at the END of the sentence
+[[grammar-index/grammar/deshou-seems-right]]
+### Use Cases
+	- Seems - speaker states a confident guess about something they're not sure of (assumption)
+	- Right? - speaker confirms a guess with the listener; PITCH RISES at the END of the sentence
 
 - Structure でしょう
 	- V plain form + でしょう
@@ -184,10 +230,18 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 	- N plain form  ( -だ- ) でしょう
 
 - Structure でしょうか - used to ask politely, politer than ですか e.x. for customer
-	- これは あなたのものでしょう - This is yours, right?
+
+### Register
+	- でしょう - polite/neutral register
+	- casual equivalent: だろう (used with friends and family)
+
+### Often confused with
+	- んじゃない (seeking agreement) - test: is this a confident guess (でしょう), or seeking the listener's agreement with a view you already hold (んじゃない)?
+	- かもしれません／かもしれない (may/might) - test: is this a fairly confident guess (でしょう), or an uncertain possibility (かもしれません)?
+	- ね particle (not yet in grammar-index) - test: is this an inferred guess based on evidence you're checking (でしょう, e.g. 疲れたでしょう - "you must be tired, right?"), or an assumed shared/obvious observation seeking empathy (ね, e.g. 疲れたね - "you're tired, aren't you"). They can combine: 明日は雨でしょうね - "it'll probably rain tomorrow, won't it"
 
  #w 明日は雨でしょう（あめ）- it seems that it will rain tomorrow
- #w 山田くんは カラオケが好きでしう - It seems that Mr. Yamada likes Karaoke
+ #w 山田くんは カラオケが好きでしょう - It seems that Mr. Yamada likes Karaoke
  #w このカバン、高いでしょう - It seems that this bag is expensive
 
 #w あなた　朝から晩まで ずっと働いて、疲れたでしょう（あさ、ばん、はた) - You worked from the morning to the night, you must be very tired, musn't you 
@@ -201,40 +255,65 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 
 
 ## けど vs が - but
+→ [[grammar-index/grammar/but]]
 
 - けど - more casual conversation
 	- このケーキは美味しいけど、とても高い（おいしい）- This cake is delicious but very expensive (casual)
-- が - more formal
+- が - more formal/neutral, works in both polite and plain sentences
+	- 昨日、山田さんははじめてダンスしましたが、とても上手でした（きのう、やまだ、じょうず）- Yamada danced for the first time yesterday, but was very good (polite)
+- けれども／けれど - most formal, typically written Japanese
+
+### Register
+	- けど - casual conversation
+	- が - register-flexible itself, but naturally pairs with polite/formal sentence endings
+	- けれども／けれど - written/formal register, above both けど and が
+
+### Notes
+	- けど doesn't always mark a strict contrast - it can also trail off softly to hedge or hint at more without stating it directly (e.g. ひまだけど、どうしたの？below), similar to が's separate topic-introducing use (すみませんが..., covered in UN5GL14)
+
+### Often confused with
+	- のに (even though) - test: is this a neutral contrast (けど/が), or an emotionally-loaded mismatch carrying regret/surprise, where the second clause can't be a question/command/suggestion (のに)?
 
 #w このケーキは美味しいけど、とても高い（おいしい）- This cake is delicious but very expensive (casual)
 
 #w 今から出かけるけど、すぐ戻るね（いま、で、もど）- i will go out now, but i will come back soon (casual)
 
-#w A: 明日ひま？B:　ひまだけど、どうしたの？ A: Are you free tomorrow? B: Yes, I am, what's the matter? (casual)
+#w A: 明日ひま？B:　ひまだけど、どうしたの？ A: Are you free tomorrow? B: Yes, I am, what's the matter? (casual, けど trails off softly rather than marking a strict contrast)
+
+#w 昨日、山田さんははじめてダンスしましたが、とても上手でした（きのう、やまだ、じょうず）- Yamada danced for the first time yesterday, but was very good (polite)
 
 ## ていねいけい vs ふつうけい - polite form vs plain form
+→ [[grammar-index/grammar/teineikei-vs-futsuukei-polite-form-vs-plain-form]]
 
 - 丁寧形（ていねいけい）- polite form　- often used daily, express respect
 	- verbs
 		- ます
-		- なせん
+		- ません
 		- ました
 		- ませんでした
-	- adverbs 
+	- adjectives
 		- い ＋　です
 		- な/Nouns ＋　です
 	- Example
 	-  本を読みました - i read a book 
-- ふつう形 - plain form - M 
+- ふつう形 - plain form
 	- verbs
 		- dict form
 		- た form
 		- ない form 
 		- なかった form
+	- adjectives
+		- い adj (as-is) ／ い adj＋くない ／ かった ／ くなかった
+		- な adj/Nouns ＋ だ ／ じゃない ／ だった ／ じゃなかった
 	- Example
 		- 本を読んだ - i read a book
 
-#w 今日は暑い（です） (あつ) - Is hot today (polite and not formal)
+### Register
+	- ていねいけい／ふつうけい here refers only to the baseline 丁寧語 register (です／ます vs plain form), not the full 敬語 (keigo) system
+	- 敬語 also includes 尊敬語 (sonkeigo, respectful) and 謙譲語 (kenjougo, humble), which change depending on the listener's social status - not covered by this topic
+	- an even more formal tier exists above plain です／ます: ございます／でございます (used in customer service, announcements)
+
+#w 今日は暑い（です） (あつ) - It is hot today (polite and not formal)
 #w 今日は暑くない（です）(あつ) - it is not hot today (polite and not formal)
 
 #w 昨日は暑かった(です)（あつ）- It was hot yesterday (polite and not formal)
@@ -248,8 +327,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 
 #w ここは学校 だ・です - here is the school  (not formal, polite)
 #w ここは学校 じゃない・ではありません - here is not the school  (not formal, polite)
-#w ここは学校   だった・でした - here is not the school  (not formal, polite)
-#w ここは学校   じゃなかった・ではありませんでした - here is not the school  (not formal, polite)
+#w ここは学校   だった・でした - here was the school  (not formal, polite)
+#w ここは学校   じゃなかった・ではありませんでした - here wasn't the school  (not formal, polite)
 
 #w 来年の夏富士山に登りに行く・行きます（らいねん、なつ、ふじさん、のぼ) - i will go to climb Mt. Fuji next summer (ふつうけい、ていねいけい) 
 
@@ -259,22 +338,33 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 ## verbs
 
 ### に＋登る（のぼ - climb)
+→ [[grammar-index/grammar/vocabulary/Verbs/ni-nobo-climb]]
 
 Structure
 - X に　登る(のぼ) - to climb a X
 	- 山に登る（やま、のぼ）- to climb a mountain
+
+Note: 登る is one of a small class of motion verbs (登る, 上る, 通る, etc.) that can take either に or を, with a nuance difference:
+- X に登る - focuses on the destination/goal reached (climb to reach X)
+- X を登る - focuses on the path/surface traversed (climb up along X)
+Both 山に登る and 山を登る are common and correct.
 
 #wc に　＋ 登る (のぼる) - to climb (particle)
 #w 山に登る（やま、のぼ）- to climb a mountain
 #w 木に登る（き、のぼ）- to climb a tree
 
 ---
-### に ＋勝つ　（か）- to win
+### に＋勝つ　（か）- to win
+→ [[grammar-index/grammar/vocabulary/Verbs/ni-ka-to-win]]
 Structure:
 - に＋かつ
 	- 試合に勝つ（しあい、か）- to win the game
 
-#wc 勝つ (かつ) - to win
+Note: に can mark either the contest/event won or the opponent defeated:
+- 試合に勝つ - に marks the contest (win the match)
+- あの人に勝つ - に marks the opponent (defeat that person)
+
+#wc に＋勝つ (かつ) - to win (particle)
 #w 試合に勝つ（しあい、か）- to win the game
 #w あの人に勝つ（ひと、か）- to defeat that person
 
@@ -283,28 +373,34 @@ Structure:
 
 ---
 ### が＋降る（ふ）- raining/snowing
+→ [[grammar-index/grammar/vocabulary/Verbs/ga-fu-raining-snowing]]
 Structure
 - が + 降る
 	- 雨が降っています（あめ、ふる）- it is raining
+
+Note: 降る／吹く appear here in て形＋いる (ています) to describe weather happening right now, vs. the plain form + でしょう used earlier in this lesson for forecasting (e.g. 明日は雨でしょう).
 
 #wc が + 降る (ふる) - to fall (rain/snow) (particle)
 #w 雨が降っています（あめ、ふる）- it is raining
 
 ---
 ### が＋吹く（ふ）- blow
+→ [[grammar-index/grammar/vocabulary/Verbs/ga-fu-blow]]
 Structure
 - が + 吹く
-	-  風が吹いています（かぜ、ふく）- the wind is blowing
+	- 風が吹いています（かぜ、ふく）- the wind is blowing
 
-#wc が +  吹く (ふく) - to blow (wind) (particle)
+#wc が + 吹く (ふく) - to blow (wind) (particle)
 #w 風が吹いています（かぜ、ふく）- the wind is blowing
 
 ---
 ### は + 晴れる (は) - to clear up
+→ [[grammar-index/grammar/vocabulary/Verbs/ha-reru-ha-to-clear-up]]
 Structure
 - は + 晴れる （は）
 	- 明日は晴れるでしょう（あした、は）- tomorrow will be fine weather
 
+Note: は here is not a verb-specific collocation - it's just the general topic particle attached to 明日 ("tomorrow"). 晴れる's actual subject particle is が: 天気が晴れる／空が晴れる - "the weather/sky clears".
 
 #wc は + 晴れる (はれる) - to clear up (particle) weather
 #w 明日は晴れるでしょう（あした、は）- tomorrow will be fine weather
@@ -312,9 +408,6 @@ Structure
  --- 
 
 # Summary
-
-
- Rzeczowniki:
 
 I will check tomorrow's weather (casual, softened with ね) #k  #card
 ほんやく: 明日の天気を調べるね（しら）
@@ -857,6 +950,45 @@ Have you ever studied abroad? #k  #card
 <!--ID: 1772768130727-->
 
 
+I have never climbed Mt. Fuji #k  #card
+ほんやく: 富士山に登ったことがありません（ふじさん、のぼ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_富.html">富</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_士.html">士</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_登.html">登</a>
+
+
+Long ago, there was a time I climbed Mt. Fuji (once) #k  #card
+ほんやく: 昔、一度富士山に登ったことがありました（むかし、いちど、ふじさん、のぼ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昔.html">昔</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_度.html">度</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_富.html">富</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_士.html">士</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_登.html">登</a>
+
+
+When I was a child, there was a time I studied abroad #k  #card
+ほんやく: 子供の頃、海外に留学したことがありました（こども、ころ、かいがい、りゅうがく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_供.html">供</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_頃.html">頃</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_海.html">海</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+
+
+There was a time before when I went to Happy amusement park #k  #card
+ほんやく: 前に、ハッピー遊園地に行ったことがありました（まえ、ゆうえんち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_前.html">前</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遊.html">遊</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_園.html">園</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_地.html">地</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+
+
 It seems that it will rain tomorrow #k  #card
 ほんやく: 明日は雨でしょう（あめ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
@@ -923,6 +1055,16 @@ A: 明日ひま？B:　ひまだけど、どうしたの？
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1774708466607-->
+
+
+Yamada danced for the first time yesterday, but was very good (polite) #k  #card
+ほんやく: 昨日、山田さんははじめてダンスしましたが、とても上手でした（きのう、やまだ、じょうず）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 
 
 It is hot today (polite and not formal) #k  #card
@@ -1226,7 +1368,7 @@ to climb (particle) | used for climbing something tall like a mountain or tree, 
 
 
 to win | used for winning a contest, game, or match against an opponent, paired with the particle に marking who/what is defeated #card
-ほんやく: 勝つ (かつ)
+ほんやく: に＋勝つ (かつ)
 て形: 勝って
 た形: 勝った
 ます形: 勝ちます

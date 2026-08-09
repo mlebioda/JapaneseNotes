@@ -4,4 +4,4 @@
 
 ## Entries
 
-- [。。。が。。。 -](/JapaneseNotes/grammar-index/grammar/ga) · N5
+- [。。。が。。。 -](/JapaneseNotes/grammar-index/grammar/but) · N5

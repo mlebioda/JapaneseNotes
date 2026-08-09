@@ -36,6 +36,11 @@ proofread: true
 - こんにちは、ABCグローバル株式会社（かぶしきがいしゃ）の安藤（あんどう）ですが、山田（やまだ）さんはこちらにいますか。 - Hello, I am Ando from ABC Global Co., Ltd. Is Mr. Yamada here? (bring topic, introduction first then question)
 - 自転車（じてんしゃ）で来（き）ましたが、自転車（じてんしゃ）でそのレストランに行（い）ってもいいですか。 - I came by bicycle, can I go to that restaurant by bicycle? (bring topic, first introduced mean of transport, then question)
 
+## Notes
+
+- けど is the casual equivalent of this が (see Register below) and requires だ before な-adjectives/nouns: 暇だけど, not 暇けど — い-adjectives and verbs attach directly, e.g. このケーキは美味(おい)しいけど、とても高(たか)い。 (This cake is delicious, but very expensive.)
+- けど doesn't always mark a strict contrast — it can also trail off softly to hedge or hint at more without stating it directly, similar to Use Case 2's topic-introducing が above: 今(いま)から出(で)かけるけど、すぐ戻(もど)るね。 (I'll go out now, but I'll come right back.) A: 明日(あした)ひま？B: ひまだけど、どうしたの？ (A: Are you free tomorrow? B: I am, but what's up?)
+
 ## Register
 
 Register: neutral

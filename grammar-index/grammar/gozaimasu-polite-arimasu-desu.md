@@ -5,6 +5,7 @@ topic_slug: ["polite-expressions"]
 function: ["formality"]
 level: N4
 register: polite
+confused_with: ["teineikei-vs-futsuukei-polite-form-vs-plain-form"]
 proofread: true
 ---
 
@@ -31,6 +32,10 @@ proofread: true
 ## Register
 Register: polite-context typical
 The formal, service-industry-typical equivalent of あります／です — used in phone calls, self-introductions, retail/service settings, and toward superiors.
+
+## Often confused with
+
+- [ていねいけい vs ふつうけい - polite form vs plain form](/JapaneseNotes/grammar-index/grammar/teineikei-vs-futsuukei-polite-form-vs-plain-form) — test: is this the super-polite service-industry tier replacing です／あります with でございます／ございます, or the everyday baseline contrast between plain and です／ます (ていねいけい vs ふつうけい)?
 
 ## See also
 

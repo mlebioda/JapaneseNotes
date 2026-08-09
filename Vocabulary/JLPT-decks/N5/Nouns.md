@@ -227,6 +227,7 @@ TARGET DECK: JLPT-decks::N5::Nouns
 #w ドア - door (Western-style) | A hinged door, as found in most modern buildings.
 #w トイレ - toilet | A more direct, casual word for the restroom than お手洗い.
 #w 動物 (どうぶつ) - animal | Any living creature that is not a plant, especially non-human.
+#w 同僚 (どうりょう) - coworker | A person one works alongside at the same company.
 #w 時計 (とけい) - clock, watch | A device used to tell the time.
 #w 所 (ところ) - place | A general word for a location or spot.
 #w 年 (とし) - year, age | Refers either to a calendar year or to a person's age.
@@ -1837,6 +1838,14 @@ animal | Any living creature that is not a plant, especially non-human. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1784791578292-->
+
+
+coworker | A person one works alongside at the same company. #k #card
+同僚 (どうりょう)
+お/ご (honorific): ご同僚 (どうりょう)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_同.html">同</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_僚.html">僚</a>
+<!--ID: 1786287429449-->
 
 
 clock, watch | A device used to tell the time. #k #card

@@ -3,10 +3,9 @@ name: _practice-grammar-common
 description: >
   Shared logic for grammar practice sessions — lesson-file slicing, grammar-topic
   and vocab-pool parsing, exercise generation (Types 1–6 and the 4 gates),
-  interaction-flow mechanics, grading, session-summary formatting, the
-  Persistence/Calendar-sync load-directive, the Study Mode invocation hookup,
-  and the batch-loop mechanics. Never triggered directly — loaded by
-  `lesson-grammar-practice.md` and `scheduled-grammar-practice.md`.
+  interaction-flow mechanics, grading, and the Study Mode invocation hookup.
+  Never triggered directly — loaded by `lesson-grammar-practice.md` and
+  `scheduled-grammar-practice.md`.
 ---
 
 # Practice Grammar — Common
@@ -31,10 +30,6 @@ awk '/^# Summary$/{exit} {print}' "$LESSON_FILE"
 ```
 
 Pass only this slice to all subsequent parsing (Grammar topics, Vocab pool).
-Both trigger skills call this routine once per resolved lesson file path —
-`lesson-grammar-practice.md` calls it once for its single resolved file;
-`scheduled-grammar-practice.md` calls it once per `lesson_file` in its
-Multi-lesson file loading loop.
 
 ---
 
@@ -44,9 +39,6 @@ Given a target file path under `grammar-index/grammar/` (an extracted
 grammar-point file), load it as follows. This routine is shared — any
 caller passes in a file path and gets back `{grammar_header, body_text,
 frontmatter}` (or a skip signal, per the container-file guard below).
-Today's only caller is `scheduled-grammar-practice.md`'s "2a. Extracted-file
-flow" (Multi-lesson file loading), which calls this once per unique
-extracted-file `lesson_file` value, lazily, on first demand.
 
 - Read the whole file directly (no awk slice — these files have no
   `# Summary`).
@@ -67,15 +59,6 @@ extracted-file `lesson_file` value, lazily, on first demand.
   `## Structure` + `## Examples` + `## Use Cases` (if present) + `## Notes`
   (if present) + `## Register` (if present) + `## Often confused with` (if
   present). Exclude the YAML frontmatter block and `## See also`.
-
-This is a separate, heavier routine from the "Extracted-file linkage
-(fresh-discovery detection)" container-file guard under **Parsing → Grammar
-topics** below — the two happen to check the same `## Sub-topics` signature
-but at different depths of file inspection: that guard is a lightweight
-heading-presence check only, performed once per point during fresh
-discovery; this routine does a full whole-file read, frontmatter parse, and
-body_text assembly, performed once per unique extracted file when a session
-actually drills it. The lightweight guard never calls into this routine.
 
 ---
 
@@ -121,12 +104,9 @@ semantic content rather than markdown heading level — see
 
 #### Extracted-file linkage (fresh-discovery detection)
 
-This subsection is only ever walked by `lesson-grammar-practice`'s full
-heading-role-classification pass over `# 文法`/`# Vocabulary` — it runs once
-per point triple, immediately after that triple is built. It never runs for
-`scheduled-grammar-practice`'s "2b. Lesson-file flow" (a separate, narrower
-single-heading-text search over pre-selected entries that already carry a
-`lesson_file` — it has no use for this detection).
+This subsection runs only during `lesson-grammar-practice`'s fresh-discovery
+pass over `# 文法`/`# Vocabulary`, not `scheduled-grammar-practice`'s
+lesson-file flow.
 
 For each **point**-role heading (never for container- or scaffolding-role
 headings, since those never become point triples in the first place — see
@@ -152,15 +132,6 @@ extractions nest under the same prefix).
   must not be fed into exercise-generation prompts as if it were.
 - **No match** → `extracted_file_path = null` on the triple. No further
   check needed.
-
-**Why the duplicate-heading-text carve-out doesn't apply here:**
-extract-grammar step 8's duplicate-heading-text handling exists because that
-step does a *global* regex substitution keyed on heading text across the
-whole pre-Summary slice, so an ambiguous match must be narrowed to a parent
-section's line range. This detection routine is a *positional* check (line
-immediately after a specific node) performed while walking an already
-distinct per-node heading tree — each node is already unambiguous by
-construction, so no analogous scoping fix is needed.
 
 **Container-file guard.** For any point where the check above found a
 wikilink match, before finalizing `extracted_file_path`, open the target
@@ -283,7 +254,9 @@ for variety.
 exercise, verify all four gates pass. If a gate fails, redesign the
 exercise (change type or rewrite the prompt) until it passes all four.
 
-**Gate 1 — Prompt does not leak the answer.**
+> **GATE 1 — ANSWER-LEAK GATE — MANDATORY. Before printing any exercise
+> prompt, verify it passes both checks below. NEVER print a prompt that
+> fails either one.**
 
 1. Grammar-point name/form must not be named anywhere in the prompt. A
    prompt like "Translate to Japanese: 'I decided to go to graduate school'"
@@ -356,6 +329,8 @@ the session. `<current>` is 1-based (first exercise is `1 / N`, last is
 mid-session. The exercise title shows only the number — never the grammar
 point name. Study Mode exercises use a local `study_counter` and are
 excluded from the session-wide progress indicator.
+
+Every exercise below must already pass Gate 1 — re-check before printing.
 
 ### Batch mode (default — works on flaky connections)
 
@@ -498,80 +473,6 @@ matching a fixed answer.
 
 ---
 
-## Session summary
-
-**Batch sessions:** print the session summary once — after the last batch
-completes, or when the user types "stop". The summary covers only the
-grammar points that were actually drilled. Do not print a summary after each
-individual batch.
-
-After the last exercise, show a compact summary. Summarize at the
-**grammar point level** — SM-2 tracks per grammar point, not per exercise.
-If a grammar point had multiple exercises (multiple use cases), show the
-individual scores and the worst-case outcome determines the "Solid" vs
-"Needs practice" classification.
-
-```
-Session complete — <header> (N exercises across M grammar points)
-
-Solid:
-  ✓ Vないで ください               score 4
-  ✓ Subject + で + V              score 4
-  ✓ Counter 回                     score 3
-
-Needs practice:
-  ✗ 名詞 + 中（ちゅう・じゅう）     scores 4 / 2 / 1 — じゅう whole-area reading failed
-  ✗ Vplain + N (noun modifier)     score 2 — N が/の particle choice
-  ✗ Counter 本                      score 1 — sound changes (いっぽん, さんぼん)
-
-Next review dates written to grammar-state.json. Calendar file: japanese-grammar-review-<timestamp>.ics written to vault root.
-```
-
-`<header>` is supplied by the calling trigger skill — see that skill's own
-session-summary footer text for the exact wording it plugs in here.
-
-Rules:
-- If any exercise for a grammar point scored 1–2, the grammar point goes to "Needs practice."
-- For points with multiple exercises, show all scores (e.g. `scores 4 / 2 / 1`) and name the use case that failed.
-- For points with a single exercise, show `score N` as before.
-
----
-
-## Persistence and Calendar sync
-
-For the last batch, this happens immediately upon reaching self-evaluation
-completion for that batch — before the `Study mode / Finish` prompt is shown
-— not after the user chooses to finish. (For an early "stop"/"end" at any
-other point mid-session, this also runs immediately with scores collected so
-far.) Read `.cowork/skills/practice-grammar/practice-grammar-srs.md` and follow its
-instructions. Pass to it:
-- `session_scores`: dict keyed by grammar_point_id → `{min_score, weak_points, grammar_header, lesson_file}`
-- `session_grammar_ids`: ordered list of grammar_point_ids practiced this session
-- `today`: ISO date (YYYY-MM-DD)
-- `scope`: one of `"lesson"`, `"TODAY"`, `"OVERDUE"` — set by whichever trigger skill calls this directive (`lesson-grammar-practice.md` always passes `"lesson"`; `scheduled-grammar-practice.md` passes `"TODAY"` or `"OVERDUE"` depending on which flow resolved the session)
-
-**Per-point `lesson_file` source.** For each point in `session_scores`, the
-`lesson_file` value passed to `practice-grammar-srs.md` defaults to the
-session's resolved lesson file path. If the point's parsed triple carries
-`extracted_file_path` (set only by the **Extracted-file linkage
-(fresh-discovery detection)** subsection above — populated only during
-`lesson-grammar-practice`'s fresh-discovery parse, and only when the
-container-file guard there passed), use `extracted_file_path` instead.
-`grammar_header` is unaffected — always the lesson heading text already
-parsed, regardless of which `lesson_file` value is used.
-
-Passing a different `lesson_file` for an already-existing entry is safe:
-`lesson_file` and `grammar_header` are identity fields written only when a
-`grammar-state.json` entry is created for the first time and left untouched
-on every later update — enforced at both write sites (see
-`practice-grammar-srs.md`'s generic Persistence section and Step A wording,
-and `load-control.py`'s `merge_and_write()`).
-
-Study Mode exercises are excluded — only include grammar points that
-received self-evaluation scores from the main batch exercises.
-
----
-
 ## Study Mode
 
 On first Study Mode invocation, read
@@ -582,7 +483,7 @@ in context). Pass to it:
 - `batch_number` and `num_batches`: so Step 3 knows whether to ask "Next batch / Finish" (non-last batch) or simply end the session (last batch — the session was already saved before Study Mode was entered)
 - `is_last_batch`: boolean
 - `vocab_pool`: the session vocab pool (needed for Study Mode exercise generation)
-- `weak_points`: per grammar_point_id weak_points, as loaded once at session start (see **Batch-loop mechanics** below) and/or accumulated in memory during the session — never re-read from `grammar-state.json` after persistence
+- `weak_points`: per grammar_point_id weak_points, as loaded once at session start (see `scheduled-grammar-practice.md`'s **Batch-loop mechanics** section) and/or accumulated in memory during the session — never re-read from `grammar-state.json` after persistence
 
 Follow the instructions in that file exactly.
 
@@ -595,54 +496,3 @@ Follow the instructions in that file exactly.
 - Anything inside the lesson file — this skill is **read-only on lessons**
 - Do not modify other skill files or the instructions file
 - Edits to `.cowork/instructions.md` require explicit user permission before modifying — this is a standing project rule, not specific to any one implementation
-
----
-
-## Batch-loop mechanics
-
-**Load weak points.** At session start (before generating any exercises),
-load `.cowork/progress/grammar-state.json` — if the file does not exist yet,
-treat state as empty. Pick up any prior `weak_points` for the session's
-grammar points so exercises can stress them.
-
-Run the session as a loop over batches, parameterized by `num_batches` (the
-lesson trigger always fixes `num_batches = 1` with no batch-split prompt;
-the scheduled trigger resolves `num_batches` via its own batch-split prompt
-before calling this loop):
-
-For each batch B (1 to `num_batches`):
-
-a. **Generate exercises for this batch's topics only** (see **Exercise generation** and the Use case extraction subsections under **Parsing**). Apply weak_point bias per topic. `N` = total exercises across the full session (sum across all batches, fixed after the first batch).
-b. If `num_batches` > 1: print `Batch B / num_batches` before presenting exercises.
-c. Present exercises for this batch (see **Interaction flow**). Collect user answers and self-scores.
-d. Record self-scores and weak_points for this batch in memory. Do NOT write grammar-state.json yet.
-e. After self-evaluation scores are collected for batch B:
-
-   > **BETWEEN-BATCH GATE — MANDATORY. After collecting self-scores for any batch,
-   > ALWAYS present the Study mode / Next batch prompt and wait for user input.
-   > NEVER auto-advance to the next batch or to post-session. This is the most
-   > important interaction rule in this skill.**
-
-   - If B < `num_batches` (non-last batch): print `Batch B / num_batches complete.` then ask:
-     ```
-     Next batch / Study mode
-     ```
-     - "Next batch" (or equivalent affirmative) → continue to batch B+1.
-     - "Study mode" → enter Study Mode for the topics in batch B (see **Study Mode** section). After Study Mode exits, ask again: `Next batch / Finish` (same rules as Step 3 of `practice-grammar-study-mode.md`).
-     - If the user asks an off-topic question, answer it and re-present the same prompt.
-     - The prompt must always appear — never auto-advance to the next batch.
-   - If B == `num_batches` (last batch): immediately after self-evaluation scores are collected for this batch, run the session-summary, persistence, and calendar-sync steps unconditionally (write the session summary, persist to `grammar-state.json`, write the calendar `.ics` — see **Session summary** and **Persistence and Calendar sync** sections). This happens before any prompt is shown; it is no longer gated behind a user choice. Then ask:
-     ```
-     Study mode / Finish
-     ```
-     - "Study mode" → enter Study Mode for the topics in the last batch. Session data is already saved at this point — Study Mode is purely supplementary practice. After Study Mode exits, end the session (nothing further to persist).
-     - "Finish" (or equivalent affirmative) → end the session immediately.
-     - If the user asks an off-topic question, answer it and re-present the same prompt.
-     - The prompt must always appear — never auto-finish without user confirmation, even though persistence has already occurred.
-     - **Guard — "stop"/"end" at this prompt.** If the user types "stop" or "end" in reply to this `Study mode / Finish` prompt, treat it as a no-op alias for "Finish" — end the session immediately. Do **not** re-invoke `practice-grammar-srs.md`, do not rewrite `grammar-state.json`, and do not write a second `.ics` file. This overrides the general Early-exit rule below for this specific prompt only, since persistence for this batch (and the whole session) already happened one step above.
-   - **Early exit:** if the user types "stop" or "end" as a standalone message at any other point mid-session (i.e. not in reply to the last-batch `Study mode / Finish` prompt above), load `practice-grammar-srs.md` and write grammar-state.json and .ics for all scores collected so far, print the partial session summary, and end immediately. "stop" is no longer offered as a named option in the between-batch prompt.
-
-f. Never skip a batch automatically — always wait for user confirmation before advancing.
-
-Don't skip any step in this loop. Start practicing immediately after the
-user triggers the calling skill.
