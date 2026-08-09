@@ -4696,6 +4696,138 @@
       "weak_points": [],
       "score": 4,
       "next_review": "2026-09-02"
+    },
+    "UN4GL15::tokoro-desu-dict-form": {
+      "lesson_file": "grammar-index/grammar/tokoro-desu-dict-form.md",
+      "grammar_header": "V「dict」ところです - about to start",
+      "interval_days": 4,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-08-09",
+      "last_score": 2,
+      "next_review": "2026-08-13"
+    },
+    "UN4GL15::tokoro-desu-teiru-form": {
+      "lesson_file": "grammar-index/grammar/tokoro-desu-teiru-form.md",
+      "grammar_header": "V「て形」いるところです - action in progress right now",
+      "interval_days": 4,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-08-09",
+      "last_score": 2,
+      "next_review": "2026-08-13"
+    },
+    "UN4GL15::tokoro-desu-ta-form": {
+      "lesson_file": "grammar-index/grammar/tokoro-desu-ta-form.md",
+      "grammar_header": "V「た形」ところです - action has just finished",
+      "interval_days": 4,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-08-09",
+      "last_score": 2,
+      "next_review": "2026-08-13"
+    },
+    "UN4GL15::marude": {
+      "lesson_file": "grammar-index/grammar/marude.md",
+      "grammar_header": "まるで - just like / not at all",
+      "interval_days": 4,
+      "ease": 2.35,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-08-09",
+      "last_score": 2,
+      "next_review": "2026-08-13"
+    },
+    "UN4GL15::you-desu": {
+      "lesson_file": "grammar-index/grammar/you-desu.md",
+      "grammar_header": "...ようです",
+      "interval_days": 4,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-08-09",
+      "last_score": 3,
+      "next_review": "2026-08-13"
+    },
+    "UN4GL15::you-ni-narimasu-naku-narimasu": {
+      "lesson_file": "grammar-index/grammar/you-ni-narimasu-naku-narimasu.md",
+      "grammar_header": "ようになります / なくなります - become able / stop being able, start to / stop doing",
+      "interval_days": 1,
+      "ease": 2.3,
+      "streak": 0,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-08-09",
+      "last_score": 1,
+      "next_review": "2026-08-10"
+    },
+    "UN4GL15::you-ni-shimasu": {
+      "lesson_file": "grammar-index/grammar/you-ni-shimasu.md",
+      "grammar_header": "ようにします - working hard on / making an effort to",
+      "interval_days": 1,
+      "ease": 2.3,
+      "streak": 0,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-08-09",
+      "last_score": 1,
+      "next_review": "2026-08-10"
+    },
+    "UN4GL15::te-form-hoshii-desu": {
+      "lesson_file": "grammar-index/grammar/te-form-hoshii-desu.md",
+      "grammar_header": "て形 + 欲(ほ)しいです - I want someone (else) to do something",
+      "interval_days": 1,
+      "ease": 2.3,
+      "streak": 0,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-08-09",
+      "last_score": 1,
+      "next_review": "2026-08-10"
+    },
+    "UN4GL15::jou-tatami-counter": {
+      "lesson_file": "grammar-index/grammar/jou-tatami-counter.md",
+      "grammar_header": "畳(じょう) - counter for tatami-mat room size",
+      "interval_days": 4,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-08-09",
+      "last_score": 3,
+      "next_review": "2026-08-13"
+    },
+    "UN4GL15::yoru-stop-by": {
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/yoru-stop-by.md",
+      "grammar_header": "寄る(よる) - to stop by",
+      "interval_days": 1,
+      "ease": 2.3,
+      "streak": 0,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-08-09",
+      "last_score": 1,
+      "next_review": "2026-08-10"
+    },
+    "UN4GL15::au-match": {
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/au-match.md",
+      "grammar_header": "合う（あ）",
+      "interval_days": 4,
+      "ease": 2.5,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-08-09",
+      "last_score": 3,
+      "next_review": "2026-08-13"
     }
   }
 }

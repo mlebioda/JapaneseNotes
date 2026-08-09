@@ -1,5 +1,10 @@
 TARGET DECK: Japanese-Vocabulary::Interview
 
+
+
+
+# Summary
+
 はじめまして #w #card
 ほんやく: Nice to meet you - Miło mi cię poznać  
 Przykład: はじめまして、マイケルと申(もう)します。 - Miło mi, nazywam się Michał.

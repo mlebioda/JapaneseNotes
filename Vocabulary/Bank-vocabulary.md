@@ -1,476 +1,470 @@
 TARGET DECK: Japanese-Vocabulary::Banking-Vocabulary
 
-## **Rzeczowniki – bank, konto, przelewy **
+## **Nouns – bank, account, transfers**
 
-#w 銀行（ぎんこう）- bank  
-#w 支店（してん）- branch (oddział banku)  
-#w 口座（こうざ）- bank account  
-#w 銀行口座（ぎんこうこうざ）- bank account (pełna forma)  
-#w 通帳（つうちょう）- bankbook / passbook  
-#w キャッシュカード（きゃっしゅかーど）- cash card / debit card  
-#w 暗証番号（あんしょうばんごう）- PIN number  
-#w 残高（ざんだか）- account balance  
-#w 預金（よきん）- deposit / savings  
-#w 普通預金（ふつうよきん）- regular savings account  
-#w 定期預金（ていきよきん）- fixed-term deposit  
-#w 引き出し（ひきだし）- withdrawal  
-#w 入金（にゅうきん）- deposit (money in)  
-#w 出金（しゅっきん）- withdrawal (money out)  
-#w 送金（そうきん）- bank transfer / remittance  
-#w 海外送金（かいがいそうきん）- overseas transfer  
-#w 自動送金（じどうそうきん）- automatic transfer  
-#w 口座振替（こうざふりかえ）- automatic debit (e.g. bills)  
-#w 手数料（てすうりょう）- fee / commission  
-#w 残高照会（ざんだかしょうかい）- balance inquiry  
-#w 振込（ふりこみ）- bank transfer (domestic)  
-#w 受取人（うけとりにん）- recipient  
-#w 振込先（ふりこみさき）- transfer destination  
-#w 送金先（そうきんさき）- recipient (for overseas)  
-#w 金額（きんがく）- amount (of money)  
-#w 利息（りそく）- interest  
-#w 利子（りし）- interest (on savings)  
-#w 支払い（しはらい）- payment  
-#w 現金（げんきん）- cash  
-#w 紙幣（しへい）- banknote / bill  
-#w 硬貨（こうか）- coin  
-#w ATM（えい・てぃー・えむ）- ATM  
-#w 窓口（まどぐち）- counter (in bank or post office)  
-#w 受付（うけつけ）- reception  
-#w 担当者（たんとうしゃ）- person in charge  
-#w 身分証明書（みぶんしょうめいしょ）- ID card / identification  
-#w 在留カード（ざいりゅうかーど）- residence card (foreigner ID)  
-#w マイナンバー（まいなんばー）- MyNumber (personal number)  
-#w 登録（とうろく）- registration  
-#w 確認（かくにん）- confirmation / verification  
-#w サイン（さいん）- signature  
-#w 印鑑（いんかん）- personal seal / hanko  
-#w アプリ（あぷり）- mobile app  
-#w オンラインバンキング - online banking  
-#w モバイル送金（もばいるそうきん）- mobile transfer  
-#w 取引（とりひき）- transaction  
-#w 手続き（てつづき）- procedure / paperwork
-
----
-
-## **Czasowniki – czynności bankowe **
-
-#wc 振り込む（ふりこむ）- to transfer money (to someone’s account)  
-#wc 送る（おくる）- to send (money, documents)  
-#wc 預ける（あずける）- to deposit / entrust (money to bank)  
-#wc 引き出す（ひきだす）- to withdraw (money)  
-#wc 支払う（しはらう）- to pay  
-#wc 確認する（かくにんする）- to confirm / verify  
-#wc 登録する（とうろくする）- to register  
-#wc サインする（さいんする）- to sign  
-#wc 申し込む（もうしこむ）- to apply / submit an application  
-#wc 払い戻す（はらいもどす）- to refund / pay back  
-#wc 残る（のこる）- to remain (money, balance)  
-#wc 無くす（なくす）- to lose (card, money)  
-#wc 無くなる（なくなる）- to be lost / disappear  
-#wc 確かめる（たしかめる）- to check / make sure  
-#wc 閉める（しめる）- to close (an account)  
-#wc 開く（ひらく）- to open (an account)  
-#wc 利用する（りようする）- to use / make use of  
-#wc 操作する（そうさする）- to operate (ATM, app)  
-#wc 説明する（せつめいする）- to explain  
-#wc 署名する（しょめいする）- to sign (formal)
+#w 銀行（ぎんこう）- bank | A financial institution where people deposit and manage money.  
+#w 支店（してん）- branch (bank branch) | A local office of a bank, separate from its main office.  
+#w 口座（こうざ）- bank account | An account held at a bank for storing and managing money.  
+#w 銀行口座（ぎんこうこうざ）- bank account (full form) | The more explicit, formal way to say "bank account."  
+#w 通帳（つうちょう）- bankbook / passbook | A booklet that records a bank account's transaction history.  
+#w キャッシュカード（きゃっしゅかーど）- cash card / debit card | A card used to withdraw cash or pay directly from a bank account.  
+#w 暗証番号（あんしょうばんごう）- PIN number | The secret numeric code used to verify identity at an ATM or terminal.  
+#w 残高（ざんだか）- account balance | The amount of money currently held in an account.  
+#w 預金（よきん）- deposit / savings | Money placed into a bank account, or the general concept of savings.  
+#w 普通預金（ふつうよきん）- regular savings account | A standard, flexible savings account allowing free deposits and withdrawals.  
+#w 定期預金（ていきよきん）- fixed-term deposit | A savings account that locks funds for a set period in exchange for higher interest.  
+#w 引き出し（ひきだし）- withdrawal | The act of taking money out of an account.  
+#w 入金（にゅうきん）- deposit (money in) | Money being paid into an account.  
+#w 出金（しゅっきん）- withdrawal (money out) | Money being taken out of an account.  
+#w 送金（そうきん）- bank transfer / remittance | Sending money from one account to another.  
+#w 海外送金（かいがいそうきん）- overseas transfer | A bank transfer sent to a recipient in another country.  
+#w 自動送金（じどうそうきん）- automatic transfer | A transfer set to occur automatically on a schedule.  
+#w 口座振替（こうざふりかえ）- automatic debit (e.g. bills) | A recurring automatic payment taken directly from an account, such as for utility bills.  
+#w 手数料（てすうりょう）- fee / commission | A charge for using a service, such as a transfer or withdrawal.  
+#w 残高照会（ざんだかしょうかい）- balance inquiry | The act of checking how much money is in an account.  
+#w 振込（ふりこみ）- bank transfer (domestic) | A transfer of funds between accounts within the same country.  
+#w 受取人（うけとりにん）- recipient | The person who receives a transfer or payment.  
+#w 振込先（ふりこみさき）- transfer destination | The account or party to which money is being sent.  
+#w 送金先（そうきんさき）- recipient (for overseas) | The destination account or party for an overseas transfer.  
+#w 金額（きんがく）- amount (of money) | A specific sum of money.  
+#w 利息（りそく）- interest | Money earned or paid based on a deposit or loan, calculated as a percentage.  
+#w 利子（りし）- interest (on savings) | Interest specifically earned on money held in a savings account.  
+#w 支払い（しはらい）- payment | The act of giving money for goods, services, or an obligation.  
+#w 現金（げんきん）- cash | Physical money, as opposed to cards or digital payment.  
+#w 紙幣（しへい）- banknote / bill | Paper money.  
+#w 硬貨（こうか）- coin | Metal currency.  
+#w ATM（えい・てぃー・えむ）- ATM | A machine used to withdraw, deposit, or check the balance of a bank account.  
+#w 窓口（まどぐち）- counter (in bank or post office) | The service window where customers are helped by staff in person.  
+#w 受付（うけつけ）- reception | The front desk where visitors are greeted and directed.  
+#w 担当者（たんとうしゃ）- person in charge | The staff member responsible for handling a particular matter.  
+#w 身分証明書（みぶんしょうめいしょ）- ID card / identification | An official document proving a person's identity.  
+#w 在留カード（ざいりゅうかーど）- residence card (foreigner ID) | The official ID card issued to foreign residents of Japan.  
+#w マイナンバー（まいなんばー）- MyNumber (personal number) | Japan's national personal identification number, used for tax and administrative purposes.  
+#w 登録（とうろく）- registration | The act of officially recording information, such as signing up for a service.  
+#w 確認（かくにん）- confirmation / verification | Checking that something is correct or true.  
+#w サイン（さいん）- signature | A person's handwritten mark used to confirm identity or agreement.  
+#w 印鑑（いんかん）- personal seal / hanko | A carved personal stamp used in Japan in place of a signature for official documents.  
+#w アプリ（あぷり）- mobile app | A software application used on a smartphone.  
+#w オンラインバンキング - online banking | Managing bank accounts and transactions over the internet.  
+#w モバイル送金（もばいるそうきん）- mobile transfer | Sending money using a smartphone app.  
+#w 取引（とりひき）- transaction | A single instance of exchanging or transferring money.  
+#w 手続き（てつづき）- procedure / paperwork | The steps or documents required to complete an official process.
 
 ---
 
-## **Przymiotniki – opis usług i sytuacji**
+## **Verbs – banking actions**
 
-#wp 便利（べんり）- convenient  
-#wp 不便（ふべん）- inconvenient  
-#wp 簡単（かんたん）- simple / easy  
-#wp 複雑（ふくざつ）- complicated  
-#wp 安全（あんぜん）- safe / secure  
-#wp 危ない（あぶない）- dangerous / risky  
-#wp 速い（はやい）- fast (transaction, service)  
-#wp 遅い（おそい）- slow  
-#wp 新しい（あたらしい）- new  
-#wp 古い（ふるい）- old  
-#wp 無料（むりょう）- free (no fee)  
-#wp 有料（ゆうりょう）- paid / with fee
-
----
-
-## **Przydatne pytania – wizyta w banku **
-
-#w 口座を開きたいです。- I would like to open a bank account.  
-#w 海外送金をしたいです。- I’d like to make an overseas transfer.  
-#w 残高を確認したいです。- I’d like to check my balance.  
-#w カードを再発行したいです。- I’d like to reissue my card.  
-#w 登録をしたいです。- I’d like to register.  
-#w どこで送金できますか？- Where can I send money?  
-#w 送金手数料はいくらですか？- How much is the transfer fee?  
-#w このアプリで送金できますか？- Can I send money with this app?  
-#w 窓口はどこですか？- Where is the counter?  
-#w この書類を提出したいです。- I’d like to submit this document.  
-#w この口座に送ってもいいですか？- Is it okay to send to this account?
+#wc 振り込む（ふりこむ）- to transfer money (to someone's account) | To send money directly into another person's bank account.  
+#wc 送る（おくる）- to send (money, documents) | To dispatch something, such as money or a document, to another person or place.  
+#wc 預ける（あずける）- to deposit / entrust (money to bank) | To place money or an item in someone else's care, such as a bank.  
+#wc 引き出す（ひきだす）- to withdraw (money) | To take money out of an account.  
+#wc 支払う（しはらう）- to pay | To give money in exchange for goods, services, or an obligation.  
+#wc 確認する（かくにんする）- to confirm / verify | To check that something is correct or true.  
+#wc 登録する（とうろくする）- to register | To officially record one's information for a service.  
+#wc サインする（さいんする）- to sign | To write one's signature.  
+#wc 申し込む（もうしこむ）- to apply / submit an application | To formally request or apply for something.  
+#wc 払い戻す（はらいもどす）- to refund / pay back | To return money that was previously paid.  
+#wc 残る（のこる）- to remain (money, balance) | To be left over, such as a remaining balance.  
+#wc 無くす（なくす）- to lose (card, money) | To lose possession of something, such as a card or cash.  
+#wc 無くなる（なくなる）- to be lost / disappear | For something to go missing or run out.  
+#wc 確かめる（たしかめる）- to check / make sure | To verify that something is accurate or as expected.  
+#wc 閉める（しめる）- to close (an account) | To shut down or terminate, such as closing a bank account.  
+#wc 開く（ひらく）- to open (an account) | To start or establish, such as opening a bank account.  
+#wc 利用する（りようする）- to use / make use of | To utilize a service or item.  
+#wc 操作する（そうさする）- to operate (ATM, app) | To work a machine or system, such as an ATM or app.  
+#wc 説明する（せつめいする）- to explain | To describe something so it is understood.  
+#wc 署名する（しょめいする）- to sign (formal) | The formal equivalent of signing one's name, used in official contexts.
 
 ---
 
-## **Przydatne odpowiedzi – bank / pracownik **
+## **Adjectives – describing services and situations**
 
-#w こちらの窓口でお願いします。- Please go to this counter.  
-#w この書類を記入してください。- Please fill out this form.  
-#w パスポートと在留カードを見せてください。- Please show your passport and residence card.  
-#w 手数料は500円です。- The fee is 500 yen.  
-#w 確認しますので、少々お待ちください。- Please wait a moment while I confirm.  
-#w 送金が完了しました。- The transfer has been completed.  
-#w 残高が足りません。- The balance is insufficient.  
-#w もう一度お試しください。- Please try again.  
-#w オンラインで手続きできます。- You can do this online.
+#wp 便利（べんり）- convenient | Easy and useful to use.  
+#wp 不便（ふべん）- inconvenient | Difficult or troublesome to use.  
+#wp 簡単（かんたん）- simple / easy | Not difficult; straightforward.  
+#wp 複雑（ふくざつ）- complicated | Difficult to understand due to many parts or steps.  
+#wp 安全（あんぜん）- safe / secure | Free from danger or risk.  
+#wp 危ない（あぶない）- dangerous / risky | Likely to cause harm or loss.  
+#wp 速い（はやい）- fast (transaction, service) | Happening quickly.  
+#wp 遅い（おそい）- slow | Happening slowly or taking a long time.  
+#wp 新しい（あたらしい）- new | Recently made, introduced, or acquired.  
+#wp 古い（ふるい）- old | Existing for a long time; not new.  
+#wp 無料（むりょう）- free (no fee) | Costing nothing.  
+#wp 有料（ゆうりょう）- paid / with fee | Requiring payment.
+
+---
+
+## **Useful questions – visiting the bank**
+
+#w 口座を開きたいです。- I would like to open a bank account. | Said when requesting to open a new account at the bank.  
+#w 海外送金をしたいです。- I'd like to make an overseas transfer. | Said when requesting to send money abroad.  
+#w 残高を確認したいです。- I'd like to check my balance. | Said when asking to see the current balance of an account.  
+#w カードを再発行したいです。- I'd like to reissue my card. | Said when requesting a replacement for a lost or damaged card.  
+#w 登録をしたいです。- I'd like to register. | Said when requesting to sign up for a service.  
+#w どこで送金できますか？- Where can I send money? | Asked when looking for the location or method to make a transfer.  
+#w 送金手数料はいくらですか？- How much is the transfer fee? | Asked when inquiring about the cost of sending a transfer.  
+#w このアプリで送金できますか？- Can I send money with this app? | Asked when confirming whether a transfer can be made through a mobile app.  
+#w 窓口はどこですか？- Where is the counter? | Asked when looking for the service window at a bank or office.  
+#w この書類を提出したいです。- I'd like to submit this document. | Said when handing in required paperwork.  
+#w この口座に送ってもいいですか？- Is it okay to send to this account? | Asked to confirm that a given account is the correct destination for a transfer.
+
+---
+
+## **Useful answers – bank staff**
+
+#w こちらの窓口でお願いします。- Please go to this counter. | Said by staff directing a customer to a specific service window.  
+#w この書類を記入してください。- Please fill out this form. | Said by staff asking a customer to complete paperwork.  
+#w パスポートと在留カードを見せてください。- Please show your passport and residence card. | Said when a staff member requests identification.  
+#w 手数料は500円です。- The fee is 500 yen. | Said by staff stating the cost of a service.  
+#w 確認しますので、少々お待ちください。- Please wait a moment while I confirm. | Said by staff asking a customer to wait during a verification step.  
+#w 送金が完了しました。- The transfer has been completed. | Said by staff confirming that a transfer was successfully processed.  
+#w 残高が足りません。- The balance is insufficient. | Said when an account does not have enough funds for a requested transaction.  
+#w もう一度お試しください。- Please try again. | Said when an action failed and the customer should retry it.  
+#w オンラインで手続きできます。- You can do this online. | Said by staff informing a customer that a process can be completed via internet banking.
 
 
+# Summary
 
-
- --- 
-
-
-
- Rzeczowniki:
-
- bank   #card
+ bank | A financial institution where people deposit and manage money. #card
 ほんやく: 銀行（ぎんこう）
 <!--ID: 1763357448790-->
 
 
- branch (oddział banku)   #card
+ branch (bank branch) | A local office of a bank, separate from its main office. #card
 ほんやく: 支店（してん）
 <!--ID: 1763357448794-->
 
 
- bank account   #card
+ bank account | An account held at a bank for storing and managing money. #card
 ほんやく: 口座（こうざ）
 <!--ID: 1763357448798-->
 
 
- bank account (pełna forma)   #card
+ bank account (full form) | The more explicit, formal way to say "bank account." #card
 ほんやく: 銀行口座（ぎんこうこうざ）
 <!--ID: 1763357448801-->
 
 
- bankbook / passbook   #card
+ bankbook / passbook | A booklet that records a bank account's transaction history. #card
 ほんやく: 通帳（つうちょう）
 <!--ID: 1763357448804-->
 
 
- cash card / debit card   #card
+ cash card / debit card | A card used to withdraw cash or pay directly from a bank account. #card
 ほんやく: キャッシュカード（きゃっしゅかーど）
 <!--ID: 1763357448807-->
 
 
- PIN number   #card
+ PIN number | The secret numeric code used to verify identity at an ATM or terminal. #card
 ほんやく: 暗証番号（あんしょうばんごう）
 <!--ID: 1763357448812-->
 
 
- account balance   #card
+ account balance | The amount of money currently held in an account. #card
 ほんやく: 残高（ざんだか）
 <!--ID: 1763357448815-->
 
 
- deposit / savings   #card
+ deposit / savings | Money placed into a bank account, or the general concept of savings. #card
 ほんやく: 預金（よきん）
 <!--ID: 1763357448819-->
 
 
- regular savings account   #card
+ regular savings account | A standard, flexible savings account allowing free deposits and withdrawals. #card
 ほんやく: 普通預金（ふつうよきん）
 <!--ID: 1763357448822-->
 
 
- fixed #card
+ fixed-term deposit | A savings account that locks funds for a set period in exchange for higher interest. #card
 ほんやく: 定期預金（ていきよきん）
 <!--ID: 1763357448826-->
 
 
- withdrawal   #card
+ withdrawal | The act of taking money out of an account. #card
 ほんやく: 引き出し（ひきだし）
 <!--ID: 1763357448829-->
 
 
- deposit (money in)   #card
+ deposit (money in) | Money being paid into an account. #card
 ほんやく: 入金（にゅうきん）
 <!--ID: 1763357448832-->
 
 
- withdrawal (money out)   #card
+ withdrawal (money out) | Money being taken out of an account. #card
 ほんやく: 出金（しゅっきん）
 <!--ID: 1763357448834-->
 
 
- bank transfer / remittance   #card
+ bank transfer / remittance | Sending money from one account to another. #card
 ほんやく: 送金（そうきん）
 <!--ID: 1763357448837-->
 
 
- overseas transfer   #card
+ overseas transfer | A bank transfer sent to a recipient in another country. #card
 ほんやく: 海外送金（かいがいそうきん）
 <!--ID: 1763357448839-->
 
 
- automatic transfer   #card
+ automatic transfer | A transfer set to occur automatically on a schedule. #card
 ほんやく: 自動送金（じどうそうきん）
 <!--ID: 1763357448842-->
 
 
- automatic debit (e.g. bills)   #card
+ automatic debit (e.g. bills) | A recurring automatic payment taken directly from an account, such as for utility bills. #card
 ほんやく: 口座振替（こうざふりかえ）
 <!--ID: 1763357448844-->
 
 
- fee / commission   #card
+ fee / commission | A charge for using a service, such as a transfer or withdrawal. #card
 ほんやく: 手数料（てすうりょう）
 <!--ID: 1763357448847-->
 
 
- balance inquiry   #card
+ balance inquiry | The act of checking how much money is in an account. #card
 ほんやく: 残高照会（ざんだかしょうかい）
 <!--ID: 1763357448849-->
 
 
- bank transfer (domestic)   #card
+ bank transfer (domestic) | A transfer of funds between accounts within the same country. #card
 ほんやく: 振込（ふりこみ）
 <!--ID: 1763357448852-->
 
 
- recipient   #card
+ recipient | The person who receives a transfer or payment. #card
 ほんやく: 受取人（うけとりにん）
 <!--ID: 1763357448855-->
 
 
- transfer destination   #card
+ transfer destination | The account or party to which money is being sent. #card
 ほんやく: 振込先（ふりこみさき）
 <!--ID: 1763357448858-->
 
 
- recipient (for overseas)   #card
+ recipient (for overseas) | The destination account or party for an overseas transfer. #card
 ほんやく: 送金先（そうきんさき）
 <!--ID: 1763357448861-->
 
 
- amount (of money)   #card
+ amount (of money) | A specific sum of money. #card
 ほんやく: 金額（きんがく）
 <!--ID: 1763357448864-->
 
 
- interest   #card
+ interest | Money earned or paid based on a deposit or loan, calculated as a percentage. #card
 ほんやく: 利息（りそく）
 <!--ID: 1763357448867-->
 
 
- interest (on savings)   #card
+ interest (on savings) | Interest specifically earned on money held in a savings account. #card
 ほんやく: 利子（りし）
 <!--ID: 1763357448870-->
 
 
- payment   #card
+ payment | The act of giving money for goods, services, or an obligation. #card
 ほんやく: 支払い（しはらい）
 <!--ID: 1763357448880-->
 
 
- cash   #card
+ cash | Physical money, as opposed to cards or digital payment. #card
 ほんやく: 現金（げんきん）
 <!--ID: 1763357448884-->
 
 
- banknote / bill   #card
+ banknote / bill | Paper money. #card
 ほんやく: 紙幣（しへい）
 <!--ID: 1763357448887-->
 
 
- coin   #card
+ coin | Metal currency. #card
 ほんやく: 硬貨（こうか）
 <!--ID: 1763357448890-->
 
 
- ATM   #card
+ ATM | A machine used to withdraw, deposit, or check the balance of a bank account. #card
 ほんやく: ATM（えい・てぃー・えむ）
 <!--ID: 1763357448893-->
 
 
- counter (in bank or post office)   #card
+ counter (in bank or post office) | The service window where customers are helped by staff in person. #card
 ほんやく: 窓口（まどぐち）
 <!--ID: 1763357448896-->
 
 
- reception   #card
+ reception | The front desk where visitors are greeted and directed. #card
 ほんやく: 受付（うけつけ）
 <!--ID: 1763357448900-->
 
 
- person in charge   #card
+ person in charge | The staff member responsible for handling a particular matter. #card
 ほんやく: 担当者（たんとうしゃ）
 <!--ID: 1763357448904-->
 
 
- ID card / identification   #card
+ ID card / identification | An official document proving a person's identity. #card
 ほんやく: 身分証明書（みぶんしょうめいしょ）
 <!--ID: 1763357448907-->
 
 
- residence card (foreigner ID)   #card
+ residence card (foreigner ID) | The official ID card issued to foreign residents of Japan. #card
 ほんやく: 在留カード（ざいりゅうかーど）
 <!--ID: 1763357448909-->
 
 
- MyNumber (personal number)   #card
+ MyNumber (personal number) | Japan's national personal identification number, used for tax and administrative purposes. #card
 ほんやく: マイナンバー（まいなんばー）
 <!--ID: 1763357448913-->
 
 
- registration   #card
+ registration | The act of officially recording information, such as signing up for a service. #card
 ほんやく: 登録（とうろく）
 <!--ID: 1763357448916-->
 
 
- confirmation / verification   #card
+ confirmation / verification | Checking that something is correct or true. #card
 ほんやく: 確認（かくにん）
 <!--ID: 1763357448918-->
 
 
- signature   #card
+ signature | A person's handwritten mark used to confirm identity or agreement. #card
 ほんやく: サイン（さいん）
 <!--ID: 1763357448921-->
 
 
- personal seal / hanko   #card
+ personal seal / hanko | A carved personal stamp used in Japan in place of a signature for official documents. #card
 ほんやく: 印鑑（いんかん）
 <!--ID: 1763357448924-->
 
 
- mobile app   #card
+ mobile app | A software application used on a smartphone. #card
 ほんやく: アプリ（あぷり）
 <!--ID: 1763357448927-->
 
 
- online banking   #card
+ online banking | Managing bank accounts and transactions over the internet. #card
 ほんやく: オンラインバンキング 
 <!--ID: 1763357448930-->
 
 
- mobile transfer   #card
+ mobile transfer | Sending money using a smartphone app. #card
 ほんやく: モバイル送金（もばいるそうきん）
 <!--ID: 1763357448934-->
 
 
- transaction   #card
+ transaction | A single instance of exchanging or transferring money. #card
 ほんやく: 取引（とりひき）
 <!--ID: 1763357448937-->
 
 
- procedure / paperwork #card
+ procedure / paperwork | The steps or documents required to complete an official process. #card
 ほんやく: 手続き（てつづき）
 <!--ID: 1763357448941-->
 
 
- I would like to open a bank account.   #card
+ I would like to open a bank account. | Said when requesting to open a new account at the bank. #card
 ほんやく: 口座を開きたいです。
 <!--ID: 1763357448943-->
 
 
- I’d like to make an overseas transfer.   #card
+ I'd like to make an overseas transfer. | Said when requesting to send money abroad. #card
 ほんやく: 海外送金をしたいです。
 <!--ID: 1763357448946-->
 
 
- I’d like to check my balance.   #card
+ I'd like to check my balance. | Said when asking to see the current balance of an account. #card
 ほんやく: 残高を確認したいです。
 <!--ID: 1763357448949-->
 
 
- I’d like to reissue my card.   #card
+ I'd like to reissue my card. | Said when requesting a replacement for a lost or damaged card. #card
 ほんやく: カードを再発行したいです。
 <!--ID: 1763357448952-->
 
 
- I’d like to register.   #card
+ I'd like to register. | Said when requesting to sign up for a service. #card
 ほんやく: 登録をしたいです。
 <!--ID: 1763357448955-->
 
 
- Where can I send money?   #card
+ Where can I send money? | Asked when looking for the location or method to make a transfer. #card
 ほんやく: どこで送金できますか？
 <!--ID: 1763357448959-->
 
 
- How much is the transfer fee?   #card
+ How much is the transfer fee? | Asked when inquiring about the cost of sending a transfer. #card
 ほんやく: 送金手数料はいくらですか？
 <!--ID: 1763357448963-->
 
 
- Can I send money with this app?   #card
+ Can I send money with this app? | Asked when confirming whether a transfer can be made through a mobile app. #card
 ほんやく: このアプリで送金できますか？
 <!--ID: 1763357448966-->
 
 
- Where is the counter?   #card
+ Where is the counter? | Asked when looking for the service window at a bank or office. #card
 ほんやく: 窓口はどこですか？
 <!--ID: 1763357448969-->
 
 
- I’d like to submit this document.   #card
+ I'd like to submit this document. | Said when handing in required paperwork. #card
 ほんやく: この書類を提出したいです。
 <!--ID: 1763357448972-->
 
 
- Is it okay to send to this account? #card
+ Is it okay to send to this account? | Asked to confirm that a given account is the correct destination for a transfer. #card
 ほんやく: この口座に送ってもいいですか？
 <!--ID: 1763357448975-->
 
 
- Please go to this counter.   #card
+ Please go to this counter. | Said by staff directing a customer to a specific service window. #card
 ほんやく: こちらの窓口でお願いします。
 <!--ID: 1763357448979-->
 
 
- Please fill out this form.   #card
+ Please fill out this form. | Said by staff asking a customer to complete paperwork. #card
 ほんやく: この書類を記入してください。
 <!--ID: 1763357448983-->
 
 
- Please show your passport and residence card.   #card
+ Please show your passport and residence card. | Said when a staff member requests identification. #card
 ほんやく: パスポートと在留カードを見せてください。
 <!--ID: 1763357448987-->
 
 
- The fee is 500 yen.   #card
+ The fee is 500 yen. | Said by staff stating the cost of a service. #card
 ほんやく: 手数料は500円です。
 <!--ID: 1763357448991-->
 
 
- Please wait a moment while I confirm.   #card
+ Please wait a moment while I confirm. | Said by staff asking a customer to wait during a verification step. #card
 ほんやく: 確認しますので、少々お待ちください。
 <!--ID: 1763357448994-->
 
 
- The transfer has been completed.   #card
+ The transfer has been completed. | Said by staff confirming that a transfer was successfully processed. #card
 ほんやく: 送金が完了しました。
 <!--ID: 1763357448996-->
 
 
- The balance is insufficient.   #card
+ The balance is insufficient. | Said when an account does not have enough funds for a requested transaction. #card
 ほんやく: 残高が足りません。
 <!--ID: 1763357449000-->
 
 
- Please try again.   #card
+ Please try again. | Said when an action failed and the customer should retry it. #card
 ほんやく: もう一度お試しください。
 <!--ID: 1763357449002-->
 
 
- You can do this online. #card
+ You can do this online. | Said by staff informing a customer that a process can be completed via internet banking. #card
 ほんやく: オンラインで手続きできます。
 <!--ID: 1763357449006-->
 
 
 
 
- Czasowniki:
+ Verbs:
 
-to transfer money (to someone’s account) #wc #card
+to transfer money (to someone's account) | To send money directly into another person's bank account. #wc #card
 ほんやく: 振り込む（ふりこむ）  
 ます形: 振り込みます  
 て形: 振り込んで  
@@ -484,7 +478,7 @@ to transfer money (to someone’s account) #wc #card
 
 ---
 
-to send (money, documents) #wc #card
+to send (money, documents) | To dispatch something, such as money or a document, to another person or place. #wc #card
 ほんやく: 送る（おくる）  
 ます形: 送ります  
 て形: 送って  
@@ -498,7 +492,7 @@ to send (money, documents) #wc #card
 
 ---
 
-to deposit / entrust (money to bank) #wc #card
+to deposit / entrust (money to bank) | To place money or an item in someone else's care, such as a bank. #wc #card
 ほんやく: 預ける（あずける）  
 ます形: 預けます  
 て形: 預けて  
@@ -512,7 +506,7 @@ to deposit / entrust (money to bank) #wc #card
 
 ---
 
-to withdraw (money) #wc #card
+to withdraw (money) | To take money out of an account. #wc #card
 ほんやく: 引き出す（ひきだす）  
 ます形: 引き出します  
 て形: 引き出して  
@@ -526,7 +520,7 @@ to withdraw (money) #wc #card
 
 ---
 
-to pay #wc #card
+to pay | To give money in exchange for goods, services, or an obligation. #wc #card
 ほんやく: 支払う（しはらう）  
 ます形: 支払います  
 て形: 支払って  
@@ -540,7 +534,7 @@ to pay #wc #card
 
 ---
 
-to confirm / verify #wc #card
+to confirm / verify | To check that something is correct or true. #wc #card
 ほんやく: 確認する（かくにんする）  
 ます形: 確認します  
 て形: 確認して  
@@ -554,7 +548,7 @@ to confirm / verify #wc #card
 
 ---
 
-to register #wc #card
+to register | To officially record one's information for a service. #wc #card
 ほんやく: 登録する（とうろくする）  
 ます形: 登録します  
 て形: 登録して  
@@ -568,7 +562,7 @@ to register #wc #card
 
 ---
 
-to sign #wc #card
+to sign | To write one's signature. #wc #card
 ほんやく: サインする（さいんする）  
 ます形: サインします  
 て形: サインして  
@@ -582,7 +576,7 @@ to sign #wc #card
 
 ---
 
-to apply / submit an application #wc #card
+to apply / submit an application | To formally request or apply for something. #wc #card
 ほんやく: 申し込む（もうしこむ）  
 ます形: 申し込みます  
 て形: 申し込んで  
@@ -596,7 +590,7 @@ to apply / submit an application #wc #card
 
 ---
 
-to refund / pay back #wc #card
+to refund / pay back | To return money that was previously paid. #wc #card
 ほんやく: 払い戻す（はらいもどす）  
 ます形: 払い戻します  
 て形: 払い戻して  
@@ -610,7 +604,7 @@ to refund / pay back #wc #card
 
 ---
 
-to remain (money, balance) #wc #card
+to remain (money, balance) | To be left over, such as a remaining balance. #wc #card
 ほんやく: 残る（のこる）  
 ます形: 残ります  
 て形: 残って  
@@ -624,7 +618,7 @@ to remain (money, balance) #wc #card
 
 ---
 
-to lose (card, money) #wc #card
+to lose (card, money) | To lose possession of something, such as a card or cash. #wc #card
 ほんやく: 無くす（なくす）  
 ます形: 無くします  
 て形: 無くして  
@@ -638,7 +632,7 @@ to lose (card, money) #wc #card
 
 ---
 
-to be lost / disappear #wc #card
+to be lost / disappear | For something to go missing or run out. #wc #card
 ほんやく: 無くなる（なくなる）  
 ます形: 無くなります  
 て形: 無くなって  
@@ -652,7 +646,7 @@ to be lost / disappear #wc #card
 
 ---
 
-to check / make sure #wc #card
+to check / make sure | To verify that something is accurate or as expected. #wc #card
 ほんやく: 確かめる（たしかめる）  
 ます形: 確かめます  
 て形: 確かめて  
@@ -666,7 +660,7 @@ to check / make sure #wc #card
 
 ---
 
-to close (an account) #wc #card
+to close (an account) | To shut down or terminate, such as closing a bank account. #wc #card
 ほんやく: 閉める（しめる）  
 ます形: 閉めます  
 て形: 閉めて  
@@ -680,7 +674,7 @@ to close (an account) #wc #card
 
 ---
 
-to open (an account) #wc #card
+to open (an account) | To start or establish, such as opening a bank account. #wc #card
 ほんやく: 開く（ひらく）  
 ます形: 開きます  
 て形: 開いて  
@@ -694,7 +688,7 @@ to open (an account) #wc #card
 
 ---
 
-to use / make use of #wc #card
+to use / make use of | To utilize a service or item. #wc #card
 ほんやく: 利用する（りようする）  
 ます形: 利用します  
 て形: 利用して  
@@ -708,7 +702,7 @@ to use / make use of #wc #card
 
 ---
 
-to operate (ATM, app) #wc #card
+to operate (ATM, app) | To work a machine or system, such as an ATM or app. #wc #card
 ほんやく: 操作する（そうさする）  
 ます形: 操作します  
 て形: 操作して  
@@ -722,7 +716,7 @@ to operate (ATM, app) #wc #card
 
 ---
 
-to explain #wc #card
+to explain | To describe something so it is understood. #wc #card
 ほんやく: 説明する（せつめいする）  
 ます形: 説明します  
 て形: 説明して  
@@ -736,7 +730,7 @@ to explain #wc #card
 
 ---
 
-to sign (formal) #wc #card
+to sign (formal) | The formal equivalent of signing one's name, used in official contexts. #wc #card
 ほんやく: 署名する（しょめいする）  
 ます形: 署名します  
 て形: 署名して  
@@ -750,120 +744,119 @@ to sign (formal) #wc #card
 
 ---
 
-convenient #wp #card
+convenient | Easy and useful to use. #wp #card
 ほんやく: 便利（べんり）  
-Forma przeszła: 便利でした  
-Przeczenie: 便利じゃない  
-Przysłówek: 便利に
+Past form: 便利でした  
+Negative: 便利じゃない  
+Adverb: 便利に
 <!--ID: 1763357462701-->
 
 
 ---
 
-inconvenient #wp #card
+inconvenient | Difficult or troublesome to use. #wp #card
 ほんやく: 不便（ふべん）  
-Forma przeszła: 不便でした  
-Przeczenie: 不便じゃない  
-Przysłówek: 不便に
+Past form: 不便でした  
+Negative: 不便じゃない  
+Adverb: 不便に
 <!--ID: 1763357462704-->
 
 
 ---
 
-simple / easy #wp #card
+simple / easy | Not difficult; straightforward. #wp #card
 ほんやく: 簡単（かんたん）  
-Forma przeszła: 簡単でした  
-Przeczenie: 簡単じゃない  
-Przysłówek: 簡単に
+Past form: 簡単でした  
+Negative: 簡単じゃない  
+Adverb: 簡単に
 <!--ID: 1763357462706-->
 
 
 ---
 
-complicated #wp #card
+complicated | Difficult to understand due to many parts or steps. #wp #card
 ほんやく: 複雑（ふくざつ）  
-Forma przeszła: 複雑でした  
-Przeczenie: 複雑じゃない  
-Przysłówek: 複雑に
+Past form: 複雑でした  
+Negative: 複雑じゃない  
+Adverb: 複雑に
 <!--ID: 1763357462709-->
 
 
 ---
 
-safe / secure #wp #card
+safe / secure | Free from danger or risk. #wp #card
 ほんやく: 安全（あんぜん）  
-Forma przeszła: 安全でした  
-Przeczenie: 安全じゃない  
-Przysłówek: 安全に
+Past form: 安全でした  
+Negative: 安全じゃない  
+Adverb: 安全に
 <!--ID: 1763357462711-->
 
 
 ---
 
-dangerous / risky #wp #card
+dangerous / risky | Likely to cause harm or loss. #wp #card
 ほんやく: 危ない（あぶない）  
-Forma przeszła: 危なかった  
-Przeczenie: 危なくない  
-Przysłówek: 危なく
+Past form: 危なかった  
+Negative: 危なくない  
+Adverb: 危なく
 <!--ID: 1763357462715-->
 
 
 ---
 
-fast (transaction, service) #wp #card
+fast (transaction, service) | Happening quickly. #wp #card
 ほんやく: 速い（はやい）  
-Forma przeszła: 速かった  
-Przeczenie: 速くない  
-Przysłówek: 速く
+Past form: 速かった  
+Negative: 速くない  
+Adverb: 速く
 <!--ID: 1763357462719-->
 
 
 ---
 
-slow #wp #card
+slow | Happening slowly or taking a long time. #wp #card
 ほんやく: 遅い（おそい）  
-Forma przeszła: 遅かった  
-Przeczenie: 遅くない  
-Przysłówek: 遅く
+Past form: 遅かった  
+Negative: 遅くない  
+Adverb: 遅く
 <!--ID: 1763357462722-->
 
 
 ---
 
-new #wp #card
+new | Recently made, introduced, or acquired. #wp #card
 ほんやく: 新しい（あたらしい）  
-Forma przeszła: 新しかった  
-Przeczenie: 新しくない  
-Przysłówek: 新しく
+Past form: 新しかった  
+Negative: 新しくない  
+Adverb: 新しく
 <!--ID: 1763357462725-->
 
 
 ---
 
-old #wp #card
+old | Existing for a long time; not new. #wp #card
 ほんやく: 古い（ふるい）  
-Forma przeszła: 古かった  
-Przeczenie: 古くない  
-Przysłówek: 古く
+Past form: 古かった  
+Negative: 古くない  
+Adverb: 古く
 <!--ID: 1763357462728-->
 
 
 ---
 
-free (no fee) #wp #card
+free (no fee) | Costing nothing. #wp #card
 ほんやく: 無料（むりょう）  
-Forma przeszła: 無料でした  
-Przeczenie: 無料じゃない  
-Przysłówek: 無料に
+Past form: 無料でした  
+Negative: 無料じゃない  
+Adverb: 無料に
 <!--ID: 1763357462730-->
 
 
 ---
 
-paid / with fee #wp #card
+paid / with fee | Requiring payment. #wp #card
 ほんやく: 有料（ゆうりょう）  
-Forma przeszła: 有料でした  
-Przeczenie: 有料じゃない  
-Przysłówek: 有料に
+Past form: 有料でした  
+Negative: 有料じゃない  
+Adverb: 有料に
 <!--ID: 1763357462733-->
-

@@ -7,15 +7,12 @@ TARGET DECK: JLPT-decks::N4::Nouns
 #w 遊び (あそび) - play | Activity done purely for enjoyment, or a bit of looseness in a mechanism.
 #w 安心 (あんしん)(する) - relief, peace of mind | A state of feeling reassured that there is nothing to worry about.
 #w 以下 (いか) - less than, below | Refers to a value or group at or under a stated limit; common in formal or written contexts.
-#w 以外 (いがい) - with the exception of | Refers to everything other than the item just mentioned.
 #w 医学 (いがく) - medical science | The academic field concerned with diagnosing and treating illness.
 #w 意見 (いけん) - opinion | A person's view or judgment on a matter.
 #w 石 (いし) - stone | A hard piece of mineral material, from a pebble to a boulder.
 #w 以上 (いじょう) - more than, the above | Refers to a value at or above a stated point, or signals the end of a statement.
 #w 一度 (いちど) - once, one time | Refers to a single occurrence of an event.
-#w 一生懸命 (いっしょうけんめい) - with utmost effort | Describes doing something as hard as one possibly can.
 #w 糸 (いと) - thread | A thin strand used in sewing or weaving.
-#w 以内 (いない) - within, no more than | Refers to a value or time inside a stated boundary.
 #w 田舎 (いなか) - countryside | A rural area, away from cities; can carry a nostalgic or plain connotation.
 #w 受付 (うけつけ) - reception desk | The counter where visitors check in or make inquiries at an office or event.
 #w 腕 (うで) - arm | The body part from shoulder to wrist; also used figuratively for skill.
@@ -198,7 +195,6 @@ TARGET DECK: JLPT-decks::N4::Nouns
 #w 地理 (ちり) - geography | The study of the earth's physical features and human activity across them.
 #w 都合 (つごう) - circumstances, convenience | Whether the timing or conditions of a situation work for someone.
 #w 妻 (つま) - wife | A humble term a husband uses for his own wife.
-#w つもり - intention, plan | What a person means or plans to do, even if not yet acted on.
 #w 手袋 (てぶくろ) - glove | A hand covering with separate sections for the fingers.
 #w 寺 (てら) - temple | A Buddhist place of worship.
 #w 点 (てん) - point, dot, score | A small mark, a grading score, or a specific detail in an argument.
@@ -220,7 +216,6 @@ TARGET DECK: JLPT-decks::N4::Nouns
 #w 拝見 (はいけん)(する) - looking at (humble) | A humble way of saying one is looking at or examining something.
 #w 歯医者 (はいしゃ) - dentist | A doctor who treats teeth.
 #w 場所 (ばしょ) - location | A specific spot or place.
-#w はず - it should be so | Refers to an expected or assumed outcome based on reasoning.
 #w 発音 (はつおん) - pronunciation | The way a word or language is spoken aloud.
 #w 花見 (はなみ) - cherry-blossom viewing | The seasonal activity of viewing and picnicking under blooming cherry trees.
 #w 林 (はやし) - woods, forest | An area covered in trees, generally smaller than a 森.
@@ -376,13 +371,6 @@ less than, below | Refers to a value or group at or under a stated limit; common
 <!--ID: 1784877914315-->
 
 
-with the exception of | Refers to everything other than the item just mentioned. #k #card
-以外 (いがい)
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_以.html">以</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
-<!--ID: 1784877914317-->
-
-
 medical science | The academic field concerned with diagnosing and treating illness. #k #card
 医学 (いがく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_医.html">医</a>
@@ -418,26 +406,10 @@ once, one time | Refers to a single occurrence of an event. #k #card
 <!--ID: 1784877914322-->
 
 
-with utmost effort | Describes doing something as hard as one possibly can. #k #card
-一生懸命 (いっしょうけんめい)
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_懸.html">懸</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_命.html">命</a>
-<!--ID: 1784877914323-->
-
-
 thread | A thin strand used in sewing or weaving. #card
 糸 (いと)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_糸.html">糸</a>
 <!--ID: 1784877914324-->
-
-
-within, no more than | Refers to a value or time inside a stated boundary. #card
-以内 (いない)
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_以.html">以</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_内.html">内</a>
-<!--ID: 1784877914325-->
 
 
 countryside | A rural area, away from cities; can carry a nostalgic or plain connotation. #k #card
@@ -1700,12 +1672,6 @@ wife | A humble term a husband uses for his own wife. #card
 <!--ID: 1784877914507-->
 
 
-intention, plan | What a person means or plans to do, even if not yet acted on. #card
-つもり
-お/ご (honorific): おつもり
-<!--ID: 1784877914508-->
-
-
 glove | A hand covering with separate sections for the fingers. #k #card
 手袋 (てぶくろ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
@@ -1851,11 +1817,6 @@ location | A specific spot or place. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_場.html">場</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_所.html">所</a>
 <!--ID: 1784877914529-->
-
-
-it should be so | Refers to an expected or assumed outcome based on reasoning. #card
-はず
-<!--ID: 1784877914530-->
 
 
 pronunciation | The way a word or language is spoken aloud. #k #card

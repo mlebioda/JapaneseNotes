@@ -2,13 +2,14 @@
 name: kanji-links
 description: >
   Authoritative reference for the kanji trainer link generation procedure used by
-  fill-templates and templates-update skills.
+  fill-templates, templates-update, and add-word-to-deck skills.
 ---
 
 # Kanji Trainer Links Reference
 
 This file is the single source of truth for the kanji trainer link procedure.
-Both `.cowork/skills/fill-templates.md` and `.cowork/skills/templates-update.md` defer here.
+`.cowork/skills/fill-templates.md`, `.cowork/skills/templates-update.md`, and
+`.cowork/skills/add-word-to-deck.md` all defer here.
 
 ---
 

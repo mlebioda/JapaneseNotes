@@ -2,13 +2,14 @@
 name: verb-conjugation
 description: >
   Authoritative reference for Japanese verb type detection and all 15 conjugation
-  forms used by fill-templates and templates-update skills.
+  forms used by fill-templates, templates-update, and add-word-to-deck skills.
 ---
 
 # Verb Conjugation Reference
 
 This file is the single source of truth for verb conjugation rules.
-Both `.cowork/skills/fill-templates.md` and `.cowork/skills/templates-update.md` defer here.
+`.cowork/skills/fill-templates.md`, `.cowork/skills/templates-update.md`, and
+`.cowork/skills/add-word-to-deck.md` all defer here.
 
 ---
 

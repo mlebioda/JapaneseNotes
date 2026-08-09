@@ -3,14 +3,15 @@ name: honorific-forms
 description: >
   Authoritative reference for the #w / #wp お/ご (honorific) row: eligibility,
   already-prefixed exclusions, prefix choice, value format, and placement.
-  Used by fill-templates and templates-update skills.
+  Used by fill-templates, templates-update, and add-word-to-deck skills.
 ---
 
 # Honorific (お/ご) Forms Reference — #w and #wp
 
 This file is the single source of truth for the optional `お/ご (honorific):` row on
-`#w` (noun/expression/sentence) and `#wp` (adjective) cards. Both
-`.cowork/skills/fill-templates.md` and `.cowork/skills/templates-update.md` defer here.
+`#w` (noun/expression/sentence) and `#wp` (adjective) cards.
+`.cowork/skills/fill-templates.md`, `.cowork/skills/templates-update.md`, and
+`.cowork/skills/add-word-to-deck.md` all defer here.
 
 **`#wc` (verb) cards are never eligible for this row.** Verbs have their own distinct
 `お〜になる/special verb (honorific)` field — a different mechanism (verb-stem + になる

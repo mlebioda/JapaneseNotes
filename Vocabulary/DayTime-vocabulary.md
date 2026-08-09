@@ -135,4 +135,4 @@ Poniżej zestawienie w formie osi czasu + tabela. Zawiera:
 
 **あけがた (świt) → あさ (rano) → ごぜん (przedpołudnie) → ひる (południe) → ごご (popołudnie) → ゆうがた (wieczór) → ばん (wieczór) → よる (noc) → よなか (środek nocy)**
 
----
+# Summary

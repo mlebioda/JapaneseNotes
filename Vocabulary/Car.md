@@ -1,5 +1,9 @@
 TARGET DECK: Japanese-Vocabulary::Car
 
+
+
+# Summary
+
 wypożyczyć samochód #wc #card
 ほんやく: 借りる（かりる）
 ます形: 借ります

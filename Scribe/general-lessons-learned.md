@@ -28,3 +28,12 @@
 **Source**: uncommitted — manual
 
 ---
+
+## 2026-08-09 — add-word-to-deck-plan.md, add-word-to-deck-tasks.md
+
+**Classification**: design-oversight
+**What happened**: A plan for a new `add-word-to-deck` skill assumed `fill_extract.py` could be reused to generate cards for any deck file, but the script only handles empty `# Summary` blocks and would have duplicated content in an already-populated deck; the plan also conflated the `#k` kanji tag rule (gated on `KanjiList.md` membership) with `kanji-links.md`'s broader CJK-range test. Reviewer brief caught both before implementation.
+**Rule**: **[Rule]** Before a plan directs reuse of an existing script or skill for a new scenario, verify what that script actually handles (e.g. only empty templates, or only one of several similar-looking classification tests) — do not assume it covers all input states, or the plan will duplicate or corrupt existing content.
+**Source**: uncommitted — planner (revised per reviewer brief)
+
+---

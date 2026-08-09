@@ -2,13 +2,14 @@
 name: adj-forms
 description: >
   Authoritative reference for Japanese adjective form derivations used by
-  fill-templates and templates-update skills.
+  fill-templates, templates-update, and add-word-to-deck skills.
 ---
 
 # Adjective Forms Reference
 
 This file is the single source of truth for adjective conjugation rules.
-Both `.cowork/skills/fill-templates.md` and `.cowork/skills/templates-update.md` defer here.
+`.cowork/skills/fill-templates.md`, `.cowork/skills/templates-update.md`, and
+`.cowork/skills/add-word-to-deck.md` all defer here.
 
 ---
 
