@@ -2,7 +2,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL14-Grocery
 
 ## 米 - rice・こめ・ベイ、マイ
 [[米-rice]]
-![[Pasted image 20250611214020.png]]
+![[Pasted image 20250611214020.png|255]]
 
 **(こめ)**
 #w 米（こめ) - rice
@@ -44,7 +44,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL14-Grocery
 
 ## 広 - wide・ひろ・コウ
 [[広-wide]]
-![[Pasted image 20250611215137.png]]
+![[Pasted image 20250611215137.png|245]]
 Under a wide (広) roof (广), there's room even for someone's private (厶) space."
 
 **(ひろ)**
@@ -60,7 +60,7 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 
 ## 台 - stand, counter suffix for machines or devices・タイ、ダイ
 [[台-stand]]
-![[Pasted image 20250611215511.png]]
+![[Pasted image 20250611215511.png|277]]
 **(たい)**
 #w 台風（たいふう）- typhoon
 
@@ -81,7 +81,7 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 ---
 ## 牛 - cow・うし・ギュウ
 [[牛-cow]]
-![[Pasted image 20250611215707.png]]
+![[Pasted image 20250611215707.png|198]]
 **(うし)**
 #w 牛（うし）- cow
 
@@ -96,7 +96,7 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 #w この料理屋は牛肉が有名です（りょうりや、ぎゅうにく、ゆうめい）- This restaurant if famous for beef dishes
 ## 鳥 - bird・とり・チョウ
 [[鳥-bird]]
-![[Pasted image 20250611215908.png]]
+![[Pasted image 20250611215908.png|258]]
 **(とり)**
 #w 鳥（とり）- bird
 #w 鳥料理（とりりょうり）- chicken dish
@@ -114,7 +114,7 @@ Under a wide (広) roof (广), there's room even for someone's private (厶) spa
 
 ## 黒 - black・くろ・コク
 [[黒-black]]
-![[Pasted image 20250611220815.png]]
+![[Pasted image 20250611220815.png|241]]
 The village (里) was covered in black soot after a fire (灬)."
 **(くろ)**
 #wp 黒い（くろ）- black
@@ -127,7 +127,7 @@ The village (里) was covered in black soot after a fire (灬)."
 #w 黒板（こくばん）- black board
 ## 重 - heavy・おも・ジュウ
 [[重-heavy]]
-![[Pasted image 20250611223009.png]]
+![[Pasted image 20250611223009.png|275]]
 **(おも)**
 #wp 重い（おも）- heavy
 #w 頭が重い（あたま、おも）- my head feels heavy
@@ -152,7 +152,7 @@ The village (里) was covered in black soot after a fire (灬)."
 ## 去 - go away・さ・キョ
 [[去-goaway]]
 You leave (去) your land (土) behind to go live on your own (厶).
-![[Pasted image 20250611232212.png]]
+![[Pasted image 20250611232212.png|257]]
 **(さ)**
 #wc 去る（さ）- leave
 #w ふるさとを去る（さ）- leave hometown
@@ -197,7 +197,7 @@ mouth + stop
 
 ## 数 - number・かず、かぞ・スウ
 [[数-number]]
-![[Pasted image 20250611233314.png]]
+![[Pasted image 20250611233314.png|289]]
 A woman (女) counts grains of rice (米) one by one with her hand (攵)."
 rice + woman + whip
 
@@ -966,6 +966,7 @@ to break, to snap (intransitive) | łamać się #card
 命令形 (imperative): 折れろ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_折.html">折</a>
 <!--ID: 1749744843708-->
+
 
 
 to leave / to go away | describes departing from a place, often with a nuance of finality or distance, more literary than a casual word for "leave" #card

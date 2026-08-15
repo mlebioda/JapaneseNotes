@@ -93,57 +93,95 @@ Neutralne stwierdzenie, że coś się wydarzyło - bez podkreślania, że to by�
 
 Kiedyś co lato wspinałem się na góry. (used to - nawyk) #card
 I used to climb mountains every summer.
+<!--ID: 1786345378483-->
+
 
 Kiedyś paliła, ale rzuciła dwa lata temu. (used to - nawyk) #card
 She used to smoke, but she quit two years ago.
+<!--ID: 1786345378484-->
+
 
 Kiedyś mieszkaliśmy w Tokio. (used to - nawyk) #card
 We used to live in Tokyo.
+<!--ID: 1786345378485-->
+
 
 Kiedyś codziennie się uczył. (used to - nawyk) #card
 He used to study every day.
+<!--ID: 1786345378486-->
+
 
 Kiedyś byłem nieśmiały. (used to be - stan) #card
 I used to be shy.
+<!--ID: 1786345378487-->
+
 
 Ta ulica kiedyś była cicha. (used to be - stan) #card
 This street used to be quiet.
+<!--ID: 1786345378488-->
+
 
 On kiedyś był moim nauczycielem. (used to be - stan) #card
 He used to be my teacher.
+<!--ID: 1786345378489-->
+
 
 Ten budynek kiedyś był szkołą. (used to be - stan) #card
 The building used to be a school.
+<!--ID: 1786345378490-->
+
 
 Kiedyś (jeden raz) wspiąłem się na Fuji. (once - jednorazowe wydarzenie) #card
 I once climbed Mt. Fuji.
+<!--ID: 1786345378491-->
+
 
 Kiedyś wygrała ogólnokrajowe zawody. (once - jednorazowe wydarzenie) #card
 She once won a national competition.
+<!--ID: 1786345378492-->
+
 
 Kiedyś zgubiliśmy się w górach. (once - jednorazowe wydarzenie) #card
 We once got lost in the mountains.
+<!--ID: 1786345378493-->
+
 
 Kiedyś spotkał znanego aktora. (once - jednorazowe wydarzenie) #card
 He once met a famous actor.
+<!--ID: 1786345378494-->
+
 
 Był taki czas, że studiowałem za granicą. (there was a time - okres/moment) #card
 There was a time I studied abroad.
+<!--ID: 1786345378495-->
+
 
 Był taki czas, że wspinałem się na góry co weekend. (there was a time - okres/moment) #card
 There was a time when I climbed mountains every weekend.
+<!--ID: 1786345378496-->
+
 
 Był taki czas, że w ogóle nie mówiła po angielsku. (there was a time - okres/moment) #card
 There was a time she didn't speak any English at all.
+<!--ID: 1786345378497-->
+
 
 Był taki czas, że żyliśmy bez prądu. (there was a time - okres/moment) #card
 There was a time when we lived without electricity.
+<!--ID: 1786345378498-->
+
 
 Wspiąłem się na Fuji w zeszłym roku. (past simple - zwykły fakt) #card
 I climbed Mt. Fuji last year.
+<!--ID: 1786345378499-->
+
 
 Studiowała za granicą w 2019 roku. (past simple - zwykły fakt) #card
 She studied abroad in 2019.
+<!--ID: 1786345378500-->
+
 
 Odwiedziliśmy Kioto. (past simple - zwykły fakt) #card
 We visited Kyoto.
+<!--ID: 1786345378501-->
+

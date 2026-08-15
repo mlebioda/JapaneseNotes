@@ -11,6 +11,11 @@ description: >
 
 # Add Word to Deck Skill
 
+## Rules
+
+- Never run git commands (`git status`, `git commit`, etc.) as part of this
+  skill. Writes happen directly with no git safety check.
+
 ## Trigger
 
 User says any of:
@@ -82,13 +87,13 @@ existing tag line for:
 - an okurigana variant,
 - a conjugated-form match of the same lemma (e.g. 見る vs 見ます).
 
-**If no candidate is found**, proceed to Step C2.
+**If no candidate is found**, proceed to Step D.
 
 **If a candidate is found**, present it (file path + the matching line) to
 the user and ask them to choose one of:
 
 - **(a) proceed anyway** — add the new entry alongside the existing one. Go
-  to Step C2.
+  to Step D.
 - **(b) skip** — abort the add entirely. Stop here, no write happens.
 - **(c) edit the existing entry instead** — ask the user to dictate the
   corrected translation/definition, then replace only the existing raw tag
@@ -104,18 +109,6 @@ the user and ask them to choose one of:
   do not also append a new duplicate entry; do not proceed to Step D/E.
 
 Wait for the user's decision before writing in all three cases.
-
-### Step C2 — Git safety check
-
-Before any write (the Step C option-(c) inline edit, or the Step D/E
-append), run `git status` scoped to the target file. If it has pending
-uncommitted changes, commit a "WIP" snapshot for that file first, per
-`.cowork/instructions.md`'s rule: "Git is the rollback mechanism — no `.bak`
-files. Before a destructive edit, ensure pending changes are committed...
-then edit; commit the change separately." Then proceed with the edit. The
-add-word-to-deck change itself is committed separately if the user has git
-commits enabled for this workflow — otherwise leave it staged/unstaged per
-normal session behavior. Never run `git push`.
 
 ### Step D — Compose and append the raw tag line
 
@@ -243,7 +236,6 @@ do not produce a stray blank card block or an extra separator.
 - Any existing `<!--ID:-->` line, anywhere. New cards have no `<!--ID:-->`
   line until the Anki plugin later syncs them — this is expected, not an
   error.
-- Do not run `git push` or any remote git operation.
 - Never invoke `fill_extract.py` for this skill (see Step E).
 
 ---

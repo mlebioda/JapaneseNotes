@@ -2,7 +2,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL13-Seasons
 
 ## 春 - spring・はる・シュン
 [[春-spring]]
-![[Pasted image 20250610174547.png]]
+![[Pasted image 20250610174547.png|245]]
 二＋大　＋　日 - 2 days until big bloom in spring 
 **(はる)**
 #w 春（はる）- spring
@@ -20,7 +20,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL13-Seasons
 
 ## 夏 - summer・なつ・カ
 [[夏-summer]]
-![[Pasted image 20250610175736.png]]
+![[Pasted image 20250610175736.png|214]]
 1 + oneself + walking slowly 
 **(なつ)**
 #w 夏（なつ）- summer
@@ -34,7 +34,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Caligraphy::UN4KL13-Seasons
 
 ## 早 - early・はや・ソウ
 [[早-early]]
-![[Pasted image 20250610180243.png]]
+![[Pasted image 20250610180243.png|224]]
 Day + 10 - 10 days in row i woke up early
 
 **(はや)**
@@ -56,7 +56,7 @@ Day + 10 - 10 days in row i woke up early
 #w 出社(しゅっしゃ) - going to work
 ## 起 - cause, get up・お・キ
 [[起-cause]]
-![[Pasted image 20250610182127.png]]
+![[Pasted image 20250610182127.png|229]]
 run + self
 **Your “self” (己)** suddenly **runs (走)** out of bed — it’s time to **wake up** and **get moving**!
 **(お)**
@@ -78,7 +78,7 @@ run + self
 ---
 ## 秋 - fall, autumn・あき・シュウ
 [[秋-fall]]
-![[Pasted image 20250610201325.png]]
+![[Pasted image 20250610201325.png|241]]
 In autumn (秋), farmers burn (火) the grain (禾) fields after harvest
 **(あき)**
 #w 秋（あき）- autumn, fall
@@ -92,7 +92,7 @@ In autumn (秋), farmers burn (火) the grain (禾) fields after harvest
 
 ## 風 - wind・かぜ・フウ
 [[風-wind]]
-![[Pasted image 20250610202022.png]]
+![[Pasted image 20250610202022.png|241]]
 wind blows strongly, that even insects hide under roof (line)
 **(かぜ)**
 #w 風（かぜ）- wind
@@ -114,7 +114,7 @@ wind blows strongly, that even insects hide under roof (line)
 
 ## 空 - sky, empty・そら、から・クウ
 [[空-sky]]
-![[Pasted image 20250610202446.png]]
+![[Pasted image 20250610202446.png|226]]
 roof, legs and work
 
 **(そら/ぞら)**
@@ -131,7 +131,7 @@ roof, legs and work
 #w 空白（くうはく）- blank
 ## 明 - bright・あか、あき・メイ、ミョウ
 [[明-bright]]
-![[Pasted image 20250610203231.png]]
+![[Pasted image 20250610203231.png|235]]
 **(あか)**
 #w 明るい（あか）- bright
 #w 明るい空（あか、そら）- bright sky
@@ -163,7 +163,7 @@ roof, legs and work
 ---
 ## 冬 - winter・ふゆ・トウ
 [[冬-winter]]
-![[Pasted image 20250610224303.png]]
+![[Pasted image 20250610224303.png|211]]
 walking slowlu + 2x dot. Walking slowl on a snow is winter
 **(ふゆ)**
 #w 冬（ふゆ）- winter
@@ -182,7 +182,7 @@ walking slowlu + 2x dot. Walking slowl on a snow is winter
 #w 昨冬（さくとう）- last winter
 ## 野 - field・の・ヤ
 [[野-field]]
-![[Pasted image 20250610225240.png]]
+![[Pasted image 20250610225240.png|224]]
 you're walking **from a village (里)** into a huge, **open field**. You have to **prepare (予)** yourself before going into the wild
 **(の)**
 #w 野山（のやま）- fields and hills
@@ -200,7 +200,7 @@ you're walking **from a village (里)** into a huge, **open field**. You have to
 ## 運 - carry, fortune・はこ・ウン
 [[運-carry]]
 podjazd i auto pod dachem
-![[Pasted image 20250610230013.png]]
+![[Pasted image 20250610230013.png|274]]
 **(はこ)**
 #wc 運ぶ（はこぶ）- to carry
 #w 足を運ぶ（あし、はこ）- go (to carry legs)
@@ -215,7 +215,7 @@ podjazd i auto pod dachem
 #w こんな大きいバスの運転はむずかしいでしょう（うんてん）- It is difficult to drive such a big bus, isn't it?
 ## 転 - transfer, turning around・ころ・テン
 [[転-transfer]]
-![[Pasted image 20250610230345.png]]
+![[Pasted image 20250610230345.png|252]]
 car + 2 + self/private. Transfer 2 private goods with a car 
 
 **(ころ)**

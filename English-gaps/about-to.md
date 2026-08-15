@@ -84,48 +84,80 @@ Kontrast z "about to": **"going to"** to plan, może być odległy w czasie; **"
 
 Zaraz wychodzę. (about to - natychmiastowość) #card
 I am about to leave.
+<!--ID: 1786345378521-->
+
 
 Film zaraz się zaczyna. (about to - natychmiastowość) #card
 The movie is about to start.
+<!--ID: 1786345378522-->
+
 
 Ona zaraz się rozpłacze. (about to - natychmiastowość) #card
 She is about to cry.
+<!--ID: 1786345378523-->
+
 
 Zaraz jemy kolację. (about to - natychmiastowość) #card
 We are about to eat dinner.
+<!--ID: 1786345378524-->
+
 
 Właśnie miałem do ciebie zadzwonić. (just about to - przerwana czynność) #card
 I was just about to call you.
+<!--ID: 1786345378525-->
+
 
 Właśnie miał wyjść, kiedy zadzwonił telefon. (just about to - przerwana czynność) #card
 He was just about to leave when the phone rang.
+<!--ID: 1786345378526-->
+
 
 Właśnie mieliśmy jeść, kiedy przyszli. (just about to - przerwana czynność) #card
 We were just about to eat when they arrived.
+<!--ID: 1786345378527-->
+
 
 Właśnie miała podpisać umowę. (just about to - przerwana czynność) #card
 She was just about to sign the contract.
+<!--ID: 1786345378528-->
+
 
 Ona jest na skraju łez. (on the verge of - stan emocjonalny) #card
 She is on the verge of tears.
+<!--ID: 1786345378529-->
+
 
 Firma jest na skraju bankructwa. (on the verge of - poważna sytuacja) #card
 The company is on the verge of bankruptcy.
+<!--ID: 1786345378530-->
+
 
 Był bliski rzucenia pracy. (on the verge of - poważna sytuacja) #card
 He was on the verge of quitting his job.
+<!--ID: 1786345378531-->
+
 
 Są bliscy przełomu. (on the verge of - poważna sytuacja) #card
 They are on the verge of a breakthrough.
+<!--ID: 1786345378532-->
+
 
 Zamierzam studiować medycynę. (going to - plan) #card
 I am going to study medicine.
+<!--ID: 1786345378533-->
+
 
 Przeprowadzimy się w przyszłym roku. (going to - plan) #card
 We are going to move next year.
+<!--ID: 1786345378534-->
+
 
 Zadzwoni do niego jutro. (going to - plan) #card
 She is going to call him tomorrow.
+<!--ID: 1786345378535-->
+
 
 Zamierzają wyremontować dom. (going to - plan) #card
 They are going to renovate the house.
+<!--ID: 1786345378536-->
+

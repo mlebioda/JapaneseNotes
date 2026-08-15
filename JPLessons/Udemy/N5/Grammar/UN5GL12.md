@@ -956,6 +956,8 @@ I have never climbed Mt. Fuji #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_士.html">士</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_登.html">登</a>
+<!--ID: 1786345378476-->
+
 
 
 Long ago, there was a time I climbed Mt. Fuji (once) #k  #card
@@ -967,6 +969,8 @@ Long ago, there was a time I climbed Mt. Fuji (once) #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_士.html">士</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_登.html">登</a>
+<!--ID: 1786345378477-->
+
 
 
 When I was a child, there was a time I studied abroad #k  #card
@@ -978,6 +982,8 @@ When I was a child, there was a time I studied abroad #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_留.html">留</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
+<!--ID: 1786345378478-->
+
 
 
 There was a time before when I went to Happy amusement park #k  #card
@@ -987,6 +993,8 @@ There was a time before when I went to Happy amusement park #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_園.html">園</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_地.html">地</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<!--ID: 1786345378479-->
+
 
 
 It seems that it will rain tomorrow #k  #card
@@ -1065,6 +1073,8 @@ Yamada danced for the first time yesterday, but was very good (polite) #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<!--ID: 1786345378480-->
+
 
 
 It is hot today (polite and not formal) #k  #card

@@ -51,24 +51,40 @@ Rzeczownik pochodny: **a get-together** = nieformalne spotkanie/zebranie (np. "w
 
 Wpadnę do sklepu po drodze do domu. (stop by - krótka wizyta) #card
 I'll stop by the store on my way home.
+<!--ID: 1786345378513-->
+
 
 Wpadła wczoraj do mojego biura. (stop by - krótka wizyta) #card
 She stopped by my office yesterday.
+<!--ID: 1786345378514-->
+
 
 Możesz wpaść do banku przed lunchem? (stop by - krótka wizyta) #card
 Can you stop by the bank before lunch?
+<!--ID: 1786345378515-->
+
 
 Wpadł tylko, żeby się przywitać. (stop by - krótka wizyta) #card
 He just stopped by to say hi.
+<!--ID: 1786345378516-->
+
 
 Spotkajmy się w ten weekend. (get together - spotkanie grupy) #card
 Let's get together this weekend.
+<!--ID: 1786345378517-->
+
 
 Kiedyś spotykaliśmy się w każdy piątek. (get together - spotkanie grupy) #card
 We used to get together every Friday.
+<!--ID: 1786345378518-->
+
 
 Zebrali się, żeby omówić projekt. (get together - spotkanie grupy) #card
 They got together to discuss the project.
+<!--ID: 1786345378519-->
+
 
 Duża grupa zebrała się, żeby to przedyskutować. (get together - spotkanie grupy) #card
 A large group got together to talk it over.
+<!--ID: 1786345378520-->
+

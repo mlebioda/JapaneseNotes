@@ -154,46 +154,68 @@ TARGET DECK: Japanese-Vocabulary:: Stations-metro-train
 
  Does this train go to (Shibuya)? | Asked to confirm a train's destination. #card
 ほんやく: この電車は（しぶや）行きですか？
+<!--ID: 1786345378419-->
+
 
 
  From which platform do I get on? | Asked when unsure which platform to board from. #card
 ほんやく: どのホームから乗りますか？
+<!--ID: 1786345378422-->
+
 
 
  Where do I transfer? | Asked when looking for the place to change trains. #card
 ほんやく: 乗り換えはどこですか？
+<!--ID: 1786345378423-->
+
 
 
  What time is the next train? | Asked when checking the next departure time. #card
 ほんやく: 次の電車は何時ですか？
+<!--ID: 1786345378424-->
+
 
 
  Where can I buy a ticket? | Asked when looking for where to purchase a ticket. #card
 ほんやく: 切符はどこで買えますか？
+<!--ID: 1786345378425-->
+
 
 
  Which direction is it? | Asked when unsure which way to go. #card
 ほんやく: どっちの方向ですか？
+<!--ID: 1786345378427-->
+
 
 
  Where is the exit? | Asked when looking for the way out. #card
 ほんやく: 出口はどこですか？
+<!--ID: 1786345378428-->
+
 
 
  Where is the toilet? | Asked when looking for a restroom. #card
 ほんやく: トイレはどこですか？
+<!--ID: 1786345378429-->
+
 
 
  Can I get to Shinjuku on this line? | Asked to confirm whether a line reaches a given destination. #card
 ほんやく: この線で（しんじゅく）に行けますか？
+<!--ID: 1786345378430-->
+
 
 
  Is this an express train? | Asked to confirm whether a train is an express service. #card
 ほんやく: この電車は急行ですか？
+<!--ID: 1786345378431-->
+
 
 
  What's the next station? | Asked when checking the name of the upcoming stop. #card
 ほんやく: 次の駅はどこですか？
+<!--ID: 1786345378432-->
+
 
 
  Yes, you can. | An affirmative reply confirming that something is possible. #card

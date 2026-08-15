@@ -1648,7 +1648,7 @@ Don't you think the fruit is better? #k #card
 
 
 
-A: Won't Mr. Tanaka come today? B: Didn't he go to Osaka on business? #k #card
+A: Won't Mr. Tanaka come today? B: Didn't he go to Osaka on business? | asking for informations, writting + seeking approval #k #card
 A: 田中(たなか)さんは今日(きょう)来(こ)ないのですか。B: 田中(たなか)さんは大阪(おおさか)に出張(しゅっちょう)に行っ(い)たんじゃない？
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
@@ -1679,7 +1679,7 @@ The rooms are big and the meals are delicious so I think Japan Hotel is a good h
 
 
 
-A: Mr. Sato, how is your cold? B: My fever is gone, and I don't have a sore throat anymore, so I am fine. #k #card
+A: Mr. Sato, your cold is ok? B: My fever's already gone down, and I don't have a sore throat anymore, so I am fine.  #k #card
 A: 佐藤(さとう)くん、風邪(かぜ)は大丈夫(だいじょうぶ)ですか。B: 熱(ねつ)はもう下(さ)がったし、のども痛(いた)くないし、大丈夫(だいじょうぶ)です。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_佐.html">佐</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_藤.html">藤</a>
@@ -1730,7 +1730,7 @@ Tomorrow is a math test, and I am not good at math, so I will review at home. #k
 
 
 
-Mr. Sato injured his foot, so he can't move that much. #k #card
+Mr. Sato injured his foot, so he can't move that much. | used with connector marking a clause as one of possibly several reasons for the conclusion that followsconnector marking a clause as one of possibly several reasons for the conclusion that follows #k #card
 佐藤(さとう)くんは足(あし)をけがしたし、あまり動(うご)けないよね。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_佐.html">佐</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_藤.html">藤</a>
@@ -1738,7 +1738,8 @@ Mr. Sato injured his foot, so he can't move that much. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
 <!--ID: 1779254557756-->
 
-
+"please be careful" or "please take care." | friend warning tone　#card
+気をつけてください
 
 Sorry, I can't go to the drinking party today. I have work to do... #k #card
 ごめん、今日(きょう)飲(の)み会(かい)に行(い)けないわ。これから、仕事(しごと)もあるし…。

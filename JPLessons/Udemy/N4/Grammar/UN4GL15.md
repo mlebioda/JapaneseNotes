@@ -530,6 +530,15 @@ Being able to say a change in a condition or habit. #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_言.html">言</a>
 <!--ID: 1785395547647-->
 
+situation / circumstances | the current state of affairs or conditions at a given time. Abstract and conditions-focused: economic situation, work situation, "what's going on" in general. #card
+状況(じょうきょう)
+<!--ID: 1786736935994-->
+
+
+situation / scene | a specific scene or moment, often within a larger sequence (like a scene in a movie, story, or a particular situational moment as it's happening). Concrete and moment #card
+場面(ばめん)
+<!--ID: 1786736935996-->
+
 
 Being able to explain what situation you're currently in, and the state of an action in progress. #k #card
 今(いま)の状況(じょうきょう)がどの場面(ばめん)か、動作(どうさ)の状況(じょうきょう)を説明(せつめい)できること
@@ -1601,8 +1610,17 @@ That person is so good at English — it's just as if he were American #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <!--ID: 1785395547748-->
 
+change / transformation + verb | a change in state, form, or condition #card
+変化(へんか)(する)
+<!--ID: 1786736935998-->
 
-Although it's April, it's still cold — it's just like winter. #teineigo #k #card
+
+just / only / merely — it stresses how small, short, or few something is. It's most often used right before a number, amount, or time expression #card
+たった 
+<!--ID: 1786736935999-->
+
+
+Even though it became April, it's still cold — it's just like winter. #teineigo #k #card
 4月(しがつ)になったのに、まだ寒(さむ)くて、まるで冬(ふゆ)のようです。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寒.html">寒</a>
@@ -1637,7 +1655,7 @@ It looks like it's going to rain (direct visual impression). #teineigo #k #card
 <!--ID: 1785395547752-->
 
 
-It seems to be raining outside, doesn't it? | use ようだ, not そう(様態): based on indirect signs (sound, wet umbrellas), not watching the sky directly right now #teineigo #k #card
+It seems to be raining outside, doesn't it? | based on indirect signs (sound, wet umbrellas), not watching the sky directly right now #teineigo #k #card
 外(そと)は雨(あめ)が降(ふ)っているようですね。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_外.html">外</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
@@ -1645,7 +1663,7 @@ It seems to be raining outside, doesn't it? | use ようだ, not そう(様態):
 <!--ID: 1785395547753-->
 
 
-The top of the mountain seems cold. | use ようだ, not そう(様態): a general/logical inference (altitude, common knowledge), not a direct sensory impression in this moment #teineigo #k #card
+The top of the mountain seems cold. | a general/logical inference (altitude, common knowledge), not a direct sensory impression in this moment #teineigo #k #card
 山(やま)の上(うえ)は寒(さむ)いようです。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
@@ -1653,7 +1671,7 @@ The top of the mountain seems cold. | use ようだ, not そう(様態): a gener
 <!--ID: 1785395547754-->
 
 
-It seems that everyone dislikes war. | use ようだ, not そう(様態): a generalization about other people's feelings, not a directly observed reaction (そう(様態) would need a visible cue like someone's facial expression) #teineigo #card
+It seems that everyone dislikes war. |  a generalization about other people's feelings, not a directly observed reaction (そう(様態) would need a visible cue like someone's facial expression) #teineigo #card
 誰(だれ)でも戦争(せんそう)は嫌(きら)いなようです。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_誰.html">誰</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_戦.html">戦</a>
@@ -1770,7 +1788,7 @@ I'm going mountain climbing, but I'll make sure to be back before the sun sets. 
 <!--ID: 1785395547765-->
 
 
-The wall was just painted, so please be careful not to touch it. #teineigo | softer than 触らないでください — asks for care/mindfulness, not a blunt prohibition #card
+The wall was just painted, so **please be careful** not to touch it. #teineigo |  asks for care/mindfulness, not a blunt prohibition #card
 壁(かべ)を塗(ぬ)ったばかりだから、触(さわ)らないようにしてください。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_壁.html">壁</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_塗.html">塗</a>

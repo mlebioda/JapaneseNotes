@@ -74,33 +74,55 @@ Intensywna, czasem trudna dyskusja, mająca na celu **wypracowanie rozwiązania*
 
 Przedyskutujmy to, zanim zdecydujemy. (talk it over) #card
 Let's talk it over before deciding.
+<!--ID: 1786345378502-->
+
 
 Muszę to przegadać z żoną. (talk it over) #card
 I need to talk this over with my wife.
+<!--ID: 1786345378503-->
+
 
 Przegadaliśmy tę ofertę przez wiele godzin. (talk it over) #card
 We talked the offer over for hours.
+<!--ID: 1786345378504-->
+
 
 Przegadali to i zgodzili się na kompromis. (talk it over) #card
 They talked it over and agreed to compromise.
+<!--ID: 1786345378505-->
+
 
 Musimy omówić budżet. (discuss) #card
 We need to discuss the budget.
+<!--ID: 1786345378506-->
+
 
 Omówmy to jutro. (discuss) #card
 Let's discuss this tomorrow.
+<!--ID: 1786345378507-->
+
 
 Komitet omówił propozycję. (discuss) #card
 The committee discussed the proposal.
+<!--ID: 1786345378508-->
+
 
 Możemy przejść przez plan krok po kroku? (talk through) #card
 Can we talk through the plan step by step?
+<!--ID: 1786345378509-->
+
 
 Przeprowadziła mnie krok po kroku przez ten proces. (talk through) #card
 She talked me through the process.
+<!--ID: 1786345378510-->
+
 
 Musimy wypracować szczegóły. (hash out) #card
 We need to hash out the details.
+<!--ID: 1786345378511-->
+
 
 Kłócili się/negocjowali godzinami, zanim się zgodzili. (hash out) #card
 They hashed it out for hours before agreeing.
+<!--ID: 1786345378512-->
+

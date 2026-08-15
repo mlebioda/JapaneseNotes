@@ -899,8 +899,7 @@ to fold (transitive) #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_折.html">折</a>
 <!--ID: 1782213671880-->
 
-
-to be broken (intransitive) #card
+to be broken (intransitive) | to break/snap by bending: for long, thin, or flexible things that break at a point — bones, pencils, sticks, branches, umbrellas#card
 ほんやく: 折(お)れる
 ます形: 折れます
 て形: 折れて
@@ -1334,7 +1333,7 @@ Tomorrow I will attend a party. What kind of clothes should I wear? | casual adv
 <!--ID: 1782213671925-->
 
 
-I am working hard and saving money for traveling around the world. | noun-based purpose (世界旅行 is a goal-noun, not a verb clause) #k #card
+I am working hard and saving money for traveling around the world. | noun-based purpose #k #card
 世界旅行(せかいりょこう)のために、一生懸命(いっしょうけんめい)働(はたら)いて、お金(かね)を貯(た)めています。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_世.html">世</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_界.html">界</a>
@@ -1374,7 +1373,7 @@ I am studying Japanese for the purpose of working in Japan in the future. | same
 <!--ID: 1782213671928-->
 
 
-I study in order to pass. | same-subject purpose (clearer than the ambiguous 勉強するために練習する original) #k #card
+I study in order to pass. | same-subject purpose #k #card
 合格(ごうかく)するために勉強(べんきょう)する
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_合.html">合</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_格.html">格</a>
