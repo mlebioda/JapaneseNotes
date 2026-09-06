@@ -8,6 +8,8 @@
 - [passive-voice](/JapaneseNotes/grammar-index/passive-voice) — Patterns for the passive/receptive verb form (受身形) — direct passive, suffering passive, agentless informational passive, and material/ingredient passive.
 - [verb-transitivity](/JapaneseNotes/grammar-index/verb-transitivity) — Patterns and vocabulary for the transitive/intransitive (他動詞／自動詞) verb pair system — which particle a verb takes and how paired verbs differ in meaning.
 - [verb-volitional-form](/JapaneseNotes/grammar-index/verb-volitional-form) — Patterns built on the verb volitional form (行こう, 食べよう) — expressing the speaker's will, a suggestion, or an intention still being considered.
+- [verb-potential-form](/JapaneseNotes/grammar-index/verb-potential-form) — The potential form (可能形) — conjugating a verb to express "can do X" — plus its group-by-group formation rules.
+- [giving-receiving](/JapaneseNotes/grammar-index/giving-receiving) — Patterns for giving, receiving, or doing an action as a favor for someone — あげる／くれる／もらう and their て形 auxiliary forms.
 
 ## Particles
 
@@ -15,6 +17,7 @@
 - [particles-mo](/JapaneseNotes/grammar-index/particles-mo) — Patterns built on the particle も — listing items, pairing "both A and B," emphasizing something unexpected, and (with an interrogative) expressing total affirmation or total denial.
 - [particles-ga](/JapaneseNotes/grammar-index/particles-ga) — The particle が used to connect two clauses as "but," or to softly introduce a new topic.
 - [particles-de](/JapaneseNotes/grammar-index/particles-de) — The particle で marking who performs an action, alone or as a group, distinct from its instrument/means use.
+- [topic-marking](/JapaneseNotes/grammar-index/topic-marking) — Patterns and particles for marking or shifting a sentence's topic — responsive topic-picking なら and contrastive-stacking は — and related forms.
 
 ## Patterns
 
@@ -40,6 +43,8 @@
 - [conjecture-guessing](/JapaneseNotes/grammar-index/conjecture-guessing) — Patterns for expressing a guess or confident assumption, and its confidence level — from confirming a view the speaker already holds (んじゃない) to a guess presented as likely (でしょう) to an unconfident possibility (かもしれません).
 - [reason-listing](/JapaneseNotes/grammar-index/reason-listing) — Patterns for listing multiple reasons or descriptive traits about one topic, implying the list isn't exhaustive: し, and related forms.
 - [advice-suggestions](/JapaneseNotes/grammar-index/advice-suggestions) — Patterns for giving advice or a suggestion to the listener: ほうがいい, and related forms.
+- [reasons-causes](/JapaneseNotes/grammar-index/reasons-causes) — Patterns for stating a direct cause or reason for something — から, ので, and related forms.
+- [listing-examples](/JapaneseNotes/grammar-index/listing-examples) — Patterns for giving example items from a set, implying there could be more like them — とか...とか, や...や, and related forms.
 
 ## Forms & Counters
 

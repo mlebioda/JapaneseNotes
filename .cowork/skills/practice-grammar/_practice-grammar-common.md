@@ -385,7 +385,7 @@ Self-score each one 1–4 (1=fail, 2=hard, 3=good, 4=easy). Reply with the 7 sco
 
 **Grading display rules:**
 - **Correct:** one line — `✓ N/T — <grammar point>`. No answer text needed.
-- **Wrong / partial:** three lines — the `✗ N/T — <grammar point>` header, then `You:` and `OK:` on their own lines, then the error on its own line. No extra label lines.
+- **Wrong / partial:** the `✗ N/T — <grammar point>` header, then `You:` and `OK:` on their own lines, then the error explanation. A single mistake stays on one line. When the answer has two or more genuinely distinct mistakes, give each its own short line instead of joining them with semicolons — no "Error:" labels, no numbering, just one line per issue. No extra label lines otherwise.
 - Strip all furigana from `You:` and `OK:` lines before printing — plain Japanese only. Furigana is for exercises, not diffs.
 - Do **not** print a partial-match fragment line (e.g. `✓ frag ✓, frag ✓`).
 
@@ -426,9 +426,11 @@ partial-match fragment line.)
 
 ### Both modes
 
-If partially correct, point out the specific issue in one sentence — no
-lecture. Example: `missed the second に in 午後７時に` — not a paragraph of
-explanation.
+If partially correct, point out the specific issue in one sentence per
+distinct issue — no lecture. A single mistake gets one sentence, e.g.
+`missed the second に in 午後７時に`. Two or more genuinely distinct mistakes
+each get their own short line rather than being joined into one — never a
+paragraph of explanation.
 
 Record for each exercise: grammar_id, score (1–4), weak_points (array of
 short strings — only if the user made a mistake or chose 1–2).

@@ -135,26 +135,33 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL2-Could-you-tell-me-where-to-place
 # 文法
 
 ## とか...とか - enumerate examples of things, behaviors or actions
+→ [[grammar-index/grammar/tokatoka-enumerate-examples]]
+
+- Register: casual / conversational — natural in speech; avoid in formal writing or business Japanese (use や...や(など) there instead)
+- Often confused with: や...や (softer, more neutral/written, also non-exhaustive), と (exhaustive listing - names every item), など (formal/written list-ending marker, see Vocabulary card above)
 
 Structure:
 - とか...とか - and....and.... etc.
-	- usualy more than once
+	- usually more than once, but a single とか is also common for a vague, non-committal suggestion (e.g. すしとか食べたい - I want something like sushi)
+	- attaches to nouns, plain-form verbs/adjectives, and even quoted statements (好きだとか言っていた - he said something like he likes it)
 - Examples
-	- 昨日、日本料理を食べに行きました。すし**とか**、そば**とか**を食べました - Yesterday i was n japanese restaurant. I ate sushi, Soba and so on
+	- 昨日、日本料理を食べに行きました。すし**とか**、そば**とか**を食べました - Yesterday I went to a Japanese restaurant. I ate sushi, soba and so on
 
-#w 昨日、日本料理を食べに行きました。すし**とか**、そば**とか**を食べました - Yesterday i was n japanese restaurant. I ate sushi, Soba and so on
+#w 昨日、日本料理を食べに行きました。すし**とか**、そば**とか**を食べました - Yesterday I went to a Japanese restaurant. I ate sushi, soba and so on
 
 #w A: 粗大ゴミは何ですか（そだい) B: 椅子とか、自転車とか、テレビとかは粗大ゴミです（いす、じてんしゃ、そだい) - A: What is bulky trash? B: Chairs, bicycles, TVs and so on
 
-#w A: 日本の文化は少し分かりますか。B:はい、歌舞伎とか、脳とかを見たことがあります（ぶんか、かぶき、のう) - Do you know a little about Japanese culture? B: Yes, I have watched Kabuki and Noh etc....
+#w A: 日本の文化は少し分かりますか。B:はい、歌舞伎とか、能とかを見たことがあります（ぶんか、かぶき、のう) - Do you know a little about Japanese culture? B: Yes, I have watched Kabuki and Noh etc....
 
 ---
 
 ## 。。。ので - because
-- 。。。ので - because
-	- more soft in formal situations
-	- more objective than kara
-	- don't force your point of view
+→ [[grammar-index/grammar/node-because]]
+
+- Register: neutral-to-polite — softer and more objective-sounding than から, so preferred when being polite or avoiding a pushy/blaming tone (apologies, requests, formal explanations). から is more direct/subjective and can sound like you're justifying yourself.
+- Often confused with: から (direct/subjective reason, can stand alone as an answer - なぜ？眠いから - unlike ので), ため(に) (formal "due to," no subjective-request usage), し (listing multiple reasons/qualities together)
+- Common usage: often left dangling at the end of a sentence to soften a refusal or excuse, trailing off without finishing the thought - e.g. すみません、今日はちょっと忙しいので… (I'm a bit busy today, so…)
+- Casual speech: often contracted to んで (今日は忙しいんで…)
 - Structure
 	- Vplain ので
 	- いadj plain form ので
@@ -174,8 +181,11 @@ Structure:
 
 ---
 ## Nなら - as for,  jesli o tym mowa
+→ [[grammar-index/grammar/nnara-as-for]]
 
-- Used when the speaker asks a question and the listener gives their idea or opinion on the topic
+- Picks up a topic just mentioned (by either speaker) and comments on it specifically - "if we're talking about X..." / "speaking of X..." Often (but not only) used to answer a question by narrowing to the item asked about.
+- Register: neutral - fine in both casual and polite speech (more formal でしたら/なら also exists, e.g. さとうさんでしたら - if it's Mr. Sato you mean)
+- Often confused with: は (plain topic marker - lacks the "in response to what was just said" responsiveness that なら has), conditional なら "if" (same word, different grammar - attaches after the PLAIN FORM of verbs/adjectives/nouns, e.g. 雨が降るなら、行きません - if it rains, I won't go; don't confuse with this topic-marking なら, which attaches directly to a bare noun), にとって ("from the perspective of" - sometimes conflated with "as for" in translation but structurally different)
 
 Structure:
 - Nなら - as for,  jesli (o tym mowa)
@@ -183,22 +193,26 @@ Structure:
 
 #w A：花見に行きたいんですが、どこがいいですか。(はなみ・い)　B: 花見**なら**、上野公園がいいと思います。(はなみ・うえの・こうえん・おも) - A: I want to go cherry-blossom viewing, where would be good? (introducing topic) B: As for cherry blossom viewing, I think Ueno Park is good. (jesli mowa o..)
 
-#w A: どんな スポーツができますか B: 野球はできないですが、サッカならできます (やきゅう) - What kind of sports can you do? I can't play baseball, but as for soccer i can play
+#w A: どんな スポーツができますか B: 野球はできないですが、サッカーならできます (やきゅう) - What kind of sports can you do? I can't play baseball, but as for soccer i can play
 
 ---
 
-## は - emphasizes a noun placed right before the other particle
+## は - marks a phrase (already carrying another particle) as a contrastive topic
+→ [[grammar-index/grammar/ha-contrastive-topic-marker]]
 
--  は - emphasizes a noun placed right before the other particle
-	- often as
+-  は - marks a phrase that already carries another particle as a contrastive topic - "in/at/from/until THIS one, unlike others" - very common in negative/restrictive statements
+	- combines with (stacks after) other particles marking place/time/direction/extent:
 		- には
 		- では
 		- のは
 		- からは
 		- までは
-	- not with
+		- へは
+	- replaces (never combines with):
 		- を
 		- が
+	- Register: neutral - used identically in casual and polite speech; the function is scope/contrast, not politeness
+	- Often confused with: contrastive も, which stacks onto other particles the same way (には も, とも, でも) but means "also/even" rather than "this one, unlike others"
 
 #w 病院では、携帯電話をかけてはいけません（びょういん、けいたいでんわ）- It is forbidden to use the cellphone in the hospital (emphasize hospital)
 
@@ -212,11 +226,16 @@ Structure:
 ---
 
 ## Vて いただけませんか - polite requests. Politer than てください
+→ [[grammar-index/grammar/itadakemasenka-polite-request]]
 
-- いただく - もらう - keigo
-- いただく -> いただける 
+- いただく - kenjougo (humble) form of もらう - keigo; humbly frames the action as a favor the speaker receives
+- いただく -> いただける (potential form)
 - Politer than てください
 - used to people superior to you
+- Register: keigo (kenjougo) - polite/humble, appropriate toward superiors, teachers, customers, in service/business contexts. Not used casually among friends/family (there, てくれない? or ~してもらえる? is natural)
+- Why the negative-question form: ていただけますか (affirmative) is already polite, but ていただけませんか (negative) is considered even more polite/indirect - phrasing it as "could I not receive the favor of..." leaves the listener a graceful way to decline
+- Often confused with: てくださいませんか (looks almost identical but works the opposite direction - くださる is the sonkeigo/respectful form of くれる, so this elevates the LISTENER, while ていただけませんか humbly lowers the SPEAKER); てもらえませんか／てもらえますか (casual-polite, non-keigo version of the same request pattern)
+- See also: this いただく is the humble counterpart of the もらう covered below (Vて形＋もらいます)
 Structure: 
 - Vて いただけませんか - polite requests
 
@@ -226,16 +245,27 @@ Structure:
 #w 机の上を片付けていただけませんか。(つくえ/うえ/かたづ) - Would you clean your desk?
 
 ## Vて形 + あげます・くれます・もらいます
+→ [[grammar-index/grammar/vte-agemasu-kuremasu-moraimasu]]
+
+Register chart (plain / respectful / humble):
+
+| direction | plain | respectful (they -> you, they're superior) | humble (you -> them, they're superior) |
+|---|---|---|---|
+| someone gives/does for me | くれる | くださる | - |
+| I give/do for someone | あげる | - | さしあげる (use cautiously - often avoided anyway, see note below) |
+| I receive/have done for me | もらう | - | いただく (see Vて いただけませんか above) |
 
 ### Aは + Bに + Vて形 + あげます - I do something for someone
+→ [[grammar-index/grammar/vte-agemasu]]
 
 Structure:
 - Aは + Bに + Vて形 + あげます - A does V for B
 	- A - giver
 		- You, some one close to you
-		- If giver is clear, can be ommited
+		- If giver is clear, can be omitted
 	- B - receiver
 	- **Don't use to superior**
+	- Note: even the humble さしあげる is often avoided toward superiors in practice - it can still sound like you're bragging about doing them a favor, so it's usually better to just state the action plainly
 Examples:
 #w 私は弟におもちゃを買ってあげました（おとうと、か) - I bought toy for my younger brother
 
@@ -246,13 +276,15 @@ Examples:
 #w 山田さんに中国語の本を貸してあげます。(やまだ・ちゅうごくご・ほん・か) - I will lend Mr. Yamada a Chinese language book.
 
 ### Vて形 + くれます - Someone does something to me
+→ [[grammar-index/grammar/vte-kuremasu]]
 
 Structure:
 - Aは + Bに + Vて形 + くれます - A does V for B
 	- A - giver
 	- B - receiver
 		- You or someone close to you
-		- often ommited
+		- often omitted
+	- Respectful form: くださる (used when A is a social superior) - see register chart above
 Examples:
 #w ラジさんは私の引っ越しに手伝ってくれます（ひっこ、てつだ）- Raj will help me with the moving
 
@@ -263,11 +295,13 @@ Examples:
 #w 手伝ってくれて、ありがとうございました。(てつだ) - Thank you for helping me.
 
 ### Vて形 + もらいます - somebody helped you with something that you asked to do
+→ [[grammar-index/grammar/vte-moraimasu]]
 
 Structure:
 - Bは + Aに + Vて形 + もらいます - A does V for B
-	- A - giver
+	- A - giver (marked with に, or から for tangible items/organizations, e.g. 家族から手紙をもらいました)
 	- B - receiver - usually speaker
+	- Humble form: いただく - see Vて いただけませんか above
 Examples:
 #w 私はあんどうさん**に**本を貸してもらいました（か）- Miss ando lent me a book (i asked her for it)
 
@@ -277,13 +311,19 @@ Examples:
 
 #w いつも母に晩ご飯を作ってもらいます。(はは・ばん・はん・つく) - My mom always cooks dinner for me. (i asked for it)
 
-## Vて形 + あります - explain conditions/situations of an object - current on continuous states
+## Vて形 + あります - explain conditions/situations of an object - current or continuous states
+→ [[grammar-index/grammar/vte-arimasu-resultant-state]]
 
 Structure
-- Vて形 + あります - explain conditions/situations of an object
-	- only for object
+- Transitive-Vて形 + あります - explain conditions/situations of an object
+	- verb must be TRANSITIVE - this is the contrast with Vている (intransitive resulting/ongoing state, no implied agent, e.g. 窓が開いています vs 窓が開けてあります)
+	- only for object (subject is a thing, not a person)
+	- the object of the original transitive verb is marked with が, not を - e.g. 本を置く -> 本が置いてある
+	- Exception: with abstract "advance preparation" actions (申し込む, 予約する, 準備する), を is often kept instead of switching to が - the nuance shifts closer to Vておく ("do in advance for later benefit"), see 旅行を申し込んであります below
 	- current or continuous state, wynik swiadomego czyjegos dzialania
 	- focus on effect, not person
+	- Register: neutral - used in both speech and writing, no politeness dimension
+	- Often confused with: Vている (intransitive resulting/ongoing state, no implied agent), Vておく (the "do in advance" cousin, especially close to the 申し込んである-style example below)
 
 Examples:
 
@@ -299,24 +339,28 @@ Examples:
 # Vocabulary
 
 ## くれる - someone gives something or does something for the speaker
+→ [[grammar-index/grammar/vocabulary/Verbs/kureru-giving-receiving]]
 Structure:
 - A+は+B+に+N+を+**くれる**
 	- A - giver
-	- B - Receiver (I'm or some close to speaker) when speaker is im, watashi is omitted
+	- B - Receiver (the speaker or someone close to the speaker); when the receiver is the speaker, 私は can be omitted
+	- Respectful form: くださる (used when A is a social superior) - same as the Vて形+くれます pattern above
 - Example
 	- 山田さんは私の妹にプレゼントをくれました（いもうと）- Yamada gave a present to my younger sister
 - Difference with あげる
 	- あげる - subject speaker or someone close, receiver someone else
-		- 私の兄は友達に花をあげました（あに、はな) - My elder brother  gave his friend flowers
+		- 私の兄は友達に花をあげました（あに、はな) - My elder brother gave his friend flowers
 	- くれる - subject is anyone, receiver speaker or someone close
 		- 友達は私に花をくれました - My friend gave me a flower
+	- もらう - receiver is the subject, giver marked with に - 私は山田さんにプレゼントをもらいました - I received a present from Yamada
+- See also: this is the "N is given" version of the same あげる／くれる／もらう family covered as "V is done as a favor" in the 文法 section above (Vて形 + あげます・くれます・もらいます)
 
 
 #w 山田さんは私の妹にプレゼントをくれました（いもうと）- Yamada gave a present to my younger sister
 #w 友達は映画のチケットをくれました（ともだち、えいが）- Friend gave me ticket for a movie
 
 #w 友達は私に花をくれました - My friend gave me a flower
-#w 私の兄は友達に花をあげました（あに、はな) - My elder brother  gave his friend flowers
+#w 私の兄は友達に花をあげました（あに、はな) - My elder brother gave his friend flowers
 
 
 # Summary

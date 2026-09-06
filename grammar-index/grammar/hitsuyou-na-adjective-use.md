@@ -26,6 +26,10 @@ proofread: true
 - 新入生(しんにゅうせい)に必要(ひつよう)な書類(しょるい) - documents necessary for new students
 - この書類(しょるい)は必要(ひつよう)ではありません。 - This document isn't necessary.
 
+## Notes
+
+が marks the noun in the plain affirmative statement (お金（かね）が必要（ひつよう）です) — the default, neutral subject marker. は shows up in the negative pattern taught here (この書類（しょるい）は必要（ひつよう）ではありません) because は is the topic/contrast particle, and negation conventionally pairs with that contrastive framing ("as for X, it isn't ~"). は isn't reserved for negatives, though — see the noun-use pattern (必要（ひつよう）がある／がない), where は can attach to an otherwise-affirmative-shaped construction (必要（ひつよう）はない) to add that same contrastive nuance.
+
 ## Register
 
 Register: neutral

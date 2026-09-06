@@ -5,3 +5,7 @@
 ## Entries
 
 - [。。。し、。。。し - conjunction](/JapaneseNotes/grammar-index/grammar/shishi-conjunction) · N4
+
+## See also
+
+- [Reasons & Causes](/JapaneseNotes/grammar-index/reasons-causes) — から／ので state one direct cause rather than a non-exhaustive list

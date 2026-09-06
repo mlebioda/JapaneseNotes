@@ -5,7 +5,7 @@ topic_slug: ["requests-commands"]
 function: ["prohibition"]
 level: N4
 register: tiered
-confused_with: ["vnaidekudasai-please-dont-do-it"]
+confused_with: ["vnaidekudasai-please-dont-do-it", "v-tewa-ikemasen-forbidden"]
 proofread: true
 ---
 
@@ -41,6 +41,7 @@ Register: tiered
 ## Often confused with
 
 - [Vないでください - please don't do it](/JapaneseNotes/grammar-index/grammar/vnaidekudasai-please-dont-do-it) — test: Is the request polite/asking (ください) or blunt/commanding (plain form + な)?
+- [V「て形」はいけません - is forbidden to do something](/JapaneseNotes/grammar-index/grammar/v-tewa-ikemasen-forbidden) — test: Is this the bluntest direct command form (辞書形＋な), or a moderate, still-somewhat-negotiable prohibition (てはいけません)?
 
 ## See also
 

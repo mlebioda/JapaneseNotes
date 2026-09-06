@@ -12,7 +12,12 @@
 - [past tense + たら - if](/JapaneseNotes/grammar-index/grammar/past-tense-tara-if) · N4
 - [interrogative V「た」ら + いいですか - ask for advice or instructions](/JapaneseNotes/grammar-index/grammar/interrogative-vtara-iidesuka-ask-for-advice-or-instructions) · N4
 
+- [Conditions](/JapaneseNotes/grammar-index/grammar/conditions) · N4
+
+- [V dict + と - if](/JapaneseNotes/grammar-index/grammar/v-dict-to-if) · N4
+
 ## See also
 
 - [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — the interrogative ば + いいですか conditional doubles as a request for advice
 - [Subordinate Clauses](/JapaneseNotes/grammar-index/subordinate-clauses) — たら subordinate clauses can carry their own が-marked subject
+- [Topic Marking](/JapaneseNotes/grammar-index/topic-marking) — なら also has a separate topic-picking "as for" use, distinct from this conditional use

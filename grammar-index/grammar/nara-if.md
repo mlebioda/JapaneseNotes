@@ -5,7 +5,7 @@ topic_slug: ["conditionals"]
 function: ["conditional"]
 level: N4
 register: neutral
-confused_with: ["joukenkei-ba-conditional-form", "baai-in-case-of-if", "v-ba-iidesuka", "past-tense-tara-if"]
+confused_with: ["joukenkei-ba-conditional-form", "baai-in-case-of-if", "v-ba-iidesuka", "past-tense-tara-if", "v-dict-to-if", "nnara-as-for"]
 proofread: true
 ---
 
@@ -68,6 +68,8 @@ Register: neutral
 - [。。。場合は, 。。。 - in case of, if](/JapaneseNotes/grammar-index/grammar/baai-in-case-of-if) — test: is this reacting to an already-mentioned plan or premise (なら) or framing a general contingency scenario (場合は)?
 - [Interrogative V conditional form + 　いいですか - ask for opinion or advice](/JapaneseNotes/grammar-index/grammar/v-ba-iidesuka) — test: is this an open interrogative "what should I do" advice question (ば/たら, なら doesn't fit) or a reaction to an already-assumed plan (なら)?
 - [past tense + たら - if](/JapaneseNotes/grammar-index/grammar/past-tense-tara-if) — test: Does the condition happen before the result (たら), or is the speaker reacting to something already mentioned/known (なら)?
+- [V dict + と - if](/JapaneseNotes/grammar-index/grammar/v-dict-to-if) — test: Is the speaker reacting to an already-stated/assumed plan with advice or suggestion (なら), or stating an automatic natural consequence (と)?
+- [Nなら - as for,  jesli o tym mowa](/JapaneseNotes/grammar-index/grammar/nnara-as-for) — test: Is なら here stating a hypothetical/conditional "if" (→ conditional なら), or picking up a topic just mentioned to comment on it (→ topic-marking Nなら)?
 
 ## See also
 

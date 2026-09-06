@@ -5,7 +5,7 @@ topic_slug: ["obligation-necessity"]
 function: ["obligation"]
 level: N4
 register: tiered
-confused_with: ["nakutemoiidesu-nakutemokamaimasen-doesnt-have-to", "hitsuyou-noun-use-ga-aru-nai", "hazudesu-should-do-ought-logically", "vnai-nakutemoiidesu-does-not-have-to"]
+confused_with: ["nakutemoiidesu-nakutemokamaimasen-doesnt-have-to", "hitsuyou-noun-use-ga-aru-nai", "hazudesu-should-do-ought-logically", "vnai-nakutemoiidesu-does-not-have-to", "v-nakute-ha-ikemasen-must"]
 proofread: true
 ---
 
@@ -47,6 +47,7 @@ Register: tiered (casual / standard)
 - [Used as noun - there is (not) need](/JapaneseNotes/grammar-index/grammar/hitsuyou-noun-use-ga-aru-nai) — test: Is this an objective/factual necessity independent of any rule (必要がある) or an obligation/rule imposed on the subject (なければならない)?
 - [。。。はずです - should do/ought (logically)](/JapaneseNotes/grammar-index/grammar/hazudesu-should-do-ought-logically) — test: Is this a rule/obligation the subject must follow (なければならない) or the speaker's confident logical expectation about a fact (はずです)?
 - [Vない なくてもいいです - does not have to](/JapaneseNotes/grammar-index/grammar/vnai-nakutemoiidesu-does-not-have-to) — test: Does the sentence use なくても (permission to skip — なくてもいい) or なくては (obligation — なくてはならない)?
+- [V「なくて」はいけません - must to do something](/JapaneseNotes/grammar-index/grammar/v-nakute-ha-ikemasen-must) — test: Is this a more formal, rule-like obligation (なければなりません／なくてはなりません), or a personal/subjective sense of obligation common in casual speech (なくてはいけません)?
 
 ## See also
 

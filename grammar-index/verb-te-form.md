@@ -14,9 +14,19 @@
 
 - [V「て」しまいます - Finish something completely/complete an action](/JapaneseNotes/grammar-index/grammar/vteshimaimasu-finish-something-completely-complete-an-action) · N4
 
+- [V「て形」＋おきます - V continues without any changes, leave](/JapaneseNotes/grammar-index/grammar/v-te-okimasu) · N4
+
+- [Vて いただけませんか - polite requests. Politer than てください](/JapaneseNotes/grammar-index/grammar/itadakemasenka-polite-request) · N4
+- [Vて形 + あげます・くれます・もらいます](/JapaneseNotes/grammar-index/grammar/vte-agemasu-kuremasu-moraimasu) · N4
+- [Aは + Bに + Vて形 + あげます - I do something for someone](/JapaneseNotes/grammar-index/grammar/vte-agemasu) · N4
+- [Vて形 + くれます - Someone does something to me](/JapaneseNotes/grammar-index/grammar/vte-kuremasu) · N4
+- [Vて形 + もらいます - somebody helped you with something that you asked to do](/JapaneseNotes/grammar-index/grammar/vte-moraimasu) · N4
+- [Vて形 + あります - explain conditions/situations of an object - current or continuous states](/JapaneseNotes/grammar-index/grammar/vte-arimasu-resultant-state) · N4
+
 ## See also
 
 - [Humble Expressions](/JapaneseNotes/grammar-index/humble-expressions) — kenjougo て-form progressive おります
 - [Respectful Expressions](/JapaneseNotes/grammar-index/respectful-expressions) — sonkeigo て-form progressive いらっしゃいます
 - [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — くださいませんか request pattern built on the て-form
 - [Action Timing](/JapaneseNotes/grammar-index/action-timing) — ているところです marks live-in-progress timing
+- [Giving & Receiving](/JapaneseNotes/grammar-index/giving-receiving) — the あげる／くれる／もらう family of て-form auxiliary constructions

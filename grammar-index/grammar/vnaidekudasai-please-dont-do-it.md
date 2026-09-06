@@ -5,7 +5,7 @@ topic_slug: ["requests-commands"]
 function: ["request", "prohibition"]
 level: N5
 register: polite
-confused_with: ["vdictna-dont-do"]
+confused_with: ["vdictna-dont-do", "v-tewa-ikemasen-forbidden"]
 proofread: true
 ---
 
@@ -36,6 +36,7 @@ Register: polite-context typical
 ## Often confused with
 
 - [V「dict」＋な - Don't do...](/JapaneseNotes/grammar-index/grammar/vdictna-dont-do) — test: Is the request polite/asking (ください) or blunt/commanding (plain form + な)?
+- [V「て形」はいけません - is forbidden to do something](/JapaneseNotes/grammar-index/grammar/v-tewa-ikemasen-forbidden) — test: Is this a polite request asking someone not to do something (Vないでください), or a blunter, rule-like prohibition (てはいけません)?
 
 ## See also
 

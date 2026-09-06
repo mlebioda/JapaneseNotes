@@ -34,3 +34,24 @@ One or more kanji-words are grouped together, followed by a parenthesised readin
 **Output:** `明日(あした)の仕事(しごと)`
 
 **Apply:** Silently. This is the standard Step 3 rule in preprocess-grammar and requires no user confirmation.
+
+---
+
+### Trailing furigana with ・ (nakaguro) separator
+
+**Format example:**
+
+- ASCII parens, ・-separated: `窓を開けておいてください。(まど・あ)`
+
+Same shape as the standard trailing-furigana pattern above, but readings are joined with ・
+instead of 、 or a comma. `furigana-convert.py` does not recognise this separator, so these
+lines are left unconverted (and produce no warning, since they're never detected as a
+reading-list line at all).
+
+**Decision:** Treat ・ as equivalent to 、/comma — convert to inline per-word format using
+ASCII parentheses, same as the standard pattern.
+
+**Output:** `窓(まど)を開(あ)けておいてください。`
+
+**Apply:** Silently once recorded here. Until `furigana-convert.py` is updated to recognise
+this separator, apply the conversion manually when encountered.

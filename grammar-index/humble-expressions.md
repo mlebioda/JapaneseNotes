@@ -20,3 +20,4 @@
 - [Respectful Expressions](/JapaneseNotes/grammar-index/respectful-expressions) — the opposite keigo direction: raising others instead of lowering yourself
 - [Polite Expressions](/JapaneseNotes/grammar-index/polite-expressions) — the neutral politeness layer stacked under humble forms
 - [Verb Te-Form](/JapaneseNotes/grammar-index/verb-te-form) — the humble progressive おります is built on the て-form
+- [Giving & Receiving](/JapaneseNotes/grammar-index/giving-receiving) — いただく is the kenjougo counterpart of もらう

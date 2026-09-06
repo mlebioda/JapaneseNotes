@@ -5,7 +5,7 @@ topic_slug: ["requests-commands", "verb-te-form", "respectful-expressions"]
 function: ["request"]
 level: N4
 register: polite
-confused_with: ["te-form-itadaku-kudasaru-favor-received", "o-go-v-masukudasai-respectful-request-form", "you-ni-shimasu", "would-you-please-let-me-do", "v-te-moraemasenka-v-te-kuremasenka"]
+confused_with: ["te-form-itadaku-kudasaru-favor-received", "o-go-v-masukudasai-respectful-request-form", "you-ni-shimasu", "would-you-please-let-me-do", "v-te-moraemasenka-v-te-kuremasenka", "itadakemasenka-polite-request"]
 proofread: true
 ---
 
@@ -35,6 +35,7 @@ More polite/indirect than くれませんか — appropriate toward superiors, c
 - [ようにします - working hard on / making an effort to](/JapaneseNotes/grammar-index/grammar/you-ni-shimasu) — test: A direct one-time polite request, or asking someone to keep an ongoing goal in mind?
 - [Would you please let me do...](/JapaneseNotes/grammar-index/grammar/would-you-please-let-me-do) — test: Asking the other person to do something for you (plain て形＋くださいませんか), or asking for permission to do something yourself (causative＋て形＋ください／もらえませんか／いただけませんか, "let me do X")?
 - [V「て」もらえませんか, V「て」くれませんか](/JapaneseNotes/grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka) — test: Is this the politer くださいませんか escalation for superiors/customers, or the neutral-polite もらえませんか／くれませんか used in everyday requests?
+- [Vて いただけませんか - polite requests. Politer than てください](/JapaneseNotes/grammar-index/grammar/itadakemasenka-polite-request) — test: Is this a respectful request elevating the listener (→ てくださいませんか), or a humble request lowering the speaker (→ ていただけませんか)?
 
 ## See also
 

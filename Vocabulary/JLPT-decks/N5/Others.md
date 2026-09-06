@@ -19,6 +19,7 @@ TARGET DECK: JLPT-decks::N5::Others
 #w どうもありがとうございます - thank you very much | The most polite standard way to thank someone.
 #w どうぞよろしくお願いします (どうぞよろしくおねがいします) - pleased to meet you | Said after a self-introduction to ask for the other person's good will going forward.
 #w はじめまして - nice to meet you | Said when meeting someone for the first time.
+#w 好きな時に (すきなときに) - whenever you like | An expression giving someone permission to do something at any time that suits them, often used when offering a drink or the use of a facility.
 
 # Summary
 
@@ -143,5 +144,13 @@ pleased to meet you | Said after a self-introduction to ask for the other person
 nice to meet you | Said when meeting someone for the first time. #card
 はじめまして
 <!--ID: 1786345378452-->
+
+
+whenever you like | An expression giving someone permission to do something at any time that suits them, often used when offering a drink or the use of a facility. #k #card
+好きな時に (すきなときに)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_時.html">時</a>
+<!--ID: 1788241376261-->
+
 
 

@@ -5,7 +5,7 @@ topic_slug: ["respectful-expressions", "humble-expressions", "verb-te-form"]
 function: ["giving-receiving"]
 level: N4
 register: tiered
-confused_with: ["kudasaimasenka-polite-request"]
+confused_with: ["kudasaimasenka-polite-request", "itadakemasenka-polite-request", "vte-kuremasu", "vte-moraimasu"]
 proofread: true
 ---
 
@@ -45,6 +45,9 @@ Both are formal/polite-context constructions, but pick opposite grammatical view
 
 ## Often confused with
 - [Vて形＋くださいませんか politer form of くれませんか - could you please (do smth for me)](/JapaneseNotes/grammar-index/grammar/kudasaimasenka-polite-request) — test: Describing a favor already received/given (→ Vて形＋いただく／くださる, statement), or asking someone to do something for you (→ Vて形＋くださいませんか, request)?
+- [Vて いただけませんか - polite requests. Politer than てください](/JapaneseNotes/grammar-index/grammar/itadakemasenka-polite-request) — test: Describing a favor already received/given (→ いただく／くださる statement), or asking someone to do something for you (→ ていただけませんか request)?
+- [Vて形 + くれます - Someone does something to me](/JapaneseNotes/grammar-index/grammar/vte-kuremasu) — test: Is this the sonkeigo くださる statement used for a superior, or the plain-register くれる statement?
+- [Vて形 + もらいます - somebody helped you with something that you asked to do](/JapaneseNotes/grammar-index/grammar/vte-moraimasu) — test: Is this the kenjougo いただく statement used for a superior, or the plain-register もらう statement?
 
 ## See also
 

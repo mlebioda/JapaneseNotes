@@ -185,6 +185,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL3-its-too-heavy-so-i-cant-carry-it
 # 文法
 
 ## 可能形（かのうけい）- potential form - can
+→ [[grammar-index/grammar/kanoukei-potential-form-can]]
 
 Register: neutral — works in both casual (話せる) and polite (話せます) forms.
 
@@ -209,9 +210,13 @@ Transforming verbs:
 		- 泳ぐ（およ）-> 泳げる
 	- つ -> てる
 		- 立つ -> 立てる
+	- す -> せる
+		- 話す -> 話せる
 	- いる、える verbs that are actually Group 1 (look ichidan, conjugate as godan):
 		- 入る -> 入れる
 		- 帰る -> 帰れる
+	- plain る -> れる (regular godan, not the いる/える look-alikes above):
+		- 乗る -> 乗れる
 - Group 2 (ichidan):
 	- る -> られる
 		- 食べる -> 食べられる
@@ -233,8 +238,14 @@ Transforming verbs:
 
 #w A: どうして、元気ないの。B: 昨日あまり眠れなかった（ねむ) - A: Why do you look so down? (not fine) B: I couldn't sleep well yesterday
 
+#w 彼は日本語を少し話せます（かれ、にほんご、すこ、はな) - He can speak a little Japanese
+
+#w 次の電車に乗れます（つぎ、でんしゃ、の) - I can catch the next train
+
 ## Conditions
+→ [[grammar-index/grammar/conditions]]
 ### V dict + と - if
+→ [[grammar-index/grammar/v-dict-to-if]]
 
 Register: neutral — works in both casual and polite speech.
 
@@ -254,6 +265,7 @@ Often confused with (see ば／たら／なら below): と = automatic/natural c
 
 
 ## ....します - a situation changed through a person's will (compare なる, a change due to nature/circumstance, not a person's will)
+→ [[grammar-index/grammar/narimasu-vs-shimasu-change-of-state]]
 
 - ...なります - change state because of nature
 	- 最近、あたたかくなりました(さいきん) - it became warm recently
@@ -265,7 +277,6 @@ Structure — the target of change is marked with を in every case below, wheth
 	- あたたかい→あたたかく
 - な-adj/N＋にします
 	- 部屋をきれいにしました。(へや) - I cleaned my room.
-	- 会議を3時にします。(かいぎ・じ) - I'll make the meeting 3 o'clock.
 
 Note: a separate section further down this file, "N＋に＋します - speaker says what he/she decided on," uses this same N+に+します surface form for a different function (choosing/deciding among options, not causing a change of state) — don't conflate the two.
 
@@ -278,9 +289,13 @@ Note: a separate section further down this file, "N＋に＋します - speaker 
 #w パンフレットを半分だけ**にして**、あとは箱に何か軽いものを入れてください。(はんぶん・はこ・なに・かる・い) - Please cut the pamphlets down to half, and put something light in the box for the rest / Zmniejsz (liczbę) broszur do połowy, a do pudełka dołóż coś lekkiego
 
 ## N＋に＋します - speaker says what he/she decided on
+→ [[grammar-index/grammar/n-ni-shimasu-decision]]
+
+Register: neutral — casual 何にする？ up to polite 何になさいますか (honorific) at the top tier.
 
 Structure:
 - N＋に＋します
+	- 会議を3時にします。(かいぎ・じ) - I'll make the meeting 3 o'clock.
 
 #w A: 彼女へのプレゼント、何**にする**？(かのじょ・なに) B: うーん、花かな。女の子はみんな花が好きでしょう。(はな・おんな・こ・はな・す) - A: "What are you going to get/decide on for her present?" B: "Hmm, flowers I guess. All girls like flowers, right?"
 
@@ -288,6 +303,7 @@ Structure:
 
 ---
 ## V「て形」＋おきます - V continues without any changes, leave
+→ [[grammar-index/grammar/v-te-okimasu]]
 
 Register: neutral baseline is ておきます; おいとく／しとく (dropping て before く) are casual, spoken-register contractions.
 
@@ -298,6 +314,8 @@ Structure:
 		- おいておく - often pronounced as おいとく (casual)
 		- しておく - often pronounced as しとく (casual)
 	- Do V in advance (preparation to achieve goal)
+
+Often confused with: てある — ておく is a deliberate action done *for* a future purpose, agent in focus (窓を開けておく - I'll leave the window open); てある describes the resulting state of someone's prior deliberate action, agent usually unstated (窓が開けてある - the window has been left open). No てある examples in this lesson, but keep them distinct when they come up.
 
 
 #w そのまま にして **おいて** ください - Please leave it as it is
@@ -316,6 +334,11 @@ Structure:
 
 
 ## V「て形」はいけません - is forbidden to do something
+→ [[grammar-index/grammar/v-tewa-ikemasen-forbidden]]
+
+Register: direct prohibition — natural on signs, from a parent to a child, or between close equals; can sound blunt/commanding toward a superior, where V-ないでください or ご遠慮ください is preferred instead.
+
+Often confused with: 禁止されています (formal/written, impersonal — used on official signs/notices, e.g. 撮影は禁止されています "photography is prohibited"; cites a rule rather than personally forbidding someone) and 〜ことになっています (describes an existing rule/arrangement rather than directly forbidding, e.g. ここでは靴を脱ぐことになっています "the rule here is to take off your shoes").
 
 Structure:
 - V「て形」はいけません - is forbidden to do something
@@ -328,21 +351,22 @@ Structure:
 
 ---
 ## V「なくて」はいけません - must to do something
+→ [[grammar-index/grammar/v-nakute-ha-ikemasen-must]]
 
-Comparsion
+Comparison
 - Vなければなりません
 	- more formal
-	- if i don't fo something... something not happen
-	- sounds like rule
-- Vなくてはいけません - because 
-	- more casual
+	- if I don't do something... something bad will happen
+	- sounds like a rule
+- Vなくてはいけません
+	- more casual/subjective — personal sense of obligation, common in spoken Japanese
 
 Structure:
 - V「なくて」はいけません/いけない - must to do something
 	- 海外に行く時は、パスポートを持たなくてはいけません。(かいがい・い・とき・も) - You must take your passport when you go abroad.
 - Casual way:
 	- V＋なくちゃい(けない )
-		- 会議が始まると休めないから、今からランチを食べなくちゃ(いけない) - If meetign begins, I don't have time, so I have to eat lunch not (casual have to)
+		- 会議が始まると休めないから、今からランチを食べなくちゃ(いけない) - Because I won't get a break once the meeting starts, I have to eat lunch now (casual have to).
 
 
 #w 海外に行く時は、パスポートを持たな**くてはいけません**。(かいがい・い・とき・も) - You must take your passport when you go abroad. (less formal have to)
@@ -351,14 +375,17 @@ Structure:
 
 ---
 ## ように - act on purpose or goal in mind, in order to, so that
+→ [[grammar-index/grammar/youni-in-order-to]]
+
+Register: neutral — works in both plain and polite speech.
 
 Structure:
-- V「stem」ように
+- V「dictionary form, often potential」ように
 - V「nai」ように
 	- Before ように - goal
-	- Often used with potential form 
+	- The affirmative side is almost always a non-volitional/potential verb (見えるように, なれるように); plain volitional verbs don't take affirmative ように naturally.
 
-#w 電車に間に合う**ように**、駅まで走って行きます(でんしゃ、ま、あ、えき、はし) - In order to cat the train, I will run to the station
+#w 電車に間に合う**ように**、駅まで走って行きます(でんしゃ、ま、あ、えき、はし) - In order to catch the train, I will run to the station
 #w ガラスが割れないように、新聞紙で包みます（わ、しんぶんし、つつ) - I will pack the glass with newspaper (in order to) so that it won't break
 
 #w 遅刻しない**ように**、一つ前の電車に乗りました。(ちこく・ひと・まえ・でんしゃ・の) - In order not to be late, I took the earlier train.
@@ -366,12 +393,11 @@ Structure:
 #w 試合に**勝て**る**ように**、みんな毎日練習を頑張っています。(しあい・か・まいにち・れんしゅう・がんば) - In order to win the game, everyone tries their best to practice every day.
 
 
-#TODO when potential form
-
 ---
 # Vocabulary
 
 ## が + 見える - be visible
+→ [[grammar-index/grammar/vocabulary/Verbs/ga-mieru-be-visible]]
 
 Structure:
 - が + 見える
@@ -387,6 +413,7 @@ Structure:
 
 #w 三番出口を出て、白い建物が見えます（三番でぐち、で、たてもの、み) - After you come out from exit no 3, you can see white building
 ## が + 聞こえる - is heard
+→ [[grammar-index/grammar/vocabulary/Verbs/ga-kikoeru-is-heard]]
 
 Structure:
 - が + 聞こえる 
@@ -1860,6 +1887,28 @@ I can hear music from the next room #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_楽.html">楽</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_聞.html">聞</a>
 <!--ID: 1778257577138-->
+
+
+
+
+He can speak a little Japanese #k #card
+彼(かれ)は日本語(にほんご)を少(すこ)し話(はな)せます
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_少.html">少</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
+
+
+
+
+I can catch the next train #k #card
+次(つぎ)の電車(でんしゃ)に乗(の)れます
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_次.html">次</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_乗.html">乗</a>
 
 
 

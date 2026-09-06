@@ -5,6 +5,7 @@ topic_slug: ["reason-listing"]
 function: ["cause-reason"]
 level: N4
 register: neutral
+confused_with: ["node-because"]
 proofread: true
 ---
 
@@ -58,6 +59,10 @@ Used to give two or more descriptions about one topic (description-list, charact
 
 Register: neutral
 し attaches to the plain form of each item; the sentence's final verb carries the politeness level (plain or です／ます), independent of し itself.
+
+## Often confused with
+
+- [。。。ので - because](/JapaneseNotes/grammar-index/grammar/node-because) — test: Is this a non-exhaustive list of multiple reasons/qualities (→ し...し), or one direct reason stated plainly (→ ので)?
 
 ## See also
 

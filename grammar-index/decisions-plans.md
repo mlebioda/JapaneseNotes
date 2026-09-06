@@ -10,6 +10,8 @@
 - [V「plain」つもりです - conviction of doing something planned by speaker](/JapaneseNotes/grammar-index/grammar/vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker) · N4
 - [V「plain」予定です（よてい）- plan, scheduled - fixed schedule regardless of the speaker intention](/JapaneseNotes/grammar-index/grammar/yotei-desu-plan-scheduled) · N4
 
+- [N＋に＋します - speaker says what he/she decided on](/JapaneseNotes/grammar-index/grammar/n-ni-shimasu-decision) · N4
+
 ## See also
 
 - [Effort & Intention](/JapaneseNotes/grammar-index/effort-intention) — ようにする is an ongoing effort, contrasted with ことにする's one-time firm decision

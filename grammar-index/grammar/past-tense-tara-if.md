@@ -5,7 +5,7 @@ topic_slug: ["conditionals"]
 function: ["conditional"]
 level: N4
 register: neutral
-confused_with: ["joukenkei-ba-conditional-form", "nara-if", "baai-in-case-of-if"]
+confused_with: ["joukenkei-ba-conditional-form", "nara-if", "baai-in-case-of-if", "v-dict-to-if"]
 proofread: true
 ---
 
@@ -51,6 +51,7 @@ Register: neutral
 - [条件形（じょうけんけい）- ば - conditional form](/JapaneseNotes/grammar-index/grammar/joukenkei-ba-conditional-form) — test: Is the result a one-time/specific outcome (たら), or a general rule/formula that always holds (ば)?
 - [。。。なら。。。- if](/JapaneseNotes/grammar-index/grammar/nara-if) — test: Does the condition happen before the result (たら), or is the speaker reacting to something already mentioned/known (なら)?
 - [。。。場合は, 。。。 - in case of, if](/JapaneseNotes/grammar-index/grammar/baai-in-case-of-if) — test: Is this an everyday conditional (たら), or a more formal reference to a hypothetical case/scenario (場合は)?
+- [V dict + と - if](/JapaneseNotes/grammar-index/grammar/v-dict-to-if) — test: Is the result a one-time possible outcome that can include a request/command (たら), or an automatic natural consequence that can never be volitional (と)?
 
 ## See also
 

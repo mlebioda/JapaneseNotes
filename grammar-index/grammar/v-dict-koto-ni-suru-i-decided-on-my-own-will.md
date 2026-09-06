@@ -5,7 +5,7 @@ topic_slug: ["decisions-plans"]
 function: ["intention"]
 level: N4
 register: neutral
-confused_with: ["you-ni-shimasu", "v-dict-koto-ni-narimasu-it-was-decided", "v-dict-koto-ni-natteimasu-it-is-supposed-to", "volitional-form-totteimasu-im-thinking-of", "vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker", "ta-kotogaarimasu-have-you-ever", "ttakotogaarimashita-i-once-did-recalling-a-single-past-experience"]
+confused_with: ["you-ni-shimasu", "v-dict-koto-ni-narimasu-it-was-decided", "v-dict-koto-ni-natteimasu-it-is-supposed-to", "volitional-form-totteimasu-im-thinking-of", "vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker", "ta-kotogaarimasu-have-you-ever", "ttakotogaarimashita-i-once-did-recalling-a-single-past-experience", "n-ni-shimasu-decision"]
 proofread: true
 ---
 
@@ -47,6 +47,7 @@ Used across casual and formal speech alike — politeness comes from the sentenc
 - [V「plain」つもりです - conviction of doing something planned by speaker](/JapaneseNotes/grammar-index/grammar/vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker) — test: Is this an ongoing personal resolution/plan (つもりです), or a firm, one-time decision the speaker has just made (ことにする)?
 - [た形 + ことがあります - have you ever](/JapaneseNotes/grammar-index/grammar/ta-kotogaarimasu-have-you-ever) — test: does this announce a one-time decision you made (辞書形＋ことにする), or report whether you've ever done something (た形＋ことがあります)?
 - [行ったことがありました - I once did ~ (recalling a single past experience)](/JapaneseNotes/grammar-index/grammar/ttakotogaarimashita-i-once-did-recalling-a-single-past-experience) — test: does this announce a decision the speaker made at that time (辞書形＋ことにする), or recall a specific past experience (た形＋ことがありました)?
+- [N＋に＋します - speaker says what he/she decided on](/JapaneseNotes/grammar-index/grammar/n-ni-shimasu-decision) — test: Is the decision about which verb/action to take (ことにする), or which noun/option to choose (にする)?
 
 ## See also
 

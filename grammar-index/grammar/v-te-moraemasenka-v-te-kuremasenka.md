@@ -5,7 +5,7 @@ topic_slug: ["requests-commands"]
 function: ["request"]
 level: N4
 register: tiered
-confused_with: ["kudasaimasenka-polite-request", "would-you-please-let-me-do", "masu-nasai-giving-instructions", "o-go-v-masukudasai-respectful-request-form"]
+confused_with: ["kudasaimasenka-polite-request", "would-you-please-let-me-do", "masu-nasai-giving-instructions", "o-go-v-masukudasai-respectful-request-form", "itadakemasenka-polite-request"]
 proofread: true
 ---
 
@@ -47,6 +47,7 @@ Register: tiered (casual → neutral-polite → formal)
 - [Would you please let me do...](/JapaneseNotes/grammar-index/grammar/would-you-please-let-me-do) — test: Are you asking someone else to do something for you, or asking for permission to do something yourself (causative-based)?
 - [ます形 なさい - giving instructions](/JapaneseNotes/grammar-index/grammar/masu-nasai-giving-instructions) — test: Is this a favor-asking request phrased as a question, or a firm instruction issued by someone in authority with no favor-asking framing at all?
 - [お/ご V「ます形」ください - Respectful request form (尊敬語)](/JapaneseNotes/grammar-index/grammar/o-go-v-masukudasai-respectful-request-form) — test: Is this a favor-asking question toward an equal or mild superior, or a direct respectful (尊敬語) request common in service/business contexts?
+- [Vて いただけませんか - polite requests. Politer than てください](/JapaneseNotes/grammar-index/grammar/itadakemasenka-polite-request) — test: Is this the neutral-polite もらえませんか／くれませんか used in everyday requests, or the extra-polite kenjougo escalation (ていただけませんか)?
 
 ## See also
 
