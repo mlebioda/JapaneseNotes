@@ -23,6 +23,11 @@
 - [Vて形 + もらいます - somebody helped you with something that you asked to do](/JapaneseNotes/grammar-index/grammar/vte-moraimasu) · N4
 - [Vて形 + あります - explain conditions/situations of an object - current or continuous states](/JapaneseNotes/grammar-index/grammar/vte-arimasu-resultant-state) · N4
 
+- [～てみる - to try](/JapaneseNotes/grammar-index/grammar/temiru-to-try) · N4
+- [～てくる, てきます - Action toward the speaker / returning to the starting point](/JapaneseNotes/grammar-index/grammar/tekuru-action-toward-speaker) · N4
+- [～ていく／～て行きます Action moves away from the speaker](/JapaneseNotes/grammar-index/grammar/teiku-action-away-from-speaker) · N4
+- [行ってきます - i go and i'll come back](/JapaneseNotes/grammar-index/grammar/ittekimasu-go-and-come-back) · N4
+
 ## See also
 
 - [Humble Expressions](/JapaneseNotes/grammar-index/humble-expressions) — kenjougo て-form progressive おります

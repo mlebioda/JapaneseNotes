@@ -208,30 +208,38 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL1-I-will-call-you-as-soon-as-seat-
 
 # 文法
 
-### Adjective to Adverb 
+### Adjective to Adverb
+→ [[grammar-index/grammar/adjective-to-adverb]]
+
+Structure
+- いadj: drop い, add く → はやい → はやく
+- なadj: add に → 真面目（まじめ）→ 真面目に、きれい → きれいに
+- Register: neutral, no restriction — used in casual and polite speech alike
 
 #w はやく　歩きます（ある）- I walk fast
 #w もうすぐ　試験ですから、真面目に勉強してください（しけん、まじめ）- The exam is coming soon, please study hard. (sumiennie)
-#w 晩御飯の後、私はお皿をきれいに洗いました（ばんほはん、あと、さら、あら）- I cleanly washed the plates after dinner, to clean
+#w 晩御飯の後、私はお皿をきれいに洗いました（ばんごはん、あと、さら、あら）- I cleanly washed the plates after dinner, to clean
 
 #wp 真面目（まじめ）- poważny, serious, sumienny
 
 #w すぐ - natychmiast, od razu, zaraz
 
 ## ～てみる - to try
+→ [[grammar-index/grammar/temiru-to-try]]
 Structure 
-- V「te form」－みる - To Try
+- V「te form」＋みる - To Try
 	- Examples:
 		- いい温泉を探してみます（おんせん、さが）- I will try to look for a good onsen
 		- これは私がつくったケーキです。食べてみてください - This is the cake I made. Please try it
 - V 「て形」みたい - want to try
 	- お弁当を作ってみたいですね(おべんと、つく) - I want to try to make a boxed lunch (obento)
+- Register: neutral — works casual to polite; てみてください is the polite request form
+- Confusable: ～ようとする (to attempt/make an effort to do — regardless of outcome) vs ～てみる (to try doing something to see the result)
 
 
 #w  いい温泉を探してみます（おんせん、さが）- I will try to look for a good onsen
 #w  これは私がつくったケーキです。食べてみてください - This is the cake I made. Please try it
-#w 駅前に新しいデパートができました。いっしょうに行ってみませんか？（えきまえ、あたら) - A new department store was built around the station. Why don't we try going there?
-#w 駅前に新しいデパートができました。いっしょうに行ってみませんか？（えきまえ、あたら) - A new department store was built around the station. Why don't we try going there?
+#w 駅前に新しいデパートができました。いっしょに行ってみませんか？（えきまえ、あたら) - A new department store was built around the station. Why don't we try going there?
 #w Vてみたいです - I want to try to do
 #w  私は着物を着てみたいです（き）- I want to try on a kimono
 #w 京都に行ったことがありません。京都に行ってみたいですね - I haven't been to Kyoto. I want to try and go to kyoto
@@ -239,6 +247,7 @@ Structure
 
 ---
 ## ～てくる, てきます - Action toward the speaker / returning to the starting point
+→ [[grammar-index/grammar/tekuru-action-toward-speaker]]
 
 Structure
 - **Vて + くる／きます**
@@ -247,9 +256,12 @@ Structure
 		1. - コンビニでお弁当を**買ってきます**（おべんとう）- I'll go to the convenience store to buy a bento (and come back here)
 	2. Someone did something and brought it/appeared to me
 		1. 友達がケーキを**持ってきた** - A friend brought cake (to me).
+	3. Motion directed toward the speaker (come here/come in)
+		1. 家に入って**きて**ください（はい）- please come inside the house (speaker won't move - indicates towards speaker direction)
 2. Change that 'comes' into the present
 	1. A process that has reached now
-		1. 家に入って**きて**ください（はい）- please come inside the house (speaker won't move - indicates towads speaker direction)
+		1. 雨が**降ってきました**（ふ）- It started to rain (and it's rainig now)
+- Register: neutral, all registers
 
 
 #w コンビニでお弁当を**買ってきます**（おべんとう）- I'll go to the convenience store to buy a bento (and come back here)
@@ -257,6 +269,7 @@ Structure
 #w 雨が**降ってきました**（ふ）- It started to rain (and it's rainig now)
 
 ## ～ていく／～て行きます Action moves away from the speaker
+→ [[grammar-index/grammar/teiku-action-away-from-speaker]]
 #### Meaning
 1. **Action moves away from the speaker**
     - I take something and go further away
@@ -264,6 +277,7 @@ Structure
     - A process that will keep going.
 #### Structure
 - **Vて + いく／行きます**
+- Register: neutral, all registers
 #### Examples
 - お弁当を**買って行きます** - I’ll buy a bento and go (I won’t come back here).
 - これからもっと**寒くなって行きます** (さむ) - It will keep getting colder from now on.
@@ -271,6 +285,7 @@ Structure
 ---
 
 ## 行ってきます - i go and i'll come back
+→ [[grammar-index/grammar/ittekimasu-go-and-come-back]]
 
 Meaning
 - “I’m going and will come back” → used when leaving home/office with the intention of returning.
@@ -280,6 +295,7 @@ Structure
 - B + へ／に + 行ってきます
 	- 銀行へ行ってきます(ぎんこ）- I’m going to the bank (and will come back).
 	- 図書館に行ってきます （としょかん） - I’m going to the library (and will come back).
+- Register: casual/neutral. Humble (謙譲語) counterpart: 行って参ります — used when leaving work in front of a superior or client.
 
 #w 銀行へ**行ってきます**(ぎんこ）- I’m going to the bank (and will come back).
 #w 図書館に**行ってきます** （としょかん） - I’m going to the library (and will come back).
@@ -305,6 +321,7 @@ Structure
 
 
 ## そうです/そうだ - express an impression or inference based on direct observation - it looks
+→ [[grammar-index/grammar/sou-desu-appearance-inference]]
 #### Structure:
 - **V  (ます＝そう）です**
 	- ふる -> ふりそう
@@ -327,9 +344,15 @@ Structure
 - 会議の資料、明日できますか - Czy skończysz jutro materiały? (bezpośrednie pytanie, oczekiwane „tak”/„nie”).
 - CAN'T BE USED WITH NOUN
 
-**Uwaga:** nie używa się z rzeczownikami ani z przymiotnikami opisującymi cechy obiektywne (np. 大きい、長い、広い itp.)
+**Note:** そう (様態) expresses a tentative guess based on appearance — this is NOT a lexical restriction on specific adjectives. 大きい、長い、広い combine with そう normally (大きそう、長そう、広そう). The real point is that そう isn't used when the fact is already obvious/certain to the speaker — in that case use a plain statement (大きいです) or みたい instead.
 
-- あの犬は大きいです -  „Wygląda, że tamten pies jest duży.” - NIE MOŻNA POWIEDZIEĆ, ŻE WYGLĄDA NA DUŻEGO、大きい TO STAN FAKTYCZNY
+- あの犬は大きそうです - "That dog looks big." (a guess based on appearance, e.g. seen from a distance)
+- あの犬は大きいです - "That dog is big." (a plain statement of fact, no guessing)
+
+- Confusable ("looks like / apparently" forms):
+	- 伝聞そうだ (hearsay, "I heard that...") - same そうだ form, but different grammar (attaches to the full plain form, not the stem) and different meaning (secondhand information, not appearance)
+	- みたい／よう ("seems, looks like") - similar meaning, but based on any kind of evidence, not just visual; N + の／Vplain + みたい
+	- らしい ("apparently, I hear/it seems") - a conclusion based on outside information/hearsay, not direct observation
 
 #w 雨が降りそうですね（あめ、ふ）- it looks like it is going to rain
 
@@ -338,56 +361,60 @@ Structure
 ---
 
 ## **んです**/のです - express the situation to provide a reason, explaining something
-- **んです - spoken language** 
-	- V plain + んです
-	- いadj + **んです**
-	- なadj **+ な + んです**
-	- N + **な + んです**
-		- バスが遅（おく）れた**んです**から、遅（おく）れました。- Spóźniłem się, ponieważ autobus się spóźnił. (wyjaśnienie przyczyny)
-		- バスが遅（おく）れたから、遅（おく）れました。- Spóźniłem się, bo autobus się spóźnił. (zwykłe stwierdzenie faktu)
-- **んです**
-	-  wprowadzania tematu 
-	- uprzejmego rozpoczęcia pytania,
-	- zaznaczenia kontekstu (oczekiwane, że słuchacz zrozumie resztę).
-	- - 今日（きょう）、どうして学校（がっこう）に来（こ）なかった**んですか**。- Dlaczego dzisiaj nie przyszedłeś do szkoły? (dopytywanie, chęć wyjaśnienia)
-	- 今日（きょう）、どうして学校（がっこう）に来（こ）なかったか。- Dlaczego dzisiaj nie przyszedłeś do szkoły? (suche pytanie, brak nacisku na wyjaśnienie)
-- **のです - writte languate**
-- Structure - **Wyjaśnienie przyczyny, podkreślenie faktu, udzielenie info z własnej inicjatyw**
-	- Vplain **んです**
-	- いadj  **んです**
-	- なadj  **な んです**
-	- **N**　　**なんです**
-	- Question
-		- **んですか**
-	-  Examples:
-		- どうして会社に遅れたんですか（おく）- Why were you late for work? (info)
-		- 電車が遅れたんです(おく) - Train was late (info)
-- Structure - が   **rozszerzona wersja, introducing, topic, question**
-	- **うんですが** 
-	- Examples:
-		- すみません。秋葉原駅に行きたいん**ですが**、どうやって行きますか（あきはばらえき) - Excuse me. I want go to Akihabara station, how can I get here?
-		- ちょっと、聞きたいんですが、あんどうさんは　どちらにいます（き）- Excuse, may i ask you where is Miss Ando?
-		- 部屋がくらいですが。。。（へや）- The room is so dark.  (introducing topic) so please turn on the light can be ommited. んですが makes it obvius
+→ [[grammar-index/grammar/ndesu-nodesu-explaining-reason]]
 
-	- すみません。渋谷駅（しぶやえき）に行きたいん**ですが**、どう行（い）きますか。- Przepraszam, chciałbym zapytać o drogę do stacji Shibuya. (uprzejmie, miękko, introd)
-	- すみません。渋谷駅（しぶやえき）に行きたいです。どう行（い）きますか。- Przepraszam, chcę iść na stację Shibuya. Jak tam dojść? (bardziej bezpośrednio)
+Use cases (apply to both んです and のです — see Register below)
+- Explaining a reason for something
+- Introducing a topic before asking about it
+- Softening the opening of a question
+- Marking shared context (the speaker expects the listener to infer the rest)
 
-- Use Cases
-	- Explaining reasons and conditions
+Structure
+- V plain + んです／のです
+- いadj + んです／のです
+- なadj + な + んです／のです
+- N + な + んです／のです
+- Question: んですか／のですか
+- Extended/softening version: んですが／のですが
+
+Register
+- んです — spoken language (casual to polite speech)
+- のです — written / formal-spoken language. Same grammar and same use cases as んです, just swapped in for a more formal register.
+
+Examples — explaining a reason
+- バスが遅（おく）れた**んです**から、遅（おく）れました。- I was late because the bus was late. (explicit reason, spoken)
+- バスが遅（おく）れたから、遅（おく）れました。- I was late because the bus was late. (plain statement of fact, no んですから framing)
+- どうして会社に遅れたんですか（おく）- Why were you late for work? (spoken)
+- 電車が遅れたんです(おく) - The train was late (spoken)
+- どうして会社に遅れたのですか（おく）- Why were you late for work? (written/formal register)
+- 電車が遅れたのです(おく) - The train was late (written/formal register)
+
+Examples — introducing a topic / softening a question
+- 今日（きょう）、どうして学校（がっこう）に来（こ）なかった**んですか**。- Why didn't you come to school today? (probing, wants an explanation)
+- 今日（きょう）、どうして学校（がっこう）に来（こ）なかったか。- Why didn't you come to school today? (bare plain-form か, no です／だ — blunt/masculine speech, not neutral; the neutral polite version would be 来なかったのですか)
+- すみません。秋葉原駅に行きたいん**ですが**、どうやって行きますか（あきはばらえき) - Excuse me, I want to go to Akihabara station, how do I get there? (softly introducing the topic before asking)
+- ちょっと、聞きたいんですが、あんどうさんは　どちらにいます（き）- Excuse me, may I ask where Miss Ando is?
+- 部屋がくらいんですが。。。（へや）- The room is dark... (the request "please turn on the light" is left unsaid — んですが makes it obvious)
+- すみません。渋谷駅（しぶやえき）に行きたいん**ですが**、どう行（い）きますか。- Excuse me, I'd like to ask the way to Shibuya station. (polite, soft, topic-introducing)
+- すみません。渋谷駅（しぶやえき）に行きたいです。どう行（い）きますか。- Excuse me, I want to go to Shibuya station. How do I get there? (more direct, no softening)
 
 ### かどうか - whether or not
+→ [[grammar-index/grammar/kadouka-whether-or-not]]
 - Use cases
-	- Use when you are not sure about is
+	- Use when you are not sure whether something is the case
 	- usually used with 
 		- 知る
 		- わかる
 		- 言う
+		- 教える
 - Structure
 	- ... かどうか...
 	- V plain form かどうか
 	-  いadj かどうか
 	-  なadj かどうか
 	-  N かどうか
+- Register: neutral, no restriction — used across all speech levels
+- Confusable: か alone (AかBか — a direct choice between alternatives) vs かどうか (embedded yes/no uncertainty, "whether or not")
 - Examples
 	- この料理がおいしいかどうかわかりません - I don't know whether this dish is delicious or not
 	- 彼が学生かどうか知りません - I don't know whether or not he is a student
@@ -405,17 +432,20 @@ Structure
 
 ---
 ## ～方（かた） - a way of doing
+→ [[grammar-index/grammar/kata-a-way-of-doing]]
 - V(ます) + 方
 	- 作る -> 作り -> 作り方（つくりかた）
-	- 柄う -> 使い -> 使い方（つかいかた）
-	- 食べる -> 食べ -> 食べ方（たべかかた）
+	- 使う -> 使い -> 使い方（つかいかた）
+	- 食べる -> 食べ -> 食べ方（たべかた）
 - **このゲームのやり方をおしぇて下さい - please teach me how to play this game**
 - インターネットでケーキ**の**作り方を調べました（しら）- I searched how to bake cake on the internet
+- Confusable: 方 also reads ほう (direction/side, e.g. こちらの方) and is separately the polite word for "person" (あの方 - that person) — don't confuse either with this ～方（かた） "way of doing" suffix
 
 #w **このゲームのやり方をおしぇて下さい - please teach me how to play this game**
 #w インターネットでケーキ**の**作り方を調べました（しら）- I searched how to bake cake on the internet
 
 ### すぎます・すぎる - too -
+→ [[grammar-index/grammar/sugimasu-sugiru-too]]
 - Use cases:
 	- something goes over a limit and ends up producing bad result
 	- implies bad result
@@ -431,19 +461,16 @@ Structure
 ---
 
 ### を 過ぎる（す）- to pass somewhere and further go ahead/ time
+→ [[grammar-index/grammar/wo-sugiru-to-pass-time]]
 - Place/TIME + **を** + **過ぎる** 
 	- 京都**を過ぎる**（す）- to pass Kyouto (minąć)
 	- 6時**を過ぎる**（す）- It's past 6 o'clock
 - **が 過ぎる（す）- Time elapsing
 	- TIME + **が + 過ぎる**
 	- 時間がはやく過ぎる（す）- time goes fast
-- **stem/adj + 過ぎる（す）** - go over a limit
-	- **食べ過ぎる** - eat too much
-- いadj /い + 過ぎる
-	- **あつ過ぎる** - too hot
-	
-- 過ぎる zawsze wskazuje **przekroczenie jakiejś granicy** (miejsce, czas, ilość, intensywność).
-- W mowie potocznej czasem skraca się: 「食べすぎちゃった」= „zjadłem za dużo”.
+
+- 過ぎる always indicates crossing some kind of boundary (place, time, quantity, intensity).
+- In casual speech it's sometimes shortened: 「食べすぎちゃった」= "I ate too much."
 
 #wc 過ぎる（すぎる）- to pass, too(much)
 
@@ -452,13 +479,14 @@ Structure
 
 #w 時間がはやく過ぎる（す）- time goes too fast
 
-#w **食べ過ぎる** - eat too much
-#w **あつ過ぎる** - too hot
-
 ## Counters
+→ [[grammar-index/grammar/counters]]
 ### 皿（さら) - dishes
+→ [[grammar-index/grammar/sara-dishes]]
 Structure
 - X枚のお皿
+- 枚（まい）is the general counter for flat/thin objects (plates, paper, shirts, etc.), not just dishes
+- 枚's count sequence is fully regular (いちまい、にまい、さんまい、よんまい、ごまい...) — no irregular readings, unlike つ or 本
 
  (お)皿（さら）まい - dish, plate + counter
 #w １枚のお皿（いちまい、さら）- 1 plate
@@ -468,6 +496,7 @@ Structure
 # Vocabulary
 
 ## こんな, そんな, あんな
+→ [[grammar-index/grammar/konna-sonna-anna]]
 
 
 #w こんな - like this/ so
@@ -475,24 +504,28 @@ Structure
 #w あんな - like that / so
 
 ### like this, this kind of - こんな, そんな, あんな
+→ [[grammar-index/grammar/vocabulary/Nouns/konna-sonna-anna-demonstrative]]
 
-Structure
-- **こんな + N** – near the speaker, “this kind of … (close to me)”  
-    **Example:** こんな人（ひと）になりたいです - I want to become a person like this.  
-    **Note:** When こんな modifies a **noun**, do **not** use に.
-    
-- **そんな + N** – near the listener, “that kind of … (close to you)”  
-    Example: そんな人（ひと）はいません. There is no such kind of person.  
-    **Note:** When modifying a **verb/adjective**, use **に**.  
-    
-- **あんな + N** – far from both speaker and listener, “that kind of … (over there / like that)”  
-    Example: あんな車（くるま）に乗（の）ってみたいです。- I want to try riding a car like that.  
-    **Note:** When modifying a **verb/adjective**, use **に**.  
+Structure (same rule for all three)
+- こんな／そんな／あんな + N — no に before a noun
+- こんな／そんな／あんな + に + V／adj — に is required when modifying a verb or adjective (see the SO section below)
+
+- **こんな + N** – near the speaker, "this kind of … (close to me)"
+    Example: こんな人（ひと）になりたいです - I want to become a person like this.
+
+- **そんな + N** – near the listener, "that kind of … (close to you)" — also very commonly used anaphorically, referring back to something just said rather than a physically nearby object, e.g. そんなことないです ("that's not true") as a modest, deflecting reply to a compliment
+    Example: そんな人（ひと）はいません. There is no such kind of person.
+
+- **あんな + N** – far from both speaker and listener, "that kind of … (over there / like that)"
+    Example: あんな車（くるま）に乗（の）ってみたいです。- I want to try riding a car like that.
+
+Confusable: part of the broader こそあど demonstrative series (これ／それ／あれ、この／その／あの、こう／そう／ああ、こんな／そんな／あんな) — the same near-speaker / near-listener / far-from-both distinction runs through all four rows.
 
 #w こんな人になりたいです（ひと）- I want to become like this person
 #w そんな人はいません - There is no such kind of person
 #w あんな車に乗ってみたい（の）- I want to ride that kind of car
 ### SO　( degree of smthing) , adverb そんな/こんな/あんな + に
+→ [[grammar-index/grammar/vocabulary/Adverbs/sonna-konna-anna-degree-adverb]]
 - こんなに
 	- 桜は**こんなに**きれいだと思いませんでした（さくら）- I didn't think cherry blossoms were **so** beautiful
 - そんなに
@@ -511,32 +544,42 @@ Structure
 
 
 ## Verbs
+→ [[grammar-index/grammar/dekiru-verbs]]
 
-### 出来る（できる) - can, to be build/completed
+### 出来る（できる) - can, to be built/completed
+→ [[grammar-index/grammar/vocabulary/Verbs/dekiru-can-to-be-built-completed]]
 #wc 出来る（でき）- to be built, completed, to be able to 
 - **Noun + が + 出来る（できる） - can**
 	- 車の運転ができます。- I can drive a car.
-- Noun + が + 出来る（できる） - something new is build or completed
+- Noun + が + 出来る（できる） - something new is built, completed, or comes into existence
 	- 新しい本屋が出来ました（ほんや）- a new book store was built(opened)
-	- 新し店が出来ました（みせ）- a new shop was built/opened
+	- 新しい店が出来ました（みせ）- a new shop was built/opened
 	- ケーキが出来ました - i finished making cake
 	- 料理が出来ました（りょうり） - I finished cooking
-- Jeśli przed 出来る stoi **umiejętność / język / czynność** → znaczenie „can”.
-- Jeśli przed 出来る stoi **rzecz materialna / produkt / budynek** → znaczenie „built / finished”.
+	- 友達ができました（ともだち）- I made a friend (a relationship "comes into being," not a physical object)
+- If what precedes 出来る is a skill / language / action → meaning "can."
+- If what precedes 出来る is a physical thing / product / building (or something abstract like a friendship or free time) → meaning "is built / finished / came about."
+- Confusable — three ways to say "can" in Japanese, don't mix them up:
+	- Vることができる (nominalize the verb with こと, then ができる) — e.g. 参加することができますか
+	- potential form (可能形) of the verb itself — e.g. 食べられる (can eat), 飲める (can drink)
+	- Noun + ができる — e.g. 運転ができます (can drive), used with a skill/noun rather than a verb directly
 
 Can:
 #w 車の運転ができます。- I can drive a car.
 
-Built or completed:
-#w 新し店が出来ました（みせ）- a new shop was built/opened
+Built, completed, or came into existence:
+#w 新しい店が出来ました（みせ）- a new shop was built/opened
 #w ケーキが出来ました - i finished making cake
 #w 料理が出来ました（りょうり） - I finished cooking
+#w 友達ができました（ともだち）- I made a friend
 
 ## 濡れる （ぬ） - to get wet
+→ [[grammar-index/grammar/vocabulary/Verbs/nureru-to-get-wet]]
 
 Structure:
 - Xに濡れる
 	- 水に濡れる -  to get wet from the water
+- Xで濡れる is also used to mark the cause — に is the more standard/direct form (水に濡れる); で shows up too, especially with less direct or more abstract causes (汗で、雨で in some sentences, e.g. 道が雨でぬれています below)
 
 #w 水に濡れる -  to get wet from the water
 
@@ -544,14 +587,14 @@ Structure:
 #w 雨に濡れる（あめ,ぬ）- to get wet from the rain
 #w 水に濡れる (ぬ）-  to get wet from the water
 
-#w 雨にぬれたくないです - I don’t want to get wet in the rain  
+#w 雨にぬれたくないです - I don't want to get wet in the rain  
 #w 子供はプールの水にぬれました - The child got wet in the pool water  
 #w 汗で私のシャツがぬれました - My shirt got wet from sweat  
 #w 犬が水たまりでぬれました - The dog got wet in the puddle  
 #w 道が雨でぬれています - The road is wet from the rain
 
-
 ### 取る（とる）- to carry/hold/take/pass
+→ [[grammar-index/grammar/vocabulary/Verbs/toru-to-carry-hold-take-pass]]
 - ...を＋取る
 	- 本を取る（とる）- to take a book
 	- 辞書を取る（じしょう、と）- to carry a dictionary
@@ -1276,6 +1319,20 @@ Train was late (provide a reason) #k #card
 <!--ID: 1776268643669-->
 
 
+Why were you late for work? (formal/written register) #k #card
+どうして会社(かいしゃ)に遅(おく)れたのですか
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遅.html">遅</a>
+
+
+The train was late (formal/written register) #k #card
+電車(でんしゃ)が遅(おく)れたのです
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遅.html">遅</a>
+
+
 Why didn't you come to school yesterday? #k #card
 どうして昨日(きのう)学校(がっこう)に来(こ)なかったんですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
@@ -1478,7 +1535,7 @@ I want to try on a kimono #k #card
 
 
 I haven't been to Kyoto. I want to try and go to Kyoto #k #card
-京都(きょうと)に行っ(い)たことがありません。京都(きょうと)に行っ(い)てみたいですね
+京都(きょうと)に行(い)ったことがありません。京都(きょうと)に行(い)ってみたいですね
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_京.html">京</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_都.html">都</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -1502,7 +1559,7 @@ I'll go to the convenience store to buy a bento (and come back here) #k #card
 
 
 A friend brought cake (to me) #k #card
-友達(ともだち)がケーキを持っ(も)てきた
+友達(ともだち)がケーキを持(も)ってきた
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
@@ -1510,21 +1567,21 @@ A friend brought cake (to me) #k #card
 
 
 It started to rain (and it's raining now) #k #card
-雨(あめ)が降っ(ふ)てきました
+雨(あめ)が降(ふ)ってきました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
 <!--ID: 1776268643699-->
 
 
 I'm going to the bank (and will come back) #k #card
-銀行(ぎんこう)へ行っ(い)てきます
+銀行(ぎんこう)へ行(い)ってきます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_銀.html">銀</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1776268643700-->
 
 
 I'm going to the library (and will come back) #k #card
-図書館(としょかん)に行っ(い)てきます
+図書館(としょかん)に行(い)ってきます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_図.html">図</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
@@ -1533,7 +1590,7 @@ I'm going to the library (and will come back) #k #card
 
 
 I'll buy a bento and go (I won't come back here) #k #card
-お弁当(べんとう)を買っ(か)て行き(い)ます
+お弁当(べんとう)を買(か)って行(い)きます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弁.html">弁</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
@@ -1542,14 +1599,14 @@ I'll buy a bento and go (I won't come back here) #k #card
 
 
 It will keep getting colder from now on #k #card
-これからもっと寒(さむ)くなって行き(い)ます
+これからもっと寒(さむ)くなって行(い)きます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寒.html">寒</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1776268643703-->
 
 
 I forgot my wallet in my room. I will go get it now #k #card
-部屋(へや)にさいふを忘(わす)れました。今(いま)から取っ(と)てきます
+部屋(へや)にさいふを忘(わす)れました。今(いま)から取(と)ってきます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_忘.html">忘</a>
@@ -1559,14 +1616,14 @@ I forgot my wallet in my room. I will go get it now #k #card
 
 
 please come inside the house (toward speaker) #k #card
-家(いえ)に入っ(はい)てきてください
+家(いえ)に入(はい)ってきてください
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_入.html">入</a>
 <!--ID: 1776268643705-->
 
 
 I borrowed a car from Mr. Takahashi (came back with it) #k #card
-高橋(たかはし)さんから車(くるま)を借り(か)てきました
+高橋(たかはし)さんから車(くるま)を借(か)りてきました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_橋.html">橋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
@@ -1575,7 +1632,7 @@ I borrowed a car from Mr. Takahashi (came back with it) #k #card
 
 
 I will go and buy juice from the convenience store #k #card
-コンビニでジュースを買っ(か)てきます
+コンビニでジュースを買(か)ってきます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
 <!--ID: 1776268643707-->
 
@@ -1816,6 +1873,12 @@ I finished cooking #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
 <!--ID: 1776268643739-->
+
+
+I made a friend #k #card
+友達(ともだち)ができました
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
 
 
 to get wet from the water #k #card

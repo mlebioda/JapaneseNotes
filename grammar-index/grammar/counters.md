@@ -13,6 +13,7 @@ proofread: true
 ## Sub-topics
 
 - [畳(じょう) - counter for tatami-mat room size](/JapaneseNotes/grammar-index/grammar/jou-tatami-counter) · N4
+- [皿（さら) - dishes](/JapaneseNotes/grammar-index/grammar/sara-dishes) · N4
 
 ## See also
 

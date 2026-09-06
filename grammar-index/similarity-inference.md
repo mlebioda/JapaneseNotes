@@ -8,6 +8,8 @@
 - [...ようです](/JapaneseNotes/grammar-index/grammar/you-desu) · N4
 - [。。。はずです - should do/ought (logically)](/JapaneseNotes/grammar-index/grammar/hazudesu-should-do-ought-logically) · N4
 
+- [そうです/そうだ - express an impression or inference based on direct observation - it looks](/JapaneseNotes/grammar-index/grammar/sou-desu-appearance-inference) · N4
+
 ## See also
 
 - [Sensory Perception](/JapaneseNotes/grammar-index/sensory-perception) — direct sensory perception (がする) contrasts with indirect, appearance-based inference (ようだ／みたい)

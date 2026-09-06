@@ -2142,7 +2142,7 @@
       "next_review": "2026-09-16"
     },
     "UN4GL1::adjective-to-adverb": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/adjective-to-adverb.md",
       "grammar_header": "Adjective to Adverb",
       "last_reviewed": "2026-08-05",
       "next_review": "2026-09-29",
@@ -2157,7 +2157,7 @@
       "score": 4
     },
     "UN4GL1::temiru-to-try": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/temiru-to-try.md",
       "grammar_header": "～てみる - to try",
       "last_reviewed": "2026-09-06",
       "next_review": "2027-03-21",
@@ -2172,7 +2172,7 @@
       "score": 4
     },
     "UN4GL1::tekuru-tekimasu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/tekuru-action-toward-speaker.md",
       "grammar_header": "～てくる, てきます",
       "last_reviewed": "2026-08-09",
       "next_review": "2026-11-05",
@@ -2187,7 +2187,7 @@
       "score": 4
     },
     "UN4GL1::teiku-te-ikimasu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/teiku-action-away-from-speaker.md",
       "grammar_header": "～ていく／～て行きます",
       "last_reviewed": "2026-08-05",
       "next_review": "2026-09-07",
@@ -2204,7 +2204,7 @@
       "score": 3
     },
     "UN4GL1::ittekimasu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/ittekimasu-go-and-come-back.md",
       "grammar_header": "行ってきます - i go and i'll come back",
       "last_reviewed": "2026-08-14",
       "next_review": "2026-12-02",
@@ -2219,7 +2219,7 @@
       "score": 4
     },
     "UN4GL1::soudesu-souda": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/sou-desu-appearance-inference.md",
       "grammar_header": "そうです/そうだ",
       "last_reviewed": "2026-08-10",
       "interval_days": 55,
@@ -2234,7 +2234,7 @@
       "next_review": "2026-10-04"
     },
     "UN4GL1::ndesu-nodesu": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/ndesu-nodesu-explaining-reason.md",
       "grammar_header": "んです/のです",
       "last_reviewed": "2026-08-06",
       "interval_days": 43,
@@ -2250,7 +2250,7 @@
       "next_review": "2026-09-18"
     },
     "UN4GL1::kadouka": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/kadouka-whether-or-not.md",
       "grammar_header": "かどうか",
       "last_reviewed": "2026-08-17",
       "interval_days": 114,
@@ -2266,7 +2266,7 @@
       "next_review": "2026-12-09"
     },
     "UN4GL1::kata": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/kata-a-way-of-doing.md",
       "grammar_header": "～方（かた）",
       "last_reviewed": "2026-08-10",
       "interval_days": 48,
@@ -2285,7 +2285,7 @@
       "next_review": "2026-09-27"
     },
     "UN4GL1::sugimasu-sugiru": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/sugimasu-sugiru-too.md",
       "grammar_header": "すぎます・すぎる",
       "last_reviewed": "2026-08-17",
       "interval_days": 114,
@@ -2300,7 +2300,7 @@
       "next_review": "2026-12-09"
     },
     "UN4GL1::wo-sugiru": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/wo-sugiru-to-pass-time.md",
       "grammar_header": "を過ぎる（すぎる）",
       "last_reviewed": "2026-09-06",
       "interval_days": 13,
@@ -2319,7 +2319,7 @@
       "next_review": "2026-10-05"
     },
     "UN4GL1::sara-counter": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/sara-dishes.md",
       "grammar_header": "皿（さら）counter",
       "last_reviewed": "2026-09-04",
       "interval_days": 34,
@@ -2336,24 +2336,8 @@
       "score": 2,
       "next_review": "2026-10-08"
     },
-    "UN4GL1::konna-sonna-anna": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
-      "grammar_header": "こんな, そんな, あんな",
-      "last_reviewed": "2026-07-15",
-      "interval_days": 39,
-      "ease": 2.65,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
-      "weak_points": [
-        "そんな used instead of こんな (near self vs near listener)",
-        "missing だ before と after な-adj"
-      ],
-      "score": 4,
-      "next_review": "2026-09-20"
-    },
     "UN4GL1::dekiru": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/dekiru-can-to-be-built-completed.md",
       "grammar_header": "出来る（できる）",
       "last_reviewed": "2026-09-04",
       "interval_days": 33,
@@ -2372,7 +2356,7 @@
       "next_review": "2026-10-07"
     },
     "UN4GL1::nureru": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/nureru-to-get-wet.md",
       "grammar_header": "濡れる（ぬれる）",
       "last_reviewed": "2026-09-03",
       "interval_days": 50,
@@ -2387,7 +2371,7 @@
       "next_review": "2026-10-23"
     },
     "UN4GL1::toru": {
-      "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL1.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/toru-to-carry-hold-take-pass.md",
       "grammar_header": "取る（とる）",
       "last_reviewed": "2026-08-11",
       "interval_days": 68,
@@ -4945,6 +4929,38 @@
       "last_score": 3,
       "next_review": "2026-09-08",
       "score": 3
+    },
+    "UN4GL1::konna-sonna-anna-demonstrative": {
+      "lesson_file": "grammar-index/grammar/vocabulary/Nouns/konna-sonna-anna-demonstrative.md",
+      "grammar_header": "like this, this kind of - こんな, そんな, あんな",
+      "last_reviewed": "2026-07-15",
+      "interval_days": 39,
+      "ease": 2.65,
+      "streak": 3,
+      "total_reviews": 3,
+      "last_score": 4,
+      "weak_points": [
+        "そんな used instead of こんな (near self vs near listener)",
+        "missing だ before と after な-adj"
+      ],
+      "score": 4,
+      "next_review": "2026-09-20"
+    },
+    "UN4GL1::konna-sonna-anna-degree-adverb": {
+      "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/sonna-konna-anna-degree-adverb.md",
+      "grammar_header": "SO　( degree of smthing) , adverb そんな/こんな/あんな + に",
+      "last_reviewed": "2026-07-15",
+      "interval_days": 39,
+      "ease": 2.65,
+      "streak": 3,
+      "total_reviews": 3,
+      "last_score": 4,
+      "weak_points": [
+        "そんな used instead of こんな (near self vs near listener)",
+        "missing だ before と after な-adj"
+      ],
+      "score": 4,
+      "next_review": "2026-09-20"
     }
   }
 }

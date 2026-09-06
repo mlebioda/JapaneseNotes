@@ -5,7 +5,7 @@ topic_slug: ["similarity-inference"]
 function: ["comparison", "hearsay-appearance"]
 level: N4
 register: neutral
-confused_with: ["marude", "n-ga-shimasu", "hazudesu-should-do-ought-logically", "sou-desu-hearsay", "rashii-desu"]
+confused_with: ["marude", "n-ga-shimasu", "hazudesu-should-do-ought-logically", "sou-desu-hearsay", "rashii-desu", "sou-desu-appearance-inference"]
 proofread: true
 ---
 
@@ -70,6 +70,7 @@ Register: neutral
 - [。。。はずです - should do/ought (logically)](/JapaneseNotes/grammar-index/grammar/hazudesu-should-do-ought-logically) — test: Is the speaker deducing from known facts/reasoning (はずです) or judging from what they can see/sense (ようです)?
 - [V「plain」そうです / そうだ - It is said that / I heard](/JapaneseNotes/grammar-index/grammar/sou-desu-hearsay) — test: Is this something the speaker heard from someone else (そうです), or an inference the speaker is making themself from indirect evidence (ようです)?
 - [。。。らしいです - it seems](/JapaneseNotes/grammar-index/grammar/rashii-desu) — test: Is this based on hearsay or a typical/stereotypical impression (らしいです), or the speaker's own direct inference from evidence (ようです)?
+- [そうです/そうだ - express an impression or inference based on direct observation - it looks](/JapaneseNotes/grammar-index/grammar/sou-desu-appearance-inference) — test: Is this an inference from indirect evidence, reasoning, or general knowledge (ようです), or a direct, immediate visual impression from what the speaker sees right now (そう様態)?
 
 ## See also
 

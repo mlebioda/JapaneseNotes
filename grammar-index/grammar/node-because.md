@@ -5,7 +5,7 @@ topic_slug: ["reasons-causes"]
 function: ["cause-reason"]
 level: N4
 register: tiered
-confused_with: ["tameni-for-purpose-of", "shishi-conjunction"]
+confused_with: ["tameni-for-purpose-of", "shishi-conjunction", "ndesu-nodesu-explaining-reason"]
 proofread: true
 ---
 
@@ -50,6 +50,7 @@ Register: tiered (casual: んで; standard: ので)
 ## Often confused with
 - [ために - for (purpose of)](/JapaneseNotes/grammar-index/grammar/tameni-for-purpose-of) — test: Is this stating a direct cause/reason (→ ので), or a goal/purpose being pursued (→ ために)?
 - [。。。し、。。。し - conjunction](/JapaneseNotes/grammar-index/grammar/shishi-conjunction) — test: Is this one direct reason stated plainly (→ ので), or a non-exhaustive list of multiple reasons/qualities (→ し...し)?
+- [**んです**/のです - express the situation to provide a reason, explaining something](/JapaneseNotes/grammar-index/grammar/ndesu-nodesu-explaining-reason) — test: Is this framing the situation as background explanation or shared context (→ んです), or stating a direct cause-and-effect plainly (→ ので)?
 
 ## See also
 

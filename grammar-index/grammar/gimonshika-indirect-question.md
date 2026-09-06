@@ -5,6 +5,7 @@ topic_slug: ["question-formation"]
 function: []
 level: N4
 register: neutral
+confused_with: ["kadouka-whether-or-not"]
 proofread: true
 ---
 
@@ -41,12 +42,16 @@ Often used with: だれ, いつ, どこ, いくら, 何
 
 ## Notes
 
-か embeds a wh-word question (だれ／いつ／どこ／いくら／何 + か). For a yes/no embedded question ("whether or not"), the companion pattern is かどうか (not yet extracted as its own file) — e.g. 行くかどうか知りません (I don't know whether or not [they'll] go), with no wh-word.
+か embeds a wh-word question (だれ／いつ／どこ／いくら／何 + か). For a yes/no embedded question ("whether or not"), the companion pattern is かどうか — e.g. 行くかどうか知りません (I don't know whether or not [they'll] go), with no wh-word.
 
 ## Register
 
 Register: neutral
 か attaches to the plain form of whatever precedes it; the outer sentence's own verb (知っています／覚えています／聞きました, etc.) carries the politeness level, not か itself.
+
+## Often confused with
+
+- [かどうか - whether or not](/JapaneseNotes/grammar-index/grammar/kadouka-whether-or-not) — test: Is this a wh-word (だれ／いつ／どこ／いくら／何) embedded question (疑問詞...か), or a yes/no embedded question with no wh-word (かどうか)?
 
 ## See also
 

@@ -5,3 +5,4 @@
 ## Entries
 
 - [疑問詞（ぎもんし）...か ... - indirect question](/JapaneseNotes/grammar-index/grammar/gimonshika-indirect-question) · N4
+- [かどうか - whether or not](/JapaneseNotes/grammar-index/grammar/kadouka-whether-or-not) · N4

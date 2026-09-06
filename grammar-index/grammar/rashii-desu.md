@@ -5,7 +5,7 @@ topic_slug: ["hearsay-reported-speech"]
 function: ["hearsay-appearance"]
 level: N4
 register: tiered
-confused_with: ["sou-desu-hearsay", "you-desu", "tteimashita-relay-ideas"]
+confused_with: ["sou-desu-hearsay", "you-desu", "tteimashita-relay-ideas", "sou-desu-appearance-inference"]
 proofread: true
 ---
 
@@ -50,6 +50,7 @@ Register: tiered (polite: らしいです; plain/casual: らしい)
 - [V「plain」そうです / そうだ - It is said that / I heard](/JapaneseNotes/grammar-index/grammar/sou-desu-hearsay) — test: Is the speaker fairly confident in this reported information (そうです), or treating it as less certain (らしいです)?
 - [...ようです](/JapaneseNotes/grammar-index/grammar/you-desu) — test: Is this based on hearsay or a typical/stereotypical impression (らしいです), or the speaker's own direct inference from evidence (ようです)?
 - [言っていました - relay ideas](/JapaneseNotes/grammar-index/grammar/tteimashita-relay-ideas) — test: Is this hearsay/impression reported without naming a specific source, and with less certainty (らしいです), or attributed to a specific person who said it (言っていました)?
+- [そうです/そうだ - express an impression or inference based on direct observation - it looks](/JapaneseNotes/grammar-index/grammar/sou-desu-appearance-inference) — test: Is this hearsay or a typical/stereotypical impression based on outside information (らしいです), or a direct visual impression from what the speaker can see right now (そう様態)?
 
 ## See also
 

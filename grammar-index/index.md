@@ -45,6 +45,7 @@
 - [advice-suggestions](/JapaneseNotes/grammar-index/advice-suggestions) — Patterns for giving advice or a suggestion to the listener: ほうがいい, and related forms.
 - [reasons-causes](/JapaneseNotes/grammar-index/reasons-causes) — Patterns for stating a direct cause or reason for something — から, ので, and related forms.
 - [listing-examples](/JapaneseNotes/grammar-index/listing-examples) — Patterns for giving example items from a set, implying there could be more like them — とか...とか, や...や, and related forms.
+- [degree-excess](/JapaneseNotes/grammar-index/degree-excess) — Patterns for expressing that something goes past a limit or degree — too much of something: すぎる, and related forms.
 
 ## Forms & Counters
 
@@ -59,3 +60,5 @@
 - [respectful-expressions](/JapaneseNotes/grammar-index/respectful-expressions) — Sonkeigo (尊敬語) — patterns for raising the status of the listener, a customer, a superior, or a respected third party.
 - [politeness-hierarchy](/JapaneseNotes/grammar-index/politeness-hierarchy) — Compares the three 尊敬語 verb-formation patterns by formality level, from highest to lowest: dedicated special verbs, お＋ます形＋になる, and the られる passive-form pattern.
 - [relationships](/JapaneseNotes/grammar-index/relationships) — Vocabulary and expressions for describing interpersonal relationships — friendships, romantic relationships, and social bonds.
+- [adjective-adverb-conversion](/JapaneseNotes/grammar-index/adjective-adverb-conversion) — Patterns for turning an い-adjective or な-adjective into an adverb to modify a verb.
+- [demonstratives-kosoado](/JapaneseNotes/grammar-index/demonstratives-kosoado) — Vocabulary for the こそあど demonstrative series — near-speaker/near-listener/far-from-both distinctions, and their adjective and degree-adverb uses.
