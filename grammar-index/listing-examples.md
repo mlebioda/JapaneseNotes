@@ -5,3 +5,4 @@
 ## Entries
 
 - [とか...とか - enumerate examples of things, behaviors or actions](/JapaneseNotes/grammar-index/grammar/tokatoka-enumerate-examples) · N4
+- [Listing activities Vた り  ・・・します - two and more activities](/JapaneseNotes/grammar-index/grammar/tari) · N5

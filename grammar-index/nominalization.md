@@ -8,3 +8,4 @@
 - [た形 + ことがあります - have you ever](/JapaneseNotes/grammar-index/grammar/ta-kotogaarimasu-have-you-ever) · N5
 - [行ったことがありました - I once did ~ (recalling a single past experience)](/JapaneseNotes/grammar-index/grammar/ttakotogaarimashita-i-once-did-recalling-a-single-past-experience) · N5
 - [～方（かた） - a way of doing](/JapaneseNotes/grammar-index/grammar/kata-a-way-of-doing) · N4
+- [ADJ＋の - substitute of noun](/JapaneseNotes/grammar-index/grammar/adjno-substitute-of-noun) · N5

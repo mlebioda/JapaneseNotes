@@ -37,6 +37,7 @@
 - [obligation-necessity](/JapaneseNotes/grammar-index/obligation-necessity) — Patterns expressing obligation, prohibition, necessity, and permission — from strongest "must" to "don't have to" to "may" — plus はずです, the related epistemic pattern for logical expectation.
 - [manner-accordance](/JapaneseNotes/grammar-index/manner-accordance) — Patterns for describing an action performed in accordance with a plan, instruction, or expectation — 通り／どおり, and related forms.
 - [subordinate-clauses](/JapaneseNotes/grammar-index/subordinate-clauses) — Patterns describing how a subordinate clause carries its own が-marked subject, separate from the main clause's subject — とき, てから, まえに, たら, ても, and related connectors.
+- [temporal-connectives](/JapaneseNotes/grammar-index/temporal-connectives) — Patterns connecting two clauses in time — while, when, after, during: ながら, とき, and related forms.
 - [hearsay-reported-speech](/JapaneseNotes/grammar-index/hearsay-reported-speech) — Patterns for reporting information heard from someone else, rather than experienced directly — そうです（伝聞）, らしいです.
 - [ease-difficulty](/JapaneseNotes/grammar-index/ease-difficulty) — Patterns for describing how easy or difficult an action is to do, attaching to a verb's ます-stem: やすい, にくい.
 - [question-formation](/JapaneseNotes/grammar-index/question-formation) — Patterns for forming and embedding questions — indirect/embedded questions, question-word combinations, and related forms.

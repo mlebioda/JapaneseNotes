@@ -1,3 +1,4 @@
+
 TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 
 #w 明日の天気を調べるね（しら）- I will check tomorrow's weather
@@ -187,13 +188,13 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 
 ---
 
-## 行ったことがありました - I once did ~ (recalling a single past experience)
+## た形ことがありました - I once did - (recalling a single past experience)
 → [[grammar-index/grammar/ttakotogaarimashita-i-once-did-recalling-a-single-past-experience]]
 
 ### Structure
-	- た形＋ことがありました - there was a time (in the past) I had done ~
-	- た形＋ことがありましたか - was there ever a time you had done ~?
-	- た形＋ことはありませんでした - there was never a time I had done ~ (negative)
+	- た形＋ことがありました - there was a time (in the past) I had done 
+	- た形＋ことがありましたか - was there ever a time you had done?
+	- た形＋ことはありませんでした - there was never a time I had done (negative)
 	- casual: た形＋ことがあった／ことあった
 
 ### Examlpes:
@@ -239,6 +240,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 	- んじゃない (seeking agreement) - test: is this a confident guess (でしょう), or seeking the listener's agreement with a view you already hold (んじゃない)?
 	- かもしれません／かもしれない (may/might) - test: is this a fairly confident guess (でしょう), or an uncertain possibility (かもしれません)?
 	- ね particle (not yet in grammar-index) - test: is this an inferred guess based on evidence you're checking (でしょう, e.g. 疲れたでしょう - "you must be tired, right?"), or an assumed shared/obvious observation seeking empathy (ね, e.g. 疲れたね - "you're tired, aren't you"). They can combine: 明日は雨でしょうね - "it'll probably rain tomorrow, won't it"
+	- ようです - indirect observation
 
  #w 明日は雨でしょう（あめ）- it seems that it will rain tomorrow
  #w 山田くんは カラオケが好きでしょう - It seems that Mr. Yamada likes Karaoke

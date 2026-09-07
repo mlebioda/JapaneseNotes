@@ -39,6 +39,10 @@ Check the proofread: true guard (see _conventions.md) before processing each fil
 
 #### Container file detection
 
+Files matching `grammar-index/grammar/vocabulary-*.md` are vocabulary consolidation files, not
+containers — never processed by this skill at all (not even the container-skip log line); this
+guard is checked before the `## Sub-topics` check.
+
 Before applying any normalisation, check whether the file is a container file:
 - A `## Sub-topics` section is present.
 

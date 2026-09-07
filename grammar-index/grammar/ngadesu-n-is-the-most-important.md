@@ -5,7 +5,7 @@ topic_slug: ["comparison"]
 function: ["comparison"]
 level: N4
 register: tiered
-confused_with: ["n-nohouga-adj-desu-n-is-more-adj"]
+confused_with: ["n-nohouga-adj-desu-n-is-more-adj", "node-best-among"]
 proofread: true
 ---
 
@@ -39,6 +39,7 @@ Register: tiered
 ## Often confused with
 
 - [N のほうが adj です - N is more adj](/JapaneseNotes/grammar-index/grammar/n-nohouga-adj-desu-n-is-more-adj) — test: Are you comparing more than two things and picking the single best/most extreme one (一番), or comparing exactly two specific things against each other (のほうが)?
+- [の中で一番 best among](/JapaneseNotes/grammar-index/grammar/node-best-among) — test: Do you just state that N is the most/best (Nが一番です) without naming the group, or name the comparison group explicitly with N の中で?
 
 ## See also
 

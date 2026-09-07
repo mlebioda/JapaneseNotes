@@ -157,25 +157,32 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL13-I-want-to-buy-new-shoes
 # 文法
 
 ## ほしい - i want N
+→ [[grammar-index/grammar/hoshii-i-want-n]]
+Register: casual–neutral polite (works fine with です); expresses only the speaker's own want, or asks the listener's in a question. Cannot describe a third person's want directly — that requires 欲しがる (for N) / Vたがる (for V), see below.
+
 Structure
 - Nouns
 	-  (私） N + が + ほしいです - I want N
 		-  たくさんのお金がほしいです - i want a lot of money
 	- 何が欲しいですか（なに、ほし）- what do you want?
 	- Negative
-		- N は 欲しくない - i dont want (は!!!!)
+		- N は 欲しくない - i dont want (は replaces が for contrast, same shift as すき/きらい)
+			- 広い家は欲しくないです - i don't want a big (wide) house
 	- 欲しかった
 	- 欲しくなかった
+	- 3rd person: 欲しがる（ほしがる）- shows/describes someone else wanting something
 - Verbs (not to superior)
 	- （私）。。。+を・が　+ Vたい です - i want V
 	- たくない
 	- たかった
 	- たくなかった
+	- 3rd person: Vます-stem + たがる - shows/describes someone else wanting to do something
 - Verbs to superior
 	- .... いかがですか
 	- .... ませんか
+	- Note: avoid asking a superior directly with たいですか — it presumes their desire and can sound presumptuous/rude; いかがですか／ませんか offer instead of asking about desire outright.
 
-#w 北海道はへ行きたい - i want to go to hokkaido
+#w 北海道へ行きたい - i want to go to hokkaido
 #w ギターを弾きたいです（ひ）- i want to play guitar
 
 #w 去年 この車を買いたかったですが　今は もう買いたくないです - I wanted to buy it last year, but now i don't want to buy it anymore
@@ -189,7 +196,7 @@ Structure
 #w 新しい帽子が欲しいです（あたら、ぼうし、ほし) - i want new hat
 #w そのピアノはとても高いですが私はそれがとても欲しいです（ほし）- This piano is very expensive, but i really want it
 #w 何が欲しいですか（なに、ほし）- what do you want?
-#w 何も欲しくないです (ほし) - i don't want nothing
+#w 何も欲しくないです (ほし) - i don't want anything
 
 #w 広い家は欲しくないです (ひろ、いえ、ほし) - i don't wan't big (wide) house
 
@@ -201,98 +208,121 @@ Structure
 ---
 
 ## Comparisons
+→ [[grammar-index/grammar/comparisons]]
 ### より than - comparing 2 things
+→ [[grammar-index/grammar/yori-than-comparing-2-things]]
+Register: より itself has no politeness of its own — the register comes from the adjective/copula ending (plain だ vs polite です), same as in any other sentence.
 
 Structure
 - N1  は　N2 より　Adj です
 	- 山田さんはすずきさんより背が高いです（せ、たか) - yamada is taller than suzuki
+	- 今日は昨日より寒い (plain/casual) vs 今日は昨日より寒いです (polite) - same particle, either register
 
 #w 山田さんはすずきさんより背が高いです（せ、たか) - yamada is taller than suzuki
 
 #w 今日は昨日より寒いです（きょう、きのう、さむ) - Today is colder than yesterday
 #w このパンはそのパンより美味しいです（おい）- this bread is more deliciosu than that bread
 
-#w 黒いくつは青いくつよりきれいです（くり、あお) - the black shoes are more beautiful than the blue ones
+#w 黒いくつは青いくつよりきれいです（くろ、あお) - the black shoes are more beautiful than the blue ones
 
 ### comparsion どちら・ の方が (のほうが)
+→ [[grammar-index/grammar/comparsion-dochira-nohouga]]
+Register: どちら is the polite/neutral form; どっち is the casual spoken equivalent (どっちが好き？ vs どちらが好きですか). As with より, the actual politeness level comes from the copula/verb ending (だ vs です), not the question word itself.
+
 Structure
 - N1 と N2と どちらが ADJ　ですか - which one is more adj N1 or n2
 - N1 と N2 と どちら　**が** ADJ と思いますか - which one do you thing is adj N1, or N2
 - N1/N2 の方が ADJ です - N1/N2 is more adj
+	- The "より N" comparison is normally dropped in the answer once it's contextually clear, e.g. みかんの方が好きです rather than みかんの方がリンゴより好きです
 - どちらも ADJ です - both are adj
 
-#w A: リンゴと みかんとどちらが好きですか B: みかんの方がが好きです (のほうが) - A: Which do you like more, apples or tangerine B: I like tangerine more
+#w A: リンゴと みかんとどちらが好きですか B: みかんの方が好きです (のほうが) - A: Which do you like more, apples or tangerine B: I like tangerine more
 
 #w A: キムさん と スミスさん と どちらが 日本語が上手ですか B: キムさんの方が上手です（のほうが） - A: Who is better at Japanese, Miss Kim or Smith? B: Miss Kim is better
 
-#w このざっしとそのざっしと どちらが面白いと思いますか B: どちらも面白いです (おもしろい、おも) - A: Which do you think is more interesting, this magazine or that magazine? B: Both are interesting
+#w A: このざっしとそのざっしと どちらが面白いと思いますか B: どちらも面白いです (おもしろい、おも) - A: Which do you think is more interesting, this magazine or that magazine? B: Both are interesting
 
 #w どちらも - both
 
 ### の中で一番 best among
+→ [[grammar-index/grammar/node-best-among]]
 Structure
 - N1 の中で N2 が 一番 adj です - N2 is the most adj in N1
-	- アジャの中で 中国語 が一番大きいです - China is the bigest country in Asia
+	- アジアの中で 中国 が一番大きいです - China is the biggest country in Asia
 - Questions + が
 	- 何 - what
-		- 開国の料理の中で何か一番が好きですか（かいこく　りょうり,いちばん) - Which foreign food do you like the most?
+		- 外国の料理の中で何が一番好きですか（がいこく　りょうり,いちばん) - Which foreign food do you like the most?
 	- どこ - where
 		- 日本の中で、どこが 一番好きですか - where in Japan do you like the most?
 	- だれ - who
-	- いつ - how many
+		- クラスの中でだれが一番日本語が上手ですか - who in the class is best at Japanese?
+	- いつ - when
+		- 一年の中でいつが一番好きですか（いちねん）- what time of year do you like the best?
 	- どの - which　（more than 2) 
-		- この町の建物の中で一番が高いですか（まち、なか、たてもの, ばん、たか）- Which building in this town is the tallest?
+		- この町の建物の中で一番高いですか（まち、なか、たてもの, ばん、たか）- Which building in this town is the tallest?
 
 #w 日本の中で、どこが 一番好きですか - where in Japan do you like the most?
 
-#w アジャの中で 中国語 が一番大きいです - China is the biggest country in Asia
+#w アジアの中で 中国 が一番大きいです - China is the biggest country in Asia
 
-#w 開国の料理の中で何か一番が好きですか（かいこく　りょうり,いちばん) - Which foreign food do you like the most?
+#w 外国の料理の中で何が一番好きですか（がいこく　りょうり,いちばん) - Which foreign food do you like the most?
 
-#w この町の建物の中で一番が高いですか（まち、なか、たてもの, ばん、たか）- Which building in this town is the tallest?
+#w この町の建物の中で一番高いですか（まち、なか、たてもの, ばん、たか）- Which building in this town is the tallest?
+
+#w クラスの中でだれが一番日本語が上手ですか - who in the class is best at Japanese?
+
+#w 一年の中でいつが一番好きですか（いちねん）- what time of year do you like the best?
 
 
 ---
 
 ## ADJ＋の - substitute of noun
+→ [[grammar-index/grammar/adjno-substitute-of-noun]]
+Note: this の stands in for an omitted/already-mentioned noun (白いの = "the white one"), different from possessive の (私の本) and from explanatory んです — all three look identical in writing. No register restriction of its own; politeness comes from the sentence-final copula as usual (白いのです vs 白いのだ).
+
 Structure
 - ADJ + の - adj one
 	- 白いの - white one
 
-#w  さくらは、とてもきれいで白いのとピンクのがありました - sakura was beautiful, white one and pink one
+#w  さくらは、とてもきれいで白いのとピンクのがありました - the cherry blossoms were beautiful, and there were white ones and pink ones
 
-#w A:　白いくつと 黒いくつと どちらが好きですか B: 白いのが好きですか - A: Which shoes do you like, the white or the black? B: I like white ones.
+#w A:　白いくつと 黒いくつと どちらが好きですか B: 白いのが好きです - A: Which shoes do you like, the white or the black? B: I like white ones.
 
 #w A: このアパートは 二つの 部屋が 空いています B:　せまいのは 安いです。広いのは高いです（へや、あ、やす、ひろ）- A: There are two rooms available in this apartment. B: The small one is cheap. The big one is expensive
 
 ---
 
-### をください - please give me (common to lower ranking than you)
+### をください - please give me
+→ [[grammar-index/grammar/wokudasai-please-give-me]]
+Register: ください is a standard polite request form for everyday transactions (asking a shop clerk, waitstaff, or a peer for something). It is not restricted by relative rank — if anything, for a genuine superior or a more deferential request, softer forms like 〜ていただけますか are preferred instead.
+
 Structure
-- N + を (amount) ください - please give me (common to lower ranking than you)
+- N + を (amount) ください - please give me
 	- ぎゅうにゅうをください - please give me milk
-	- 切手を２枚ください（きって）- please give me 2 tickets
-- When order use お願いしますcx
+	- 切手を２枚ください（きって）- please give me 2 stamps
+- をお願いします is a softer alternative often used when ordering (e.g. in a restaurant/cafe): コーヒーをお願いします - Coffee, please. Both are common; ください is a more direct request, お願いします is a bit softer/more service-oriented.
 
 #w ぎゅうにゅうをください - please give me milk
-#w 切手を２枚ください（きって）- please give me 2 tickets
+#w 切手を２枚ください（きって）- please give me 2 stamps
 
-#w A: これをください B: はいかしこなりました - A: Please give me this B: Yes sir/madam
+#w A: これをください B: はいかしこまりました - A: Please give me this B: Yes sir/madam
 
-#w A:82円の切手をください B: 何枚ですか  C: 一枚ください（えん、きって、なんまい）- A: Please give me 82 yen stamps B: How many do you want? C: One please
+#w A:82円の切手をください B: 何枚ですか  A: 一枚ください（えん、きって、なんまい）- A: Please give me 82 yen stamps B: How many do you want? A: One please
 
 ---
 # Vocabulary
 
 ## ちょうど - perfect situation/ just
+→ [[grammar-index/grammar/vocabulary/Adverbs/choudo-perfect-situation-just]]
+Register: neutral adverb, no formality restriction — works the same in casual and polite speech; politeness comes from whatever follows it.
 
 Structure
 - ちょうど + Adj/V - perfect situation
 	- サイズはちょうどいいです - the size is perfect
-- ちょうど + N - just (somethiong not missing)
+- ちょうど + N - exact/precise amount or time
 	- ちょうどバスが来ました - bus just came
 
-#wp ちょうど (+adj/V)（ちょうど） - just /dokładnie / akurat / w sam raz (represent perfect situation)
+#wp ちょうど (+adj/V)（ちょうど） - just / exactly | describes something happening at precisely the right moment, amount, or fit, e.g. a perfect size or exact timing
 
 #w サイズはちょうどいいです - the size is perfect
 
@@ -301,40 +331,45 @@ Structure
 #w ちょうど 5000円 - just 5000 yen
 
 ## Verbs
+→ [[grammar-index/grammar/vocabulary-verbs]]
 ### I think - と思います 
+→ [[grammar-index/grammar/vocabulary/Verbs/i-think-toimasu]]
+Register: と思います is the polite/ます register; と思う is the plain/casual equivalent — same sentence, different formality level.
 
-- Limited to first person
+- Limited to first person (states only the speaker's own immediate assertion). To describe a third person's ongoing belief, use と思っている instead, e.g. 田中さんは正しいと思っています - Tanaka thinks it's correct.
 - Structure
 	- Vdict/た-form + と + 思います
 		- 明日雨が降ると思います（ふ）- I think it will rain tomorrow
 	- いadj + と思います
 		- このビールは美味しいと思います（おいしい、おも）- I think this beer is delicious
 	- なadj + だ + と思います
-		- A: 新しい家は どう思いますか B: 広いですが、ちょっと交通が 不便だと思います（あたら、いえ、おも、ひろ、こうつう、ふべん）- A: How is your new house? B: Its big, but access to transportation in inconvinient
+		- A: 新しい家は どう思いますか B: 広いですが、ちょっと交通が 不便だと思います（あたら、いえ、おも、ひろ、こうつう、ふべん）- A: How is your new house? B: It's big, but access to transportation is inconvenient
 	- N + だ + と思います
 - When ask about opinion
 	- どう思いますか・どう思う- what do you think?
 - Negative
-	- ないform と思います（おも）- i don't think that...
+	- ないform と思います（おも）- i don't think that... (negating the embedded clause this way is preferred over negating 思う itself with と思いません, which sounds more blunt/assertive)
 		- ワンさんは まだ 寝ていない と思います（ね、おも）- I think Miss Wang is not sleeping
 
 #w このビールは美味しいと思います（おいしい、おも）- I think this beer is delicious
 
 #w 明日雨が降ると思います（ふ）- I think it will rain tomorrow
 
-#w A: 新しい家は どう思いますか B: 広いですが、ちょっと交通が 不便だと思います（あたら、いえ、おも、ひろ、こうつう、ふべん）- A: How is your new house? B: Its big, but access to transportation in inconvinient
+#w A: 新しい家は どう思いますか B: 広いですが、ちょっと交通が 不便だと思います（あたら、いえ、おも、ひろ、こうつう、ふべん）- A: How is your new house? B: It's big, but access to transportation is inconvenient
 
 #w どう思いますか・どう思う - what do you think? (polite/casual)
 
-#w この白い服はどう思う？ B:いいと思う（ふく）- what do you think about this white dress(clothes)? B: I think is good
+#w この白い服はどう思う？ B:いいと思う（ふく）- what do you think about this white dress(clothes)? B: I think it's good
 
 #w ワンさんは まだ 寝ていない と思います（ね、おも）- I think Miss Wang is not sleeping
 
-#w 明日 風が 強くないと思います（かぜ、つよ） I don't think the wind will be strong tomorrow
+#w 明日 風が 強くないと思います（かぜ、つよ） - I don't think the wind will be strong tomorrow
 
 #w これは 私の 資料じゃないと思います（しりょう）- I don't think this is my material
 
 ### V-dict + と言います - say
+→ [[grammar-index/grammar/vocabulary/Verbs/v-dict-toimasu-say]]
+Register: と言います is the polite/ます register; と言う is the plain/casual equivalent. When reporting what a superior said, use おっしゃる instead of 言う (〜とおっしゃっていました); when humbly reporting your own words to a superior, use 申す instead (〜と申しました) — see the 言う verb card for these forms.
 
 Structure:
 - V-dict + と言います
@@ -345,37 +380,41 @@ Structure:
 
 - Two ways
 	- Direct (someone said - no changes)
-		-  Person + \[Sentence with no change]+ と言いま 
-			- らんさんは 「来週日本へ行きます」と言いました - Ran san said "I will come to Japan next week"
+		-  Person + \[Sentence with no change]+ と言います／と言いました
+			- らんさんは 「来週日本へ行きます」と言いました - Ran san said "I will go to Japan next week"
 	- Indirect (interpet what someone had said and tell others with your own understanding)
 		- Person + sentence Vdict + と言いました
-			- らんさんは、来週日本へ行くと言いました - Ran san said you would come to Japan next week
+			- らんさんは、来週日本へ行くと言いました - Ran san said she would go to Japan next week
 	- Introduction of yourself
 		- N と言いました
-			- 私はﾐハウと言います - I'm Michal (say)
+			- 私はミハウと言います - I'm Michal (say)
+	- Naming/defining ("X is called/means Y" - not reporting anyone's speech)
+		- N は N/表現 と言います
+			- 英語で「ありがとう」は 「thank you」と言います - arigatou means thank you in english (say)
+			- これは日本語で何と言いますか（なん）- how to say it in japanese
 
 
 direct：
 #w 日本人は ご飯を 食べる前に 「いただきます」と言います - Japanese say, Itadakimasu before eating meals (direct)
 #w キムさんは 「留学したい」と言いました (りゅうがく) - Miss kim said, I want to study abroad (direct)
-#w 英語で「ありがとう」は 「thank you」と言います - arigatou means thank you in english (say) (direct)
+
+naming/defining：
+#w 英語で「ありがとう」は 「thank you」と言います - arigatou means thank you in english (say)
 #w これは日本語で何と言いますか（なん）- how to say it in japanese
 
 Indirect：
-#w らんさんは、来週日本へ行くと言いました - Ran san said you would come to Japan next week (indirect)
+#w らんさんは、来週日本へ行くと言いました - Ran san said she would go to Japan next week (indirect)
 
 #w キムさんは留学したいと言いました（りゅうがく）- Miss kim said she wanted to study abroad (indirect)
 #w ラジさんはヨーロッパが好きだと言いました - Raj said that he liked Europe (indirect)
 #w 妹は週末コンサートに行くと言いました（いもうと、しゅうまつ）- My younger sister said she would go to a concert this weekend (indirect)
 
-#w 私はﾐハウと言います - I'm Michal (say)
+#w 私はミハウと言います - I'm Michal (say)
 
 ---
 
 # Summary
 
-
- Rzeczowniki:
 
 Being able to talk about a desire or hope #k  #card
 ほんやく: 要求と希望が言えること（よっきゅう、きぼう、い）
@@ -995,7 +1034,7 @@ A: Who is better at Japanese, Miss Kim or Smith? B: Miss Kim is better #k  #card
 
 
 A: Which do you think is more interesting, this magazine or that magazine? B: Both are interesting #k  #card
-ほんやく: このざっしとそのざっしと どちらが面白いと思いますか B: どちらも面白いです (おもしろい、おも)
+ほんやく: A: このざっしとそのざっしと どちらが面白いと思いますか B: どちらも面白いです (おもしろい、おも)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_面.html">面</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
@@ -1052,6 +1091,27 @@ Which building in this town is the tallest? #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <!--ID: 1774708228470-->
+
+
+who in the class is best at Japanese? #k  #card
+ほんやく: クラスの中でだれが一番日本語が上手ですか
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+
+
+what time of year do you like the best? #k  #card
+ほんやく: 一年の中でいつが一番好きですか（いちねん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 
 
 The cherry blossoms were beautiful, and there were white ones and pink ones #k  #card
@@ -1132,8 +1192,14 @@ I think Miss Wang is not sleeping #k  #card
 <!--ID: 1774708228479-->
 
 
+I don't think the wind will be strong tomorrow #k  #card
+ほんやく: 明日 風が 強くないと思います（かぜ、つよ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
 
-明日 風が 強くないと思います（かぜ、つよ） I don't think the wind will be strong tomorrow
 
 I don't think this is my material #k  #card
 ほんやく: これは 私の 資料じゃないと思います（しりょう）
@@ -1243,8 +1309,8 @@ A: Please give me this B: Yes sir/madam  #card
 <!--ID: 1774708228492-->
 
 
-A: Please give me 82 yen stamps B: How many do you want? C: One, please #k  #card
-ほんやく: A:82円の切手をください B: 何枚ですか  C: 一枚ください（えん、きって、なんまい）
+A: Please give me 82 yen stamps B: How many do you want? A: One, please #k  #card
+ほんやく: A:82円の切手をください B: 何枚ですか  A: 一枚ください（えん、きって、なんまい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_円.html">円</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_切.html">切</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>

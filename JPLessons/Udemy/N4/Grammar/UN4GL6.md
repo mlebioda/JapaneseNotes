@@ -411,7 +411,7 @@ Note: まだ is commonly taught opposite もう (already / anymore) — もう +
 ---
 
 ## Verbs
-→ [[grammar-index/grammar/verbs-tsukiau]]
+→ [[grammar-index/grammar/vocabulary-verbs]]
 
 ### 付き合う (つきあう) - to associate with / to go out with
 → [[grammar-index/grammar/vocabulary/Verbs/tsukiau]]

@@ -144,7 +144,13 @@ content planning across multiple headings before creating the first file.
 Carry the classification forward:
 - `grammar` from `文法` → `grammar-index/grammar/<slug>.md` (normal flow, steps 5–11)
 - `grammar` from `Vocabulary` → `grammar-index/grammar/vocabulary/<subdir>/<slug>.md` (vocabulary file format, step 7b)
-- `container` → step 7 creates a container file; step 8 inserts wikilink in lesson
+- `container` sourced from `# Vocabulary`, whose normalized heading text is exactly `Verbs`,
+  `Nouns`, or `Adjectives`, and whose children are exclusively Vocabulary-sourced `grammar`
+  headings → routes to step 7c (vocabulary POS container, consolidated) instead of step 7;
+  step 8 inserts a bare, anchor-less wikilink to `grammar-index/grammar/vocabulary-<pos>.md`
+- `container` (any other case — a non-POS-named `# Vocabulary` heading, one that mixes in a
+  nested container, or **any** `# 文法`-sourced container regardless of heading text) → step 7
+  creates a container file; step 8 inserts wikilink in lesson
 - `skip` → no file created, no wikilink inserted
 
 ### 5. Normalise the slug
@@ -238,6 +244,13 @@ grep -rlF 'pattern: <exact heading text>' grammar-index/grammar/
 then confirm the `lesson:` field matches too. If such a file exists, treat it exactly like
 the target-path collision below (same Skip / Overwrite / Rename prompt; when in doubt,
 Skip preserves the existing file and its slug).
+
+**Consolidated vocabulary POS containers are exempt from this `pattern:` grep.** For a
+`container` heading routed to Step 7c, the target file's `pattern:` frontmatter is always the
+fixed POS name (e.g. `Verbs`), which would trivially "match" on every single append and is
+useless as a duplicate signal. For this path, idempotency is handled entirely by Step 7c's own
+per-entry link-target check — dedup by the vocabulary leaf file's path, not by a lesson-code
+section or by frontmatter `pattern` text.
 
 If the target path already exists, ask the user:
 ```
@@ -347,6 +360,11 @@ proofread: false
 List only the sub-headings that were classified as `grammar` or `container` (not `skip`).
 As with grammar point files, always omit `## Notes` on creation — never emit an empty section.
 
+**Not used for a routed Vocabulary POS container.** A `container` heading matching the Step 4b
+routing criteria (§"Routing change") uses the consolidated file format and append logic in Step 7c
+instead of this template — this template is only ever used for the non-routed container cases
+listed in the Step 4b carry-forward bullets above.
+
 **Vocabulary file format** — used for `grammar` headings sourced from `# Vocabulary`.
 
 Frontmatter and heading block (literal — the only markdown extract-grammar.md keeps inline
@@ -416,6 +434,99 @@ Rules for vocabulary file body:
 Target path: `grammar-index/grammar/vocabulary/<subdir>/<slug>.md`
 Create the subdir if it does not exist.
 
+### 7c. Vocabulary POS container (consolidated)
+
+Runs for a `container` heading routed by the Step 4b rule (sourced from `# Vocabulary`,
+normalized heading text exactly `Verbs`, `Nouns`, or `Adjectives`, children exclusively
+Vocabulary-sourced `grammar` headings). Runs after the vocabulary leaf files themselves are
+created (so their slugs/labels are known) and before the lesson-file wikilink step (Step 8).
+
+**Runs regardless of Step 6's Created/Skip outcome for the underlying leaf.** Step 7c fires for
+every Vocabulary-sourced leaf file under a routed container heading whether Step 6 resulted in
+*Created* (a new leaf file this run) or *Skip* (the leaf file already existed from a prior run) —
+its own per-entry dedup (the link-target check in item 2 below) is the only gate Step 7c needs,
+and is sufficient on its own regardless of which case produced the leaf. This is a general rule,
+not something true only incidentally for a one-off migration: if Step 7c were gated on Step 6's
+Created outcome the way Step 8 and Step 9 are (see their "Only for files Created in step 7" /
+"Only process files that were Created" rules), a re-run, or a leaf extracted by hand before this
+step existed, would silently fail to get themed/appended. **This is the one place in the pipeline
+that deliberately does not inherit the "Created only" gate used everywhere else (Step 8, Step
+9) — do not "fix" it into matching Step 8/9's gate.**
+
+1. **Read the target file** (`grammar-index/grammar/vocabulary-<pos>.md`, `<pos>` ∈ `verbs` /
+   `nouns` / `adjectives`, derived from the container heading's normalized POS text) if it
+   exists; otherwise this append creates it fresh in the format below with an empty `##
+   Sub-topics` body — no theming decision needed for a first entry, skip straight to item 3.
+
+   File format on first creation:
+   ```
+   ---
+   pattern: Verbs
+   topic_slug: ""
+   proofread: false
+   ---
+
+   # Verbs
+
+   > Verb vocabulary consolidated across lessons.
+
+   ## Sub-topics
+   ```
+   No `lesson:` field (the file spans many lessons — provenance stays one hop away in the linked
+   leaf file's own `lesson:` frontmatter). No `level:` field (entries span multiple JLPT levels;
+   level stays per-bullet, as today). `topic_slug: ""` (empty string, not `[]`) and `proofread:
+   false`, never touched — matches the `vocabulary/**` leaf-file convention, not the old
+   per-lesson container convention.
+
+2. **Per-entry dedup (idempotency)** — before adding any new bullet, check whether a bullet
+   already links to this exact `grammar-index/grammar/vocabulary/<subdir>/<slug>` path anywhere
+   in the file (inside any theme, or ungrouped) — search by the **link target path**, not by a
+   lesson-code section (there is no per-lesson section to key off in this shared file). If found,
+   skip — do not add a duplicate bullet.
+
+3. **Propose theme placement to the user** — for each new entry being appended (there may be
+   several from one lesson), and considering it against both the *existing* themed groups in the
+   file and the *other new entries from this same run*, propose one of:
+   - **Join an existing theme** — the new entry genuinely shares that theme's topic with its
+     current members.
+   - **Start a new theme** — 2+ of the entries being considered (existing ungrouped entries in
+     the file, and/or entries from this run) share a genuine topic not yet represented as a theme.
+   - **Stay ungrouped** — no genuine shared topic found; add as a flat bullet.
+
+   Prompt format (same style as `structure-grammar.md`'s ambiguity prompt and Step 7b-i's
+   sense-count prompt):
+   ```
+   New vocabulary entries to add to grammar-index/grammar/vocabulary-verbs.md:
+     - 渡す（わたす）- to hand over  (N5, from UN5GL15)
+     - 渡る（わたる）- to cross / go overseas  (N5, from UN5GL15)
+     - できる - can  (N5, from UN5GL15)
+
+   Existing themes in the file: <list, or "(none yet)">
+   Existing ungrouped entries: <list, or "(none)">
+
+   Proposed placement:
+     1. 渡す, 渡る → new theme "渡す／渡る (transitivity pair)" — both are the transitive/
+        intransitive pair of the same root
+     2. できる → ungrouped (no shared theme found with existing entries)
+
+   Confirm, or override any entry's placement (join <theme name> / new theme <name> / ungrouped)?
+   ```
+   Wait for confirmation before writing. A user override is used verbatim.
+
+4. **Never force a theme** — this mirrors the "don't force `## Often confused with` matches"
+   caution already used in `register-confusability-grammar.md`. If nothing genuine is found,
+   propose "stay ungrouped" as the default, not a strained theme.
+
+5. **Write the append**:
+   - Themed placement: insert the bullet under the matching `### <Theme Name>` heading (creating
+     the heading, immediately after `## Sub-topics`, if this is the theme's first appearance —
+     or immediately after the last existing themed group if joining one already created).
+   - Ungrouped placement: append the bullet as a flat, un-headed bullet — keep it simple and
+     append flat bullets at the end of the file's `## Sub-topics` content, after all themed
+     groups, so themed groups stay visually contiguous at the top.
+   - Bullet format is unchanged from today's container format:
+     `- [<label>](/JapaneseNotes/grammar-index/grammar/vocabulary/<subdir>/<slug>) · <level>`.
+
 ### 8. Add wikilink to lesson file
 
 After creating the standalone grammar file, insert an Obsidian wikilink under the
@@ -430,9 +541,19 @@ corresponding heading in the lesson file, so it is navigable directly from the l
 Ne - seeking approval...
 ```
 
+**Consolidated-file routing case:** for a `container` heading routed to Step 7c, the inserted
+link is **not** `[[grammar-index/grammar/<slug>]]` (there is no per-lesson slug) — it is a bare,
+anchor-less wikilink to the shared file, `[[grammar-index/grammar/vocabulary-<pos>]]`. Under
+thematic grouping a lesson's vocabulary entries can scatter across multiple themes or land
+ungrouped, so no predictable per-lesson deep-link anchor exists inside the shared file; the link
+lands at the top of the file, same as any other wikilink to a page without an anchor. This is a
+deliberate, accepted regression versus the old one-lesson-one-file setup, not an oversight.
+
 **Rules:**
-- Only for files **Created** in step 7 — skip files that were already skipped in step 6.
-- Skip if `[[grammar-index/grammar/<slug>]]` is already present anywhere under that heading.
+- Only for files **Created** in step 7 (or, for the consolidated-file routing case, for headings
+  whose leaf(s) were processed by Step 7c) — skip files that were already skipped in step 6.
+- Skip if `[[grammar-index/grammar/<slug>]]` (or, for the consolidated case,
+  `[[grammar-index/grammar/vocabulary-<pos>]]`) is already present anywhere under that heading.
 - Use Python to locate the heading line and insert after it. The script must:
   1. **Slice at `# Summary` first** — only the pre-Summary slice is ever searched or
      modified; the tail is reattached unchanged. This enforces "never write past
@@ -480,7 +601,9 @@ that were **Created** in step 7 — skip files that were already skipped in step
 **Container files are included:** they receive topic entries (9c) and `topic_slug` (9d) just
 like grammar points — they are the natural browsing entry point for their group. Their
 sub-points are classified independently and may share topics with them. Containers never
-receive `function`. Vocabulary files are excluded (their subdir path is their classification).
+receive `function`. Vocabulary files are excluded (their subdir path is their classification);
+`vocabulary-<pos>.md` consolidated files are excluded too — POS-consolidated vocabulary files,
+never individually topic-classified.
 
 **9a. Read existing topic file list**
 
@@ -583,12 +706,14 @@ UN5GL14 — 6 grammar points processed
   [Vocabulary]
   Created:  grammar-index/grammar/vocabulary/Adjectives/konna-sonna-anna.md
   Created:  grammar-index/grammar/vocabulary/Verbs/dekiru.md
+  Appended: grammar-index/grammar/vocabulary-verbs.md ← watasu-to-hand-over, wataru, dekiru-can (new theme: 渡す／渡る transitivity pair; dekiru-can ungrouped)
 ```
 
 After printing the report, if any grammar point or container files were created in this
 session, ask — `N` counts **only grammar point and container files**; vocabulary files
 (`grammar-index/grammar/vocabulary/…`) are complete at creation and never enter the
-post-processing chain:
+post-processing chain; `vocabulary-<pos>.md` consolidated files are excluded from `N` too,
+whether newly created or appended to in this run:
 
 ```
 Run preprocess-grammar on the N newly created files? (yes / no / all)

@@ -5,6 +5,7 @@ topic_slug: ["desire-want"]
 function: ["desire"]
 level: N4
 register: neutral
+confused_with: ["hoshii-i-want-n"]
 proofread: true
 ---
 
@@ -37,6 +38,10 @@ May be confused with:
 
 Register: neutral
 欲しい/たい themselves are plain-form adjectives; politeness comes from です (欲しいです, たいです = polite) vs the bare adjective (欲しい, たい = casual), same as any い-adjective. Directing a てほしい want at someone (rather than stating your own たい desire) doesn't change formality — both scale the same way via です.
+
+## Often confused with
+
+- [ほしい - i want N](/JapaneseNotes/grammar-index/grammar/hoshii-i-want-n) — test: Do you want someone else to do it (てほしい), or do you want the thing/action yourself (ほしい／たい)?
 
 ## See also
 

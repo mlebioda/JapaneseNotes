@@ -177,24 +177,26 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL11-Phone
 
 ## N＋を　vs N＋は
 
-- rest of the sentence + N + を + V
-		- もう荷物をじゅんびしました - I have packed my suitcase (im the subject)
-- N + は + rest of the sentence
-		- 荷物はもうじゅんびしました - I have packed my suitcase (suitcase is subject)
+- rest of the sentence + N + を + V (neutral — N stated as a plain object)
+		- もう荷物をじゅんびしました - I have packed my suitcase (neutral — baggage as plain object)
+- N + は + rest of the sentence (N topicalized — は replaces を, they never stack)
+		- 荷物はもうじゅんびしました - I have packed my suitcase (baggage as topic — e.g. contrasted with other things)
 
-#w もう荷物をじゅんびしました(にもつ) - I have packed my suitcase (im the subject)
-#w 荷物はもうじゅんびしました(にもつ) - I have packed my suitcase (suitcase is subject)
+Register: neutral — this is topic-marking, not politeness. Works identically in plain and polite speech; only the verb ending carries formality.
 
-#w 朝ご飯は 家で  食べます（いえ、あさごはん、た) - I  eat breakfast at home (breakfast subject)
+#w もう荷物をじゅんびしました(にもつ) - I have packed my suitcase (neutral — baggage as plain object)
+#w 荷物はもうじゅんびしました(にもつ) - I have packed my suitcase (baggage as topic — e.g. contrasted with other things)
 
-#w 家で　朝ご飯 を 食べます - I  eat breakfast at home (i subject)
+#w 朝ご飯は 家で  食べます（いえ、あさごはん、た) - I  eat breakfast at home (breakfast as topic — e.g. contrasted with other meals)
 
-#w お弁当は もう　作りました（べんとう、つく) - I have made a lunch box (lunchbox subject)
-#w  もう　お弁当　を　作りました（べんとう、つく) - I have made a lunch box (I subject)
+#w 家で　朝ご飯 を 食べます - I  eat breakfast at home (neutral — breakfast as plain object)
+
+#w お弁当は もう　作りました（べんとう、つく) - I have made a lunch box (lunch box as topic — e.g. contrasted with other things)
+#w  もう　お弁当　を　作りました（べんとう、つく) - I have made a lunch box (neutral — lunch box as plain object)
 
 
-#w タバコは　ここで　吸ってもいいですか - Can i smoke here cigaretes? (cigaretes subject)
-#w ここで タバコを　吸ってもいいですか - Can i smoke here cigaretes? (I subject)
+#w タバコは　ここで　吸ってもいいですか - Can I smoke cigarettes here? (cigarettes as topic — e.g. contrasted with other things, like alcohol)
+#w ここで タバコを　吸ってもいいですか - Can I smoke cigarettes here? (neutral — cigarettes as plain object)
 
 ---
 
@@ -203,14 +205,18 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL11-Phone
 - V ている - present continous
 	- アンドさんは電話をかけています - miss ando is calling on the phone
 - V ていません - present continous negative
+	- 今日はテレビを見ていません（きょう、み）- I'm not watching TV today
+
+Register: neutral — this covers both the plain form (〜ている) and the polite form (〜ています) shown here; only the verb ending changes politeness. The plain form 〜ている is the everyday/casual version, common in diary entries and casual speech.
 
 #w アンドさんは電話をかけています - miss ando is calling on the phone
-#w 彼はあそこど座っています（すわ）- he is sitting over there
+#w 彼はあそこで座っています（すわ）- he is sitting over there
 #w 学生はしゅくだいをしています - the students are doing their homework
+#w 今日はテレビを見ていません（きょう、み）- I'm not watching TV today
 
 #w 彼女はデパートで買い物しています　(かのじょ、かいもの) - she is shopping in the department store
 #w 妹はラジオを聞いています（いもうと、き）- My younger sis is listening to radio
-#w 鈴木さんは仕事をしていません、彼は昼ご飯を食べています（はたら、かれ、ひるごはん）- Mr suzuki is not working. He is eating lunch
+#w 鈴木さんは仕事をしていません、彼は昼ご飯を食べています（かれ、ひるごはん）- Mr suzuki is not working. He is eating lunch
 
 ## か・も
 ### 何か - something
@@ -219,8 +225,11 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL11-Phone
 Structure:
 - 何か + (を) + V
 	- 何かを食べますか - what will you eat?
+- 何か + Adjective + の + V (something + adjective)
+	- 何かおいしいものを買いました（か）- I bought something delicious
 
 #w 何かを食べますか - what will you eat? (something)
+#w 何かおいしいものを買いました（か）- I bought something delicious
 
 ### 何も - nothing
 #w 何も - nothing
@@ -234,12 +243,14 @@ Structure:
 
 ---
 
-###  だれか - someone
+### だれか - someone
 #w だれか - someone, anybody
 
 Structure:
-- だれか + (が）+ V
+- だれか + (が) + V
 	- だれか(が)　来ましたか - Did anybody come?
+
+Register: neutral/casual. In polite or formal contexts (customer service, formal invitations), どなたか is used instead of だれか.
 
 #w だれか(が)　来ましたか - Did anybody come?
 
@@ -258,27 +269,40 @@ Structure:
 #w どこか - somewhere, anywhere
 
 Structure
-- どこか（へ） + V negative[[]]
-	-  どこかへ行きますか - are you going somewhere?
+- どこか（へ） + V (affirmative/question)
+	- どこかへ行きますか - are you going somewhere?
 - Responses
 	- Negative
 		- いいえ、どこへも行きませんでした - No, i didn't go anywhere
+
+Register: neutral, works identically in plain and polite speech; only the verb ending changes formality.
 
 #w どこかへ行きますか - are you going somewhere?
 #w どこか（へ）旅行しますか - will you go anywhere for travelling?
 #w 去年の冬に　どこか　へ　行きましたか(きょねん,ふゆ) - Did you go somewhere last winter?
 
 #w いいえ、どこへも行きませんでした - No, i didn't go anywhere
-#w 空港に行く前に、どこにへ　行きませんか（くうこう、まえ) - Are you going somewhere before you go to the airport?
+#w 空港に行く前に、どこかへ　行きますか（くうこう、まえ) - Are you going somewhere before you go to the airport?
 
 ### どこも/どこへも - nowhere
-#w どこも/どこへも - nowhere 2x
+#w どこも/どこへも - nowhere | どこへも emphasizes direction (not going anywhere), while どこも is used more generally for place
 
 Structure
 - どこ（へ）も + V negative
 
-#w どこへも行きません - i'm not going nowhere
+#w どこへも行きません - I'm not going anywhere
 #w いいえ、どこも 行きません。ホテルにいます - no, I am not going anywhere. I will be in the hotel
+
+### いつか - someday
+#w いつか - someday
+
+Structure:
+- いつか + V
+	- いつか日本へ行きたいです（にほん、い）- I want to go to Japan someday
+
+Note: いつか completes the 何か/だれか/どこか/いつか "something/someone/somewhere/sometime" series. Unlike どこも・だれも・何も, however, いつも does NOT mean "never" — it means "always" (a frequency adverb, not a negative quantifier). "Never" is expressed differently, e.g. 一度も〜ない (not once) or 全然〜ない.
+
+#w いつか日本へ行きたいです（にほん、い）- I want to go to Japan someday
 
 ---
 
@@ -293,9 +317,13 @@ Structure
 	- まだ + V ている (affirmative) - **still is doing something**
 		- 彼はまだ寝ています（かれ、ね) - he is still sleeping
 	- まだ + Time - **still, as yet**
-		- 九月海外旅行に行きます。今はまだ三月です (くがつ、かいがいりょこう、さんがつ) - I will travel overseas in September. It is still march
+		- 九月海外旅行に行きます。今はまだ三月です (くがつ、かいがいりょこう、さんがつ) - I will travel overseas in September. It is still March
 	- まだ + more/besides
 		- 週末まで まだ 二日間あります (しゅうまつ、ふつかかん) - There are 2 more days until the weekend
+	- まだ + Adjective - **still (describing a state)**
+		- まだ早いです（はや）- It is still early
+
+Register: neutral — works with both plain (まだ寝ている, まだ三月だ) and polite (まだ寝ています, まだ三月です) forms; only the verb/copula ending changes politeness. This section only shows polite forms.
 
 #w まだ (+negative)  - not yet, still
 
@@ -307,7 +335,7 @@ Structure
 #w 彼はまだ寝ています（かれ、ね) - he is still sleeping 
 #w ラジさんは まだ 荷物を 準備しています（にもつ、じゅんび) - Raj is still preparing the baggage 
 
-#w 九月海外旅行に行きます。今はまだ三月です (くがつ、かいがいりょこう、さんがつ) - I will travel overseas in September. It is still march 
+#w 九月海外旅行に行きます。今はまだ三月です (くがつ、かいがいりょこう、さんがつ) - I will travel overseas in September. It is still March 
 #w まだ早いです（はや）- It is still early 
 
 #w 冷蔵庫の中にりんごがまだ五つあります（れいぞうこ、なか、いつつ) - There are 5 more apples in the fridge
@@ -323,16 +351,20 @@ Structure:
 	- もう　Vましたか - have you already V?
 		- はい (もう) Vました - Yes I have V 
 		- いいえ　Vていません - No i haven’t V yet
-		- いええ　まだです - not yet
+		- いいえ　まだです - not yet
 - もう(すぐ) - soon
 	- 仕事はもうすぐ終わります（しごと、お）- I will finish the work soon
 - もう + counter  - another/more/further
-	-  もう一度読みます（いちど、よ) - read one more time
+	- もう一度読みます（いちど、よ) - read one more time
 - を/は
 	- もう N + を + V
-		- もう荷物をじゅんびしました - I have packed my suitcase (im the subject)
+		- もう荷物をじゅんびしました - I have packed my suitcase (neutral — baggage as plain object)
 	- N + は + もう + V
-		- 荷物はもうじゅんびしました - I have packed my suitcase (suitcase is subject)
+		- 荷物はもうじゅんびしました - I have packed my suitcase (baggage as topic — e.g. contrasted with other things)
+- もう + V negative - **no longer, not anymore**
+	- もうビールを飲みません（の) - I won't drink beer anymore
+
+Register: neutral — works with both plain (もう起きた, もう三月だ) and polite (もう起きました, もう三月です) forms; only the verb/copula ending changes politeness. This section only shows polite forms.
 
 #w もう (moo)  - already, soon
 #w もうすぐ - soon 
@@ -345,7 +377,7 @@ Structure:
 
 #w もうすぐ12時です - It will be 12 o'clock soon 
 #w 仕事はもうすぐ終わります（しごと、お）- I will finish the work soon 
-#w 社長もう来ます（しゃちょう、き）- The CEO will come soon. 
+#w 社長はもう来ます（しゃちょう、き）- The CEO will come soon. 
 
 #w もう一度読みます（いちど、よ) - read one more time 
 #w もう一つみかんをいかがですか（ひとつ) - how about one more orange?
@@ -353,30 +385,34 @@ Structure:
 #w もう少し待ちます（すこ、ま）- I will wait a little longer 
 
 #w A: もう食べましたか？B: いいえまだです - A: Have you already eaten? B: Not yet
-#w A: もう食べましたか？B: いいえまだです - A: Have you already eaten? B: Not yet
 
 #w A: 山田さん、もう本を買いに行きましたか B: いいえ、まだ買っていません - mr yamada, have you gone out and bought the book yet? B: No - i haven't bought yet
 #w A: もう手紙を送りました（てがみ、おく) B: はい、もう送りました - A: have you sent the letter? B: yes i have sent
+#w もうビールを飲みません（の) - I won't drink beer anymore
 
 ## 前に + V -  before
-- Vdict ＋　前に + V (represent tense) 
-- Nの 前に + V (represent tense) 
+- Vdict（always dictionary/plain non-past form, regardless of actual tense — contrast with 後で below, which always takes the た-form）＋　前に + V (this verb carries the tense of the whole sentence)
+- Nの 前に + V (this verb carries the tense of the whole sentence)
 - A 前に B - To do B first, then do A
+
+Register: neutral — plain (前に行く) and polite (前に行きます) forms both use 前に identically; only the verb ending changes.
 
 #w ご飯を食べる前に、手を洗いましょう（あら) - let's wash hands before we eat our meal
 #w 旅行の前に、新しいカメラを買います - I will buy a new camera before travelling
-#w 友達が家に来る前に、部屋を　掃除しました（ともだち、いえ、く、へや、そうじ) - I cleaned house before my friends came
+#w 友達が家に来る前に、部屋を　掃除しました（ともだち、いえ、く、へや、そうじ) - I cleaned the room before my friends came
 
 ## 後で - after
 Structure:
-- Last verb define tense
-- Vた + 後で（あと) ....
+- Last verb defines tense
+- Vた（always た-form, past) + 後で（あと) .... — contrast with 前に, which always takes the dictionary/plain non-past form regardless of actual tense; this is the main point of confusion between the two patterns
 - Nの後で....
 - A後でB - First came A then B
 
-#w 空港で チェックインした後で、買い物をします（くうこう、あと、かいもの) - I will go shopping after I check in at the aiport
+Register: neutral — plain (後で行く) and polite (後で行きます) forms both use 後で identically; only the verb ending changes.
 
-#w 仕事が終わった後で、友達とお酒を飲みに行きました（しごと、お、あと、ともだち、さけ） - I went to dring alcohol with my friend after work
+#w 空港で チェックインした後で、買い物をします（くうこう、あと、かいもの) - I will go shopping after I check in at the airport
+
+#w 仕事が終わった後で、友達とお酒を飲みに行きました（しごと、お、あと、ともだち、さけ） - I went to drink alcohol with my friend after work
 
 #w 授業の後で　休みます（じゅぎょう、あと、やす）- I rest after class
 
@@ -385,19 +421,25 @@ Structure:
 
 - Important
 	- Sentence + から + sentence - because
+		- 雨が降っているから、行きません（あめ、ふ、い）- I won't go because it's raining
 	- て + て + V - do not specify hard order
+		- 朝ご飯を食べて、シャワーを浴びて、出かけます（あさごはん、た、あ、で）- I eat breakfast, take a shower, and go out
 	- てから - specify order
 
 Structure:
 - V1 て形 + から + V２
-	- 毎晩 歯を磨いて　から　ねます (まいばん、は、みが) - I sleep after i brush my teeth every night
+	- 毎晩 歯を磨いて　から　ねます (まいばん、は、みが) - I sleep after I brush my teeth every night
 
-#w 毎晩 歯を磨いて　から　ねます (まいばん、は、みが) - I sleep after i brush my teeth every night
+Register: neutral — plain (磨いてから寝る) and polite (磨いてから寝ます) forms both use てから identically; only the verb ending changes.
+
+#w 毎晩 歯を磨いて　から　ねます (まいばん、は、みが) - I sleep after I brush my teeth every night
+#w 雨が降っているから、行きません（あめ、ふ、い）- I won't go because it's raining
+#w 朝ご飯を食べて、シャワーを浴びて、出かけます（あさごはん、た、あ、で）- I eat breakfast, take a shower, and go out
 
 #w 昨日　ぎんざで 買い物をしてから、家に 帰りました（きのう、かいもの、かえ） - I went shopping in Ginza and then went back home yesterday
-#w お弁当を作ってから、アルバイトに行きます (べんとう、つく) - I will make a lunch box then i go to my part-time job
+#w お弁当を作ってから、アルバイトに行きます (べんとう、つく) - I will make a lunch box then I go to my part-time job
 
-#w 切手を買ってから、手紙を送ります（きって、か、てがみ、おく) - I am going to send the letter after i buy stamp
+#w 切手を買ってから、手紙を送ります（きって、か、てがみ、おく) - I am going to send the letter after I buy a stamp
 
 
 ## numbers
@@ -414,18 +456,23 @@ Structure:
 #w ななさい - 7 year old
 #w はっさい - 8 year old
 #w きゅうさい - 9 year old
-#w じゅうさい - 10 year old
+#w じゅっさい - 10 year old
 #w はたち - 20 years old
 
-#w なんさいいですか/おいくつですか for children - how old 2x
+#w なんさいですか - How old? (casual/direct — typically used with children, or informally with peers)
+#w おいくつですか - How old? (polite — used with adults, especially strangers or in formal contexts)
 
 #w A: お息子さんはいくつですか　B:　息子は八歳です (むすこ) - A: how old is your son? B: My son is 8 years old
 ## Verbs
 ### 終わる・始まる  - finishes, begins
 
 Structure:
-- 。。。＋が ＋始まる/終わる
+- 。。。＋が ＋始まる/終わる (intransitive — happens by itself, no one causes it)
 	- 映画が始まる - movie begins
+
+Confusable: 始める (to start something) / 終える (to finish something) are the transitive counterparts, taking を instead of が — e.g. 私が映画を始める ("I start the movie") vs 映画が始まる ("the movie starts [by itself]"). Classic 自動詞/他動詞 contrast pair.
+
+Register: neutral — plain and polite forms both apply normally; register comes from conjugation, not verb choice.
 
 #wc 終わる (おわる) - to finish (by itself) 
 #wc 始まる (はじまる) - to begin (event, itself)  
@@ -443,27 +490,27 @@ Structure
 -  Xを送る - to send
 	- 荷物を送る（にもつ、おく）- to send baggage
 - Place + で Person を 送る - send off somebody
-	- 空港で友達を送りました - i saw my friend off at the airport
+	- 空港で友達を送りました - I saw my friend off at the airport
 
 #wc 送る (おくる) - to send 
 
 #w 荷物を送る（にもつ、おく）- to send baggage
 #w 手紙を送る（てがみ、おく) - to send letter
 
-#w 空港で友達を送りました - i saw my friend off at the airport
+#w 空港で友達を送りました - I saw my friend off at the airport
 
 ### なる - become
 - Structure
-	- adv（な）/N + なる
-		- 私は来年二十歳になる（らいねん、はたち）- i will become 20 years old next year
-	- adv (い→く) なる
-		- 来年はおいくつですか
+	- な-adj/N + に + なる
+		- 私は来年二十歳になる（らいねん、はたち）- I will become 20 years old next year
+	- い-adjective (い→く) + なる
+		- にわの桜の木が大きくなりました (さくら、おお) - the cherry tree in the garden became big
 
-#w 私は来年二十歳になる（らいねん、はたち）- i will become 20 years old next year
-#w 山田さんは高校の先生いになりました(こうこう、せんせい) - yamada san became a high school teacher
+#w 私は来年二十歳になる（らいねん、はたち）- I will become 20 years old next year
+#w 山田さんは高校の先生になりました(こうこう、せんせい) - yamada san became a high school teacher
 #w にわの桜の木が大きくなりました (さくら、おお) - the cherry tree in the garden became big
- #w 遅くなりました、すみません (おそ) - I applogize for the delay. Sorry
-#w A: 来年はおいくつですか（らいねん）B: 二十歳になります（はたち） - How old will you be next year? B: Ill be 20 yr old
+#w 遅くなりました、すみません (おそ) - I apologize for the delay. Sorry
+#w A: 来年はおいくつですか（らいねん）B: 二十歳になります（はたち） - How old will you be next year? B: I'll be 20 years old
 
 #w 日本語が上手になります - you have gotten better at Japanese
 
@@ -1186,19 +1233,22 @@ A: Have you sent the letter? B: Yes, I have sent it #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_送.html">送</a>
 <!--ID: 1769520858205-->
 
-I have packed my suitcase (I'm the subject) #k  #card
+I won't drink beer anymore #card
+ほんやく: もうビールを飲みません（の)
+
+I have packed my suitcase (neutral — baggage as plain object) #k  #card
 ほんやく: もう荷物をじゅんびしました(にもつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_荷.html">荷</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1769520858213-->
 
-I have packed my suitcase (suitcase is subject) #k  #card
+I have packed my suitcase (baggage as topic — e.g. contrasted with other things) #k  #card
 ほんやく: 荷物はもうじゅんびしました(にもつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_荷.html">荷</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_物.html">物</a>
 <!--ID: 1769520858217-->
 
-I eat breakfast at home (breakfast subject) #k  #card
+I eat breakfast at home (breakfast as topic — e.g. contrasted with other meals) #k  #card
 ほんやく: 朝ご飯は 家で  食べます（いえ、あさごはん、た)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
@@ -1206,7 +1256,7 @@ I eat breakfast at home (breakfast subject) #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1769520858222-->
 
-I eat breakfast at home (I subject) #k  #card
+I eat breakfast at home (neutral — breakfast as plain object) #k  #card
 ほんやく: 家で　朝ご飯 を 食べます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_家.html">家</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
@@ -1214,26 +1264,26 @@ I eat breakfast at home (I subject) #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1769520858225-->
 
-I have made a lunch box (lunch box subject) #k  #card
+I have made a lunch box (lunch box as topic — e.g. contrasted with other things) #k  #card
 ほんやく: お弁当は もう　作りました（べんとう、つく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弁.html">弁</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1769520858231-->
 
-I have made a lunch box (I subject) #k  #card
+I have made a lunch box (neutral — lunch box as plain object) #k  #card
 ほんやく: もう　お弁当　を　作りました（べんとう、つく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弁.html">弁</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_当.html">当</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
 <!--ID: 1769520858239-->
 
-Can I smoke cigarettes here? (cigarettes subject) #card
+Can I smoke cigarettes here? (cigarettes as topic — e.g. contrasted with other things, like alcohol) #card
 ほんやく: タバコは　ここで　吸ってもいいですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_吸.html">吸</a>
 <!--ID: 1769520858244-->
 
-Can I smoke cigarettes here? (I subject) #card
+Can I smoke cigarettes here? (neutral — cigarettes as plain object) #card
 ほんやく: ここで タバコを　吸ってもいいですか
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_吸.html">吸</a>
 <!--ID: 1769520858246-->
@@ -1256,6 +1306,12 @@ the students are doing their homework #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_生.html">生</a>
 <!--ID: 1769520858260-->
 
+I'm not watching TV today #k  #card
+ほんやく: 今日はテレビを見ていません（きょう、み）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+
 she is shopping in the department store #k  #card
 ほんやく: 彼女はデパートで買い物しています　(かのじょ、かいもの)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
@@ -1271,7 +1327,7 @@ My younger sister is listening to the radio #k  #card
 <!--ID: 1769520858265-->
 
 Mr. Suzuki is not working. He is eating lunch #k  #card
-ほんやく: 鈴木さんは仕事をしていません、彼は昼ご飯を食べています（はたら、かれ、ひるごはん）
+ほんやく: 鈴木さんは仕事をしていません、彼は昼ご飯を食べています（かれ、ひるごはん）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_鈴.html">鈴</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_木.html">木</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
@@ -1385,6 +1441,11 @@ what will you eat? (something) #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <!--ID: 1769520858314-->
 
+I bought something delicious #k  #card
+ほんやく: 何かおいしいものを買いました（か）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
+
 nothing | used with a negative verb; the negative counterpart of 何か (something) #k  #card
 ほんやく: 何も
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
@@ -1442,7 +1503,7 @@ No, I didn't go anywhere #k  #card
 <!--ID: 1769520858353-->
 
 Are you going somewhere before you go to the airport? #k  #card
-ほんやく: 空港に行く前に、どこにへ　行きませんか（くうこう、まえ)
+ほんやく: 空港に行く前に、どこかへ　行きますか（くうこう、まえ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_港.html">港</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -1462,6 +1523,11 @@ No, I am not going anywhere. I will be in the hotel #k  #card
 ほんやく: いいえ、どこも 行きません。ホテルにいます
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
 <!--ID: 1769520858367-->
+
+I want to go to Japan someday #k  #card
+ほんやく: いつか日本へ行きたいです（にほん、い）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 
 Let's wash hands before we eat our meal #k  #card
 ほんやく: ご飯を食べる前に、手を洗いましょう（あら)
@@ -1532,6 +1598,20 @@ I sleep after I brush my teeth every night #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_磨.html">磨</a>
 <!--ID: 1769520858387-->
 
+I won't go because it's raining #card
+ほんやく: 雨が降っているから、行きません（あめ、ふ、い）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+
+I eat breakfast, take a shower, and go out #card
+ほんやく: 朝ご飯を食べて、シャワーを浴びて、出かけます（あさごはん、た、あ、で）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_朝.html">朝</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_飯.html">飯</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_浴.html">浴</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+
 I went shopping in Ginza and then went back home yesterday #k  #card
 ほんやく: 昨日　ぎんざで 買い物をしてから、家に 帰りました（きのう、かいもの、かえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
@@ -1601,16 +1681,19 @@ I am going to send the letter after I buy a stamp #k  #card
 <!--ID: 1769520858427-->
 
 10 year old  #card
-ほんやく: じゅうさい
+ほんやく: じゅっさい
 <!--ID: 1769520858431-->
 
 20 years old  #card
 ほんやく: はたち
 <!--ID: 1769520858434-->
 
-how old 2x  #card
-ほんやく: なんさいいですか/おいくつですか for children
+How old? (casual/direct — typically used with children, or informally with peers)  #card
+ほんやく: なんさいですか
 <!--ID: 1769520858436-->
+
+How old? (polite — used with adults, especially strangers or in formal contexts) #card
+ほんやく: おいくつですか
 
 A: How old is your son? B: My son is 8 years old #k  #card
 ほんやく: A: お息子さんはいくつですか　B:　息子は八歳です (むすこ)

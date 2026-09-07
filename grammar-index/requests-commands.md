@@ -16,6 +16,7 @@
 - [V「て」もらえませんか, V「て」くれませんか](/JapaneseNotes/grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka) · N4
 - [Vないでください - please don’t do it](/JapaneseNotes/grammar-index/grammar/vnaidekudasai-please-dont-do-it) · N5
 - [Vて いただけませんか - polite requests. Politer than てください](/JapaneseNotes/grammar-index/grammar/itadakemasenka-polite-request) · N4
+- [をください - please give me](/JapaneseNotes/grammar-index/grammar/wokudasai-please-give-me) · N5
 
 ## See also
 

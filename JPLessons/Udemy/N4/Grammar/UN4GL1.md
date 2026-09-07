@@ -544,7 +544,7 @@ Confusable: part of the broader こそあど demonstrative series (これ／そ�
 
 
 ## Verbs
-→ [[grammar-index/grammar/dekiru-verbs]]
+→ [[grammar-index/grammar/vocabulary-verbs]]
 
 ### 出来る（できる) - can, to be built/completed
 → [[grammar-index/grammar/vocabulary/Verbs/dekiru-can-to-be-built-completed]]

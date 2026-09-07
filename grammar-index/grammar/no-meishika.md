@@ -5,6 +5,7 @@ topic_slug: ["nominalization"]
 function: []
 level: N4
 register: neutral
+confused_with: ["adjno-substitute-of-noun"]
 proofread: true
 ---
 
@@ -45,6 +46,10 @@ proofread: true
 ## Register
 Register: neutral
 の as a nominaliser works the same way in casual and formal speech (e.g. 歌うのが好き is common in plain conversation too) — it is a structural device, not a politeness marker.
+
+## Often confused with
+
+- [ADJ＋の - substitute of noun](/JapaneseNotes/grammar-index/grammar/adjno-substitute-of-noun) — test: Does the の turn a whole verb/adjective clause into a noun (歌うのが好きです), or stand in for an omitted noun that was already mentioned (白いの = "the white one")?
 
 ## See also
 

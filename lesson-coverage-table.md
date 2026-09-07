@@ -13,11 +13,11 @@ Generated 2026-09-06. "Covered" = at least one `grammar-state.json` entry keyed 
 | UN5GL8.md   | Yes (8 points)                | No                         |
 | UN5GL9.md   | Yes (17 points)               | No                         |
 | UN5GL10.md  | Yes (23 points)               | No                         |
-| UN5GL11.md  | Yes (17 points)               | **During refinement**                         |
+| UN5GL11.md  | Yes (17 points)               | **Ready to extract**       |
 | UN5GL12.md  | **No**                        | Yes (9 links)              |
-| UN5GL13.md  | Yes (9 points)                | **Ready to extract**                          |
+| UN5GL13.md  | Yes (9 points)                | **Ready to extract**       |
 | UN5GL14.md  | Yes (20 points)               | Yes (21 links)             |
-| UN5GL15.md  | Yes (8 points)                | **Ready to extract**                         |
+| UN5GL15.md  | Yes (8 points)                | **Ready to extract**       |
 | UN4GL1.md   | Yes (17 points)               | Yes (20 links)             |
 | UN4GL2.md   | Yes (10 points)               | Yes (11 links)             |
 | UN4GL3.md   | Yes (10 points)               | Yes (11 links)             |

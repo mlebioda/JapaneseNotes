@@ -615,7 +615,7 @@ Negative - ほとんど + ない
 | **ほとんど** | almost / nearly / mostly                 | Amount or degree                  |
 | **なかなか** | quite (positive) / not easily (negative) | Difficulty or positive evaluation |
 ## Verbs
-→ [[grammar-index/grammar/verbs-informing-un4gl13]]
+→ [[grammar-index/grammar/vocabulary-verbs]]
 
 ### 知らせる（し）- to inform, let know
 → [[grammar-index/grammar/vocabulary/Verbs/shiraseru-to-inform-let-know]]

@@ -47,7 +47,10 @@ To check all grammar files at once: `python3 .claude/scripts/grammar-audit.py --
 
 #### Algorithm — grammar point files (no `## Sub-topics`)
 
-1. Scan all files in `grammar-index/grammar/` (exclude `index.md` if present) that contain a `## Sub-topics` section.
+1. Scan all files in `grammar-index/grammar/` (exclude `index.md` if present, and exclude any
+   file matching `grammar-index/grammar/vocabulary-*.md` — these are vocabulary consolidation
+   files, never containers, and must never enter the container-scanning candidate pool) that
+   contain a `## Sub-topics` section.
 2. For each container file, check whether the current file's slug appears in any of its `## Sub-topics` links.
 3. Collect all container files that include the current file. Extract each container's pattern name from its `# heading`.
 4. Format each as: `- [Container Name](/JapaneseNotes/grammar-index/grammar/<slug>) — <short phrase: what this container groups>` (containers live under `grammar-index/grammar/`, not the topic-file directory)

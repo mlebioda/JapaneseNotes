@@ -47,6 +47,7 @@ Mirrors structure-grammar's container detection. Before applying Step 8 or Step 
 
 - If the file has a `## Sub-topics` section (a container file): skip Steps 8–9 for it and log `Register/Confused-with: container file — skipped`.
 - Files under `grammar-index/grammar/vocabulary/` are out of scope entirely — never processed by this skill, in either mode.
+- Files matching `grammar-index/grammar/vocabulary-*.md` are also out of scope entirely — never processed by this skill, in either mode. This is a sibling exclusion by top-level filename pattern, in addition to (not a replacement for) the `vocabulary/` subdirectory rule above.
 
 ---
 

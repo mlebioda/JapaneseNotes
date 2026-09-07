@@ -59,7 +59,10 @@ def main():
         print("Error: grammar-index/grammar/ not found. Run from vault root.")
         sys.exit(1)
 
-    grammar_files = {f.stem: f for f in sorted(grammar_dir.glob('*.md'))}
+    grammar_files = {
+        f.stem: f for f in sorted(grammar_dir.glob('*.md'))
+        if not f.name.startswith('vocabulary-')
+    }
     topic_files = {
         f.stem: f for f in sorted(topic_dir.glob('*.md'))
         if f.name != 'index.md' and f.parent == topic_dir

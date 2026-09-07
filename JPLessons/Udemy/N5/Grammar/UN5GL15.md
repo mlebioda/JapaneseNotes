@@ -169,12 +169,18 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL15-i-couldnt-return-book-to-the-li
 # 文法
 
 ## Listing activities Vた り  ・・・します - two and more activities
+→ [[grammar-index/grammar/tari]]
 
 Structure：
 - V1た ＋り、V2た ＋り　。。。。します - ... and so on
-- last suru defines tense of the sentence
+- The final verb (します／している, etc.) carries the tense/aspect of the whole sentence
 - Not defined order of activities
+- Also attaches to い-adjectives (かった＋り) and な-adjectives/nouns (だった＋り)
+- Can be used with just one activity to softly imply "things like V" (other unlisted things also happen)
+- Can also describe alternating/contrasting states, e.g. 良かったり悪かったり - good and bad by turns
 	- 休みの日は、映画を見**たり**、日本語を勉強**したり します** - On my days off i watch movie and learn Japanese and so on
+
+Register: neutral — formality is carried entirely by the conjugation of the closing verb (します／plain する／していました, etc.); たり itself has no built-in politeness level and is used in both casual speech and formal writing.
 
 #w  休みの日は、映画を見**たり**、日本語を勉強**したり します** - On my days off i watch movie and learn Japanese and so on
 
@@ -182,19 +188,33 @@ Structure：
 
 #w この部屋でタバコを吸ったり、食べ物を食べたりしないでください (へや・す・たもの・た) - Please don't smoke and eat food or some things like that in this room.
 
+#w 休みの日はテレビを見たりします（やす・ひ・み）- On my days off I do things like watch TV (among other things)
+
+#w 今日の天気は良かったり悪かったりです（きょう・てんき・よ・わる）- Today's weather is good and bad by turns
+
 ---
 
 ## ながら - While - 2 actions occuring at the same time
+→ [[grammar-index/grammar/nagara]]
 Structure:
 - V1 ます形 ＋ ながら、V2. - while happens V2, happens also V1
 - V2 is a tense of the entire sentence
-	- 母は、台所で**歌いながら** 料理を作っています(はは、だいどころ、うた、りょうり、つく) - My mother is cooking in the kithen while singing a song
+- V1 and V2 must be done by the same subject, at the same time
+- V2 (main clause) is the primary action; V1＋ながら is the secondary/background action
+	- 母は、台所で**歌いながら** 料理を作っています(はは、だいどころ、うた、りょうり、つく) - My mother is cooking in the kitchen while singing a song
+
+Register: neutral — used in speech and writing, formality carried by V2's conjugation. A more literary/formal equivalent is つつ, which additionally covers a concessive "even though" sense that ながら doesn't comfortably carry.
+
+Often confused with:
+- つつ - same "while" meaning, formal/written register, also covers concessive "even though"
+- 間に (あいだに) - "during the interval," doesn't require the same subject, usually implies a change happens
+- とき - general "when," no simultaneity or same-subject requirement (see below)
 
 #w 母は、台所で**歌いながら** 料理を作っています(はは、だいどころ、うた、りょうり、つく) - My mother is cooking in the kitchen while singing a song
 
 #w 留学生はいつもアルバイトしながら、大学で勉強します (りゅうがくせい・だいがく・べんきょう) - The international students always do a part-time job while studying at university.
 #w 山田さんはコーヒーを飲みながら、アニメを見ています (やまだ・の・み) - Mr. Yamada is watching an anime while drinking coffee.
-#w 私は歌いながら、うんてんしました (わたし・うた) - I drove my car while singing.
+#w 私は歌いながら、運転しました (わたし・うた・うんてん) - I drove my car while singing.
 
 
 #w きのうの晩、わたしはカラオケで歌いながら、ダンスしました (ばん・うた) - Last night, I danced while singing at Karaoke.
@@ -202,7 +222,9 @@ Structure:
 #w わたしは富士山を見ながら、富士山を描きたいです (ふじさん・み・ふじさん・か) - I want to draw Mt. Fuji while looking at it.
 
 ## 。。。とき。。。
+→ [[grammar-index/grammar/toki]]
 ### A....とき...B - while A, B
+→ [[grammar-index/grammar/toki-non-past]]
 
 Structure
 - B defines tense of the sentence
@@ -225,20 +247,22 @@ Structure
 #w 学生のとき、よく公園へ花を見に行きました (がくせい・こうえん・はな・み・い) - I often went to a park to see flowers when I was a student.
 
 ### Vた＋とき＋V - do.... after doing something
+→ [[grammar-index/grammar/toki-past]]
 
 Structure:
 - V dict + とき。。。B - DO SOMETHIG AFTER SOMETHING
-	- アメリカへ行ったとき、ハンバーガー食べました - I ate hamburgers after(when) I went to America
+	- アメリカへ行ったとき、ハンバーガーを食べました - I ate hamburgers after(when) I went to America
 
 #w アメリカへ行ったとき、ハンバーガーを食べました - I ate hamburgers after(when) I went to America
 
 ### Comparison
 
-1. アメリカへ**行ったとき**、ハンバーガーを食べました - I ate hamburgers **after** I went to America
+- アメリカへ**行ったとき**、ハンバーガーを食べました - I ate hamburgers **after** I went to America
 - アメリカへ**行くとき**、ハンバーガーを食べました - I ate hamburgers **when** I went to America
 
-1. --------------1.  Arrive to America--- 2. Eat hamburger
-2. 1. went to america 1.Eat hamburger at the same time
+Timelines:
+- 行ったとき (past とき): 1. Arrive in America → 2. Eat hamburger (eating happens after arrival)
+- 行くとき (non-past とき): 1. Eat hamburger → 2. Arrive in America (eating happens before arrival is complete, e.g. on the way)
 
 #w 家に帰ったとき、両親に会った (いえ・かえ・りょうしん・あ) - I met my parents when I came back home.
 #w 家に帰るとき、両親に会った (いえ・かえ・りょうしん・あ) - I met my parents when i went home
@@ -247,9 +271,19 @@ Structure:
 -----
 
 #w アメリカへ**行くとき**、ハンバーガーを食べました - I ate hamburgers **when** I went to America
+
+Register: neutral — とき is used across every register. A more formal/written near-synonym is 際 (さい), common in announcements and business writing (e.g. ご利用の際は...).
+
+Often confused with:
+- ながら - simultaneous, same-subject only (see above)
+- 間 (あいだ) - a stretch/span of time, contrasts with とき's point-in-time framing
+- たら - can also mean "when" for a conditional/one-time event, a very common confusion with とき
+- 際 (さい) - formal/written register variant of とき (see Register above)
+
 # Vocabulary
 
 ## 趣味（しゅみ）- hobby
+→ [[grammar-index/grammar/vocabulary/Nouns/shumi-hobby]]
 
 Structure
 - ご趣味は何ですか（しゅみ、なん）- what is your hobby?
@@ -258,11 +292,16 @@ Structure
 - Verb
 	- 趣味は + Vdict + こと + です - my hobby is V
 
+Register: ご趣味は uses the polite ご- prefix, suited to formal or first-meeting contexts; the casual version drops it (趣味は何？).
+
 #w ご趣味は何ですか（しゅみ、なん）- what is your hobby?
-#w 私の趣味はスポーツです (わたし・しゅみ) - I am interested in sports. #w 母に料理の本をあげます。母の趣味は料理を作ることです (はは・りょうり・ほん・はは・しゅみ・りょうり・つく) - I will give my mom a cook book. My mom's hobby is cooking.
+#w 私の趣味はスポーツです (わたし・しゅみ) - My hobby is sports.
+#w 母に料理の本をあげます。母の趣味は料理を作ることです (はは・りょうり・ほん・はは・しゅみ・りょうり・つく) - I will give my mom a cook book. My mom's hobby is cooking.
 ## Verbs
+→ [[grammar-index/grammar/vocabulary-verbs]]
 
 ### 渡す（わたす）- to hand over
+→ [[grammar-index/grammar/vocabulary/Verbs/watasu-to-hand-over]]
 
 Structure:
 - N1 + に + N2 + を + 渡す（わた）- To handover N2 to N1(receiver)
@@ -270,14 +309,15 @@ Structure:
 
 #wc 渡す (わた) - to hand over
 #w アンドさん**に**手紙**を**渡しました**(てがみ、わた) - I handed over the letter to miss Ando.
-#w 山田さん**に**仕事の資料**を渡て**ください（しごと、しりょう、わた）- Please hand over the business materials to Mr. Yamada
+#w 山田さん**に**仕事の資料**を渡して**ください（しごと、しりょう、わた）- Please hand over the business materials to Mr. Yamada
 ### 渡る（わたる）- to cross from one side to the other/ go overseas by plane or boat
+→ [[grammar-index/grammar/vocabulary/Verbs/wataru]]
 
 Structure:
 - Nを渡る（わた）- to cross N
 	- 川**を渡る**（かわ、わた） - to cross a river
 - Place へ/に 渡る（わた） - to go to Place overseas by plane/boat
-	- 中国へ渡る（ちゅうごく、わた）- 
+	- 中国へ渡る（ちゅうごく、わた）- to go to China (by plane or boat)
 
 #w 川を渡る（かわ、わた） - to cross a river
 #w 橋を渡る（はし、わた） - to cross a bridge
@@ -285,9 +325,10 @@ Structure:
 #wc 渡る (わた) - to cross/ go overseas by plane or boat
 
 #w 中国(へ/に)渡る（ちゅうごく、わた）- to go to China (by plane or boat)
-#w アメリカ(へ/に)渡る（ちゅうごく、わた）- to go to America (by plane or boat)
+#w アメリカ(へ/に)渡る（わた）- to go to America (by plane or boat)
 
 ### できる - can
+→ [[grammar-index/grammar/vocabulary/Verbs/dekiru-can]]
 
 Structure
 
@@ -298,29 +339,31 @@ Structure
 	- Verb
 		- Verb + こと - Noun form verb
 		- Vdict + こと + が＋できる - can V
-			- 泳ぐことができる（およ）- i can swim
+			- 泳ぐことができる（およ）- I can swim
 - Indicates that ability is excellent
 	- あの学生はクラスで一番できる人です（いちばん）- That student is the best student in the class
 
 #w サッカー**が**できる - to be able to play soccer
-#w 卓球**が**できる（たっきゅう）- to be able to play png pong 
+#w 卓球**が**できる（たっきゅう）- to be able to play ping pong 
 #w 車の運転**が**できない（くるま、うんてん）- to be unable to drive a car
 
-#w 泳ぐことができる（およ）- i can swim
-#w 妹は弁当を作ることができます（いもうと、べんとう、つく） - younger sister can make lunch box
+#w 泳ぐことができる（およ）- I can swim
+#w 妹は弁当を作ることができます（いもうと、べんとう、つく） - younger sister can make a lunch box
 
 #w あの学生はクラスで一番できる人です（いちばん）- That student is the best student in the class
-#w 山田さんは仕事ができます - Mr. Yamada is very good at working (can work)
+#w 山田さんは仕事ができます（しごと） - Mr. Yamada is very good at working (can work)
 
 
 #w ラジさんは日本語ができます (にほんご) - Raj can speak Japanese.
-#w わたしはうんてんができません - I cannot drive.
+#w わたしは運転ができません（うんてん） - I cannot drive.
 #w あにはサッカーができます - My elder brother can play soccer.
-#w 席はまだ空いていますから、わたしたちは予約ができます (せき・あ・よやく) - There are some seats available, so we can book it.
+#w 席はまだ空いていますから、わたしたちは予約ができます (せき・あ・よやく) - There are some seats available, so we can make a reservation.
 
 #w ランさんはベトナム語を話すことができます (ご・はな) - Lan can speak Vietnamese.
 #w 安藤さんはピアノを弾くことができます (あんどう・ひ) - Miss Ando can play piano.
 #w 鳥は空を飛ぶことができます (とり・そら・と) - Birds can fly in the sky.
+
+Note: this section teaches the phrase-based potential (Vことができる). Japanese also has a direct potential (less formal) conjugation (e.g. 話す→話せる, 泳ぐ→泳げる) that expresses the same ability more concisely — the two are largely interchangeable and often confused.
 
 
 
@@ -1285,6 +1328,25 @@ Please don't smoke and eat food or some things like that in this room. #k #card
 
 
 
+On my days off I do things like watch TV (among other things) #k #card
+休みの日はテレビを見たりします（やす・ひ・み）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+
+
+
+Today's weather is good and bad by turns #k #card
+今日の天気は良かったり悪かったりです（きょう・てんき・よ・わる）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_良.html">良</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
+
+
+
 My mother is cooking in the kitchen while singing a song #k #card
 母は、台所で歌いながら 料理を作っています(はは、だいどころ、うた、りょうり、つく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
@@ -1321,9 +1383,11 @@ Mr. Yamada is watching an anime while drinking coffee. #k #card
 
 
 I drove my car while singing. #k #card
-私は歌いながら、うんてんしました (わたし・うた)
+私は歌いながら、運転しました (わたし・うた・うんてん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歌.html">歌</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1775624991269-->
 
 
@@ -1456,7 +1520,7 @@ What is your hobby? #k #card
 
 
 
-I am interested in sports #k #card
+My hobby is sports #k #card
 私の趣味はスポーツです (わたし・しゅみ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_趣.html">趣</a>
@@ -1634,7 +1698,7 @@ That student is the best student in the class #k #card
 
 
 Mr. Yamada is very good at working (can work) #k #card
-山田さんは仕事ができます
+山田さんは仕事ができます（しごと）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_山.html">山</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_田.html">田</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
@@ -1652,8 +1716,10 @@ Raj can speak Japanese. #k #card
 
 
 
-I cannot drive. #card
-わたしはうんてんができません
+I cannot drive. #k #card
+わたしは運転ができません（うんてん）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_運.html">運</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_転.html">転</a>
 <!--ID: 1775624991300-->
 
 
@@ -1664,7 +1730,7 @@ My elder brother can play soccer. #card
 
 
 
-There are some seats available, so we can book it. #k #card
+There are some seats available, so we can make a reservation. #k #card
 席はまだ空いていますから、わたしたちは予約ができます (せき・あ・よやく)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_席.html">席</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
