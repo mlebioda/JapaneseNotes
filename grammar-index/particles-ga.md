@@ -5,3 +5,8 @@
 ## Entries
 
 - [。。。が。。。 -](/JapaneseNotes/grammar-index/grammar/but) · N5
+- [But  - ...  が ....](/JapaneseNotes/grammar-index/grammar/contrastive-ga-but) · N5
+
+## See also
+
+- [Sentence Connectors](/JapaneseNotes/grammar-index/sentence-connectors) — the contrastive が connector, shared with this topic

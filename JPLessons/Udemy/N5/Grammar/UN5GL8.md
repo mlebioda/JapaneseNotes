@@ -223,6 +223,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL8-its-not-very-cold-this-week
 # 文法
 
 ## Adjectives 形容詞（けいようし）
+→ [[grammar-index/grammar/adjectives-keiyoushi]]
 
 2 types
 - い - already ends in い; used as-is directly before a noun (nothing added)
@@ -231,6 +232,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL8-its-not-very-cold-this-week
 	- 親切**な**人（しんせつ、ひと）- kind person
 
 ### い形容詞
+→ [[grammar-index/grammar/i-adjective-conjugation]]
 
 **Register:** ...です / ...ですか = polite (teineigo), used with strangers/in formal speech. Dropping です gives the plain/casual form (used with close friends/family, in casual writing, or when the adjective directly modifies a noun, e.g. 広い部屋).
 
@@ -277,6 +279,7 @@ Structure
 #w 先週は寒くなかったです （せんしゅう、さむ）- last week wasn't cold
 
 ## どうですか - How Is?
+→ [[grammar-index/grammar/doudesuka-how-is]]
 
 **Register:** どうですか is neutral-polite. Casual: どう? (drop ですか, used with friends). More formal/customer-service: いかがですか (e.g. お仕事はいかがですか).
 
@@ -306,6 +309,7 @@ Past:
 ---
 
 ## Adverbs
+→ [[grammar-index/grammar/adjective-to-adverb]]
 
 ### Structure
 -  Nは + ADV + V
@@ -328,10 +332,13 @@ How to make Adverb from Adjective?
 
 
 ## Spójniki 
+→ [[grammar-index/grammar/conjunctions]]
 
 ### and
+→ [[grammar-index/grammar/and-conjunction]]
 
 #### い -> くて
+→ [[grammar-index/grammar/i-kute]]
 - When listing more than 1
 
 Structure
@@ -340,6 +347,7 @@ Structure
 - tense of the last adjective defines tense of all Adj
 
 #### な-adjective / Noun -> で
+→ [[grammar-index/grammar/naadj-de-and-connecting-adjectives]]
 - だ -> で (drop だ, add で) when listing more than 1, same role as くて for い-adjectives
 	- 静か（しずか）-> 静かで、きれいです - quiet and clean
 	- 学生（がくせい）-> 学生で、忙しいです - (I am) a student and busy
@@ -353,6 +361,7 @@ Structure
 
 ### BUT
 #### But  - ...  が ....
+→ [[grammar-index/grammar/contrastive-ga-but]]
 
 が simply joins two clauses in contrast ("X, but Y"). There is no requirement that either clause be negative — most examples below are affirmative+affirmative (e.g. delicious *but* expensive), just semantically contrasting.
 
@@ -395,8 +404,10 @@ Verbs:
 #w 学校に行**きましたが**、先生に会いませんでした(あ) - I went to school but i did not meet the teacher #k
 
 ## Particles
+→ [[grammar-index/grammar/particles-wa-ga]]
 
 ### は vs が
+→ [[grammar-index/grammar/ha-vs-ga]]
 
 | は                          | が                                                        |
 | --------------------------- | --------------------------------------------------------- |
@@ -409,6 +420,7 @@ Verbs:
 
 
 ### は
+→ [[grammar-index/grammar/ha-topic-marker]]
 #### Structure
 - N1 は N2です - N2 describes N1 podmiot przed は
 
@@ -417,6 +429,7 @@ Verbs:
 #w 山田さんはだれですか - who is mr yamada? 
 
 ### が
+→ [[grammar-index/grammar/ga-subject-marker]]
 #### Structure
 - N1 が N2です - N2 describes N1 (podmiot za が)
 
@@ -432,10 +445,12 @@ Verbs:
 
 # Vocabulary
 ## Verbs
+→ [[grammar-index/grammar/vocabulary-verbs]]
 
 **Register:** ます forms (泊まります, 知っています) = polite; dictionary/plain form (泊まる, 知る) = casual.
 
 ### 泊まる（とまる）- to stay the night 
+→ [[grammar-index/grammar/vocabulary/Verbs/tomaru-to-stay-the-night]]
 #wc 泊まる（とまる）- to stay the night
 
 - Structure
@@ -450,6 +465,7 @@ Examples:
 #w あきはばら駅に近いホテルに泊まります（えき、ちか、と) - I will stay at hotel near Akihabara station
 
 ### 知る（しる）- to know
+→ [[grammar-index/grammar/vocabulary/Verbs/shiru]]
 
 - structure 
 	- Xを知っています - I know X

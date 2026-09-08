@@ -51,3 +51,4 @@ proofread: false
 - [なる - to become](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/naru-become) · N5
 - [返す（かえす）- to return](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/kaesu) · N5
 - [かかる - to spend/cost (time, money, effort)](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/kakaru) · N5
+- [泊まる（とまる）- to stay the night](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/tomaru-to-stay-the-night) · N5

@@ -2719,7 +2719,7 @@
       "score": 4
     },
     "UN5GL8::i-keiyoushi": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL8.md",
+      "lesson_file": "grammar-index/grammar/adjectives-keiyoushi.md",
       "grammar_header": "Adjectives 形容詞（けいようし）",
       "last_reviewed": "2026-09-03",
       "interval_days": 117,
@@ -2734,7 +2734,7 @@
       "next_review": "2026-12-29"
     },
     "UN5GL8::dou-desu-ka": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL8.md",
+      "lesson_file": "grammar-index/grammar/doudesuka-how-is.md",
       "grammar_header": "どうですか",
       "last_reviewed": "2026-09-08",
       "interval_days": 16,
@@ -2750,23 +2750,8 @@
       "score": 2,
       "next_review": "2026-10-08"
     },
-    "UN5GL8::adverbs-i-ku": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL8.md",
-      "grammar_header": "Adverbs",
-      "last_reviewed": "2026-07-27",
-      "interval_days": 45,
-      "ease": 2.8,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
-      "weak_points": [
-        "電話に出る takes に not を (particle error)"
-      ],
-      "score": 4,
-      "next_review": "2026-09-10"
-    },
     "UN5GL8::and-kute": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL8.md",
+      "lesson_file": "grammar-index/grammar/i-kute.md",
       "grammar_header": "Spójniki — and (くて)",
       "last_reviewed": "2026-07-29",
       "interval_days": 51,
@@ -2782,7 +2767,7 @@
       "next_review": "2026-09-18"
     },
     "UN5GL8::but-ga": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL8.md",
+      "lesson_file": "grammar-index/grammar/contrastive-ga-but.md",
       "grammar_header": "Spójniki — BUT (が)",
       "last_reviewed": "2026-08-17",
       "interval_days": 14,
@@ -2801,7 +2786,7 @@
       "next_review": "2026-09-10"
     },
     "UN5GL8::ha-vs-ga": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL8.md",
+      "lesson_file": "grammar-index/grammar/ha-vs-ga.md",
       "grammar_header": "は vs が",
       "last_reviewed": "2026-08-17",
       "interval_days": 14,
@@ -2817,7 +2802,7 @@
       "next_review": "2026-09-10"
     },
     "UN5GL8::tomaru-ni": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL8.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/tomaru-to-stay-the-night.md",
       "grammar_header": "泊まる（とまる）- to stay the night",
       "last_reviewed": "2026-08-14",
       "interval_days": 39,
@@ -2832,7 +2817,7 @@
       "next_review": "2026-09-22"
     },
     "UN5GL8::shiru": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL8.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/shiru.md",
       "grammar_header": "知る — 知っています／知りません",
       "last_reviewed": "2026-07-28",
       "interval_days": 45,
@@ -5092,6 +5077,45 @@
       "streak": 0,
       "total_reviews": 0,
       "weak_points": []
+    },
+    "UN5GL8::i-adjective-conjugation": {
+      "lesson_file": "grammar-index/grammar/i-adjective-conjugation.md",
+      "grammar_header": "い形容詞",
+      "last_reviewed": "2026-09-03",
+      "interval_days": 117,
+      "ease": 2.8,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 4,
+      "weak_points": [],
+      "score": 4,
+      "next_review": "2026-12-29"
+    },
+    "UN5GL8::ha-topic-marker": {
+      "lesson_file": "grammar-index/grammar/ha-topic-marker.md",
+      "grammar_header": "は",
+      "last_reviewed": "2026-08-17",
+      "interval_days": 14,
+      "ease": 2.35,
+      "streak": 3,
+      "total_reviews": 3,
+      "last_score": 4,
+      "weak_points": [],
+      "score": 4,
+      "next_review": "2026-09-10"
+    },
+    "UN5GL8::ga-subject-marker": {
+      "lesson_file": "grammar-index/grammar/ga-subject-marker.md",
+      "grammar_header": "が",
+      "last_reviewed": "2026-08-17",
+      "interval_days": 14,
+      "ease": 2.35,
+      "streak": 3,
+      "total_reviews": 3,
+      "last_score": 4,
+      "weak_points": [],
+      "score": 4,
+      "next_review": "2026-09-10"
     }
   }
 }

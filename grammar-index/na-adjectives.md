@@ -11,7 +11,11 @@
 - [2. なadj + Noun](/JapaneseNotes/grammar-index/grammar/naadj-noun) · N5
 - [4. N1は + なadj + な N2](/JapaneseNotes/grammar-index/grammar/n1-ha-naadj-na-n2) · N5
 - [5.  Nは + なadj で - AND](/JapaneseNotes/grammar-index/grammar/naadj-de-and-connecting-adjectives) · N5
+- [Adjectives 形容詞（けいようし）](/JapaneseNotes/grammar-index/grammar/adjectives-keiyoushi) · N5
 
 ## See also
 
 - [adjective-adverb-conversion](/JapaneseNotes/grammar-index/adjective-adverb-conversion) — na-adjectives' な＋に adverbial form overlaps this topic
+- [Adjective Types](/JapaneseNotes/grammar-index/adjective-types) — the broader い vs な classification this belongs under
+- [I-adjectives](/JapaneseNotes/grammar-index/i-adjectives) — the counterpart adjective class, conjugating differently
+- [Sentence Connectors](/JapaneseNotes/grammar-index/sentence-connectors) — な-adjective/Noun で-chaining also lives there as a clause connector

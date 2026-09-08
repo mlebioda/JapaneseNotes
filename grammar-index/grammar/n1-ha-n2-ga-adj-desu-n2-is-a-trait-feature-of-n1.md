@@ -5,7 +5,7 @@ topic_slug: ["topic-marking"]
 function: []
 level: N5
 register: neutral
-confused_with: ["ha-contrastive-topic-marker"]
+confused_with: ["ha-contrastive-topic-marker", "ga-subject-marker"]
 proofread: true
 ---
 
@@ -38,6 +38,7 @@ Used across all speech styles and registers; formality is carried by the copula 
 
 ## Often confused with
 - [は - marks a phrase (already carrying another particle) as a contrastive topic](/JapaneseNotes/grammar-index/grammar/ha-contrastive-topic-marker) — test: Does は mark N1 as topic while が still marks a second subject N2 in the same sentence (double-subject: N1は N2が ADJです), or does は stack onto/replace another particle entirely, with no second が-subject present?
+- [が](/JapaneseNotes/grammar-index/grammar/ga-subject-marker) — test: Does が mark the sole subject of a simple N1が N2です sentence, or a second/embedded subject describing a trait of an already-topic-marked N1 (N1は N2が ADJです)?
 
 ## See also
 

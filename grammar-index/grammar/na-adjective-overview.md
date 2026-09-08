@@ -5,6 +5,7 @@ topic_slug: ["na-adjectives", "adjective-adverb-conversion"]
 function: []
 level: N5
 register: tiered
+confused_with: ["i-adjective-conjugation"]
 proofread: true
 ---
 
@@ -65,6 +66,9 @@ Some words look like い-adjectives (end in い) but are actually な-adjectives
 ## Register
 Register: tiered (plain だ vs polite です)
 The forms shown here (です／ではありません／でした etc.) are the です-based polite tier. The same conjugation dimensions (non-past/past, affirmative/negative) exist in the plain tier too (だ／ではない or じゃない／だった), chosen based on who you're speaking to.
+
+## Often confused with
+- [い形容詞](/JapaneseNotes/grammar-index/grammar/i-adjective-conjugation) — test: Does the adjective's negative form take くない (→ い-adjective), or じゃありません／ではありません (→ な-adjective)?
 
 ## See also
 

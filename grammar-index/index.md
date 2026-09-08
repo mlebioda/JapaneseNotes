@@ -14,6 +14,8 @@
 ## Adjectives
 
 - [na-adjectives](/JapaneseNotes/grammar-index/na-adjectives) — な-adjective forms — attributive (+な+Noun), predicate conjugation (です／でした／ではありません), and adverbial (+に) uses.
+- [i-adjectives](/JapaneseNotes/grammar-index/i-adjectives) — い-adjective forms — sentence structure with です, and full non-past/past affirmative/negative conjugation.
+- [adjective-types](/JapaneseNotes/grammar-index/adjective-types) — The い-adjective vs な-adjective classification and how each attaches to a noun or predicate.
 
 ## Particles
 
@@ -55,6 +57,8 @@
 - [degree-adverbs](/JapaneseNotes/grammar-index/degree-adverbs) — Adverbs marking degree — how much, how little, or how strongly something applies: 少し, あまり, 全然, and related forms.
 - [indefinite-pronouns](/JapaneseNotes/grammar-index/indefinite-pronouns) — The か／も indefinite pronoun series — something/someone/somewhere/sometime (か) and their universal-negative counterparts (も).
 - [likes-dislikes-ability](/JapaneseNotes/grammar-index/likes-dislikes-ability) — Patterns for expressing likes, dislikes, and skill level using な-adjectives marked with が — 好き／嫌い, 上手／下手, and related forms.
+- [sentence-connectors](/JapaneseNotes/grammar-index/sentence-connectors) — Patterns for joining two clauses or descriptions into one sentence — くて／で for "and", が for contrastive "but", and related forms.
+- [opinions-impressions](/JapaneseNotes/grammar-index/opinions-impressions) — Patterns for asking someone's opinion, impression, or how something turned out: どうですか, and related forms.
 
 ## Forms & Counters
 
