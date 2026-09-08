@@ -11,8 +11,13 @@
 - [verb-potential-form](/JapaneseNotes/grammar-index/verb-potential-form) — The potential form (可能形) — conjugating a verb to express "can do X" — plus its group-by-group formation rules.
 - [giving-receiving](/JapaneseNotes/grammar-index/giving-receiving) — Patterns for giving, receiving, or doing an action as a favor for someone — あげる／くれる／もらう and their て形 auxiliary forms.
 
+## Adjectives
+
+- [na-adjectives](/JapaneseNotes/grammar-index/na-adjectives) — な-adjective forms — attributive (+な+Noun), predicate conjugation (です／でした／ではありません), and adverbial (+に) uses.
+
 ## Particles
 
+- [sentence-final-particles](/JapaneseNotes/grammar-index/sentence-final-particles) — Sentence-final particles that shape tone toward the listener — よ, ね, and related forms.
 - [particles-restrictive](/JapaneseNotes/grammar-index/particles-restrictive) — Patterns for limiting a statement to a single item or option — "only" — しか (with negative form) and だけ (with affirmative form).
 - [particles-mo](/JapaneseNotes/grammar-index/particles-mo) — Patterns built on the particle も — listing items, pairing "both A and B," emphasizing something unexpected, and (with an interrogative) expressing total affirmation or total denial.
 - [particles-ga](/JapaneseNotes/grammar-index/particles-ga) — The particle が used to connect two clauses as "but," or to softly introduce a new topic.

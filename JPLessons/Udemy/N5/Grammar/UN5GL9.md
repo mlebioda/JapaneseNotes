@@ -172,8 +172,10 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL9-This-restaurant-is-delicious-and
 
 # 文法
 ## Counters
+→ [[grammar-index/grammar/counters]]
 
 ### Ogólny  sposób  liczenia (1-10)
+→ [[grammar-index/grammar/general-counting-method-1-10]]
 
 Used for **many kinds of things**, especially when they are:
 - small,
@@ -211,6 +213,7 @@ Place + に + Thing (が) + number + arimasu
 #w 机の上に りんごが 五つあります（つくえ、うえ、いつつ）- There are 5 apples on the desk
 
 ### 個 (こ) - small things counter
+→ [[grammar-index/grammar/ko-small-things-counter]]
 
 - small/general items, valid from 1 upward — becomes necessary above 10, since the ひとつ...とお series stops at 10
 
@@ -255,6 +258,7 @@ Place + に + Thing (が) + number + arimasu
 ---
 
 ### 名 (めい) - counter for people (polite)
+→ [[grammar-index/grammar/mei-counter-for-people-polite]]
 
 Register: formal/service counter (restaurants, reservations, ceremonies) — contrast with the casual/neutral 人（にん）used in everyday conversation.
 
@@ -286,8 +290,10 @@ Register: formal/service counter (restaurants, reservations, ceremonies) — con
 
 
 ## な形容詞 - na adjectives
+→ [[grammar-index/grammar/na-adjectives-nouns-short]]
 
 ### な形容詞 + Nouns
+→ [[grammar-index/grammar/na-nouns]]
 
 Structure:
 - な形容詞+ な + Noun
@@ -296,8 +302,10 @@ Structure:
 
 
 ## 形容詞
+→ [[grammar-index/grammar/na-adjective-conjugation]]
 
 ### 1. な形容詞　な　overview
+→ [[grammar-index/grammar/na-adjective-overview]]
 
 Note: some words look like い-adjectives (end in い) but are actually な-adjectives and conjugate with this pattern, not with い→かった. The classic N5 traps are きれい (clean/pretty) and きらい (dislike) — see きれいでした / きれいではありませんでした below, never きれかった.
 
@@ -343,7 +351,8 @@ Note: some words look like い-adjectives (end in い) but are actually な-adje
 #w しずかに勉強しない - doesn't study quietly
 #w 静かではなく、賑やかです - it's not quiet, but lively
 
-### 2. N＋なadj + です - something is...
+### 2. なadj + Noun
+→ [[grammar-index/grammar/naadj-noun]]
 
 Structure
 - N＋なadj + です/か
@@ -356,13 +365,9 @@ Structure
 #w 先週の仕事は大変でした（せんしゅう、しごと、たいへん） - last week's work was difficult
 #w あのホテルはあまりきれいではありませんでした  - that hotel wasn't very clean  
 
-### 3. なadj + Noun
-
-- structure
-	- なadj + な + Noun
-		- 静か **な** 人（しずか） - quiet person
 
 ### 4. N1は + なadj + な N2
+→ [[grammar-index/grammar/n1-ha-naadj-na-n2]]
 - structure
 	- なadj + な + Noun
 		- 山田さんは静か **な** 人です（しずか） - Mr. Yamada is a quiet person
@@ -371,6 +376,7 @@ Structure
 #w あれは丈夫な建物です（じょうぶ、たてもの） - that is a solid building
 
 ### 5.  Nは + なadj で - AND
+→ [[grammar-index/grammar/naadj-de-and-connecting-adjectives]]
 
 Structure: （Both positive, both negative)
 - Nは + なadj1 で + なadj2....
@@ -387,6 +393,7 @@ Structure: （Both positive, both negative)
 #w この部屋は広くて しずかで安いです(へや、やす) - The room is spacious, quiet, and cheap
 
 ## N1 は どんな N2 ですか - What kind/sort of N2 is N1?
+→ [[grammar-index/grammar/donna-n-what-kind]]
 
 Structure:
 - N1 は どんな N2 ですか - What kind/sort of N2 is N1?
@@ -399,6 +406,7 @@ Structure:
 ## Because
 
 ### 1. ....から.... - because
+→ [[grammar-index/grammar/kara-because]]
 
 Structure
 - P1....から.... P2 - "Because P1, P2" (から attaches to the reason clause P1; the result P2 follows)
@@ -413,6 +421,7 @@ Note: English translation order is flexible — the same sentence can also be re
 #w 明日早く起きますから、今晩早く寝ます（あした、はや、お、こんばん、はや、ね） - because I will get up early tomorrow, I will sleep early tonight
 
 ### 2. ...., .... から - because
+→ [[grammar-index/grammar/kara-because]]
 
 Structure:
 - ...., .... から
@@ -423,8 +432,10 @@ Structure:
 #w A: このレストランにたくさんの人がいますね B: ここは有名ですからね (ゆうめい) - A: There are a lot of people in this restaurant, aren't there? B: Because this place is famous, you know
 
 ## Particles
+→ [[grammar-index/grammar/particles]]
 
 ### よ 
+→ [[grammar-index/grammar/yo]]
 
 - letting the listener know the information
 - emphasizing information
@@ -444,6 +455,7 @@ Difference between よ and ね
 # Vocabulary
 
 ## 大変(たいへん)
+→ [[grammar-index/grammar/vocabulary/Adjectives/taihen]]
 
 Register: 大変 as a な-adjective means difficult/serious/severe; as a bare adverb it means "very/extremely" — more emphatic and formal than plain とても, and often used in negative or serious contexts.
 
@@ -464,6 +476,7 @@ Examples
 #w 大変遠い（たいへん、とおい) - very far
 
 ## たくさん
+→ [[grammar-index/grammar/vocabulary/Nouns/takusan]]
 
 
 #w たくさん - many
@@ -482,6 +495,7 @@ Examples:
 
 
 ## いつも - always/usual
+→ [[grammar-index/grammar/vocabulary/Nouns/itsumo-always-usual]]
 
 #w いつも - always  (adverb), usual (noun)
 
@@ -498,6 +512,7 @@ Examples:
 #w 私はいつも１０時にねます (じ) - I always go to sleep at 10
 
 ## 別々（べつべつ）
+→ [[grammar-index/grammar/vocabulary/Adjectives/betsubetsu]]
 
 Structure
 - 別々 +　に + V
@@ -516,6 +531,7 @@ Structure
 #w 別々にあそこに行きましょう（べつべつ）- let's go there individually
 
 ## 所（ところ）
+→ [[grammar-index/grammar/vocabulary/Nouns/tokoro]]
 1. Place (overall)
 	1. 静かな所（しず、ところ）- quiet place
 2. Specifying a certain point or part

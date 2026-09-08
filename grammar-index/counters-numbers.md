@@ -17,3 +17,6 @@
 - [冊　（さつ) - number of books](/JapaneseNotes/grammar-index/grammar/satsu-number-of-books) · N5
 - [台（だい) - machines and vehicles](/JapaneseNotes/grammar-index/grammar/dai-machines-and-vehicles) · N5
 - [皿（さら) - dishes](/JapaneseNotes/grammar-index/grammar/sara-dishes) · N4
+- [Ogólny  sposób  liczenia (1-10)](/JapaneseNotes/grammar-index/grammar/general-counting-method-1-10) · N5
+- [個 (こ) - small things counter](/JapaneseNotes/grammar-index/grammar/ko-small-things-counter) · N5
+- [名 (めい) - counter for people (polite)](/JapaneseNotes/grammar-index/grammar/mei-counter-for-people-polite) · N5

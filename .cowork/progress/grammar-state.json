@@ -3101,7 +3101,7 @@
       "score": 2
     },
     "UN5GL9::general-counter-1-10": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/general-counting-method-1-10.md",
       "grammar_header": "Ogólny sposób liczenia (1-10)",
       "last_reviewed": "2026-08-06",
       "interval_days": 51,
@@ -3114,7 +3114,7 @@
       "score": 4
     },
     "UN5GL9::ko-counter": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/ko-small-things-counter.md",
       "grammar_header": "個 (こ) - small things counter",
       "last_reviewed": "2026-08-06",
       "interval_days": 51,
@@ -3130,7 +3130,7 @@
       "score": 4
     },
     "UN5GL9::mei-counter": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/mei-counter-for-people-polite.md",
       "grammar_header": "名 (めい) - counter for people (polite)",
       "last_reviewed": "2026-08-07",
       "interval_days": 51,
@@ -3143,7 +3143,7 @@
       "next_review": "2026-09-27"
     },
     "UN5GL9::na-adj-na-noun": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/na-nouns.md",
       "grammar_header": "な形容詞 + Nouns",
       "last_reviewed": "2026-08-07",
       "interval_days": 51,
@@ -3156,7 +3156,7 @@
       "next_review": "2026-09-27"
     },
     "UN5GL9::na-adj-overview": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/na-adjective-overview.md",
       "grammar_header": "な形容詞 な overview",
       "last_reviewed": "2026-08-07",
       "interval_days": 39,
@@ -3172,7 +3172,7 @@
       "next_review": "2026-09-15"
     },
     "UN5GL9::n-na-adj-desu": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/naadj-noun.md",
       "grammar_header": "N＋なadj + です - something is...",
       "last_reviewed": "2026-08-11",
       "interval_days": 51,
@@ -3185,7 +3185,7 @@
       "score": 4
     },
     "UN5GL9::n1-na-adj-na-n2": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/n1-ha-naadj-na-n2.md",
       "grammar_header": "N1は + なadj + な N2",
       "last_reviewed": "2026-09-06",
       "interval_days": 59,
@@ -3200,7 +3200,7 @@
       "score": 4
     },
     "UN5GL9::n-na-adj-de": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/naadj-de-and-connecting-adjectives.md",
       "grammar_header": "Nは + なadj で - AND",
       "last_reviewed": "2026-08-11",
       "interval_days": 51,
@@ -3214,53 +3214,26 @@
       "next_review": "2026-10-01",
       "score": 4
     },
-    "UN5GL9::donna-n2": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
-      "grammar_header": "N1 は どんな N2 ですか",
-      "last_reviewed": "2026-08-11",
-      "interval_days": 51,
-      "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
-      "weak_points": [],
-      "next_review": "2026-10-01",
-      "score": 4
-    },
-    "UN5GL9::kara-reason-first": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
-      "grammar_header": "....から.... - because",
+    "UN5GL9::kara-because": {
+      "lesson_file": "grammar-index/grammar/kara-because.md",
+      "grammar_header": "から - because",
       "last_reviewed": "2026-08-12",
       "interval_days": 38,
-      "ease": 2.8,
+      "ease": 2.88,
       "streak": 3,
-      "total_reviews": 3,
+      "total_reviews": 6,
       "last_score": 4,
       "weak_points": [
         "still avoiding 寝ましょう — used ことにします instead of the volitional (recurring: reaches for ことにする in intention/suggestion contexts)",
         "missing な in な-adjective + noun (大事な試験)",
-        "寝る conjugation: なましょう is invalid, needs 寝ましょう"
+        "寝る conjugation: なましょう is invalid, needs 寝ましょう",
+        "one-character adjective ending slip (美味し vs 美味しい)"
       ],
       "next_review": "2026-09-20",
       "score": 4
     },
-    "UN5GL9::kara-reason-end": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
-      "grammar_header": "...., .... から - because",
-      "last_reviewed": "2026-08-12",
-      "interval_days": 51,
-      "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
-      "weak_points": [
-        "one-character adjective ending slip (美味し vs 美味しい)"
-      ],
-      "next_review": "2026-10-02",
-      "score": 4
-    },
     "UN5GL9::yo-particle": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/yo.md",
       "grammar_header": "よ",
       "last_reviewed": "2026-09-07",
       "interval_days": 59,
@@ -3276,7 +3249,7 @@
       "score": 4
     },
     "UN5GL9::taihen": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Adjectives/taihen.md",
       "grammar_header": "大変(たいへん)",
       "last_reviewed": "2026-08-13",
       "interval_days": 51,
@@ -3291,7 +3264,7 @@
       "next_review": "2026-10-04"
     },
     "UN5GL9::takusan": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Nouns/takusan.md",
       "grammar_header": "たくさん",
       "last_reviewed": "2026-09-08",
       "interval_days": 32,
@@ -3310,7 +3283,7 @@
       "next_review": "2026-10-11"
     },
     "UN5GL9::itsumo": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Nouns/itsumo-always-usual.md",
       "grammar_header": "いつも - always/usual",
       "last_reviewed": "2026-09-02",
       "interval_days": 21,
@@ -3325,7 +3298,7 @@
       "score": 3
     },
     "UN5GL9::betsubetsu": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Adjectives/betsubetsu.md",
       "grammar_header": "別々（べつべつ）",
       "last_reviewed": "2026-09-02",
       "interval_days": 39,
@@ -3340,7 +3313,7 @@
       "score": 4
     },
     "UN5GL9::tokoro": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL9.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Nouns/tokoro.md",
       "grammar_header": "所（ところ）",
       "last_reviewed": "2026-09-02",
       "interval_days": 11,
@@ -3539,7 +3512,7 @@
       "interval_days": 51,
       "ease": 2.95,
       "streak": 3,
-      "total_reviews": 3,
+      "total_reviews": 6,
       "weak_points": [
         "どの vs どんな confusion (どの = specific known set, どんな = what kind/nature)"
       ],
@@ -3548,7 +3521,7 @@
       "last_reviewed": "2026-08-17",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-10-07"
+      "next_review": "2026-10-01"
     },
     "UN5GL10::wakaru": {
       "interval_days": 14,

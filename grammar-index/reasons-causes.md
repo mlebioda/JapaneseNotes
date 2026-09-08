@@ -7,6 +7,7 @@
 - [。。。ので - because](/JapaneseNotes/grammar-index/grammar/node-because) · N4
 
 - [**んです**/のです - express the situation to provide a reason, explaining something](/JapaneseNotes/grammar-index/grammar/ndesu-nodesu-explaining-reason) · N4
+- [から - because](/JapaneseNotes/grammar-index/grammar/kara-because) · N5
 
 ## See also
 

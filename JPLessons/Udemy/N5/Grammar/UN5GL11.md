@@ -461,6 +461,7 @@ Register: neutral — plain (磨いてから寝る) and polite (磨いてから�
 → [[grammar-index/grammar/numbers]]
 
 ### Years old
+→ [[grammar-index/grammar/vocabulary/Nouns/years-old]]
 
 #w number + 歳 (～さい) - ~ years old
 #w いっさい - 1 year old
@@ -482,6 +483,8 @@ Register: neutral — plain (磨いてから寝る) and polite (磨いてから�
 ## Verbs
 → [[grammar-index/grammar/vocabulary-verbs]]
 ### 終わる・始まる  - finishes, begins
+→ [[grammar-index/grammar/vocabulary/Verbs/owaru-to-finish-by-itself]]
+→ [[grammar-index/grammar/vocabulary/Verbs/hajimaru-to-begin-event-itself]]
 
 Structure:
 - 。。。＋が ＋始まる/終わる (intransitive — happens by itself, no one causes it)
@@ -502,6 +505,7 @@ Register: neutral — plain and polite forms both apply normally; register comes
 ---
 
 ### 送る - send
+→ [[grammar-index/grammar/vocabulary/Verbs/okuru-send]]
 
 Structure
 -  Xを送る - to send
@@ -517,6 +521,7 @@ Structure
 #w 空港で友達を送りました - I saw my friend off at the airport
 
 ### なる - become
+→ [[grammar-index/grammar/vocabulary/Verbs/naru-become]]
 - Structure
 	- な-adj/N + に + なる
 		- 私は来年二十歳になる（らいねん、はたち）- I will become 20 years old next year

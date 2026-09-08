@@ -27,6 +27,8 @@ proofread: true
 - A: どんな食べ物が好きですか B:甘いものが好きです（あま） - A: what kind of food do you like? B: I like sweet things
 - A: どんな色が好きですか（いろ）B: 白が好きです（しろ）- A: What color do you like? B: I like white
 - 彼(かれ)はどんな人(ひと)ですか - What kind of person is he?
+- A: 山田さんはどんな人ですか（やまだ、ひと）B: おもしろい人です（ひと）- A: what kind of person is Mr. Yamada B: he is an interesting person
+- 秋葉原はどんな所ですか（ところ）B: とてもにぎやかな 所です - A: What kind of place is Akihabara? B: It's a very busy place
 
 ## Register
 Register: neutral
