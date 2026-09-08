@@ -14,3 +14,5 @@
 
 - [Humble Expressions](/JapaneseNotes/grammar-index/humble-expressions) — rank-based keigo that stacks under the polite ます layer
 - [Respectful Expressions](/JapaneseNotes/grammar-index/respectful-expressions) — rank-based keigo honoring the other party
+- [Pronouns](/JapaneseNotes/grammar-index/pronouns) — pronoun choice tracks the same formality axis as teineigo
+- [Casual Speech](/JapaneseNotes/grammar-index/casual-speech) — casual speech, contrasted with the neutral polite register

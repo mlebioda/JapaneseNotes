@@ -5,7 +5,7 @@ topic_slug: ["obligation-necessity", "similarity-inference"]
 function: []
 level: N4
 register: neutral
-confused_with: ["you-desu", "nakutehanarimasen-nakerebanarimasen-must-have-to", "v-dict-koto-ni-natteimasu-it-is-supposed-to"]
+confused_with: ["you-desu", "nakutehanarimasen-nakerebanarimasen-must-have-to", "v-dict-koto-ni-natteimasu-it-is-supposed-to", "vnainakerebanarimasen-i-have-to-do"]
 proofread: true
 ---
 
@@ -92,6 +92,7 @@ Register: neutral
 - [...ようです](/JapaneseNotes/grammar-index/grammar/you-desu) — test: Is the speaker deducing from known facts/reasoning (はずです) or judging from what they can see/sense (ようです)?
 - [なくてはなりません・なければなりません - must, have to](/JapaneseNotes/grammar-index/grammar/nakutehanarimasen-nakerebanarimasen-must-have-to) — test: Is this a rule/obligation the subject must follow (なければならない) or the speaker's confident logical expectation about a fact (はずです)?
 - [V「dict」 こと ＋ に + なっています - It is supposed to](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-natteimasu-it-is-supposed-to) — test: Is this the speaker's own logical expectation, possibly unfulfilled, or an external rule/arrangement set by someone else?
+- [Vない＋なければなりません- I have to do](/JapaneseNotes/grammar-index/grammar/vnainakerebanarimasen-i-have-to-do) — test: Is this the speaker's confident logical expectation about a fact (→ はずです), or a rule/obligation the subject must follow (→ Vない＋なければなりません)?
 
 ## See also
 

@@ -5,7 +5,7 @@ topic_slug: ["action-timing"]
 function: ["temporal"]
 level: N4
 register: neutral
-confused_with: ["tokoro-desu-teiru-form", "aida-between-during-among"]
+confused_with: ["tokoro-desu-teiru-form", "aida-between-during-among", "ntime-made-ni-v-by-until-do"]
 proofread: true
 ---
 
@@ -64,6 +64,7 @@ Register: neutral
 
 - [2. V「て形」いるところです - action in progress right now](/JapaneseNotes/grammar-index/grammar/tokoro-desu-teiru-form) — test: Is this a specific action caught in progress right now, or a general/habitual timeframe like "during work" or "during this month"?
 - [間（あいだ）- between, during, among](/JapaneseNotes/grammar-index/grammar/aida-between-during-among) — test: Is the action happening continuously throughout the entire span (中), or at some specific point within the span (間に)?
+- [N(time) + まで +に + V - BY, until (do)](/JapaneseNotes/grammar-index/grammar/ntime-made-ni-v-by-until-do) — test: Is this expressing "by/within this period" with 中 (→ N中に), or a deadline for a one-time completed action (→ N(time) + までに + V)?
 
 ## See also
 

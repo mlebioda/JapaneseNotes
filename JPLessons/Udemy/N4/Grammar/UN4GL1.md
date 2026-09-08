@@ -1324,6 +1324,8 @@ Why were you late for work? (formal/written register) #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_社.html">社</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遅.html">遅</a>
+<!--ID: 1788882385328-->
+
 
 
 The train was late (formal/written register) #k #card
@@ -1331,6 +1333,8 @@ The train was late (formal/written register) #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_電.html">電</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_車.html">車</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_遅.html">遅</a>
+<!--ID: 1788882385329-->
+
 
 
 Why didn't you come to school yesterday? #k #card
@@ -1879,6 +1883,8 @@ I made a friend #k #card
 友達(ともだち)ができました
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
+<!--ID: 1788882385330-->
+
 
 
 to get wet from the water #k #card

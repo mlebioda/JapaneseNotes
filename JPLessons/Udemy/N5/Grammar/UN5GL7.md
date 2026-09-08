@@ -349,64 +349,17 @@ Examples
 
  --- 
 
+# 文法
 
-# Summary
- Gramatyka:
-## 文法
-### Verbs
-#### 勉強 - learn
+## Order
 
-Structure
-- as a noun
-	- Xの勉強
-#w 日本語の勉強 - to study japanese (noun) #k
-- as a verb
-	- Xを勉強する
-#w 日本語を勉強する - to study japanese (verb) #k
-
-#### 研究（けんきゅう）- research
+ - Time + Place + Object + Verb (a common tendency, not a strict rule — Japanese word order is fairly free since particles mark grammatical roles, and the verb stays sentence-final; time usually precedes place, but a phrase marked as topic with は moves to the front regardless, e.g. 明日は図書館で勉強する)
+	 - 明日図書館で日本語を勉強する - tomorrow, I will study Japanese in the library
 
 
-#w 研究(する）（けんきゅう）- research n/v #k
-#w 研究(する）（けんきゅう）- research  #k
-#w 研究者（けんきゅうしゃ）- researcher #k
+## Proposing something to someone
 
-Structure
-- Topic + を + 研究する
-
-#w 日本語を研究する（けんきゅう）- Studying Japanese language (research) #k 
-
-#w 父は大学で英語を研究します（ちち、だいがく、えいご、けんきょう) - My father is doing research on the English language at university
-
-#### 住む - to live
-
-- Structure
-	- Place + に＋住む
-
-#wc 住む（す）- to live/reside #k
-
-
-#w ポーランド**に**住んでいます - i live in poland
-
-#### 待つ - to wait
-
-Structure 
-- を＋待つ
-
-#w 私を待ってください(ま) - please wait for me #k
-#w 私はべんごしを待っています（ま）- i wait for lawyer
-#wc 待つ（ま）- to wait #k
-#w 待ってください(ま) - please wait
-
-### Order
-
- - Time + Place + V
-	 - 明日図書館で日本語を勉強する - tommorow in the library i will learn japanese
-
-
-### Proposing something to someone
-
-#### Vます形＋ませんか　Shall we?/Would you like, could you
+### Vます形＋ませんか　Shall we? / Would you like? / Why don't you...?
 
 Structure 
 - Vます形＋ませんか
@@ -414,12 +367,15 @@ Structure
 		- いっしょにアルバイトをしませんか B:そうですね・ちょっと
 	- Would you like  (often with いっしょ)
 		- **いっしょに** 図書館に行き**ませんか**（としょかん）-  Would you like to go to the library with me?
-	- Could you?
-		- 今日 部屋をそうじしませんか（きょう、へや）- Could you clean your room today?
+	- Suggesting something for the listener to do (not a request for a favor — that's てくれませんか／ていただけませんか)
+		- 今日 部屋をそうじしませんか（きょう、へや）- Why don't you clean your room today?
 - Often with いっしょに
 	- Then response
 		- いいですね
 		- ちょっと
+- Register
+	- Polite (ます-based) — appropriate with colleagues, acquaintances, customers, teachers
+	- Casual equivalent for close friends/family: plain-form V-ない？ (e.g. いっしょに行かない？)
 
 Examples:
 
@@ -427,43 +383,46 @@ Examples:
 #w しませんか - Shall we do?
 #w 行きませんか - Shall we go?
 
-#w いっしょにアルバイトをしませんか B:そうですね・ちょっと - shall we do part time job together? B: Yes/No
+#w いっしょにアルバイトをしませんか B:そうですね・ちょっと - Shall we do a part-time job together? B: Well... (a hesitant, indirect way of declining)
 
 #w A: いっしょに 図書館に行きませんか（としょかん）B: ええ、いいですね- Would you like to go to the library with me? B: Yeah, sounds great #k
 
-#w いっしょうに歌を歌いませんか（うた）- Would you like to sing together? #k
+#w いっしょに歌を歌いませんか（うた）- Would you like to sing together? #k
 #w 来週の祝日にいっしょに旅行しませんか（らいしゅう、しゅくじつ、りょこう）- Would you like to travel with me on a holiday next week? #k
 
 ---
-#w ドアを閉めませんか(し) - Could you close the door?
-#w 図書館から本を借りませんか（としょかん、か）- Will you borrow a book from the library? #k
+#w ドアを閉めませんか(し) - Why don't you close the door?
+#w 図書館から本を借りませんか（としょかん、か）- Why don't you borrow a book from the library? #k
 
-#w 今日 部屋をそうじしませんか（きょう、へや）- #k Could you clean your room today?
+#w 今日 部屋をそうじしませんか（きょう、へや）- #k Why don't you clean your room today?
 
 
-#### Vます形＋ましょう　- Let's...
+### Vます形＋ましょう　- Let's...
 
 1. Let's - inviting people to do something When EXPECTED ACCEPT PROPOSAL
-	1. less polite than masenka
-	2.  日曜日の七時にしんじゅく駅で会いましょう（しちじ、えき、あ）-  Lets meet at 7:00 on Sunday at Shinjuku Station
+	1. assumes the listener will agree — more direct than ませんか, which leaves the choice open; best with people confident to accept, or a leader addressing a group
+	2.  日曜日の七時にしんじゅく駅で会いましょう（しちじ、えき、あ）-  Let's meet at 7:00 on Sunday at Shinjuku Station
 2. Used to accept offer with more willingness
 	1. A: 明日カラオケに行きませんか　B：行きましょう！ - Would you like to go to karaoke tomorrow? B: Let's go!
 
 Structure:
 - V ます形＋ましょう
-	- 行く -> 行きましょ - lets go
-	-　待つ→待ちましょう - lets wait
+	- 行く -> 行きましょう - let's go
+	-　待つ→待ちましょう - let's wait
+- Register
+	- Polite (ます-based), but pragmatically bolder than ませんか since it assumes agreement — best with people confident to accept, or a leader addressing a group
+	- Casual equivalent for close friends: plain volitional form (行こう, 待とう)
 
 ---
 Examples:
 
 1. Inviting people
 
-#w 日曜日の七時にしんじゅく駅で会いましょう（しちじ、えき、あ）- #k Lets meet at 7:00 on Sunday at Shinjuku Station
+#w 日曜日の七時にしんじゅく駅で会いましょう（しちじ、えき、あ）- #k Let's meet at 7:00 on Sunday at Shinjuku Station
 
-#w 明日 いっしょに 学校に行きましょう（あした、がっこう) - Let's go to school to school tomorrow together. #k
+#w 明日 いっしょに 学校に行きましょう（あした、がっこう) - Let's go to school together tomorrow. #k
 
-#w おおさかじょうに行きましょ - let's go to osaka castle
+#w おおさかじょうに行きましょう - Let's go to Osaka Castle
 
 2. Accept offer
 
@@ -471,10 +430,13 @@ Examples:
 
 #w いっしょに 昼ごはんを食べませんか　B：はい、食べましょう（ひる）- #k A: Would you like to eat lunch with me? B: Yeah, let's eat lunch together
 
-#### Vます形＋ましょうか　- Shall I/We
+### Vます形＋ましょうか　- Shall I/We
 
 - Inviting people to do something
 	- Euphemistic, showing respect to the listener
+- Register
+	- Polite (ます-based); the most deferential of the three ませんか／ましょう／ましょうか since it explicitly offers to do something for the listener rather than proposing a shared action — common from hosts, service staff, or anyone offering a favor
+	- Casual equivalent: plain volitional + か (行こうか)
 
 Structure:
 - V ます形＋ましょうか
@@ -484,23 +446,25 @@ Structure:
 ---
 Examples
 
-#w お菓子を持っていましょうか（かし、も）- Shall I bring some sweets? #k
+#w お菓子を持っていきましょうか（かし、も）- Shall I bring some sweets? #k
 
 #w 傘を貸しましょうか（かさ、か）- Shall I lend you my umbrella? #k
 
-#### Podsumowanie
+#w そろそろ帰りましょうか - Shall we head back soon? (also usable as "Shall I...?" depending on context)
+
+#### summary
 
 | ませんか | Propose something first, then ask the others<br>- Invite and ask for intention                       | スキーに行きませんか | Would you like to go skiing with me? |
 | ---- | ---------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------ |
-| ましょ  | Propose smthing, assuming the others agree<br>- Propose something                                    | スキーに行きましょう | Let's go ski tohether                |
-| ましょか | asking someone their opinions then having the make decision<br>- ask for intention and let to decide | スキーに行きましょか | Shall we go skiing?                  |
+| ましょう | Propose something, assuming the others agree<br>- Propose something                                  | スキーに行きましょう | Let's go skiing together             |
+| ましょうか | asking for their opinion and letting them decide<br>- ask for intention and let them decide           | スキーに行きましょうか | Shall we go skiing?                  |
  
-### て形＋もいいです/か - You can do/ Can I?
+## て形＋もいいです/か - You can do/ Can I?
 
 - You can do...
-	- コーヒーを飲んでもいいです - You can dringkcoffee
+	- コーヒーを飲んでもいいです - You can drink coffee
 - Ask for permission
-	- 吸ってもいいですか (す) - can i smoke here?
+	- 吸ってもいいですか (す) - Can I smoke here?
 
 Structure:
 - て形＋もいいです - You can...
@@ -511,23 +475,31 @@ Responses:
 - はい、どうぞ
 - いいえ
 - いいえ、ちょっと
+- Register
+	- Polite (です copula) — fine for everyday polite speech
+	- Casual equivalent drops です: 見てもいい？("Can I look?") — used with friends/family
+	- More deferential alternative for asking permission from superiors/customers: よろしいですか／よろしいでしょうか
 
 ---
 Examples:
 
-#w 散歩に行ってもいです（さんぽ）- You can go for a walk #k
+#w 散歩に行ってもいいです（さんぽ）- You can go for a walk #k
 #w コーヒーを飲んでもいいです - You can drink coffee
 #w この部屋でタバコを吸ってもいいです（へや、す) - You can smoke in the room
 
-#w A: プレゼントを開けてもいいですか (あ) B: はい、いいです - can i open the present? B: Yes, its fine #k 
+#w A: プレゼントを開けてもいいですか (あ) B: はい、いいです - Can I open the present? B: Yes, it's fine #k 
 
 
 
-### て形＋はいけません - You must not do
+## て形＋はいけません - You must not do
 
 - You must not
 	- ここで泳いではいけません（およ）- you can't swim here
-- Don't use to people higher than U
+- Register
+	- Strong, direct prohibition — natural from parents/teachers, official rules, warning signs
+	- Too blunt/commanding toward someone of higher status (a superior, someone you should be polite to)
+	- Softer everyday alternative for asking someone not to do something: 〜ないでください ("please don't...")
+	- Casual synonym: 〜てはだめです (だめ = "no good")
 
 Structure:
 - て形＋はいけません
@@ -535,27 +507,28 @@ Structure:
 ---
 Examples:
 
-#w この部屋でタバコを吸っていけません（へや、す）- You cannot smoke in this room #k
+#w この部屋でタバコを吸ってはいけません（へや、す）- You cannot smoke in this room #k
 
 #w ここで泳いではいけません（およ）- you can't swim here
 
 
-### ている 
+## ている 
 
 #### ている - show state
 
-- State
-- Habits
-- present continous
+- State — resulting state after a one-time change, for punctual/instantaneous verbs (結婚する "to marry," 空く "to become free/vacant"): 結婚しています doesn't mean "is in the process of marrying," it means "is (now, as a result) married"
+- Ongoing action / Habits — for durative verbs (勉強する, 待つ, 飲む): a genuinely ongoing action or a repeated habit
+- Register
+	- Not politeness-restricted itself, but the conjugation varies by register: polite ています (as in the examples below), plain ている, casual/colloquial contraction てる (e.g. 勉強してる instead of 勉強している)
 
 - Structure
 	- て形＋いる
 
 Examples:
 
-#w 山田さんはけっこん　しています - mr Yamada is married
-#w 私は外で待っています(そと) - Im waiting outside #k
-#w 来週の日曜日は、空いています（らいしゅう、あ）- Im free on next sunday #k
+#w 山田さんはけっこん　しています - Mr. Yamada is married
+#w 私は外で待っています(そと) - I'm waiting outside #k
+#w 来週の日曜日は、空いています（らいしゅう、あ）- I'm free next Sunday #k
 
 #w 彼女は大学で日本語を勉強しています（かのじょ、にほんご、べんきょう）- She is studying Japanese at university #k 
 
@@ -563,20 +536,83 @@ Examples:
 
 #w 彼女は商社で働いています（しょうしゃ、はたら）- She works for a trading company
 
-### て形
+## て形
 
-#### て形 - several events happening back to back - order
+### て形 - several events happening back to back - order
 
 Structure
-- V1 て形, V2て形 ... - ostatnia forma wskazuje czas
+- V1 て形, V2 て形, ... Vn (final form) — only the last verb in the chain carries the tense/politeness marking (ます／た／plain); every earlier verb stays in plain て形 regardless of the sentence's overall tense
+- Register
+	- Not politeness-restricted itself — works the same way whether the final verb is polite or plain, since only that final form carries the register
+	- Not only for sequencing: て形 is also used to give a reason/cause (e.g. 熱があって、休みました — "I had a fever, so I rested"), which learners easily conflate with the "and then" sequencing use shown here
 
 ---
 Examples
 
 #w お菓子を持って行きます（おかし、も）- I will bring some sweets #k
-#w 毎日九時に会社に行って、１２じに昼ごはんを食べて午後六時に家へ戻って（まいにち、ひる、ごご、いえ、もど）- Every day I go to the company at 9:am, eat lunch at 12 and go back home at 6 P.M #k
+#w 毎日九時に会社に行って、１２じに昼ごはんを食べて午後六時に家へ戻って（まいにち、ひる、ごご、いえ、もど）- Every day I go to the company at 9 AM, eat lunch at 12 and go back home at 6 PM #k
 
-#w 土曜日に友達といっしょに昼ご飯を食べて、映画を見て、カラオケに行きました（どようび、ともだち、えいが、み）- I went to eat lunch with my friend, then we watched a movie and went to karaoke,
+#w 土曜日に友達といっしょに昼ご飯を食べて、映画を見て、カラオケに行きました（どようび、ともだち、えいが、み）- I ate lunch with my friend, watched a movie, and went to karaoke
+
+
+# Vocabulary
+## Verbs
+### 勉強 - learn
+
+Structure
+- as a noun
+	- Xの勉強
+#w 日本語の勉強 - to study Japanese (noun) #k
+- as a verb
+	- Xを勉強する — follows the general noun＋する pattern for turning an action-noun into a verb (see アルバイトをする, 研究する)
+#w 日本語を勉強する - to study Japanese (verb) #k
+- Register
+	- Neutral, no restrictions — polite 勉強します, plain/casual 勉強する
+
+### 研究（けんきゅう）- research
+
+
+#w 研究(する）（けんきゅう）- research n/v #k
+#w 研究者（けんきゅうしゃ）- researcher #k
+
+Structure
+- Topic + を + 研究する
+- Register
+	- Neutral/academic, no restrictions — polite 研究します, plain 研究する
+	- Honorific form ご研究 — for respectfully referring to someone else's research (e.g. a professor's)
+
+#w 日本語を研究する（けんきゅう）- Researching the Japanese language #k 
+
+#w 父は大学で英語を研究します（ちち、だいがく、えいご、けんきゅう) - My father is doing research on the English language at university
+
+### 住む - to live
+
+- Structure
+	- Place + に＋住む — implies permanent/long-term residence, not a brief or temporary stay
+	- Easy to reach for [place]にいます instead ("to be/exist at a place") — that only describes presence, not residence
+- Register
+	- Polite: 住んでいます (as shown); plain: 住んでいる
+	- Honorific form お住みになる — for respectfully referring to where someone else lives
+
+#wc 住む（す）- to live/reside #k
+
+
+#w ポーランド**に**住んでいます - I live in Poland
+
+### 待つ - to wait
+
+Structure 
+- を＋待つ
+- Register
+	- Polite: 待ちます／待っています (as shown); plain: 待つ／待っている
+	- Humble お待ちいたす／お待ちします and honorific お待ちになる also exist (see the conjugation table below)
+	- 待ってください is a fairly direct request — fine for casual use, teachers, service context, people you know; for superiors or greater deference, use 待っていただけますか／待っていただけないでしょうか instead
+
+#w 私を待ってください(ま) - please wait for me #k
+#w 私はべんごしを待っています（ま）- I am waiting for the lawyer
+#wc 待つ（ま）- to wait #k
+#w 待ってください(ま) - please wait
+
 
 # Summary
 
@@ -1009,14 +1045,6 @@ Examples
 <!--ID: 1763036595608-->
 
 
- research | more academic and in-depth than the everyday word for "study"; used for scholarly or scientific investigation #k #card
-ほんやく: 研究(する）（けんきゅう）
-お/ご (honorific): ご研究（けんきゅう）
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
-<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_究.html">究</a>
-<!--ID: 1763036595611-->
-
-
  researcher | 者 is a common suffix meaning "a person who does [X]", here forming "researcher" from the word for research #k #card
 ほんやく: 研究者（けんきゅうしゃ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_研.html">研</a>
@@ -1036,7 +1064,7 @@ Examples
 
 
  My father is doing research on the English language at university #card
-ほんやく: 父は大学で英語を研究します（ちち、だいがく、えいご、けんきょう)
+ほんやく: 父は大学で英語を研究します（ちち、だいがく、えいご、けんきゅう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -1121,7 +1149,7 @@ Examples
 <!--ID: 1763036595653-->
 
 
- Could you close the door? #card
+ Why don't you close the door? #card
 ほんやく: ドアを閉めませんか(し)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_閉.html">閉</a>
 <!--ID: 1763036595656-->
@@ -1137,7 +1165,7 @@ Examples
 <!--ID: 1763036595659-->
 
 
- #k Could you clean your room today? #card
+ #k Why don't you clean your room today? #card
 ほんやく: 今日 部屋をそうじしませんか（きょう、へや）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1189,7 +1217,7 @@ Examples
 
 
  Shall I bring some sweets? #k #card
-ほんやく: お菓子を持っていましょうか（かし、も）
+ほんやく: お菓子を持っていきましょうか（かし、も）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_菓.html">菓</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_持.html">持</a>
@@ -1203,8 +1231,15 @@ Examples
 <!--ID: 1763036595682-->
 
 
+ Shall we head back soon? (also usable as "Shall I...?" depending on context) #card
+ほんやく: そろそろ帰りましょうか
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_帰.html">帰</a>
+<!--ID: 1788882385300-->
+
+
+
  You can go for a walk #k #card
-ほんやく: 散歩に行ってもいです（さんぽ）
+ほんやく: 散歩に行ってもいいです（さんぽ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_散.html">散</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_歩.html">歩</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
@@ -1232,7 +1267,7 @@ Examples
 
 
  You cannot smoke in this room #k #card
-ほんやく: この部屋でタバコを吸っていけません（へや、す）
+ほんやく: この部屋でタバコを吸ってはいけません（へや、す）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_吸.html">吸</a>

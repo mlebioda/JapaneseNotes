@@ -1999,7 +1999,7 @@ to associate with / to go out with | to keep company with someone — covering e
 <!--ID: 1779824391938-->
 
 
-a 10-year relationship #k #card
+a 10-year relationship | specifically implies a romantic/dating relationship, not just any long acquaintance #k #card
 １０年（ねん）付き合った（つきあった）仲（なか）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_年.html">年</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>

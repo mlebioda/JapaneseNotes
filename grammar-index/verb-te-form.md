@@ -27,6 +27,7 @@
 - [～てくる, てきます - Action toward the speaker / returning to the starting point](/JapaneseNotes/grammar-index/grammar/tekuru-action-toward-speaker) · N4
 - [～ていく／～て行きます Action moves away from the speaker](/JapaneseNotes/grammar-index/grammar/teiku-action-away-from-speaker) · N4
 - [行ってきます - i go and i'll come back](/JapaneseNotes/grammar-index/grammar/ittekimasu-go-and-come-back) · N4
+- [V ている / ていない](/JapaneseNotes/grammar-index/grammar/v-teiru-teinai) · N5
 
 ## See also
 

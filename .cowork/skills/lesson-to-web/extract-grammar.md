@@ -143,7 +143,7 @@ heading fully before moving to the next. Do not batch slug computation or file
 content planning across multiple headings before creating the first file.
 Carry the classification forward:
 - `grammar` from `文法` → `grammar-index/grammar/<slug>.md` (normal flow, steps 5–11)
-- `grammar` from `Vocabulary` → `grammar-index/grammar/vocabulary/<subdir>/<slug>.md` (vocabulary file format, step 7b)
+- `grammar` from `Vocabulary` → `grammar-index/grammar/vocabulary/<subdir>/<slug>.md` (vocabulary file format, step 7b; step 8 applies normally)
 - `container` sourced from `# Vocabulary`, whose normalized heading text is exactly `Verbs`,
   `Nouns`, or `Adjectives`, and whose children are exclusively Vocabulary-sourced `grammar`
   headings → routes to step 7c (vocabulary POS container, consolidated) instead of step 7;

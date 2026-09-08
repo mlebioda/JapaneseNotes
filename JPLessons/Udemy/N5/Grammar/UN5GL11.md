@@ -176,6 +176,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL11-Phone
 # 文法
 
 ## N＋を　vs N＋は
+→ [[grammar-index/grammar/n-wo-vs-n-ha]]
 
 - rest of the sentence + N + を + V (neutral — N stated as a plain object)
 		- もう荷物をじゅんびしました - I have packed my suitcase (neutral — baggage as plain object)
@@ -201,6 +202,7 @@ Register: neutral — this is topic-marking, not politeness. Works identically i
 ---
 
 ## V ている / ていない
+→ [[grammar-index/grammar/v-teiru-teinai]]
 
 - V ている - present continous
 	- アンドさんは電話をかけています - miss ando is calling on the phone
@@ -219,7 +221,9 @@ Register: neutral — this covers both the plain form (〜ている) and the pol
 #w 鈴木さんは仕事をしていません、彼は昼ご飯を食べています（かれ、ひるごはん）- Mr suzuki is not working. He is eating lunch
 
 ## か・も
+→ [[grammar-index/grammar/ka-mo]]
 ### 何か - something
+→ [[grammar-index/grammar/ka-something]]
 #w 何か - something
 
 Structure:
@@ -232,6 +236,7 @@ Structure:
 #w 何かおいしいものを買いました（か）- I bought something delicious
 
 ### 何も - nothing
+→ [[grammar-index/grammar/mo-nothing]]
 #w 何も - nothing
 
 Structure:
@@ -244,6 +249,7 @@ Structure:
 ---
 
 ### だれか - someone
+→ [[grammar-index/grammar/dareka-someone]]
 #w だれか - someone, anybody
 
 Structure:
@@ -255,6 +261,7 @@ Register: neutral/casual. In polite or formal contexts (customer service, formal
 #w だれか(が)　来ましたか - Did anybody come?
 
 ### だれも - nobodu
+→ [[grammar-index/grammar/daremo-nobodu]]
 #w だれも - nobody
 
 Structure:
@@ -266,6 +273,7 @@ Structure:
 ---
 
 ### どこか - somewhere, anywhere
+→ [[grammar-index/grammar/dokoka-somewhere-anywhere]]
 #w どこか - somewhere, anywhere
 
 Structure
@@ -285,6 +293,7 @@ Register: neutral, works identically in plain and polite speech; only the verb e
 #w 空港に行く前に、どこかへ　行きますか（くうこう、まえ) - Are you going somewhere before you go to the airport?
 
 ### どこも/どこへも - nowhere
+→ [[grammar-index/grammar/dokomo-dokohemo-nowhere]]
 #w どこも/どこへも - nowhere | どこへも emphasizes direction (not going anywhere), while どこも is used more generally for place
 
 Structure
@@ -294,6 +303,7 @@ Structure
 #w いいえ、どこも 行きません。ホテルにいます - no, I am not going anywhere. I will be in the hotel
 
 ### いつか - someday
+→ [[grammar-index/grammar/itsuka-someday]]
 #w いつか - someday
 
 Structure:
@@ -309,6 +319,7 @@ Note: いつか completes the 何か/だれか/どこか/いつか "something/so
 # Vocabulary
 
 ## まだ, not yet, still
+→ [[grammar-index/grammar/mada-still-not-yet]]
 - Structure
 	- まだ　Vていません - **i haven't done something**
 		- 映画は　まだ　終わっていません (えいが、お) - the movie is not over yet
@@ -343,6 +354,7 @@ Register: neutral — works with both plain (まだ寝ている, まだ三月だ
 
 ---
 ## もう already, soon
+→ [[grammar-index/grammar/vocabulary/Adverbs/mou-already-soon]]
 
 Structure:
 - もう -  **already**
@@ -391,6 +403,7 @@ Register: neutral — works with both plain (もう起きた, もう三月だ) a
 #w もうビールを飲みません（の) - I won't drink beer anymore
 
 ## 前に + V -  before
+→ [[grammar-index/grammar/vocabulary/Adverbs/mae-ni-before]]
 - Vdict（always dictionary/plain non-past form, regardless of actual tense — contrast with 後で below, which always takes the た-form）＋　前に + V (this verb carries the tense of the whole sentence)
 - Nの 前に + V (this verb carries the tense of the whole sentence)
 - A 前に B - To do B first, then do A
@@ -402,6 +415,7 @@ Register: neutral — plain (前に行く) and polite (前に行きます) forms
 #w 友達が家に来る前に、部屋を　掃除しました（ともだち、いえ、く、へや、そうじ) - I cleaned the room before my friends came
 
 ## 後で - after
+→ [[grammar-index/grammar/vocabulary/Adverbs/ato-de-after]]
 Structure:
 - Last verb defines tense
 - Vた（always た-form, past) + 後で（あと) .... — contrast with 前に, which always takes the dictionary/plain non-past form regardless of actual tense; this is the main point of confusion between the two patterns
@@ -418,6 +432,7 @@ Register: neutral — plain (後で行く) and polite (後で行きます) forms
 
 
 ## から Specify order of things
+→ [[grammar-index/grammar/vocabulary/Adverbs/kara-specify-order-of-things]]
 
 - Important
 	- Sentence + から + sentence - because
@@ -443,6 +458,7 @@ Register: neutral — plain (磨いてから寝る) and polite (磨いてから�
 
 
 ## numbers
+→ [[grammar-index/grammar/numbers]]
 
 ### Years old
 
@@ -464,6 +480,7 @@ Register: neutral — plain (磨いてから寝る) and polite (磨いてから�
 
 #w A: お息子さんはいくつですか　B:　息子は八歳です (むすこ) - A: how old is your son? B: My son is 8 years old
 ## Verbs
+→ [[grammar-index/grammar/vocabulary-verbs]]
 ### 終わる・始まる  - finishes, begins
 
 Structure:
@@ -1235,6 +1252,8 @@ A: Have you sent the letter? B: Yes, I have sent it #k  #card
 
 I won't drink beer anymore #card
 ほんやく: もうビールを飲みません（の)
+<!--ID: 1788882385318-->
+
 
 I have packed my suitcase (neutral — baggage as plain object) #k  #card
 ほんやく: もう荷物をじゅんびしました(にもつ)
@@ -1311,6 +1330,8 @@ I'm not watching TV today #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_今.html">今</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+<!--ID: 1788882385319-->
+
 
 she is shopping in the department store #k  #card
 ほんやく: 彼女はデパートで買い物しています　(かのじょ、かいもの)
@@ -1445,6 +1466,8 @@ I bought something delicious #k  #card
 ほんやく: 何かおいしいものを買いました（か）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_買.html">買</a>
+<!--ID: 1788882385320-->
+
 
 nothing | used with a negative verb; the negative counterpart of 何か (something) #k  #card
 ほんやく: 何も
@@ -1528,6 +1551,8 @@ I want to go to Japan someday #k  #card
 ほんやく: いつか日本へ行きたいです（にほん、い）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<!--ID: 1788882385321-->
+
 
 Let's wash hands before we eat our meal #k  #card
 ほんやく: ご飯を食べる前に、手を洗いましょう（あら)
@@ -1603,6 +1628,8 @@ I won't go because it's raining #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_行.html">行</a>
+<!--ID: 1788882385322-->
+
 
 I eat breakfast, take a shower, and go out #card
 ほんやく: 朝ご飯を食べて、シャワーを浴びて、出かけます（あさごはん、た、あ、で）
@@ -1611,6 +1638,8 @@ I eat breakfast, take a shower, and go out #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_食.html">食</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_浴.html">浴</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_出.html">出</a>
+<!--ID: 1788882385323-->
+
 
 I went shopping in Ginza and then went back home yesterday #k  #card
 ほんやく: 昨日　ぎんざで 買い物をしてから、家に 帰りました（きのう、かいもの、かえ）
@@ -1694,6 +1723,8 @@ How old? (casual/direct — typically used with children, or informally with pee
 
 How old? (polite — used with adults, especially strangers or in formal contexts) #card
 ほんやく: おいくつですか
+<!--ID: 1788882385324-->
+
 
 A: How old is your son? B: My son is 8 years old #k  #card
 ほんやく: A: お息子さんはいくつですか　B:　息子は八歳です (むすこ)

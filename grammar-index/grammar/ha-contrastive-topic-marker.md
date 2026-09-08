@@ -5,7 +5,7 @@ topic_slug: ["topic-marking"]
 function: []
 level: N4
 register: neutral
-confused_with: ["nnara-as-for"]
+confused_with: ["nnara-as-for", "n-wo-vs-n-ha", "n1-ha-n2-ga-adj-desu-n2-is-a-trait-feature-of-n1"]
 proofread: true
 ---
 
@@ -43,6 +43,8 @@ Used identically in casual and polite speech — its function is scope/contrast,
 
 ## Often confused with
 - [Nなら - as for,  jesli o tym mowa](/JapaneseNotes/grammar-index/grammar/nnara-as-for) — test: Is this contrastively marking a phrase that already carries another particle (→ には／では／のは etc.), or picking up and commenting on a topic just mentioned (→ Nなら)?
+- [N＋を　vs N＋は](/JapaneseNotes/grammar-index/grammar/n-wo-vs-n-ha) — test: Is は stacking onto a particle that marks place/time/direction (に／で／から／まで／へ), or replacing a bare subject/object marker (が／を) entirely?
+- [N1 は N2 が ADJ です — N2 is a trait/feature of N1](/JapaneseNotes/grammar-index/grammar/n1-ha-n2-ga-adj-desu-n2-is-a-trait-feature-of-n1) — test: Is は stacking onto another particle or replacing が／を entirely, or does が still mark a second subject N2 alongside は marking N1 (→ N1は N2が ADJです double-subject construction)?
 
 ## See also
 

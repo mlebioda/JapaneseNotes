@@ -175,15 +175,17 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL9-This-restaurant-is-delicious-and
 
 ### Ogólny  sposób  liczenia (1-10)
 
-Do **bardzo wielu rzeczy**, szczególnie gdy są:
-- małe,
-- nieliczne (liczenie <10)
-- niespecyficzne co do kształtu,
-- albo nie pamiętasz licznika właściwego.
+Used for **many kinds of things**, especially when they are:
+- small,
+- few (counting <10)
+- non-specific in shape,
+- or you don't remember the correct counter.
+
+Register: neutral — used in both casual and polite speech.
 
 Structure
 - counter + の + product
-	- 今日はは母二つのリンゴを買いました
+	- 今日は母は二つのリンゴを買いました
 - product + を + counter
 	- 母はリンゴを二つ買いました
 
@@ -198,19 +200,19 @@ Structure
 #w 九つ（ここのつ）- nine items #counter  
 #w 十（とお）- ten items #counter
 
-#w いくつ - how many (dla) ひとつ...
+#w いくつ - how many (used with the ひとつ...とお counting series)
 #w つくえの上にりんごがいくつありますか（うえ) - How many apples are on the desk?
 
-#w 今日は母は(二つ**の**リンゴを/リンゴを２つ）買いました - #k Today, my mother bought 2 apples (2 kolejnosci czytania liczba->produkt, produkt->liczba)
+#w 今日は母は(二つ**の**リンゴを/リンゴを２つ）買いました - #k Today, my mother bought 2 apples (illustrating both word orders: counter+の+product, and product+counter)
 
 Order
-Place + Thing (が) + number + arimasu
+Place + に + Thing (が) + number + arimasu
 
 #w 机の上に りんごが 五つあります（つくえ、うえ、いつつ）- There are 5 apples on the desk
 
 ### 個 (こ) - small things counter
 
-- glownie male rzeczy >10
+- small/general items, valid from 1 upward — becomes necessary above 10, since the ひとつ...とお series stops at 10
 
 #w **一個（いっこ）- one small thing** #counter  
 #w 二個（にこ）- two small things #counter  
@@ -248,11 +250,13 @@ Place + Thing (が) + number + arimasu
 #w クッキーを七個（ななこ）焼く - bake seven cookies  
 #w 箱（はこ）を八個（はっこ）運ぶ - carry eight boxes  
 #w ボタンを九個（きゅうこ）付ける - attach nine buttons  
-#w チョコを十個（じゅっこ）買った - bought ten chocolates (pralinki, nie plaskie)
+#w チョコを十個（じゅっこ）買った - bought ten chocolates (praline-style, not flat bars)
 
 ---
 
-### 名 (めい) - counter for people (politwe)
+### 名 (めい) - counter for people (polite)
+
+Register: formal/service counter (restaurants, reservations, ceremonies) — contrast with the casual/neutral 人（にん）used in everyday conversation.
 
 #w 二名（にめい） - two people (polite) #k  
 #w 三名（さんめい） - three people (polite) #k  
@@ -277,7 +281,8 @@ Place + Thing (が) + number + arimasu
 #w 九十名（きゅうじゅうめい） - ninety people (polite) #k  
 #w 百名（ひゃくめい） - one hundred people (polite) #k
 
-#w 何名(さま)ですか（なんめい）- how many people (polite, and more polite) #k
+#w 何名ですか（なんめい）- how many people? (polite) #k
+#w 何名様ですか（なんめい）- how many people? (very polite, used by service staff) #k
 
 
 ## な形容詞 - na adjectives
@@ -286,13 +291,15 @@ Place + Thing (が) + number + arimasu
 
 Structure:
 - な形容詞+ な + Noun
-	- しずかかな夜
+	- しずかな夜
 
 
 
 ## 形容詞
 
 ### 1. な形容詞　な　overview
+
+Note: some words look like い-adjectives (end in い) but are actually な-adjectives and conjugate with this pattern, not with い→かった. The classic N5 traps are きれい (clean/pretty) and きらい (dislike) — see きれいでした / きれいではありませんでした below, never きれかった.
 
 - Non-past
 	- affirmative
@@ -317,6 +324,10 @@ Structure:
 		- Nは + な形容詞 + に + V
 			- しずかに 勉強する
 	- negation
+		- Nは + な形容詞 + に + Vない (the verb is negated; the adjective itself doesn't change)
+			- しずかに勉強しない - doesn't study quietly
+		- な形容詞 + ではなく/じゃなく + .... ("not X, but Y" — used to link clauses)
+			- 静かではなく、賑やかです - it's not quiet, but lively
 
 #w にぎやかではありません - is not lively (more polite)
 #w にぎやかじゃありません - is not lively (less polite)
@@ -329,6 +340,9 @@ Structure:
 #w 妹は静かに寝ています（いもうと、しず、ね） - my sister is quietly sleeping
 #w べつべつに会計します（かいけい） - we will pay separately
 #w 山田さんは真面目に働いています（やまだ、まじめ、はたら） - Mr. Yamada works hard
+#w しずかに勉強しない - doesn't study quietly
+#w 静かではなく、賑やかです - it's not quiet, but lively
+
 ### 2. N＋なadj + です - something is...
 
 Structure
@@ -336,22 +350,22 @@ Structure
 	- 私の高校の先生は真面目です（こうこう、まじめ) - my high school teacher is serious
 
 #w 私の高校の先生は真面目です（こうこう、まじめ) - my high school teacher is serious
-#w 私は昨日ひま ではありませんでした - I didn't have much free time yesterday
+#w 私は昨日ひまではありませんでした - I didn't have much free time yesterday
 #w この町はとてもにぎやかです（まち） - this town is very busy
 #w あそこは有名ではありません（ゆうめい） - it is not famous there
 #w 先週の仕事は大変でした（せんしゅう、しごと、たいへん） - last week's work was difficult
 #w あのホテルはあまりきれいではありませんでした  - that hotel wasn't very clean  
 
-### 2. なadj + Noun
+### 3. なadj + Noun
 
 - structure
 	- なadj + な + Noun
-		- 静か **な** 人（しずか）
+		- 静か **な** 人（しずか） - quiet person
 
 ### 4. N1は + なadj + な N2
 - structure
 	- なadj + な + Noun
-		- 山田さんは静か **な** 人（しずか）
+		- 山田さんは静か **な** 人です（しずか） - Mr. Yamada is a quiet person
 
 
 #w あれは丈夫な建物です（じょうぶ、たてもの） - that is a solid building
@@ -360,22 +374,22 @@ Structure
 
 Structure: （Both positive, both negative)
 - Nは + なadj1 で + なadj2....
-	- 真面目で立派な人です（はじめ、りっぱ）- He is a serious and respectable person
-- N は いadv + て + なadj + で .....
-	- この部屋は広くて しずかで安いです(へや、やす) - The room is very big, quiet and cheap
+	- 真面目で立派な人です（まじめ、りっぱ）- He is a serious and respectable person
+- N は いadj (くて-form) + なadj + で .....
+	- この部屋は広くて しずかで安いです(へや、やす) - The room is spacious, quiet, and cheap
 
-- FOR conennecting positive and negative use (BUT)
+- FOR connecting positive and negative use (BUT)
 	- .... が ....
 		- うちは駅から遠いですが静かです(とおい、しず) - My house is far from the station but is quiet
 
 
-#w 真面目で立派な人です（はじめ、りっぱ）- He is a serious and respectable person
-#w この部屋は広くて しずかで安いです(へや、やす) - The room is very big, quiet and cheap
+#w 真面目で立派な人です（まじめ、りっぱ）- He is a serious and respectable person
+#w この部屋は広くて しずかで安いです(へや、やす) - The room is spacious, quiet, and cheap
 
 ## N1 は どんな N2 ですか - What kind/sort of N2 is N1?
 
 Structure:
-- N1 は どんな N2 ですか - What skind/ort of N2 is N1?
+- N1 は どんな N2 ですか - What kind/sort of N2 is N1?
 	- 山田さんはどんな人ですか（やまだ、ひと） - what kind of person is Mr. Yamada
 
 #w A: 山田さんはどんな人ですか（やまだ、ひと）B: おもしろい人です（ひと）- A:what kind of person is Mr. Yamada B: he is an interesting person
@@ -387,10 +401,10 @@ Structure:
 ### 1. ....から.... - because
 
 Structure
-- P1....から.... P2 - Because P1..... P2
+- P1....から.... P2 - "Because P1, P2" (から attaches to the reason clause P1; the result P2 follows)
 	- きょうは早く帰りますから、いっしょに映画を見ましょう（はや、かえ、えいが、み） - because I will come back early today, let's watch a movie together
-- P1....から.... P2 - P2 because P1
-	- きょうは早く帰りますから、いっしょに映画を見ましょう（はや、かえ、えいが、み） - Lets watch a movie together because I will returen back early today
+
+Note: English translation order is flexible — the same sentence can also be rendered "Let's watch a movie together because I will return early today."
 
 #w きょうは早く帰りますから、いっしょに映画を見ましょう（はや、かえ、えいが、み） - because I will come back early today, let's watch a movie together
 
@@ -404,9 +418,9 @@ Structure:
 - ...., .... から
 	- ここは有名ですから
 
-#w A: 新しい家はどうですか B: とてもべんりです。駅に近いですから - how is a new house? B: Its convinient, because is close to the station 2style
+#w A: 新しい家はどうですか B: とてもべんりです。駅に近いですから - A: How is the new house? B: It's very convenient, because it's close to the station
 
-#w A: このレストランにたくさんの人がいますね B: ここは有名ですからね (ゆうめい) - Is a lot of people in this restaurant. isn't is? B: Because here is a very famous nee
+#w A: このレストランにたくさんの人がいますね B: ここは有名ですからね (ゆうめい) - A: There are a lot of people in this restaurant, aren't there? B: Because this place is famous, you know
 
 ## Particles
 
@@ -415,6 +429,7 @@ Structure:
 - letting the listener know the information
 - emphasizing information
 - information not known to the listener
+- caution: can sound assertive/pushy if overused with strangers or people of higher status — use sparingly outside close relationships
 
 #w この店はとても有名ですよ（みせ、ゆうめい） - this restaurant is very famous, you know
 #w わたしの家から駅までは遠いですよ（いえ、えき、とお） - my house is far from the station, you know
@@ -429,6 +444,8 @@ Difference between よ and ね
 # Vocabulary
 
 ## 大変(たいへん)
+
+Register: 大変 as a な-adjective means difficult/serious/severe; as a bare adverb it means "very/extremely" — more emphatic and formal than plain とても, and often used in negative or serious contexts.
 
 - なadjective:
 #wp 大変(な)（たいへん）- difficult / hard (bad, serious) (adjective) #k
@@ -460,8 +477,8 @@ Examples:
 #w たくさんの本 (ほん) - many books
 
 
-#w みかん と かしが たくさんあります - there is a lot of oranges and pears
-#w たくさん食べましょう - lets eat a lot
+#w みかん と なしが たくさんあります - there are a lot of tangerines and pears
+#w たくさん食べましょう - Let's eat a lot
 
 
 ## いつも - always/usual
@@ -477,41 +494,41 @@ Examples:
 #w いつもの生活（せいかつ）- usual life
 
 #w あの人はいつも旅行します（りょこう) - That person always travels
-#w ここはいつも静かです（しず）- its always quiet here
-#w 私はいつも１０時にねます (じ) - i always  go sleep at 10
+#w ここはいつも静かです（しず）- It's always quiet here
+#w 私はいつも１０時にねます (じ) - I always go to sleep at 10
 
 ## 別々（べつべつ）
 
 Structure
 - 別々 +　に + V
-	- 私と山田さんは別々に昼ご飯を食べます(べつべつ、ひるごはん) - I and mr Yamada eat lunch separately
+	- 私と山田さんは別々に昼ご飯を食べます(べつべつ、ひるごはん) - Mr. Yamada and I eat lunch separately
 	- 別々にあそこに行きましょう（べつべつ）- let's go there individually
 
-#wp 別々（べつべつ）- separation / separately / splited
-#w 別々の部屋（べつべつ、へや）- separated room
-#w 別々の机（べつべつ、つくえ）- separated desk
-#w お会計は別々ですか（かいけい、べつべつ）-Are the bills separate? #w
+#wp 別々（べつべつ）- separation / separately / split
+#w 別々の部屋（べつべつ、へや）- separate room
+#w 別々の机（べつべつ、つくえ）- separate desk
+#w お会計は別々ですか（かいけい、べつべつ）-Are the bills separate?
 #w 別々におねがいします (べつべつ) - we will pay separately
-#w いっしょ**で**おねがいします (べつべつ) - we will pay together
+#w いっしょ**で**おねがいします - we will pay together
 
 
-#w 私と山田さんは別々に昼ご飯を食べます(べつべつ、ひるごはん) - I and mr Yamada eat lunch separately #k
+#w 私と山田さんは別々に昼ご飯を食べます(べつべつ、ひるごはん) - Mr. Yamada and I eat lunch separately #k
 #w 別々にあそこに行きましょう（べつべつ）- let's go there individually
 
 ## 所（ところ）
-1. Place (overal)
-	1. 静か所（しず、ところ）- quiet place
+1. Place (overall)
+	1. 静かな所（しず、ところ）- quiet place
 2. Specifying a certain point or part
-	1. 山田さんの真面目な所（まじめ、ところ）- mr yamada seriousness
-3. Specyfing an address
+	1. 山田さんの真面目な所（まじめ、ところ）- Mr. Yamada's serious side
+3. Referring to someone's home/place (colloquial)
 	1. おじいさんの所（ところ）- my grandfather's house (place)
-4. specifying timing
-	1. いい所に来ました（ところ、き）- I came at good time
+4. Specifying timing
+	1. いい所に来ました（ところ、き）- I came at a good time
 
 
-#w 山田さんの真面目な所（まじめ、ところ）- mr yamada seriousness #k
+#w 山田さんの真面目な所（まじめ、ところ）- Mr. Yamada's serious side #k
 #w おじいさんの所（ところ）- my grandfather's house (place) #k
-#w いい所に来ました（ところ、き）- I came at good time #k
+#w いい所に来ました（ところ、き）- I came at a good time #k
 
 
 
@@ -1542,11 +1559,20 @@ Structure
 <!--ID: 1763465823061-->
 
 
- how many people (polite, and more polite) #k #card
-ほんやく: 何名(さま)ですか（なんめい）
+ how many people? (polite) #k #card
+ほんやく: 何名ですか（なんめい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
 <!--ID: 1763465823062-->
+
+
+ how many people? (very polite, used by service staff) #k #card
+ほんやく: 何名様ですか（なんめい）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_名.html">名</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_様.html">様</a>
+<!--ID: 1788882385296-->
+
 
 
  very (adverb) | more emphatic/formal than plain とても, often used with negative or serious situations #card
@@ -1679,7 +1705,7 @@ Structure
 <!--ID: 1763465823081-->
 
 
-Are the bills separate? #w #card
+Are the bills separate? #card
 ほんやく: お会計は別々ですか（かいけい、べつべつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_計.html">計</a>
@@ -1800,6 +1826,22 @@ Are the bills separate? #w #card
 <!--ID: 1763465823097-->
 
 
+ doesn't study quietly #card
+ほんやく: しずかに勉強しない 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_勉.html">勉</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
+<!--ID: 1788882385297-->
+
+
+
+ it's not quiet, but lively #card
+ほんやく: 静かではなく、賑やかです 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_静.html">静</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_賑.html">賑</a>
+<!--ID: 1788882385298-->
+
+
+
  My high school teacher is serious #card
 ほんやく: 私の高校の先生は真面目です（こうこう、まじめ) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
@@ -1814,7 +1856,7 @@ Are the bills separate? #w #card
 
 
  I didn't have much free time yesterday #card
-ほんやく: 私は昨日ひま ではありませんでした 
+ほんやく: 私は昨日ひまではありませんでした 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_昨.html">昨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1870,7 +1912,7 @@ Are the bills separate? #w #card
 <!--ID: 1763465823105-->
 
 
- The room is very big, quiet and cheap #card
+ The room is spacious, quiet, and cheap #card
 ほんやく: この部屋は広くて しずかで安いです(へや、やす) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_屋.html">屋</a>

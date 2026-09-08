@@ -1333,6 +1333,8 @@ On my days off I do things like watch TV (among other things) #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_休.html">休</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+<!--ID: 1788882385308-->
+
 
 
 
@@ -1344,6 +1346,8 @@ Today's weather is good and bad by turns #k #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_良.html">良</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_悪.html">悪</a>
+<!--ID: 1788882385310-->
+
 
 
 

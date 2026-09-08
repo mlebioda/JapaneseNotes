@@ -5,7 +5,7 @@ topic_slug: ["action-timing", "verb-te-form"]
 function: ["temporal"]
 level: N4
 register: neutral
-confused_with: ["tokoro-desu-dict-form", "tokoro-desu-ta-form", "meishi-chuu-juu-during"]
+confused_with: ["tokoro-desu-dict-form", "tokoro-desu-ta-form", "meishi-chuu-juu-during", "v-teiru-teinai"]
 proofread: true
 ---
 
@@ -43,6 +43,7 @@ Politeness comes only from the copula attached after it — だ (casual) vs で�
 - [1. V「dict」ところです - about to start](/JapaneseNotes/grammar-index/grammar/tokoro-desu-dict-form) — test: Is the action already underway right now, or has it not started yet?
 - [3. V「た形」ところです - action has just finished](/JapaneseNotes/grammar-index/grammar/tokoro-desu-ta-form) — test: Is the action still ongoing right now, or has it just this instant ended?
 - [名詞（めいし） + 中（ちゅう・じゅう）- during](/JapaneseNotes/grammar-index/grammar/meishi-chuu-juu-during) — test: Is this a general/habitual timeframe attached to a noun, or an action specifically caught in progress right now?
+- [V ている / ていない](/JapaneseNotes/grammar-index/grammar/v-teiru-teinai) — test: Does the sentence specifically emphasize being caught right in the middle of it as a live status report, or just describe an ongoing action/state generally?
 
 ## See also
 

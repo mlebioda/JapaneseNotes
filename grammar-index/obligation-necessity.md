@@ -16,6 +16,8 @@
 
 - [V「なくて」はいけません - must to do something](/JapaneseNotes/grammar-index/grammar/v-nakute-ha-ikemasen-must) · N4
 
+- [Vない＋なければなりません- I have to do](/JapaneseNotes/grammar-index/grammar/vnainakerebanarimasen-i-have-to-do) · N5
+
 ## See also
 
 - [similarity-inference](/JapaneseNotes/grammar-index/similarity-inference) — はずです is a related epistemic pattern for logical expectation, not obligation

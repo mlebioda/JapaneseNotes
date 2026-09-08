@@ -1103,6 +1103,8 @@ who in the class is best at Japanese? #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<!--ID: 1788882385302-->
+
 
 
 what time of year do you like the best? #k  #card
@@ -1112,6 +1114,8 @@ what time of year do you like the best? #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_中.html">中</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_番.html">番</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
+<!--ID: 1788882385303-->
+
 
 
 The cherry blossoms were beautiful, and there were white ones and pink ones #k  #card
@@ -1199,6 +1203,8 @@ I don't think the wind will be strong tomorrow #k  #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_風.html">風</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_強.html">強</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_思.html">思</a>
+<!--ID: 1788882385304-->
+
 
 
 I don't think this is my material #k  #card

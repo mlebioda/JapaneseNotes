@@ -8,4 +8,8 @@
 
 - [を 過ぎる（す）- to pass somewhere and further go ahead/ time](/JapaneseNotes/grammar-index/grammar/wo-sugiru-to-pass-time) · N4
 
+- [まで](/JapaneseNotes/grammar-index/grammar/made) · N5
+
+- [N(time) + まで +に + V - BY, until (do)](/JapaneseNotes/grammar-index/grammar/ntime-made-ni-v-by-until-do) · N5
+
 ## See also

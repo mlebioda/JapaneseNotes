@@ -5,6 +5,7 @@ topic_slug: ["range-interval"]
 function: ["temporal"]
 level: N4
 register: neutral
+confused_with: ["made"]
 proofread: true
 ---
 
@@ -42,6 +43,9 @@ proofread: true
 
 Register: neutral
 過ぎる is a plain descriptive verb used identically across casual and polite speech; the casual contraction noted above is a colloquial shortening, not a separate register.
+
+## Often confused with
+- [まで](/JapaneseNotes/grammar-index/grammar/made) — test: Does the action cross past the point and continue beyond (を過ぎる), or does it stop at/extend up to the given point (まで)?
 
 ## See also
 

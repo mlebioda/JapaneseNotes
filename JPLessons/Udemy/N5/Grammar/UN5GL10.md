@@ -156,22 +156,40 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL10-I-will-go-to-Akihabara-to-buy-m
 # 文法
 
 ## Personal pronouns
+→ [[grammar-index/grammar/personal-pronouns]]
 
 ### I - lmn + Tachi
+→ [[grammar-index/grammar/i-lmn-tachi]]
 
 わたし - I (anyone can use it)
 #w わたくし - formal I, in public
 #w あたし - I (used by woman, non formal)
 #w 僕（ぼく）ら・たち - I (used by men)  from lower position, not formal  **l.p, l.mn**
-#w 俺（おれ）ら・たち - I (used by men)  masculine, agresive **l.p, l.mn**
+#w 俺（おれ）ら・たち - I (used by men) — rough, blunt, masculine; casual only **l.p, l.mn**
 
-Reszta たち dla plural
+Register (use / avoid):
+- わたし - neutral polite; safe in almost all situations
+- わたくし - very formal only (business, ceremonies, public speech)
+- あたし - casual only; women, informal chat
+- 僕 - casual-to-neutral; boys/young men; avoid in very formal ceremonial speech
+- 俺 - casual only; close friends/family; avoid with strangers, superiors, formal settings
+
+The rest add たち for plural forms (but あなたたち/あなたがた sounds unnatural for addressing groups — natives prefer みなさん instead)
 
 ### YOU + tachi - l.mn
+→ [[grammar-index/grammar/you-tachi-lmn]]
 
-あなた - you - use さん to sound more polite
-#w おたく, そちら - 2x you (formal)
-#w きみ - you (intimate person, man use to lover rank)
+あなた - you (can sound blunt/too direct toward superiors or strangers) - polite convention is to use the person's name + さん instead of あなた
+#w おたく, そちら - you (polite/formal, but not equivalent: おたく = direct address between equals, a bit dated; そちら = indirect "your side," typical in business/phone Japanese)
+#w きみ - you (casual/affectionate — used by a man toward a lover, or toward someone of equal/lower status; not used toward superiors)
+
+Register (use / avoid):
+- あなた - can sound blunt to superiors/strangers; name + さん is safer
+- おたく - polite but dated; used between equals
+- そちら - indirect/business register ("your side"); common on the phone
+- きみ - casual; only to equals/subordinates or a partner; never to superiors
+
+(お前（おまえ） also exists as a rougher, more informal "you" than きみ — not covered in this lesson yet.)
 
 Third person - rather name + さん
 
@@ -180,32 +198,35 @@ Third person - rather name + さん
 #w 彼（かれ）ら・たち - he  **l.p, l.mn** #k
 #w 彼女（かのじょ）ら・たち - she  **l.p, l.mn** #k
 
-## Stopniowanie
+## Degree adverbs (少し・あまり・全然)
+→ [[grammar-index/grammar/degree-adverbs-sukoshi-amari-zenzen]]
 
 Structure
-- S + V
+- S + V (positive) — 少し
 	- 少し(すこ)
-		- すこし分かる - understand a littla
-- S + V negation
-	- あまり
-	- 全然（ぜんぜん）
+		- すこし分かる - understand a little
+- S + V negation — あまり / 全然
+	- あまり - not very / not much (milder negation; needs a negative predicate)
+	- 全然（ぜんぜん）- not at all (stronger negation; needs a negative predicate in standard usage — casually also used with a positive meaning, e.g. 全然大丈夫 - totally fine)
 - S + adj
 	-  インドは全然寒くないです（ぜんぜん、さむ) - India is not cold at all
 
-- 少し - a little bit
-- あまり - a litte
-- 全然（ぜんぜん）- at all
+- 少し - a little (used with positive predicates)
+- あまり - not very / not much (needs a negative predicate; milder than 全然)
+- 全然（ぜんぜん）- not at all (needs a negative predicate; strongest of the three)
 
 #w 全然分かりません(ぜんぜん) - i can't understand at all #k
 #w お金が全然ありません（かね,ぜんぜん）- i don't have money at all #k
+#w このコーヒーはあまり甘くないです（あま）- this coffee isn't very sweet
 
 #w  インドは全然寒くないです（ぜんぜん、さむ) - India is not cold at all #k
 
 ## Go Somewhere for a certain objective
+→ [[grammar-index/grammar/go-somewhere-for-a-certain-objective]]
 
 - Structure
 	- Verb:
-		- ます形 bez ます
+		- ます形 without ます
 			- 買います -> 買い
 			- 食べます→食べ
 		- For する (勉強する) - Use only Noun
@@ -213,6 +234,11 @@ Structure
 		- 秋葉原　へ　漫画を**買い　に　行きます**（あきはばら、まんが、か）- I will go to Akihabara **to buy manga**
 	- P + **へ** + N +**に**+ 行きます/来ます/帰ります
 		- 日本　へ　日本語を勉強　に　行きます（べんきょう）- I will go to Japan to study Japanese   
+	- Negative: 行きません/来ません/帰りません - not going/coming/returning (for this purpose)
+	- Past-negative: 行きませんでした/来ませんでした/帰りませんでした - didn't go/come/return (for this purpose)
+
+Note: へ highlights the direction/route toward the destination; に treats the destination as a fixed point of arrival. In casual modern speech に is often used interchangeably with へ here; へ tends to sound slightly more formal/literary.
+
 ---
 - **行きます** - I go somewhere to do something
 		- 日本  へ  日本語を勉強  に  行きます（べんきょう）- I will go to Japan to study Japanese
@@ -242,11 +268,18 @@ Examples
 #w うち　へ　母の料理を食べ　に　帰りました (はは、りょうり, かえ) - I come back home to eat my mother's cooking 
 
 
-## N1　は　N2 が ADJです checha N1 (N2) jest adj
+## N1 は N2 が ADJ です — N2 is a trait/feature of N1
+→ [[grammar-index/grammar/n1-ha-n2-ga-adj-desu-n2-is-a-trait-feature-of-n1]]
 
 structure
-- N1　は　N2 が ADJです (no N1のN2) - podmiotem jest N1
-- N1のN２は- podmiotem jest N2
+- N1　は　N2 が ADJです (no N1のN2) - N1 is the topic/subject
+- N1のN２は- N2 (of N1) is the subject
+
+Note: this is the classic double-subject (は/が) construction — N2 is a trait or part of N1, and the adjective describes that trait. English has no direct equivalent, which is why it trips learners up. Don't confuse it with a plain N が ADJ です sentence (single subject) — dropping the N1は clause changes what's being described. Neutral register, used in any context.
+
+Negative / Past:
+- 東京は道がせまくないです - Tokyo's streets are not narrow
+- 東京は道がせまかったです - Tokyo's streets were narrow
 
 
 
@@ -259,8 +292,12 @@ structure
 #w にほんは漫画が有名です（まんが、ゆうめい）-  manga in japan is popular #k
 
 ## まで
+→ [[grammar-index/grammar/made]]
+
+Note: までに = deadline — a one-time action completed no later than N (could happen earlier). まで = duration/extent — the action continues right up until N. Compare 土曜日までに戻ります (I'll be back by Saturday, possibly sooner) vs 土曜日まで働きます (I'll work through/until Saturday).
 
 ### N(time) + まで +に + V - BY, until (do)
+→ [[grammar-index/grammar/ntime-made-ni-v-by-until-do]]
 
 Structure
 - N(time) + まで +に + V
@@ -269,42 +306,58 @@ Structure
 #w 金曜日　までに　図書館に 本を返します（きんようび、としょかん, かえ）- I'll return a book to library by friday
 　
 ## N(place) + まで + V - BY (do)
+→ [[grammar-index/grammar/made]]
 Structure
 - N(place) + まで + V - BY (do)
 
+#w 駅まで歩きます（えき、ある）- I'll walk as far as the station
+
 
 ## Vない＋なければなりません- I have to do
+→ [[grammar-index/grammar/vnainakerebanarimasen-i-have-to-do]]
 
-kereba - if
-Vnai + kereba - if i don’t do V,  
-narimasen - not become ok
+Structure breakdown:
+- ければ - "if" (conditional)
+- Vない + ければ - "if I don't do V"
+- なりません - negative of なる ("to become"); literally "it won't do / it's not acceptable [if you don't do V]"
+→ combined: "if you don't do V, it won't do" = "you have to do V"
+
+Register: neutral-to-formal, safe in speech and writing. In casual spoken Japanese, なきゃ(いけない) is a very common contraction with the same meaning (e.g. 行かなきゃ = 行かなければならない) — expect to hear it constantly even though this lesson drills the formal form.
 
 Structure:
 - Vない＋なければなりません- I have to do
 	- 習う（なら）- 習わなければなりません - i have to study (from someone, practice)
-	- 乗る（の）- 乗らなけれべなりません - i need to ride
+	- 乗る（の）- 乗らなければなりません - i need to ride
 	- 返す（かえ) - 返さなければなりません - i need to return (something)
+
+Negative of this pattern (don't have to do V): Vなくてもいいです
+	- 習う（なら）- 習わなくてもいいです - you don't have to study
 
 #w 勉強しなければなりません - i have to study
 #w 習わなければなりません (なら) - i have to study (from someone, practice)
-#w  乗らなけれべなりません(の) - i need to ride
+#w  乗らなければなりません(の) - i need to ride
 #w 返さなければなりません (かえ) - i need to return (something)
 
 #w 明日朝６時に 起きなければなりません（あしたあさ、お) - I have to get up at 6 tommorow morning
 
 #w 金曜日までに　DVDを 返さなければなりません（きんようび、かえ）- I have to return DVD by Friday
+#w 習わなくてもいいです（なら）- you don't have to study
 
-## abbreviation (skrót) が、は、を、に
+## Particle omission — が、は、を、(に)
+→ [[grammar-index/grammar/particle-omission-ga-ha-wo-ni]]
 
 - When?
 	- often omitted on casual occasions - more natural
 	- in particular, if the speaker and listener are close
+	- mainly が, は, を — and often に with motion verbs in casual speech; not every particle drops this freely (で, と, から, まで are not casually omitted the same way)
+
+Register: casual/colloquial speech only — never in formal writing, business Japanese, or polite/careful speech, even if the sentence still ends in です/ます.
 
 - この映画　は　とても面白いですね（えいが、おもしろ) 
 - この映画　とても面白いですね（えいが、おもしろ) - more natural
 
 - いっしょに ご飯　を　食べませんか（はん、たべ）
-- いっしょに ご飯　　食べませんか（はん、たべ）- more narural
+- いっしょに ご飯　　食べませんか（はん、たべ）- more natural
 
 
 #w この映画　とても面白いですね（えいが、おもしろ) - This movie is interesting, isn’t it? (abbreviation)
@@ -313,6 +366,9 @@ Structure:
 # Vocabulary
 
 ### 好き/嫌い - like/dislike
+→ [[grammar-index/grammar/suki-kirai-like-dislike]]
+
+Note: 好き and 嫌い are な-adjectives, but the thing being liked/disliked is marked with が, not を — even though "like" takes a direct object in English. This is one of the most common learner mistakes at this level.
 
 -  person/thing i like/dislike
 	- すき・きらい + な + N
@@ -329,62 +385,77 @@ Structure:
 - Like/dislike very much
 	- 大好き（だいすき）/  大嫌い（だいきらい）
 		- 私は横浜が大好きです（よこはま）- i like Yokohama very much
-		- 彼は野菜が大嫌いです（かれ、やさい、だいきらい） - he dislike vegetables very much
+		- 彼は野菜が大嫌いです（かれ、やさい、だいきらい） - he dislikes vegetables very much
 - Summary
 	- like
 		- 好き - like
 		- 大好き - very like
 	- dislike
 		- 嫌い（きら）- dislike
-		- 大嫌い（だいきら）- very dislike
-			- 私は苦いものが大嫌いです（にが、だいきらい）- He hate bitter things
-		- 好き + negation - don't like
+		- 大嫌い（だいきらい）- very dislike
+			- 私は苦いものが大嫌いです（にが、だいきらい）- I hate bitter things
+		- 好き + negation - don't like (register: ではありません = most formal/careful; じゃありません = common polite speech; じゃない = casual/plain)
 			- 好きではありません
 				-  彼は魚が好きではありません（さかな）- He doesn't like fish
 			- 好きじゃありません
 			- 好きじゃない
 
 #w 彼は魚が好きではありません（さかな）- He doesn't like fish
-#w 私は苦いものが大嫌いです（にが、だいきらい）- He hate bitter things
+#w 私は苦いものが大嫌いです（にが、だいきらい）- I hate bitter things
 
 #w 好きな人 - person i like
 #w 嫌いな果物（きら、くだもの）- fruit i dislike
 #w 私は横浜が大好きです（よこはま）- i like Yokohama very much #k
 
-#w 彼は野菜が大嫌いです（かれ、やさい、だいきらい） - he dislike vegetables very much #k
+#w 彼は野菜が大嫌いです（かれ、やさい、だいきらい） - he dislikes vegetables very much #k
 
 ## Be good/poor at 上手・下手
+→ [[grammar-index/grammar/be-good-poor-at-jouzu-heta]]
+
+Note: 上手 and 下手 are な-adjectives; the skill itself takes が, not を (same pattern as 好き/嫌い).
+
+Register: saying you yourself are 上手 can sound boastful/arrogant in Japanese — natives mostly use 上手 to praise someone else or ask about their skill, and prefer 得意 or a humble phrasing when talking about their own ability.
 
 Structure
 - N　が　上手・下手です
 	- For verbs
-		- V+こと
-
+		- V-る + こと + が + 上手・下手です
+			- 料理を作ることが上手です（りょうり、つく）- (he/she) is good at cooking
+- Negative / Past: 上手じゃないです - not good at it / 上手でした - was good at it
 
 #w 日本語が上手ですね - good at japanese #k
 
 #w 歌が下手ですね (うた) - bad at singing #k
 #w 彼女は絵が下手です（え、へた）- She is not good at drawing #k
+#w 料理を作ることが上手です（りょうり、つく）- (he/she) is good at cooking
 
 
 ## どうして - why
+→ [[grammar-index/grammar/doushite-why]]
+
+Register: どうして can sound a bit direct/blunt (like demanding a reason); なんで is more casual, どうしてですか / なぜですか are the more careful/formal options.
+
 Structure
-- Sentence + どうしてですか
-	- 明日会社に行きませんどうしてですか（あした、かいしゃ） - A: Why dont you go to school tomorrow? 
+- This is normally a two-turn exchange (A asks, B answers), not one glued sentence:
+	- A: 明日会社に行きませんどうしてですか（あした、かいしゃ）- Why aren't you going to work tomorrow?
 - どうして + sentence
-	- どうして漫画が好きですか（まんが、がす）- A: why do you like Manga?
-- Reply usualy ends with から
+	- どうして漫画が好きですか（まんが）- why do you like Manga?
+- Reply usually ends with から
 
-#w A: 明日会社に行きませんどうしてですか（あした、かいしゃ）B: 明日は休みですから - A: Why dont you go to school tomorrow? B: Because is day off tomorrow. #k
+#w A: 明日会社に行きませんどうしてですか（あした、かいしゃ）B: 明日は休みですから - A: Why aren't you going to work tomorrow? B: Because tomorrow is a day off. #k
 
-#w A: どうして漫画が好きですか（まんが、がす）B：とても面白いですから（おもしろい）- A: why do you like Manga? B: Because they are very interesting #k
+#w A: どうして漫画が好きですか（まんが）B：とても面白いですから（おもしろい）- A: why do you like Manga? B: Because they are very interesting #k
 
 ## どんな + N - what kind
+→ [[grammar-index/grammar/donna-n-what-kind]]
+
+Note: どんな + N asks "what kind of N" (attaches to a noun); don't confuse with どう, which asks "how" before a verb/adjective (e.g. 味はどうですか - how does it taste?).
 
 - Structure
 	- どんな + N
 		- どんな所がすきですか（ところ）- what kind of place do you like
 	- N1は　どんな　N2 ですか
+		- 彼はどんな人ですか（かれ、ひと）- What kind of person is he?
 
 
 #w A:どんな所がすきですか B: しずかな所が好きです （ところ）- A: what kind of place do you like B: I like quiet places #k
@@ -392,15 +463,20 @@ Structure
 #w A: どんな食べ物が好きですか B:甘いものが好きです（あま） - A: what kind of food do you like? B: I like sweet things
 
 #w A: どんな色が好きですか（いろ）B: 白が好きです（しろ）- A: What color do you like? B: I like white
+#w 彼はどんな人ですか（かれ、ひと）- What kind of person is he?
 
 ## Verbs
+→ [[grammar-index/grammar/vocabulary-verbs]]
 
 ### 分かる - understand
+→ [[grammar-index/grammar/vocabulary/Verbs/wakaru]]
+
+Note: 分かる takes が, not を, for what is understood (same pattern as 好き/嫌い and 上手/下手). 分かる describes cognitive comprehension of something (a language, a concept), contrasted with 知る, which means knowing a fact or piece of information.
 
 - N + が + 分かる
 	-  英語が分かる（えいご、わ）- to understand English
 - N1 は N2＋が分かる - N1 understands N2
-	- 彼はベトナム語が分かる - he understand Vietnamese
+	- 彼はベトナム語が分かる - he understands Vietnamese
 - Adv + 分かります
 	- 少し分かります - Understand a little
 	- あまり分かりません - dont understand too well
@@ -408,23 +484,27 @@ Structure
 
 #w 英語が分かる（えいご、わ）- to understand English #k
 
-#w 彼はベトナム語が分かる - he understand Vietnamese #k
+#w 彼はベトナム語が分かる - he understands Vietnamese #k
 
 #w あまり分かりません - dont understand too well
 #w 音楽が分かります (おんがく) - I understand music #k
 
 ### 知る - to know
+→ [[grammar-index/grammar/vocabulary/Verbs/shiru]]
+
+Note: 知る = knowing a fact/piece of information (contrasted with 分かる = understanding/comprehension, see note above). Its negative is irregular: 知りません, not 知っていません — one of the classic N5 traps, since every other ~ている verb just negates as ~ていません.
 
 Structure
-- を＋知っています
-- を＋知っていません
+- を＋知っています - know (something)
+- を＋知りません - don't know (something) — NOT 知っていません
 
 #wc 知る（し）- to know
-#w A: 金閣寺 を 知っていますか B: はい、知っています（きんかくじ、し）- do you know kinkakuji?　B: Yes, i know
+#w A: 金閣寺 を 知っていますか B: はい、知っています（きんかくじ、し）- do you know Kinkakuji?　B: Yes, i know
 
 #w この映画を知っていますか B：あまり知りません（えいが、し）- Do you know this movie? B: I don't know it very well
 
 ### 返す（かえす）- to return
+→ [[grammar-index/grammar/vocabulary/Verbs/kaesu]]
 
 Structure
 - N1 に N2 を 返す（かえ）- to return N2 to N1
@@ -432,11 +512,12 @@ Structure
 
 
 #w 本を返す（かえ）- to return a book
-#w 傘を返す(かさ、かえ) to return umbrella
+#w 傘を返す(かさ、かえ) - to return an umbrella
 #w 図書館に本を返します（図書館、かえ）- I will return the book to the library #k
 #w 山田さんにDVDを返しました（かえ）- i returned DVD to Yamada
 
 ### かかる - to spend/cost (time, money, effort)
+→ [[grammar-index/grammar/vocabulary/Verbs/kakaru]]
 
 - Structure
 	- N＋が＋かかる
@@ -455,73 +536,78 @@ Structure
 
 
 ### あげる - to give
+→ [[grammar-index/grammar/vocabulary/Verbs/ageru]]
 
 Structure:
-- N0は N1 (person) + に + N2 を あげる - N0 gave to N1 N2
+- N0は N1 (person) + に + N2 を あげる - N0 gives N2 to N1
 	- アンドさんに仕事の資料をあげます（しりょう）- I gave miss Ando the work materials 
 
+Register: あげる is used when giving goes away from "me" — I/we give to someone else, or one third party gives to another. It's not used when someone gives to me (that's もらう/くれる's job). Giving to someone of clearly higher status (e.g. a teacher) normally calls for the humble さしあげる instead — plain あげる toward a superior can sound presumptuous.
 
-#wc (を)あげる - to give (direction: me/my direction to someone )
+#wc (を)あげる - to give (direction: away from "me," toward someone else — or between two other people)
 #w アンドさんに仕事の資料をあげます（しりょう）- I gave miss Ando the work materials 
 #w ラジさんはランさんに誕生日のプレゼントをあげました(たんじょうび) - Rai gave Lan a birthday present
 
 #w 本をあげる - to give a book
 #w さとうさんはおくさんに花をあげました - Mr. Sato gave his wife flowers
 
-###  貸す（か）- to lend
+###  貸す（かす）- to lend
+→ [[grammar-index/grammar/vocabulary/Verbs/kasu]]
 Structure:
-- N0は N1 (person) + に + N2 を 貸す- N0 lend to N1 N2
+- N0は N1 (person) + に + N2 を 貸す - N0 lends N2 to N1
 
 #w 先生は　学生に ノートを貸しました（か）- teacher lent the student a notebook
 
 ### 教える - to teach
+→ [[grammar-index/grammar/vocabulary/Verbs/oshieru]]
 Structure:
-- N0は N1 (person) + に + N2 を 教える - N0 teached to N1 N2
+- N0は N1 (person) + に + N2 を 教える - N0 teaches N2 to N1
 
 #w 弟に英語を教えます（おとうと、えいご、おし）- I teach my younger brother English
 
 ### もらう - to get
+→ [[grammar-index/grammar/vocabulary/Verbs/morau]]
 
 - Structure
-	- N1 に N2 +を+ もらう - to get N2 from N1 (nacisk od kogo)
-		- 明日ワンさんにDVDをもらいます - I'll get DVD from mr Wang tommorow (nacisk na od kogo)
-	- N1 から N2+を+ もらう - to get N2 from N1 (nacisk na co sie dosalo) czesto od organizac
+	- N1 に N2 +を+ もらう - to get N2 from N1 (emphasis on who gave it — a specific person)
+		- 明日ワンさんにDVDをもらいます - I'll get DVD from mr Wang tomorrow (emphasis on who gave it)
+	- N1 から N2+を+ もらう - to get N2 from N1 (emphasis on the source it came from — often an organization/institution)
 		- 私は姉から切符をもらいました（あね、きっぷ）- I got ticket from older sister
 
 #wc もらう（もらう） - to receive  
 #w 時計をもらう（とけい）- to get watch
 #w 切手をもらう（きって）- to get postal stamp
 #w 私は姉 から 切符 を もらいました（あね、きっぷ）- I got ticket from older sister #k 
-#w 明日ワンさん に DVD を もらいます - I'll get DVD from mr Wang tomorrow (nacisk na od kogo) #k
+#w 明日ワンさん に DVD を もらいます - I'll get DVD from mr Wang tomorrow (emphasis on who gave it) #k
 #w おっと　に　花　を　もらいました - I got flowers from my husband
 
 #w 郵便局から切手をもらいました（ゆうびんきょく、きって）- I got postal stamps from the post office
 
 ### 借りる（か）- to borrow
+→ [[grammar-index/grammar/vocabulary/Verbs/kariru]]
+
+Note: 借りる = borrow (temporary — expected to give it back), unlike もらう = receive (permanent — you keep it). Easy to mix up since both verbs' examples below involve a library.
 
 Structure
-	- N1 に N2 +を+ 借りる - to borrow N2 from N1 (nacisk od kogo)
-	- - N1 から N2+を+ 借りる - to borrow N2 from N1 (nacisk na co sie dosalo) czesto od organizac
+	- N1 に N2 +を+ 借りる - to borrow N2 from N1 (emphasis on who it's from — a specific person)
+	- N1 から N2+を+ 借りる - to borrow N2 from N1 (emphasis on the source — often an organization/institution)
 
 #w ランさんは　あんどうさんに　旅行の本　を借りました（りょこう、か）- Lan san borrowed a travel book from Miss Ando
 
-#w ランさんは図書館から料理の本をもらいました (としょかん、りょうり) - Ran san borrowed book from organization
+#w ランさんは図書館から料理の本を借りました (としょかん、りょうり、か) - Lan-san borrowed a cooking book from the library
 
 #w 山田さんは銀行からお金を借りました（ぎんこう、かね、かり) - Mr Yamada borrowed money from the bank
 
 ### 習う（なら）- to study/get knowledge
+→ [[grammar-index/grammar/vocabulary/Verbs/narau]]
+
 #w 習う（なら）- to learn (by practice, from somebody)
 
 Structure
-	- N1 に N2 +を+ 借りる - to get knowledge from N2 from N1 (nacisk od kogo)
-	- N1 から N2+を+ もらう - to get knowledge N2 from N1 (nacisk na co sie dosalo) czesto od organizac
+	- N1 に N2 +を+ 習う - to learn N2 from N1 (emphasis on who it's from — a specific person)
+	- N1 から N2+を+ 習う - to learn N2 from N1 (emphasis on the source — often an organization/institution)
 
-#w スミス先生に英語を習います（なら）- I learn english from mr smith
-
-Structure
-- N1 に N2 +を+ 借りる - to get N2 from N1 (nacisk od kogo)
-
-****
+#w スミス先生に英語を習います（なら）- I learn English from Mr. Smith
 # Summary
 
 
@@ -944,18 +1030,18 @@ Structure
 <!--ID: 1763701622717-->
 
 
- I (used by men)  masculine, aggressive **l.p, l.mn** | rougher and more informal than 僕, common among close friends but can sound rude in formal settings #card
+ I (used by men) — rough, blunt, masculine; casual only **l.p, l.mn** | can sound impolite or arrogant in formal settings; rougher and more informal than 僕, common among close friends #card
 ほんやく: 俺（おれ）ら・たち 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_俺.html">俺</a>
 <!--ID: 1763701622718-->
 
 
- you (formal, two equivalent words) #card
+ you (polite/formal, but not equivalent: おたく = direct address between equals, a bit dated; そちら = indirect "your side," typical in business/phone Japanese) #card
 ほんやく: おたく, そちら 
 <!--ID: 1763701622719-->
 
 
- you (affectionate; e.g. used by a man toward a lover or someone of equal/lower status) #card
+ you (casual/affectionate — used by a man toward a lover, or toward someone of equal/lower status; not used toward superiors) #card
 ほんやく: きみ 
 <!--ID: 1763701622720-->
 
@@ -1059,6 +1145,17 @@ Structure
 <!--ID: 1763701622732-->
 
 
+ (he/she) is good at cooking #card
+ほんやく: 料理を作ることが上手です（りょうり、つく）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_作.html">作</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_上.html">上</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
+<!--ID: 1788882385311-->
+
+
+
  A: Why aren't you going to work tomorrow? B: Because tomorrow is a day off. #k #card
 ほんやく: A: 明日会社に行きませんどうしてですか（あした、かいしゃ）B: 明日は休みですから 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
@@ -1071,7 +1168,7 @@ Structure
 
 
  A: Why do you like manga? B: Because they are very interesting #k #card
-ほんやく: A: どうして漫画が好きですか（まんが、がす）B：とても面白いですから（おもしろい）
+ほんやく: A: どうして漫画が好きですか（まんが）B：とても面白いですから（おもしろい）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_漫.html">漫</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
@@ -1102,6 +1199,14 @@ Structure
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_好.html">好</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_白.html">白</a>
 <!--ID: 1763701622737-->
+
+
+ What kind of person is he? #card
+ほんやく: 彼はどんな人ですか（かれ、ひと）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<!--ID: 1788882385312-->
+
 
 
  to understand English | describes cognitive comprehension of a language or concept, contrasted with 知る, which means knowing facts or information #k #card
@@ -1158,8 +1263,13 @@ Structure
 <!--ID: 1763701622744-->
 
 
+ to return an umbrella #card
+ほんやく: 傘を返す(かさ、かえ)
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_傘.html">傘</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_返.html">返</a>
+<!--ID: 1788882385313-->
 
-傘を返す(かさ、かえ) to return umbrella
+
 
  I will return the book to the library #k #card
 ほんやく: 図書館に本を返します（図書館、かえ）
@@ -1249,6 +1359,13 @@ Structure
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_然.html">然</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_寒.html">寒</a>
 <!--ID: 1763701622756-->
+
+
+ this coffee isn't very sweet #card
+ほんやく: このコーヒーはあまり甘くないです（あま）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_甘.html">甘</a>
+<!--ID: 1788882385314-->
+
 
 
  I will go to Akihabara to buy manga #card
@@ -1405,14 +1522,15 @@ Structure
 <!--ID: 1763701622773-->
 
 
- Lan-san got a cooking book from the library #card
-ほんやく: ランさんは図書館から料理の本をもらいました (としょかん、りょうり) 
+ Lan-san borrowed a cooking book from the library #card
+ほんやく: ランさんは図書館から料理の本を借りました (としょかん、りょうり、か) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_図.html">図</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_書.html">書</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_館.html">館</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_理.html">理</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_借.html">借</a>
 <!--ID: 1763701622774-->
 
 
@@ -1507,6 +1625,13 @@ Structure
 <!--ID: 1763701622784-->
 
 
+ I'll walk as far as the station #card
+ほんやく: 駅まで歩きます（えき、ある）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_駅.html">駅</a>
+<!--ID: 1788882385315-->
+
+
+
 
 
 
@@ -1552,6 +1677,13 @@ Structure
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_返.html">返</a>
 <!--ID: 1763701622790-->
+
+
+ you don't have to study #card
+ほんやく: 習わなくてもいいです（なら）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_習.html">習</a>
+<!--ID: 1788882385316-->
+
 
 
  This movie is interesting, isn’t it? (abbreviation) #card
@@ -1688,7 +1820,7 @@ to know | refers to knowing facts, information, or people, as opposed to 分か�
 
 ---
 
-to give (direction: me/my direction to someone) #wc #card
+to give (direction: away from "me," toward someone else — or between two other people) #wc #card
 ほんやく: あげる  
 て形: あげて
 た形: あげた

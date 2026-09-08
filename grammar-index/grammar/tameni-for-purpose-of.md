@@ -5,7 +5,7 @@ topic_slug: ["purpose-reason"]
 function: ["purpose"]
 level: N4
 register: neutral
-confused_with: ["noni-even-though", "noni-purpose-use", "youni-in-order-to", "node-because"]
+confused_with: ["noni-even-though", "noni-purpose-use", "youni-in-order-to", "node-because", "go-somewhere-for-a-certain-objective"]
 proofread: true
 ---
 
@@ -65,6 +65,7 @@ Register: neutral
 - [のに。。。- for, to (to indicate the application of purpose)](/JapaneseNotes/grammar-index/grammar/noni-purpose-use) — test: Is this describing something as useful/convenient for a purpose (のに, only before 使う／役に立つ／便利／いい／悪い) or stating an active goal someone works toward (ために, freely productive with volitional verbs)?
 - [ように - act on purpose or goal in mind, in order to, so that](/JapaneseNotes/grammar-index/grammar/youni-in-order-to) — test: Is the action volitional and directly controllable by the subject reaching a goal (ために), or a non-volitional/potential outcome the subject hopes will happen (ように)?
 - [。。。ので - because](/JapaneseNotes/grammar-index/grammar/node-because) — test: Is this a goal/purpose being pursued (→ ために), or a direct cause/reason being stated (→ ので)?
+- [Go Somewhere for a certain objective](/JapaneseNotes/grammar-index/grammar/go-somewhere-for-a-certain-objective) — test: Is this a general purpose clause usable with any verb (→ ために), or specifically the movement-verb pattern V-stem+に+行く/来る/帰る (→ Go Somewhere for a certain objective)?
 
 ## See also
 

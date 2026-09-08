@@ -225,15 +225,17 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL8-its-not-very-cold-this-week
 ## Adjectives 形容詞（けいようし）
 
 2 types
-- い - add i when modify noun
+- い - already ends in い; used as-is directly before a noun (nothing added)
 	- あつ**い**コーヒー - hot coffe
 - な - add な when modify noun
 	- 親切**な**人（しんせつ、ひと）- kind person
 
 ### い形容詞
 
+**Register:** ...です / ...ですか = polite (teineigo), used with strangers/in formal speech. Dropping です gives the plain/casual form (used with close friends/family, in casual writing, or when the adjective directly modifies a noun, e.g. 広い部屋).
+
 - Structures
-	- NはAdj です/か - N jest Adj
+	- Nは Adj です (statement) / Adj ですか (question) - N jest Adj
 		- この建物はとても古いです (たてもの、ふる) - this building is very old
 	- Nは Adj N2 です -N1 is N2Adj
 		- ホテルはあの白い建物です（しろ、たてもの）- hotel is that white building
@@ -250,8 +252,9 @@ Structure
 - い→くない
 	- 広い→広くない（ひろ）- wide-> not wide
 	- **いい→よくない**
+		- Register: いい is the common modern reading (spoken/casual and neutral polite), よい is more formal/literary and required in some fixed expressions (e.g. どうでもよい)
 
-#w 今週は寒くないです（こんしゅう、さむ）- it will be not cold this week
+#w 今週は寒くないです（こんしゅう、さむ）- it won't be cold this week
 
 ---
 #### い形容詞 Past
@@ -275,6 +278,8 @@ Structure
 
 ## どうですか - How Is?
 
+**Register:** どうですか is neutral-polite. Casual: どう? (drop ですか, used with friends). More formal/customer-service: いかがですか (e.g. お仕事はいかがですか).
+
 - Ask about the listener
 	- idea
 	- Opinion
@@ -291,7 +296,7 @@ Structure
 Examples
 
 #w A: お仕事はどうですか B: 忙しいです（いそが） - A: How is the job? B: It is busy #k 
-#w A: このコーヒーはどうですか B: とても美味しいです（おいしい） - How is this coffee? B: It is very delicious #k
+#w A: このコーヒーはどうですか B: とても美味しいです（おいしい） - A: How is this coffee? B: It is very delicious #k
 
 Past: 
 #w A: 昨日の仕事はどうでしたか B: あまり忙しくなかったです（いそが） - how was yesterday work? B: It wasn't so busy
@@ -304,11 +309,14 @@ Past:
 
 ### Structure
 -  Nは + ADV + V
-	- (musi byc czoasownik)
+	- (must be a verb)
 
 How to make Adverb from Adjective?
 - い -> く
 	- 寒い（さむ) -> 寒く
+- な-adjective: drop な, add に
+	- 静か（しずか）-> 静かに - quietly
+	- 元気（げんき）-> 元気に - energetically
 
 ### Examples:
 
@@ -330,6 +338,11 @@ Structure
 - Nは いadjくて....いadjです
 - Nは いadjくて....いadjくて....adjです
 - tense of the last adjective defines tense of all Adj
+
+#### な-adjective / Noun -> で
+- だ -> で (drop だ, add で) when listing more than 1, same role as くて for い-adjectives
+	- 静か（しずか）-> 静かで、きれいです - quiet and clean
+	- 学生（がくせい）-> 学生で、忙しいです - (I am) a student and busy
 ##### Examples:
 
 #w この部屋は新し**くて** 広**い**です（へや、あたら、ひろ）- this room is new and wide #k
@@ -341,10 +354,11 @@ Structure
 ### BUT
 #### But  - ...  が ....
 
-1. 1part - positive
-2. 2part - negative
+が simply joins two clauses in contrast ("X, but Y"). There is no requirement that either clause be negative — most examples below are affirmative+affirmative (e.g. delicious *but* expensive), just semantically contrasting.
 
 ##### Structure
+
+**Register:** が is neutral-to-formal (fine in writing and via ですが/ますが in polite speech). Casual spoken equivalent: けど (also だけど, or the more formal だけれども) — used with friends, replaces が directly.
 
 | Type  | Plain + が | Needs だ? |
 | ----- | --------- | -------- |
@@ -353,7 +367,7 @@ Structure
 | な-adj | 静かだが      | Yes      |
 | Noun  | 学生だが      | Yes      |
 
-- 。。。。が、。。。  - 1 part positive, 2 negative
+- 。。。。が、。。。  - plain form + が
 - 。。。ですが、。。。 
 - 。。。ますが、。。。
 Applicable for:
@@ -384,12 +398,14 @@ Verbs:
 
 ### は vs が
 
-| は                | が                                               |
-| ---------------- | ----------------------------------------------- |
-| indicate subject | indicates the subject, it has a special meaning |
-| temat zdania     | wyrozienie, wskazanie pomiotu                   |
-| Często w pytaniu | czesto w odpowiedzi                             |
-|                  |                                                 |
+| は                          | が                                                        |
+| --------------------------- | --------------------------------------------------------- |
+| marks the topic of the sentence (what we're talking about) | marks the grammatical subject, often new/not-yet-established information |
+| often used in questions     | often used in answers, or to give emphasis                |
+
+**Note:** interrogative words (だれ, なに, どこ, どれ, etc.) always take が when they are the subject, never は — e.g. だれが来ますか (not だれは来ますか).
+
+**Note:** this が (subject marker) is unrelated to the が covered under Spójniki/BUT above (the "but" conjunction) — same word, two different grammatical roles.
 
 
 ### は
@@ -417,31 +433,35 @@ Verbs:
 # Vocabulary
 ## Verbs
 
+**Register:** ます forms (泊まります, 知っています) = polite; dictionary/plain form (泊まる, 知る) = casual.
+
 ### 泊まる（とまる）- to stay the night 
 #wc 泊まる（とまる）- to stay the night
 
 - Structure
 	- ....**に**泊まる 
+- 泊まる implies an overnight stay (e.g. at a hotel or inn), as opposed to 住む (to live/reside somewhere long-term)
 
 ---
 
 Examples:
 #w どこのホテルに泊まりますか（と）- Which hotel will you stay at?
 
-#w あきはばら駅に 近いホテルに泊まります（えき、ちか、と) - I will stay at hotel near Akihabara station
+#w あきはばら駅に近いホテルに泊まります（えき、ちか、と) - I will stay at hotel near Akihabara station
 
-### 知る - to know
+### 知る（しる）- to know
 
 - structure 
 	- Xを知っています - I know X
-	- Xを知りません - I dont know X (no te iru form)
+	- Xを知りません - I dont know X (exception: negative does NOT use the ている form)
+- 知る describes acquiring or possessing a piece of information, contrasted with わかる (to understand/comprehend)
 
 #wc 知る(を）（しる）- to know + particle  #k
 
 #w あのホテルを知っています（し）- I know that hotel
 #w 鈴木さんは山田さんを知っています (し）- suzuki knows yamada #k
 
-#w あの歌を知りません（うた、し）- i don't know that song
+#w あの歌を知りません（うた、し）- I don't know that song
 
 
  --- 

@@ -5,7 +5,7 @@ topic_slug: ["obligation-necessity"]
 function: ["prohibition"]
 level: N4
 register: tiered
-confused_with: ["vdictna-dont-do", "vnaidekudasai-please-dont-do-it"]
+confused_with: ["vdictna-dont-do", "vnaidekudasai-please-dont-do-it", "vnainakerebanarimasen-i-have-to-do"]
 proofread: true
 ---
 
@@ -42,6 +42,7 @@ Direct prohibition; can sound blunt/commanding toward a superior, where V-ない
 
 - [V「dict」＋な - Don't do...](/JapaneseNotes/grammar-index/grammar/vdictna-dont-do) — test: Is this a moderate, still-somewhat-negotiable prohibition (てはいけません), or the bluntest direct command form (辞書形＋な)?
 - [Vないでください - please don't do it](/JapaneseNotes/grammar-index/grammar/vnaidekudasai-please-dont-do-it) — test: Is this a blunter, rule-like prohibition (てはいけません), or a polite request asking someone not to do something (Vないでください)?
+- [Vない＋なければなりません- I have to do](/JapaneseNotes/grammar-index/grammar/vnainakerebanarimasen-i-have-to-do) — test: Is the subject forbidden from doing something (→ てはいけません), or obligated to do something (→ Vない＋なければなりません)?
 
 ## See also
 

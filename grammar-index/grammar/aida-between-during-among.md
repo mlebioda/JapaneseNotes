@@ -5,7 +5,7 @@ topic_slug: ["range-interval"]
 function: ["temporal"]
 level: N4
 register: neutral
-confused_with: ["meishi-chuu-juu-during", "nagara", "toki-non-past"]
+confused_with: ["meishi-chuu-juu-during", "nagara", "toki-non-past", "made"]
 proofread: true
 ---
 
@@ -47,6 +47,7 @@ Register: neutral
 - [名詞（めいし） + 中（ちゅう・じゅう）- during](/JapaneseNotes/grammar-index/grammar/meishi-chuu-juu-during) — test: Is the action happening at some specific point within the span (間に), or continuously throughout the entire span (中)?
 - [ながら - While - 2 actions occuring at the same time](/JapaneseNotes/grammar-index/grammar/nagara) — test: Must both actions happen at the same time by the same subject (ながら), or does the event just happen at some point within a time span (間に)?
 - [A....とき...B - while A, B](/JapaneseNotes/grammar-index/grammar/toki-non-past) — test: Does something happen at some point within a bounded span (間に), or is this a general point-in-time "when" (とき)?
+- [まで](/JapaneseNotes/grammar-index/grammar/made) — test: Does the event happen at some specific point within a bounded span (間に), or does the action/state continue right up until an endpoint (まで)?
 
 ## See also
 

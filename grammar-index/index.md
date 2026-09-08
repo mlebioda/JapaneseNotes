@@ -47,6 +47,9 @@
 - [reasons-causes](/JapaneseNotes/grammar-index/reasons-causes) — Patterns for stating a direct cause or reason for something — から, ので, and related forms.
 - [listing-examples](/JapaneseNotes/grammar-index/listing-examples) — Patterns for giving example items from a set, implying there could be more like them — とか...とか, や...や, and related forms.
 - [degree-excess](/JapaneseNotes/grammar-index/degree-excess) — Patterns for expressing that something goes past a limit or degree — too much of something: すぎる, and related forms.
+- [degree-adverbs](/JapaneseNotes/grammar-index/degree-adverbs) — Adverbs marking degree — how much, how little, or how strongly something applies: 少し, あまり, 全然, and related forms.
+- [indefinite-pronouns](/JapaneseNotes/grammar-index/indefinite-pronouns) — The か／も indefinite pronoun series — something/someone/somewhere/sometime (か) and their universal-negative counterparts (も).
+- [likes-dislikes-ability](/JapaneseNotes/grammar-index/likes-dislikes-ability) — Patterns for expressing likes, dislikes, and skill level using な-adjectives marked with が — 好き／嫌い, 上手／下手, and related forms.
 
 ## Forms & Counters
 
@@ -63,3 +66,5 @@
 - [relationships](/JapaneseNotes/grammar-index/relationships) — Vocabulary and expressions for describing interpersonal relationships — friendships, romantic relationships, and social bonds.
 - [adjective-adverb-conversion](/JapaneseNotes/grammar-index/adjective-adverb-conversion) — Patterns for turning an い-adjective or な-adjective into an adverb to modify a verb.
 - [demonstratives-kosoado](/JapaneseNotes/grammar-index/demonstratives-kosoado) — Vocabulary for the こそあど demonstrative series — near-speaker/near-listener/far-from-both distinctions, and their adjective and degree-adverb uses.
+- [pronouns](/JapaneseNotes/grammar-index/pronouns) — Personal pronouns for "I," "you," and third person, and their register/formality levels.
+- [casual-speech](/JapaneseNotes/grammar-index/casual-speech) — Patterns and phenomena specific to casual/colloquial spoken Japanese — particle omission, contractions, and related forms.

@@ -87,6 +87,14 @@ You wrote: <user's answer (plain Japanese, no furigana)>
 <from weak_points if any, otherwise from known learner errors>
 ```
 
+**Formatting rule — mandatory.** Never compress Structure or Examples into a
+single dense paragraph, regardless of how the source note itself is laid
+out. Break content into bullet points or short grouped lines — by word type
+(verb/い-adjective/な-adjective/noun), by tense (present/past), by use case,
+or whatever grouping fits that grammar point's own shape. Every note's
+internal structure differs; there is no one correct grouping to mirror —
+the requirement is always a scannable list, never a prose block.
+
 All kanji in the explanation must carry furigana (same furigana rule as exercise generation).
 
 #### 2b. Choice prompt
