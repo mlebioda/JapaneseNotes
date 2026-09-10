@@ -257,7 +257,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL12-Weather
 
 
 ## けど vs が - but
-→ [[grammar-index/grammar/but]]
+→ [[grammar-index/grammar/contrastive-ga-but]]
 
 - けど - more casual conversation
 	- このケーキは美味しいけど、とても高い（おいしい）- This cake is delicious but very expensive (casual)

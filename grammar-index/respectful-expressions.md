@@ -10,9 +10,9 @@
 - [敬語(けいご)](/JapaneseNotes/grammar-index/grammar/keigo) · N4
 - [尊敬語（そんけいご）- Honorific expressions](/JapaneseNotes/grammar-index/grammar/sonkeigo-honorific-expressions) · N4
 - [Types of verbs:](/JapaneseNotes/grammar-index/grammar/sonkeigo-types-of-verbs) · N4
-- [1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**](/JapaneseNotes/grammar-index/grammar/sonkeikei-passive-form) · N4
-- [**2. 特別な動詞（とくべつなどうし）- special verbs**](/JapaneseNotes/grammar-index/grammar/tokubetsunadoushi-special-verbs) · N4
-- [**3. お + V「ます形」になります**](/JapaneseNotes/grammar-index/grammar/o-vmasu-ninarimasu) · N4
+- [1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**](/JapaneseNotes/grammar-index/grammar/sonkeikei-passive-form) · N4 — Low/casual: colleagues, writing, quick casual respect
+- [**2. 特別な動詞（とくべつなどうし）- special verbs**](/JapaneseNotes/grammar-index/grammar/tokubetsunadoushi-special-verbs) · N4 — Highest: always use if a special verb exists
+- [**3. お + V「ます形」になります**](/JapaneseNotes/grammar-index/grammar/o-vmasu-ninarimasu) · N4 — High: superiors/customers, no special verb, ます-stem ≥2 mora
 - [Nouns, adjectives, adverbs](/JapaneseNotes/grammar-index/grammar/sonkeigo-o-go-prefix-nouns-adjectives-adverbs) · N4
 - [People](/JapaneseNotes/grammar-index/grammar/sonkeigo-polite-people-reference) · N4
 - [Vて形 + いただく（謙譲語）・くださる（尊敬語） - describing a favor received from a superior](/JapaneseNotes/grammar-index/grammar/te-form-itadaku-kudasaru-favor-received) · N4
@@ -25,4 +25,3 @@
 - [Polite Expressions](/JapaneseNotes/grammar-index/polite-expressions) — the neutral politeness layer stacked under respectful forms
 - [Verb Te-Form](/JapaneseNotes/grammar-index/verb-te-form) — the respectful progressive いらっしゃいます is built on the て-form
 - [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — the respectful request form お/ご V「ます形」ください
-- [Politeness Hierarchy](/JapaneseNotes/grammar-index/politeness-hierarchy) — compares formality across the sonkeigo verb-formation patterns

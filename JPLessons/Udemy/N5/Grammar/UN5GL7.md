@@ -352,14 +352,17 @@ Examples
 # 文法
 
 ## Order
+→ [[grammar-index/grammar/order]]
 
  - Time + Place + Object + Verb (a common tendency, not a strict rule — Japanese word order is fairly free since particles mark grammatical roles, and the verb stays sentence-final; time usually precedes place, but a phrase marked as topic with は moves to the front regardless, e.g. 明日は図書館で勉強する)
 	 - 明日図書館で日本語を勉強する - tomorrow, I will study Japanese in the library
 
 
 ## Proposing something to someone
+→ [[grammar-index/grammar/proposing-something-to-someone]]
 
 ### Vます形＋ませんか　Shall we? / Would you like? / Why don't you...?
+→ [[grammar-index/grammar/masenka]]
 
 Structure 
 - Vます形＋ませんか
@@ -398,6 +401,7 @@ Examples:
 
 
 ### Vます形＋ましょう　- Let's...
+→ [[grammar-index/grammar/mashou]]
 
 1. Let's - inviting people to do something When EXPECTED ACCEPT PROPOSAL
 	1. assumes the listener will agree — more direct than ませんか, which leaves the choice open; best with people confident to accept, or a leader addressing a group
@@ -431,6 +435,7 @@ Examples:
 #w いっしょに 昼ごはんを食べませんか　B：はい、食べましょう（ひる）- #k A: Would you like to eat lunch with me? B: Yeah, let's eat lunch together
 
 ### Vます形＋ましょうか　- Shall I/We
+→ [[grammar-index/grammar/mashouka]]
 
 - Inviting people to do something
 	- Euphemistic, showing respect to the listener
@@ -460,6 +465,7 @@ Examples
 | ましょうか | asking for their opinion and letting them decide<br>- ask for intention and let them decide           | スキーに行きましょうか | Shall we go skiing?                  |
  
 ## て形＋もいいです/か - You can do/ Can I?
+→ [[grammar-index/grammar/temoiidesuka-permission]]
 
 - You can do...
 	- コーヒーを飲んでもいいです - You can drink coffee
@@ -492,6 +498,7 @@ Examples:
 
 
 ## て形＋はいけません - You must not do
+→ [[grammar-index/grammar/tehaikemasen-must-not]]
 
 - You must not
 	- ここで泳いではいけません（およ）- you can't swim here
@@ -513,8 +520,10 @@ Examples:
 
 
 ## ている 
+→ [[grammar-index/grammar/teiru]]
 
 #### ている - show state
+→ [[grammar-index/grammar/teiru-show-state]]
 
 - State — resulting state after a one-time change, for punctual/instantaneous verbs (結婚する "to marry," 空く "to become free/vacant"): 結婚しています doesn't mean "is in the process of marrying," it means "is (now, as a result) married"
 - Ongoing action / Habits — for durative verbs (勉強する, 待つ, 飲む): a genuinely ongoing action or a repeated habit
@@ -537,8 +546,10 @@ Examples:
 #w 彼女は商社で働いています（しょうしゃ、はたら）- She works for a trading company
 
 ## て形
+→ [[grammar-index/grammar/te-form]]
 
 ### て形 - several events happening back to back - order
+→ [[grammar-index/grammar/te-form-sequencing-order]]
 
 Structure
 - V1 て形, V2 て形, ... Vn (final form) — only the last verb in the chain carries the tense/politeness marking (ます／た／plain); every earlier verb stays in plain て形 regardless of the sentence's overall tense
@@ -557,7 +568,9 @@ Examples
 
 # Vocabulary
 ## Verbs
+→ [[grammar-index/grammar/vocabulary-verbs]]
 ### 勉強 - learn
+→ [[grammar-index/grammar/vocabulary/Verbs/benkyou-learn]]
 
 Structure
 - as a noun
@@ -570,7 +583,7 @@ Structure
 	- Neutral, no restrictions — polite 勉強します, plain/casual 勉強する
 
 ### 研究（けんきゅう）- research
-
+→ [[grammar-index/grammar/vocabulary/Verbs/kenkyuu-research]]
 
 #w 研究(する）（けんきゅう）- research n/v #k
 #w 研究者（けんきゅうしゃ）- researcher #k
@@ -586,6 +599,7 @@ Structure
 #w 父は大学で英語を研究します（ちち、だいがく、えいご、けんきゅう) - My father is doing research on the English language at university
 
 ### 住む - to live
+→ [[grammar-index/grammar/vocabulary/Verbs/sumu-to-live]]
 
 - Structure
 	- Place + に＋住む — implies permanent/long-term residence, not a brief or temporary stay
@@ -600,6 +614,7 @@ Structure
 #w ポーランド**に**住んでいます - I live in Poland
 
 ### 待つ - to wait
+→ [[grammar-index/grammar/vocabulary/Verbs/matsu-to-wait]]
 
 Structure 
 - を＋待つ
@@ -613,7 +628,7 @@ Structure
 #wc 待つ（ま）- to wait #k
 #w 待ってください(ま) - please wait
 
-
+---
 # Summary
 
  Would you like to go skiing together? #card

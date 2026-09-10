@@ -17,3 +17,4 @@
 ## See also
 
 - [Conditionals](/JapaneseNotes/grammar-index/conditionals) — なら also has a separate conditional "if" use, distinct from this topic-picking use
+- [Word Order](/JapaneseNotes/grammar-index/word-order) — a topic marked with は moves to the front of the sentence, overriding the baseline Time-Place-Object tendency

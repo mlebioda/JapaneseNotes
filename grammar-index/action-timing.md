@@ -15,6 +15,8 @@
 
 - [V「て」しまいます - Finish something completely/complete an action](/JapaneseNotes/grammar-index/grammar/vteshimaimasu-finish-something-completely-complete-an-action) · N4
 
+- [ている - show state](/JapaneseNotes/grammar-index/grammar/teiru-show-state) · N5
+
 ## See also
 
 - [Verb Te-Form](/JapaneseNotes/grammar-index/verb-te-form) — ているところです is built on the て-form progressive

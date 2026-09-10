@@ -59,6 +59,8 @@
 - [likes-dislikes-ability](/JapaneseNotes/grammar-index/likes-dislikes-ability) — Patterns for expressing likes, dislikes, and skill level using な-adjectives marked with が — 好き／嫌い, 上手／下手, and related forms.
 - [sentence-connectors](/JapaneseNotes/grammar-index/sentence-connectors) — Patterns for joining two clauses or descriptions into one sentence — くて／で for "and", が for contrastive "but", and related forms.
 - [opinions-impressions](/JapaneseNotes/grammar-index/opinions-impressions) — Patterns for asking someone's opinion, impression, or how something turned out: どうですか, and related forms.
+- [invitations-proposals](/JapaneseNotes/grammar-index/invitations-proposals) — Patterns for proposing, inviting, or offering to do something together — ませんか／ましょう／ましょうか, and related forms.
+- [word-order](/JapaneseNotes/grammar-index/word-order) — The basic Time–Place–Object–Verb tendency in Japanese sentence structure, and how topic-marking with は overrides it.
 
 ## Forms & Counters
 
@@ -71,7 +73,6 @@
 - [humble-expressions](/JapaneseNotes/grammar-index/humble-expressions) — Kenjougo (謙譲語) — patterns for lowering your own actions, status, and possessions when speaking to or about people outside your group.
 - [polite-expressions](/JapaneseNotes/grammar-index/polite-expressions) — Teineigo (丁寧語) — the neutral polite register (ます／です and their formal variants) showing formality and social distance, independent of relative rank.
 - [respectful-expressions](/JapaneseNotes/grammar-index/respectful-expressions) — Sonkeigo (尊敬語) — patterns for raising the status of the listener, a customer, a superior, or a respected third party.
-- [politeness-hierarchy](/JapaneseNotes/grammar-index/politeness-hierarchy) — Compares the three 尊敬語 verb-formation patterns by formality level, from highest to lowest: dedicated special verbs, お＋ます形＋になる, and the られる passive-form pattern.
 - [relationships](/JapaneseNotes/grammar-index/relationships) — Vocabulary and expressions for describing interpersonal relationships — friendships, romantic relationships, and social bonds.
 - [adjective-adverb-conversion](/JapaneseNotes/grammar-index/adjective-adverb-conversion) — Patterns for turning an い-adjective or な-adjective into an adverb to modify a verb.
 - [demonstratives-kosoado](/JapaneseNotes/grammar-index/demonstratives-kosoado) — Vocabulary for the こそあど demonstrative series — near-speaker/near-listener/far-from-both distinctions, and their adjective and degree-adverb uses.

@@ -547,7 +547,7 @@ Confusable: part of the broader こそあど demonstrative series (これ／そ�
 → [[grammar-index/grammar/vocabulary-verbs]]
 
 ### 出来る（できる) - can, to be built/completed
-→ [[grammar-index/grammar/vocabulary/Verbs/dekiru-can-to-be-built-completed]]
+→ [[grammar-index/grammar/vocabulary/Verbs/dekiru-can]]
 #wc 出来る（でき）- to be built, completed, to be able to 
 - **Noun + が + 出来る（できる） - can**
 	- 車の運転ができます。- I can drive a car.

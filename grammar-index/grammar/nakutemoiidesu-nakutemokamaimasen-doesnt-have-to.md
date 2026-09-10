@@ -5,7 +5,7 @@ topic_slug: ["obligation-necessity"]
 function: ["permission"]
 level: N4
 register: tiered
-confused_with: ["nakutehanarimasen-nakerebanarimasen-must-have-to"]
+confused_with: ["nakutehanarimasen-nakerebanarimasen-must-have-to", "temoiidesuka-permission"]
 proofread: true
 ---
 
@@ -52,6 +52,7 @@ Register: tiered (casual / neutral / formal)
 ## Often confused with
 
 - [なくてはなりません・なければなりません - must, have to](/JapaneseNotes/grammar-index/grammar/nakutehanarimasen-nakerebanarimasen-must-have-to) — test: Does the sentence use なくても (permission to skip — なくてもいい) or なくては (obligation — なくてはならない)?
+- [て形＋もいいです/か - You can do/ Can I?](/JapaneseNotes/grammar-index/grammar/temoiidesuka-permission) — test: is the speaker saying it's fine not to do something (なくてもいいです) or granting/asking permission to do it (てもいいです)?
 
 ## See also
 

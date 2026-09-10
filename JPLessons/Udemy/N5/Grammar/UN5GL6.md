@@ -118,232 +118,53 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL6-How-did-to-akihabara
 
 #w ごくろうさまです - Thank you for your hard work (superior)
 
-
-
-## Grammar
-
-
-
----
-#g 
-
-### Verbs
-#### 乗る・降りる - get on, get off
-
-##### Środek transportu  + の＋乗る・から＋降りる wsiąć do, wysiąść z
-#wc (に)乗る（の）- to get on
-#w 新幹線に乗る（しんかんせん、の）- get on the shinkansen
-#w バスに乗る（の) - to get on bus
-
-#wc （から）降りる（お) - to get off
-#w 電車から降りる（でんしゃ、お) - to get off train
-#w 飛行機から降りる（ひこうき、お）- to get off plane
-
-##### Place + で + 乗る・降りる - wysiąść w
-
-#w 東京で降りる（お）- to get off in tokio
-#w あきはばらで乗る（の）- to get on in akihabara
-
-#### 乗り換える - to transfer
-#wc 乗り換える（のりかえる) - to transfer
-
-- Structure
-	- place で＋乗り換える
-		- あきはばら駅で乗り換える（えき, の、か) - to transfer at akihabara
-	- srodek transportu **から** srodek transportu **に** 乗り換える
-		- バス**から**電車**に**乗り換える（でんしゃ, の、か) - to transfer at akihabara
-
-#### 出る - wychodzić/dotrzec
-
-##### を出る wyjsc z 
-- structure
-	- Place を出る - to leave
-	- Place から出る - to leave
-
-#w 会社を出る(かいしゃをでる) - to leave company
-#w 部屋から出る（へや、で）- leave room
-
-#w 大学を出る（だいがく）- to graduate from university
-
-##### に出る move to other place, wyjść gdzieś 
-- structure
-	- Place に出る - when moving to another place
-#w 店の外に出る（みせ、そと、で) - to go outside of the store, wyjsc na zewnątrz ze sklepu
-
-
-#### 入る - to enter
-- Structure
-	- PLACE に　入る（は）- 
-#wc 入る（は）- to enter
-
-#w 映画館に入る（えいがかんにはいる）- to enter into cinema
-#w 体育館（たいいくかん taikkan）に入る（しゃくしょ,はい）- to enter into a gym
-
-#### へ＋曲がる - to turn
-- Structure
-	- direction + へ＋曲がる（ま）
-
-#wc 曲がる（ま）- to turn
-#w 左へ曲がる（ひだりにまがる）- to turn left
-#w 左へ曲がって（ひだりにまがる）- please turn left
-
-#w 右へ曲がる（みぎにまがる）- to turn right
-#w 右へ曲がって（みぎにまがる）- please turn right
-
-
-### Expressions
-
-#### V dict とすぐです - As soon as ....
-- Structure
-#w V dict とすぐです - As soon as ....
-
-#w 左へ曲がる　と　すぐです (ま) - As soon as you turn left, it is right here
-
-
-### Forms
-####  ない　けい
-
-- Structure
-	- Present/future
-		- V+ない
-	- Past
-		- V+なかった
-
-- Group 1 う
-	- うー＞わない
-		- 買うー＞買わない
-		- 書く→　書かない
-		- 終わる→ 終わらない
-- Group ２ 　る
-	- る -> ない
-		- 食べる　→ 食べない
-		- 寝る　→ 寝ない（ね）
-- Group 3 いる、える
-	- いる・える→ らない
-		- 走るー＞走らない（は）
-		- 帰る　→ 帰らない
-		- しる　→ 知らない
-- Group 4 
-	- くる -> こない
-	- する　→ しない
-
-
-
-#wc 降りる（お）- to get off
-#wc 釣り帰る（つりかえる）- to transfer
-#wc 疲れる（つかれる）- to be tired
-#wc 動く（うごく）- to move
-#wc 来る(く) - to come
-#wc 住む（す）- to live
-#wc 急ぐ（いそぐ） - to hurry
-
-
-#### て　けい
-- Use cases
-
-
-
-#### た　けい
-
-### で 
-
-#### で - means or method
-- Structure: 
-	- N + で + V
-
-#w 電車で行きます（でんしゃ）- I'm going by train
-
-
-Wyjątek:
-#w 新橋駅まで歩いて行きました（しんばし、ある) - I walked to shinbashi on foot
-#w 駅まで**走って**行きました（えき、はし）- 
-
-#### で - where the action will take place
-- Structure
-	- N(Place) ＋で＋V
-
-#w 昨日、秋葉原で冷蔵庫を買った（あきはばら、れいぞうこ）- yesterday i bought fridge in akihabara (Ta)
-
-#w 家で、朝ごはんを食べません - I'dont eat breakfast at home
-
-#w 駅で ざっしを買います - im going to buy a magazine at the station
-
-
-
-### どうやって - how to
-
-#w 秋葉原までどうやって行きましたか - how did you get to Akihabara?
-#w 上野駅まで　歩いて、地下鉄に乗って、二駅で着きます（うえの、ある、ちかてつ、ふたえき、つ）- Walk to ueno station, and take the subway for two stations, then you will arrive
-
-#w 東京からどうやって京都まで行きますか - How do I get to Kyoto from Tokio?
-
-### に
-
-#### Place + に ＋　V - indicate destination
-
-#w ラジさんは4月から大学に行きます - Raj will go to university from April
-
-- Can be replaced with へ in most cases
-- Exceptions:
-	- に　Point to destination
-		- 会社に行く- to go to the company
-	- へ　Point to the direction of an objective
-		- アメリカへ行く - to go to  amerika
-		- 左を曲がる
-
-#eg
-
----
-
-
-
-
 ## 文法
 
 ### Expressions
-→ [[grammar-index/expressions]]
 
 #### V dict とすぐです - As soon as ....
-→ [[grammar-index/grammar/v-dict-tosugudesu-as-soon-as]]
 - Structure
+	- V-dictionary form + と + すぐです — the と-conditional (Vる + と, "when/as soon as X, Y follows naturally") + the adverb すぐ ("right away"); です stands in for an omitted result clause.
+	- Register: neutral — です keeps this fine for both casual and polite conversation.
 #w V dict とすぐです - As soon as ....
 
 #w 左へ曲がる　と　すぐです (ま) - As soon as you turn left, it is right here
 
 
 ### Forms
-→ [[grammar-index/forms]]
 ####  ない形
-→ [[grammar-index/grammar/nai]]
 
 - Structure
 	- Present/future
 		- V+ない
 	- Past
 		- V+なかった
+	- Register: plain/casual — polite equivalents: present 〜ません, past 〜ませんでした
 
-- Group 1 う
-	- うー＞わない
+Standard Japanese verb conjugation has 3 groups. Group 1 includes some verbs that *look* like Group 2 (end in -iru/-eru) but conjugate as Group 1 — these are exceptions to memorize individually, not a separate group.
+
+- Group 1 (godan / u-verbs)
+	- final u-row kana → matching あ-row kana + ない (e.g. う→わ, く→か, る→ら, ...)
 		- 買うー＞買わない
 		- 書く→　書かない
 		- 終わる→ 終わらない
-- Group ２ 　る
+	- Exceptions — end in -iru/-eru but conjugate as Group 1 (also: 入る, 要る, 切る, 知る, 帰る, 走る, 喋る...)
+		- 走るー＞走らない（は）
+		- 帰る　→ 帰らない
+		- 知る　→ 知らない
+- Group 2 (ichidan / る-verbs)
 	- る -> ない
 		- 食べる　→ 食べない
 		- 寝る　→ 寝ない（ね）
-- Group 3 いる、える
-	- いる・える→ らない
-		- 走るー＞走らない（は）
-		- 帰る　→ 帰らない
-		- しる　→ 知らない
-- Group 4 
+- Group 3 (irregular)
 	- くる -> こない
 	- する　→ しない
+	- Irregular negative: ある → ない (not あらない) — ある is otherwise a regular Group 1 verb, but its negative breaks the pattern
 
 
 
 #wc 降りる（お）- to get off
-#wc 釣り帰る（つりかえる）- to transfer
+#wc 乗り換える（のりかえる) - to transfer
 #wc 疲れる（つかれる）- to be tired
 #wc 動く（うごく）- to move
 #wc 来る(く) - to come
@@ -351,129 +172,133 @@ Wyjątek:
 #wc 急ぐ（いそぐ） - to hurry
 
 #### で - means or method
-→ [[grammar-index/grammar/de-means-or-method]]
 - Structure: 
 	- N + で + V
+	- Register: neutral — で itself carries no politeness; register comes from the verb (行きます = polite, 行く = plain)
 
 #w 電車で行きます（でんしゃ）- I'm going by train
 
 
-Wyjątek:
+Exception — verbs of manner of movement (歩く, 走る) don't take で; use the て-form + 行く/来る instead:
 #w 新橋駅まで歩いて行きました（しんばし、ある) - I walked to shinbashi on foot
-#w 駅まで**走って**行きました（えき、はし）- 
+#w 駅まで**走って**行きました（えき、はし）- I ran to the station
 
 #### で - where the action will take place
-→ [[grammar-index/grammar/de-where-the-action-will-take-place]]
 - Structure
 	- N(Place) ＋で＋V
+	- Register: neutral — で itself carries no politeness; register comes from the verb
 
-#w 昨日、秋葉原で冷蔵庫を買った（あきはばら、れいぞうこ）- yesterday i bought fridge in akihabara (Ta)
+#w 昨日、秋葉原で冷蔵庫を買った（あきはばら、れいぞうこ）- Yesterday, I bought a fridge in Akihabara
 
-#w 家で、朝ごはんを食べません - I'dont eat breakfast at home
+#w 家で、朝ごはんを食べません - I don't eat breakfast at home
 
-#w 駅で ざっしを買います - im going to buy a magazine at the station
+#w 駅で ざっしを買います - I'm going to buy a magazine at the station
 
 
 
 ### どうやって - how to
-→ [[grammar-index/grammar/douyatte-how-to]]
+
+- Structure
+	- どうやって + V — どう (how) + やって (て-form of やる, "to do"); literally "doing how", used to ask about a method, process, or route
+	- Register: neutral — works with both plain and polite verb forms (行った / 行きましたか)
+	- Note: どうやって leans toward asking about a method or process (e.g. giving directions); compare with plain どう ("how is it / how about"), which is more general
+	- Note: 二駅で着きます below uses a third sense of で not covered elsewhere in this lesson — marking the quantity/extent within which something happens ("in/within two stops"), distinct from で-means and で-location above
 
 #w 秋葉原までどうやって行きましたか - how did you get to Akihabara?
 #w 上野駅まで　歩いて、地下鉄に乗って、二駅で着きます（うえの、ある、ちかてつ、ふたえき、つ）- Walk to ueno station, and take the subway for two stations, then you will arrive
 
-#w 東京からどうやって京都まで行きますか - How do I get to Kyoto from Tokio?
+#w 東京からどうやって京都まで行きますか - How do I get to Kyoto from Tokyo?
 
 ### に
-→ [[grammar-index/ni]]
 
 #### Place + に ＋　V - indicate destination
-→ [[grammar-index/grammar/place-ni-v-indicate-destination]]
+
+- Structure
+	- N(Place) + に + V — marks the destination/arrival point of a motion verb (行く, 来る, 帰る, 着く, 入る, 住む...)
+	- Register: neutral — に itself carries no politeness; register comes from the verb
+	- Often confused with: へ — with directional motion verbs (行く/来る/帰る) に and へ are largely interchangeable, but に also works with point-arrival/existence verbs that へ generally doesn't take, e.g. 着く: 会社に着く (correct) vs 会社へ着く (unnatural)
+		- 会社に行く／会社へ行く - to go to the company (either works)
+		- アメリカに行く／アメリカへ行く - to go to America (either works)
+	- Also confusable: を with motion-through verbs (曲がる, 渡る, 歩く...) — marks the point/path the motion passes through or along, not a destination
+		- 左を曲がる - to turn left (turning at a point, not arriving at a destination)
+		- 橋を渡る - to cross the bridge
 
 #w ラジさんは4月から大学に行きます - Raj will go to university from April
-
-- Can be replaced with へ in most cases
-- Exceptions:
-	- に　Point to destination
-		- 会社に行く- to go to the company
-	- へ　Point to the direction of an objective
-		- アメリカへ行く - to go to  amerika
-		- 左を曲がる,
 
 
 ## Vocabulary
 
 ### Verbs
-→ [[grammar-index/verbs]]
 #### 乗る・降りる - get on, get off
-→ [[grammar-index/ru-riru-get-on-get-off]]
 
-##### Środek transportu  + ni＋乗る・から＋降りる wsiąć do, wysiąść z
-→ [[grammar-index/grammar/vocabulary/Verbs/rodek-transportu-ni-ru-kara-riru-wsi-do-wysi-z]]
+- Structure
+	- Vehicle + に＋乗る／から＋降りる — to get on/off (a vehicle)
+	- Place + で＋乗る・降りる — to get on/off at (a place)
+	- Register: neutral — に／から／で carry no politeness; register comes from the verb
+
+##### Vehicle + に＋乗る・から＋降りる — to get on/off a vehicle
 #wc (に)乗る（の）- to get on
 #w 新幹線に乗る（しんかんせん、の）- get on the shinkansen
-#w バスに乗る（の) - to get on bus
+#w バスに乗る（の) - to get on the bus
 
 #wc （から）降りる（お) - to get off
-#w 電車から降りる（でんしゃ、お) - to get off train
-#w 飛行機から降りる（ひこうき、お）- to get off plane
+#w 電車から降りる（でんしゃ、お) - to get off the train
+#w 飛行機から降りる（ひこうき、お）- to get off the plane
 
-##### Place + で + 乗る・降りる - wysiąść w
-→ [[grammar-index/grammar/vocabulary/Verbs/place-de-ru-riru-wysi-w]]
+##### Place + で + 乗る・降りる — to get on/off at a place
 
-#w 東京で降りる（お）- to get off in tokio
-#w あきはばらで乗る（の）- to get on in akihabara
+#w 東京で降りる（お）- to get off in Tokyo
+#w あきはばらで乗る（の）- to get on in Akihabara
 
 #### 乗り換える - to transfer
-→ [[grammar-index/grammar/vocabulary/Verbs/rieru-to-transfer]]
 #wc 乗り換える（のりかえる) - to transfer
 
 - Structure
 	- place で＋乗り換える
 		- あきはばら駅で乗り換える（えき, の、か) - to transfer at akihabara
-	- srodek transportu **から** srodek transportu **に** 乗り換える
-		- バス**から**電車**に**乗り換える（でんしゃ, の、か) - to transfer at akihabara
+	- Vehicle A **から** Vehicle B **に** 乗り換える
+		- バス**から**電車**に**乗り換える（でんしゃ, の、か) - to transfer from the bus to the train
+	- Register: neutral — で／から／に carry no politeness; register comes from 乗り換える itself
 
-#### 出る - wychodzić/dotrzec
-→ [[grammar-index/ru-wychodzi-dotrzec]]
+#### 出る - to exit/leave
 
-##### を出る wyjsc z 
-→ [[grammar-index/grammar/vocabulary/Verbs/woru-wyjsc-z]]
-- structure
+##### を出る／から出る — to leave/exit (a place)
+- Structure
 	- Place を出る - to leave
 	- Place から出る - to leave
+	- Register: neutral — を／から carry no politeness; register comes from 出る itself
 
-#w 会社を出る(かいしゃをでる) - to leave company
-#w 部屋から出る（へや、で）- leave room
+#w 会社を出る(かいしゃをでる) - to leave the company
+#w 部屋から出る（へや、で）- to leave the room
 
 #w 大学を出る（だいがく）- to graduate from university
 
-##### に出る move to other place, wyjść gdzieś 
-→ [[grammar-index/grammar/vocabulary/Verbs/niru-move-to-other-place-wyj-gdzie]]
-- structure
+##### に出る — to come out into (a new place)
+- Structure
 	- Place に出る - when moving to another place
-#w 店の外に出る（みせ、そと、で) - to go outside of the store, wyjsc na zewnątrz ze sklepu
+	- Register: neutral — に carries no politeness; register comes from 出る itself
+#w 店の外に出る（みせ、そと、で) - to go outside of the store
 
 
 #### 入る - to enter
-→ [[grammar-index/grammar/vocabulary/Verbs/ru-to-enter]]
 - Structure
-	- PLACE に　入る（は）- 
+	- PLACE に　入る
+	- Register: neutral — に carries no politeness; register comes from 入る itself
 #wc 入る（は）- to enter
 
-#w 映画館に入る（えいがかんにはいる）- to enter into cinema
-#w 体育館（たいいくかん taikkan）に入る（しゃくしょ,はい）- to enter into a gym
+#w 映画館に入る（えいがかんにはいる）- to enter the cinema
+#w 体育館（たいいくかん taikkan）に入る（はい）- to enter a gym
 
 #### へ＋曲がる - to turn
-→ [[grammar-index/grammar/vocabulary/Verbs/he-garu-to-turn]]
 - Structure
 	- direction + へ＋曲がる（ま）
 
 #wc 曲がる（ま）- to turn
-#w 左へ曲がる（ひだりにまがる）- to turn left
-#w 左へ曲がって（ひだりにまがる）- please turn left
+#w 左へ曲がる（ひだり、ま）- to turn left
+#w 左へ曲がって（ひだり、ま）- please turn left
 
-#w 右へ曲がる（みぎにまがる）- to turn right
-#w 右へ曲がって（みぎにまがる）- please turn right
+#w 右へ曲がる（みぎ、ま）- to turn right
+#w 右へ曲がって（みぎ、ま）- please turn right
 
 
 
@@ -1070,7 +895,7 @@ means of transportation | a broad category term covering any method of getting s
 
 
  to turn left #card
-ほんやく: 左へ曲がる（ひだりにまがる）
+ほんやく: 左へ曲がる（ひだり、ま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_左.html">左</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曲.html">曲</a>
 <!--ID: 1762324555111-->
@@ -1078,7 +903,7 @@ means of transportation | a broad category term covering any method of getting s
 
 
  please turn left #card
-ほんやく: 左へ曲がって（ひだりにまがる）
+ほんやく: 左へ曲がって（ひだり、ま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_左.html">左</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曲.html">曲</a>
 <!--ID: 1762324555112-->
@@ -1086,7 +911,7 @@ means of transportation | a broad category term covering any method of getting s
 
 
  to turn right #card
-ほんやく: 右へ曲がる（みぎにまがる）
+ほんやく: 右へ曲がる（みぎ、ま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_右.html">右</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曲.html">曲</a>
 <!--ID: 1762324555113-->
@@ -1094,7 +919,7 @@ means of transportation | a broad category term covering any method of getting s
 
 
  please turn right #card
-ほんやく: 右へ曲がって（みぎにまがる）
+ほんやく: 右へ曲がって（みぎ、ま）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_右.html">右</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曲.html">曲</a>
 <!--ID: 1762324555114-->

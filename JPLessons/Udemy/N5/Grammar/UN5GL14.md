@@ -293,7 +293,7 @@ Register: neutral — the modifying verb always stays in plain form regardless o
 ---
 
 ## 。。。が。。。 - 
-→ [[grammar-index/grammar/but]]
+→ [[grammar-index/grammar/contrastive-ga-but]]
 
 1. **But**
 	1. 昨日 山田さんは はじめてダンスしました **が** とても上手でした - Yamada danced for the first time yesterday but was very good

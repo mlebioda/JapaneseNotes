@@ -48,280 +48,6 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL4-what-time-department-store-is-op
 #w 本当（ほんとう）- truth, really
 #w 質問（しつもん）- question
 
-## Liczby
-
-
----
-#g 
-
-### Years 年
-→ [[grammar-index/grammar/years]]
-
-YEAR 年（ねん）
-#w 1994年（せんきゅうひゃくきゅうじゅうきゅう**よ**ねん） - 1999r
-
-#w 今年は何年ですか（ことし、なんねん）- what year is it?
-#w 来年は何年ですか（らいねん、なんねん) - what year is next year
-
-UWAGA
-4年 == よねん
-
-#### Years - counting
-→ [[grammar-index/grammar/years-counting]]
-
-number + 年(間)
-
-#w 四年(間)（よねんかん）- 4 lata (okres)
-
-### Months 　月
-→ [[grammar-index/grammar/months]]
-
-一月（いちがつ）- styczeń
-二月（にがつ）- luty
-三月（さんがつ) - marzec
-#w 四月（しがつ） - april
-五月（ごがつ）- may
-六月（ろくがつ）- june
-#w 七月（しちがつ）- july
-八月（はちがつ）- August
-#w 九月（くがつ）- September
-十月（じゅうがつ）- October
-十一月（じゅういちがつ）- November
-十二月（じゅうにがつ）- December
-
-何月（なんがつ）- what month?
-
-#### Months - how to count
-→ [[grammar-index/grammar/months-how-to-count]]
-
-#w 一か月(間)（いっかげつかん) - 1 miesiąc
-#w 二か月(間)（にかげつかん）- 2 miesiące
-#w 三か月(間)（さんかげつかん) - 3 miesiące
-#w 四か月(間)（よんかげつかん) - 4 miesiące
-#w 五か月(間)（ごかげつかん）- 5 miesięcy
-#w 六か月(間)（ろっかげつかん) - 6 miesięcy
-#w 七か月(間)（ななかげつかん）- 7 miesięcy
-#w 八か月(間)（はちかげつかん) - 8 miesięcy
-#w 九か月(間)（きゅうかげつかん) - 9 miesięcy
-#w 十か月(間)（じゅっかげつかん) - 10 miesięcy
-#w 十二か月（かん）(じゅうにかげつ) - 12 miesiecy
-
-Przedzial czaswy + 間 (opcjonalnie)
-### Days
-→ [[grammar-index/grammar/days]]
-
-日 (ひ、にち) - day
-
-ひ - special occasions
-#w この日(ひ) - this day
-#w 母の日（ははのひ）- mother's day
-
-にち - calendar days
-１４日（にち）- 14th day
-
-#### Days of the week
-→ [[grammar-index/grammar/days-of-the-week]]
-
-日曜日（日曜日）- Sunday
-月曜日（げつようび）- Monday
-#w 火曜日（かようび）- Tuestay
-#w 水曜日（すいようび）- Wednesday
-#w 木曜日（木曜日）- Thursday
-#w 金曜日（金曜日）- Friday
-#w 土曜日（土曜日）- Saturday
-
-#w 何曜日（なんようび）- what day of the week
-
-#### weeks 
-→ [[grammar-index/grammar/weeks]]
-
-#w 一週間（いっしゅうかん）- one week  
-#w 二週間（にしゅうかん）- two weeks  
-#w 三週間（さんしゅうかん）- three weeks  
-#w 四週間（よんしゅうかん）- four weeks  
-#w 五週間（ごしゅうかん）- five weeks  
-#w 六週間（ろくしゅうかん）- six weeks  
-#w 七週間（ななしゅうかん）- seven weeks  
-#w 八週間（はっしゅうかん）- eight weeks  
-#w 九週間（きゅうしゅうかん）- nine weeks  
-#w 十週間（じゅっしゅうかん）- ten weeks
-
-#### 年月日（ねんがっぴ）- dates
-→ [[grammar-index/grammar/nengappi-dates]]
-
-Number + 年 + Number + 月 + Number + 日
-
-1990-3-22 - 1990年三月22日
-
-#w 一日（ついたち）- 1st day  
-#w 二日（ふつか）- 2nd day  
-#w 三日（みっか）- 3rd day  
-#w 四日（よっか）- 4th day  
-#w 五日（いつか）- 5th day  
-#w 六日（むいか）- 6th day  
-#w 七日（なのか）- 7th day  
-#w 八日（ようか）- 8th day  
-#w 九日（ここのか）- 9th day  
-#w 十日（とおか）- 10th day  
-
-
-#w 十一日（じゅういちにち）- 11th day  
-#w 十二日（じゅうににち）- 12th day  
-#w 十三日（じゅうさんにち）- 13th day  
-#w **十四日（じゅうよっか）- 14th day**  
-#w 十五日（じゅうごにち）- 15th day  
-#w 十六日（じゅうろくにち）- 16th day  
-#w 十七日（じゅうしちにち）- 17th day  
-#w 十八日（じゅうはちにち）- 18th day  
-#w **十九日（じゅうくにち）- 19th day**  
-#w **二十日（はつか）- 20th day**  
-
-
-#w 二十一日（にじゅういちにち）- 21st day  
-二十二日（にじゅうににち）- 22nd day  
-二十三日（にじゅうさんにち）- 23rd day  
-#w **二十四日（にじゅうよっか）- 24th day**  
-二十五日（にじゅうごにち）- 25th day  
-二十六日（にじゅうろくにち）- 26th day  
-#w 二十七日（にじゅうしちにち）- 27th day  
-二十八日（にじゅうはちにち）- 28th day  
-#w **二十九日（にじゅうくにち）- 29th day**  
-
-#w 三十日（さんじゅうにち）- 30th day  
-#w 三十一日（さんじゅういちにち）- 31st day
-
-#### How many days
-→ [[grammar-index/grammar/how-many-days]]
-
-days from date + (kan)
-
-#w いちにち - one day  
-#w ふつか（かん）- two days  
-#w みっか（かん）- three days  
-#w よっか（かん）- four days  
-#w いつか（かん）- five days  
-#w むいか（かん）- six days  
-#w なのか（かん）- seven days  
-#w ようか（かん）- eight days  
-#w ここのか（かん）- nine days  
-#w とおか（かん）- ten days
-
-#w 一か月二日間（いっかげつ ふつかかん) - 1 month 2 days
-### Time
-→ [[grammar-index/grammar/time]]
-
-#### Hour
-→ [[grammar-index/grammar/hour]]
-
-午前・午後・朝・夜 +　Number + 時 + Number + 分
-
-一時（いちじ）- 1
-二時（にじ) - 2
-三時（さんじ）- 3
-#w 四時（よじ）- 4 o'clock
-五時（ごじ）- 5
-六時（ろくじ）- 6
-#w 七時（しちじ）- 7 o'clock
-八時（はちじ）- 8
-#w 九時（くじ）- 9 o'clock
- 十時（じゅうじ）- 10
- 十一時（じゅういちじ）- 10
- 十二時（じゅうにじ）- 10
-
-
-#### Minutes
-→ [[grammar-index/grammar/minutes]]
-
-#w 一分（いっぷん）- 1 minute
-#w 二分（にふん）- 2 minutes
-#w 三分（さんぷん）- 3 minutes
-#w 四分（よんぷん) - 4 minutes
-#w 五分（ごふん）- 5 minutes
-#w 六分（ろっぷん）- 6 minutes
-#w 七分（ななふん）- 7 minute
-#w 八分（はっぷん）- 8 minutes
-#w 九分（きゅうふん）- 9 minutes
-#w 十分（じゅっぷん）- 10 minutes
-
-#w 十四分（じゅうよんぷん) - 14 minutes
-
-#w 三十分・半（さんじゅうっぷん・はん）- 30 minutes / half hour
-
-#w 何分（なんぷん) - what minute
-
-#### Period of time
-→ [[grammar-index/grammar/period-of-time]]
-
-1. hour + 間
-2. minutes + 間
-3. hour + 間 + minutes
-
-#w 十四時間三十四ぷ（じゅうよじかん さんじゅうよんぷん） - 14 godzin i 34 minut 
-
-
-
-#eg
-
-
-
----
-
-
----
-#g 
-## Pory dnia
-
-#w ご飯（はん）- meal
-
----
-
-#w 朝（あさ）- morning
-#w 朝ご飯（あさ、はん) - breakfast
-
----
-
-#w 昼（ひる）- day time
-#w 昼ごはん（ひる、はん）-　lunch
-
----
-
-#w 晩(ばん) - evening (sunset to bedtime)
-#w 晩ご飯（ばんごはん）- dinner
-
----
-
-#w 夜（よる）- night (sunset to sunrise)
-
-
-#eg
-
----
-
-
-
----
-#g 
-## Directions
-→ [[grammar-index/grammar/directions]]
-
-右（みぎ）- right
-左（ひだり）- left
-前（まえ）- front
-後ろ（うし）- back
-
-#w **側（がわ）- side**
-#w 右側（みぎがわ）- right side
-#w 左側（ひだりがわ）- left side
-#w 前側（まえがわ）- front side
-#w 後ろ側（うしろがわ）- back side
-
-Example:
-#w 銀行の後ろ側に映画館があります（ぎんこう、うし、えいがかん）- there is a cinema behind the bank
-
-#eg
-
----
-
 
 ## ひょうげん - expressions
 
@@ -347,98 +73,62 @@ Example:
 #w 期間(きかん) - period of time
 
 
----
-#g 
+# 文法
 
-### OR - か、か　（２ options)
-→ [[grammar-index/grammar/or-ka-ka-2-options]]
-
-#### Structure
-
-。。。。か。。。か
-
-- can be used with
-	- verbs
-	- adverbs
-	- nouns
-- Often used with 知らない、わかりませんわかりません
-
-#### Examples
-
-#w 今日は九月 八日ですか、九日です**か**（くがつ、ようか）- Is today September 8th or 8th?
-
-#w あそこは映画館ですか、美術館ですか（えいがかん、びじゅつかん）- Is that a movie theatre on an art museum?
-
-#w これは アンドさんの ざっしですか、山田さんのざっしですか - Is this Mr Ando's magazine or Mr. Yamada's Magazine?
-
-#w これは日本語（にほんご）か英語（えいご）か分（わ）かりません - Nie wiem, czy to po japońsku, czy po angielsku.
-
-#w この料理（りょうり）はおいしいかまずいか分（わ）かりません。-  Nie wiem, czy to danie jest smaczne, czy niesmaczne.
-
-#w - 行（い）くか行（い）かないか、まだ決（き）めていません - Nie zdecydowałem, czy pójdę, czy nie pójdę.
-
-#w 雨（あめ）が降（ふ）るか降（ふ）らないか心配（しんぱい）です。  Martwię się, czy będzie padać, czy nie.
-
-#eg
-
----
-
- --- 
-
-# Grammar Summary
-
-## 文法
-
-### Years 年
+## Years 年
 
 YEAR 年（ねん）
-#w 1994年（せんきゅうひゃくきゅうじゅうきゅう**よ**ねん） - 1999r
+#w 1999年（せんきゅうひゃくきゅうじゅうきゅう**よ**ねん） - 1999r
 
 #w 今年は何年ですか（ことし、なんねん）- what year is it?
-#w 来年は何年ですか（らいねん、なんねん) - what year is next year
+#w 来年は何年ですか（らいねん、なんねん) - What year will next year be?
 
-UWAGA
+NOTE
 4年 == よねん
 
-#### Years - counting
+Register: です above is polite (teineigo). Casual/informal drops です → 今年何年？, 来年何年？
+
+### Years - counting
 
 number + 年(間)
 
-#w 四年(間)（よねんかん）- 4 lata (okres)
+#w 四年(間)（よねんかん）- 4 years (period)
 
-### Months 　月
+## Months 　月
 
-一月（いちがつ）- styczeń
-二月（にがつ）- luty
-三月（さんがつ) - marzec
-#w 四月（しがつ） - april
-五月（ごがつ）- may
-六月（ろくがつ）- june
-#w 七月（しちがつ）- july
+一月（いちがつ）- January
+二月（にがつ）- February
+三月（さんがつ) - March
+#w 四月（しがつ） - April
+五月（ごがつ）- May
+六月（ろくがつ）- June
+#w 七月（しちがつ）- July
 八月（はちがつ）- August
 #w 九月（くがつ）- September
 十月（じゅうがつ）- October
 十一月（じゅういちがつ）- November
 十二月（じゅうにがつ）- December
 
-何月（なんがつ）- what month?
+#w 何月（なんがつ）- what month?
 
-#### Months - how to count
+### Months - how to count
 
-#w 一か月(間)（いっかげつかん) - 1 miesiąc
-#w 二か月(間)（にかげつかん）- 2 miesiące
-#w 三か月(間)（さんかげつかん) - 3 miesiące
-#w 四か月(間)（よんかげつかん) - 4 miesiące
-#w 五か月(間)（ごかげつかん）- 5 miesięcy
-#w 六か月(間)（ろっかげつかん) - 6 miesięcy
-#w 七か月(間)（ななかげつかん）- 7 miesięcy
-#w 八か月(間)（はちかげつかん) - 8 miesięcy
-#w 九か月(間)（きゅうかげつかん) - 9 miesięcy
-#w 十か月(間)（じゅっかげつかん) - 10 miesięcy
-#w 十二か月（かん）(じゅうにかげつ) - 12 miesiecy
+#w 一か月(間)（いっかげつかん) - 1 month
+#w 二か月(間)（にかげつかん）- 2 months
+#w 三か月(間)（さんかげつかん) - 3 months
+#w 四か月(間)（よんかげつかん) - 4 months
+#w 五か月(間)（ごかげつかん）- 5 months
+#w 六か月(間)（ろっかげつかん) - 6 months
+#w 七か月(間)（ななかげつかん）- 7 months
+#w 八か月(間)（はちかげつかん) - 8 months
+#w 九か月(間)（きゅうかげつかん) - 9 months
+#w 十か月(間)（じゅっかげつかん) - 10 months
+#w 十二か月（かん）(じゅうにかげつ) - 12 months
 
-Przedzial czaswy + 間 (opcjonalnie)
-### Days
+number + か月(間) (optional)
+
+NOTE: か月 is also written ヶ月 (same reading; orthographic variant only, no register difference).
+## Days
 
 日 (ひ、にち) - day
 
@@ -447,21 +137,20 @@ Przedzial czaswy + 間 (opcjonalnie)
 #w 母の日（ははのひ）- mother's day
 
 にち - calendar days
-１４日（にち）- 14th day
 
-#### Days of the week
+### Days of the week
 
-日曜日（日曜日）- Sunday
-月曜日（げつようび）- Monday
-#w 火曜日（かようび）- Tuestay
+#w 日曜日（にちようび）- Sunday
+#w 月曜日（げつようび）- Monday
+#w 火曜日（かようび）- Tuesday
 #w 水曜日（すいようび）- Wednesday
-#w 木曜日（木曜日）- Thursday
-#w 金曜日（金曜日）- Friday
-#w 土曜日（土曜日）- Saturday
+#w 木曜日（もくようび）- Thursday
+#w 金曜日（きんようび）- Friday
+#w 土曜日（どようび）- Saturday
 
 #w 何曜日（なんようび）- what day of the week
 
-#### weeks 
+### weeks 
 
 #w 一週間（いっしゅうかん）- one week  
 #w 二週間（にしゅうかん）- two weeks  
@@ -474,7 +163,7 @@ Przedzial czaswy + 間 (opcjonalnie)
 #w 九週間（きゅうしゅうかん）- nine weeks  
 #w 十週間（じゅっしゅうかん）- ten weeks
 
-#### 年月日（ねんがっぴ）- dates
+### 年月日（ねんがっぴ）- dates
 
 Number + 年 + Number + 月 + Number + 日
 
@@ -517,7 +206,9 @@ Number + 年 + Number + 月 + Number + 日
 #w 三十日（さんじゅうにち）- 30th day  
 #w 三十一日（さんじゅういちにち）- 31st day
 
-#### How many days
+#w 何日（なんにち）- what date
+
+### How many days
 
 days from date + (kan)
 
@@ -533,9 +224,9 @@ days from date + (kan)
 とおか（かん）- ten days
 
 一か月二日間（いっかげつ ふつかかん) - 1 month 2 days
-### Time
+## Time
 
-#### Hour
+### Hour
 
 午前・午後・朝・夜 +　Number + 時 + Number + 分
 
@@ -549,11 +240,11 @@ days from date + (kan)
 八時（はちじ）- 8
 九時（くじ）- 9 o'clock
  十時（じゅうじ）- 10
- 十一時（じゅういちじ）- 10
- 十二時（じゅうにじ）- 10
+ 十一時（じゅういちじ）- 11
+ 十二時（じゅうにじ）- 12
 
 
-#### Minutes
+### Minutes
 
  一分（いっぷん）- 1 minute
  二分（にふん）- 2 minutes
@@ -572,14 +263,14 @@ days from date + (kan)
 
 何分（なんぷん) - what minute
 
-#### Period of time
+### Period of time
 
 1. hour + 間
 2. minutes + 間
-3. hour + 間 + minutes
+3. hour + 間 + minutes + 分
 
- 十四時間三十四ぷ（じゅうよじかん さんじゅうよんぷん） - 14 godzin i 34 minut,
-### Pory dnia
+ 十四時間三十四分（じゅうよじかん さんじゅうよんぷん） - 14 hours and 34 minutes
+## Times of day
 
  ご飯（はん）- meal
 
@@ -601,12 +292,12 @@ days from date + (kan)
 ---
 
 夜（よる）- night (sunset to sunrise),
-### Directions
+## Directions
 
 右（みぎ）- right
 左（ひだり）- left
 前（まえ）- front
-後ろ（うし）- back
+後ろ（うしろ）- back
 
  **側（がわ）- side**
  右側（みぎがわ）- right side
@@ -615,11 +306,11 @@ days from date + (kan)
  後ろ側（うしろがわ）- back side
 
 Example:
-銀行の後ろ側に映画館があります（ぎんこう、うし、えいがかん）- there is a cinema behind the bank,
+銀行の後ろ側に映画館があります（ぎんこう、うし、えいがかん）- there is a cinema behind the bank.
 
-### OR - か、か
+## OR - か、か
 
-#### Structure
+### Structure
 
 。。。。か。。。か
 
@@ -627,23 +318,27 @@ Example:
 	- verbs
 	- adverbs
 	- nouns
-- Often used with 知らない、わかりませんわかりません
+- Often used with 知らない、わかりません
 
-#### Examples
+Register: plain-form か…か (as in わかりません／決めていません) is neutral, used in both speech and writing. ですか versions are the polite question form of the same pattern.
 
-#w 今日は九月 八日ですか、九日です**か**（くがつ、ようか）- Is today September 8th or 8th?
+Confusable: か…か ("A or B" / "whether A or B") vs. a single sentence-final question か vs. や…や (non-exhaustive "A and B and others" listing) — all use か/や particles but serve different functions.
 
-#w あそこは映画館ですか、美術館ですか（えいがかん、びじゅつかん）- Is that a movie theatre on an art museum?
+### Examples
 
-#w これは アンドさんの ざっしですか、山田さんのざっしですか - Is this Mr Ando's magazine or Mr. Yamada's Magazine?
+#w 今日は九月 八日ですか、九日です**か**（くがつ、ようか）- Is today September 8th or 9th?
 
-#w これは日本語（にほんご）か英語（えいご）か分（わ）かりません - Nie wiem, czy to po japońsku, czy po angielsku.
+#w あそこは映画館ですか、美術館ですか（えいがかん、びじゅつかん）- Is that a movie theater or an art museum?
 
-#w この料理（りょうり）はおいしいかまずいか分（わ）かりません。-  Nie wiem, czy to danie jest smaczne, czy niesmaczne.
+#w これは アンドさんの ざっしですか、山田さんのざっしですか - Is this Mr. Ando's magazine or Mr. Yamada's magazine?
 
-#w 行（い）くか行（い）かないか、まだ決（き）めていません - Nie zdecydowałem, czy pójdę, czy nie pójdę.
+#w これは日本語（にほんご）か英語（えいご）か分（わ）かりません - I don't know whether this is in Japanese or in English.
 
-#w 雨（あめ）が降（ふ）るか降（ふ）らないか心配（しんぱい）です。  Martwię się, czy będzie padać, czy nie.,
+#w この料理（りょうり）はおいしいかまずいか分（わ）かりません。- I don't know whether this dish is tasty or not.
+
+#w 行（い）くか行（い）かないか、まだ決（き）めていません - I still haven't decided whether I'll go or not.
+
+#w 雨（あめ）が降（ふ）るか降（ふ）らないか心配（しんぱい）です。 - I'm worried about whether it will rain or not.
 
 
 
@@ -920,6 +615,12 @@ Example:
 <!--ID: 1761797631669-->
 
 
+ what month? | asks for a specific calendar month, distinct from 何ヶ月 ("how many months") #card
+ほんやく: 何月（なんがつ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+
+
  1 month #card
 ほんやく: 一か月(間)（いっかげつかん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
@@ -1019,6 +720,19 @@ Example:
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_母.html">母</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631682-->
+
+
+ Sunday #card
+ほんやく: 日曜日（にちようび）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
+
+
+ Monday #card
+ほんやく: 月曜日（げつようび）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 
 
  Tuesday #card
@@ -1350,6 +1064,12 @@ Example:
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_一.html">一</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <!--ID: 1761797631724-->
+
+
+ what date | asks for the day of the month, as opposed to 何曜日 which asks for the day of the week #card
+ほんやく: 何日（なんにち）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 
 
  one day   #card
@@ -1764,7 +1484,7 @@ Example:
 
 
   I'm worried about whether it will rain or not. #card
-雨（あめ）が降（ふ）るか降（ふ）らないか心配（しんぱい）です。
+ほんやく: 雨（あめ）が降（ふ）るか降（ふ）らないか心配（しんぱい）です。
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_雨.html">雨</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_降.html">降</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_心.html">心</a>

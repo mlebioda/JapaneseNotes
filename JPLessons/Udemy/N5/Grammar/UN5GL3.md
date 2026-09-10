@@ -95,101 +95,6 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL3-where-is a meeting-room
 #w (いいえ）どういたしまして - you're welcome
 
 
-# gramatyka
-
-
----
-#g 
-#### 枚　まい - counter rzeczy płaskich 
-→ [[grammar-index/grammar/mai-counter-rzeczy-paskich]]
-
-#w 一枚（いちまい）- 1 rzecz płaska 
-#w 二枚（にまい）- 2 rzeczy płaskie 
-#w 三枚（さんまい）- 3 rzeczy płaskie 
-#w 四枚（よんまい）- 4 rzeczy płaskie 
-#w 五枚（ごまい）- 5 rzeczy płaskich
-#w 六枚（ろくまい）- 6 rzeczy płaskich
-#w 七枚（ななまい）- 7 rzeczy płaskich
-#w 八枚（はちまい）- 8 rzeczy płaskich
-#w 九枚（きゅうまい）- 9 rzeczy płaskich
-#w 十枚（じゅうまい）- 10 rzeczy płaskich
-
-#w 何枚（なんまい）- how many thin objects?
-
-#eg
-
-
-#g
-
-### Indicating directions
-→ [[grammar-index/grammar/indicating-directions]]
-#### ここ、そこ、あそこ - indicate physical place or location
-→ [[grammar-index/grammar/koko-soko-asoko-indicate-physical-place-or-location]]
-
-- ここ - here
-- そこ - there (near listener)
-- あそこ - over there (far form both)
-- どこ - where
-
-#w 会議室はどこですか？（会議室）- where is the meeting room?
-
-#### こちら、そちら、あちら、どちら indicate place, location and direction, person
-→ [[grammar-index/grammar/kochira-sochira-achira-dochira-indicate-place-location-and-direction-person]]
-more polite
-- こちら
-- そちら
-- あちら
-- どちら
-
-
-#w おてあらいはどちらですか - where is toilet?
-#w 部長はどちらにいますか - where is the general manager?
-
-
-|              | proximiti to the speaker | proximity to the listener | distance from both | indefinite pronoun |
-| ------------ | ------------------------ | ------------------------- | ------------------ | ------------------ |
-| Thing        | これ                       | それ                        | あれ                 | どれ                 |
-| Thing/person | この                       | その                        | あの                 | どの                 |
-| Place        | ここ                       | そこ                        | あそこ                | どこ                 |
-| Direction    | こちら                      | そちら                       | あちら                | どちら                |
-|              |                          |                           |                    |                    |
-
-
-#eg 
-
-
----
-#g 
-
-### Location of the objects with directions
-→ [[grammar-index/grammar/location-of-the-objects-with-directions]]
-
-#### PにNがあります・います - there is something somewhere
-→ [[grammar-index/grammar/pningaarimasu-imasu-there-is-something-somewhere]]
-##### Structure
-- Place に Noun があります・います
-##### Examples
-- あそこに椅子と机があります（いす、つくえ) - There is a chair and desk over there
-- エレベーターの　となり に　トイレがあります - there is a restroom next to the elevator
-
-- 会議室にだれがいますか (かいぎしつ) - who is in the meeting room?
-- 会議室に部長がいます（かいぎしつ、ぶちょう）- The general manager is in the meeting room
-
-#### Something is somewhere
-→ [[grammar-index/grammar/something-is-somewhere]]
-##### Structure
-- Noun は Place に　あります・います
-##### Examples
-- あの写真はアンドさんの机の上にあります（しゃしん、つくえ）- That picture is on MR Ando desk
-- 自動販売機は受付隣にあります（じどうはんばいき、うけつけ, となり) - The vending machine is next to the reception desk 
-
-- 社長はどこにいますか（しゃちょう) - Where is the CEO
-- 社長はあの部屋にいます（しゃちょう、へや) - Ceo is in that room
-
-
-#eg
-
----
 
 #w あそこに椅子と机があります（いす、つくえ) - There is a chair and desk over there
 #w エレベーターの　となり に　トイレがあります - there is a restroom next to the elevator
@@ -197,122 +102,93 @@ more polite
 #w 会議室にだれがいますか (かいぎしつ) - who is in the meeting room?
 #w 会議室に部長がいます（かいぎしつ、ぶちょう）- The general manager is in the meeting room
 
-#w あの写真はアンドさんの机の上にあります（しゃしん、つくえ）- That picture is on MR Ando desk
+#w あの写真はアンドさんの机の上にあります（しゃしん、つくえ）- That picture is on Mr. Ando's desk
 #w 自動販売機は受付隣にあります（じどうはんばいき、うけつけ, となり) - The vending machine is next to the reception desk 
 
 #w 社長はどこにいますか（しゃちょう) - Where is the CEO
-#w  社長はあの部屋にいます（しゃちょう、へや) - Ceo is in that room
+#w 社長はあの部屋にいます（しゃちょう、へや) - The CEO is in that room
 
 
+# 文法
 
----
-#g 
+## 枚　まい - counter for flat/thin objects
 
-#### 100-999
-→ [[grammar-index/grammar/only-numbers]]
+Used for flat, thin objects: paper, tickets, plates, shirts, CDs, etc.
+Register: neutral — used the same way in casual and polite speech.
 
-百　(ひゃく) - 100
-二百　(にひゃく) - 200
-三百　(さんびゃく) - 300
-四百　(よんひゃく) - 400
-五百　(ごひゃく) - 500
-六百　(ろっぴゃく) - 600
-七百　(ななひゃく) - 700
-八百　(はっぴゃく) - 800
-九百　(きゅうひゃく) - 900
-
-#### 1000 - 9999
-→ [[grammar-index/grammar/only-numbers]]
-
-#w 千（せん）- 1000
-#w 二千（にせん）- 2000
-#w 三千（さんぜん）- 3000
-#w 四千（よんせん）- 4000
-#w 五千（ごせん）- 5000
-#w 六千（ろくせん）- 6000
-#w 七千（ななせん）- 7000
-#w はっせん（はっせん）- 8000
-#w 九千（きゅうせん) - 9000
-
-#### 10 000 - 100 000 000
-→ [[grammar-index/grammar/only-numbers]]
-
-#w 一万（いちまん) -  10 000
-#w 二万（にまん）-    20 000
-#w 三万（さんまん）- 30 000
-#w 四万（よんまん) -  40 000
-#w 五万（ごまん） -   50 000
-#w 六万（ろくまん） - 60 000
-#w 七万（ななまん） - 70 000
-#w 八万（はちまん） - 80 000
-#w 九万（きゅうまん） - 90 000
-
-#w 十万（じゅうまん) - 100 000
-#w 百万（ひゃくまん）- 1 000 000
-#w 一千万（いっせんまん）- 10 000 000
-#w 一億（いちおく）- 100 000 000
-
-
-
-#eg
-
----
-
- --- 
-
-# Grammar Summary
-
-## 文法
-
-#### 枚　まい - counter rzeczy płaskich 
-
-#w 一枚（いちまい）- 1 rzecz płaska 
-#w 二枚（にまい）- 2 rzeczy płaskie 
-#w 三枚（さんまい）- 3 rzeczy płaskie 
-#w 四枚（よんまい）- 4 rzeczy płaskie 
-#w 五枚（ごまい）- 5 rzeczy płaskich
-#w 六枚（ろくまい）- 6 rzeczy płaskich
-#w 七枚（ななまい）- 7 rzeczy płaskich
-#w 八枚（はちまい）- 8 rzeczy płaskich
-#w 九枚（きゅうまい）- 9 rzeczy płaskich
-#w 十枚（じゅうまい）- 10 rzeczy płaskich
+#w 一枚（いちまい）- 1 flat object
+#w 二枚（にまい）- 2 flat objects
+#w 三枚（さんまい）- 3 flat objects
+#w 四枚（よんまい）- 4 flat objects
+#w 五枚（ごまい）- 5 flat objects
+#w 六枚（ろくまい）- 6 flat objects
+#w 七枚（ななまい）- 7 flat objects
+#w 八枚（はちまい）- 8 flat objects
+#w 九枚（きゅうまい）- 9 flat objects
+#w 十枚（じゅうまい）- 10 flat objects
 
 #w 何枚（なんまい）- how many thin objects?,
-### Indicating directions
-#### ここ、そこ、あそこ - indicate physical place or location
+## Indicating directions
+### ここ、そこ、あそこ - indicate physical place or location
 
 - ここ - here
 - そこ - there (near listener)
-- あそこ - over there (far form both)
+- あそこ - over there (far from both)
 - どこ - where
 
-#w 会議室はどこですか？（会議室）- where is the meeting room?
+#w 会議室はどこですか？（かいぎしつ）- where is the meeting room?
+#w ここに受付があります（うけつけ）- There is a reception desk here
+#w そこに自動販売機があります（じどうはんばいき）- There is a vending machine there (near you)
 
-#### こちら、そちら、あちら、どちら indicate place, location and direction, person
-more polite
-- こちら
-- そちら
-- あちら
-- どちら
+あそこ example: see あそこに椅子と机があります（いす、つくえ) below, in the あります・います section.
 
+Register: neutral/plain — the polite equivalents are こちら/そちら/あちら/どちら, below.
 
-#w おてあらいはどちらですか - where is toilet?
+### こちら、そちら、あちら、どちら indicate place, location and direction, person
+Register: polite — the more formal equivalents of ここ/そこ/あそこ/どこ (previous section). Used in business/customer-service settings (e.g. directing a customer or guest), and can also politely refer to a person or the listener's side, not just a place.
+- こちら - this way / here (polite)
+- そちら - that way / there, near you (polite)
+- あちら - that way / over there (polite)
+- どちら - where / which way (polite)
+
+#w こちらに椅子があります（いす）- There is a chair here (polite)
+#w そちらに机があります（つくえ）- There is a desk there, near you (polite)
+#w あちらに自動販売機があります（じどうはんばいき）- There is a vending machine over there (polite)
+
+#w おてあらいはどちらですか - where is the toilet?
 #w 部長はどちらにいますか - where is the general manager?
 
+Note: どちら also means "which (of two)" when choosing between two people/items — distinct from どれ, "which (of three or more)", in the table below.
 
-|              | proximiti to the speaker | proximity to the listener | distance from both | indefinite pronoun |     |
-| ------------ | ------------------------ | ------------------------- | ------------------ | ------------------ | --- |
-| Thing        | これ                       | それ                        | あれ                 | どれ                 |     |
-| Thing/person | この                       | その                        | あの                 | どの                 |     |
-| Place        | ここ                       | そこ                        | あそこ                | どこ                 |     |
-| Direction    | こちら                      | そちら                       | あちら                | どちら                |     |
-|              |                          |                           |                    |                    | ,   |
-|              |                          |                           |                    |                    |     |
-### Location of the objects with directions
 
-#### PにNがあります・います - there is something somewhere
-##### Structure
+|              | proximity to the speaker | proximity to the listener | distance from both | indefinite pronoun |
+| ------------ | ------------------------ | ------------------------- | ------------------ | ------------------ | 
+| Thing (pronoun) | これ | それ | あれ | どれ |
+| Attributive (thing or person + noun) | この | その | あの | どの |
+| Place | ここ | そこ | あそこ | どこ |
+| Direction | こちら | そちら | あちら | どちら |
+
+### これ、それ、あれ、どれ / この、その、あの、どの - "this/that" for things and people
+
+- これ・それ・あれ・どれ stand alone as pronouns, replacing a thing entirely — they are never followed directly by a noun.
+- この・その・あの・どの are attributive — they must be followed by a noun (a thing or a person) and can never stand alone.
+
+Register: neutral — the same forms are used in casual and polite speech; politeness comes from the rest of the sentence (e.g. です／だ), not from these words themselves.
+
+#w これは私の机です（わたし、つくえ）- This is my desk
+#w あの人は部長です（ひと、ぶちょう）- That person over there is the general manager
+
+## Location of the objects with directions
+
+### PにNがあります・います - there is something somewhere
+#### Structure
 - Place に Noun があります・います
+
+Rule: あります is for inanimate things (objects, plants) — e.g. 椅子, 机, トイレ. います is for animate things (people, animals) — e.g. だれ, 部長.
+Register: あります・います are the polite (ます-style) forms; the plain/casual forms are ある・いる (not covered in this lesson).
+
+#w だれ - who
+
 ##### Examples
 - あそこに椅子と机があります（いす、つくえ) - There is a chair and desk over there
 - エレベーターの　となり に　トイレがあります - there is a restroom next to the elevator
@@ -320,55 +196,20 @@ more polite
 - 会議室にだれがいますか (かいぎしつ) - who is in the meeting room?
 - 会議室に部長がいます（かいぎしつ、ぶちょう）- The general manager is in the meeting room
 
-#### Something is somewhere
-##### Structure
+### Something is somewhere
+#### Structure
 - Noun は Place に　あります・います
+
+Note: が introduces new/unknown information — "there is a ~" / "what's there?". は here marks a known topic — "as for X, it's located at ~" / "where is X?". Compare 会議室にだれがいますか (previous section, asking what's there) with 社長はどこにいますか (this section, asking where a known person is).
+Register: あります・います are the polite (ます-style) forms — see previous section.
+
 ##### Examples
-- あの写真はアンドさんの机の上にあります（しゃしん、つくえ）- That picture is on MR Ando desk
+- あの写真はアンドさんの机の上にあります（しゃしん、つくえ）- That picture is on Mr. Ando's desk
 - 自動販売機は受付隣にあります（じどうはんばいき、うけつけ, となり) - The vending machine is next to the reception desk 
 
 - 社長はどこにいますか（しゃちょう) - Where is the CEO
-- 社長はあの部屋にいます（しゃちょう、へや) - Ceo is in that room
-#### 100-999
+- 社長はあの部屋にいます（しゃちょう、へや) - The CEO is in that room
 
-百　(ひゃく) - 100
-二百　(にひゃく) - 200
-三百　(さんびゃく) - 300
-四百　(よんひゃく) - 400
-五百　(ごひゃく) - 500
-六百　(ろっぴゃく) - 600
-七百　(ななひゃく) - 700
-八百　(はっぴゃく) - 800
-九百　(きゅうひゃく) - 900
-
-#### 1000 - 9999
-
-千（せん）- 1000
-二千（にせん）- 2000
-三千（さんぜん）- 3000
-四千（よんせん）- 4000
-五千（ごせん）- 5000
-六千（ろくせん）- 6000
-七千（ななせん）- 7000
-はっせん（はっせん）- 8000
-九千（きゅうせん) - 9000
-
-#### 10 000 - 100 000 000
-
-一万（いちまん) -  10 000
-二万（にまん）-    20 000
-三万（さんまん）- 30 000
-四万（よんまん) -  40 000
-五万（ごまん） -   50 000
-六万（ろくまん） - 60 000
-七万（ななまん） - 70 000
-八万（はちまん） - 80 000
-九万（きゅうまん） - 90 000
-
- 十万（じゅうまん) - 100 000
-百万（ひゃくまん）- 1 000 000
-一千万（いっせんまん）- 10 000 000
-一億（いちおく）- 100 000 000,
 
 
 # Summary
@@ -830,7 +671,7 @@ computer #card
 
 
  where is the meeting room? #card
-ほんやく: 会議室はどこですか？（会議室）
+ほんやく: 会議室はどこですか？（かいぎしつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_会.html">会</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_議.html">議</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_室.html">室</a>
@@ -1071,4 +912,51 @@ computer #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_億.html">億</a>
 <!--ID: 1761557180485-->
 
+ There is a reception desk here #card
+ほんやく: ここに受付があります（うけつけ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_受.html">受</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
 
+
+ There is a vending machine there (near you) #card
+ほんやく: そこに自動販売機があります（じどうはんばいき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_販.html">販</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_機.html">機</a>
+
+ There is a chair here (polite) #card
+ほんやく: こちらに椅子があります（いす）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_椅.html">椅</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
+
+
+ There is a desk there, near you (polite) #card
+ほんやく: そちらに机があります（つくえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
+
+
+ There is a vending machine over there (polite) #card
+ほんやく: あちらに自動販売機があります（じどうはんばいき）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_自.html">自</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_動.html">動</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_販.html">販</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_機.html">機</a>
+
+
+ This is my desk #card
+ほんやく: これは私の机です（わたし、つくえ）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
+
+
+ That person over there is the general manager #card
+ほんやく: あの人は部長です（ひと、ぶちょう）
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
+
+ who #card
+ほんやく: だれ

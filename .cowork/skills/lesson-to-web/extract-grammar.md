@@ -143,7 +143,7 @@ heading fully before moving to the next. Do not batch slug computation or file
 content planning across multiple headings before creating the first file.
 Carry the classification forward:
 - `grammar` from `文法` → `grammar-index/grammar/<slug>.md` (normal flow, steps 5–11)
-- `grammar` from `Vocabulary` → `grammar-index/grammar/vocabulary/<subdir>/<slug>.md` (vocabulary file format, step 7b; step 8 applies normally)
+- `grammar` from `Vocabulary` → `grammar-index/grammar/vocabulary/<subdir>/<slug>.md` (vocabulary file format, step 7b; step 8 applies normally — under a routed POS container, "applies normally" includes this heading getting its own per-child link in addition to the container's bare link; see Step 8's "Per-child link (routed containers only)" subsection)
 - `container` sourced from `# Vocabulary`, whose normalized heading text is exactly `Verbs`,
   `Nouns`, or `Adjectives`, and whose children are exclusively Vocabulary-sourced `grammar`
   headings → routes to step 7c (vocabulary POS container, consolidated) instead of step 7;
@@ -449,9 +449,10 @@ and is sufficient on its own regardless of which case produced the leaf. This is
 not something true only incidentally for a one-off migration: if Step 7c were gated on Step 6's
 Created outcome the way Step 8 and Step 9 are (see their "Only for files Created in step 7" /
 "Only process files that were Created" rules), a re-run, or a leaf extracted by hand before this
-step existed, would silently fail to get themed/appended. **This is the one place in the pipeline
-that deliberately does not inherit the "Created only" gate used everywhere else (Step 8, Step
-9) — do not "fix" it into matching Step 8/9's gate.**
+step existed, would silently fail to get themed/appended. **Step 8's per-child link (for routed
+containers, see Step 8's "Per-child link (routed containers only)" subsection) shares this same
+reasoning and also does not inherit the "Created only" gate — do not "fix" either of them into
+matching the gate still used by Step 9 and by Step 8's own container-level link.**
 
 1. **Read the target file** (`grammar-index/grammar/vocabulary-<pos>.md`, `<pos>` ∈ `verbs` /
    `nouns` / `adjectives`, derived from the container heading's normalized POS text) if it
@@ -541,19 +542,57 @@ corresponding heading in the lesson file, so it is navigable directly from the l
 Ne - seeking approval...
 ```
 
-**Consolidated-file routing case:** for a `container` heading routed to Step 7c, the inserted
-link is **not** `[[grammar-index/grammar/<slug>]]` (there is no per-lesson slug) — it is a bare,
-anchor-less wikilink to the shared file, `[[grammar-index/grammar/vocabulary-<pos>]]`. Under
-thematic grouping a lesson's vocabulary entries can scatter across multiple themes or land
-ungrouped, so no predictable per-lesson deep-link anchor exists inside the shared file; the link
-lands at the top of the file, same as any other wikilink to a page without an anchor. This is a
-deliberate, accepted regression versus the old one-lesson-one-file setup, not an oversight.
+For a routed Vocabulary POS container, both the container heading and each child heading
+receive their own link:
+
+```
+## Verbs
+→ [[grammar-index/grammar/vocabulary-verbs]]
+
+### 勉強 - learn
+→ [[grammar-index/grammar/vocabulary/Verbs/benkyou-learn]]
+
+雰囲気の勉強をしています...
+```
+
+**Consolidated-file routing case (container-level link):** for a `container` heading routed to
+Step 7c, the inserted link is **not** `[[grammar-index/grammar/<slug>]]` (there is no per-lesson
+slug) — it is a bare, anchor-less wikilink to the shared file,
+`[[grammar-index/grammar/vocabulary-<pos>]]`. Under thematic grouping a lesson's vocabulary
+entries can scatter across multiple themes or land ungrouped, so no predictable per-lesson
+deep-link anchor exists inside the shared file; the link lands at the top of the file, same as
+any other wikilink to a page without an anchor. This is a deliberate, accepted regression versus
+the old one-lesson-one-file setup — but it describes only this **container-level** link's lack of
+a precise per-item anchor; it does not mean no per-word link exists at all. See "Per-child link
+(routed containers only)" below for the per-word link that covers that.
+
+**Per-child link (routed containers only):** each Vocabulary-sourced `grammar` sub-heading under
+a routed container (e.g. `### 勉強 - learn`) additionally gets its own wikilink to its leaf file,
+`[[grammar-index/grammar/vocabulary/<subdir>/<slug>]]`, inserted immediately after that
+sub-heading's own line — same insertion mechanic as the normal case above. This link is inserted
+**regardless of whether Step 6 resulted in Created, Skip, or Rename** for that child's leaf file.
+Skip is the *common* case for vocabulary — recurring words like できる, 待つ, ある get
+re-extracted from many lessons — so this is not edge-case robustness, it is the primary path: the
+current lesson's heading must still be linked to the leaf file that already exists. The **only**
+gate is the dedup check below (link already present under that heading); it does **not** inherit
+the "Only for files Created in step 7" gate that governs the container link and normal
+grammar/container links elsewhere in this step. This mirrors Step 7c's identical reasoning for
+not inheriting that gate (see Step 7c).
 
 **Rules:**
-- Only for files **Created** in step 7 (or, for the consolidated-file routing case, for headings
-  whose leaf(s) were processed by Step 7c) — skip files that were already skipped in step 6.
-- Skip if `[[grammar-index/grammar/<slug>]]` (or, for the consolidated case,
-  `[[grammar-index/grammar/vocabulary-<pos>]]`) is already present anywhere under that heading.
+- **Container-level link and normal (non-routed) links:** only for files **Created** in step 7
+  (or, for the container link specifically, for headings whose leaf(s) were processed by Step
+  7c) — skip if the leaf was skipped in step 6.
+- **Per-child link (routed containers only):** insert regardless of Step 6's Created/Skip/Rename
+  outcome for that child's leaf — this bullet intentionally does not reference "Created" at all;
+  it is gated **only** by the dedup rule below.
+- **Dedup (per link tier):**
+  - normal case: skip if `[[grammar-index/grammar/<slug>]]` is already present under that heading.
+  - container link: skip if `[[grammar-index/grammar/vocabulary-<pos>]]` is already present under
+    that heading.
+  - per-child link: skip if `[[grammar-index/grammar/vocabulary/<subdir>/<slug>]]` is already
+    present under **that child's own heading** — checked independently of the container's dedup
+    check, not shared with it.
 - Use Python to locate the heading line and insert after it. The script must:
   1. **Slice at `# Summary` first** — only the pre-Summary slice is ever searched or
      modified; the tail is reattached unchanged. This enforces "never write past
@@ -589,7 +628,9 @@ deliberate, accepted regression versus the old one-lesson-one-file setup, not an
 - **Duplicate heading texts:** if the heading text occurs more than once in the
   pre-Summary slice, do not rely on first-match — narrow the substitution to the parent
   section's line range (known from the step 4 heading tree) so the link lands under the
-  correct occurrence.
+  correct occurrence. This applies identically to child headings under a routed container: a
+  vocabulary word heading that repeats verbatim across the lesson must not get its link
+  misattributed to the wrong occurrence.
 - Never modify `<!--ID: -->` lines.
 - Never read or write past `# Summary` (enforced by the slice above).
 

@@ -13,5 +13,5 @@
 ## See also
 
 - [Causative](/JapaneseNotes/grammar-index/causative) — the same られる conjugation combines with 使役形 to form the causative-passive
-- [Politeness Hierarchy](/JapaneseNotes/grammar-index/politeness-hierarchy) — the られる respectful form reuses the passive conjugation for a different (honorific) function
+- [Respectful Expressions](/JapaneseNotes/grammar-index/respectful-expressions) — the られる respectful form reuses the passive conjugation for a different (honorific) function
 - [Verb Transitivity](/JapaneseNotes/grammar-index/verb-transitivity) — passive constructions build on the transitive/intransitive verb distinction

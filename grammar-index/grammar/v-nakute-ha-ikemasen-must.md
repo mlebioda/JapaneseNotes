@@ -5,7 +5,7 @@ topic_slug: ["obligation-necessity"]
 function: ["obligation"]
 level: N4
 register: tiered
-confused_with: ["nakutehanarimasen-nakerebanarimasen-must-have-to"]
+confused_with: ["nakutehanarimasen-nakerebanarimasen-must-have-to", "tehaikemasen-must-not"]
 proofread: true
 ---
 
@@ -34,6 +34,7 @@ Register: tiered
 ## Often confused with
 
 - [なくてはなりません・なければなりません - must, have to](/JapaneseNotes/grammar-index/grammar/nakutehanarimasen-nakerebanarimasen-must-have-to) — test: Is this a personal/subjective sense of obligation, common in casual speech (なくてはいけません), or a more formal, rule-like obligation (なければなりません／なくてはなりません)?
+- [て形＋はいけません - You must not do](/JapaneseNotes/grammar-index/grammar/tehaikemasen-must-not) — test: is the subject obligated to do something (なくてはいけません) or forbidden from doing it (てはいけません)?
 
 ## See also
 

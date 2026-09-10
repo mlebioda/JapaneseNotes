@@ -9,6 +9,7 @@
 - [い -> くて](/JapaneseNotes/grammar-index/grammar/i-kute) · N5
 - [5.  Nは + なadj で - AND](/JapaneseNotes/grammar-index/grammar/naadj-de-and-connecting-adjectives) · N5
 - [But  - ...  が ....](/JapaneseNotes/grammar-index/grammar/contrastive-ga-but) · N5
+- [て形 - several events happening back to back - order](/JapaneseNotes/grammar-index/grammar/te-form-sequencing-order) · N5
 
 ## See also
 

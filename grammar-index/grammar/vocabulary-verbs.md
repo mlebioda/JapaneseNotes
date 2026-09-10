@@ -10,6 +10,11 @@ proofread: false
 
 ## Sub-topics
 
+### 勉強／研究 — study/research
+
+- [勉強 - learn](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/benkyou-learn) · N5
+- [研究（けんきゅう）- research](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/kenkyuu-research) · N5
+
 ### と思います／と言います — reporting thoughts and speech
 
 - [I think - と思います](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/i-think-toimasu) · N5
@@ -22,8 +27,7 @@ proofread: false
 
 ### できる — ability/possibility
 
-- [できる - can](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/dekiru-can) · N5
-- [出来る（できる) - can, to be built/completed](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/dekiru-can-to-be-built-completed) · N4
+- [できる／出来る - can, to be built/completed](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/dekiru-can) · N5
 
 ### 終わる／始まる — intransitive event pair
 
@@ -52,3 +56,5 @@ proofread: false
 - [返す（かえす）- to return](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/kaesu) · N5
 - [かかる - to spend/cost (time, money, effort)](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/kakaru) · N5
 - [泊まる（とまる）- to stay the night](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/tomaru-to-stay-the-night) · N5
+- [住む - to live](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/sumu-to-live) · N5
+- [待つ - to wait](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/matsu-to-wait) · N5

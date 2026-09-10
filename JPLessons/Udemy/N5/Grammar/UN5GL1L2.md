@@ -88,219 +88,58 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL1-2-im-a-student-and-family
 #w 妹（いもうと）- younger sister (my)
 #w 妹さん（いもうと）- younger sister (someone)
 
-#g
-
-# Gramayka
-## Numbers
-→ [[grammar-index/grammar/numbers]]
-
-#w 数字（すうじ）- number
-#### Only numbers
-→ [[grammar-index/grammar/only-numbers]]
-##### 0-10
-
-れい - 0
-一 (いち) - 1
-二 (に) - 2
-三 (さん) - 3
-四 (よん/し) - 4
-五 (ご) - 5
-六 (ろく) - 6
-七 (なな/しち) - 7
-八 (はち) - 8 
-九 (きゅう/く) - 9
-十 (じゅう) - 10
-
-##### 11 - 19 (十 + number)
-
-たとえば - example
-十一 (じゅういち) - 11
-十五 (じゅうご) - 15
-
-
-##### 20 - 99
-
-number + 十 + number
-
-たとえば
-二十二 (にじゅうに) - 22
-五十 (ごじゅう) - 55
-
-##### 100 - 999
-
-百（ひゃく）- 100
-二百（にひゃく）- 200  
-三百（さんびゃく）- 300  
-四百（よんひゃく）- 400  
-五百（ごひゃく）- 500  
-六百（ろっぴゃく）- 600  
-七百（ななひゃく）- 700  
-八百（はっぴゃく）- 800  
-九百（きゅうひゃく）- 900
-
-number + 百 + number 
-
-たとえば：
-百十一 (ひゃくじゅういち) - 111
-三百五十三 (さんびゃくごじゅうさん) - 353
-
-
-##### 1000 - 9999
-
-千（せん）- 1000  
-二千（にせん）- 2000  
-三千（さんぜん）- 3000  
-四千（よんせん）- 4000  
-五千（ごせん）- 5000  
-六千（ろくせん）- 6000  
-七千（ななせん）- 7000  
-八千（はっせん）- 8000  
-九千（きゅうせん）- 9000
-
-##### Wielokrotności 10 000
-
-一万（いちまん）- 10 000  
-二万（にまん）- 20 000  
-三万（さんまん）- 30 000  
-四万（よんまん）- 40 000  
-五万（ごまん）- 50 000  
-六万（ろくまん）- 60 000  
-七万（ななまん）- 70 000  
-八万（はちまん）- 80 000  
-九万（きゅうまん）- 90 000
-
-#### Counters
-→ [[grammar-index/grammar/counters]]
-
-#### People
-→ [[grammar-index/grammar/counters-people]]
-
-#w 人数（にんずう) -  number of people
-
-一人（ひとり）- one person  
-二人（ふたり）- two people  
-三人（さんにん）- three people  
-四人（よにん）- four people  
-五人（ごにん）- five people  
-六人（ろくにん）- six people  
-七人（ななにん）- seven people  
-八人（はちにん）- eight people  
-九人（きゅうにん）- nine people  
-十人（じゅうにん）- ten people  
-
-何人（なんにん）- how many people
-##### Floors
-→ [[grammar-index/grammar/counters-floors]]
-
-#w 一階（いっかい）- first floor  
-#w 二階（にかい）- second floor  
-#w 三階（さんがい）- third floor  
-#w 四階（よんかい）- fourth floor  
-#w 五階（ごかい）- fifth floor  
-#w 六階（ろっかい）- sixth floor  
-#w 七階（ななかい）- seventh floor  
-#w 八階（はっかい）- eighth floor  
-#w 九階（きゅうかい）- ninth floor  
-#w 十階（じゅっかい）- tenth floor  
-
-#w 何階（なんがい）- which floor
-
-
-#### 同じ - same
-→ [[grammar-index/grammar/same]]
-
-##### Structure
-
-同じ（おなじ）+ Noun -> **Same**
-
-##### Examples
-
-- 同じ会社（おなじかいしゃ) - same company
-- 同じ大学　（おなじだいがく) - same university
-
-
-#eg
-
----
-#w 同じ会社（おなじかいしゃ) - same company
-#w 同じ大学　（おなじだいがく) - same university
-
-
-
----
-#g 
-#### 全部で(ぜんぶ）in total
-→ [[grammar-index/grammar/in-total]]
-
-##### Structure
-- 全部(ぜんぶ）+ で　→ in total
-
-##### Examples
-- 全部で四人です（ぜんぶ、よにん）- there is 4 people in total
-
-
-#eg
-
----
 #w 全部(ぜんぶ）- all
 #w 写真は全部きれいです（しゃしん、ぜんぶ）- all photos are beautiful
-#w 全部で四人です（ぜんぶ、よにん）- there is 4 people in total
+#w 全部で四人です（ぜんぶ、よにん）- there are 4 people in total
 #w 全部で（ぜんぶ）- in total
 
 
----
-#g 
-#### ね - seeking approval
-→ [[grammar-index/grammar/seeking-approval]]
-
-Ne - seeking approval, emphasizing / isn’t it?
-- 明日の仕事のしりょうですね (あした、しごと) - there are tommorow's materials, right ?
-- インドから来ましたね？（き）- are you from India, didn't you?
-- KIMさんは韓国人ですね（かんこくじん) - Ms Kim is from Korea, isn't she? 
+#w 明日の仕事のしりょうですね (あした、しごと) - there are tomorrow's materials, right?
 
 
-#eg
+# 文法
 
----
-
-
-#w 明日の仕事のしりょうですね (あした、しごと) - there are tommorow's materials, right?
+## Counters
 
 
+### People
 
----
-#g 
+#w 人数（にんずう) -  number of people
 
-#### この/その/あの　どの
-→ [[grammar-index/grammar/demonstrative-adjectives]]
+一人（ひとり）- one person  
+二人（ふたり）- two people  
+三人（さんにん）- three people  
+四人（よにん）- four people  
+五人（ごにん）- five people  
+六人（ろくにん）- six people  
+七人（ななにん）- seven people  
+  - alt. reading: 七人（しちにん）
+八人（はちにん）- eight people  
+九人（きゅうにん）- nine people  
+十人（じゅうにん）- ten people  
 
-- この - this (noun) close to speaker
-- その - that (noun) close to listener
-- あの - that (noun) far from both
-- どの - which (noun)?
+何人（なんにん）- how many people
+> Register: 何人（なんにん）is neutral/casual. In polite or service contexts (restaurants, receptions, forms) use 何名様（なんめいさま）instead.
+### Floors
 
-##### Structure
-- この/その/あの, どの + Noun
+#w 一階（いっかい）- first floor  
+#w 二階（にかい）- second floor  
+#w 三階（さんがい）- third floor  
+#w 四階（よんかい）- fourth floor  
+#w 五階（ごかい）- fifth floor  
+#w 六階（ろっかい）- sixth floor  
+#w 七階（ななかい）- seventh floor  
+#w 八階（はっかい）- eighth floor  
+#w 九階（きゅうかい）- ninth floor  
+#w 十階（じゅっかい）- tenth floor  
+  - alt. reading (older/formal): 十階（じっかい）
 
-#### これ/それ/あれ　どれ
-→ [[grammar-index/grammar/demonstrative-pronouns]]
+#w 何階（なんがい）- which floor,
 
-- これ - this (noun) close to speaker
-- それ - that (noun) close to listener
-- あれ - that (noun) far from both
-- どれ - which (noun)?
-
-##### Structure
-- これ/それ/あれ, どれ 
-
-
-## 文法
-
-### Numbers
 
 #w 数字（すうじ）- number
-#### Only numbers
-##### 0-10
+### Numbers
+#### 0-10
 
 れい - 0
 一 (いち) - 1
@@ -314,22 +153,22 @@ Ne - seeking approval, emphasizing / isn’t it?
 九 (きゅう/く) - 9
 十 (じゅう) - 10
 
-##### 11 - 19 (十 + number)
+#### 11 - 19 (十 + number)
 
 たとえば - example
 十一 (じゅういち) - 11
 十五 (じゅうご) - 15
 
 
-##### 20 - 99
+#### 20 - 99
 
 number + 十 + number
 
 たとえば
 二十二 (にじゅうに) - 22
-五十 (ごじゅう) - 55
+五十 (ごじゅう) - 50
 
-##### 100 - 999
+#### 100 - 999
 
 百（ひゃく）- 100
 二百（にひゃく）- 200  
@@ -348,7 +187,7 @@ number + 百 + number
 三百五十三 (さんびゃくごじゅうさん) - 353
 
 
-##### 1000 - 9999
+#### 1000 - 9999
 
 千（せん）- 1000  
 二千（にせん）- 2000  
@@ -360,92 +199,102 @@ number + 百 + number
 八千（はっせん）- 8000  
 九千（きゅうせん）- 9000
 
-##### Wielokrotności 10 000
+### 10 000 - 100 000 000
 
-一万（いちまん）- 10 000  
-二万（にまん）- 20 000  
-三万（さんまん）- 30 000  
-四万（よんまん）- 40 000  
-五万（ごまん）- 50 000  
-六万（ろくまん）- 60 000  
-七万（ななまん）- 70 000  
-八万（はちまん）- 80 000  
-九万（きゅうまん）- 90 000
+一万（いちまん) -  10 000
+二万（にまん）-    20 000
+三万（さんまん）- 30 000
+四万（よんまん) -  40 000
+五万（ごまん） -   50 000
+六万（ろくまん） - 60 000
+七万（ななまん） - 70 000
+八万（はちまん） - 80 000
+九万（きゅうまん） - 90 000
 
-#### Counters
+ 十万（じゅうまん) - 100 000
+百万（ひゃくまん）- 1 000 000
+一千万（いっせんまん）- 10 000 000
+一億（いちおく）- 100 000 000
 
-#### People
-
-#w 人数（にんずう) -  number of people
-
-一人（ひとり）- one person  
-二人（ふたり）- two people  
-三人（さんにん）- three people  
-四人（よにん）- four people  
-五人（ごにん）- five people  
-六人（ろくにん）- six people  
-七人（ななにん）- seven people  
-八人（はちにん）- eight people  
-九人（きゅうにん）- nine people  
-十人（じゅうにん）- ten people  
-
-何人（なんにん）- how many people
-##### Floors
-
-#w 一階（いっかい）- first floor  
-#w 二階（にかい）- second floor  
-#w 三階（さんがい）- third floor  
-#w 四階（よんかい）- fourth floor  
-#w 五階（ごかい）- fifth floor  
-#w 六階（ろっかい）- sixth floor  
-#w 七階（ななかい）- seventh floor  
-#w 八階（はっかい）- eighth floor  
-#w 九階（きゅうかい）- ninth floor  
-#w 十階（じゅっかい）- tenth floor  
-
-#w 何階（なんがい）- which floor,
-#### 同じ - same
-
-##### Structure
-
-同じ（おなじ）+ Noun -> **Same**
-
-##### Examples
-
-- 同じ会社（おなじかいしゃ) - same company
-- 同じ大学　（おなじだいがく) - same university,
-#### 全部で(ぜんぶ）in total
-
-##### Structure
-- 全部(ぜんぶ）+ で　→ in total
-
-##### Examples
-- 全部で四人です（ぜんぶ、よにん）- there is 4 people in total
-#### ね - seeking approval
+## ね - seeking approval
 
 Ne - seeking approval, emphasizing / isn’t it?
-- 明日の仕事のしりょうですね (あした、しごと) - there are tommorow's materials, right ?
-- インドから来ましたね？（き）- are you from India, didn't you?
-- KIMさんは韓国人ですね（かんこくじん) - Ms Kim is from Korea, isn't she?
-#### この/その/あの　どの
+- 明日の仕事のしりょうですね (あした、しごと) - there are tomorrow's materials, right?
+- インドから来ましたね？（き）- you're from India, right?
+- KIMさんは韓国人ですね（かんこくじん) - Ms Kim is Korean, isn't she?
+
+> Register: neutral — ね attaches after plain or です／ます forms alike, so it's used in both casual and polite speech without changing formality.
+
+> Often confused with: よ — よ asserts information the listener doesn't have yet; ね seeks agreement or confirms shared knowledge.
+## この/その/あの　どの
 
 - この - this (noun) close to speaker
 - その - that (noun) close to listener
 - あの - that (noun) far from both
 - どの - which (noun)?
 
-##### Structure
+### Structure
 - この/その/あの, どの + Noun
 
-#### これ/それ/あれ　どれ
+> Note: この／その／あの／どの always require a following noun and can never stand alone — contrast with これ／それ／あれ／どれ below, which stand alone and can never directly precede a noun (これ本 is ungrammatical; must be この本).
+
+### Examples
+- この本(ほん) - this book
+- その資料(しりょう) - that document (near you)
+- あの方(かた) - that person (over there) — same word as あの方 in the vocabulary section above, the keigo alternative to あの人
+
+> Related: こう／そう／ああ／どう (manner: "this way/that way") and ここ／そこ／あそこ／どこ (place: "here/there/where") complete the ko-so-a-do system but aren't covered in this lesson.
+
+## これ/それ/あれ　どれ
 
 - これ - this (noun) close to speaker
 - それ - that (noun) close to listener
 - あれ - that (noun) far from both
 - どれ - which (noun)?
 
-##### Structure
+### Structure
 - これ/それ/あれ, どれ
+
+> Note: these stand alone as pronouns and can never directly precede a noun — see the この／その／あの／どの note above for the contrast (これ本 is ungrammatical; must be この本).
+
+> Register: neutral — no politeness variation on these pronouns themselves.
+
+### Examples
+- これは本(ほん)です - this is a book
+- それは資料(しりょう)です - that is a document
+- あれは何(なん)ですか - what is that (over there)?
+
+> Note: あれ is also used colloquially as an interjection ("oh!", "huh?") separate from its demonstrative meaning — don't confuse the two when listening to natural speech.
+
+# Vocabulary
+
+## 同じ - same
+
+### Structure
+
+同じ（おなじ）+ Noun -> **Same**
+
+> Note: 同じ is a special な-adjective that drops な before a noun — 同じ人, never 同じな人, unlike regular な-adjectives (きれいな人).
+
+#### Examples
+
+- 同じ会社（おなじかいしゃ) - same company
+- 同じ大学　（おなじだいがく) - same university,
+- これは同じです（おなじ）- this is the same (predicate use)
+- 同じように（おなじように）- in the same way, similarly (adverbial use)
+
+> Often confused with: 一緒（いっしょ）— 同じ describes two things belonging to the same category as a fact (同じ会社 - "the same company"); 一緒 means doing something together/jointly (一緒に行く - "go together"). Not interchangeable.
+
+## 全部で(ぜんぶ）in total
+
+### Structure
+- 全部(ぜんぶ）+ で + [number] + です　→ states a total count ("in total, there are...")
+
+> Often confused with: 合計で（ごうけいで）— also means "in total," but more formal/business register (invoices, bills, formal tallies), while 全部で is everyday neutral speech. Also distinct from bare 全部, which modifies an object directly (全部食べた - "ate all of it") rather than introducing a total-count statement.
+
+#### Examples
+- 全部で四人です（ぜんぶ、よにん）- there are 4 people in total
+
 
 # Summary
 
@@ -908,6 +757,42 @@ Ne - seeking approval, emphasizing / isn’t it?
 <!--ID: 1761365301236-->
 
 
+
+
+ this book #card
+ほんやく: この本(ほん) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+
+
+ that document (near you) #card
+ほんやく: その資料(しりょう) 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_資.html">資</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+
+
+ this is a book #card
+ほんやく: これは本(ほん)です 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+
+
+ that is a document #card
+ほんやく: それは資料(しりょう)です 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_資.html">資</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+
+
+ what is that (over there)? #card
+ほんやく: あれは何(なん)ですか 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+
+
+ this is the same #card
+ほんやく: これは同じです（おなじ） 
+
+
+ in the same way, similarly #card
+ほんやく: 同じように（おなじように） 
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_同.html">同</a>
 
 
  Czasowniki:

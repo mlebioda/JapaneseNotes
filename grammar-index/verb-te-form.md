@@ -28,6 +28,10 @@
 - [～ていく／～て行きます Action moves away from the speaker](/JapaneseNotes/grammar-index/grammar/teiku-action-away-from-speaker) · N4
 - [行ってきます - i go and i'll come back](/JapaneseNotes/grammar-index/grammar/ittekimasu-go-and-come-back) · N4
 - [V ている / ていない](/JapaneseNotes/grammar-index/grammar/v-teiru-teinai) · N5
+- [ている](/JapaneseNotes/grammar-index/grammar/teiru) · N5
+- [ている - show state](/JapaneseNotes/grammar-index/grammar/teiru-show-state) · N5
+- [て形](/JapaneseNotes/grammar-index/grammar/te-form) · N5
+- [て形 - several events happening back to back - order](/JapaneseNotes/grammar-index/grammar/te-form-sequencing-order) · N5
 
 ## See also
 

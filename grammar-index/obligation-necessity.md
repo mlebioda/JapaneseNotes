@@ -18,6 +18,9 @@
 
 - [Vない＋なければなりません- I have to do](/JapaneseNotes/grammar-index/grammar/vnainakerebanarimasen-i-have-to-do) · N5
 
+- [て形＋もいいです/か - You can do/ Can I?](/JapaneseNotes/grammar-index/grammar/temoiidesuka-permission) · N5
+- [て形＋はいけません - You must not do](/JapaneseNotes/grammar-index/grammar/tehaikemasen-must-not) · N5
+
 ## See also
 
 - [similarity-inference](/JapaneseNotes/grammar-index/similarity-inference) — はずです is a related epistemic pattern for logical expectation, not obligation

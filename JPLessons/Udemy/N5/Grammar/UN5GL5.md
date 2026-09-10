@@ -124,84 +124,6 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 
 #w この資料はだめですか（しりょう）- Is this document no good?
 #w これはだめですか - Is that bad?
-## Grammar
-
-
----
-#g 
-
-### いっしょ  - together, with, the same (同じ
-→ [[grammar-index/grammar/issho-together-with-the-same-ji]]
-
-
-
-#### いっしょ + に - together, with
-→ [[grammar-index/grammar/issho-ni-together-with]]
-- いっしょ + に - together, with
-	- いっしょにいきましょう - lets go together
-
-#### と/の + いっしょ - the same
-→ [[grammar-index/grammar/tono-issho-the-same]]
-- と+ いっしょ - same
-	- 私の学校 は 弟の学校　と　いっしょです - my and my younger brother's school is the same
-
-
-#eg
-
----
-
-#w いっしょにいきましょう - lets go together
-#w 私の学校は弟の学校　と　いっしょです - my and my younger brother's school is the same (nie onaji
-
-#wc 開ける（あける) - to open
-#wc 会う（あ）- to meet
-#wc 洗う（あら）- to wash
-#wc 送る（おく）- to send
-#wc 終わる（お）- to finish
-#wc 勝つ（か）- to win
-#wc 座る（すわ）- to sit
-
-#wc 覚える（おぼ）- to remember
-#wc 考える（かんがえる）- to think, zastanawiac, rozwazac, analizowac
-#w よく**考（かんが）えて**ください。– Proszę dobrze się zastanowić.
-#wc 思う（おもう）- to think, sądzic bardziej uczuciowo
-
-#wc 出る（で） - to go out
-#wc 着る（き） - to put on(clothes)
-
-#wc 寝る（ねる) - to sleep
-#wc 来る（くる）- to come
-#w 掃除する（そうじ）- to clean
-#w 電話する（でんわ）- to make a phone call
-
-
----
-#g 
-## Forms
-→ [[grammar-index/forms]]
-### 辞書けい（じしょ）- dictionary form
-→ [[grammar-index/grammar/keijisho-dictionary-form]]
-- Used to search for word in dictionary
-- Used between friends or family
-	- 明日だれと会うの？ - who will you meet tomorrow? (dict)
-
-### ますけい - masu form
-→ [[grammar-index/grammar/masukei-masu-form]]
-- polite present/future form
-	- ます - affirmative
-		- 食べます
-	- ません - negation
-		- 食べません 
-- polite past for
-	- ました - affirmative
-		- 食べました
-	- ません　でした
-		- 食べませんでした
-
-
-#eg
-
----
 
 #w 明日だれと会うの？ - who will you meet tomorrow? (dict)
 #w れんらくする - kontaktowac się, powiadomić, dać znać 
@@ -225,93 +147,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 #wc 知る（し）- to know
 
 
----
-#g 
-## Partykuły 
-→ [[grammar-index/particles]]
 
-### へ - e、に - direction of movement, travel
-→ [[grammar-index/grammar/he-eni-direction-of-movement-travel]]
-- When
-	- Travel destination
-	- Reaching point
-	- Can be replaced with NI
-- Structure 
-	- Place + へ(E) + V
-- Examples 
-	- 会社へ戻ります（もど）- i go back to the company
-
-### に - time of occurrence of an action
-→ [[grammar-index/grammar/ni-time-of-occurrence-of-an-action]]
-- When
-	- Indicates time of occurrence of an action
-- Structure
-	- Time + に + V
-- Example
-	- ９:00 **に**　会社へ行きます (くじ) - I go to the company at 9:00
-	- 8月２１日**に**　大阪へ行きました（はちがつ、にじゅうににち） - I went to osaka on August 21
-- Exceptions
-	- 今日、明日、明後日、昨日、ー昨日
-	- 今朝、今晩
-	- 今
-	- 毎朝、毎日
-	- 先週、来週、
-	- いつ
-	- 先月、今月、
-	- 今年、来年、去年
-	- Example
-		- 明後日（あさって）学校に行きます - i will go to school the day after tomorrow
-		- 来月　けっこんします - i will get married next month
-- Optional
-	- 昼（ひる）
-	- 夜
-	- 朝
-	- 曜日
-	- ばん
-	- Examples
-		- 昼（に）ゆうえんちに行きました（ひる） - i went to amusement park in the afternoon
-		- 夜（に）おにぎりを食べます (よる) - I will eat onigiri at night
-
-### を 
-→ [[grammar-index/grammar/wo]]
-
-#### 1.  Indicates object of an action
-
-- Structure
-	- N + を + 食べる
-- Example
-	- ご飯を食べる - to eat meal
-
-#### 2. Indicates travel's starting point
-
-- Structure
-	- N＋を＋V 
-- Examples
-	- 会社を出る - leave the compay
-	- 東京をはなれる - leave Tokio
-
-#### 3. Indicates a transit spot and time
-
-- Structure
-	- N＋を＋V 
-- Example
-	- こうえんをはし走る（はし）- run in the park
-
-#### 4. Often with する
-
-- Structure
-	- N をします・しました
-	- 何をしますか
-- Example
-	- 会議をします(かいぎ) - to hold a meeting
-	- 仕事をします - do a job
-	- 何をしますか
-
-
-
-#eg
-
----
 
 #w 会社へ戻ります（もど）- i go back to the company
  
@@ -329,7 +165,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 #w 東京をはなれる - leave Tokio
 
 #w はなれる - leave - fizycznie/emocjonalnie opuścić, oddalić się na dlugo
-#w こうえんをはし走る（はし）- run in the park
+#w こうえんを走る（はしる）- run in the park
 
 #w 会議をします(かいぎ) - to hold a meeting
 #w 仕事をします - do a job
@@ -339,50 +175,70 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
  --- 
 
 
-# Grammar Summary
+# 文法
 
-## 文法
+## いっしょ  - together, with, the same (cf. 同じ)
 
-### いっしょ  - together, with, the same (同じ
+### N（person）+ と + いっしょに - together, with
+- Structure
+	- N（person）+ と + いっしょに + V
+- Examples
+	- いっしょにいきましょう - let's go together
+	- 友達といっしょに映画を見ました（ともだち、えいが、み）- I watched a movie together with a friend
 
-#### いっしょ + に - together, with
-- いっしょ + に - together, with
-	- いっしょにいきましょう - lets go together
+### AはBと + いっしょ - A and B are the same
+- Structure
+	- A は B と いっしょです
+- Examples
+	- 私の学校 は 弟の学校　と　いっしょです - my and my younger brother's school is the same
 
-#### と/の + いっしょ - the same
-- と+ いっしょ - same
-	- 私の学校 は 弟の学校　と　いっしょです - my and my younger brother's school is the same,
-### Forms
-#### 辞書形（じしょ）- dictionary form
-- Used to search for word in dictionary
-- Used between friends or family
+### Register
+- いっしょ(に) itself is register-neutral — used in both polite and casual speech. Politeness is carried by the verb that follows (いっしょに行きましょう is polite, いっしょに行こう is casual), not by いっしょ itself.
+
+### Often confused with
+- 同じ（おなじ）— test: are you saying two things are directly identical/matching (同じ), or that you're doing something together as company (いっしょに)? 私の傘は彼のと同じです (my umbrella is the same as his) vs 彼といっしょに帰りました (I went home together with him).
+## Forms
+### 辞書形（じしょ）- dictionary form
+
+- Register
+	- Casual/plain — used between friends and family, and as the neutral citation form (e.g. in dictionaries)
+- Examples
 	- 明日だれと会うの？ - who will you meet tomorrow? (dict)
 
-#### ます形 - masu form
+### ます形 - masu form
+- Register
+	- Polite (teineigo) — neutral-polite speech, appropriate with strangers, colleagues, and in most everyday situations
 - polite present/future form
 	- ます - affirmative
-		- 食べます
+		- 食べます - (I) eat / will eat
 	- ません - negation
-		- 食べません 
-- polite past for
+		- 食べません - (I) do not eat / will not eat
+- polite past form
 	- ました - affirmative
-		- 食べました
-	- ません　でした
-		- 食べませんでした
+		- 食べました - (I) ate
+	- ませんでした - negation
+		- 食べませんでした - (I) did not eat
 
-### Partykuły 
+### Often confused with
+- 辞書形 vs ます形 — test: are you speaking casually with friends/family (辞書形), or in a neutral-polite context like strangers, colleagues, or most everyday situations (ます形)? The two are not interchangeable mid-register without deliberate code-switching.
 
-#### へ - e、に - direction of movement, travel
+## Partykuły 
+
+### へ / に - direction of movement, travel (destination)
+- Register
+	- Register-neutral particles — politeness comes from the verb ending, not from へ or に
 - When
 	- Travel destination
 	- Reaching point
-	- Can be replaced with NI
+	- へ can be replaced with に in this function
 - Structure 
 	- Place + へ(E) + V
 - Examples 
 	- 会社へ戻ります（もど）- i go back to the company
 
-#### に - time of occurrence of an action
+### に - time of occurrence of an action
+- Register
+	- Register-neutral particle — politeness comes from the verb ending, not from に
 - When
 	- Indicates time of occurrence of an action
 - Structure
@@ -391,14 +247,15 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 	- ９:00 **に**　会社へ行きます (くじ) - I go to the company at 9:00
 	- 8月２１日**に**　大阪へ行きました（はちがつ、にじゅうににち） - I went to osaka on August 21
 - Exceptions
-	- 今日、明日、明後日、昨日、ー昨日
+	- 今日、明日、明後日、昨日、一昨日
 	- 今朝、今晩
 	- 今
-	- 毎朝、毎日
-	- 先週、来週、
+	- 毎朝、毎日、毎週
+	- 今週、先週、来週
 	- いつ
-	- 先月、今月、
+	- 先月、今月
 	- 今年、来年、去年
+	- 曜日 (e.g. 月曜日、日曜日)
 	- Example
 		- 明後日（あさって）学校に行きます - i will go to school the day after tomorrow
 		- 来月　けっこんします - i will get married next month
@@ -406,37 +263,38 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 	- 昼（ひる）
 	- 夜
 	- 朝
-	- 曜日
-	- ばん
+	- 晩（ばん）
 	- Examples
 		- 昼（に）ゆうえんちに行きました（ひる） - i went to amusement park in the afternoon
 		- 夜（に）おにぎりを食べます (よる) - I will eat onigiri at night
 
-### を 
+## を 
 
-#### 1.  Indicates object of an action
+### Register
+- Register-neutral particle — politeness comes from the verb ending, not from を
+
+### 1.  Indicates object of an action
 
 - Structure
 	- N + を + 食べる
 - Example
-	- ご飯を食べる - to eat meal
+	- ご飯を食べる - to eat a meal
 
-#### 2. Indicates travel's starting point
+### 2. Indicates travel's starting point
 
 - Structure
-	- N＋を＋V 
+	- N + を + V 
 - Examples
-	- 会社を出る - leave the compay
-	- 東京をはなれる - leave Tokio
+	- 会社を出る - leave the company
+	- 東京をはなれる - leave Tokyo
 
-#### 3. Indicates a transit spot and time
+### 3. Indicates a transit spot and time
 
 - Structure
-	- N＋を＋V 
+	- N + を + V 
 - Example
-	- こうえんをはし走る（はし）- run in the park
-
-#### 4. Often with する
+	- こうえんを走る（はしる）- run in the park
+### 4. Often with する
 
 - Structure
 	- N をします・しました
@@ -444,7 +302,11 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 - Example
 	- 会議をします(かいぎ) - to hold a meeting
 	- 仕事をします - do a job
-	- 何をしますか,
+	- 何をしますか - what are you going to do?
+
+### Often confused with
+- を vs から (use case 2, departure point) — test: are you emphasizing the act of leaving/exiting a place (を), or the point something originates/starts from (から)? 家を出る (leave/exit the house) vs 家から出る (come out from the house, origin point).
+- を vs で (use case 3, transit spot) — test: does the verb describe movement across/along the space (を), or is the space just the static location where an action happens (で)? 公園を走る (run through/along the park) vs 公園で走る (run in the park, as the location).
 
 
 # Summary
@@ -883,6 +745,14 @@ form, type #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_弟.html">弟</a>
 <!--ID: 1761829173632-->
 
+ I watched a movie together with a friend #card
+ほんやく: 友達(ともだち)といっしょに映画(えいが)を見(み)ました
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
+<a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+
 
 
 よく**考（かんが）えて**ください。– Proszę dobrze się zastanowić.
@@ -1029,7 +899,7 @@ Mom has already gone out. #card
 
 
  run in the park #card
-ほんやく: こうえんをはし走る（はし）
+ほんやく: こうえんを走る（はしる）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_走.html">走</a>
 <!--ID: 1761829173695-->
 
