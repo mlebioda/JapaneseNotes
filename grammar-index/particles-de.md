@@ -11,3 +11,4 @@
 ## See also
 
 - [Particles — に](/JapaneseNotes/grammar-index/particles-ni) — に also marks location, but for a motion verb's destination rather than where an action takes place
+- [Particles — を](/JapaneseNotes/grammar-index/particles-wo) — を marks the transit spot/path a motion passes through, contrasted with で's static location use

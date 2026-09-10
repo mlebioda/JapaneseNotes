@@ -9,7 +9,7 @@
 - [N＋を　vs N＋は](/JapaneseNotes/grammar-index/grammar/n-wo-vs-n-ha) · N5
 
 - [N1 は N2 が ADJ です — N2 is a trait/feature of N1](/JapaneseNotes/grammar-index/grammar/n1-ha-n2-ga-adj-desu-n2-is-a-trait-feature-of-n1) · N5
-- [Particles](/JapaneseNotes/grammar-index/grammar/particles-wa-ga) · N5
+- [Particles](/JapaneseNotes/grammar-index/grammar/particles) · N5
 - [は vs が](/JapaneseNotes/grammar-index/grammar/ha-vs-ga) · N5
 - [は](/JapaneseNotes/grammar-index/grammar/ha-topic-marker) · N5
 - [が](/JapaneseNotes/grammar-index/grammar/ga-subject-marker) · N5

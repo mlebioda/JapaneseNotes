@@ -26,6 +26,7 @@
 - [particles-ga](/JapaneseNotes/grammar-index/particles-ga) — The particle が used to connect two clauses as "but," or to softly introduce a new topic.
 - [particles-de](/JapaneseNotes/grammar-index/particles-de) — The particle で marking who performs an action, alone or as a group, distinct from its instrument/means use.
 - [particles-ni](/JapaneseNotes/grammar-index/particles-ni) — The particle に marking the destination or arrival point of a motion verb, among other uses.
+- [particles-wo](/JapaneseNotes/grammar-index/particles-wo) — The particle を marking the object of a transitive verb, a motion's starting/transit point, or combining with する.
 - [topic-marking](/JapaneseNotes/grammar-index/topic-marking) — Patterns and particles for marking or shifting a sentence's topic — responsive topic-picking なら and contrastive-stacking は — and related forms.
 
 ## Patterns
@@ -42,6 +43,7 @@
 - [concession-contrast](/JapaneseNotes/grammar-index/concession-contrast) — Patterns expressing a mismatch between expectation and reality — despite/even though something is true, the opposite happens: のに, and related forms.
 - [sensory-perception](/JapaneseNotes/grammar-index/sensory-perception) — Patterns for expressing a sensory quality being perceived — smell, taste, sound, or feeling — arising on its own: がする, and related forms.
 - [comparison](/JapaneseNotes/grammar-index/comparison) — Patterns for comparing two things or ranking the most extreme case — which one is more X, or which one is the most X: のほうが, と比べて, 一番, and related forms.
+- [togetherness-sameness](/JapaneseNotes/grammar-index/togetherness-sameness) — Patterns for doing something together with someone, or stating that two things/people are the same — いっしょ, 同じ, and related forms.
 - [purpose-reason](/JapaneseNotes/grammar-index/purpose-reason) — Patterns for stating a goal or purpose behind an action — ために, ように, and related forms.
 - [obligation-necessity](/JapaneseNotes/grammar-index/obligation-necessity) — Patterns expressing obligation, prohibition, necessity, and permission — from strongest "must" to "don't have to" to "may" — plus はずです, the related epistemic pattern for logical expectation.
 - [manner-accordance](/JapaneseNotes/grammar-index/manner-accordance) — Patterns for describing an action performed in accordance with a plan, instruction, or expectation — 通り／どおり, and related forms.

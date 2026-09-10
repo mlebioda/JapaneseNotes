@@ -803,7 +803,7 @@
       "next_review": "2026-11-11"
     },
     "UN5GL5::issho-ni-vs-to-issho-ni": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL5.md",
+      "lesson_file": "grammar-index/grammar/issho-together-same.md",
       "grammar_header": "いっしょに vs といっしょに",
       "last_reviewed": "2026-07-27",
       "interval_days": 66,
@@ -820,7 +820,7 @@
       "next_review": "2026-10-01"
     },
     "UN5GL5::masu-form-conjugation": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL5.md",
+      "lesson_file": "grammar-index/grammar/masu-form.md",
       "grammar_header": "ます form conjugation",
       "last_reviewed": "2026-07-05",
       "interval_days": 51,
@@ -838,7 +838,7 @@
       "next_review": "2026-09-23"
     },
     "UN5GL5::he-ni-direction-ni-time": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL5.md",
+      "lesson_file": "grammar-index/grammar/he-ni-direction-destination.md",
       "grammar_header": "へ/に direction + に time",
       "last_reviewed": "2026-07-08",
       "interval_days": 45,
@@ -854,7 +854,7 @@
       "next_review": "2026-09-20"
     },
     "UN5GL5::ni-time-exceptions": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL5.md",
+      "lesson_file": "grammar-index/grammar/ni-time-of-action.md",
       "grammar_header": "に for time — exceptions",
       "last_reviewed": "2026-07-05",
       "interval_days": 51,
@@ -867,7 +867,7 @@
       "next_review": "2026-09-24"
     },
     "UN5GL5::wo-multiple-uses": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL5.md",
+      "lesson_file": "grammar-index/grammar/wo.md",
       "grammar_header": "を — multiple uses",
       "last_reviewed": "2026-08-09",
       "next_review": "2026-12-25",
@@ -5066,6 +5066,16 @@
     "UN5GL6::hairu-to-enter": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/hairu-to-enter.md",
       "grammar_header": "入る - to enter",
+      "next_review": "2026-09-11",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 0,
+      "total_reviews": 0,
+      "weak_points": []
+    },
+    "UN5GL5::jisho-dictionary-form": {
+      "lesson_file": "grammar-index/grammar/jisho-dictionary-form.md",
+      "grammar_header": "辞書形 - dictionary form",
       "next_review": "2026-09-11",
       "interval_days": 1,
       "ease": 2.5,

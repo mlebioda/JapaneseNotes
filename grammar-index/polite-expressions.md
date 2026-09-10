@@ -9,6 +9,8 @@
 - [ございます - polite arimasu、desu](/JapaneseNotes/grammar-index/grammar/gozaimasu-polite-arimasu-desu) · N4
 - [敬語(けいご)](/JapaneseNotes/grammar-index/grammar/keigo) · N4
 - [ていねいけい vs ふつうけい - polite form vs plain form](/JapaneseNotes/grammar-index/grammar/teineikei-vs-futsuukei-polite-form-vs-plain-form) · N5
+- [ます形 - masu form](/JapaneseNotes/grammar-index/grammar/masu-form) · N5
+- [Forms](/JapaneseNotes/grammar-index/grammar/jisho-vs-masu-form) · N5
 
 ## See also
 

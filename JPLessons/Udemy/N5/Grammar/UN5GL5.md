@@ -178,6 +178,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 # 文法
 
 ## いっしょ  - together, with, the same (cf. 同じ)
+→ [[grammar-index/grammar/issho-together-same]]
 
 ### N（person）+ と + いっしょに - together, with
 - Structure
@@ -198,7 +199,9 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 ### Often confused with
 - 同じ（おなじ）— test: are you saying two things are directly identical/matching (同じ), or that you're doing something together as company (いっしょに)? 私の傘は彼のと同じです (my umbrella is the same as his) vs 彼といっしょに帰りました (I went home together with him).
 ## Forms
+→ [[grammar-index/grammar/jisho-vs-masu-form]]
 ### 辞書形（じしょ）- dictionary form
+→ [[grammar-index/grammar/jisho-dictionary-form]]
 
 - Register
 	- Casual/plain — used between friends and family, and as the neutral citation form (e.g. in dictionaries)
@@ -206,6 +209,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 	- 明日だれと会うの？ - who will you meet tomorrow? (dict)
 
 ### ます形 - masu form
+→ [[grammar-index/grammar/masu-form]]
 - Register
 	- Polite (teineigo) — neutral-polite speech, appropriate with strangers, colleagues, and in most everyday situations
 - polite present/future form
@@ -223,8 +227,10 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 - 辞書形 vs ます形 — test: are you speaking casually with friends/family (辞書形), or in a neutral-polite context like strangers, colleagues, or most everyday situations (ます形)? The two are not interchangeable mid-register without deliberate code-switching.
 
 ## Partykuły 
+→ [[grammar-index/grammar/particles]]
 
 ### へ / に - direction of movement, travel (destination)
+→ [[grammar-index/grammar/he-ni-direction-destination]]
 - Register
 	- Register-neutral particles — politeness comes from the verb ending, not from へ or に
 - When
@@ -237,6 +243,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 	- 会社へ戻ります（もど）- i go back to the company
 
 ### に - time of occurrence of an action
+→ [[grammar-index/grammar/ni-time-of-action]]
 - Register
 	- Register-neutral particle — politeness comes from the verb ending, not from に
 - When
@@ -269,6 +276,8 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 		- 夜（に）おにぎりを食べます (よる) - I will eat onigiri at night
 
 ## を 
+→ [[grammar-index/grammar/wo]]
+→ [[grammar-index/grammar/particles]]
 
 ### Register
 - Register-neutral particle — politeness comes from the verb ending, not from を

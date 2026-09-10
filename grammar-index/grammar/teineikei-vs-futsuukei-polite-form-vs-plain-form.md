@@ -5,7 +5,7 @@ topic_slug: ["polite-expressions"]
 function: ["formality"]
 level: N5
 register: tiered
-confused_with: ["gozaimasu-polite-arimasu-desu"]
+confused_with: ["gozaimasu-polite-arimasu-desu", "jisho-dictionary-form", "masu-form"]
 proofread: true
 ---
 
@@ -72,6 +72,8 @@ Register: tiered (plain ふつうけい → polite ていねいけい → super-
 ## Often confused with
 
 - [ございます - polite arimasu、desu](/JapaneseNotes/grammar-index/grammar/gozaimasu-polite-arimasu-desu) — test: is this the everyday baseline contrast between plain and です／ます (ていねいけい vs ふつうけい), or the super-polite service-industry tier above that, replacing です／あります with でございます／ございます?
+- [辞書形（じしょ）- dictionary form](/JapaneseNotes/grammar-index/grammar/jisho-dictionary-form) — test: are you asking specifically about a verb's plain citation form (辞書形), or the general plain-vs-polite contrast across verbs, adjectives, and nouns (ふつうけい vs ていねいけい)?
+- [ます形 - masu form](/JapaneseNotes/grammar-index/grammar/masu-form) — test: are you asking specifically about a verb's polite conjugation (ます形), or the general plain-vs-polite contrast across verbs, adjectives, and nouns (ていねいけい vs ふつうけい)?
 
 ## See also
 

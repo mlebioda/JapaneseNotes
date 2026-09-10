@@ -42,4 +42,4 @@ Register: neutral
 
 ## See also
 
-- [に](/JapaneseNotes/grammar-index/grammar/ni) — groups this destination-marking use with other に uses covered in the same lesson
+- [Particles](/JapaneseNotes/grammar-index/grammar/particles) — groups this with other particle-usage points, by lesson

@@ -5,7 +5,7 @@ topic_slug: ["particles-de"]
 function: ["existence-location"]
 level: N5
 register: neutral
-confused_with: ["de-means-or-method"]
+confused_with: ["de-means-or-method", "wo"]
 proofread: true
 ---
 
@@ -31,6 +31,7 @@ Register: neutral
 ## Often confused with
 
 - [で - means or method](/JapaneseNotes/grammar-index/grammar/de-means-or-method) — test: Does で mark where the action physically takes place (で-location), or the tool/method used to perform it (で-means)?
+- [を](/JapaneseNotes/grammar-index/grammar/wo) — test: does the verb describe movement across/along the space (を), or is the space just the static location where an action happens (で)? 公園を走る (run through/along the park) vs 公園で走る (run in the park, as the location).
 
 ## See also
 

@@ -5,7 +5,7 @@ topic_slug: ["range-interval"]
 function: ["temporal"]
 level: N5
 register: neutral
-confused_with: ["meishi-chuu-juu-during"]
+confused_with: ["meishi-chuu-juu-during", "ni-time-of-action"]
 proofread: true
 ---
 
@@ -28,6 +28,7 @@ Register: neutral
 
 ## Often confused with
 - [名詞（めいし） + 中（ちゅう・じゅう）- during](/JapaneseNotes/grammar-index/grammar/meishi-chuu-juu-during) — test: Is this a deadline for a one-time completed action (→ までに), or a period within which something must be completed, phrased as "by/within N" (→ N中に)?
+- [に - time of occurrence of an action](/JapaneseNotes/grammar-index/grammar/ni-time-of-action) — test: is に simply marking the time an action occurs (Time + に + V), or marking a deadline the action must be completed by (N(time) + までに + V)?
 
 ## See also
 

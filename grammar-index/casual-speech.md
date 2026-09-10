@@ -5,6 +5,8 @@
 ## Entries
 
 - [Particle omission — が、は、を、(に)](/JapaneseNotes/grammar-index/grammar/particle-omission-ga-ha-wo-ni) · N5
+- [辞書形（じしょ）- dictionary form](/JapaneseNotes/grammar-index/grammar/jisho-dictionary-form) · N5
+- [Forms](/JapaneseNotes/grammar-index/grammar/jisho-vs-masu-form) · N5
 
 ## See also
 

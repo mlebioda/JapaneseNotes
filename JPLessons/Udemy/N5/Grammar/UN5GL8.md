@@ -404,7 +404,7 @@ Verbs:
 #w 学校に行**きましたが**、先生に会いませんでした(あ) - I went to school but i did not meet the teacher #k
 
 ## Particles
-→ [[grammar-index/grammar/particles-wa-ga]]
+→ [[grammar-index/grammar/particles]]
 
 ### は vs が
 → [[grammar-index/grammar/ha-vs-ga]]

@@ -213,7 +213,7 @@ Exception — verbs of manner of movement (歩く, 走る) don't take で; use t
 #w 東京からどうやって京都まで行きますか - How do I get to Kyoto from Tokyo?
 
 ## に
-→ [[grammar-index/grammar/ni]]
+→ [[grammar-index/grammar/particles]]
 
 ### Place + に ＋　V - indicate destination
 → [[grammar-index/grammar/place-ni-v-indicate-destination]]

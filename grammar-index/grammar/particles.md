@@ -1,16 +1,34 @@
 ---
-lesson: UN5GL9
 pattern: Particles
-topic_slug: ["sentence-final-particles"]
+topic_slug: ["particles-ni", "particles-wo", "sentence-final-particles", "topic-marking"]
 level: N5
 proofread: true
 ---
 
 # Particles
 
-> Sentence-final particles that shape how information is presented to the listener.
+> Particle-usage grammar points consolidated across lessons, grouped by function.
 
-## Sub-topics
+## へ／に — destination
+
+- [へ / に - direction of movement, travel (destination)](/JapaneseNotes/grammar-index/grammar/he-ni-direction-destination) · N5
+- [Place + に ＋　V - indicate destination](/JapaneseNotes/grammar-index/grammar/place-ni-v-indicate-destination) · N5
+
+## に — time
+
+- [に - time of occurrence of an action](/JapaneseNotes/grammar-index/grammar/ni-time-of-action) · N5
+
+## を — object / motion
+
+- [を](/JapaneseNotes/grammar-index/grammar/wo) · N5
+
+## は／が — topic vs subject
+
+- [は vs が](/JapaneseNotes/grammar-index/grammar/ha-vs-ga) · N5
+- [は](/JapaneseNotes/grammar-index/grammar/ha-topic-marker) · N5
+- [が](/JapaneseNotes/grammar-index/grammar/ga-subject-marker) · N5
+
+## よ — sentence-final particle
 
 - [よ](/JapaneseNotes/grammar-index/grammar/yo) · N5
 

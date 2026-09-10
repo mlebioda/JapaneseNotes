@@ -5,7 +5,7 @@ topic_slug: ["purpose-reason"]
 function: ["purpose", "direction-destination"]
 level: N5
 register: neutral
-confused_with: ["tameni-for-purpose-of", "place-ni-v-indicate-destination"]
+confused_with: ["tameni-for-purpose-of", "place-ni-v-indicate-destination", "he-ni-direction-destination"]
 proofread: true
 ---
 
@@ -44,6 +44,7 @@ The pattern itself carries no inherent formality — it appears with the polite 
 ## Often confused with
 - [ために - for (purpose of)](/JapaneseNotes/grammar-index/grammar/tameni-for-purpose-of) — test: Is the purpose clause built specifically on 行く／来る／帰る (→ V-stem+に+行きます/来ます/帰ります), or on any other verb needing a general purpose clause (→ ために)?
 - [Place + に ＋　V - indicate destination](/JapaneseNotes/grammar-index/grammar/place-ni-v-indicate-destination) — test: Is に marking a purpose clause attached right before 行く／来る／帰る (V-stem/N + に + 行きます), or simply marking the plain destination of a motion verb (Place + に + V)?
+- [へ / に - direction of movement, travel (destination)](/JapaneseNotes/grammar-index/grammar/he-ni-direction-destination) — test: is に/へ marking a purpose clause attached right before 行く／来る／帰る (V-stem/N + に + 行きます), or simply marking the plain destination of a motion verb (Place + へ／に + V)?
 
 ## See also
 

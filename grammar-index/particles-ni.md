@@ -4,8 +4,10 @@
 
 ## Entries
 
-- [に](/JapaneseNotes/grammar-index/grammar/ni) · N5
 - [Place + に ＋　V - indicate destination](/JapaneseNotes/grammar-index/grammar/place-ni-v-indicate-destination) · N5
+- [へ / に - direction of movement, travel (destination)](/JapaneseNotes/grammar-index/grammar/he-ni-direction-destination) · N5
+- [に - time of occurrence of an action](/JapaneseNotes/grammar-index/grammar/ni-time-of-action) · N5
+- [Particles](/JapaneseNotes/grammar-index/grammar/particles) · N5
 
 ## See also
 

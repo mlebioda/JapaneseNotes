@@ -33,4 +33,4 @@ Register: neutral
 
 ## See also
 
-- [Particles](/JapaneseNotes/grammar-index/grammar/particles-wa-ga) — groups this が pattern with は and the は／が comparison
+- [Particles](/JapaneseNotes/grammar-index/grammar/particles) — groups this with other particle-usage points, by lesson
