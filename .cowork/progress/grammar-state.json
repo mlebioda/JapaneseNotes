@@ -1,8 +1,8 @@
 {
   "grammar_points": {
     "UN5GL1L2::numbers": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL1L2.md",
-      "grammar_header": "Numbers",
+      "lesson_file": "grammar-index/grammar/numbers-0-100000000.md",
+      "grammar_header": "Numbers 0-100000000",
       "last_reviewed": "2026-08-06",
       "next_review": "2027-01-22",
       "interval_days": 169,
@@ -14,7 +14,7 @@
       "score": 4
     },
     "UN5GL1L2::counter-people": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL1L2.md",
+      "lesson_file": "grammar-index/grammar/people-counter.md",
       "grammar_header": "People",
       "last_reviewed": "2026-08-05",
       "interval_days": 9,
@@ -33,7 +33,7 @@
       "next_review": "2026-09-21"
     },
     "UN5GL1L2::counter-floors": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL1L2.md",
+      "lesson_file": "grammar-index/grammar/floors-counter.md",
       "grammar_header": "Floors",
       "last_reviewed": "2026-08-06",
       "next_review": "2027-01-22",
@@ -48,7 +48,7 @@
       "score": 4
     },
     "UN5GL1L2::onaji-noun": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL1L2.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Adjectives/ji-same.md",
       "grammar_header": "同じ + Noun (same)",
       "last_reviewed": "2026-07-21",
       "interval_days": 93,
@@ -63,7 +63,7 @@
       "next_review": "2026-10-22"
     },
     "UN5GL1L2::zenbu-de": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL1L2.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Nouns/zenbude-in-total.md",
       "grammar_header": "全部で (in total)",
       "last_reviewed": "2026-07-30",
       "interval_days": 138,
@@ -76,7 +76,7 @@
       "next_review": "2026-12-15"
     },
     "UN5GL1L2::ne": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL1L2.md",
+      "lesson_file": "grammar-index/grammar/ne-seeking-approval.md",
       "grammar_header": "ね (seeking approval)",
       "last_reviewed": "2026-08-06",
       "next_review": "2026-12-14",
@@ -91,7 +91,7 @@
       "score": 3
     },
     "UN5GL1L2::kono-sono-ano": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL1L2.md",
+      "lesson_file": "grammar-index/grammar/kono-sono-ano-dono.md",
       "grammar_header": "この/その/あの (demonstrative adjectives)",
       "last_reviewed": "2026-07-28",
       "interval_days": 124,
@@ -104,7 +104,7 @@
       "next_review": "2026-11-29"
     },
     "UN5GL1L2::kore-sore-are": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL1L2.md",
+      "lesson_file": "grammar-index/grammar/kore-sore-are-dore.md",
       "grammar_header": "これ/それ/あれ (demonstrative pronouns)",
       "last_reviewed": "2026-07-30",
       "interval_days": 138,

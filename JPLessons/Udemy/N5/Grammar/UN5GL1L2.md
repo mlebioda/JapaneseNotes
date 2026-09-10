@@ -100,9 +100,11 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL1-2-im-a-student-and-family
 # 文法
 
 ## Counters
+→ [[grammar-index/grammar/counters]]
 
 
 ### People
+→ [[grammar-index/grammar/people-counter]]
 
 #w 人数（にんずう) -  number of people
 
@@ -121,6 +123,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL1-2-im-a-student-and-family
 何人（なんにん）- how many people
 > Register: 何人（なんにん）is neutral/casual. In polite or service contexts (restaurants, receptions, forms) use 何名様（なんめいさま）instead.
 ### Floors
+→ [[grammar-index/grammar/floors-counter]]
 
 #w 一階（いっかい）- first floor  
 #w 二階（にかい）- second floor  
@@ -139,6 +142,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL1-2-im-a-student-and-family
 
 #w 数字（すうじ）- number
 ### Numbers
+→ [[grammar-index/grammar/numbers-0-100000000]]
 #### 0-10
 
 れい - 0
@@ -217,6 +221,7 @@ number + 百 + number
 一億（いちおく）- 100 000 000
 
 ## ね - seeking approval
+→ [[grammar-index/grammar/ne-seeking-approval]]
 
 Ne - seeking approval, emphasizing / isn’t it?
 - 明日の仕事のしりょうですね (あした、しごと) - there are tomorrow's materials, right?
@@ -227,6 +232,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 
 > Often confused with: よ — よ asserts information the listener doesn't have yet; ね seeks agreement or confirms shared knowledge.
 ## この/その/あの　どの
+→ [[grammar-index/grammar/kono-sono-ano-dono]]
 
 - この - this (noun) close to speaker
 - その - that (noun) close to listener
@@ -246,6 +252,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 > Related: こう／そう／ああ／どう (manner: "this way/that way") and ここ／そこ／あそこ／どこ (place: "here/there/where") complete the ko-so-a-do system but aren't covered in this lesson.
 
 ## これ/それ/あれ　どれ
+→ [[grammar-index/grammar/kore-sore-are-dore]]
 
 - これ - this (noun) close to speaker
 - それ - that (noun) close to listener
@@ -269,6 +276,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 # Vocabulary
 
 ## 同じ - same
+→ [[grammar-index/grammar/vocabulary/Adjectives/ji-same]]
 
 ### Structure
 
@@ -286,6 +294,7 @@ Ne - seeking approval, emphasizing / isn’t it?
 > Often confused with: 一緒（いっしょ）— 同じ describes two things belonging to the same category as a fact (同じ会社 - "the same company"); 一緒 means doing something together/jointly (一緒に行く - "go together"). Not interchangeable.
 
 ## 全部で(ぜんぶ）in total
+→ [[grammar-index/grammar/vocabulary/Nouns/zenbude-in-total]]
 
 ### Structure
 - 全部(ぜんぶ）+ で + [number] + です　→ states a total count ("in total, there are...")

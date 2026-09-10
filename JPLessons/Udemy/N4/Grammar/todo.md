@@ -5,6 +5,26 @@ Missing topic
 - think for other person
 - Casual equivalent: だろう (used with friends and family).でしょう
 
+ - check headers to extracted topics in grammar-state
+
+- merge numbers-20-99 11-19, 0-10, remove duplicates
+- counters-numbers - separate, check coverage
+- skill update to not create redundant containers - just add more links and group by headers adn put there subtopics - grammar-index/particles-ga.md as example adn others
+-aslk for proofed
+
+merge 
+- find siblings topics to merge (with entries in grammar-state and grammar index)
+- make coverage un5gl6 - l1l2 again in n5/n4 lists
+ - again check completeness of extracted files
+- update rest of topics
+
+
+
+- timeline
+  - just started, sakki, saiki, furidasu, tokoro, waru, bakari
+
+
+
 - [x] if often confused with - write register or something without indicating answer
 
 - Search form missing n5 and n4 topics

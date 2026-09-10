@@ -5,6 +5,7 @@ topic_slug: ["sentence-final-particles"]
 function: []
 level: N5
 register: neutral
+confused_with: ["ne-seeking-approval"]
 proofread: true
 ---
 
@@ -38,6 +39,10 @@ Difference between よ and ね (ね has no standalone grammar file yet):
 ## Register
 Register: neutral
 Used across all politeness levels — よ itself carries no formality tier, though overuse toward strangers or superiors can read as pushy (see Use Cases above).
+
+## Often confused with
+
+- [ね - seeking approval](/JapaneseNotes/grammar-index/grammar/ne-seeking-approval) — test: Does the sentence seek agreement/confirm shared knowledge (→ ね), or present new information to the listener (→ よ)?
 
 ## See also
 

@@ -5,6 +5,7 @@ topic_slug: ["counters-numbers"]
 function: ["quantity-counting", "formality"]
 level: N5
 register: polite
+confused_with: ["people-counter"]
 proofread: true
 ---
 
@@ -46,6 +47,10 @@ Register: formal/service counter (restaurants, reservations, ceremonies) — con
 ## Register
 Register: polite-context typical
 Used by restaurant/service staff, in reservations, and at ceremonies — the formal register counter for people, contrasted with the casual/neutral 人（にん）used in everyday conversation.
+
+## Often confused with
+
+- [People](/JapaneseNotes/grammar-index/grammar/people-counter) — test: Are you speaking casually or with peers (→ 人 -にん), or in a formal/service context like a restaurant or reservation (→ 名 -めい)?
 
 ## See also
 

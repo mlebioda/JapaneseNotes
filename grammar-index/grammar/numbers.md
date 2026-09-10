@@ -12,8 +12,8 @@ proofread: true
 
 ## Sub-topics
 
-- [台(だい) - urządzenia mechaniczne, elektroniczne, pojazdy](/JapaneseNotes/grammar-index/grammar/dai-counter) · N4
 - [Years old](/JapaneseNotes/grammar-index/grammar/vocabulary/Nouns/years-old) · N5
+- [Numbers](/JapaneseNotes/grammar-index/grammar/numbers-0-100000000) · N5
 
 ## See also
 

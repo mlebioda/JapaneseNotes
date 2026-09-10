@@ -168,16 +168,6 @@ Note: どちら also means "which (of two)" when choosing between two people/ite
 | Place | ここ | そこ | あそこ | どこ |
 | Direction | こちら | そちら | あちら | どちら |
 
-### これ、それ、あれ、どれ / この、その、あの、どの - "this/that" for things and people
-
-- これ・それ・あれ・どれ stand alone as pronouns, replacing a thing entirely — they are never followed directly by a noun.
-- この・その・あの・どの are attributive — they must be followed by a noun (a thing or a person) and can never stand alone.
-
-Register: neutral — the same forms are used in casual and polite speech; politeness comes from the rest of the sentence (e.g. です／だ), not from these words themselves.
-
-#w これは私の机です（わたし、つくえ）- This is my desk
-#w あの人は部長です（ひと、ぶちょう）- That person over there is the general manager
-
 ## Location of the objects with directions
 
 ### PにNがあります・います - there is something somewhere

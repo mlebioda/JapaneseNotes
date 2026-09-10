@@ -4,15 +4,15 @@ Generated 2026-09-06, last refreshed 2026-09-07. "Covered" = at least one `gramm
 
 | File        | Covered in grammar-state.json | Extracted to grammar-index |
 | ----------- | ----------------------------- | -------------------------- |
-| UN5GL1L2.md | Yes (8 points)                | Yes (10 links)             |
-| UN5GL3.md   | Yes (7 points)                | Yes (10 links)             |
-| UN5GL4.md   | Yes (6 points)                | Yes (15 links)             |
-| UN5GL5.md   | Yes (5 points)                | Yes (8 links)              |
-| UN5GL6.md   | Yes (12 points)               | Yes (13 links)             |
+| UN5GL1L2.md | Yes (8 points)                | No            |
+| UN5GL3.md   | Yes (7 points)                | No             |
+| UN5GL4.md   | Yes (6 points)                | No            |
+| UN5GL5.md   | Yes (5 points)                | No              |
+| UN5GL6.md   | Yes (12 points)               | No            |
 | UN5GL7.md   | Yes (12 points)               | No                         |
 | UN5GL8.md   | Yes (8 points)                | No                         |
-| UN5GL9.md   | Yes (17 points)               | **Ready to extract**                          |
-| UN5GL10.md  | Yes (23 points)               | **Ready to extract**                          |
+| UN5GL9.md   | Yes (17 points)               | No                         |
+| UN5GL10.md  | Yes (23 points)               | No                        |
 | UN5GL11.md  | Yes (19 points)                | Yes (17 links)              |
 | UN5GL12.md  | **No**                        | Yes (9 links)              |
 | UN5GL13.md  | Yes (9 points)                | Yes (11 links)              |

@@ -20,3 +20,6 @@
 - [Ogólny  sposób  liczenia (1-10)](/JapaneseNotes/grammar-index/grammar/general-counting-method-1-10) · N5
 - [個 (こ) - small things counter](/JapaneseNotes/grammar-index/grammar/ko-small-things-counter) · N5
 - [名 (めい) - counter for people (polite)](/JapaneseNotes/grammar-index/grammar/mei-counter-for-people-polite) · N5
+- [People](/JapaneseNotes/grammar-index/grammar/people-counter) · N5
+- [Floors](/JapaneseNotes/grammar-index/grammar/floors-counter) · N5
+- [Numbers](/JapaneseNotes/grammar-index/grammar/numbers-0-100000000) · N5

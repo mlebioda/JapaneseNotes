@@ -5,11 +5,11 @@ topic_slug: ["counters-numbers"]
 function: ["quantity-counting"]
 level: N5
 register: neutral
-confused_with: ["ko-small-things-counter"]
+confused_with: ["ko-small-things-counter", "numbers-0-100000000"]
 proofread: true
 ---
 
-# Ogólny  sposób  liczenia (1-10)
+# General counting method (1-10)
 
 > The general native-Japanese counting series (ひとつ〜とお), used for many kinds of things when they're small, few (under 10), non-specific in shape, or when you don't remember the correct counter.
 
@@ -41,6 +41,7 @@ Used identically in casual and polite speech — this native counting series car
 ## Often confused with
 
 - [個 (こ) - small things counter](/JapaneseNotes/grammar-index/grammar/ko-small-things-counter) — test: Is the count 10 or below and the item small/general in shape (→ either works, native series preferred), or above 10 (→ 個 required, native series stops at とお)?
+- [Numbers](/JapaneseNotes/grammar-index/grammar/numbers-0-100000000) — test: Are you counting objects generically without a specific counter word (→ native series ひとつ〜とお), or just stating/reading a number itself, like a phone number or math answer (→ いち, に, さん...)?
 
 ## See also
 
