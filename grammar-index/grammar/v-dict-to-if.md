@@ -5,7 +5,7 @@ topic_slug: ["conditionals"]
 function: ["conditional"]
 level: N4
 register: neutral
-confused_with: ["joukenkei-ba-conditional-form", "past-tense-tara-if", "nara-if"]
+confused_with: ["joukenkei-ba-conditional-form", "past-tense-tara-if", "nara-if", "v-dict-tosugudesu-as-soon-as"]
 proofread: true
 ---
 
@@ -40,6 +40,7 @@ Register: neutral
 - [条件形（じょうけんけい）- ば - conditional form](/JapaneseNotes/grammar-index/grammar/joukenkei-ba-conditional-form) — test: Can the result be a hypothetical wish/request (ば), or must it be an automatic, non-volitional natural consequence (と)?
 - [past tense + たら - if](/JapaneseNotes/grammar-index/grammar/past-tense-tara-if) — test: Is the result a one-time possible outcome that can include a request/command (たら), or an automatic natural consequence that can never be volitional (と)?
 - [。。。なら。。。- if](/JapaneseNotes/grammar-index/grammar/nara-if) — test: Is the speaker reacting to an already-stated/assumed plan with advice or suggestion (なら), or stating an automatic natural consequence (と)?
+- [V dict とすぐです - As soon as ....](/JapaneseNotes/grammar-index/grammar/v-dict-tosugudesu-as-soon-as) — test: Is the result just a general natural consequence, any kind (plain と), or specifically that it happens immediately/right away (と + すぐです)?
 
 ## See also
 

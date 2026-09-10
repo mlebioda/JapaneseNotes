@@ -10,6 +10,7 @@
 - [verb-volitional-form](/JapaneseNotes/grammar-index/verb-volitional-form) — Patterns built on the verb volitional form (行こう, 食べよう) — expressing the speaker's will, a suggestion, or an intention still being considered.
 - [verb-potential-form](/JapaneseNotes/grammar-index/verb-potential-form) — The potential form (可能形) — conjugating a verb to express "can do X" — plus its group-by-group formation rules.
 - [giving-receiving](/JapaneseNotes/grammar-index/giving-receiving) — Patterns for giving, receiving, or doing an action as a favor for someone — あげる／くれる／もらう and their て形 auxiliary forms.
+- [verb-nai-form](/JapaneseNotes/grammar-index/verb-nai-form) — The plain negative (ない形) verb conjugation and patterns built on it.
 
 ## Adjectives
 
@@ -24,6 +25,7 @@
 - [particles-mo](/JapaneseNotes/grammar-index/particles-mo) — Patterns built on the particle も — listing items, pairing "both A and B," emphasizing something unexpected, and (with an interrogative) expressing total affirmation or total denial.
 - [particles-ga](/JapaneseNotes/grammar-index/particles-ga) — The particle が used to connect two clauses as "but," or to softly introduce a new topic.
 - [particles-de](/JapaneseNotes/grammar-index/particles-de) — The particle で marking who performs an action, alone or as a group, distinct from its instrument/means use.
+- [particles-ni](/JapaneseNotes/grammar-index/particles-ni) — The particle に marking the destination or arrival point of a motion verb, among other uses.
 - [topic-marking](/JapaneseNotes/grammar-index/topic-marking) — Patterns and particles for marking or shifting a sentence's topic — responsive topic-picking なら and contrastive-stacking は — and related forms.
 
 ## Patterns

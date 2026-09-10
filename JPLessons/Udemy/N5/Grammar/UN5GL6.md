@@ -118,11 +118,10 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL6-How-did-to-akihabara
 
 #w ごくろうさまです - Thank you for your hard work (superior)
 
-## 文法
+# 文法
 
-### Expressions
-
-#### V dict とすぐです - As soon as ....
+## V dict とすぐです - As soon as ....
+→ [[grammar-index/grammar/v-dict-tosugudesu-as-soon-as]]
 - Structure
 	- V-dictionary form + と + すぐです — the と-conditional (Vる + と, "when/as soon as X, Y follows naturally") + the adverb すぐ ("right away"); です stands in for an omitted result clause.
 	- Register: neutral — です keeps this fine for both casual and polite conversation.
@@ -131,8 +130,9 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL6-How-did-to-akihabara
 #w 左へ曲がる　と　すぐです (ま) - As soon as you turn left, it is right here
 
 
-### Forms
-####  ない形
+## Forms
+###  ない形
+→ [[grammar-index/grammar/nai-form]]
 
 - Structure
 	- Present/future
@@ -171,7 +171,8 @@ Standard Japanese verb conjugation has 3 groups. Group 1 includes some verbs tha
 #wc 住む（す）- to live
 #wc 急ぐ（いそぐ） - to hurry
 
-#### で - means or method
+## で - means or method
+→ [[grammar-index/grammar/de-means-or-method]]
 - Structure: 
 	- N + で + V
 	- Register: neutral — で itself carries no politeness; register comes from the verb (行きます = polite, 行く = plain)
@@ -183,7 +184,8 @@ Exception — verbs of manner of movement (歩く, 走る) don't take で; use t
 #w 新橋駅まで歩いて行きました（しんばし、ある) - I walked to shinbashi on foot
 #w 駅まで**走って**行きました（えき、はし）- I ran to the station
 
-#### で - where the action will take place
+## で - where the action will take place
+→ [[grammar-index/grammar/de-where-the-action-will-take-place]]
 - Structure
 	- N(Place) ＋で＋V
 	- Register: neutral — で itself carries no politeness; register comes from the verb
@@ -196,7 +198,8 @@ Exception — verbs of manner of movement (歩く, 走る) don't take で; use t
 
 
 
-### どうやって - how to
+## どうやって - how to
+→ [[grammar-index/grammar/douyatte-how-to]]
 
 - Structure
 	- どうやって + V — どう (how) + やって (て-form of やる, "to do"); literally "doing how", used to ask about a method, process, or route
@@ -209,9 +212,11 @@ Exception — verbs of manner of movement (歩く, 走る) don't take で; use t
 
 #w 東京からどうやって京都まで行きますか - How do I get to Kyoto from Tokyo?
 
-### に
+## に
+→ [[grammar-index/grammar/ni]]
 
-#### Place + に ＋　V - indicate destination
+### Place + に ＋　V - indicate destination
+→ [[grammar-index/grammar/place-ni-v-indicate-destination]]
 
 - Structure
 	- N(Place) + に + V — marks the destination/arrival point of a motion verb (行く, 来る, 帰る, 着く, 入る, 住む...)
@@ -229,7 +234,9 @@ Exception — verbs of manner of movement (歩く, 走る) don't take で; use t
 ## Vocabulary
 
 ### Verbs
+→ [[grammar-index/grammar/vocabulary-verbs]]
 #### 乗る・降りる - get on, get off
+→ [[grammar-index/grammar/vocabulary/Verbs/noru-oriru-get-on-off]]
 
 - Structure
 	- Vehicle + に＋乗る／から＋降りる — to get on/off (a vehicle)
@@ -251,6 +258,7 @@ Exception — verbs of manner of movement (歩く, 走る) don't take で; use t
 #w あきはばらで乗る（の）- to get on in Akihabara
 
 #### 乗り換える - to transfer
+→ [[grammar-index/grammar/vocabulary/Verbs/norikaeru-to-transfer]]
 #wc 乗り換える（のりかえる) - to transfer
 
 - Structure
@@ -261,6 +269,7 @@ Exception — verbs of manner of movement (歩く, 走る) don't take で; use t
 	- Register: neutral — で／から／に carry no politeness; register comes from 乗り換える itself
 
 #### 出る - to exit/leave
+→ [[grammar-index/grammar/vocabulary/Verbs/deru-to-exit-leave]]
 
 ##### を出る／から出る — to leave/exit (a place)
 - Structure
@@ -281,6 +290,7 @@ Exception — verbs of manner of movement (歩く, 走る) don't take で; use t
 
 
 #### 入る - to enter
+→ [[grammar-index/grammar/vocabulary/Verbs/hairu-to-enter]]
 - Structure
 	- PLACE に　入る
 	- Register: neutral — に carries no politeness; register comes from 入る itself
@@ -290,6 +300,7 @@ Exception — verbs of manner of movement (歩く, 走る) don't take で; use t
 #w 体育館（たいいくかん taikkan）に入る（はい）- to enter a gym
 
 #### へ＋曲がる - to turn
+→ [[grammar-index/grammar/vocabulary/Verbs/hegaru-to-turn]]
 - Structure
 	- direction + へ＋曲がる（ま）
 

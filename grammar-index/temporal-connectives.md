@@ -8,6 +8,7 @@
 - [。。。とき。。。](/JapaneseNotes/grammar-index/grammar/toki) · N5
 - [A....とき...B - while A, B](/JapaneseNotes/grammar-index/grammar/toki-non-past) · N5
 - [Vた＋とき＋V - do.... after doing something](/JapaneseNotes/grammar-index/grammar/toki-past) · N5
+- [V dict とすぐです - As soon as ....](/JapaneseNotes/grammar-index/grammar/v-dict-tosugudesu-as-soon-as) · N5
 
 ## See also
 

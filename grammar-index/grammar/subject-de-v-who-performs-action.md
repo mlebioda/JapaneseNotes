@@ -5,6 +5,7 @@ topic_slug: ["particles-de"]
 function: []
 level: N5
 register: neutral
+confused_with: ["de-means-or-method"]
 proofread: true
 ---
 
@@ -34,6 +35,10 @@ This is a different use of で from the instrument/means marker (電車で行く
 
 Register: neutral
 Works across all politeness levels.
+
+## Often confused with
+
+- [で - means or method](/JapaneseNotes/grammar-index/grammar/de-means-or-method) — test: Does で mark who/how many people are performing the action together (Subject + で), or the tool/method used to do it (で-means)?
 
 ## See also
 

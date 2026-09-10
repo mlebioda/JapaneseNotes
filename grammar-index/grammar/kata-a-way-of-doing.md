@@ -5,6 +5,7 @@ topic_slug: ["nominalization"]
 function: ["means-method"]
 level: N4
 register: neutral
+confused_with: ["douyatte-how-to"]
 proofread: true
 ---
 
@@ -28,6 +29,10 @@ proofread: true
 
 Register: neutral
 The 方（かた）nominalization is used identically across casual and polite speech; formality comes from the surrounding sentence, not from this suffix.
+
+## Often confused with
+
+- [どうやって - how to](/JapaneseNotes/grammar-index/grammar/douyatte-how-to) — test: Is this naming "the way of doing X" as a noun (V-stem + 方), or asking a direct question about method (どうやって + V)?
 
 ## See also
 

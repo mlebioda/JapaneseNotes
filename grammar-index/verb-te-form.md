@@ -40,3 +40,4 @@
 - [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — くださいませんか request pattern built on the て-form
 - [Action Timing](/JapaneseNotes/grammar-index/action-timing) — ているところです marks live-in-progress timing
 - [Giving & Receiving](/JapaneseNotes/grammar-index/giving-receiving) — the あげる／くれる／もらう family of て-form auxiliary constructions
+- [Verb Nai-Form](/JapaneseNotes/grammar-index/verb-nai-form) — another core verb conjugation base

@@ -16,6 +16,8 @@
 
 - [V dict + と - if](/JapaneseNotes/grammar-index/grammar/v-dict-to-if) · N4
 
+- [V dict とすぐです - As soon as ....](/JapaneseNotes/grammar-index/grammar/v-dict-tosugudesu-as-soon-as) · N5
+
 ## See also
 
 - [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — the interrogative ば + いいですか conditional doubles as a request for advice

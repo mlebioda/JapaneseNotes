@@ -10,6 +10,14 @@ proofread: false
 
 ## Sub-topics
 
+### 乗る／降りる／乗り換える／出る／入る／曲がる — getting around (transportation & movement)
+
+- [乗る・降りる - get on, get off](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/noru-oriru-get-on-off) · N5
+- [乗り換える - to transfer](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/norikaeru-to-transfer) · N5
+- [出る - to exit/leave](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/deru-to-exit-leave) · N5
+- [入る - to enter](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/hairu-to-enter) · N5
+- [へ＋曲がる - to turn](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/hegaru-to-turn) · N5
+
 ### 勉強／研究 — study/research
 
 - [勉強 - learn](/JapaneseNotes/grammar-index/grammar/vocabulary/Verbs/benkyou-learn) · N5

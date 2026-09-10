@@ -886,7 +886,7 @@
       "score": 4
     },
     "UN5GL6::v-dict-tosugudesu": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL6.md",
+      "lesson_file": "grammar-index/grammar/v-dict-tosugudesu-as-soon-as.md",
       "grammar_header": "V dict とすぐです",
       "last_reviewed": "2026-07-06",
       "next_review": "2026-09-24",
@@ -899,7 +899,7 @@
       "score": 4
     },
     "UN5GL6::naikei": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL6.md",
+      "lesson_file": "grammar-index/grammar/nai-form.md",
       "grammar_header": "ない形",
       "last_reviewed": "2026-07-06",
       "next_review": "2026-09-24",
@@ -915,7 +915,7 @@
       "score": 4
     },
     "UN5GL6::de-means-or-method": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL6.md",
+      "lesson_file": "grammar-index/grammar/de-means-or-method.md",
       "grammar_header": "で — means or method",
       "last_reviewed": "2026-07-06",
       "interval_days": 51,
@@ -928,7 +928,7 @@
       "next_review": "2026-09-24"
     },
     "UN5GL6::de-where-the-action-will-take-place": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL6.md",
+      "lesson_file": "grammar-index/grammar/de-where-the-action-will-take-place.md",
       "grammar_header": "で - where the action will take place",
       "last_reviewed": "2026-08-14",
       "interval_days": 142,
@@ -943,7 +943,7 @@
       "next_review": "2027-01-03"
     },
     "UN5GL6::douyatte": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL6.md",
+      "lesson_file": "grammar-index/grammar/douyatte-how-to.md",
       "grammar_header": "どうやって",
       "last_reviewed": "2026-07-06",
       "interval_days": 51,
@@ -959,7 +959,7 @@
       "next_review": "2026-09-24"
     },
     "UN5GL6::place-ni-v-indicate-destination": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL6.md",
+      "lesson_file": "grammar-index/grammar/place-ni-v-indicate-destination.md",
       "grammar_header": "Place に + V — indicate destination",
       "last_reviewed": "2026-07-06",
       "interval_days": 51,
@@ -974,7 +974,7 @@
       "next_review": "2026-09-24"
     },
     "UN5GL6::noru-oriru-ni-boarding": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL6.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/noru-oriru-get-on-off.md",
       "grammar_header": "乗る・降りる (に for boarding)",
       "last_reviewed": "2026-07-06",
       "interval_days": 51,
@@ -987,7 +987,7 @@
       "next_review": "2026-09-24"
     },
     "UN5GL6::noru-oriru-kara-alighting": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL6.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/noru-oriru-get-on-off.md",
       "grammar_header": "乗る・降りる (から for alighting)",
       "last_reviewed": "2026-07-06",
       "interval_days": 51,
@@ -1000,7 +1000,7 @@
       "next_review": "2026-09-24"
     },
     "UN5GL6::norikkaeru": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL6.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/norikaeru-to-transfer.md",
       "grammar_header": "乗り換える",
       "last_reviewed": "2026-07-06",
       "interval_days": 51,
@@ -1013,7 +1013,7 @@
       "next_review": "2026-09-25"
     },
     "UN5GL6::deru-wo": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL6.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/deru-to-exit-leave.md",
       "grammar_header": "を出る wyjsc z",
       "last_reviewed": "2026-08-14",
       "interval_days": 109,
@@ -1030,7 +1030,7 @@
       "next_review": "2026-12-01"
     },
     "UN5GL6::deru-ni": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL6.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/deru-to-exit-leave.md",
       "grammar_header": "出る — に出る",
       "last_reviewed": "2026-09-07",
       "interval_days": 54,
@@ -1046,7 +1046,7 @@
       "next_review": "2026-11-01"
     },
     "UN5GL6::he-magaru": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL6.md",
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/hegaru-to-turn.md",
       "grammar_header": "へ + 曲がる",
       "last_reviewed": "2026-07-07",
       "interval_days": 51,
@@ -5062,6 +5062,16 @@
       "weak_points": [],
       "score": 4,
       "next_review": "2026-09-10"
+    },
+    "UN5GL6::hairu-to-enter": {
+      "lesson_file": "grammar-index/grammar/vocabulary/Verbs/hairu-to-enter.md",
+      "grammar_header": "入る - to enter",
+      "next_review": "2026-09-11",
+      "interval_days": 1,
+      "ease": 2.5,
+      "streak": 0,
+      "total_reviews": 0,
+      "weak_points": []
     }
   }
 }
