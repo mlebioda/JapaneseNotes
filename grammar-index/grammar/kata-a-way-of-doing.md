@@ -35,3 +35,5 @@ The 方（かた）nominalization is used identically across casual and polite s
 - [どうやって - how to](/JapaneseNotes/grammar-index/grammar/douyatte-how-to) — test: Is this naming "the way of doing X" as a noun (V-stem + 方), or asking a direct question about method (どうやって + V)?
 
 ## See also
+
+- [Nominalization & Relative Clauses](/JapaneseNotes/grammar-index/nominalization-relative-clauses) — の／こと-based nominalizers, and clauses that modify a noun (relative/subordinate clauses).

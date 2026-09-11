@@ -39,3 +39,5 @@ Register: neutral
 - [N(time) + まで +に + V - BY, until (do)](/JapaneseNotes/grammar-index/grammar/ntime-made-ni-v-by-until-do) — test: is に simply marking the time an action occurs (Time + に + V), or marking a deadline the action must be completed by (N(time) + までに + V)?
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

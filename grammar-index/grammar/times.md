@@ -36,3 +36,5 @@ Register: neutral
 Counter readings themselves don't carry politeness — they attach identically in polite and plain sentences; only the surrounding verb/copula changes with register.
 
 ## See also
+
+- [Counters & Numbers](/JapaneseNotes/grammar-index/counters-numbers) — Numbers, counters, and date/time-unit constructions.

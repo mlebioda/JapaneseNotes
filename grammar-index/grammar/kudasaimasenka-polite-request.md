@@ -38,3 +38,6 @@ More polite/indirect than くれませんか — appropriate toward superiors, c
 - [Vて いただけませんか - polite requests. Politer than てください](/JapaneseNotes/grammar-index/grammar/itadakemasenka-polite-request) — test: Is this a respectful request elevating the listener (→ てくださいませんか), or a humble request lowering the speaker (→ ていただけませんか)?
 
 ## See also
+
+- [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — Asking or telling someone to do something, from direct imperatives to the most polite request forms.
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

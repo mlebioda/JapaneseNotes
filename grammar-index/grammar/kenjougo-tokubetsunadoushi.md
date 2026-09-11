@@ -49,3 +49,5 @@ Used when speaking about your own actions to a superior, customer, or outsider �
 - [お・ご V『ます形」します](/JapaneseNotes/grammar-index/grammar/o-go-v-masushimasu) — test: Is there a special humble verb for this action (→ use it from the table), or none (→ fall back to お・ご V「ます形」します)?
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

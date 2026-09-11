@@ -54,3 +54,5 @@ Register: tiered (casual: んで; standard: ので)
 - [から - because](/JapaneseNotes/grammar-index/grammar/kara-because) — test: Is this a softer, more objective-sounding reason (→ ので), or a direct/subjective reason that could stand alone as an answer (→ から)?
 
 ## See also
+
+- [Purpose, Reason & Cause](/JapaneseNotes/grammar-index/purpose-reason-cause) — から／ので／んです and ために／ように／のに(purpose) — explaining why or what for.

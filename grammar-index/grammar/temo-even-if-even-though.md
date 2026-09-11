@@ -48,3 +48,5 @@ Used broadly across casual and polite speech — the concessive meaning itself c
 - [。。。のに - even though](/JapaneseNotes/grammar-index/grammar/noni-even-though) — test: Does B hold true regardless of a hypothetical or general A (ても), or is B a factual complaint about an A that actually happened (のに)?
 
 ## See also
+
+- [Concession & Contrast](/JapaneseNotes/grammar-index/concession-contrast) — のに(even though)／ても／が(but) — conceding a point or contrasting two facts.

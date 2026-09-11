@@ -77,3 +77,5 @@ Register: neutral
 The potential form itself carries no inherent politeness — it works in both casual (話せる) and polite (話せます) forms, with formality carried by the surrounding conjugation rather than by 可能形 itself.
 
 ## See also
+
+- [Verb Conjugation](/JapaneseNotes/grammar-index/verb-conjugation) — Mechanical verb form-building — how each form is constructed, not what it's used for.

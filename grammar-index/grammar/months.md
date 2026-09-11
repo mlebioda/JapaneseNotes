@@ -65,3 +65,5 @@ Register: neutral
 Month names and the か月 counter attach the same way regardless of formality — used identically in casual conversation and polite/formal speech.
 
 ## See also
+
+- [Counters & Numbers](/JapaneseNotes/grammar-index/counters-numbers) — Numbers, counters, and date/time-unit constructions.

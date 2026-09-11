@@ -54,3 +54,6 @@ Register: tiered
 - [1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**](/JapaneseNotes/grammar-index/grammar/sonkeikei-passive-form) — test: Are you making/letting someone perform an action (causative せる/させる), or respectfully describing what a superior does using the passive-shaped honorific (られる)?
 
 ## See also
+
+- [Passive & Causative](/JapaneseNotes/grammar-index/passive-causative) — 受身形／使役形 and the sentence patterns built on them.
+- [Verb Conjugation](/JapaneseNotes/grammar-index/verb-conjugation) — Mechanical verb form-building — how each form is constructed, not what it's used for.

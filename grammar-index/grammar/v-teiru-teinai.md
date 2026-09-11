@@ -45,3 +45,5 @@ The plain form 〜ている is the everyday/casual version, common in diary entr
 - [2. V「て形」いるところです - action in progress right now](/JapaneseNotes/grammar-index/grammar/tokoro-desu-teiru-form) — test: Does the sentence just describe an ongoing action/state generally, or specifically emphasize being caught right in the middle of it as a live status report?
 
 ## See also
+
+- [て-form Auxiliary Verbs](/JapaneseNotes/grammar-index/te-form-auxiliaries) — Auxiliary verbs built on て-form for direction and aspect — ていく／てくる／てみる／ておく／てある／ている・ていない.

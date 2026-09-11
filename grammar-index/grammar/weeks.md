@@ -41,3 +41,5 @@ Register: neutral
 - [間（あいだ）- between, during, among](/JapaneseNotes/grammar-index/grammar/aida-between-during-among) — test: Is 間 a bound suffix directly counting how many weeks something lasts (週間), or a standalone word marking the span/interval between two named points (AとBの間)?
 
 ## See also
+
+- [Counters & Numbers](/JapaneseNotes/grammar-index/counters-numbers) — Numbers, counters, and date/time-unit constructions.

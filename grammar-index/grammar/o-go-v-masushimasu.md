@@ -44,3 +44,5 @@ Humble register for offering or announcing something you do for a superior, cust
 - [お/ご V「ます形」ください - Respectful request form (尊敬語)](/JapaneseNotes/grammar-index/grammar/o-go-v-masukudasai-respectful-request-form) — test: Who acts — the speaker doing it for the listener (→ お・ご V「ます形」します), or the listener being asked to act (→ お/ご V「ます形」ください)?
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

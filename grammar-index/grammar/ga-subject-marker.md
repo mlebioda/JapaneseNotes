@@ -32,3 +32,5 @@ Register: neutral
 - [N1 は N2 が ADJ です — N2 is a trait/feature of N1](/JapaneseNotes/grammar-index/grammar/n1-ha-n2-ga-adj-desu-n2-is-a-trait-feature-of-n1) — test: Does が mark the sole subject of a simple N1が N2です sentence, or a second/embedded subject describing a trait of an already-topic-marked N1 (N1は N2が ADJです)?
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

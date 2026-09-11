@@ -44,3 +44,5 @@ Register: neutral
 - [ほしい - i want N](/JapaneseNotes/grammar-index/grammar/hoshii-i-want-n) — test: Do you want someone else to do it (てほしい), or do you want the thing/action yourself (ほしい／たい)?
 
 ## See also
+
+- [Decisions, Plans, Intentions & Desires](/JapaneseNotes/grammar-index/decisions-plans-intentions) — Deciding, planning, intending, wanting, and inviting someone along — こと(に)する/なる, つもり, 予定, ほしい, ましょう, etc.

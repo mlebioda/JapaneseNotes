@@ -29,3 +29,5 @@ Register: tiered (さん vs さま)
 さん is the everyday honorific title, fine with peers and acquaintances in generally polite speech; さま is more formal, reserved for customers, business correspondence, and people of clearly higher status. こちら／そちら／あちら／どちら are polite but not strictly sonkeigo — safe in most formal-leaning contexts.
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

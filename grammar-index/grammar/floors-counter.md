@@ -36,3 +36,5 @@ Register: neutral
 Used identically in casual and polite speech — this everyday counter carries no formality association of its own.
 
 ## See also
+
+- [Counters & Numbers](/JapaneseNotes/grammar-index/counters-numbers) — Numbers, counters, and date/time-unit constructions.

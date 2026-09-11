@@ -36,3 +36,6 @@ Register: neutral
 - [5.  Nは + なadj で - AND](/JapaneseNotes/grammar-index/grammar/naadj-de-and-connecting-adjectives) — test: Is the word being chained an い-adjective (→ くて), or a な-adjective/Noun (→ で)?
 
 ## See also
+
+- [Adjective Conjugation](/JapaneseNotes/grammar-index/adjective-conjugation) — い-adjective and な-adjective form-building and their noun-attachment patterns.
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.

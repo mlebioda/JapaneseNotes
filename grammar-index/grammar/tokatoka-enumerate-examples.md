@@ -49,3 +49,5 @@ Common in everyday spoken Japanese; avoided in formal writing or business contex
 - [Listing activities Vた り  ・・・します - two and more activities](/JapaneseNotes/grammar-index/grammar/tari) — test: Is this chaining full activities/states each in their own conjugated form, closed by します (たり), or picking a few illustrative example items from a set, often nouns (とか...とか)?
 
 ## See also
+
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.

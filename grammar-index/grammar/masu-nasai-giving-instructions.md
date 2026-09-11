@@ -40,3 +40,5 @@ Register: tiered
 - [V「て」もらえませんか, V「て」くれませんか](/JapaneseNotes/grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka) — test: Is this a firm instruction from a position of authority, or a favor-asking request phrased as a question?
 
 ## See also
+
+- [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — Asking or telling someone to do something, from direct imperatives to the most polite request forms.

@@ -41,3 +41,5 @@ Register: neutral
 Used across casual and polite speech; てみてください (asking someone else to try) is itself the polite request form, not a separate formality tier.
 
 ## See also
+
+- [て-form Auxiliary Verbs](/JapaneseNotes/grammar-index/te-form-auxiliaries) — Auxiliary verbs built on て-form for direction and aspect — ていく／てくる／てみる／ておく／てある／ている・ていない.

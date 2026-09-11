@@ -45,3 +45,5 @@ Used identically across casual and polite speech in both senses.
 - [～てくる, てきます - Action toward the speaker / returning to the starting point](/JapaneseNotes/grammar-index/grammar/tekuru-action-toward-speaker) — test: Does the action move away from the speaker (ていく), or toward the speaker / back to a starting point (てくる)?
 
 ## See also
+
+- [て-form Auxiliary Verbs](/JapaneseNotes/grammar-index/te-form-auxiliaries) — Auxiliary verbs built on て-form for direction and aspect — ていく／てくる／てみる／ておく／てある／ている・ていない.

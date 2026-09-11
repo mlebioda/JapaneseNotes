@@ -53,3 +53,5 @@ Register: neutral
 Both なります and します work in casual and polite speech alike; formality is carried by the conjugation of なる／する itself (plain vs です／ます), not by the construction.
 
 ## See also
+
+- [Decisions, Plans, Intentions & Desires](/JapaneseNotes/grammar-index/decisions-plans-intentions) — Deciding, planning, intending, wanting, and inviting someone along — こと(に)する/なる, つもり, 予定, ほしい, ましょう, etc.

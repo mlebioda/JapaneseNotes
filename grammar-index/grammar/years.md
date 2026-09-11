@@ -50,3 +50,5 @@ Register: tiered (casual, polite)
 今年は何年ですか is the polite (teineigo) form, appropriate with teachers, strangers, or in formal writing. Dropping です for 今年何年？ is casual, used with friends or family. The counting-duration sense (四年間) attaches the same way regardless of register.
 
 ## See also
+
+- [Counters & Numbers](/JapaneseNotes/grammar-index/counters-numbers) — Numbers, counters, and date/time-unit constructions.

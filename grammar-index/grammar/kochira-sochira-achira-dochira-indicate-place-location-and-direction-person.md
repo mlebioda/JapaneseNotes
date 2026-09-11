@@ -44,3 +44,5 @@ Used in business and customer-service settings — directing a guest or customer
 - [ここ、そこ、あそこ](/JapaneseNotes/grammar-index/grammar/koko-soko-asoko-indicate-physical-place-or-location) — test: are you in a casual conversation, or a formal/customer-facing one?
 
 ## See also
+
+- [Pronouns & Demonstratives](/JapaneseNotes/grammar-index/pronouns-demonstratives) — これ/それ/あれ series, だれか/どこか series, and person-reference pronouns.

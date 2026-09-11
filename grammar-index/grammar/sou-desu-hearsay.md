@@ -52,3 +52,5 @@ Register: tiered (polite: そうです; plain/casual: そうだ)
 - [そうです/そうだ - express an impression or inference based on direct observation - it looks](/JapaneseNotes/grammar-index/grammar/sou-desu-appearance-inference) — test: Is this reported hearsay from another source, attaching to the plain form (そう伝聞: 降るそうだ), or a direct visual impression of how something looks right now, attaching to the stem (そう様態: 降りそう)?
 
 ## See also
+
+- [Hearsay, Inference & Appearance](/JapaneseNotes/grammar-index/hearsay-inference-appearance) — そうです／らしい／よう／でしょう／はず — reporting what you heard, inferred, or how something appears.

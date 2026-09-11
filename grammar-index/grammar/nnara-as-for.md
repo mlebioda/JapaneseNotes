@@ -39,3 +39,5 @@ Fine in both casual and polite speech; でしたら／なら is a more formal va
 - [。。。なら。。。- if](/JapaneseNotes/grammar-index/grammar/nara-if) — test: Is なら here picking up a topic just mentioned to comment on it (→ topic-marking Nなら), or stating a hypothetical/conditional "if" (→ conditional なら)?
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

@@ -43,3 +43,6 @@ Register: tiered (polite / casual)
 - [interrogative V「た」ら + いいですか - ask for advice or instructions](/JapaneseNotes/grammar-index/grammar/interrogative-vtara-iidesuka-ask-for-advice-or-instructions) — test: Is this the たら-conditional version of "what should I do?" (たら, equally common and often more natural in speech), or the ば-conditional version (ば)?
 
 ## See also
+
+- [Conditionals](/JapaneseNotes/grammar-index/conditionals) — と／たら／ば／なら／場合は — the family of "if" constructions.
+- [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — Asking or telling someone to do something, from direct imperatives to the most polite request forms.

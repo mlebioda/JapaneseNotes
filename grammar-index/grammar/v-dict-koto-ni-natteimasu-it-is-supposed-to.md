@@ -47,3 +47,5 @@ Used across casual and formal speech alike — politeness comes from the sentenc
 - [V「plain」予定です（よてい）- plan, scheduled - fixed schedule regardless of the speaker intention](/JapaneseNotes/grammar-index/grammar/yotei-desu-plan-scheduled) — test: Is this a general established rule/routine arrangement (ことになっている), or a specific upcoming scheduled event (予定です)?
 
 ## See also
+
+- [Decisions, Plans, Intentions & Desires](/JapaneseNotes/grammar-index/decisions-plans-intentions) — Deciding, planning, intending, wanting, and inviting someone along — こと(に)する/なる, つもり, 予定, ほしい, ましょう, etc.

@@ -36,3 +36,5 @@ Register: neutral
 必要 conjugates like a standard な-adjective; formality is carried by the surrounding copula (です／だ), not by 必要 itself.
 
 ## See also
+
+- [Obligation, Permission & Prohibition](/JapaneseNotes/grammar-index/obligation-permission-prohibition) — Must/have to, may/can, and must-not patterns.

@@ -49,3 +49,5 @@ Politeness comes only from the copula attached after it — だ (casual) vs で�
 - [V「た」ばかり - action that just ended](/JapaneseNotes/grammar-index/grammar/ta-bakari) — test: Is this marking the exact instant an action finished (たところです), or that it happened somewhat recently, possibly a little while ago (たばかり)?
 
 ## See also
+
+- [Temporal Expressions](/JapaneseNotes/grammar-index/temporal-expressions) — とき／ながら／まで／ところ／ばかり and other time-relative clause, duration, and aspect-timing patterns.

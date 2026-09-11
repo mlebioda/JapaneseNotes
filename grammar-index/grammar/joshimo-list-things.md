@@ -49,3 +49,5 @@ Register: neutral
 The particle も carries no inherent politeness of its own — it attaches identically to plain or ます/です-form sentences at any speech level.
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

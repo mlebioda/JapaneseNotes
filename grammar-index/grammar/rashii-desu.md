@@ -53,3 +53,5 @@ Register: tiered (polite: らしいです; plain/casual: らしい)
 - [そうです/そうだ - express an impression or inference based on direct observation - it looks](/JapaneseNotes/grammar-index/grammar/sou-desu-appearance-inference) — test: Is this hearsay or a typical/stereotypical impression based on outside information (らしいです), or a direct visual impression from what the speaker can see right now (そう様態)?
 
 ## See also
+
+- [Hearsay, Inference & Appearance](/JapaneseNotes/grammar-index/hearsay-inference-appearance) — そうです／らしい／よう／でしょう／はず — reporting what you heard, inferred, or how something appears.

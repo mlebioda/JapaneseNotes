@@ -38,3 +38,5 @@ Register: neutral
 - [なくてはなりません・なければなりません - must, have to](/JapaneseNotes/grammar-index/grammar/nakutehanarimasen-nakerebanarimasen-must-have-to) — test: Is this an objective/factual necessity independent of any rule (必要がある) or an obligation/rule imposed on the subject (なければならない)?
 
 ## See also
+
+- [Obligation, Permission & Prohibition](/JapaneseNotes/grammar-index/obligation-permission-prohibition) — Must/have to, may/can, and must-not patterns.

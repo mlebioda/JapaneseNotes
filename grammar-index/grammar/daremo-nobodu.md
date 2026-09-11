@@ -30,3 +30,6 @@ Formality is carried entirely by the negative verb that follows; だれも itsel
 - [だれか - someone](/JapaneseNotes/grammar-index/grammar/dareka-someone) — test: Is the sentence negative (→ だれも), or affirmative (→ だれか)?
 
 ## See also
+
+- [Pronouns & Demonstratives](/JapaneseNotes/grammar-index/pronouns-demonstratives) — これ/それ/あれ series, だれか/どこか series, and person-reference pronouns.
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

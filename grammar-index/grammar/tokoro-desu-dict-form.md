@@ -49,3 +49,5 @@ Politeness comes only from the copula attached after it — だ (casual) vs で�
 - [V「て-form」くる / きた / いく — action continuing over time](/JapaneseNotes/grammar-index/grammar/te-kuru-kita-iku) — test: is the action about to begin right now (ところです), or will it keep continuing/building from now onward (ていく)?
 
 ## See also
+
+- [Temporal Expressions](/JapaneseNotes/grammar-index/temporal-expressions) — とき／ながら／まで／ところ／ばかり and other time-relative clause, duration, and aspect-timing patterns.

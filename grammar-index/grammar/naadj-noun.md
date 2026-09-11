@@ -36,3 +36,5 @@ All examples here use です/ではありません (polite tier); the same predi
 - [な形容詞 + Nouns](/JapaneseNotes/grammar-index/grammar/na-nouns) — test: Is the な-adjective ending the sentence as a predicate before です/か (→ no な), or directly modifying a following noun (→ add な)?
 
 ## See also
+
+- [Adjective Conjugation](/JapaneseNotes/grammar-index/adjective-conjugation) — い-adjective and な-adjective form-building and their noun-attachment patterns.

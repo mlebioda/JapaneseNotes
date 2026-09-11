@@ -29,6 +29,8 @@ Common in everyday narration of personal experience — works equally in casual 
 
 ## See also
 
+- [Passive & Causative](/JapaneseNotes/grammar-index/passive-causative) — 受身形／使役形 and the sentence patterns built on them.
+
 ## Examples
 
 - 電車（でんしゃ）の中（なか）で私（わたし）**は**となりの人（ひと）**に**足（あし）**を**ふまれました - The person next to me stepped on my foot on train

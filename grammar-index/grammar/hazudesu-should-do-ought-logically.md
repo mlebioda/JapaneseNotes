@@ -95,3 +95,5 @@ Register: neutral
 - [Vない＋なければなりません- I have to do](/JapaneseNotes/grammar-index/grammar/vnainakerebanarimasen-i-have-to-do) — test: Is this the speaker's confident logical expectation about a fact (→ はずです), or a rule/obligation the subject must follow (→ Vない＋なければなりません)?
 
 ## See also
+
+- [Hearsay, Inference & Appearance](/JapaneseNotes/grammar-index/hearsay-inference-appearance) — そうです／らしい／よう／でしょう／はず — reporting what you heard, inferred, or how something appears.

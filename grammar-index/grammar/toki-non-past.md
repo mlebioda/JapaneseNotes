@@ -68,3 +68,6 @@ Register: neutral
 - [間（あいだ）- between, during, among](/JapaneseNotes/grammar-index/grammar/aida-between-during-among) — test: Is this a general point in time when something happens (とき), or specifically marking that something happens at some point within a bounded span (間に)?
 
 ## See also
+
+- [Temporal Expressions](/JapaneseNotes/grammar-index/temporal-expressions) — とき／ながら／まで／ところ／ばかり and other time-relative clause, duration, and aspect-timing patterns.
+- [Nominalization & Relative Clauses](/JapaneseNotes/grammar-index/nominalization-relative-clauses) — の／こと-based nominalizers, and clauses that modify a noun (relative/subordinate clauses).

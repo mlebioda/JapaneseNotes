@@ -35,3 +35,5 @@ Register: neutral
 - [PにNがあります・います](/JapaneseNotes/grammar-index/grammar/p-ni-n-ga-arimasu-imasu-there-is-something-somewhere) — test: is the verb describing where something exists (に＋あります／います), or where an action takes place (で＋dynamic verb)?
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

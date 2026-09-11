@@ -37,3 +37,5 @@ Kenjougo (humble) — appropriate toward superiors, teachers, customers, and in 
 - [Vて形 + いただく（謙譲語）・くださる（尊敬語） - describing a favor received from a superior](/JapaneseNotes/grammar-index/grammar/te-form-itadaku-kudasaru-favor-received) — test: Is this asking someone to do something for you (→ ていただけませんか request), or describing a favor already received/given (→ いただく／くださる statement)?
 
 ## See also
+
+- [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — Asking or telling someone to do something, from direct imperatives to the most polite request forms.

@@ -39,3 +39,5 @@ Register: neutral
 すぎる／すぎます is used identically across casual and polite speech; formality comes from the plain/ます ending choice, not from this pattern itself.
 
 ## See also
+
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.

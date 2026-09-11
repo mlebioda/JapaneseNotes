@@ -31,3 +31,5 @@ Register: neutral
 Adjective type (い vs な) is a morphological classification, not a politeness distinction — both types appear at every formality tier; only the final copula (です／だ) carries the register.
 
 ## See also
+
+- [Adjective Conjugation](/JapaneseNotes/grammar-index/adjective-conjugation) — い-adjective and な-adjective form-building and their noun-attachment patterns.

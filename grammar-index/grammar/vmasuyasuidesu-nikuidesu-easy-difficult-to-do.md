@@ -35,3 +35,5 @@ The bare い-adjective (やすい, にくい) is the casual form. Adding です 
 - このパソコンは使(つか)いにくかった - This computer was hard to use
 
 ## See also
+
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.

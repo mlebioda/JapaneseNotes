@@ -45,3 +45,5 @@ Used across all politeness levels — よ itself carries no formality tier, thou
 - [ね - seeking approval](/JapaneseNotes/grammar-index/grammar/ne-seeking-approval) — test: Does the sentence seek agreement/confirm shared knowledge (→ ね), or present new information to the listener (→ よ)?
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

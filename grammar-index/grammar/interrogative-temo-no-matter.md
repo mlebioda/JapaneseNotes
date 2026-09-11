@@ -68,3 +68,5 @@ Register: neutral
 Used broadly across casual and polite speech — no inherent formality association.
 
 ## See also
+
+- [Concession & Contrast](/JapaneseNotes/grammar-index/concession-contrast) — のに(even though)／ても／が(but) — conceding a point or contrasting two facts.

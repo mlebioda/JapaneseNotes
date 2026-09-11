@@ -52,3 +52,5 @@ Register: neutral
 - [ADJ＋の - substitute of noun](/JapaneseNotes/grammar-index/grammar/adjno-substitute-of-noun) — test: Does the の turn a whole verb/adjective clause into a noun (歌うのが好きです), or stand in for an omitted noun that was already mentioned (白いの = "the white one")?
 
 ## See also
+
+- [Nominalization & Relative Clauses](/JapaneseNotes/grammar-index/nominalization-relative-clauses) — の／こと-based nominalizers, and clauses that modify a noun (relative/subordinate clauses).

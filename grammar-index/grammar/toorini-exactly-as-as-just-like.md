@@ -40,3 +40,5 @@ Register: neutral
 Used across all speech styles and registers; どおり (without の) is common in formal writing and official announcements, while のとおり is equally natural in spoken and written contexts — this is a stylistic/orthographic variant, not a politeness tier.
 
 ## See also
+
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.

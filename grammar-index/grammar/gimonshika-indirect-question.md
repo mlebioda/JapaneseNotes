@@ -54,3 +54,5 @@ Register: neutral
 - [かどうか - whether or not](/JapaneseNotes/grammar-index/grammar/kadouka-whether-or-not) — test: Is this a wh-word (だれ／いつ／どこ／いくら／何) embedded question (疑問詞...か), or a yes/no embedded question with no wh-word (かどうか)?
 
 ## See also
+
+- [Question Formation](/JapaneseNotes/grammar-index/question-formation) — どうして／どうやって／どんな／か／かどうか and other question-building patterns.

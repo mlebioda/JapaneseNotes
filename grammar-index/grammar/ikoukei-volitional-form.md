@@ -56,3 +56,5 @@ Register: tiered (plain / polite)
 Plain volitional (行こう, 食べよう) is the casual form used among friends and family. ましょう (ます-stem + ましょう) is the polite equivalent, used with strangers, in service contexts, or toward people outside one's in-group.
 
 ## See also
+
+- [Verb Conjugation](/JapaneseNotes/grammar-index/verb-conjugation) — Mechanical verb form-building — how each form is constructed, not what it's used for.

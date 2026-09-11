@@ -34,3 +34,5 @@ Register: neutral
 は and が are grammatical particles used at every formality tier — politeness is carried by the sentence's predicate/copula, not by the particle choice itself.
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

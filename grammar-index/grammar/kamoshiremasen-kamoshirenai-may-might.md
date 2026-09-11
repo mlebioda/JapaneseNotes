@@ -47,3 +47,5 @@ Register: tiered (polite: かもしれません; plain/casual: かもしれな�
 - [でしょう - seems / right](/JapaneseNotes/grammar-index/grammar/deshou-seems-right) — test: Is this possibility uncertain (かもしれません), or a more confident guess (でしょう)?
 
 ## See also
+
+- [Hearsay, Inference & Appearance](/JapaneseNotes/grammar-index/hearsay-inference-appearance) — そうです／らしい／よう／でしょう／はず — reporting what you heard, inferred, or how something appears.

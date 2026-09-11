@@ -37,3 +37,5 @@ Register: tiered
 - [て形＋はいけません - You must not do](/JapaneseNotes/grammar-index/grammar/tehaikemasen-must-not) — test: is the subject obligated to do something (なくてはいけません) or forbidden from doing it (てはいけません)?
 
 ## See also
+
+- [Obligation, Permission & Prohibition](/JapaneseNotes/grammar-index/obligation-permission-prohibition) — Must/have to, may/can, and must-not patterns.

@@ -35,3 +35,5 @@ Register: neutral
 Not politeness-restricted itself — works the same way whether the final verb is polite or plain, since only that final form carries the register.
 
 ## See also
+
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.

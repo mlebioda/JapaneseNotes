@@ -42,3 +42,5 @@ Register: tiered (polite / casual)
 - [V「plain」予定です（よてい）- plan, scheduled - fixed schedule regardless of the speaker intention](/JapaneseNotes/grammar-index/grammar/yotei-desu-plan-scheduled) — test: Is this the speaker's own personal resolution (つもりです), or a fixed schedule/arrangement independent of what the speaker wants (予定です)?
 
 ## See also
+
+- [Decisions, Plans, Intentions & Desires](/JapaneseNotes/grammar-index/decisions-plans-intentions) — Deciding, planning, intending, wanting, and inviting someone along — こと(に)する/なる, つもり, 予定, ほしい, ましょう, etc.

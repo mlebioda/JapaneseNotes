@@ -60,3 +60,6 @@ Respectful request register — signage and announcements, service staff address
 - [をください - please give me](/JapaneseNotes/grammar-index/grammar/wokudasai-please-give-me) — test: Are you respectfully asking the listener to perform an action (お/ご V「ます形」ください), or asking for a tangible object (N＋を＋ください)?
 
 ## See also
+
+- [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — Asking or telling someone to do something, from direct imperatives to the most polite request forms.
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

@@ -60,3 +60,5 @@ Register: neutral
 Stating a full date with 年／月／日 is register-neutral — the same construction is used in casual speech, polite speech, and formal writing.
 
 ## See also
+
+- [Counters & Numbers](/JapaneseNotes/grammar-index/counters-numbers) — Numbers, counters, and date/time-unit constructions.

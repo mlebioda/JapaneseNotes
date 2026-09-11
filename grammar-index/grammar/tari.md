@@ -45,3 +45,5 @@ Register: neutral
 - [とか...とか - enumerate examples of things, behaviors or actions](/JapaneseNotes/grammar-index/grammar/tokatoka-enumerate-examples) — test: Is this picking a few illustrative example items from a set, often nouns (とか...とか), or chaining full activities/states each in their own conjugated form, closed by します (たり)?
 
 ## See also
+
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.

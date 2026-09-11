@@ -27,3 +27,5 @@ Register: neutral
 The な attachment before N2 is register-neutral machinery — it applies the same whether the sentence ends in です (polite) or だ (plain).
 
 ## See also
+
+- [Adjective Conjugation](/JapaneseNotes/grammar-index/adjective-conjugation) — い-adjective and な-adjective form-building and their noun-attachment patterns.

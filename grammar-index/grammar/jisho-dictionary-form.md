@@ -37,3 +37,6 @@ Register: tiered (plain/casual 辞書形 — neutral-polite ます形 — respec
 - [ていねいけい vs ふつうけい - polite form vs plain form](/JapaneseNotes/grammar-index/grammar/teineikei-vs-futsuukei-polite-form-vs-plain-form) — test: are you asking specifically about a verb's plain citation form (辞書形), or the general plain-vs-polite contrast across verbs, adjectives, and nouns (ふつうけい vs ていねいけい)?
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.
+- [Verb Conjugation](/JapaneseNotes/grammar-index/verb-conjugation) — Mechanical verb form-building — how each form is constructed, not what it's used for.

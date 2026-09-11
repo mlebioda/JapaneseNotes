@@ -33,3 +33,5 @@ More formal than お・ご V「ます形」します — standard in the service
 - [お・ご V『ます形」します](/JapaneseNotes/grammar-index/grammar/o-go-v-masushimasu) — test: Extra-formal service/business context (→ いたします), or ordinary humble statement (→ します)?
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

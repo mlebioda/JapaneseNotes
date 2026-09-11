@@ -63,3 +63,5 @@ The てきた／てくる／ていく aspectual markers are register-neutral; po
 - [3. V「た形」ところです - action has just finished](/JapaneseNotes/grammar-index/grammar/tokoro-desu-ta-form) — test: did the action just finish this instant as a single completion point (たところです), or has it been gradually building up to reach this point (てきた)?
 
 ## See also
+
+- [Temporal Expressions](/JapaneseNotes/grammar-index/temporal-expressions) — とき／ながら／まで／ところ／ばかり and other time-relative clause, duration, and aspect-timing patterns.

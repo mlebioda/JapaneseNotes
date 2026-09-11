@@ -46,3 +46,5 @@ Register: neutral
 いっしょ(に) itself carries no register of its own — used in both polite and casual speech. Politeness comes from the verb that follows (いっしょに行きましょう is polite, いっしょに行こう is casual).
 
 ## See also
+
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.

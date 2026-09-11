@@ -29,3 +29,5 @@ Register: neutral
 Formality is carried entirely by the verb that follows; いつか itself does not change with politeness level.
 
 ## See also
+
+- [Pronouns & Demonstratives](/JapaneseNotes/grammar-index/pronouns-demonstratives) — これ/それ/あれ series, だれか/どこか series, and person-reference pronouns.

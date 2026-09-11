@@ -49,3 +49,5 @@ Register: tiered (casual / formal)
 - [V「て形」いらっしゃいます - Respectful (尊敬語) progressive/state form](/JapaneseNotes/grammar-index/grammar/vteirasshaimasu-respectful-progressive-state-form) — test: is this casual speech about anyone (drop the い: てる), or respectful/sonkeigo speech about a superior's actions (いらっしゃいます)?
 
 ## See also
+
+- [Verb Conjugation](/JapaneseNotes/grammar-index/verb-conjugation) — Mechanical verb form-building — how each form is constructed, not what it's used for.

@@ -53,3 +53,5 @@ Register: neutral
 A structural point about clause grammar, not a register-specific expression — it applies the same way regardless of how formal the surrounding sentence is.
 
 ## See also
+
+- [Nominalization & Relative Clauses](/JapaneseNotes/grammar-index/nominalization-relative-clauses) — の／こと-based nominalizers, and clauses that modify a noun (relative/subordinate clauses).

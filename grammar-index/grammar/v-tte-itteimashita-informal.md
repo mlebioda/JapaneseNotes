@@ -38,3 +38,5 @@ Register: tiered (casual: って言っていました; formal: と言ってい�
 This is the casual, informal-speech register — more common in spoken conversation. The formal counterpart, used in both speech and writing, is と言っていました (see v-plain-to-itteimashita).
 
 ## See also
+
+- [Hearsay, Inference & Appearance](/JapaneseNotes/grammar-index/hearsay-inference-appearance) — そうです／らしい／よう／でしょう／はず — reporting what you heard, inferred, or how something appears.

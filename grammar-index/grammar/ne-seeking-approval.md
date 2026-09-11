@@ -32,3 +32,5 @@ Register: neutral
 - [よ](/JapaneseNotes/grammar-index/grammar/yo) — test: Does the sentence present new information to the listener (→ よ), or seek agreement/confirm shared knowledge (→ ね)?
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

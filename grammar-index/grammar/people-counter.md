@@ -41,3 +41,5 @@ Used identically in casual and polite speech — this everyday counter carries n
 - [名 (めい) - counter for people (polite)](/JapaneseNotes/grammar-index/grammar/mei-counter-for-people-polite) — test: Are you speaking casually or with peers (→ 人 -にん), or in a formal/service context like a restaurant or reservation (→ 名 -めい)?
 
 ## See also
+
+- [Counters & Numbers](/JapaneseNotes/grammar-index/counters-numbers) — Numbers, counters, and date/time-unit constructions.

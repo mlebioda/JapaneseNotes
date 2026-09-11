@@ -41,3 +41,5 @@ Register: neutral
 - [Go Somewhere for a certain objective](/JapaneseNotes/grammar-index/grammar/go-somewhere-for-a-certain-objective) — test: Is に simply marking the destination of a motion verb (Place + に + V), or marking a purpose clause attached right before 行く／来る／帰る (V-stem/N + に + 行きます)?
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

@@ -46,3 +46,5 @@ Mid-tier sonkeigo — used toward superiors and customers when no dedicated spec
 - [1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**](/JapaneseNotes/grammar-index/grammar/sonkeikei-passive-form) — test: More careful respect toward a superior/customer (→ お＋ます形＋になる), or quick/casual respect (→ the られる passive-form pattern)?
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

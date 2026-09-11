@@ -49,3 +49,5 @@ Plain か…か (used before わかりません／決めていません) is regi
 - [かどうか - whether or not](/JapaneseNotes/grammar-index/grammar/kadouka-whether-or-not) — test: Is this presenting two specific concrete alternatives to choose between (か…か), or asking about the truth of a single yes/no proposition (かどうか)?
 
 ## See also
+
+- [Question Formation](/JapaneseNotes/grammar-index/question-formation) — どうして／どうやって／どんな／か／かどうか and other question-building patterns.

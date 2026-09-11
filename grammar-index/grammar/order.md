@@ -26,3 +26,5 @@ Register: neutral
 A structural word-order tendency, not tied to formality — it applies equally in polite and plain speech, since the underlying rule (particles mark grammatical role, not position) holds regardless of register.
 
 ## See also
+
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.

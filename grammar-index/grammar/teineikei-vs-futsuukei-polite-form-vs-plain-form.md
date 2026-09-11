@@ -76,3 +76,5 @@ Register: tiered (plain ふつうけい → polite ていねいけい → super-
 - [ます形 - masu form](/JapaneseNotes/grammar-index/grammar/masu-form) — test: are you asking specifically about a verb's polite conjugation (ます形), or the general plain-vs-polite contrast across verbs, adjectives, and nouns (ていねいけい vs ふつうけい)?
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

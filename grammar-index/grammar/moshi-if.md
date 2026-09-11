@@ -40,3 +40,5 @@ Register: neutral
 - [。。。場合は, 。。。 - in case of, if](/JapaneseNotes/grammar-index/grammar/baai-in-case-of-if) — test: Are you flagging general hypothetical uncertainty before a ば/たら/なら clause (もし), or describing a specific circumstantial case, often in formal/procedural contexts (場合は)?
 
 ## See also
+
+- [Conditionals](/JapaneseNotes/grammar-index/conditionals) — と／たら／ば／なら／場合は — the family of "if" constructions.

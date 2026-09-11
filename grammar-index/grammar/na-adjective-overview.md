@@ -71,3 +71,5 @@ The forms shown here (です／ではありません／でした etc.) are the �
 - [い形容詞](/JapaneseNotes/grammar-index/grammar/i-adjective-conjugation) — test: Does the adjective's negative form take くない (→ い-adjective), or じゃありません／ではありません (→ な-adjective)?
 
 ## See also
+
+- [Adjective Conjugation](/JapaneseNotes/grammar-index/adjective-conjugation) — い-adjective and な-adjective form-building and their noun-attachment patterns.

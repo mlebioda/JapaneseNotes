@@ -34,3 +34,5 @@ Register: neutral
 - [だれも - nobodu](/JapaneseNotes/grammar-index/grammar/daremo-nobodu) — test: Is the sentence affirmative (→ だれか), or negative (→ だれも)?
 
 ## See also
+
+- [Pronouns & Demonstratives](/JapaneseNotes/grammar-index/pronouns-demonstratives) — これ/それ/あれ series, だれか/どこか series, and person-reference pronouns.

@@ -135,3 +135,6 @@ Used across all social registers — ば itself doesn't mark politeness toward a
 - [V dict + と - if](/JapaneseNotes/grammar-index/grammar/v-dict-to-if) — test: Can the result be a hypothetical wish/request (ば), or must it be an automatic, non-volitional natural consequence (と)?
 
 ## See also
+
+- [Conditionals](/JapaneseNotes/grammar-index/conditionals) — と／たら／ば／なら／場合は — the family of "if" constructions.
+- [Verb Conjugation](/JapaneseNotes/grammar-index/verb-conjugation) — Mechanical verb form-building — how each form is constructed, not what it's used for.

@@ -47,3 +47,5 @@ Politeness comes only from the copula attached after it — だ (casual) vs で�
 - [ている - show state](/JapaneseNotes/grammar-index/grammar/teiru-show-state) — test: is this specifically emphasizing the action is happening at this very moment (ているところです) or simply an ongoing/habitual action or resulting state (ている)?
 
 ## See also
+
+- [Temporal Expressions](/JapaneseNotes/grammar-index/temporal-expressions) — とき／ながら／まで／ところ／ばかり and other time-relative clause, duration, and aspect-timing patterns.

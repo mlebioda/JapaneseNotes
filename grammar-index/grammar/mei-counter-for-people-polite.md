@@ -53,3 +53,5 @@ Used by restaurant/service staff, in reservations, and at ceremonies — the for
 - [People](/JapaneseNotes/grammar-index/grammar/people-counter) — test: Are you speaking casually or with peers (→ 人 -にん), or in a formal/service context like a restaurant or reservation (→ 名 -めい)?
 
 ## See also
+
+- [Counters & Numbers](/JapaneseNotes/grammar-index/counters-numbers) — Numbers, counters, and date/time-unit constructions.

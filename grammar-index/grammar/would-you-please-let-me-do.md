@@ -43,3 +43,6 @@ Register: tiered
 - [V「て」もらえませんか, V「て」くれませんか](/JapaneseNotes/grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka) — test: Are you asking permission to do something yourself (causative-based), or asking someone else to act on your behalf?
 
 ## See also
+
+- [Passive & Causative](/JapaneseNotes/grammar-index/passive-causative) — 受身形／使役形 and the sentence patterns built on them.
+- [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — Asking or telling someone to do something, from direct imperatives to the most polite request forms.

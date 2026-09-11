@@ -61,3 +61,5 @@ Register: polite-context typical
 - [かもしれません・かもしれない - may/might](/JapaneseNotes/grammar-index/grammar/kamoshiremasen-kamoshirenai-may-might) — test: Is the speaker fairly confident in this guess (でしょう), or presenting it as an uncertain possibility (かもしれません)?
 
 ## See also
+
+- [Hearsay, Inference & Appearance](/JapaneseNotes/grammar-index/hearsay-inference-appearance) — そうです／らしい／よう／でしょう／はず — reporting what you heard, inferred, or how something appears.

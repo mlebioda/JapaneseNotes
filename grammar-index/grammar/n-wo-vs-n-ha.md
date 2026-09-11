@@ -42,3 +42,5 @@ Used identically in casual and polite speech — the choice between を and は 
 - [は - marks a phrase (already carrying another particle) as a contrastive topic](/JapaneseNotes/grammar-index/grammar/ha-contrastive-topic-marker) — test: Is は replacing a bare subject/object marker (が／を) entirely, or stacking onto a particle that marks place/time/direction (に／で／から／まで／へ)?
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

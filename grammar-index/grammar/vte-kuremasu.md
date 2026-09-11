@@ -38,3 +38,5 @@ Register: tiered (plain: くれる; respectful: くださる)
 - [Vて形 + いただく（謙譲語）・くださる（尊敬語） - describing a favor received from a superior](/JapaneseNotes/grammar-index/grammar/te-form-itadaku-kudasaru-favor-received) — test: Is this the plain-register くれる statement, or the sonkeigo くださる statement used for a superior?
 
 ## See also
+
+- [Giving & Receiving](/JapaneseNotes/grammar-index/giving-receiving) — あげる／もらう／くれる grammar patterns for the direction of a favor or gift.

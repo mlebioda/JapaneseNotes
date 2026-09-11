@@ -52,3 +52,5 @@ Register: neutral
 なる and なります carry no fixed politeness of their own — plain なる (casual) alternates with polite なります (polite) in exactly the same contexts as any other verb, with no change to よう or the preceding verb form.
 
 ## See also
+
+- [Decisions, Plans, Intentions & Desires](/JapaneseNotes/grammar-index/decisions-plans-intentions) — Deciding, planning, intending, wanting, and inviting someone along — こと(に)する/なる, つもり, 予定, ほしい, ましょう, etc.

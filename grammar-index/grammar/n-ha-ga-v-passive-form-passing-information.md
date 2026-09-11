@@ -39,3 +39,5 @@ Register: polite-context typical
 Typical of formal or written Japanese — news reports, historical accounts, reference texts — where the agent doesn't matter and a neutral, objective tone is wanted. Less common in casual spoken narration, which tends to prefer active voice or naming the agent directly.
 
 ## See also
+
+- [Passive & Causative](/JapaneseNotes/grammar-index/passive-causative) — 受身形／使役形 and the sentence patterns built on them.

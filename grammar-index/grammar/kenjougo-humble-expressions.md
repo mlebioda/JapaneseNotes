@@ -38,3 +38,5 @@ Register: polite-context typical
 Kenjougo vocabulary lowers the speaker's own actions/status to indirectly show respect — used in business, service, and formal speech toward superiors and outsiders.
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

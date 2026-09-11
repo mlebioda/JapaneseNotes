@@ -49,3 +49,5 @@ Register: tiered (polite via です／ですか, plain/casual by dropping です
 - [1. な形容詞　な　overview](/JapaneseNotes/grammar-index/grammar/na-adjective-overview) — test: Does the adjective's negative form take くない (→ い-adjective), or じゃありません／ではありません (→ な-adjective)?
 
 ## See also
+
+- [Adjective Conjugation](/JapaneseNotes/grammar-index/adjective-conjugation) — い-adjective and な-adjective form-building and their noun-attachment patterns.

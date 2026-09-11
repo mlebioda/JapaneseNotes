@@ -35,3 +35,5 @@ Register: neutral
 Used for descriptive statements about production or composition in both casual conversation and formal contexts (product descriptions, museum placards) — the register comes from the surrounding sentence, not this pattern itself.
 
 ## See also
+
+- [Passive & Causative](/JapaneseNotes/grammar-index/passive-causative) — 受身形／使役形 and the sentence patterns built on them.

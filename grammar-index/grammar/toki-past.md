@@ -43,3 +43,6 @@ Register: neutral
 - [A....とき...B - while A, B](/JapaneseNotes/grammar-index/grammar/toki-non-past) — test: Does B happen around or before A completes, general "when" (Vとき), or specifically after A is complete (Vたとき)?
 
 ## See also
+
+- [Temporal Expressions](/JapaneseNotes/grammar-index/temporal-expressions) — とき／ながら／まで／ところ／ばかり and other time-relative clause, duration, and aspect-timing patterns.
+- [Nominalization & Relative Clauses](/JapaneseNotes/grammar-index/nominalization-relative-clauses) — の／こと-based nominalizers, and clauses that modify a noun (relative/subordinate clauses).

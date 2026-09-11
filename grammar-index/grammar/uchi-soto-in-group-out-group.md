@@ -45,3 +45,5 @@ Register: tiered (尊敬語 for ソト-facing referents; 謙譲語 for ウチ re
 Not a pattern itself but the selection rule for keigo direction: honor ソト people, speak humbly about your own ウチ side — including in-group superiors — whenever a ソト listener is involved.
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

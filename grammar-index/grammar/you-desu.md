@@ -73,3 +73,5 @@ Register: neutral
 - [そうです/そうだ - express an impression or inference based on direct observation - it looks](/JapaneseNotes/grammar-index/grammar/sou-desu-appearance-inference) — test: Is this an inference from indirect evidence, reasoning, or general knowledge (ようです), or a direct, immediate visual impression from what the speaker sees right now (そう様態)?
 
 ## See also
+
+- [Hearsay, Inference & Appearance](/JapaneseNotes/grammar-index/hearsay-inference-appearance) — そうです／らしい／よう／でしょう／はず — reporting what you heard, inferred, or how something appears.

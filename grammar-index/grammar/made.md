@@ -37,3 +37,5 @@ Register: neutral
 - [を 過ぎる（す）- to pass somewhere and further go ahead/ time](/JapaneseNotes/grammar-index/grammar/wo-sugiru-to-pass-time) — test: Does the action stop at/extend up to the given point (まで), or does it cross past that point and continue beyond (を過ぎる)?
 
 ## See also
+
+- [Counters & Numbers](/JapaneseNotes/grammar-index/counters-numbers) — Numbers, counters, and date/time-unit constructions.

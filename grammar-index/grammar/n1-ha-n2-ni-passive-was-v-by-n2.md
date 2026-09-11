@@ -35,3 +35,5 @@ Register: neutral
 Used in both casual and polite speech — the passive verb ending (plain or ます-form) tracks the surrounding register, not the pattern itself.
 
 ## See also
+
+- [Passive & Causative](/JapaneseNotes/grammar-index/passive-causative) — 受身形／使役形 and the sentence patterns built on them.

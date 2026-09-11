@@ -36,3 +36,5 @@ Register: neutral
 - [で - where the action will take place](/JapaneseNotes/grammar-index/grammar/de-where-the-action-will-take-place) — test: Does で mark the tool/method used (で-means), or the place where the action happens (で-location)?
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

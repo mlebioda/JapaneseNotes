@@ -40,3 +40,5 @@ Both particles are register-neutral; formality comes entirely from the verb endi
 - [N＋だけ - only N](/JapaneseNotes/grammar-index/grammar/ndake-only-n) — test: Does the sentence use a negative verb (only しか works — 一人しかいません) or an affirmative verb (only だけ works — 一人だけいます)?
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

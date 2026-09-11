@@ -26,3 +26,5 @@ Register: neutral
 は is used at every formality tier; the sentence's politeness comes from its predicate (です／だ), not from は itself.
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

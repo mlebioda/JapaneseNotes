@@ -32,3 +32,5 @@ Register: tiered (casual: なんで; direct/neutral: どうして; formal/carefu
 どうして alone can sound a bit direct or like demanding a reason; なんで is more casual still; どうしてですか and なぜですか are the more careful, formal ways to ask "why."
 
 ## See also
+
+- [Question Formation](/JapaneseNotes/grammar-index/question-formation) — どうして／どうやって／どんな／か／かどうか and other question-building patterns.

@@ -44,3 +44,5 @@ Used identically in casual and polite speech — this native counting series car
 - [Numbers](/JapaneseNotes/grammar-index/grammar/numbers-0-100000000) — test: Are you counting objects generically without a specific counter word (→ native series ひとつ〜とお), or just stating/reading a number itself, like a phone number or math answer (→ いち, に, さん...)?
 
 ## See also
+
+- [Counters & Numbers](/JapaneseNotes/grammar-index/counters-numbers) — Numbers, counters, and date/time-unit constructions.

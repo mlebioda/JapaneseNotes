@@ -57,3 +57,5 @@ Register: neutral
 Transitivity is a lexical property of the verb pair itself, not a politeness marker — either member of a pair can be conjugated in polite (ます) or plain form depending on context.
 
 ## See also
+
+- [Verb Conjugation](/JapaneseNotes/grammar-index/verb-conjugation) — Mechanical verb form-building — how each form is constructed, not what it's used for.

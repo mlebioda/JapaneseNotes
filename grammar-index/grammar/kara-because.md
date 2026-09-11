@@ -49,3 +49,5 @@ Register: neutral
 - [。。。ので - because](/JapaneseNotes/grammar-index/grammar/node-because) — test: Is this a direct/subjective reason the speaker could state standing alone (→ から), or a softer, more objective-sounding reason (→ ので)?
 
 ## See also
+
+- [Purpose, Reason & Cause](/JapaneseNotes/grammar-index/purpose-reason-cause) — から／ので／んです and ために／ように／のに(purpose) — explaining why or what for.

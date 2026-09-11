@@ -50,3 +50,5 @@ Register: tiered (neutral-to-formal: なければなりません; casual: なき
 - [V「て形」はいけません - is forbidden to do something](/JapaneseNotes/grammar-index/grammar/v-tewa-ikemasen-forbidden) — test: Is the subject obligated to do something (→ なければなりません), or forbidden from doing something (→ てはいけません)?
 
 ## See also
+
+- [Obligation, Permission & Prohibition](/JapaneseNotes/grammar-index/obligation-permission-prohibition) — Must/have to, may/can, and must-not patterns.

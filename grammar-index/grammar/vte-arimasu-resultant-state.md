@@ -41,3 +41,5 @@ Used identically in speech and writing; describing a resultant state carries no 
 - [V「て形」＋おきます - V continues without any changes, leave](/JapaneseNotes/grammar-index/grammar/v-te-okimasu) — test: Is this describing the resulting state from someone's prior deliberate action, agent usually unstated (→ てある), or a deliberate action done now for future benefit, agent in focus (→ ておく)?
 
 ## See also
+
+- [て-form Auxiliary Verbs](/JapaneseNotes/grammar-index/te-form-auxiliaries) — Auxiliary verbs built on て-form for direction and aspect — ていく／てくる／てみる／ておく／てある／ている・ていない.

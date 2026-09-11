@@ -35,3 +35,5 @@ Register: neutral
 どんな carries no formality tier of its own; politeness is set by the following copula (どんな…ですか vs plain どんな…?).
 
 ## See also
+
+- [Question Formation](/JapaneseNotes/grammar-index/question-formation) — どうして／どうやって／どんな／か／かどうか and other question-building patterns.

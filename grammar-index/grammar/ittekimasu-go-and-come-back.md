@@ -33,3 +33,5 @@ Register: tiered (casual/neutral, 謙譲語)
 行ってきます is casual/neutral, used with family, friends, and coworkers of equal standing. Its 謙譲語 (humble) counterpart 行って参ります is used when leaving in front of a superior, client, or in a formal workplace setting.
 
 ## See also
+
+- [て-form Auxiliary Verbs](/JapaneseNotes/grammar-index/te-form-auxiliaries) — Auxiliary verbs built on て-form for direction and aspect — ていく／てくる／てみる／ておく／てある／ている・ていない.

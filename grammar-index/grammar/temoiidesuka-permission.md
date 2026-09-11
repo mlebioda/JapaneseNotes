@@ -40,3 +40,5 @@ Polite (です copula) — fine for everyday polite speech. Casual equivalent dr
 - [て形＋はいけません - You must not do](/JapaneseNotes/grammar-index/grammar/tehaikemasen-must-not) — test: is the action allowed (てもいいです) or forbidden (てはいけません)?
 
 ## See also
+
+- [Obligation, Permission & Prohibition](/JapaneseNotes/grammar-index/obligation-permission-prohibition) — Must/have to, may/can, and must-not patterns.

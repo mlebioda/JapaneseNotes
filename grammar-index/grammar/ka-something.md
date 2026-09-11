@@ -32,3 +32,5 @@ Formality is carried entirely by the verb that follows; 何か itself does not c
 - [何も - nothing](/JapaneseNotes/grammar-index/grammar/mo-nothing) — test: Is the sentence affirmative (→ 何か), or negative (→ 何も)?
 
 ## See also
+
+- [Pronouns & Demonstratives](/JapaneseNotes/grammar-index/pronouns-demonstratives) — これ/それ/あれ series, だれか/どこか series, and person-reference pronouns.

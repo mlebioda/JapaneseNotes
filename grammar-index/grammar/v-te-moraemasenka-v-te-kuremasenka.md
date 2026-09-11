@@ -50,3 +50,5 @@ Register: tiered (casual → neutral-polite → formal)
 - [Vて いただけませんか - polite requests. Politer than てください](/JapaneseNotes/grammar-index/grammar/itadakemasenka-polite-request) — test: Is this the neutral-polite もらえませんか／くれませんか used in everyday requests, or the extra-polite kenjougo escalation (ていただけませんか)?
 
 ## See also
+
+- [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — Asking or telling someone to do something, from direct imperatives to the most polite request forms.

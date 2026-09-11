@@ -50,3 +50,6 @@ The で/くて chaining mechanics apply the same in casual and polite speech; on
 - [But  - ...  が ....](/JapaneseNotes/grammar-index/grammar/contrastive-ga-but) — test: Is だ dropped (→ で, meaning "and"), or kept before が (→ だが, meaning "but")?
 
 ## See also
+
+- [Adjective Conjugation](/JapaneseNotes/grammar-index/adjective-conjugation) — い-adjective and な-adjective form-building and their noun-attachment patterns.
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.

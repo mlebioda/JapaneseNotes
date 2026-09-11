@@ -61,3 +61,6 @@ The passive conjugation itself carries no inherent politeness value — it combi
 - [1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**](/JapaneseNotes/grammar-index/grammar/sonkeikei-passive-form) — test: Is the subject receiving the action from someone else (passive), or is the subject a superior whose own action is being described respectfully using the same られる shape (honorific)?
 
 ## See also
+
+- [Passive & Causative](/JapaneseNotes/grammar-index/passive-causative) — 受身形／使役形 and the sentence patterns built on them.
+- [Verb Conjugation](/JapaneseNotes/grammar-index/verb-conjugation) — Mechanical verb form-building — how each form is constructed, not what it's used for.

@@ -48,3 +48,5 @@ Used in speech and writing, formality carried by V2's conjugation. A more litera
 - [A....とき...B - while A, B](/JapaneseNotes/grammar-index/grammar/toki-non-past) — test: Must both actions happen simultaneously by the same subject (ながら), or is this a general "when" with no simultaneity or same-subject requirement (とき)?
 
 ## See also
+
+- [Temporal Expressions](/JapaneseNotes/grammar-index/temporal-expressions) — とき／ながら／まで／ところ／ばかり and other time-relative clause, duration, and aspect-timing patterns.

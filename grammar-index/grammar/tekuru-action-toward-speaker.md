@@ -47,3 +47,5 @@ Used identically across casual and polite speech in both senses.
 - [～ていく／～て行きます Action moves away from the speaker](/JapaneseNotes/grammar-index/grammar/teiku-action-away-from-speaker) — test: Does the action move toward the speaker or back to a starting point (てくる), or away from the speaker (ていく)?
 
 ## See also
+
+- [て-form Auxiliary Verbs](/JapaneseNotes/grammar-index/te-form-auxiliaries) — Auxiliary verbs built on て-form for direction and aspect — ていく／てくる／てみる／ておく／てある／ている・ていない.

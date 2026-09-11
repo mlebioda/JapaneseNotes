@@ -50,3 +50,5 @@ Register: tiered (casual / standard)
 - [V「なくて」はいけません - must to do something](/JapaneseNotes/grammar-index/grammar/v-nakute-ha-ikemasen-must) — test: Is this a more formal, rule-like obligation (なければなりません／なくてはなりません), or a personal/subjective sense of obligation common in casual speech (なくてはいけません)?
 
 ## See also
+
+- [Obligation, Permission & Prohibition](/JapaneseNotes/grammar-index/obligation-permission-prohibition) — Must/have to, may/can, and must-not patterns.

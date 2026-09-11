@@ -53,3 +53,5 @@ Register: polite-context typical
 Marks nouns, adjectives, and some verbs as belonging to or describing the listener or a respected third party — used in polite/business speech toward superiors and customers, not with casual peers.
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

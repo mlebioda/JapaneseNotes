@@ -43,3 +43,5 @@ Register: neutral
 - [の中で一番 best among](/JapaneseNotes/grammar-index/grammar/node-best-among) — test: Are you comparing exactly two things (どちら／のほうが), or picking the best among three or more (一番)?
 
 ## See also
+
+- [Comparison](/JapaneseNotes/grammar-index/comparison) — より／ほうが／一番 and related comparative constructions.

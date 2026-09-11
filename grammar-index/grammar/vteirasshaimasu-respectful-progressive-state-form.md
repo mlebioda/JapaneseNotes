@@ -39,3 +39,5 @@ Honorific register for describing the ongoing actions or state of a customer, su
 - [ている → てる / ていた → てた (casual contraction)](/JapaneseNotes/grammar-index/grammar/teiru-teru-teita-teta-casual-contraction) — test: is this respectful/sonkeigo speech about a superior's actions (いらっしゃいます), or casual speech about anyone (drop the い: てる)?
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

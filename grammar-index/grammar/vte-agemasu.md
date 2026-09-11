@@ -41,3 +41,5 @@ Register: tiered (plain: あげる; humble: さしあげる)
 - [Vて形 + もらいます - somebody helped you with something that you asked to do](/JapaneseNotes/grammar-index/grammar/vte-moraimasu) — test: Is the giver the grammatical subject doing the action (→ あげます), or is the receiver the subject, having asked for the favor (→ もらいます)?
 
 ## See also
+
+- [Giving & Receiving](/JapaneseNotes/grammar-index/giving-receiving) — あげる／もらう／くれる grammar patterns for the direction of a favor or gift.

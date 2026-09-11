@@ -31,3 +31,6 @@ Works identically in plain and polite speech; only the verb ending changes forma
 - [どこか - somewhere, anywhere](/JapaneseNotes/grammar-index/grammar/dokoka-somewhere-anywhere) — test: Is the sentence negative (→ どこも/どこへも), or affirmative (→ どこか)?
 
 ## See also
+
+- [Pronouns & Demonstratives](/JapaneseNotes/grammar-index/pronouns-demonstratives) — これ/それ/あれ series, だれか/どこか series, and person-reference pronouns.
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).

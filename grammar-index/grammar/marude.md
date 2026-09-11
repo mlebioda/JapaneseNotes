@@ -45,3 +45,5 @@ Register: neutral
 - [...ようです](/JapaneseNotes/grammar-index/grammar/you-desu) — test: Are you emphasizing total, complete resemblance, or just stating a general impression of similarity without added emphasis?
 
 ## See also
+
+- [Hearsay, Inference & Appearance](/JapaneseNotes/grammar-index/hearsay-inference-appearance) — そうです／らしい／よう／でしょう／はず — reporting what you heard, inferred, or how something appears.

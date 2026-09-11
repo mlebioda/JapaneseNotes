@@ -60,3 +60,5 @@ Register: neutral
 - [て形 + 欲(ほ)しいです - I want someone (else) to do something](/JapaneseNotes/grammar-index/grammar/te-form-hoshii-desu) — test: Do you want the thing/action yourself (ほしい／たい), or do you want someone else to do it (てほしい)?
 
 ## See also
+
+- [Decisions, Plans, Intentions & Desires](/JapaneseNotes/grammar-index/decisions-plans-intentions) — Deciding, planning, intending, wanting, and inviting someone along — こと(に)する/なる, つもり, 予定, ほしい, ましょう, etc.

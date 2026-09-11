@@ -37,3 +37,5 @@ Register: polite-context typical
 - [PにNがあります・います](/JapaneseNotes/grammar-index/grammar/p-ni-n-ga-arimasu-imasu-there-is-something-somewhere) — test: is the noun an already-known topic (は), or new information being introduced for the first time (が)?
 
 ## See also
+
+- [Existence, Location & Direction](/JapaneseNotes/grammar-index/existence-location-direction) — あります／います, へ／に, and 場所+に direction/destination patterns.

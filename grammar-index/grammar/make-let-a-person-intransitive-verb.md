@@ -43,3 +43,5 @@ Register: tiered
 - [Make/let a person transitive verb](/JapaneseNotes/grammar-index/grammar/make-let-a-person-transitive-verb) — test: Is the causee just acting with no separate object (intransitive verb → causee marked を/に directly), or also acting upon a separate thing (transitive verb → causee marked に, object marked を)?
 
 ## See also
+
+- [Passive & Causative](/JapaneseNotes/grammar-index/passive-causative) — 受身形／使役形 and the sentence patterns built on them.

@@ -39,3 +39,5 @@ Register: neutral
 台 is a plain counter word with no politeness association — used identically in casual conversation, business speech, and writing.
 
 ## See also
+
+- [Counters & Numbers](/JapaneseNotes/grammar-index/counters-numbers) — Numbers, counters, and date/time-unit constructions.

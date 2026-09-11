@@ -50,3 +50,5 @@ Both are formal/polite-context constructions, but pick opposite grammatical view
 - [Vて形 + もらいます - somebody helped you with something that you asked to do](/JapaneseNotes/grammar-index/grammar/vte-moraimasu) — test: Is this the kenjougo いただく statement used for a superior, or the plain-register もらう statement?
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

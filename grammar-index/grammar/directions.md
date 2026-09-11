@@ -36,3 +36,5 @@ Register: neutral
 右／左／前／後ろ and the 側 suffix are register-neutral vocabulary, used the same way in casual and polite speech.
 
 ## See also
+
+- [Existence, Location & Direction](/JapaneseNotes/grammar-index/existence-location-direction) — あります／います, へ／に, and 場所+に direction/destination patterns.

@@ -73,3 +73,6 @@ Register: tiered (neutral-to-formal が, casual けど, formal けれども／�
 - [Nは + なadj で - AND](/JapaneseNotes/grammar-index/grammar/naadj-de-and-connecting-adjectives) — test: Is だ dropped (→ で, meaning "and"), or kept before が (→ だが, meaning "but")?
 
 ## See also
+
+- [Particles](/JapaneseNotes/grammar-index/particles) — Standalone particle usage not covered by a more specific container (が／は／を／で／に／しか・だけ／も／ね／よ, etc.).
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.

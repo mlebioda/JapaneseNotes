@@ -36,3 +36,5 @@ Register: tiered (casual どう, neutral-polite どうですか, formal いか�
 どう drops ですか for casual speech with friends; どうですか is the everyday neutral-polite form; いかがですか is more formal, typical in customer-service or business contexts.
 
 ## See also
+
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.

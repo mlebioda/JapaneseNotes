@@ -32,3 +32,5 @@ Register: neutral
 Used across all politeness levels.
 
 ## See also
+
+- [Counters & Numbers](/JapaneseNotes/grammar-index/counters-numbers) — Numbers, counters, and date/time-unit constructions.

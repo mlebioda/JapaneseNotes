@@ -70,3 +70,5 @@ The highest, default tier of sonkeigo verb formation — always preferred over �
 - [1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**](/JapaneseNotes/grammar-index/grammar/sonkeikei-passive-form) — test: Is there no dedicated special verb for this action (→ this られる pattern), or does one exist (→ use it)?
 
 ## See also
+
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — The politeness/formality system — teineigo, sonkeigo, kenjougo, keigo verb forms, and register-driven word/particle choices.

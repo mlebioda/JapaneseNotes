@@ -40,3 +40,5 @@ Register: tiered
 - Question form: どういう意味ですか (common/neutral) vs どのような意味ですか (more formal/descriptive).
 
 ## See also
+
+- [Manner, Degree & Listing](/JapaneseNotes/grammar-index/manner-degree-listing) — すぎる／やすい・にくい／少し・あまり・全然, 通りに, たり／とか listing patterns, and related sentence-connector odds and ends.
