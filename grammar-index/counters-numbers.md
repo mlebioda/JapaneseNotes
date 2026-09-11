@@ -15,7 +15,6 @@
 - [杯 (はい/ぱい/ばい) - number of cups/glasses of liquid](/JapaneseNotes/grammar-index/grammar/hai-pai-bai-number-of-cups-glasses-of-liquid) · N5
 - [本（ほん）- long items](/JapaneseNotes/grammar-index/grammar/hon-long-items) · N5
 - [冊　（さつ) - number of books](/JapaneseNotes/grammar-index/grammar/satsu-number-of-books) · N5
-- [台（だい) - machines and vehicles](/JapaneseNotes/grammar-index/grammar/dai-machines-and-vehicles) · N5
 - [皿（さら) - dishes](/JapaneseNotes/grammar-index/grammar/sara-dishes) · N4
 - [Ogólny  sposób  liczenia (1-10)](/JapaneseNotes/grammar-index/grammar/general-counting-method-1-10) · N5
 - [個 (こ) - small things counter](/JapaneseNotes/grammar-index/grammar/ko-small-things-counter) · N5

@@ -5,6 +5,7 @@ topic_slug: ["hearsay-reported-speech", "communication-verbs"]
 function: ["hearsay-appearance"]
 level: N4
 register: polite
+confused_with: ["sou-desu-hearsay", "rashii-desu"]
 proofread: true
 ---
 
@@ -34,10 +35,24 @@ proofread: true
 - 部長(ぶちょう)は佐藤(さとう)くんが真面目(まじめ)だと言(い)っていました。 - The manager said that Mr. Sato is diligent.
 - ワンさんは明日(あす)は休(やす)みだと言(い)っていました。 - Miss Wang said tomorrow is a day off.
 
+## Use Cases
+
+- と言いました — quotes what someone said, as a fact in the past.
+- と言っていました — relays something someone said that's still relevant (formal, spoken and written).
+
 ## Register
 
 Register: polite-context typical
-This is the formal register (spoken and written); the plain/casual equivalent drops ました → と言っていた, and the casual contraction って言っていました is used more often in speech (see v-tte-itteimashita-informal).
+This is the formal register (spoken and written); the plain/casual equivalent drops ました → と言っていた, and the casual contraction って言っていました is used more often in speech 
+
+## Sub-topics
+
+- [V + って言っていました - less formal, used more often in speaking](/JapaneseNotes/grammar-index/grammar/v-tte-itteimashita-informal) · N4 — the casual contraction of this pattern
+
+## Often confused with
+
+- [V「plain」そうです / そうだ - It is said that / I heard](/JapaneseNotes/grammar-index/grammar/sou-desu-hearsay) — test: Does the sentence name a specific person who said it (言っていました), or report the information as general hearsay without necessarily naming a source (そうです)?
+- [。。。らしいです - it seems](/JapaneseNotes/grammar-index/grammar/rashii-desu) — test: Does the sentence attribute the statement to a specific named speaker (言っていました), or report it as hearsay/impression without naming a source, and with less certainty (らしいです)?
 
 ## See also
 

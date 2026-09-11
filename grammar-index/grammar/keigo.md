@@ -20,4 +20,4 @@ proofread: true
 - [Types of verbs:](/JapaneseNotes/grammar-index/grammar/sonkeigo-types-of-verbs) — the three sonkeigo verb-formation patterns
 - [謙譲語（けんじょうご) - Humble expressions](/JapaneseNotes/grammar-index/grammar/kenjougo-humble-expressions) — the kenjougo (humble) branch of keigo
 - [Verbs](/JapaneseNotes/grammar-index/grammar/kenjougo-verbs) — the kenjougo verb-formation patterns
-- [丁寧語（ていねいご）- polite expressions](/JapaneseNotes/grammar-index/grammar/teineigo-polite-expressions-un4gl13) — the teineigo (polite) branch of keigo
+- [丁寧語（ていねいご) - Polite expressions](/JapaneseNotes/grammar-index/grammar/teineigo-polite-expressions) — the teineigo (polite) branch of keigo

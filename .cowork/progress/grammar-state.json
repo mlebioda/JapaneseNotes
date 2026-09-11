@@ -4128,19 +4128,6 @@
       "last_score": 2,
       "score": 2
     },
-    "UN4GL4::tteimashita-relay-ideas": {
-      "lesson_file": "grammar-index/grammar/tteimashita-relay-ideas.md",
-      "grammar_header": "言っていました - relay ideas",
-      "interval_days": 4,
-      "ease": 2.65,
-      "streak": 1,
-      "total_reviews": 1,
-      "weak_points": [],
-      "last_reviewed": "2026-08-05",
-      "last_score": 4,
-      "score": 4,
-      "next_review": "2026-09-23"
-    },
     "UN5GL13::hoshii-i-want-n": {
       "lesson_file": "grammar-index/grammar/hoshii-i-want-n.md",
       "grammar_header": "ほしい - i want N",
@@ -4532,21 +4519,6 @@
       "total_reviews": 2,
       "last_score": 4,
       "weak_points": [],
-      "score": 4,
-      "next_review": "2026-09-29"
-    },
-    "UN5GL14::counter-dai": {
-      "lesson_file": "grammar-index/grammar/dai-machines-and-vehicles.md",
-      "grammar_header": "Counter 台 (machines/vehicles)",
-      "last_reviewed": "2026-09-02",
-      "interval_days": 14,
-      "ease": 2.8,
-      "streak": 2,
-      "total_reviews": 2,
-      "last_score": 4,
-      "weak_points": [
-        "existence verb あります vs 来ます; number accuracy"
-      ],
       "score": 4,
       "next_review": "2026-09-29"
     },

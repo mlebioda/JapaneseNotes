@@ -39,4 +39,4 @@ This is the casual, informal-speech register — more common in spoken conversat
 
 ## See also
 
-*(none)*
+- [V「plain」+ と言っていました（い）- X said...](/JapaneseNotes/grammar-index/grammar/v-plain-to-itteimashita) — the formal register this is a casual contraction of

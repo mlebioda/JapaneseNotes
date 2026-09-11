@@ -32,6 +32,8 @@ proofread: true
 
 ## Examples
 
+- 車（くるま）が２台（にだい）あります。- There are two cars.
+
 ## Register
 Register: neutral
 台 is a plain counter word with no politeness association — used identically in casual conversation, business speech, and writing.

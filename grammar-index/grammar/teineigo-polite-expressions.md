@@ -44,6 +44,10 @@ Used with strangers, in formal/public settings, or generally to keep polite dist
 Register: tiered (standard polite ます／です; formal ございます／でございます)
 The baseline polite register used with strangers and in public or formal settings; the ございます tier appears in customer service, announcements, and very formal speech.
 
+## Sub-topics
+
+- [ございます - polite arimasu、desu](/JapaneseNotes/grammar-index/grammar/gozaimasu-polite-arimasu-desu) · N4
+
 ## See also
 
-*(none)*
+- [敬語(けいご)](/JapaneseNotes/grammar-index/grammar/keigo) — parent group for all keigo registers

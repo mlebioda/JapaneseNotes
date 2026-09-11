@@ -39,4 +39,4 @@ The formal, service-industry-typical equivalent of あります／です — use
 
 ## See also
 
-- [丁寧語（ていねいご）- polite expressions](/JapaneseNotes/grammar-index/grammar/teineigo-polite-expressions-un4gl13) — groups the teineigo patterns for this lesson
+- [丁寧語（ていねいご) - Polite expressions](/JapaneseNotes/grammar-index/grammar/teineigo-polite-expressions) — groups the teineigo patterns for this lesson

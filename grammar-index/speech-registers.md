@@ -7,7 +7,6 @@
 > Teineigo (丁寧語) — the neutral polite register (ます／です and their formal variants) showing formality and social distance, independent of relative rank.
 
 - [丁寧語（ていねいご) - Polite expressions](/JapaneseNotes/grammar-index/grammar/teineigo-polite-expressions) · N4
-- [丁寧語（ていねいご）- polite expressions](/JapaneseNotes/grammar-index/grammar/teineigo-polite-expressions-un4gl13) · N4
 - [ございます - polite arimasu、desu](/JapaneseNotes/grammar-index/grammar/gozaimasu-polite-arimasu-desu) · N4
 - [敬語(けいご)](/JapaneseNotes/grammar-index/grammar/keigo) · N4
 - [ていねいけい vs ふつうけい - polite form vs plain form](/JapaneseNotes/grammar-index/grammar/teineikei-vs-futsuukei-polite-form-vs-plain-form) · N5
