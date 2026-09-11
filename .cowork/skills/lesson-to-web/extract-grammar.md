@@ -140,7 +140,7 @@ The bracketed role uses the user-facing classification vocabulary: a `_heading-r
 | grammar | 文法 | `grammar-index/grammar/<slug>.md` — normal flow |
 | grammar | Vocabulary | `grammar-index/grammar/vocabulary/<subdir>/<slug>.md` — Step 6c-ii |
 | container | Vocabulary, heading normalized to exactly Verbs/Nouns/Adjectives, all children Vocabulary-grammar | Step 6d (POS-consolidated) |
-| container | anything else (mixed Vocabulary heading, or any 文法 container) | Step 6c container template |
+| container | anything else (mixed Vocabulary heading, or any 文法 container) | Step 6c container template → `grammar-index/<slug>.md` (root, not `grammar-index/grammar/`) |
 | skip | any | no file, no wikilink |
 
 **skip** — do not extract. Used for pure vocabulary lists or headings that are not grammar patterns.
@@ -215,12 +215,12 @@ Output path: `grammar-index/grammar/vocabulary/<subdir>/<slug>.md`. Create the s
 Runs after leaf files exist, before 6e.
 
 **Do:**
-1. Target: `grammar-index/grammar/vocabulary-<pos>.md`. Create from template in `_grammar-templates.md` if missing — no theming decision needed for a first entry, skip straight to item 3.
+1. Target: `grammar-index/vocabulary-<pos>.md`. Create from template in `_grammar-templates.md` if missing — no theming decision needed for a first entry, skip straight to item 3.
 2. Dedup: skip a leaf if its link path already appears anywhere in the file (any theme, or ungrouped) — search by path.
 3. Propose placement per new entry — join existing theme / start new theme (2+ entries share a genuine topic) / stay ungrouped. Wait for confirmation; override used verbatim. Never force a theme.
    ```
    Vocabulary POS entry: <label> (<slug>)
-   grammar-index/grammar/vocabulary-<pos>.md — existing themes: <theme list, or "none yet">
+   grammar-index/vocabulary-<pos>.md — existing themes: <theme list, or "none yet">
    Proposed placement: 1. Join theme "<theme>"  2. New theme "<name>"  3. Stay ungrouped
    Confirm or override (theme name / ungrouped):
    ```
@@ -240,7 +240,7 @@ Runs regardless of whether 6b resulted in Created or Skip for the leaf — item 
 | Link tier | Inserted when | Dedup check |
 |---|---|---|
 | Normal grammar/container | file Created in 6c | `[[grammar/<slug>]]` already under heading |
-| Container-level (routed POS) | leaf(s) processed by 6d | `[[grammar/vocabulary-<pos>]]` already under heading |
+| Container-level (routed POS) | leaf(s) processed by 6d | `[[vocabulary-<pos>]]` already under heading |
 | Per-child (routed POS) | always, regardless of 6b outcome | `[[grammar/vocabulary/<subdir>/<slug>]]` already under *that child's own* heading |
 
 ---
@@ -294,7 +294,7 @@ UN5GL14 — 6 grammar points processed
   Skipped:  grammar-index/grammar/point-3.md (user chose skip)
   [Vocabulary]
   Created:  grammar-index/grammar/vocabulary/Verbs/dekiru.md
-  Appended: grammar-index/grammar/vocabulary-verbs.md ← dekiru-can (ungrouped)
+  Appended: grammar-index/vocabulary-verbs.md ← dekiru-can (ungrouped)
 ```
 
 ---

@@ -20,7 +20,7 @@ This file is the single source of truth for rules that must be consistent across
 ## File locations and naming
 
 - Grammar point files: `grammar-index/grammar/<slug>.md`
-- Container files: `grammar-index/grammar/<slug>.md` (identified by presence of `## Sub-topics`)
+- Container files: `grammar-index/<slug>.md` (identified by presence of `## Sub-topics`) — live at the `grammar-index/` root alongside topic index files, not under `grammar-index/grammar/`
 - Topic index files: `grammar-index/<topic>.md` (identified by presence of `## Entries`)
 - Vocabulary subfiles: `grammar-index/grammar/vocabulary/<subdir>/<slug>.md`
 

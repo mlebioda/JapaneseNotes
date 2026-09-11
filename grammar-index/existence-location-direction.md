@@ -1,10 +1,20 @@
-# Existence & Location
+---
+pattern: Existence, Location & Direction
+topic_slug: ""
+proofread: false
+---
 
-> Patterns for stating that something/someone exists, and where — あります／います and related structures.
+# Existence, Location & Direction
 
-## Entries
+> あります／います, へ／に, and 場所+に direction/destination patterns.
 
-- [Location of the objects with directions](/JapaneseNotes/grammar-index/location-of-the-objects-with-directions) · N5
+## Sub-topics
+
+### Existence & Location
+
 - [PにNがあります・います - there is something somewhere](/JapaneseNotes/grammar-index/grammar/p-ni-n-ga-arimasu-imasu-there-is-something-somewhere) · N5
 - [Something is somewhere](/JapaneseNotes/grammar-index/grammar/something-is-somewhere) · N5
+
+### Direction
+
 - [Directions](/JapaneseNotes/grammar-index/grammar/directions) · N5

@@ -47,8 +47,8 @@ To check all grammar files at once: `python3 .claude/scripts/grammar-audit.py --
 
 #### Algorithm — grammar point files (no `## Sub-topics`)
 
-1. Scan all files in `grammar-index/grammar/` (exclude `index.md` if present, and exclude any
-   file matching `grammar-index/grammar/vocabulary-*.md` — these are vocabulary consolidation
+1. Scan all files directly under `grammar-index/` (exclude `index.md`, and exclude any
+   file matching `grammar-index/vocabulary-*.md` — these are vocabulary consolidation
    files, never containers, and must never enter the container-scanning candidate pool) that
    contain a `## Sub-topics` section.
 2. For each container file, check whether the current file's slug appears in any of its `## Sub-topics` links.

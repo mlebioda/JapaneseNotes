@@ -38,6 +38,8 @@ Section order: Structure → Examples → Use Cases → Notes (per `_conventions
 
 ## Container file (Step 6c, non-routed containers)
 
+Output path: `grammar-index/<slug>.md` (root — not `grammar-index/grammar/`, which holds point files only).
+
 ```
 ---
 lesson: <lesson-code>
@@ -87,7 +89,7 @@ proofread: false
 
 ## Sub-topics
 ```
-No `lesson:` (spans many lessons — provenance stays in the linked leaf file). No `level:` (per-bullet instead). `<pos>` ∈ verbs/nouns/adjectives, file name `vocabulary-<pos>.md`.
+No `lesson:` (spans many lessons — provenance stays in the linked leaf file). No `level:` (per-bullet instead). `<pos>` ∈ verbs/nouns/adjectives, file path `grammar-index/vocabulary-<pos>.md`.
 
 Bullet format (both themed and ungrouped): `- [<label>](/JapaneseNotes/grammar-index/grammar/vocabulary/<subdir>/<slug>) · <level>`
 

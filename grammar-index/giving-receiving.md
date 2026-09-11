@@ -1,15 +1,15 @@
+---
+pattern: Giving & Receiving
+topic_slug: ""
+proofread: false
+---
+
 # Giving & Receiving
 
-> Patterns for giving, receiving, or doing an action as a favor for someone — あげる／くれる／もらう and their て形 auxiliary forms.
+> あげる／もらう／くれる grammar patterns for the direction of a favor or gift.
 
-## Entries
+## Sub-topics
 
-- [Vて形 + あげます・くれます・もらいます](/JapaneseNotes/grammar-index/vte-agemasu-kuremasu-moraimasu) · N4
 - [Aは + Bに + Vて形 + あげます - I do something for someone](/JapaneseNotes/grammar-index/grammar/vte-agemasu) · N4
 - [Vて形 + くれます - Someone does something to me](/JapaneseNotes/grammar-index/grammar/vte-kuremasu) · N4
 - [Vて形 + もらいます - somebody helped you with something that you asked to do](/JapaneseNotes/grammar-index/grammar/vte-moraimasu) · N4
-
-## See also
-
-- [Verb Forms](/JapaneseNotes/grammar-index/verbs-forms) — these are auxiliary constructions built on the て-form
-- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — いただく is the kenjougo counterpart of もらう
