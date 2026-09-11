@@ -73,5 +73,3 @@ Register: tiered (neutral-to-formal が, casual けど, formal けれども／�
 - [Nは + なadj で - AND](/JapaneseNotes/grammar-index/grammar/naadj-de-and-connecting-adjectives) — test: Is だ dropped (→ で, meaning "and"), or kept before が (→ だが, meaning "but")?
 
 ## See also
-
-- [Spójniki](/JapaneseNotes/grammar-index/conjunctions) — groups this "but" connector with the "and" connectors

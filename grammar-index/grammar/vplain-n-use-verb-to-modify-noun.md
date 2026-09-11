@@ -51,5 +51,3 @@ Register: neutral
 The modifying verb always stays in plain form regardless of the sentence's overall politeness level (e.g. すしを食べる人です is correct, not すしを食べます人です).
 
 ## See also
-
-*(none)*

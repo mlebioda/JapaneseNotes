@@ -45,5 +45,3 @@ Direct prohibition; can sound blunt/commanding toward a superior, where V-ない
 - [Vない＋なければなりません- I have to do](/JapaneseNotes/grammar-index/grammar/vnainakerebanarimasen-i-have-to-do) — test: Is the subject forbidden from doing something (→ てはいけません), or obligated to do something (→ Vない＋なければなりません)?
 
 ## See also
-
-*(none)*

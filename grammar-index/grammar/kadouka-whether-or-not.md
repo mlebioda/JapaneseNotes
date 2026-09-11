@@ -53,5 +53,3 @@ No restriction — used across all speech levels, from casual to polite.
 - [OR - か、か](/JapaneseNotes/grammar-index/grammar/or-kaka) — test: Is this offering two specific alternatives to pick between (か…か), or questioning whether a single statement is true or not (かどうか)?
 
 ## See also
-
-*(none)*

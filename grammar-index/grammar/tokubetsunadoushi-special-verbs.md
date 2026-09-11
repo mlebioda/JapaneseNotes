@@ -70,5 +70,3 @@ The highest, default tier of sonkeigo verb formation — always preferred over �
 - [1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**](/JapaneseNotes/grammar-index/grammar/sonkeikei-passive-form) — test: Is there no dedicated special verb for this action (→ this られる pattern), or does one exist (→ use it)?
 
 ## See also
-
-- [Types of verbs:](/JapaneseNotes/grammar-index/sonkeigo-types-of-verbs) — groups the three sonkeigo verb-formation patterns

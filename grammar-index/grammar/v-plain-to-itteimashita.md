@@ -55,5 +55,3 @@ This is the formal register (spoken and written); the plain/casual equivalent dr
 - [。。。らしいです - it seems](/JapaneseNotes/grammar-index/grammar/rashii-desu) — test: Does the sentence attribute the statement to a specific named speaker (言っていました), or report it as hearsay/impression without naming a source, and with less certainty (らしいです)?
 
 ## See also
-
-*(none)*

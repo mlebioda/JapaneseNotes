@@ -48,5 +48,3 @@ Register: neutral
 - [past tense + たら - if](/JapaneseNotes/grammar-index/grammar/past-tense-tara-if) — test: Is this an everyday conditional (たら), or a more formal reference to a hypothetical case/scenario (場合は)?
 
 ## See also
-
-*(none)*

@@ -42,5 +42,3 @@ Register: tiered
 - [Nが一番です - N is the most important](/JapaneseNotes/grammar-index/grammar/ngadesu-n-is-the-most-important) — test: Are you comparing exactly two specific things against each other (のほうが), or ranking the single best/most extreme option among many (一番)?
 
 ## See also
-
-*(none)*

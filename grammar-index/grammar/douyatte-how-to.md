@@ -39,5 +39,3 @@ Register: neutral
 - [～方（かた） - a way of doing](/JapaneseNotes/grammar-index/grammar/kata-a-way-of-doing) — test: Is this asking a direct question about method (どうやって + V), or naming "the way of doing X" as a noun (V-stem + 方)?
 
 ## See also
-
-*(none)*

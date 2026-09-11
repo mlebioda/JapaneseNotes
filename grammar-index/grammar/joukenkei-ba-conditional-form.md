@@ -135,5 +135,3 @@ Used across all social registers — ば itself doesn't mark politeness toward a
 - [V dict + と - if](/JapaneseNotes/grammar-index/grammar/v-dict-to-if) — test: Can the result be a hypothetical wish/request (ば), or must it be an automatic, non-volitional natural consequence (と)?
 
 ## See also
-
-*(none)*

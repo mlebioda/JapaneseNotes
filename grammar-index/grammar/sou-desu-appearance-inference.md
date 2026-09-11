@@ -54,5 +54,3 @@ Register: neutral
 - [。。。らしいです - it seems](/JapaneseNotes/grammar-index/grammar/rashii-desu) — test: Is this a direct visual impression from what the speaker can see right now (そう様態), or hearsay/a typical impression based on outside information (らしいです)?
 
 ## See also
-
-*(none)*

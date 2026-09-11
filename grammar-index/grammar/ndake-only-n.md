@@ -38,5 +38,3 @@ Works across all politeness levels, in both spoken and written Japanese.
 - [しか、だけ - only](/JapaneseNotes/grammar-index/grammar/shika-dake-only) — test: Does the sentence use a negative verb (only しか works — 一人しかいません) or an affirmative verb (only だけ works — 一人だけいます)?
 
 ## See also
-
-*(none)*

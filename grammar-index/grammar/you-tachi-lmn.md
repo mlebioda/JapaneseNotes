@@ -37,5 +37,3 @@ Register: tiered (polite/formal: おたく／そちら; neutral-but-risky: あ�
 あなた can sound blunt toward superiors or strangers, so name + さん is generally safer; おたく and そちら are politer but stylistically different (おたく is a bit dated between-equals usage, そちら is the indirect business/phone register); きみ is casual, used only toward equals, subordinates, or a partner, never toward superiors.
 
 ## See also
-
-- [Personal pronouns](/JapaneseNotes/grammar-index/personal-pronouns) — groups first- and second-person pronoun register choices

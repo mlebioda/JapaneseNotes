@@ -30,5 +30,3 @@ Formality is carried entirely by the negative verb that follows; 何も itself d
 - [何か - something](/JapaneseNotes/grammar-index/grammar/ka-something) — test: Is the sentence negative (→ 何も), or affirmative (→ 何か)?
 
 ## See also
-
-- [か・も](/JapaneseNotes/grammar-index/ka-mo) — groups the full か／も indefinite pronoun series

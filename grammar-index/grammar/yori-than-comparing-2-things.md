@@ -38,5 +38,3 @@ Register: neutral
 - [comparsion どちら・ の方が (のほうが)](/JapaneseNotes/grammar-index/grammar/comparsion-dochira-nohouga) — test: Are you directly stating the comparison (N1はN2よりAdjです), or asking/answering which of two things is more Adj (どちらが／のほうが)?
 
 ## See also
-
-- [Comparisons](/JapaneseNotes/grammar-index/comparisons) — groups this lesson's three comparison patterns

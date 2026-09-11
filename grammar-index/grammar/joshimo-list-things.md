@@ -49,5 +49,3 @@ Register: neutral
 The particle も carries no inherent politeness of its own — it attaches identically to plain or ます/です-form sentences at any speech level.
 
 ## See also
-
-*(none)*

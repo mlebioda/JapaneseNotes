@@ -59,5 +59,3 @@ Register: neutral
 - [Ogólny  sposób  liczenia (1-10)](/JapaneseNotes/grammar-index/grammar/general-counting-method-1-10) — test: Is the count above 10 (→ 個 required), or 10 or below on a small/general item (→ either works, native series preferred)?
 
 ## See also
-
-- [counters](/JapaneseNotes/grammar-index/counters) — groups counter/number reference tables

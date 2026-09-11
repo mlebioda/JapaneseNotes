@@ -42,5 +42,3 @@ Polite (ます-based), but pragmatically bolder than ませんか since it assum
 - [Vます形＋ましょうか - Shall I/We](/JapaneseNotes/grammar-index/grammar/mashouka) — test: is the speaker proposing a shared action assuming agreement (ましょう) or deferentially offering to do something for the listener (ましょうか)?
 
 ## See also
-
-- [Proposing something to someone](/JapaneseNotes/grammar-index/proposing-something-to-someone) — groups the ませんか／ましょう／ましょうか family of proposal patterns

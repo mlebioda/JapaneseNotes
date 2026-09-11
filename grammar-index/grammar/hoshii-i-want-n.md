@@ -60,5 +60,3 @@ Register: neutral
 - [て形 + 欲(ほ)しいです - I want someone (else) to do something](/JapaneseNotes/grammar-index/grammar/te-form-hoshii-desu) — test: Do you want the thing/action yourself (ほしい／たい), or do you want someone else to do it (てほしい)?
 
 ## See also
-
-*(none)*

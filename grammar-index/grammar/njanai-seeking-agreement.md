@@ -53,5 +53,3 @@ Register: tiered (casual: んじゃない; polite: んじゃないですか)
 - [かもしれません・かもしれない - may/might](/JapaneseNotes/grammar-index/grammar/kamoshiremasen-kamoshirenai-may-might) — test: Is the speaker confident and seeking agreement with a view they hold (んじゃない), or expressing an uncertain possibility with no confirmation-seeking nuance (かもしれません)?
 
 ## See also
-
-*(none)*

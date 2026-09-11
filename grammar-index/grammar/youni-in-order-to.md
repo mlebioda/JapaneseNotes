@@ -40,5 +40,3 @@ Works in both plain and polite speech; formality is carried by the surrounding v
 - [ために - for (purpose of)](/JapaneseNotes/grammar-index/grammar/tameni-for-purpose-of) — test: Is the action volitional and directly controllable by the subject reaching a goal (ために), or a non-volitional/potential outcome the subject hopes will happen (ように)?
 
 ## See also
-
-*(none)*

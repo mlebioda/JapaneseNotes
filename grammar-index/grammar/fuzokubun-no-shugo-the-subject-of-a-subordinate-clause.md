@@ -53,5 +53,3 @@ Register: neutral
 A structural point about clause grammar, not a register-specific expression — it applies the same way regardless of how formal the surrounding sentence is.
 
 ## See also
-
-*(none)*

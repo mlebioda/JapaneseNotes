@@ -26,5 +26,3 @@ Register: neutral
 A structural word-order tendency, not tied to formality — it applies equally in polite and plain speech, since the underlying rule (particles mark grammatical role, not position) holds regardless of register.
 
 ## See also
-
-*(none)*

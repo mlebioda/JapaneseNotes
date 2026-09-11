@@ -53,5 +53,3 @@ Still respectful, but casual/everyday — appropriate for colleagues or quick, l
 - [受身形（うけみけい）- passive form](/JapaneseNotes/grammar-index/grammar/ukemikei-passive-form) — test: Is the subject a superior whose own action is being described respectfully (honorific), or is the subject receiving an action performed by someone else (plain passive)?
 
 ## See also
-
-- [Types of verbs:](/JapaneseNotes/grammar-index/sonkeigo-types-of-verbs) — groups the three sonkeigo verb-formation patterns

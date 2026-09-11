@@ -47,5 +47,3 @@ The pattern itself carries no inherent formality — it appears with the polite 
 - [へ / に - direction of movement, travel (destination)](/JapaneseNotes/grammar-index/grammar/he-ni-direction-destination) — test: is に/へ marking a purpose clause attached right before 行く／来る／帰る (V-stem/N + に + 行きます), or simply marking the plain destination of a motion verb (Place + へ／に + V)?
 
 ## See also
-
-*(none)*

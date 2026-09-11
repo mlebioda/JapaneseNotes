@@ -33,5 +33,3 @@ More formal than お・ご V「ます形」します — standard in the service
 - [お・ご V『ます形」します](/JapaneseNotes/grammar-index/grammar/o-go-v-masushimasu) — test: Extra-formal service/business context (→ いたします), or ordinary humble statement (→ します)?
 
 ## See also
-
-- [Verbs](/JapaneseNotes/grammar-index/kenjougo-verbs) — groups the humble verb formation patterns

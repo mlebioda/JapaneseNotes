@@ -46,5 +46,3 @@ Register: tiered (polite: しまいます／しまいました; casual: ちゃ�
 - [V「た」ばかり - action that just ended](/JapaneseNotes/grammar-index/grammar/ta-bakari) — test: Does the sentence emphasize that the action is fully/completely done, often with a nuance of regret (てしまいました), or simply that it happened recently, possibly a little while ago (たばかり)?
 
 ## See also
-
-*(none)*

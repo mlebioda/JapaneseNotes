@@ -68,5 +68,3 @@ Register: neutral
 - [Go Somewhere for a certain objective](/JapaneseNotes/grammar-index/grammar/go-somewhere-for-a-certain-objective) — test: Is this a general purpose clause usable with any verb (→ ために), or specifically the movement-verb pattern V-stem+に+行く/来る/帰る (→ Go Somewhere for a certain objective)?
 
 ## See also
-
-*(none)*

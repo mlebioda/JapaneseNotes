@@ -38,5 +38,3 @@ Register: polite-context typical
 Kenjougo vocabulary lowers the speaker's own actions/status to indirectly show respect — used in business, service, and formal speech toward superiors and outsiders.
 
 ## See also
-
-- [Verbs](/JapaneseNotes/grammar-index/kenjougo-verbs) — the humble verb formation patterns this vocabulary belongs to

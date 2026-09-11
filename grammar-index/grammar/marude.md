@@ -45,5 +45,3 @@ Register: neutral
 - [...ようです](/JapaneseNotes/grammar-index/grammar/you-desu) — test: Are you emphasizing total, complete resemblance, or just stating a general impression of similarity without added emphasis?
 
 ## See also
-
-*(none)*

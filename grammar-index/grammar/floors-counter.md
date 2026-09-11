@@ -36,5 +36,3 @@ Register: neutral
 Used identically in casual and polite speech — this everyday counter carries no formality association of its own.
 
 ## See also
-
-- [counters](/JapaneseNotes/grammar-index/counters) — groups counter/number reference tables

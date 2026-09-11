@@ -31,5 +31,3 @@ Register: tiered (casual: が／は／を（に）dropped; formal/careful: parti
 Particle omission is exclusively a casual, colloquial-speech phenomenon between people who are close — never appropriate in formal writing, business Japanese, or careful/polite speech, even if the sentence still ends in です／ます.
 
 ## See also
-
-*(none)*

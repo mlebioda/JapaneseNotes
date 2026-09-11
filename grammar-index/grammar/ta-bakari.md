@@ -43,5 +43,3 @@ Register: neutral
 - [行ったことがありました - I once did ~ (recalling a single past experience)](/JapaneseNotes/grammar-index/grammar/ttakotogaarimashita-i-once-did-recalling-a-single-past-experience) — test: does this mark an action that had just finished at a past moment (た形＋ばかり), or recall a specific one-time experience from further back (た形＋ことがありました)?
 
 ## See also
-
-*(none)*

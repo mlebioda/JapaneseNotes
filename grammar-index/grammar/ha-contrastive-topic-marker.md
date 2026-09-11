@@ -47,5 +47,3 @@ Used identically in casual and polite speech — its function is scope/contrast,
 - [N1 は N2 が ADJ です — N2 is a trait/feature of N1](/JapaneseNotes/grammar-index/grammar/n1-ha-n2-ga-adj-desu-n2-is-a-trait-feature-of-n1) — test: Is は stacking onto another particle or replacing が／を entirely, or does が still mark a second subject N2 alongside は marking N1 (→ N1は N2が ADJです double-subject construction)?
 
 ## See also
-
-*(none)*

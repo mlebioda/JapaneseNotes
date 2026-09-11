@@ -49,5 +49,3 @@ Used when speaking about your own actions to a superior, customer, or outsider �
 - [お・ご V『ます形」します](/JapaneseNotes/grammar-index/grammar/o-go-v-masushimasu) — test: Is there a special humble verb for this action (→ use it from the table), or none (→ fall back to お・ご V「ます形」します)?
 
 ## See also
-
-- [Verbs](/JapaneseNotes/grammar-index/kenjougo-verbs) — groups the humble verb formation patterns

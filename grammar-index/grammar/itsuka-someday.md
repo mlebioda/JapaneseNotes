@@ -29,5 +29,3 @@ Register: neutral
 Formality is carried entirely by the verb that follows; いつか itself does not change with politeness level.
 
 ## See also
-
-- [か・も](/JapaneseNotes/grammar-index/ka-mo) — groups the full か／も indefinite pronoun series

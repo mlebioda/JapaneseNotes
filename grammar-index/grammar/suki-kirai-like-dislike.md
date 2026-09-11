@@ -48,5 +48,3 @@ The affirmative forms (好きです／嫌いです) are neutral and usable anywh
 - [Be good/poor at 上手・下手](/JapaneseNotes/grammar-index/grammar/be-good-poor-at-jouzu-heta) — test: Is this about preference/liking something (→ 好き／嫌い), or about skill level at doing something (→ 上手／下手)?
 
 ## See also
-
-*(none)*

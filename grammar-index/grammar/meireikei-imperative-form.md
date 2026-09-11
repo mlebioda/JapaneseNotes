@@ -75,5 +75,3 @@ Register: tiered
 - [ます形 なさい - giving instructions](/JapaneseNotes/grammar-index/grammar/masu-nasai-giving-instructions) — test: Is this a blunt/emergency command among peers or inferiors (imperative), or a calmer authority-based instruction like teacher-to-student (なさい)?
 
 ## See also
-
-*(none)*

@@ -35,5 +35,3 @@ The bare い-adjective (やすい, にくい) is the casual form. Adding です 
 - このパソコンは使(つか)いにくかった - This computer was hard to use
 
 ## See also
-
-*(none)*

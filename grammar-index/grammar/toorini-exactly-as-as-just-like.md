@@ -40,5 +40,3 @@ Register: neutral
 Used across all speech styles and registers; どおり (without の) is common in formal writing and official announcements, while のとおり is equally natural in spoken and written contexts — this is a stylistic/orthographic variant, not a politeness tier.
 
 ## See also
-
-*(none)*

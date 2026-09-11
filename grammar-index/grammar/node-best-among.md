@@ -43,5 +43,3 @@ Register: neutral
 - [comparsion どちら・ の方が (のほうが)](/JapaneseNotes/grammar-index/grammar/comparsion-dochira-nohouga) — test: Are you picking the best among three or more (一番), or comparing exactly two things (どちら／のほうが)?
 
 ## See also
-
-- [Comparisons](/JapaneseNotes/grammar-index/comparisons) — groups this lesson's three comparison patterns

@@ -35,5 +35,3 @@ Polite (ます-based); the most deferential of the three ませんか／まし�
 - [Vます形＋ましょう - Let's...](/JapaneseNotes/grammar-index/grammar/mashou) — test: is the speaker deferentially offering to do something for the listener (ましょうか) or proposing a shared action assuming agreement (ましょう)?
 
 ## See also
-
-- [Proposing something to someone](/JapaneseNotes/grammar-index/proposing-something-to-someone) — groups the ませんか／ましょう／ましょうか family of proposal patterns

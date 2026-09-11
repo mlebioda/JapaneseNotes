@@ -38,5 +38,3 @@ More polite/indirect than くれませんか — appropriate toward superiors, c
 - [Vて いただけませんか - polite requests. Politer than てください](/JapaneseNotes/grammar-index/grammar/itadakemasenka-polite-request) — test: Is this a respectful request elevating the listener (→ てくださいませんか), or a humble request lowering the speaker (→ ていただけませんか)?
 
 ## See also
-
-- [尊敬語（そんけいご）- Honorific expressions](/JapaneseNotes/grammar-index/sonkeigo-honorific-expressions) — groups the sonkeigo honorific patterns for this lesson

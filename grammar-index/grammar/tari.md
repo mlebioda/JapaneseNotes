@@ -45,5 +45,3 @@ Register: neutral
 - [とか...とか - enumerate examples of things, behaviors or actions](/JapaneseNotes/grammar-index/grammar/tokatoka-enumerate-examples) — test: Is this picking a few illustrative example items from a set, often nouns (とか...とか), or chaining full activities/states each in their own conjugated form, closed by します (たり)?
 
 ## See also
-
-*(none)*

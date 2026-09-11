@@ -44,5 +44,3 @@ Register: tiered
 - [V「て形」はいけません - is forbidden to do something](/JapaneseNotes/grammar-index/grammar/v-tewa-ikemasen-forbidden) — test: Is this the bluntest direct command form (辞書形＋な), or a moderate, still-somewhat-negotiable prohibition (てはいけません)?
 
 ## See also
-
-*(none)*

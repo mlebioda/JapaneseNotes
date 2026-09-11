@@ -43,5 +43,3 @@ Register: neutral
 This is a morphological rule for turning an adjective into an adverb, with no politeness dimension of its own — it is used identically regardless of the speech level of the surrounding sentence.
 
 ## See also
-
-*(none)*

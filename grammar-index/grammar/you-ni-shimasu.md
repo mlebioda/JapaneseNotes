@@ -53,5 +53,3 @@ Register: neutral
 - [V「dict」 こと ＋ に　＋ する - I decided (on my own will)](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-suru-i-decided-on-my-own-will) — test: An ongoing effort/resolution kept up over time, or a firm one-time decision made once?
 
 ## See also
-
-*(none)*

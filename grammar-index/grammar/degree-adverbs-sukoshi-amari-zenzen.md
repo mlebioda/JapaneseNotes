@@ -39,5 +39,3 @@ Register: neutral
 少し, あまり, and 全然 are all neutral and usable in any speech style; the one exception is 全然 with a positive meaning (全然大丈夫), which is a casual colloquialism not used in formal writing.
 
 ## See also
-
-*(none)*

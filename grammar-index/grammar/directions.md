@@ -36,5 +36,3 @@ Register: neutral
 右／左／前／後ろ and the 側 suffix are register-neutral vocabulary, used the same way in casual and polite speech.
 
 ## See also
-
-*(none)*

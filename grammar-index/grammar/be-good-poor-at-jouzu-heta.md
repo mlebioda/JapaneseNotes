@@ -39,5 +39,3 @@ Register: neutral
 - [好き/嫌い - like/dislike](/JapaneseNotes/grammar-index/grammar/suki-kirai-like-dislike) — test: Is this about skill level at doing something (→ 上手／下手), or about preference/liking something (→ 好き／嫌い)?
 
 ## See also
-
-*(none)*

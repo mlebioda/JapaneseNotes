@@ -53,5 +53,3 @@ Register: polite-context typical
 Marks nouns, adjectives, and some verbs as belonging to or describing the listener or a respected third party — used in polite/business speech toward superiors and customers, not with casual peers.
 
 ## See also
-
-- [尊敬語（そんけいご）- Honorific expressions](/JapaneseNotes/grammar-index/sonkeigo-honorific-expressions) — groups the sonkeigo honorific patterns for this lesson

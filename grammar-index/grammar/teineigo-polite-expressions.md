@@ -49,5 +49,3 @@ The baseline polite register used with strangers and in public or formal setting
 - [ございます - polite arimasu、desu](/JapaneseNotes/grammar-index/grammar/gozaimasu-polite-arimasu-desu) · N4
 
 ## See also
-
-- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — umbrella index for teineigo/sonkeigo/kenjougo

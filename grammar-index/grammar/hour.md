@@ -38,5 +38,3 @@ Register: neutral
 Hour readings attach the same way regardless of formality — used identically in casual conversation and polite/formal speech.
 
 ## See also
-
-- [Time](/JapaneseNotes/grammar-index/time) — sibling clock-time reference group

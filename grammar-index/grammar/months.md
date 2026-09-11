@@ -65,5 +65,3 @@ Register: neutral
 Month names and the か月 counter attach the same way regardless of formality — used identically in casual conversation and polite/formal speech.
 
 ## See also
-
-- [Date & Time](/JapaneseNotes/grammar-index/date-time) — sibling calendar/date reference group

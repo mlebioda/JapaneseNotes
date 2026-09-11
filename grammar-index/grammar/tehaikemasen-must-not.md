@@ -34,5 +34,3 @@ Strong, direct prohibition — natural from parents/teachers, official rules, wa
 - [V「なくて」はいけません - must to do something](/JapaneseNotes/grammar-index/grammar/v-nakute-ha-ikemasen-must) — test: is the subject forbidden from doing something (てはいけません) or obligated to do it (なくてはいけません)?
 
 ## See also
-
-*(none)*

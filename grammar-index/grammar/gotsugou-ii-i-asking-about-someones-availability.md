@@ -40,5 +40,3 @@ Register: polite-context typical
 - 暇（ひま）／忙（いそが）しい - free/busy (a person's general state of being occupied or not) — test: is the sentence asking about someone's overall business level right now, or about whether one specific proposed time works given their existing commitments (都合)?
 
 ## See also
-
-*(none)*

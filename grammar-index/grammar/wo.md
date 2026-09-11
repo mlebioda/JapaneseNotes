@@ -71,5 +71,3 @@ Register: neutral
 - [で - where the action will take place](/JapaneseNotes/grammar-index/grammar/de-where-the-action-will-take-place) — test: does the verb describe movement across/along the space (を), or is the space just the static location where an action happens (で)? 公園を走る (run through/along the park) vs 公園で走る (run in the park, as the location).
 
 ## See also
-
-- [Particles](/JapaneseNotes/grammar-index/particles) — umbrella index for particle-usage points, grouped by particle and function

@@ -68,5 +68,3 @@ Register: neutral
 Used broadly across casual and polite speech — no inherent formality association.
 
 ## See also
-
-- [。。。ても。。。](/JapaneseNotes/grammar-index/temo) — parent pattern group covering both the concessive and interrogative "no matter" uses of ても

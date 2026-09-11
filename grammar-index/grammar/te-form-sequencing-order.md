@@ -35,5 +35,3 @@ Register: neutral
 Not politeness-restricted itself — works the same way whether the final verb is polite or plain, since only that final form carries the register.
 
 ## See also
-
-- [Verb Forms](/JapaneseNotes/grammar-index/verbs-forms) — the て形 topic group this sequencing pattern belongs to

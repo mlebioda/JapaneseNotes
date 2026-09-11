@@ -35,5 +35,3 @@ Register: neutral
 枚 as a counter is a plain measurement word with no politeness association — used identically in casual conversation and formal writing.
 
 ## See also
-
-- [counters](/JapaneseNotes/grammar-index/counters) — groups counter reference tables

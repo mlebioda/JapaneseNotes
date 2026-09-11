@@ -31,5 +31,3 @@ Register: neutral
 - [V dict + と - if](/JapaneseNotes/grammar-index/grammar/v-dict-to-if) — test: Is this a general natural-consequence conditional with any kind of result (plain と), or specifically emphasizing that the result happens immediately/right away (と + すぐです)?
 
 ## See also
-
-*(none)*

@@ -29,8 +29,6 @@ Common in everyday narration of personal experience — works equally in casual 
 
 ## See also
 
-*(none)*
-
 ## Examples
 
 - 電車（でんしゃ）の中（なか）で私（わたし）**は**となりの人（ひと）**に**足（あし）**を**ふまれました - The person next to me stepped on my foot on train

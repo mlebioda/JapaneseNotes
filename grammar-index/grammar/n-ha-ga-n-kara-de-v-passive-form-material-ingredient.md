@@ -35,5 +35,3 @@ Register: neutral
 Used for descriptive statements about production or composition in both casual conversation and formal contexts (product descriptions, museum placards) — the register comes from the surrounding sentence, not this pattern itself.
 
 ## See also
-
-*(none)*

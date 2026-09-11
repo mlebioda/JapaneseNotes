@@ -42,5 +42,3 @@ Register: tiered
 - [の中で一番 best among](/JapaneseNotes/grammar-index/grammar/node-best-among) — test: Do you just state that N is the most/best (Nが一番です) without naming the group, or name the comparison group explicitly with N の中で?
 
 ## See also
-
-*(none)*

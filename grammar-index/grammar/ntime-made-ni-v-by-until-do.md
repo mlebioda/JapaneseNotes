@@ -31,5 +31,3 @@ Register: neutral
 - [に - time of occurrence of an action](/JapaneseNotes/grammar-index/grammar/ni-time-of-action) — test: is に simply marking the time an action occurs (Time + に + V), or marking a deadline the action must be completed by (N(time) + までに + V)?
 
 ## See also
-
-*(none)*

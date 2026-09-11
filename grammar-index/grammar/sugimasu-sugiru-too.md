@@ -39,5 +39,3 @@ Register: neutral
 すぎる／すぎます is used identically across casual and polite speech; formality comes from the plain/ます ending choice, not from this pattern itself.
 
 ## See also
-
-*(none)*

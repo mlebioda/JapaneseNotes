@@ -40,5 +40,3 @@ Used across all speech styles and registers; formality is carried by the surroun
 - [。。。のに - even though](/JapaneseNotes/grammar-index/grammar/noni-even-though) — test: Same spelling, different pattern — does のに mean "even though" (contrastive, unexpected mismatch) or "useful for / for the purpose of ~ing" (only before 使う／役に立つ／便利／いい／悪い)?
 
 ## See also
-
-*(none)*

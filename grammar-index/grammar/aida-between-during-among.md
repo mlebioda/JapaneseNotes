@@ -52,5 +52,3 @@ Register: neutral
 - [Period of time](/JapaneseNotes/grammar-index/grammar/period-of-time) — test: Is 間 marking the interval between two named points (AとBの間), or a bound suffix directly forming a duration out of hours and minutes (時間、分)?
 
 ## See also
-
-*(none)*

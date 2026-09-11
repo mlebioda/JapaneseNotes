@@ -44,5 +44,3 @@ Humble register for offering or announcing something you do for a superior, cust
 - [お/ご V「ます形」ください - Respectful request form (尊敬語)](/JapaneseNotes/grammar-index/grammar/o-go-v-masukudasai-respectful-request-form) — test: Who acts — the speaker doing it for the listener (→ お・ご V「ます形」します), or the listener being asked to act (→ お/ご V「ます形」ください)?
 
 ## See also
-
-- [Verbs](/JapaneseNotes/grammar-index/kenjougo-verbs) — groups the humble verb formation patterns

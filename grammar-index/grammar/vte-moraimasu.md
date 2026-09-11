@@ -36,5 +36,3 @@ Register: tiered (plain: もらう; humble: いただく)
 - [Vて形 + いただく（謙譲語）・くださる（尊敬語） - describing a favor received from a superior](/JapaneseNotes/grammar-index/grammar/te-form-itadaku-kudasaru-favor-received) — test: Is this the plain-register もらう statement, or the kenjougo いただく statement used for a superior?
 
 ## See also
-
-- [Vて形 + あげます・くれます・もらいます](/JapaneseNotes/grammar-index/vte-agemasu-kuremasu-moraimasu) — groups this pattern with its あげます／くれます siblings

@@ -44,5 +44,3 @@ Register: neutral
 - [ほしい - i want N](/JapaneseNotes/grammar-index/grammar/hoshii-i-want-n) — test: Do you want someone else to do it (てほしい), or do you want the thing/action yourself (ほしい／たい)?
 
 ## See also
-
-*(none)*

@@ -40,5 +40,3 @@ Register: polite-context typical
 - [で - where the action will take place](/JapaneseNotes/grammar-index/grammar/de-where-the-action-will-take-place) — test: is the verb a static existence verb (あります／います, needs に), or a dynamic action verb (needs で)?
 
 ## See also
-
-- [Location of the objects with directions](/JapaneseNotes/grammar-index/location-of-the-objects-with-directions) — groups this with the は-topic existence pattern

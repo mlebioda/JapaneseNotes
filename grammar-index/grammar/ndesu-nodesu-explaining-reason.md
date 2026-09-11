@@ -54,5 +54,3 @@ Register: tiered (んです, のです)
 - [。。。ので - because](/JapaneseNotes/grammar-index/grammar/node-because) — test: Is this stating a direct cause-and-effect plainly (ので), or framing the situation as background explanation or shared context rather than a strict logical connector (んです)?
 
 ## See also
-
-*(none)*

@@ -45,5 +45,3 @@ Register: tiered (尊敬語 for ソト-facing referents; 謙譲語 for ウチ re
 Not a pattern itself but the selection rule for keigo direction: honor ソト people, speak humbly about your own ウチ side — including in-group superiors — whenever a ソト listener is involved.
 
 ## See also
-
-*(none)*

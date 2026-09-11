@@ -67,5 +67,3 @@ Register: neutral
 - [N(time) + まで +に + V - BY, until (do)](/JapaneseNotes/grammar-index/grammar/ntime-made-ni-v-by-until-do) — test: Is this expressing "by/within this period" with 中 (→ N中に), or a deadline for a one-time completed action (→ N(time) + までに + V)?
 
 ## See also
-
-*(none)*

@@ -41,5 +41,3 @@ Register: neutral
 Used across casual and polite speech; てみてください (asking someone else to try) is itself the polite request form, not a separate formality tier.
 
 ## See also
-
-*(none)*

@@ -48,5 +48,3 @@ Register: neutral
 - [まで](/JapaneseNotes/grammar-index/grammar/made) — test: Does the action cross past the point and continue beyond (を過ぎる), or does it stop at/extend up to the given point (まで)?
 
 ## See also
-
-*(none)*

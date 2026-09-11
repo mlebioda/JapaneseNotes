@@ -32,5 +32,3 @@ Hour/minute duration expressions attach the same way regardless of formality.
 - [間（あいだ）- between, during, among](/JapaneseNotes/grammar-index/grammar/aida-between-during-among) — test: Is 間 a bound suffix forming a duration directly out of hours/minutes (時間、分), or a standalone word marking the interval between two named points (AとBの間)?
 
 ## See also
-
-- [Time](/JapaneseNotes/grammar-index/time) — sibling clock-time reference group

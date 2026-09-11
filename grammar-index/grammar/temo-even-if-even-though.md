@@ -48,5 +48,3 @@ Used broadly across casual and polite speech — the concessive meaning itself c
 - [。。。のに - even though](/JapaneseNotes/grammar-index/grammar/noni-even-though) — test: Does B hold true regardless of a hypothetical or general A (ても), or is B a factual complaint about an A that actually happened (のに)?
 
 ## See also
-
-- [。。。ても。。。](/JapaneseNotes/grammar-index/temo) — parent pattern group covering both the concessive and interrogative "no matter" uses of ても

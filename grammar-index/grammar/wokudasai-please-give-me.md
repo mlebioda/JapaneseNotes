@@ -41,5 +41,3 @@ Register: polite-context typical
 - [お/ご V「ます形」ください - Respectful request form (尊敬語)](/JapaneseNotes/grammar-index/grammar/o-go-v-masukudasai-respectful-request-form) — test: Are you asking for a tangible object (N＋を＋ください), or respectfully asking the listener to perform an action (お/ご V「ます形」ください)?
 
 ## See also
-
-*(none)*

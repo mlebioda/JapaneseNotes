@@ -36,5 +36,3 @@ Register: neutral
 必要 conjugates like a standard な-adjective; formality is carried by the surrounding copula (です／だ), not by 必要 itself.
 
 ## See also
-
-- [必要(ひつよう) - essential / necessary, is need to](/JapaneseNotes/grammar-index/hitsuyou-essential-necessary-is-need-to) — parent group covering both the noun and な-adjective uses of 必要

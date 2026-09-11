@@ -49,5 +49,3 @@ Common in everyday spoken Japanese; avoided in formal writing or business contex
 - [Listing activities Vた り  ・・・します - two and more activities](/JapaneseNotes/grammar-index/grammar/tari) — test: Is this chaining full activities/states each in their own conjugated form, closed by します (たり), or picking a few illustrative example items from a set, often nouns (とか...とか)?
 
 ## See also
-
-*(none)*

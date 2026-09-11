@@ -35,5 +35,3 @@ Works identically in plain and polite speech; only the verb ending changes forma
 - [どこも/どこへも - nowhere](/JapaneseNotes/grammar-index/grammar/dokomo-dokohemo-nowhere) — test: Is the sentence affirmative (→ どこか), or negative (→ どこも/どこへも)?
 
 ## See also
-
-- [か・も](/JapaneseNotes/grammar-index/ka-mo) — groups the full か／も indefinite pronoun series

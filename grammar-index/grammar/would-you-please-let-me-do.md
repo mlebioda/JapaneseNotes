@@ -43,5 +43,3 @@ Register: tiered
 - [V「て」もらえませんか, V「て」くれませんか](/JapaneseNotes/grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka) — test: Are you asking permission to do something yourself (causative-based), or asking someone else to act on your behalf?
 
 ## See also
-
-*(none)*

@@ -38,5 +38,3 @@ Used identically in casual and polite speech — no politeness variation on thes
 - [この/その/あの　どの](/JapaneseNotes/grammar-index/grammar/kono-sono-ano-dono) — test: Does the demonstrative stand alone as a pronoun (→ これ／それ／あれ／どれ), or directly precede a noun (→ この／その／あの／どの)?
 
 ## See also
-
-*(none)*

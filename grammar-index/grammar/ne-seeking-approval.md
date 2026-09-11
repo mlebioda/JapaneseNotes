@@ -32,5 +32,3 @@ Register: neutral
 - [よ](/JapaneseNotes/grammar-index/grammar/yo) — test: Does the sentence present new information to the listener (→ よ), or seek agreement/confirm shared knowledge (→ ね)?
 
 ## See also
-
-*(none)*

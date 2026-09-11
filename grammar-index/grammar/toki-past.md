@@ -43,5 +43,3 @@ Register: neutral
 - [A....とき...B - while A, B](/JapaneseNotes/grammar-index/grammar/toki-non-past) — test: Does B happen around or before A completes, general "when" (Vとき), or specifically after A is complete (Vたとき)?
 
 ## See also
-
-- [。。。とき。。。](/JapaneseNotes/grammar-index/toki) — groups this past-form pattern with its general/non-past sibling

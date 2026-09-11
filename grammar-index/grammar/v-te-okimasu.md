@@ -48,5 +48,3 @@ Neutral baseline is ておきます; おいとく／しとく (dropping て befo
 - [Vて形 + あります - explain conditions/situations of an object - current or continuous states](/JapaneseNotes/grammar-index/grammar/vte-arimasu-resultant-state) — test: Is this a deliberate action done now for future benefit, agent in focus (→ ておく), or the resulting state from someone's prior deliberate action, agent usually unstated (→ てある)?
 
 ## See also
-
-*(none)*

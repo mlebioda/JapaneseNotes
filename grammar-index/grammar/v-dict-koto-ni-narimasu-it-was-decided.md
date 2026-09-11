@@ -40,5 +40,3 @@ Used across casual and formal speech alike — politeness comes from the sentenc
 - [V「dict」 こと ＋ に + なっています - It is supposed to](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-natteimasu-it-is-supposed-to) — test: Is this the one-time event of something getting decided, or an ongoing established arrangement/rule?
 
 ## See also
-
-*(none)*

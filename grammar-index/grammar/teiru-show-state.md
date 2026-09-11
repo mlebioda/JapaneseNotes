@@ -53,5 +53,3 @@ Not politeness-restricted itself, but the conjugation varies by register: polite
 - [2. V「て形」いるところです - action in progress right now](/JapaneseNotes/grammar-index/grammar/tokoro-desu-teiru-form) — test: is this simply an ongoing/habitual action or state (ている) or specifically emphasizing that the action is happening at this very moment (ているところです)?
 
 ## See also
-
-- [Verb Forms](/JapaneseNotes/grammar-index/verbs-forms) — the て形＋いる topic group this state/habit sense belongs to

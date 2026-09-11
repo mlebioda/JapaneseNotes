@@ -30,5 +30,3 @@ Register: polite-context typical
 です here is the standard polite copula, suitable for everyday polite conversation; dropping it gives the plain/casual equivalent ほうがいい, used with friends and family.
 
 ## See also
-
-*(none)*

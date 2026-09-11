@@ -38,5 +38,3 @@ Register: neutral
 - [なくてはなりません・なければなりません - must, have to](/JapaneseNotes/grammar-index/grammar/nakutehanarimasen-nakerebanarimasen-must-have-to) — test: Is this an objective/factual necessity independent of any rule (必要がある) or an obligation/rule imposed on the subject (なければならない)?
 
 ## See also
-
-- [必要(ひつよう) - essential / necessary, is need to](/JapaneseNotes/grammar-index/hitsuyou-essential-necessary-is-need-to) — parent group covering both the noun and な-adjective uses of 必要

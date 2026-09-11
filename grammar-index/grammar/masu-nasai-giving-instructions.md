@@ -40,5 +40,3 @@ Register: tiered
 - [V「て」もらえませんか, V「て」くれませんか](/JapaneseNotes/grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka) — test: Is this a firm instruction from a position of authority, or a favor-asking request phrased as a question?
 
 ## See also
-
-*(none)*

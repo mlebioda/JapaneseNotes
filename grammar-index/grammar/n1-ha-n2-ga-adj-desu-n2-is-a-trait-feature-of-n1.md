@@ -41,5 +41,3 @@ Used across all speech styles and registers; formality is carried by the copula 
 - [が](/JapaneseNotes/grammar-index/grammar/ga-subject-marker) — test: Does が mark the sole subject of a simple N1が N2です sentence, or a second/embedded subject describing a trait of an already-topic-marked N1 (N1は N2が ADJです)?
 
 ## See also
-
-*(none)*

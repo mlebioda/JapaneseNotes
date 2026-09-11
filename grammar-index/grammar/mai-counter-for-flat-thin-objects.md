@@ -41,5 +41,3 @@ Register: neutral
 Counters attach the same way regardless of formality — used identically in casual conversation and polite/formal speech.
 
 ## See also
-
-*(none)*

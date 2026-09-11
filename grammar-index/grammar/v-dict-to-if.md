@@ -43,5 +43,3 @@ Register: neutral
 - [V dict とすぐです - As soon as ....](/JapaneseNotes/grammar-index/grammar/v-dict-tosugudesu-as-soon-as) — test: Is the result just a general natural consequence, any kind (plain と), or specifically that it happens immediately/right away (と + すぐです)?
 
 ## See also
-
-- [Conditionals](/JapaneseNotes/grammar-index/conditionals) — the topic index for conditional forms

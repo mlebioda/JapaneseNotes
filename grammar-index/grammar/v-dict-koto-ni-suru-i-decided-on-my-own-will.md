@@ -50,5 +50,3 @@ Used across casual and formal speech alike — politeness comes from the sentenc
 - [N＋に＋します - speaker says what he/she decided on](/JapaneseNotes/grammar-index/grammar/n-ni-shimasu-decision) — test: Is the decision about which verb/action to take (ことにする), or which noun/option to choose (にする)?
 
 ## See also
-
-*(none)*

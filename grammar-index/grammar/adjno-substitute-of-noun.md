@@ -38,5 +38,3 @@ This の has no register restriction of its own; politeness comes from the sente
 - [の 名詞化（めいしか） - nominaliser (when word is added after an adjective or verb)](/JapaneseNotes/grammar-index/grammar/no-meishika) — test: Does the の stand in for an omitted noun that was already mentioned (白いの = "the white one"), or turn a whole verb/adjective clause into a noun (歌うのが好きです)?
 
 ## See also
-
-*(none)*

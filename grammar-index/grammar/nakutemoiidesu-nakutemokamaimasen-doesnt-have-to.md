@@ -55,5 +55,3 @@ Register: tiered (casual / neutral / formal)
 - [て形＋もいいです/か - You can do/ Can I?](/JapaneseNotes/grammar-index/grammar/temoiidesuka-permission) — test: is the speaker saying it's fine not to do something (なくてもいいです) or granting/asking permission to do it (てもいいです)?
 
 ## See also
-
-*(none)*

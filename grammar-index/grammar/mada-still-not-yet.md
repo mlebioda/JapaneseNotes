@@ -43,5 +43,3 @@ Register: neutral
 まだ is a register-neutral adverb; formality comes from the verb/copula it modifies, not from まだ itself.
 
 ## See also
-
-*(none)*

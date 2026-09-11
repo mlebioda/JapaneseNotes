@@ -36,5 +36,3 @@ Register: tiered
 - [Make/let a person intransitive verb](/JapaneseNotes/grammar-index/grammar/make-let-a-person-intransitive-verb) — test: Is there a separate object the causee acts upon (transitive verb → causee marked に, object marked を), or does the causee just act with no object (intransitive verb → causee marked を/に directly)?
 
 ## See also
-
-*(none)*

@@ -43,5 +43,3 @@ Business and formal keigo for describing your own or your in-group's ongoing act
 - [ている → てる / ていた → てた (casual contraction)](/JapaneseNotes/grammar-index/grammar/teiru-teru-teita-teta-casual-contraction) — test: is this humble/kenjougo speech about your own actions to a superior (おります), or casual speech about anyone (drop the い: てる)?
 
 ## See also
-
-*(none)*

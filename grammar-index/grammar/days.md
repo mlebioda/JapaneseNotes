@@ -53,5 +53,3 @@ Register: neutral
 The ひ／にち reading choice depends on meaning (named occasion vs. calendar date), not formality, and the day-counting forms (ふつか、みっか…) attach the same way in casual and polite speech.
 
 ## See also
-
-- [Date & Time](/JapaneseNotes/grammar-index/date-time) — sibling calendar/date reference group

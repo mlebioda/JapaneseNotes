@@ -29,5 +29,3 @@ Register: tiered (さん vs さま)
 さん is the everyday honorific title, fine with peers and acquaintances in generally polite speech; さま is more formal, reserved for customers, business correspondence, and people of clearly higher status. こちら／そちら／あちら／どちら are polite but not strictly sonkeigo — safe in most formal-leaning contexts.
 
 ## See also
-
-- [尊敬語（そんけいご）- Honorific expressions](/JapaneseNotes/grammar-index/sonkeigo-honorific-expressions) — groups the sonkeigo honorific patterns for this lesson

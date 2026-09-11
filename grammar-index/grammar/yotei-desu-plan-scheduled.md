@@ -43,5 +43,3 @@ Register: tiered (polite / casual)
 - [V「dict」 こと ＋ に + なっています - It is supposed to](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-natteimasu-it-is-supposed-to) — test: Is this a specific upcoming scheduled event (予定です), or a general established rule/routine arrangement (ことになっている)?
 
 ## See also
-
-*(none)*

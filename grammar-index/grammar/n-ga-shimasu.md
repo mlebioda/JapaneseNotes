@@ -47,5 +47,3 @@ Register: neutral
 - [...ようです](/JapaneseNotes/grammar-index/grammar/you-desu) — test: Are you directly perceiving something through your senses right now (がする), or inferring/guessing based on outward appearance or indirect evidence (ようです)?
 
 ## See also
-
-*(none)*

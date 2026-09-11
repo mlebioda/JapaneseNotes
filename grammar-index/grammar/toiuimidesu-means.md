@@ -40,5 +40,3 @@ Register: tiered
 - Question form: どういう意味ですか (common/neutral) vs どのような意味ですか (more formal/descriptive).
 
 ## See also
-
-*(none)*

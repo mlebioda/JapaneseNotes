@@ -52,5 +52,3 @@ Register: neutral
 - [。。。ても。。。- even if, even though](/JapaneseNotes/grammar-index/grammar/temo-even-if-even-though) — test: Is B a factual complaint about an A that actually happened (のに), or does B hold true regardless of a hypothetical or general A (ても)?
 
 ## See also
-
-*(none)*

@@ -61,5 +61,3 @@ Register: polite-context typical
 - [かもしれません・かもしれない - may/might](/JapaneseNotes/grammar-index/grammar/kamoshiremasen-kamoshirenai-may-might) — test: Is the speaker fairly confident in this guess (でしょう), or presenting it as an uncertain possibility (かもしれません)?
 
 ## See also
-
-*(none)*

@@ -36,5 +36,3 @@ Plain, everyday location words used in ordinary conversation; their polite equiv
 - [こちら、そちら、あちら、どちら](/JapaneseNotes/grammar-index/grammar/kochira-sochira-achira-dochira-indicate-place-location-and-direction-person) — test: are you speaking casually, or directing a customer/guest or addressing someone politely?
 
 ## See also
-
-- [Indicating directions](/JapaneseNotes/grammar-index/indicating-directions) — groups this with the polite こちら／そちら／あちら／どちら series

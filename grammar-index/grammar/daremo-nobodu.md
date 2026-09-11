@@ -30,5 +30,3 @@ Formality is carried entirely by the negative verb that follows; だれも itsel
 - [だれか - someone](/JapaneseNotes/grammar-index/grammar/dareka-someone) — test: Is the sentence negative (→ だれも), or affirmative (→ だれか)?
 
 ## See also
-
-- [か・も](/JapaneseNotes/grammar-index/ka-mo) — groups the full か／も indefinite pronoun series

@@ -44,5 +44,3 @@ Used identically in casual and polite speech — no politeness variation on thes
 - [これ/それ/あれ　どれ](/JapaneseNotes/grammar-index/grammar/kore-sore-are-dore) — test: Does the demonstrative directly precede a noun (→ この／その／あの／どの), or stand alone as a pronoun (→ これ／それ／あれ／どれ)?
 
 ## See also
-
-*(none)*

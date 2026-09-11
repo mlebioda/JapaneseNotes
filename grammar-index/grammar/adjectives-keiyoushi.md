@@ -31,5 +31,3 @@ Register: neutral
 Adjective type (い vs な) is a morphological classification, not a politeness distinction — both types appear at every formality tier; only the final copula (です／だ) carries the register.
 
 ## See also
-
-*(none)*

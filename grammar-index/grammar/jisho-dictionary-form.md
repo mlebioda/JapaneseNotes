@@ -37,5 +37,3 @@ Register: tiered (plain/casual 辞書形 — neutral-polite ます形 — respec
 - [ていねいけい vs ふつうけい - polite form vs plain form](/JapaneseNotes/grammar-index/grammar/teineikei-vs-futsuukei-polite-form-vs-plain-form) — test: are you asking specifically about a verb's plain citation form (辞書形), or the general plain-vs-polite contrast across verbs, adjectives, and nouns (ふつうけい vs ていねいけい)?
 
 ## See also
-
-- [Forms](/JapaneseNotes/grammar-index/jisho-vs-masu-form) — groups this with ます形 as the two verb citation forms compared in the lesson

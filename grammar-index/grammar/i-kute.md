@@ -36,5 +36,3 @@ Register: neutral
 - [5.  Nは + なadj で - AND](/JapaneseNotes/grammar-index/grammar/naadj-de-and-connecting-adjectives) — test: Is the word being chained an い-adjective (→ くて), or a な-adjective/Noun (→ で)?
 
 ## See also
-
-- [and](/JapaneseNotes/grammar-index/and-conjunction) — groups the くて／で "and"-chaining forms together

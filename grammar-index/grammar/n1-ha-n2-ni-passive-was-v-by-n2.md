@@ -35,5 +35,3 @@ Register: neutral
 Used in both casual and polite speech — the passive verb ending (plain or ます-form) tracks the surrounding register, not the pattern itself.
 
 ## See also
-
-*(none)*

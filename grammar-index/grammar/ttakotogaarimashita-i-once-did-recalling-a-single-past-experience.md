@@ -44,5 +44,3 @@ Register: polite-context typical
 - [V「dict」 こと ＋ に　＋ する - I decided (on my own will)](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-suru-i-decided-on-my-own-will) — test: does this recall a specific past experience (た形＋ことがありました), or announce a decision the speaker made at that time (辞書形＋ことにする)?
 
 ## See also
-
-*(none)*

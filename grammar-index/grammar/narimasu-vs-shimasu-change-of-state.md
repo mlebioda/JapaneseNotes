@@ -53,5 +53,3 @@ Register: neutral
 Both なります and します work in casual and polite speech alike; formality is carried by the conjugation of なる／する itself (plain vs です／ます), not by the construction.
 
 ## See also
-
-*(none)*

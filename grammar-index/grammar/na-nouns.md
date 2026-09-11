@@ -31,5 +31,3 @@ This attachment rule (な-adjective + な + Noun) applies identically in casual 
 - [2. なadj + Noun](/JapaneseNotes/grammar-index/grammar/naadj-noun) — test: Is the な-adjective directly modifying a following noun (→ add な), or ending the sentence as a predicate before です/か (→ no な)?
 
 ## See also
-
-- [Adjectives](/JapaneseNotes/grammar-index/adjectives) — the topic index for な-adjective attachment to nouns

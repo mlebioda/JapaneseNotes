@@ -65,5 +65,3 @@ Register: neutral
 - [。。。ので - because](/JapaneseNotes/grammar-index/grammar/node-because) — test: Is this a non-exhaustive list of multiple reasons/qualities (→ し...し), or one direct reason stated plainly (→ ので)?
 
 ## See also
-
-*(none)*

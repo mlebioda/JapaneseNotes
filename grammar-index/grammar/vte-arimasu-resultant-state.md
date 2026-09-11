@@ -41,5 +41,3 @@ Used identically in speech and writing; describing a resultant state carries no 
 - [V「て形」＋おきます - V continues without any changes, leave](/JapaneseNotes/grammar-index/grammar/v-te-okimasu) — test: Is this describing the resulting state from someone's prior deliberate action, agent usually unstated (→ てある), or a deliberate action done now for future benefit, agent in focus (→ ておく)?
 
 ## See also
-
-*(none)*

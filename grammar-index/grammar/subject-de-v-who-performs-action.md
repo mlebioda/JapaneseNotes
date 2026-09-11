@@ -41,5 +41,3 @@ Works across all politeness levels.
 - [で - means or method](/JapaneseNotes/grammar-index/grammar/de-means-or-method) — test: Does で mark who/how many people are performing the action together (Subject + で), or the tool/method used to do it (で-means)?
 
 ## See also
-
-*(none)*

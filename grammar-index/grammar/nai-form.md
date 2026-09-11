@@ -49,5 +49,3 @@ Register: tiered (plain/casual ない・なかった vs. polite ません・ま�
 The plain ない形 shown here is casual/plain-register; in polite speech, use the ます-form negative equivalents instead (present 〜ません, past 〜ませんでした).
 
 ## See also
-
-*(none)*

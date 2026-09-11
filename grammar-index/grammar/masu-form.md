@@ -43,5 +43,3 @@ Register: polite-context typical
 - [ていねいけい vs ふつうけい - polite form vs plain form](/JapaneseNotes/grammar-index/grammar/teineikei-vs-futsuukei-polite-form-vs-plain-form) — test: are you asking specifically about a verb's polite conjugation (ます形), or the general plain-vs-polite contrast across verbs, adjectives, and nouns (ていねいけい vs ふつうけい)?
 
 ## See also
-
-- [Forms](/JapaneseNotes/grammar-index/jisho-vs-masu-form) — groups this with 辞書形 as the two verb citation forms compared in the lesson

@@ -36,5 +36,3 @@ Register: tiered (formal: わたくし; neutral: わたし; casual: あたし／
 わたくし is reserved for business, ceremonies, and public speech; わたし is the safe neutral default in almost any setting; あたし and 僕 are casual and gendered (あたし: women, 僕: men/boys), used with friends and family; 俺 is rough and masculine, appropriate only among close friends, never toward strangers or superiors.
 
 ## See also
-
-- [Personal pronouns](/JapaneseNotes/grammar-index/personal-pronouns) — groups first- and second-person pronoun register choices

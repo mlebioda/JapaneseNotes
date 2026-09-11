@@ -36,5 +36,3 @@ Register: neutral
 Counter readings themselves don't carry politeness — they attach identically in polite and plain sentences; only the surrounding verb/copula changes with register.
 
 ## See also
-
-- [Counter sufixes](/JapaneseNotes/grammar-index/counter-sufixes) — groups N5 counter-suffix reference tables

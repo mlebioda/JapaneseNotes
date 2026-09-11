@@ -37,5 +37,3 @@ Register: neutral
 - [Go Somewhere for a certain objective](/JapaneseNotes/grammar-index/grammar/go-somewhere-for-a-certain-objective) — test: is に/へ marking a purpose clause attached right before 行く／来る／帰る (V-stem/N + に + 行きます), or simply marking the plain destination of a motion verb (Place + へ／に + V)?
 
 ## See also
-
-- [Particles](/JapaneseNotes/grammar-index/particles) — umbrella index for particle-usage points, grouped by particle and function

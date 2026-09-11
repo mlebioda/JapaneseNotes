@@ -49,5 +49,3 @@ Polite (ます-based) — appropriate with colleagues, acquaintances, customers,
 - [Vます形＋ましょうか - Shall I/We](/JapaneseNotes/grammar-index/grammar/mashouka) — test: is the speaker proposing a shared action open to refusal (ませんか) or offering to do something as a favor for the listener (ましょうか)?
 
 ## See also
-
-- [Proposing something to someone](/JapaneseNotes/grammar-index/proposing-something-to-someone) — groups the ませんか／ましょう／ましょうか family of proposal patterns

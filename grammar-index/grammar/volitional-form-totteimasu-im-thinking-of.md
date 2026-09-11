@@ -38,5 +38,3 @@ Register: tiered (polite / casual)
 - [V「dict」 こと ＋ に　＋ する - I decided (on my own will)](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-suru-i-decided-on-my-own-will) — test: Is this an ongoing consideration, or a firm one-time decision the speaker has just made? (と思っています = considering; ことにする = firm decision)
 
 ## See also
-
-*(none)*

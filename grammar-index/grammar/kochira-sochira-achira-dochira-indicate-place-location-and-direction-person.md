@@ -44,5 +44,3 @@ Used in business and customer-service settings — directing a guest or customer
 - [ここ、そこ、あそこ](/JapaneseNotes/grammar-index/grammar/koko-soko-asoko-indicate-physical-place-or-location) — test: are you in a casual conversation, or a formal/customer-facing one?
 
 ## See also
-
-- [Indicating directions](/JapaneseNotes/grammar-index/indicating-directions) — groups this with the plain ここ／そこ／あそこ series

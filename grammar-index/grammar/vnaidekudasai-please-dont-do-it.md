@@ -39,5 +39,3 @@ Register: polite-context typical
 - [V「て形」はいけません - is forbidden to do something](/JapaneseNotes/grammar-index/grammar/v-tewa-ikemasen-forbidden) — test: Is this a polite request asking someone not to do something (Vないでください), or a blunter, rule-like prohibition (てはいけません)?
 
 ## See also
-
-*(none)*

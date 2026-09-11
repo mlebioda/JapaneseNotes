@@ -38,5 +38,3 @@ Ranges from casual 何にする？ up to polite 何になさいますか (honori
 - [V「dict」 こと ＋ に　＋ する - I decided (on my own will)](/JapaneseNotes/grammar-index/grammar/v-dict-koto-ni-suru-i-decided-on-my-own-will) — test: Is the decision about which verb/action to take (ことにする), or which noun/option to choose (にする)?
 
 ## See also
-
-*(none)*

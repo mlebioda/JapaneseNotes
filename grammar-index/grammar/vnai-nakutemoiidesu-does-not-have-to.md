@@ -41,5 +41,3 @@ Register: polite-context typical
 - [て形＋もいいです/か - You can do/ Can I?](/JapaneseNotes/grammar-index/grammar/temoiidesuka-permission) — test: is the speaker saying something is not required (Vない なくてもいいです) or granting/asking permission to do it (てもいいです)?
 
 ## See also
-
-*(none)*
