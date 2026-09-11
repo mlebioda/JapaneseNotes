@@ -49,7 +49,7 @@
     },
     "UN5GL1L2::onaji-noun": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adjectives/ji-same.md",
-      "grammar_header": "同じ + Noun (same)",
+      "grammar_header": "同じ - same",
       "last_reviewed": "2026-07-21",
       "interval_days": 93,
       "ease": 2.8,
@@ -64,7 +64,7 @@
     },
     "UN5GL1L2::zenbu-de": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/zenbude-in-total.md",
-      "grammar_header": "全部で (in total)",
+      "grammar_header": "全部で(ぜんぶ）in total",
       "last_reviewed": "2026-07-30",
       "interval_days": 138,
       "ease": 3.1,
@@ -77,7 +77,7 @@
     },
     "UN5GL1L2::ne": {
       "lesson_file": "grammar-index/grammar/ne-seeking-approval.md",
-      "grammar_header": "ね (seeking approval)",
+      "grammar_header": "ね - seeking approval",
       "last_reviewed": "2026-08-06",
       "next_review": "2026-12-14",
       "interval_days": 130,
@@ -92,7 +92,7 @@
     },
     "UN5GL1L2::kono-sono-ano": {
       "lesson_file": "grammar-index/grammar/kono-sono-ano-dono.md",
-      "grammar_header": "この/その/あの (demonstrative adjectives)",
+      "grammar_header": "この/その/あの　どの",
       "last_reviewed": "2026-07-28",
       "interval_days": 124,
       "ease": 2.95,
@@ -105,7 +105,7 @@
     },
     "UN5GL1L2::kore-sore-are": {
       "lesson_file": "grammar-index/grammar/kore-sore-are-dore.md",
-      "grammar_header": "これ/それ/あれ (demonstrative pronouns)",
+      "grammar_header": "これ/それ/あれ　どれ",
       "last_reviewed": "2026-07-30",
       "interval_days": 138,
       "ease": 3.1,
@@ -161,7 +161,7 @@
     },
     "UN4GL5::volitional-to-omotteimasu": {
       "lesson_file": "grammar-index/grammar/volitional-form-totteimasu-im-thinking-of.md",
-      "grammar_header": "Volitional form + と思っています",
+      "grammar_header": "Volitional form + と思っています - I'm thinking of",
       "last_reviewed": "2026-09-09",
       "interval_days": 16,
       "ease": 1.3,
@@ -232,7 +232,7 @@
     },
     "UN4GL5::tara-iidesu-interrogative": {
       "lesson_file": "grammar-index/grammar/interrogative-vtara-iidesuka-ask-for-advice-or-instructions.md",
-      "grammar_header": "たら + いいですか",
+      "grammar_header": "interrogative V「た」ら + いいですか - ask for advice or instructions",
       "last_reviewed": "2026-09-02",
       "interval_days": 2,
       "ease": 1.45,
@@ -409,7 +409,7 @@
     },
     "UN4GL5::yasui-nikui": {
       "lesson_file": "grammar-index/grammar/vmasuyasuidesu-nikuidesu-easy-difficult-to-do.md",
-      "grammar_header": "V「ます形」やすいです・にくいです",
+      "grammar_header": "V「ます形」やすいです・にくいです - easy/difficult to do",
       "last_reviewed": "2026-07-14",
       "next_review": "2026-09-28",
       "interval_days": 76,
@@ -804,7 +804,7 @@
     },
     "UN5GL5::issho-ni-vs-to-issho-ni": {
       "lesson_file": "grammar-index/grammar/issho-together-same.md",
-      "grammar_header": "いっしょに vs といっしょに",
+      "grammar_header": "いっしょ  - together, with, the same (cf. 同じ)",
       "last_reviewed": "2026-07-27",
       "interval_days": 66,
       "ease": 2.45,
@@ -821,7 +821,7 @@
     },
     "UN5GL5::masu-form-conjugation": {
       "lesson_file": "grammar-index/grammar/masu-form.md",
-      "grammar_header": "ます form conjugation",
+      "grammar_header": "ます形 - masu form",
       "last_reviewed": "2026-07-05",
       "interval_days": 51,
       "ease": 2.95,
@@ -839,7 +839,7 @@
     },
     "UN5GL5::he-ni-direction-ni-time": {
       "lesson_file": "grammar-index/grammar/he-ni-direction-destination.md",
-      "grammar_header": "へ/に direction + に time",
+      "grammar_header": "へ / に - direction of movement, travel (destination)",
       "last_reviewed": "2026-07-08",
       "interval_days": 45,
       "ease": 2.8,
@@ -855,7 +855,7 @@
     },
     "UN5GL5::ni-time-exceptions": {
       "lesson_file": "grammar-index/grammar/ni-time-of-action.md",
-      "grammar_header": "に for time — exceptions",
+      "grammar_header": "に - time of occurrence of an action",
       "last_reviewed": "2026-07-05",
       "interval_days": 51,
       "ease": 2.95,
@@ -868,7 +868,7 @@
     },
     "UN5GL5::wo-multiple-uses": {
       "lesson_file": "grammar-index/grammar/wo.md",
-      "grammar_header": "を — multiple uses",
+      "grammar_header": "を",
       "last_reviewed": "2026-08-09",
       "next_review": "2026-12-25",
       "interval_days": 138,
@@ -887,7 +887,7 @@
     },
     "UN5GL6::v-dict-tosugudesu": {
       "lesson_file": "grammar-index/grammar/v-dict-tosugudesu-as-soon-as.md",
-      "grammar_header": "V dict とすぐです",
+      "grammar_header": "V dict とすぐです - As soon as ....",
       "last_reviewed": "2026-07-06",
       "next_review": "2026-09-24",
       "interval_days": 51,
@@ -916,7 +916,7 @@
     },
     "UN5GL6::de-means-or-method": {
       "lesson_file": "grammar-index/grammar/de-means-or-method.md",
-      "grammar_header": "で — means or method",
+      "grammar_header": "で - means or method",
       "last_reviewed": "2026-07-06",
       "interval_days": 51,
       "ease": 2.95,
@@ -944,7 +944,7 @@
     },
     "UN5GL6::douyatte": {
       "lesson_file": "grammar-index/grammar/douyatte-how-to.md",
-      "grammar_header": "どうやって",
+      "grammar_header": "どうやって - how to",
       "last_reviewed": "2026-07-06",
       "interval_days": 51,
       "ease": 2.95,
@@ -960,7 +960,7 @@
     },
     "UN5GL6::place-ni-v-indicate-destination": {
       "lesson_file": "grammar-index/grammar/place-ni-v-indicate-destination.md",
-      "grammar_header": "Place に + V — indicate destination",
+      "grammar_header": "Place + に ＋　V - indicate destination",
       "last_reviewed": "2026-07-06",
       "interval_days": 51,
       "ease": 2.95,
@@ -1001,7 +1001,7 @@
     },
     "UN5GL6::norikkaeru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/norikaeru-to-transfer.md",
-      "grammar_header": "乗り換える",
+      "grammar_header": "乗り換える - to transfer",
       "last_reviewed": "2026-07-06",
       "interval_days": 51,
       "ease": 2.95,
@@ -1047,7 +1047,7 @@
     },
     "UN5GL6::he-magaru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/hegaru-to-turn.md",
-      "grammar_header": "へ + 曲がる",
+      "grammar_header": "へ＋曲がる - to turn",
       "last_reviewed": "2026-07-07",
       "interval_days": 51,
       "ease": 2.95,
@@ -1060,7 +1060,7 @@
     },
     "UN5GL7::vmasukei-masenka": {
       "lesson_file": "grammar-index/grammar/masenka.md",
-      "grammar_header": "Vます形＋ませんか",
+      "grammar_header": "Vます形＋ませんか　Shall we? / Would you like? / Why don't you...?",
       "last_reviewed": "2026-07-07",
       "interval_days": 51,
       "ease": 2.95,
@@ -1073,7 +1073,7 @@
     },
     "UN5GL7::vmasukei-mashou": {
       "lesson_file": "grammar-index/grammar/mashou.md",
-      "grammar_header": "Vます形＋ましょう",
+      "grammar_header": "Vます形＋ましょう　- Let's...",
       "last_reviewed": "2026-07-22",
       "interval_days": 29,
       "ease": 2.05,
@@ -1092,7 +1092,7 @@
     },
     "UN5GL7::vmasukei-mashouka": {
       "lesson_file": "grammar-index/grammar/mashouka.md",
-      "grammar_header": "Vます形＋ましょうか",
+      "grammar_header": "Vます形＋ましょうか　- Shall I/We",
       "last_reviewed": "2026-08-07",
       "interval_days": 49,
       "ease": 2.5,
@@ -1108,7 +1108,7 @@
     },
     "UN5GL7::teiru-state-habit": {
       "lesson_file": "grammar-index/grammar/teiru-show-state.md",
-      "grammar_header": "ている — state / habit",
+      "grammar_header": "ている - show state",
       "last_reviewed": "2026-07-07",
       "interval_days": 51,
       "ease": 2.95,
@@ -1121,7 +1121,7 @@
     },
     "UN5GL7::tekei-sequential": {
       "lesson_file": "grammar-index/grammar/te-form-sequencing-order.md",
-      "grammar_header": "て形 — sequential events",
+      "grammar_header": "て形 - several events happening back to back - order",
       "last_reviewed": "2026-08-09",
       "next_review": "2026-09-24",
       "interval_days": 46,
@@ -1138,7 +1138,7 @@
     },
     "UN5GL7::tekei-moiidesu": {
       "lesson_file": "grammar-index/grammar/temoiidesuka-permission.md",
-      "grammar_header": "て形＋もいいです/か",
+      "grammar_header": "て形＋もいいです/か - You can do/ Can I?",
       "last_reviewed": "2026-07-07",
       "interval_days": 51,
       "ease": 2.95,
@@ -1151,7 +1151,7 @@
     },
     "UN5GL7::tekei-haikemasen": {
       "lesson_file": "grammar-index/grammar/tehaikemasen-must-not.md",
-      "grammar_header": "て形＋はいけません",
+      "grammar_header": "て形＋はいけません - You must not do",
       "last_reviewed": "2026-07-07",
       "interval_days": 51,
       "ease": 2.95,
@@ -1179,7 +1179,7 @@
     },
     "UN5GL7::matsu-wo": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/matsu-to-wait.md",
-      "grammar_header": "待つ — を 待つ",
+      "grammar_header": "待つ - to wait",
       "last_reviewed": "2026-07-16",
       "interval_days": 68,
       "ease": 2.5,
@@ -1195,7 +1195,7 @@
     },
     "UN5GL7::time-place-v-order": {
       "lesson_file": "grammar-index/grammar/order.md",
-      "grammar_header": "Time + Place + V order",
+      "grammar_header": "Order",
       "last_reviewed": "2026-07-31",
       "interval_days": 100,
       "ease": 2.8,
@@ -1212,7 +1212,7 @@
     },
     "UN5GL7::benkyo-noun-verb": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/benkyou-learn.md",
-      "grammar_header": "勉強 — noun vs verb pattern",
+      "grammar_header": "勉強 - learn",
       "last_reviewed": "2026-09-03",
       "interval_days": 196,
       "ease": 3.1,
@@ -1417,7 +1417,7 @@
     },
     "UN4GL7::vdict-koto-ni-suru": {
       "lesson_file": "grammar-index/grammar/v-dict-koto-ni-suru-i-decided-on-my-own-will.md",
-      "grammar_header": "V「dict」こと ＋ に ＋ する",
+      "grammar_header": "V「dict」 こと ＋ に　＋ する - I decided (on my own will)",
       "last_reviewed": "2026-09-02",
       "interval_days": 44,
       "ease": 2.2,
@@ -1436,7 +1436,7 @@
     },
     "UN4GL7::vdict-koto-ni-narimasu": {
       "lesson_file": "grammar-index/grammar/v-dict-koto-ni-narimasu-it-was-decided.md",
-      "grammar_header": "V「dict」こと ＋ に + なります",
+      "grammar_header": "V「dict」 こと ＋ に + なります - It was decided",
       "last_reviewed": "2026-09-07",
       "interval_days": 44,
       "ease": 2.2,
@@ -1455,7 +1455,7 @@
     },
     "UN4GL7::vdict-koto-ni-natteimasu": {
       "lesson_file": "grammar-index/grammar/v-dict-koto-ni-natteimasu-it-is-supposed-to.md",
-      "grammar_header": "V「dict」こと ＋ に + なっています",
+      "grammar_header": "V「dict」 こと ＋ に + なっています - It is supposed to",
       "last_reviewed": "2026-09-07",
       "interval_days": 15,
       "ease": 1.9,
@@ -1474,7 +1474,7 @@
     },
     "UN4GL7::no-meishika": {
       "lesson_file": "grammar-index/grammar/no-meishika.md",
-      "grammar_header": "の 名詞化（めいしか）",
+      "grammar_header": "の 名詞化（めいしか） - nominaliser (when word is added after an adjective or verb)",
       "last_reviewed": "2026-09-02",
       "interval_days": 92,
       "ease": 2.5,
@@ -1493,7 +1493,7 @@
     },
     "UN4GL7::meishi-chuu-juu": {
       "lesson_file": "grammar-index/grammar/meishi-chuu-juu-during.md",
-      "grammar_header": "名詞（めいし） + 中（ちゅう・じゅう）",
+      "grammar_header": "名詞（めいし） + 中（ちゅう・じゅう）- during",
       "last_reviewed": "2026-09-07",
       "interval_days": 29,
       "ease": 2.05,
@@ -1512,7 +1512,7 @@
     },
     "UN4GL7::vte-moraemasenka": {
       "lesson_file": "grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka.md",
-      "grammar_header": "V「て」もらえませんか / くれませんか",
+      "grammar_header": "V「て」もらえませんか, V「て」くれませんか",
       "last_reviewed": "2026-08-09",
       "interval_days": 72,
       "ease": 2.2,
@@ -1529,7 +1529,7 @@
     },
     "UN4GL7::zehi": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/zehi-sure-of-course.md",
-      "grammar_header": "是非（ぜひ）",
+      "grammar_header": "是非(ぜひ) - sure / of course",
       "last_reviewed": "2026-08-14",
       "interval_days": 29,
       "ease": 1.7,
@@ -1548,7 +1548,7 @@
     },
     "UN4GL7::kanarazu": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/kanara-must-surely-certainly.md",
-      "grammar_header": "必ず（かならず）",
+      "grammar_header": "必ず(かなら) - must / surely / certainly",
       "last_reviewed": "2026-07-30",
       "interval_days": 21,
       "ease": 1.75,
@@ -1567,7 +1567,7 @@
     },
     "UN4GL7::chikara": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/chikara-strength-effect-power-ability.md",
-      "grammar_header": "力（ちから）",
+      "grammar_header": "力(ちから) - strength / effect / power / ability",
       "last_reviewed": "2026-07-21",
       "interval_days": 28,
       "ease": 2.35,
@@ -1586,7 +1586,7 @@
     },
     "UN4GL3::kanokei-potential-form": {
       "lesson_file": "grammar-index/grammar/kanoukei-potential-form-can.md",
-      "grammar_header": "可能形",
+      "grammar_header": "可能形（かのうけい）- potential form - can",
       "last_reviewed": "2026-07-24",
       "interval_days": 69,
       "ease": 2.35,
@@ -1605,7 +1605,7 @@
     },
     "UN4GL3::v-dict-to-if": {
       "lesson_file": "grammar-index/grammar/v-dict-to-if.md",
-      "grammar_header": "V dict + と — if",
+      "grammar_header": "V dict + と - if",
       "last_reviewed": "2026-07-15",
       "interval_days": 34,
       "ease": 2.0,
@@ -1624,7 +1624,7 @@
     },
     "UN4GL3::shimasu-change-by-will": {
       "lesson_file": "grammar-index/grammar/narimasu-vs-shimasu-change-of-state.md",
-      "grammar_header": "～くします／～にします — change by person's will",
+      "grammar_header": "....します - a situation changed through a person's will (compare なる, a change due to nature/circumstance, not a person's will)",
       "last_reviewed": "2026-08-03",
       "interval_days": 16,
       "ease": 1.6,
@@ -1643,7 +1643,7 @@
     },
     "UN4GL3::n-ni-shimasu": {
       "lesson_file": "grammar-index/grammar/n-ni-shimasu-decision.md",
-      "grammar_header": "N＋に＋します",
+      "grammar_header": "N＋に＋します - speaker says what he/she decided on",
       "last_reviewed": "2026-08-04",
       "interval_days": 12,
       "ease": 1.45,
@@ -1662,7 +1662,7 @@
     },
     "UN4GL3::vte-okimasu": {
       "lesson_file": "grammar-index/grammar/v-te-okimasu.md",
-      "grammar_header": "V「て形」＋おきます",
+      "grammar_header": "V「て形」＋おきます - V continues without any changes, leave",
       "last_reviewed": "2026-09-03",
       "next_review": "2026-10-11",
       "interval_days": 38,
@@ -1681,7 +1681,7 @@
     },
     "UN4GL3::vte-haikemasen": {
       "lesson_file": "grammar-index/grammar/v-tewa-ikemasen-forbidden.md",
-      "grammar_header": "V「て形」はいけません — forbidden",
+      "grammar_header": "V「て形」はいけません - is forbidden to do something",
       "last_reviewed": "2026-08-17",
       "interval_days": 142,
       "ease": 2.95,
@@ -1697,7 +1697,7 @@
     },
     "UN4GL3::vnakute-haikemasen": {
       "lesson_file": "grammar-index/grammar/v-nakute-ha-ikemasen-must.md",
-      "grammar_header": "V「なくて」はいけません — must do",
+      "grammar_header": "V「なくて」はいけません - must to do something",
       "last_reviewed": "2026-08-04",
       "interval_days": 14,
       "ease": 1.4,
@@ -1716,7 +1716,7 @@
     },
     "UN4GL3::youni": {
       "lesson_file": "grammar-index/grammar/youni-in-order-to.md",
-      "grammar_header": "ように",
+      "grammar_header": "ように - act on purpose or goal in mind, in order to, so that",
       "last_reviewed": "2026-08-10",
       "interval_days": 55,
       "ease": 2.05,
@@ -1968,7 +1968,7 @@
     },
     "UN4GL9::kakeru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/kakeru.md",
-      "grammar_header": "### かける - multi-use verb (hang/pour, attach, lock, wear, sit, phone, trouble, time/money)",
+      "grammar_header": "かける - multi-use verb (hang/pour, attach, lock, wear, sit, phone, trouble, time/money)",
       "last_reviewed": "2026-08-02",
       "interval_days": 1,
       "ease": 2.0,
@@ -2025,7 +2025,7 @@
     },
     "UN4GL10::interrogative-ba-ii-desu-ka": {
       "lesson_file": "grammar-index/grammar/v-ba-iidesuka.md",
-      "grammar_header": "Interrogative V conditional form + いいですか",
+      "grammar_header": "Interrogative V conditional form + 　いいですか - ask for opinion or advice",
       "last_reviewed": "2026-09-09",
       "interval_days": 2,
       "ease": 1.7,
@@ -2063,7 +2063,7 @@
     },
     "UN4GL10::v-te-kuru-kita": {
       "lesson_file": "grammar-index/grammar/te-kuru-kita-iku.md",
-      "grammar_header": "V「て-form」くる / きた — action continuing over time",
+      "grammar_header": "V「て-form」くる / きた / いく — action continuing over time",
       "last_reviewed": "2026-08-17",
       "interval_days": 1,
       "ease": 1.7,
@@ -2147,7 +2147,7 @@
     },
     "UN4GL1::tekuru-tekimasu": {
       "lesson_file": "grammar-index/grammar/tekuru-action-toward-speaker.md",
-      "grammar_header": "～てくる, てきます",
+      "grammar_header": "～てくる, てきます - Action toward the speaker / returning to the starting point",
       "last_reviewed": "2026-08-09",
       "next_review": "2026-11-05",
       "interval_days": 88,
@@ -2162,7 +2162,7 @@
     },
     "UN4GL1::teiku-te-ikimasu": {
       "lesson_file": "grammar-index/grammar/teiku-action-away-from-speaker.md",
-      "grammar_header": "～ていく／～て行きます",
+      "grammar_header": "～ていく／～て行きます Action moves away from the speaker",
       "last_reviewed": "2026-09-07",
       "next_review": "2026-11-24",
       "interval_days": 78,
@@ -2195,7 +2195,7 @@
     },
     "UN4GL1::soudesu-souda": {
       "lesson_file": "grammar-index/grammar/sou-desu-appearance-inference.md",
-      "grammar_header": "そうです/そうだ",
+      "grammar_header": "そうです/そうだ - express an impression or inference based on direct observation - it looks",
       "last_reviewed": "2026-08-10",
       "interval_days": 55,
       "ease": 2.8,
@@ -2210,7 +2210,7 @@
     },
     "UN4GL1::ndesu-nodesu": {
       "lesson_file": "grammar-index/grammar/ndesu-nodesu-explaining-reason.md",
-      "grammar_header": "んです/のです",
+      "grammar_header": "**んです**/のです - express the situation to provide a reason, explaining something",
       "last_reviewed": "2026-08-06",
       "interval_days": 43,
       "ease": 2.5,
@@ -2226,7 +2226,7 @@
     },
     "UN4GL1::kadouka": {
       "lesson_file": "grammar-index/grammar/kadouka-whether-or-not.md",
-      "grammar_header": "かどうか",
+      "grammar_header": "かどうか - whether or not",
       "last_reviewed": "2026-08-17",
       "interval_days": 114,
       "ease": 2.8,
@@ -2242,7 +2242,7 @@
     },
     "UN4GL1::kata": {
       "lesson_file": "grammar-index/grammar/kata-a-way-of-doing.md",
-      "grammar_header": "～方（かた）",
+      "grammar_header": "～方（かた） - a way of doing",
       "last_reviewed": "2026-08-10",
       "interval_days": 48,
       "ease": 2.3,
@@ -2261,7 +2261,7 @@
     },
     "UN4GL1::sugimasu-sugiru": {
       "lesson_file": "grammar-index/grammar/sugimasu-sugiru-too.md",
-      "grammar_header": "すぎます・すぎる",
+      "grammar_header": "すぎます・すぎる - too...",
       "last_reviewed": "2026-08-17",
       "interval_days": 114,
       "ease": 2.8,
@@ -2276,7 +2276,7 @@
     },
     "UN4GL1::wo-sugiru": {
       "lesson_file": "grammar-index/grammar/wo-sugiru-to-pass-time.md",
-      "grammar_header": "を過ぎる（すぎる）",
+      "grammar_header": "を 過ぎる（す）- to pass somewhere and further go ahead/ time",
       "last_reviewed": "2026-09-06",
       "interval_days": 13,
       "ease": 1.9,
@@ -2295,7 +2295,7 @@
     },
     "UN4GL1::sara-counter": {
       "lesson_file": "grammar-index/grammar/sara-dishes.md",
-      "grammar_header": "皿（さら）counter",
+      "grammar_header": "皿（さら) - dishes",
       "last_reviewed": "2026-09-04",
       "interval_days": 34,
       "ease": 2.2,
@@ -2332,7 +2332,7 @@
     },
     "UN4GL1::nureru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/nureru-to-get-wet.md",
-      "grammar_header": "濡れる（ぬれる）",
+      "grammar_header": "濡れる （ぬ） - to get wet",
       "last_reviewed": "2026-09-03",
       "interval_days": 50,
       "ease": 2.9,
@@ -2347,7 +2347,7 @@
     },
     "UN4GL1::toru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/toru-to-carry-hold-take-pass.md",
-      "grammar_header": "取る（とる）",
+      "grammar_header": "取る（とる）- to carry/hold/take/pass",
       "last_reviewed": "2026-08-11",
       "interval_days": 68,
       "ease": 2.5,
@@ -2411,7 +2411,7 @@
     },
     "UN4GL12::vdict-na": {
       "lesson_file": "grammar-index/grammar/vdictna-dont-do.md",
-      "grammar_header": "V「dict」+な - Don't do...",
+      "grammar_header": "V「dict」＋な - Don't do...",
       "last_reviewed": "2026-07-30",
       "interval_days": 14,
       "ease": 2.35,
@@ -2707,7 +2707,7 @@
     },
     "UN5GL8::dou-desu-ka": {
       "lesson_file": "grammar-index/grammar/doudesuka-how-is.md",
-      "grammar_header": "どうですか",
+      "grammar_header": "どうですか - How Is?",
       "last_reviewed": "2026-09-08",
       "interval_days": 16,
       "ease": 2.45,
@@ -2724,7 +2724,7 @@
     },
     "UN5GL8::and-kute": {
       "lesson_file": "grammar-index/grammar/i-kute.md",
-      "grammar_header": "Spójniki — and (くて)",
+      "grammar_header": "い -> くて",
       "last_reviewed": "2026-07-29",
       "interval_days": 51,
       "ease": 2.95,
@@ -2740,7 +2740,7 @@
     },
     "UN5GL8::but-ga": {
       "lesson_file": "grammar-index/grammar/contrastive-ga-but.md",
-      "grammar_header": "Spójniki — BUT (が)",
+      "grammar_header": "But -  が",
       "last_reviewed": "2026-08-17",
       "interval_days": 14,
       "ease": 2.35,
@@ -2790,7 +2790,7 @@
     },
     "UN5GL8::shiru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/shiru.md",
-      "grammar_header": "知る — 知っています／知りません",
+      "grammar_header": "知る - to know",
       "last_reviewed": "2026-07-28",
       "interval_days": 45,
       "ease": 2.8,
@@ -2805,7 +2805,7 @@
     },
     "UN4GL13::dai-counter": {
       "lesson_file": "grammar-index/grammar/dai-counter.md",
-      "grammar_header": "台（だい）counter",
+      "grammar_header": "台(だい) - urządzenia mechaniczne, elektroniczne, pojazdy",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-10",
       "interval_days": 9,
@@ -2821,7 +2821,7 @@
     },
     "UN4GL13::sonkeigo-rareru": {
       "lesson_file": "grammar-index/grammar/sonkeikei-passive-form.md",
-      "grammar_header": "尊敬語 — られる (passive-based respectful form)",
+      "grammar_header": "1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-13",
       "interval_days": 5,
@@ -2837,7 +2837,7 @@
     },
     "UN4GL13::sonkeigo-special-verbs": {
       "lesson_file": "grammar-index/grammar/tokubetsunadoushi-special-verbs.md",
-      "grammar_header": "尊敬語 — 特別な動詞 (special verbs)",
+      "grammar_header": "**2. 特別な動詞（とくべつなどうし）- special verbs**",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-10",
       "interval_days": 9,
@@ -2852,7 +2852,7 @@
     },
     "UN4GL13::sonkeigo-o-masu-ni-naru": {
       "lesson_file": "grammar-index/grammar/o-vmasu-ninarimasu.md",
-      "grammar_header": "尊敬語 — お＋ます形＋になる",
+      "grammar_header": "**3. お + V「ます形」になります**",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-13",
       "interval_days": 5,
@@ -2868,7 +2868,7 @@
     },
     "UN4GL13::o-go-prefix": {
       "lesson_file": "grammar-index/grammar/sonkeigo-o-go-prefix-nouns-adjectives-adverbs.md",
-      "grammar_header": "お・ご ＋ Noun/Adj (keigo prefix)",
+      "grammar_header": "Nouns, adjectives, adverbs",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-11",
       "interval_days": 1,
@@ -2884,7 +2884,7 @@
     },
     "UN4GL13::kochira-sochira-achira-dochira-sama": {
       "lesson_file": "grammar-index/grammar/sonkeigo-polite-people-reference.md",
-      "grammar_header": "こちら／そちら／あちら／どちら＋様",
+      "grammar_header": "People",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-11",
       "interval_days": 1,
@@ -2932,7 +2932,7 @@
     },
     "UN4GL13::te-kudasaimasenka": {
       "lesson_file": "grammar-index/grammar/kudasaimasenka-polite-request.md",
-      "grammar_header": "Vて形＋くださいませんか",
+      "grammar_header": "Vて形＋くださいませんか politer form of くれませんか - could you please (do smth for me)",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-13",
       "interval_days": 5,
@@ -2948,7 +2948,7 @@
     },
     "UN4GL13::baai-wa": {
       "lesson_file": "grammar-index/grammar/baai-in-case-of-if.md",
-      "grammar_header": "。。。場合は (V/Vた・い-adj・な-adj/N)",
+      "grammar_header": "。。。場合は, 。。。 - in case of, if",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-13",
       "interval_days": 5,
@@ -2963,8 +2963,8 @@
       "score": 2
     },
     "UN4GL13::kenjougo-haiken-ukagau": {
-      "lesson_file": "grammar-index/grammar/kenjougo-humble-expressions-un4gl13.md",
-      "grammar_header": "謙譲語 (拝見する／伺う／わたくし／弊社)",
+      "lesson_file": "grammar-index/grammar/kenjougo-humble-expressions.md",
+      "grammar_header": "謙譲語（けんじょうご） - humble expressions",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-11",
       "interval_days": 9,
@@ -2979,7 +2979,7 @@
     },
     "UN4GL13::teineigo-gozaimasu": {
       "lesson_file": "grammar-index/grammar/gozaimasu-polite-arimasu-desu.md",
-      "grammar_header": "丁寧語 (ございます)",
+      "grammar_header": "ございます - polite arimasu、desu",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-14",
       "interval_days": 5,
@@ -2995,7 +2995,7 @@
     },
     "UN4GL13::nakanaka": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/nakanaka-quite.md",
-      "grammar_header": "なかなか (positive & negative)",
+      "grammar_header": "なかなか - quite",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-14",
       "interval_days": 5,
@@ -3011,7 +3011,7 @@
     },
     "UN4GL13::hotondo": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/hotondo-almost-amount.md",
-      "grammar_header": "ほとんど (positive & negative)",
+      "grammar_header": "ほとんど - almost (amount)",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-14",
       "interval_days": 5,
@@ -3027,7 +3027,7 @@
     },
     "UN4GL13::shiraseru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/shiraseru-to-inform-let-know.md",
-      "grammar_header": "知らせる (to inform)",
+      "grammar_header": "知らせる（し）- to inform, let know",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-14",
       "interval_days": 5,
@@ -3043,7 +3043,7 @@
     },
     "UN4GL13::bun-portion": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/bun-portion-range.md",
-      "grammar_header": "分（ぶん）usage (counter suffix・divided portion・range)",
+      "grammar_header": "分(ぶん) - portion, range",
       "last_reviewed": "2026-08-18",
       "next_review": "2026-09-15",
       "interval_days": 5,
@@ -3059,7 +3059,7 @@
     },
     "UN5GL9::general-counter-1-10": {
       "lesson_file": "grammar-index/grammar/general-counting-method-1-10.md",
-      "grammar_header": "Ogólny sposób liczenia (1-10)",
+      "grammar_header": "General counting method (1-10)",
       "last_reviewed": "2026-08-06",
       "interval_days": 51,
       "ease": 2.95,
@@ -3114,7 +3114,7 @@
     },
     "UN5GL9::na-adj-overview": {
       "lesson_file": "grammar-index/grammar/na-adjective-overview.md",
-      "grammar_header": "な形容詞 な overview",
+      "grammar_header": "1. な形容詞　な　overview",
       "last_reviewed": "2026-08-07",
       "interval_days": 39,
       "ease": 2.8,
@@ -3130,7 +3130,7 @@
     },
     "UN5GL9::n-na-adj-desu": {
       "lesson_file": "grammar-index/grammar/naadj-noun.md",
-      "grammar_header": "N＋なadj + です - something is...",
+      "grammar_header": "2. なadj + Noun",
       "last_reviewed": "2026-08-11",
       "interval_days": 51,
       "ease": 2.95,
@@ -3143,7 +3143,7 @@
     },
     "UN5GL9::n1-na-adj-na-n2": {
       "lesson_file": "grammar-index/grammar/n1-ha-naadj-na-n2.md",
-      "grammar_header": "N1は + なadj + な N2",
+      "grammar_header": "4. N1は + なadj + な N2",
       "last_reviewed": "2026-09-06",
       "interval_days": 59,
       "ease": 2.8,
@@ -3323,7 +3323,7 @@
         "conflated あまり (partial negation) with 全然 (total negation)"
       ],
       "lesson_file": "grammar-index/grammar/degree-adverbs-sukoshi-amari-zenzen.md",
-      "grammar_header": "Stopniowanie",
+      "grammar_header": "Degree adverbs (少し・あまり・全然)",
       "last_reviewed": "2026-08-17",
       "last_score": 4,
       "score": 4,
@@ -3357,7 +3357,7 @@
         "used self (私) as topic instead of the specified third-person subject in N1は N2が construction"
       ],
       "lesson_file": "grammar-index/grammar/n1-ha-n2-ga-adj-desu-n2-is-a-trait-feature-of-n1.md",
-      "grammar_header": "N1　は　N2 が ADJです",
+      "grammar_header": "N1 は N2 が ADJ です — N2 is a trait/feature of N1",
       "last_reviewed": "2026-08-17",
       "last_score": 3,
       "score": 3,
@@ -3386,7 +3386,7 @@
         "place + まで + V takes no に (に only belongs to time + までに)"
       ],
       "lesson_file": "grammar-index/grammar/made.md",
-      "grammar_header": "N(place) + まで + V - BY (do)",
+      "grammar_header": "まで",
       "last_reviewed": "2026-09-07",
       "last_score": 3,
       "score": 3,
@@ -3402,7 +3402,7 @@
         "godan nai-stem: 買う→買わ not 買え (e-row is potential/conditional stem)"
       ],
       "lesson_file": "grammar-index/grammar/vnainakerebanarimasen-i-have-to-do.md",
-      "grammar_header": "Vない＋なければなりません",
+      "grammar_header": "Vない＋なければなりません- I have to do",
       "last_reviewed": "2026-08-13",
       "last_score": 3,
       "score": 3,
@@ -3417,7 +3417,7 @@
         "abbreviation/particle-drop not attempted — needs review of casual speech particle omission"
       ],
       "lesson_file": "grammar-index/grammar/particle-omission-ga-ha-wo-ni.md",
-      "grammar_header": "abbreviation (skrót) が、は、を、に",
+      "grammar_header": "Particle omission — が、は、を、(に)",
       "last_reviewed": "2026-08-17",
       "last_score": 2,
       "score": 2,
@@ -3556,7 +3556,7 @@
       "total_reviews": 2,
       "weak_points": [],
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/kasu.md",
-      "grammar_header": "貸す（か）- to lend",
+      "grammar_header": "貸す（かす）- to lend",
       "last_reviewed": "2026-07-31",
       "last_score": 4,
       "score": 4,
@@ -3623,7 +3623,7 @@
     },
     "UN5GL11::n-wo-vs-n-wa": {
       "lesson_file": "grammar-index/grammar/n-wo-vs-n-ha.md",
-      "grammar_header": "N＋を vs N＋は",
+      "grammar_header": "N＋を　vs N＋は",
       "interval_days": 5,
       "ease": 2.5,
       "streak": 2,
@@ -3639,7 +3639,7 @@
     },
     "UN5GL11::v-teiru-teinai": {
       "lesson_file": "grammar-index/grammar/v-teiru-teinai.md",
-      "grammar_header": "Vている / ていない",
+      "grammar_header": "V ている / ていない",
       "interval_days": 14,
       "ease": 2.8,
       "streak": 2,
@@ -3654,7 +3654,7 @@
     },
     "UN5GL11::dareka": {
       "lesson_file": "grammar-index/grammar/dareka-someone.md",
-      "grammar_header": "だれか",
+      "grammar_header": "だれか - someone",
       "interval_days": 14,
       "ease": 2.8,
       "streak": 2,
@@ -3669,7 +3669,7 @@
     },
     "UN5GL11::daremo": {
       "lesson_file": "grammar-index/grammar/daremo-nobodu.md",
-      "grammar_header": "だれも",
+      "grammar_header": "だれも - nobodu",
       "interval_days": 11,
       "ease": 2.65,
       "streak": 2,
@@ -3684,7 +3684,7 @@
     },
     "UN5GL11::nanika": {
       "lesson_file": "grammar-index/grammar/ka-something.md",
-      "grammar_header": "何か",
+      "grammar_header": "何か - something",
       "interval_days": 14,
       "ease": 2.8,
       "streak": 2,
@@ -3697,7 +3697,7 @@
     },
     "UN5GL11::nanimo": {
       "lesson_file": "grammar-index/grammar/mo-nothing.md",
-      "grammar_header": "何も",
+      "grammar_header": "何も - nothing",
       "interval_days": 11,
       "ease": 2.65,
       "streak": 2,
@@ -3713,7 +3713,7 @@
     },
     "UN5GL11::dokoka": {
       "lesson_file": "grammar-index/grammar/dokoka-somewhere-anywhere.md",
-      "grammar_header": "どこか",
+      "grammar_header": "どこか - somewhere, anywhere",
       "interval_days": 13,
       "ease": 2.65,
       "streak": 2,
@@ -3728,7 +3728,7 @@
     },
     "UN5GL11::dokomo-dokoemo": {
       "lesson_file": "grammar-index/grammar/dokomo-dokohemo-nowhere.md",
-      "grammar_header": "どこも/どこへも",
+      "grammar_header": "どこも/どこへも - nowhere",
       "interval_days": 14,
       "ease": 2.8,
       "streak": 2,
@@ -3741,7 +3741,7 @@
     },
     "UN5GL11::mada": {
       "lesson_file": "grammar-index/grammar/mada-still-not-yet.md",
-      "grammar_header": "まだ",
+      "grammar_header": "まだ - still, not yet",
       "interval_days": 21,
       "ease": 2.35,
       "streak": 3,
@@ -3758,7 +3758,7 @@
     },
     "UN5GL11::mou": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/mou-already-soon.md",
-      "grammar_header": "もう",
+      "grammar_header": "もう already, soon",
       "interval_days": 13,
       "ease": 2.65,
       "streak": 2,
@@ -3775,7 +3775,7 @@
     },
     "UN5GL11::mae-ni": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/mae-ni-before.md",
-      "grammar_header": "前に + V",
+      "grammar_header": "前に + V -  before",
       "interval_days": 39,
       "ease": 2.65,
       "streak": 3,
@@ -3791,7 +3791,7 @@
     },
     "UN5GL11::ato-de": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/ato-de-after.md",
-      "grammar_header": "後で",
+      "grammar_header": "後で - after",
       "interval_days": 30,
       "ease": 2.5,
       "streak": 3,
@@ -3807,7 +3807,7 @@
     },
     "UN5GL11::tekara": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/kara-specify-order-of-things.md",
-      "grammar_header": "V1てから+V2",
+      "grammar_header": "から Specify order of things",
       "interval_days": 11,
       "ease": 2.65,
       "streak": 2,
@@ -3822,7 +3822,7 @@
     },
     "UN5GL11::sai-counter": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/years-old.md",
-      "grammar_header": "Years old (～歳)",
+      "grammar_header": "Years old",
       "interval_days": 13,
       "ease": 2.65,
       "streak": 2,
@@ -3839,7 +3839,7 @@
     },
     "UN5GL11::okuru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/okuru-send.md",
-      "grammar_header": "送る",
+      "grammar_header": "送る - send",
       "interval_days": 11,
       "ease": 2.2,
       "streak": 3,
@@ -3856,7 +3856,7 @@
     },
     "UN5GL11::naru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/naru-become.md",
-      "grammar_header": "なる",
+      "grammar_header": "なる - become",
       "interval_days": 14,
       "ease": 2.8,
       "streak": 2,
@@ -4255,7 +4255,7 @@
     },
     "UN5GL15::listing-activities-vtari-shimasu": {
       "lesson_file": "grammar-index/grammar/tari.md",
-      "grammar_header": "Listing activities Vたり・・・します - two and more activities",
+      "grammar_header": "Listing activities Vた り  ・・・します - two and more activities",
       "last_reviewed": "2026-09-03",
       "last_score": 4,
       "score": 4,
@@ -4359,7 +4359,7 @@
     },
     "UN5GL14::vnaide-kudasai": {
       "lesson_file": "grammar-index/grammar/vnaidekudasai-please-dont-do-it.md",
-      "grammar_header": "Vないで ください",
+      "grammar_header": "Vないでください - please don't do it",
       "last_reviewed": "2026-09-02",
       "interval_days": 14,
       "ease": 2.8,
@@ -4374,7 +4374,7 @@
     },
     "UN5GL14::vnaku-nakutemoiidesu": {
       "lesson_file": "grammar-index/grammar/vnai-nakutemoiidesu-does-not-have-to.md",
-      "grammar_header": "Vない なくてもいいです",
+      "grammar_header": "Vない なくてもいいです - does not have to",
       "last_reviewed": "2026-09-02",
       "interval_days": 10,
       "ease": 2.5,
@@ -4390,7 +4390,7 @@
     },
     "UN5GL14::vplain-n-noun-modifier": {
       "lesson_file": "grammar-index/grammar/vplain-n-use-verb-to-modify-noun.md",
-      "grammar_header": "Vplain + N",
+      "grammar_header": "Vplain + N - use verb to modify noun",
       "last_reviewed": "2026-09-02",
       "interval_days": 11,
       "ease": 2.65,
@@ -4422,7 +4422,7 @@
     },
     "UN5GL14::subject-de-v": {
       "lesson_file": "grammar-index/grammar/subject-de-v-who-performs-action.md",
-      "grammar_header": "Subject + で + V",
+      "grammar_header": "Subject + で + V - who performs action",
       "last_reviewed": "2026-09-02",
       "interval_days": 10,
       "ease": 2.5,
@@ -4438,7 +4438,7 @@
     },
     "UN5GL14::n-dake": {
       "lesson_file": "grammar-index/grammar/ndake-only-n.md",
-      "grammar_header": "N＋だけ",
+      "grammar_header": "N＋だけ - only N",
       "last_reviewed": "2026-09-02",
       "interval_days": 11,
       "ease": 2.65,
@@ -4451,7 +4451,7 @@
     },
     "UN5GL14::counter-kai": {
       "lesson_file": "grammar-index/grammar/times.md",
-      "grammar_header": "Counter 回 (times)",
+      "grammar_header": "回 - times",
       "last_reviewed": "2026-09-02",
       "interval_days": 11,
       "ease": 2.65,
@@ -4466,7 +4466,7 @@
     },
     "UN5GL14::counter-hiki": {
       "lesson_file": "grammar-index/grammar/hiki-small-animals-fish-insects.md",
-      "grammar_header": "Counter 匹 (small animals)",
+      "grammar_header": "匹 (ひき) - small Animals / fish/insects",
       "last_reviewed": "2026-09-02",
       "interval_days": 11,
       "ease": 2.65,
@@ -4481,7 +4481,7 @@
     },
     "UN5GL14::counter-hai": {
       "lesson_file": "grammar-index/grammar/hai-pai-bai-number-of-cups-glasses-of-liquid.md",
-      "grammar_header": "Counter 杯 (cups/glasses)",
+      "grammar_header": "杯 (はい/ぱい/ばい) - number of cups/glasses of liquid",
       "last_reviewed": "2026-09-02",
       "interval_days": 9,
       "ease": 2.35,
@@ -4496,7 +4496,7 @@
     },
     "UN5GL14::counter-hon": {
       "lesson_file": "grammar-index/grammar/hon-long-items.md",
-      "grammar_header": "Counter 本 (long objects)",
+      "grammar_header": "本（ほん）- long items",
       "last_reviewed": "2026-09-02",
       "interval_days": 11,
       "ease": 2.65,
@@ -4511,7 +4511,7 @@
     },
     "UN5GL14::counter-satsu": {
       "lesson_file": "grammar-index/grammar/satsu-number-of-books.md",
-      "grammar_header": "Counter 冊 (books)",
+      "grammar_header": "冊　（さつ) - number of books",
       "last_reviewed": "2026-09-02",
       "interval_days": 14,
       "ease": 2.8,
@@ -4524,7 +4524,7 @@
     },
     "UN5GL14::kai-period": {
       "lesson_file": "grammar-index/grammar/kai-frequency.md",
-      "grammar_header": "回 (period of time / frequency)",
+      "grammar_header": "回 (かい) - frequency",
       "last_reviewed": "2026-09-02",
       "interval_days": 9,
       "ease": 2.35,
@@ -4540,7 +4540,7 @@
     },
     "UN5GL14::hanasu": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/hana-to-talk.md",
-      "grammar_header": "話す (talk to N / speak language)",
+      "grammar_header": "話す（はな) - to talk",
       "last_reviewed": "2026-09-02",
       "interval_days": 9,
       "ease": 2.35,
@@ -4557,7 +4557,7 @@
     },
     "UN5GL14::shitsumon-suru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/shitsumonsuru-to-ask-question.md",
-      "grammar_header": "質問する (Nに質問する)",
+      "grammar_header": "質問（しつもん）（する）- (to ask) question",
       "last_reviewed": "2026-09-02",
       "interval_days": 10,
       "ease": 2.5,
@@ -4572,7 +4572,7 @@
     },
     "UN5GL14::kotaeru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/kota-to-answer.md",
-      "grammar_header": "答える (Nに答える)",
+      "grammar_header": "答える（こた）- to answer",
       "last_reviewed": "2026-09-02",
       "interval_days": 10,
       "ease": 2.5,
@@ -4587,7 +4587,7 @@
     },
     "UN5GL14::oku": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/o-to-put-down.md",
-      "grammar_header": "置く (Nを Pに置く)",
+      "grammar_header": "置く（お）- to put down",
       "last_reviewed": "2026-09-02",
       "interval_days": 14,
       "ease": 2.8,
@@ -4600,7 +4600,7 @@
     },
     "UN5GL14::tanomu": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/tano-to-askfor-help-entrust.md",
-      "grammar_header": "頼む (ask for help / entrust)",
+      "grammar_header": "頼む（たの）- to ask(for help)/entrust",
       "last_reviewed": "2026-09-02",
       "interval_days": 11,
       "ease": 2.65,
@@ -4615,7 +4615,7 @@
     },
     "UN5GL14::yobu": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/yo-to-call-invite.md",
-      "grammar_header": "呼ぶ (call/summon / invite to place)",
+      "grammar_header": "呼ぶ（よ）- to call, invite",
       "last_reviewed": "2026-09-02",
       "interval_days": 5,
       "ease": 2.5,
@@ -4631,7 +4631,7 @@
     },
     "UN5GL14::miseru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/miseru-to-show.md",
-      "grammar_header": "見せる (N1にN2を見せる)",
+      "grammar_header": "見せる（みせる） - to show",
       "last_reviewed": "2026-09-02",
       "interval_days": 14,
       "ease": 2.8,
@@ -4644,7 +4644,7 @@
     },
     "UN4GL15::tokoro-desu-dict-form": {
       "lesson_file": "grammar-index/grammar/tokoro-desu-dict-form.md",
-      "grammar_header": "V「dict」ところです - about to start",
+      "grammar_header": "1. V「dict」ところです - about to start",
       "interval_days": 6,
       "ease": 2.05,
       "streak": 3,
@@ -4659,7 +4659,7 @@
     },
     "UN4GL15::tokoro-desu-teiru-form": {
       "lesson_file": "grammar-index/grammar/tokoro-desu-teiru-form.md",
-      "grammar_header": "V「て形」いるところです - action in progress right now",
+      "grammar_header": "2. V「て形」いるところです - action in progress right now",
       "interval_days": 11,
       "ease": 2.2,
       "streak": 3,
@@ -4674,7 +4674,7 @@
     },
     "UN4GL15::tokoro-desu-ta-form": {
       "lesson_file": "grammar-index/grammar/tokoro-desu-ta-form.md",
-      "grammar_header": "V「た形」ところです - action has just finished",
+      "grammar_header": "3. V「た形」ところです - action has just finished",
       "interval_days": 11,
       "ease": 2.2,
       "streak": 3,
@@ -4958,7 +4958,7 @@
     },
     "UN5GL11::owaru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/owaru-to-finish-by-itself.md",
-      "grammar_header": "終わる",
+      "grammar_header": "終わる (おわる) - to finish (by itself)",
       "interval_days": 14,
       "ease": 2.8,
       "streak": 2,
@@ -4973,7 +4973,7 @@
     },
     "UN5GL11::hajimaru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/hajimaru-to-begin-event-itself.md",
-      "grammar_header": "始まる",
+      "grammar_header": "始まる (はじまる) - to begin (event, itself)",
       "interval_days": 14,
       "ease": 2.8,
       "streak": 2,
@@ -4988,7 +4988,7 @@
     },
     "UN5GL11::itsuka": {
       "lesson_file": "grammar-index/grammar/itsuka-someday.md",
-      "grammar_header": "いつか",
+      "grammar_header": "いつか - someday",
       "next_review": "2026-09-21",
       "interval_days": 1,
       "ease": 2.5,
@@ -5047,7 +5047,7 @@
     },
     "UN5GL5::jisho-dictionary-form": {
       "lesson_file": "grammar-index/grammar/jisho-dictionary-form.md",
-      "grammar_header": "辞書形 - dictionary form",
+      "grammar_header": "辞書形（じしょ）- dictionary form",
       "next_review": "2026-09-11",
       "interval_days": 1,
       "ease": 2.5,

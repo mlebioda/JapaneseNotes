@@ -32,4 +32,4 @@ This attachment rule (な-adjective + な + Noun) applies identically in casual 
 
 ## See also
 
-- [な形容詞 - na adjectives](/JapaneseNotes/grammar-index/grammar/na-adjectives-nouns-short) — groups な-adjective attachment to nouns
+- [Adjectives](/JapaneseNotes/grammar-index/adjectives) — the topic index for な-adjective attachment to nouns

@@ -20,7 +20,6 @@
 
 > な-adjective forms — attributive (+な+Noun), predicate conjugation (です／でした／ではありません), and adverbial (+に) uses.
 
-- [な形容詞 - na adjectives](/JapaneseNotes/grammar-index/grammar/na-adjectives-nouns-short) · N5
 - [な形容詞 + Nouns](/JapaneseNotes/grammar-index/grammar/na-nouns) · N5
 - [形容詞](/JapaneseNotes/grammar-index/grammar/na-adjective-conjugation) · N5
 - [1. な形容詞　な　overview](/JapaneseNotes/grammar-index/grammar/na-adjective-overview) · N5

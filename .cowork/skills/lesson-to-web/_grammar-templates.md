@@ -118,7 +118,7 @@ Filename: kebab-case, reusable (`reasons-causes.md`, not `kara.md` or `n5-partic
 # Grammar Index
 
 ## Verbs
-- [verb-te-form](/JapaneseNotes/grammar-index/verb-te-form) — <description>
+- [verbs-forms](/JapaneseNotes/grammar-index/verbs-forms) — <description>
 
 ## Particles
 - [particles-wa-ga](/JapaneseNotes/grammar-index/particles-wa-ga) — <description>

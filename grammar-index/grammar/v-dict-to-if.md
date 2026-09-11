@@ -44,4 +44,4 @@ Register: neutral
 
 ## See also
 
-- [Conditions](/JapaneseNotes/grammar-index/grammar/conditions) — groups the conditional forms covered in this lesson
+- [Conditionals](/JapaneseNotes/grammar-index/conditionals) — the topic index for conditional forms

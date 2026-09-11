@@ -12,7 +12,6 @@
 - [past tense + たら - if](/JapaneseNotes/grammar-index/grammar/past-tense-tara-if) · N4
 - [interrogative V「た」ら + いいですか - ask for advice or instructions](/JapaneseNotes/grammar-index/grammar/interrogative-vtara-iidesuka-ask-for-advice-or-instructions) · N4
 
-- [Conditions](/JapaneseNotes/grammar-index/grammar/conditions) · N4
 
 - [V dict + と - if](/JapaneseNotes/grammar-index/grammar/v-dict-to-if) · N4
 

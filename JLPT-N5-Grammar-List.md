@@ -12,29 +12,29 @@ Organized by category for study purposes. Nothing from the source lists was inte
 
 🟢 = a file exists somewhere under `grammar-index/grammar/` that covers this point, **regardless of what JLPT level it's tagged with** (a note flags it when the vault tags it N4 rather than N5). 🔴 = not covered by any file at any level.
 
-**Result: 62 / 112 individual points covered (≈55%).** Real gaps (nothing in the vault at any level): the plain particles を・に・で(location/method)・の(possessive)・と(and/with)・や・も(plain)・へ, question particle か and か〜か, くらい／ぐらい, ね／なあ, the copula だ／です and its negative, existence があります／がいます, generic お／ご prefix, all three demonstrative series (これ/この/ここ), どうやって, general question words, all basic verb-form building blocks (dictionary/ます/ない/た form, verb groups), たい ("want to"), plain てください, ないで, てから, describing appearance with adjectives, なくてはいけない／なくちゃ／ないといけない／ちゃいけない, そして／でも／しかし／それから／けど・けれども, まだ〜ていません, 一緒に, とても.
+**Result: 79 / 112 individual points covered (≈71%).** Real gaps (nothing in the vault at any level): the plain particles の(possessive)・と(and/with)・や・も(plain), indirect-object に, question particle か (standalone), くらい／ぐらい, なあ, the copula だ／です and its negative, generic お／ご prefix, general question words, verb groups (1/2/3), なかった-form, た-form (as its own point), たい ("want to"), plain てください, ないで, てから, describing appearance with adjectives, なくてはいけない／なくちゃ／ないといけない／ちゃいけない, そして／でも／しかし／それから／けど・けれども, まだ〜ていません, とても.
 
 ## 1. Particles
 
 - 🟢 は (wa) — topic marker
 - 🟢 が (ga) — subject marker / "but"
-- 🔴 を (o/wo) — object marker
-- 🔴 に (ni) — time / location (existence) / destination / indirect object
-- 🔴 で (de) — location of action / method, means, instrument — only the narrower "subject + で" (who performs an action) exists
+- 🟢 を (o/wo) — object marker (also covers motion departure/transit-point and を＋する uses)
+- 🟢 に (ni) — time / location (existence, via がある／がいる) / destination now covered; indirect-object marking (に in giving/receiving) not explicit
+- 🟢 で (de) — location of action / method, means now both covered as dedicated points
 - 🔴 の (no) — possessive ("of") / nominalizer — only the ADJ＋の nominalizer use exists; plain possessive の does not
 - 🔴 と (to) — "and" (exhaustive list) / "with" / quotation
 - 🔴 や (ya) — "and" (non-exhaustive list)
 - 🔴 も (mo) — "too", "also" — only compounds (何も／だれも／どこも／か・も) exist, not plain も
-- 🔴 へ (e) — direction
-- 🔴 に／へ (ni/e) — direction, interchangeable use
+- 🟢 へ (e) — direction
+- 🟢 に／へ (ni/e) — direction, interchangeable use
 - 🟢 から (kara) — "because" sense covered; "from" (place/time) sense not explicit
 - 🟢 まで (made) — "until", "as far as", "even"
 - 🔴 から〜まで (kara~made) — "from ... to ..." as a combined pattern
 - 🟢 だけ (dake) — "only", "just"
 - 🔴 くらい／ぐらい (kurai/gurai) — "about", "approximately"
 - 🔴 か (ka) — question particle (standalone)
-- 🔴 か〜か (ka~ka) — "or" (choice)
-- 🔴 ね (ne) — sentence-ending particle
+- 🟢 か〜か (ka~ka) — "or" (choice)
+- 🟢 ね (ne) — sentence-ending particle
 - 🟢 よ (yo) — sentence-ending particle
 - 🟢 な (na) — casual prohibition ending — exists (tagged N4: V「dict」＋な)
 - 🔴 なあ (naa) — sentence-ending particle
@@ -43,29 +43,29 @@ Organized by category for study purposes. Nothing from the source lists was inte
 
 - 🔴 だ／です (da/desu) — "to be" (copula)
 - 🔴 じゃない／ではない (janai/dewa nai) — negative of だ／です
-- 🔴 があります (ga arimasu) — "there is" (inanimate)
-- 🔴 がいます (ga imasu) — "there is" (animate)
+- 🟢 があります (ga arimasu) — "there is" (inanimate)
+- 🟢 がいます (ga imasu) — "there is" (animate)
 - 🔴 お／ご (o/go) — honorific prefix — only the specific お＋ます形＋ください request idiom exists (N4), not the generic prefix rule
 - 🟢 Japanese word order (SOV)
 
 ## 3. Demonstratives and Question Words
 
-- 🔴 これ／それ／あれ／どれ — standalone demonstratives
-- 🔴 この／その／あの／どの — demonstrative + noun (only こんな／そんな／あんな exists — a different series, tagged N4)
-- 🔴 ここ／そこ／あそこ／どこ — location demonstratives
+- 🟢 これ／それ／あれ／どれ — standalone demonstratives
+- 🟢 この／その／あの／どの — demonstrative + noun
+- 🟢 ここ／そこ／あそこ／どこ — location demonstratives
 - 🟢 どんな (donna) — "what kind of"
 - 🟢 どうして (doushite) — "why", "how"
-- 🔴 どうやって (douyatte) — "how", "in what way"
+- 🟢 どうやって (douyatte) — "how", "in what way"
 - 🔴 General question words (なに／だれ／いつ／いくつ／いくら)
 - 🟢 何か／何も (nanika/nanimo) — "something" / "nothing"
 
 ## 4. Verb Basics
 
 - 🔴 Verb groups (Group 1/2/3)
-- 🔴 Dictionary form
-- 🔴 ます-form ⇄ dictionary form conversion
+- 🟢 Dictionary form
+- 🟢 ます-form ⇄ dictionary form conversion — register/usage comparison covered; group-based stem-derivation mechanics not explicit
 - 🔴 Present/past tense (affirmative/negative, plain/polite)
-- 🔴 ない-form
+- 🟢 ない-form
 - 🔴 なかった-form
 - 🔴 た-form (as its own point)
 - 🟢 できます (dekimasu) — "can do"
@@ -166,7 +166,7 @@ Organized by category for study purposes. Nothing from the source lists was inte
 - 🔴 まだ〜ていません (mada~te imasen) — "have not yet done"
 - 🟢 いつも (itsumo) — "always" / "usual"
 - 🟢 Frequency adverbs — あまり／ぜんぜん (with negative) are covered; よく／ときどき／たまに are not
-- 🔴 一緒に (issho ni) — "together" (appears only inside example sentences of other files, no dedicated point)
+- 🟢 一緒に (issho ni) — "together" (now a dedicated file)
 
 ## 16. Degree and Other Modifiers
 

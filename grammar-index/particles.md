@@ -33,14 +33,12 @@
 - [Place + に ＋　V - indicate destination](/JapaneseNotes/grammar-index/grammar/place-ni-v-indicate-destination) · N5
 - [へ / に - direction of movement, travel (destination)](/JapaneseNotes/grammar-index/grammar/he-ni-direction-destination) · N5
 - [に - time of occurrence of an action](/JapaneseNotes/grammar-index/grammar/ni-time-of-action) · N5
-- [Particles](/JapaneseNotes/grammar-index/grammar/particles) · N5
 
 ## を
 
 > The particle を marking the object of a transitive verb, a motion's starting/transit point, or combining with する.
 
 - [を](/JapaneseNotes/grammar-index/grammar/wo) · N5
-- [Particles](/JapaneseNotes/grammar-index/grammar/particles) · N5
 
 ## Restrictive (しか／だけ)
 
@@ -53,7 +51,6 @@
 
 > Sentence-final particles that shape tone toward the listener — よ, ね, and related forms.
 
-- [Particles](/JapaneseNotes/grammar-index/grammar/particles) · N5
 - [よ](/JapaneseNotes/grammar-index/grammar/yo) · N5
 - [ね - seeking approval](/JapaneseNotes/grammar-index/grammar/ne-seeking-approval) · N5
 
@@ -65,7 +62,6 @@
 - [は - marks a phrase (already carrying another particle) as a contrastive topic](/JapaneseNotes/grammar-index/grammar/ha-contrastive-topic-marker) · N4
 - [N＋を　vs N＋は](/JapaneseNotes/grammar-index/grammar/n-wo-vs-n-ha) · N5
 - [N1 は N2 が ADJ です — N2 is a trait/feature of N1](/JapaneseNotes/grammar-index/grammar/n1-ha-n2-ga-adj-desu-n2-is-a-trait-feature-of-n1) · N5
-- [Particles](/JapaneseNotes/grammar-index/grammar/particles) · N5
 - [は vs が](/JapaneseNotes/grammar-index/grammar/ha-vs-ga) · N5
 - [は](/JapaneseNotes/grammar-index/grammar/ha-topic-marker) · N5
 - [が](/JapaneseNotes/grammar-index/grammar/ga-subject-marker) · N5

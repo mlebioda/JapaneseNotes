@@ -36,4 +36,4 @@ Not politeness-restricted itself — works the same way whether the final verb i
 
 ## See also
 
-- [て形](/JapaneseNotes/grammar-index/grammar/te-form) — groups the て形 sequencing pattern this belongs to
+- [Verb Forms](/JapaneseNotes/grammar-index/verbs-forms) — the て形 topic group this sequencing pattern belongs to

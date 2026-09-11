@@ -20,5 +20,5 @@ proofread: true
 
 ## See also
 
-- [敬語(けいご)](/JapaneseNotes/grammar-index/grammar/keigo) — parent group for all keigo registers
 - [Types of verbs:](/JapaneseNotes/grammar-index/grammar/sonkeigo-types-of-verbs) — sibling group: the three sonkeigo verb-formation patterns
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — umbrella index for teineigo/sonkeigo/kenjougo

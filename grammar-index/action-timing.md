@@ -19,5 +19,5 @@
 
 ## See also
 
-- [Verb Te-Form](/JapaneseNotes/grammar-index/verb-te-form) — ているところです is built on the て-form progressive
+- [Verb Forms](/JapaneseNotes/grammar-index/verbs-forms) — ているところです is built on the て-form progressive
 - [Temporal Adverbs](/JapaneseNotes/grammar-index/temporal-adverbs) — both mark an action's status relative to the present moment

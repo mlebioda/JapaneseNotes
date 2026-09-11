@@ -18,4 +18,4 @@ proofread: true
 ## See also
 
 - [丁寧語（ていねいご) - Polite expressions](/JapaneseNotes/grammar-index/grammar/teineigo-polite-expressions) — raising speech formality itself, the broader concept this plain/polite verb contrast feeds into
-- [敬語(けいご)](/JapaneseNotes/grammar-index/grammar/keigo) — the umbrella honorific system (teineigo/sonkeigo/kenjougo) this plain-vs-polite contrast sits within
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — umbrella index for teineigo/sonkeigo/kenjougo

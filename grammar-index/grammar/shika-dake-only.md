@@ -5,7 +5,7 @@ topic_slug: ["particles"]
 function: []
 level: N4
 register: neutral
-confused_with: ["ntake-only-n"]
+confused_with: ["ndake-only-n"]
 proofread: true
 ---
 
@@ -37,7 +37,7 @@ Both particles are register-neutral; formality comes entirely from the verb endi
 
 ## Often confused with
 
-- [N＋たけ - only N](/JapaneseNotes/grammar-index/grammar/ntake-only-n) — test: Does the sentence use a negative verb (only しか works — 一人しかいません) or an affirmative verb (only だけ works — 一人だけいます)?
+- [N＋だけ - only N](/JapaneseNotes/grammar-index/grammar/ndake-only-n) — test: Does the sentence use a negative verb (only しか works — 一人しかいません) or an affirmative verb (only だけ works — 一人だけいます)?
 
 ## See also
 

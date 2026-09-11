@@ -477,7 +477,7 @@ Structure:
 
 ---
 ## 謙譲語（けんじょうご） - humble expressions
-→ [[grammar-index/grammar/kenjougo-humble-expressions-un4gl13]]
+→ [[grammar-index/grammar/kenjougo-humble-expressions]]
 Lower the speaker's own action to indirectly show respect toward the listener/referent.
 
 Verbs

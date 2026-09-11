@@ -2,15 +2,9 @@
 
 ## Verbs
 
-- [verb-te-form](/JapaneseNotes/grammar-index/verb-te-form) — Patterns built on the verb て-form — connecting, progressive/state, and auxiliary constructions.
+- [verbs-forms](/JapaneseNotes/grammar-index/verbs-forms) — Verb conjugation forms and voice patterns — te-form, nai-form, potential, volitional, transitivity, causative, and passive.
 - [communication-verbs](/JapaneseNotes/grammar-index/communication-verbs) — Verbs for informing, telling, reporting, and contacting others.
-- [causative](/JapaneseNotes/grammar-index/causative) — Patterns for making or letting someone do something (使役形), including the humble causative-request forms used to ask permission from a superior.
-- [passive-voice](/JapaneseNotes/grammar-index/passive-voice) — Patterns for the passive/receptive verb form (受身形) — direct passive, suffering passive, agentless informational passive, and material/ingredient passive.
-- [verb-transitivity](/JapaneseNotes/grammar-index/verb-transitivity) — Patterns and vocabulary for the transitive/intransitive (他動詞／自動詞) verb pair system — which particle a verb takes and how paired verbs differ in meaning.
-- [verb-volitional-form](/JapaneseNotes/grammar-index/verb-volitional-form) — Patterns built on the verb volitional form (行こう, 食べよう) — expressing the speaker's will, a suggestion, or an intention still being considered.
-- [verb-potential-form](/JapaneseNotes/grammar-index/verb-potential-form) — The potential form (可能形) — conjugating a verb to express "can do X" — plus its group-by-group formation rules.
 - [giving-receiving](/JapaneseNotes/grammar-index/giving-receiving) — Patterns for giving, receiving, or doing an action as a favor for someone — あげる／くれる／もらう and their て形 auxiliary forms.
-- [verb-nai-form](/JapaneseNotes/grammar-index/verb-nai-form) — The plain negative (ない形) verb conjugation and patterns built on it.
 
 ## Adjectives
 

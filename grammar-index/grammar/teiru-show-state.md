@@ -54,4 +54,4 @@ Not politeness-restricted itself, but the conjugation varies by register: polite
 
 ## See also
 
-- [ている](/JapaneseNotes/grammar-index/grammar/teiru) — groups the て形＋いる pattern this state/habit sense belongs to
+- [Verb Forms](/JapaneseNotes/grammar-index/verbs-forms) — the て形＋いる topic group this state/habit sense belongs to

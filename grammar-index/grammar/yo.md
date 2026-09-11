@@ -46,4 +46,4 @@ Used across all politeness levels — よ itself carries no formality tier, thou
 
 ## See also
 
-- [Particles](/JapaneseNotes/grammar-index/grammar/particles) — groups sentence-final particles
+- [Particles](/JapaneseNotes/grammar-index/particles) — umbrella index for particle-usage points, grouped by particle and function

@@ -19,4 +19,4 @@ proofread: true
 
 ## See also
 
-- [な形容詞 - na adjectives](/JapaneseNotes/grammar-index/grammar/na-adjectives-nouns-short) — な-adjective attachment to nouns
+- [Adjectives](/JapaneseNotes/grammar-index/adjectives) — な-adjective attachment to nouns

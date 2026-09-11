@@ -42,4 +42,4 @@ Register: neutral
 
 ## See also
 
-- [Particles](/JapaneseNotes/grammar-index/grammar/particles) — groups this with other particle-usage points, by lesson
+- [Particles](/JapaneseNotes/grammar-index/particles) — umbrella index for particle-usage points, grouped by particle and function

@@ -21,8 +21,7 @@
 ## See also
 
 - [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — honorific requests raise the listener's action (sonkeigo)
-- [Verb Te-Form](/JapaneseNotes/grammar-index/verb-te-form) — くださいませんか requests are built on the て-form
+- [Verb Forms](/JapaneseNotes/grammar-index/verbs-forms) — くださいませんか requests are built on the て-form; causative-request forms (てもらえませんか／ていただけませんか) are the humble way to ask permission from a superior
 - [Effort & Intention](/JapaneseNotes/grammar-index/effort-intention) — ようにしてください requests mindfulness toward an ongoing goal, softer than plain てください
-- [Causative](/JapaneseNotes/grammar-index/causative) — the causative-request forms (てもらえませんか／ていただけませんか) are the humble way to ask permission from a superior
 - [Conditionals](/JapaneseNotes/grammar-index/conditionals) — the interrogative ば + いいですか conditional doubles as a request for advice
 - [Invitations & Proposals](/JapaneseNotes/grammar-index/invitations-proposals) — ませんか proposes a shared action, distinct from asking the listener to do something for the speaker

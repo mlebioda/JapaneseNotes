@@ -50,4 +50,4 @@ The baseline polite register used with strangers and in public or formal setting
 
 ## See also
 
-- [敬語(けいご)](/JapaneseNotes/grammar-index/grammar/keigo) — parent group for all keigo registers
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — umbrella index for teineigo/sonkeigo/kenjougo

@@ -9,4 +9,4 @@
 ## See also
 
 - [Similarity & Inference](/JapaneseNotes/grammar-index/similarity-inference) — direct sensory perception (がする) contrasts with indirect, appearance-based inference (ようだ／みたい)
-- [Verb Potential Form](/JapaneseNotes/grammar-index/verb-potential-form) — 見える／聞こえる are spontaneous-perception verbs, easily confused with the potential forms of 見る／聞く
+- [Verb Forms](/JapaneseNotes/grammar-index/verbs-forms) — 見える／聞こえる are spontaneous-perception verbs, easily confused with the potential forms of 見る／聞く

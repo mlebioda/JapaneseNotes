@@ -40,4 +40,4 @@ Register: neutral
 
 ## See also
 
-- [numbers](/JapaneseNotes/grammar-index/grammar/numbers) — groups counter/number reference tables
+- [counters](/JapaneseNotes/grammar-index/grammar/counters) — groups counter reference tables

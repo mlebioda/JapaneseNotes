@@ -18,5 +18,5 @@ proofread: true
 
 ## See also
 
-- [敬語(けいご)](/JapaneseNotes/grammar-index/grammar/keigo) — parent group for all keigo registers
 - [尊敬語（そんけいご）- Honorific expressions](/JapaneseNotes/grammar-index/grammar/sonkeigo-honorific-expressions) — parent group for sonkeigo patterns
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — umbrella index for teineigo/sonkeigo/kenjougo
