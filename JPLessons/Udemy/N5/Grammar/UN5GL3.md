@@ -112,6 +112,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL3-where-is a meeting-room
 # 文法
 
 ## 枚　まい - counter for flat/thin objects
+→ [[grammar-index/grammar/mai-counter-for-flat-thin-objects]]
 
 Used for flat, thin objects: paper, tickets, plates, shirts, CDs, etc.
 Register: neutral — used the same way in casual and polite speech.
@@ -129,7 +130,9 @@ Register: neutral — used the same way in casual and polite speech.
 
 #w 何枚（なんまい）- how many thin objects?,
 ## Indicating directions
+→ [[grammar-index/grammar/indicating-directions]]
 ### ここ、そこ、あそこ - indicate physical place or location
+→ [[grammar-index/grammar/koko-soko-asoko-indicate-physical-place-or-location]]
 
 - ここ - here
 - そこ - there (near listener)
@@ -145,6 +148,7 @@ Register: neutral — used the same way in casual and polite speech.
 Register: neutral/plain — the polite equivalents are こちら/そちら/あちら/どちら, below.
 
 ### こちら、そちら、あちら、どちら indicate place, location and direction, person
+→ [[grammar-index/grammar/kochira-sochira-achira-dochira-indicate-place-location-and-direction-person]]
 Register: polite — the more formal equivalents of ここ/そこ/あそこ/どこ (previous section). Used in business/customer-service settings (e.g. directing a customer or guest), and can also politely refer to a person or the listener's side, not just a place.
 - こちら - this way / here (polite)
 - そちら - that way / there, near you (polite)
@@ -169,8 +173,10 @@ Note: どちら also means "which (of two)" when choosing between two people/ite
 | Direction | こちら | そちら | あちら | どちら |
 
 ## Location of the objects with directions
+→ [[grammar-index/grammar/location-of-the-objects-with-directions]]
 
 ### PにNがあります・います - there is something somewhere
+→ [[grammar-index/grammar/p-ni-n-ga-arimasu-imasu-there-is-something-somewhere]]
 #### Structure
 - Place に Noun があります・います
 
@@ -187,6 +193,7 @@ Register: あります・います are the polite (ます-style) forms; the plai
 - 会議室に部長がいます（かいぎしつ、ぶちょう）- The general manager is in the meeting room
 
 ### Something is somewhere
+→ [[grammar-index/grammar/something-is-somewhere]]
 #### Structure
 - Noun は Place に　あります・います
 

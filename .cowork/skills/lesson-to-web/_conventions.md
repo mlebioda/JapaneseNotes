@@ -41,9 +41,9 @@ Optional machine-readable fields (the ontology layer — frontmatter mirrors of 
 
 - `register` — bare scalar; one of `neutral | polite | tiered | unknown`. Normally owned by register-confusability-grammar Step 8, which writes it whenever it writes/overwrites the `## Register` section: `polite` mirrors the section value "polite-context typical"; `unknown` mirrors "unknown — insufficient source material". Overwritten (not appended) on every re-run, mirroring the section overwrite rule. **Seeding exception:** extract-grammar may also write `## Register` and `register:` at file-creation time, when the source lesson has its own `### Register` heading under a grammar point (see `_heading-roles.md` scaffolding special case) — the lesson author's own analysis, not hashtag-derived. register-confusability-grammar still has final authority: a later run overwrites the seeded value with its own hashtag-based analysis, same as any other file. No skill other than extract-grammar (seeding) and register-confusability-grammar (authoritative) writes this field.
 - `confused_with` — YAML array of grammar slugs. Owned by register-confusability-grammar Step 9. Append-only and dedup-checked; must always mirror the link targets of the `## Often confused with` section (one array entry per section link). No other skill writes this field.
-- `function` — YAML array of 0–2 values taken exclusively from the **`function` controlled vocabulary** section below. Created as `function: []` by extract-grammar's grammar point template (step 7) and populated by extract-grammar step 9d during the same run; immutable after that run completes (same protected status as `topic_slug`). Grammar point files only — container files and vocabulary files never carry `function`.
+- `function` — YAML array of 0–2 values taken exclusively from the **`function` controlled vocabulary** section below. Created as `function: []` by extract-grammar's grammar point template (step 6c — Create the file) and populated by extract-grammar step 8 (Patch topic_slug / function) during the same run; immutable after that run completes (same protected status as `topic_slug`). Grammar point files only — container files and vocabulary files never carry `function`.
 
-**Frontmatter immutability rule.** "After file creation" means **after the creating skill's run completes** — a skill may still patch fields it owns during the same run that created the file (extract-grammar step 9d patches `topic_slug`, created as `""` in step 7, and assigns `function` in the same step). Once the creating skill's run completes:
+**Frontmatter immutability rule.** "After file creation" means **after the creating skill's run completes** — a skill may still patch fields it owns during the same run that created the file (extract-grammar step 8 patches `topic_slug`, created as `""` in step 6c, and assigns `function` in the same step). Once the creating skill's run completes:
 
 - `lesson`, `pattern`, `topic_slug`, `function`, and `level` are immutable — no skill modifies them.
 - **Scoped carve-out:** `register` and `confused_with` may be written or updated after creation, but **only** by register-confusability-grammar Steps 8–9, and only as described above (`register`: overwrite by Step 8; `confused_with`: dedup-checked append by Step 9). No other skill, and no other field.
@@ -67,7 +67,7 @@ Rules:
 
 - `function` is a YAML array with 0–2 values per file. An empty array (`function: []`) is allowed and correct when nothing on the list fits — do not force a value.
 - **Hard stop — skills never invent values.** If a value not on this list seems needed, extending the list means editing this section **first**, with explicit user confirmation. The new value may not be used anywhere until this section has been updated.
-- `function` joins the protected after-creation fields: set by extract-grammar during its own run (step 9d, same run-scoped pattern as `topic_slug`), immutable after that run completes.
+- `function` joins the protected after-creation fields: set by extract-grammar during its own run (step 8 — Patch topic_slug / function, same run-scoped pattern as `topic_slug`), immutable after that run completes.
 - Grammar point files only — container files and vocabulary files never carry `function` (they do not participate in the confusability graph).
 
 ---
@@ -267,7 +267,7 @@ senses.]
 
 **Applied by:**
 - `structure-grammar.md` Step 7 — grammar point files, post-processing pass, user-confirmed reformat.
-- `extract-grammar.md` Step 7b — vocabulary files, creation-time only, user-confirmed before the file is written; never re-entered later by `structure-grammar.md`.
+- `extract-grammar.md` Step 6c-ii — vocabulary files, creation-time only, user-confirmed before the file is written; never re-entered later by `structure-grammar.md`.
 
 ---
 
@@ -294,7 +294,7 @@ shape an Examples section takes, in every file type that has one:
 ```
 
 Applies whenever this section is written or rewritten — extract-grammar on file creation for
-grammar point files, and on file creation for vocabulary files via the Step 7b flat/numbered
+grammar point files, and on file creation for vocabulary files via the Step 6c-ii flat/numbered
 inference (see **## Structure format** above); structure-grammar on any reformat into
 Structure 1 or Structure 2 for grammar point files. Dialogue examples (A: ... B: ...) stay on
 one bullet per exchange, not split across two bullets.
@@ -341,8 +341,8 @@ Applies to all lesson-to-web skills:
 - `TARGET DECK` lines — never touch
 - Register hashtags (`#sonkeigo` / `#kenjougo` / `#teineigo`) on example lines — source evidence for register-confusability-grammar Step 8; only see-also-grammar Step 10b removes them (final step). No other skill strips or rewrites them
 - Japanese text — never translate kana or kanji
-- Files outside `grammar-index/grammar/` (except: skills that explicitly read topic files from `grammar-index/` for context, and extract-grammar step 8 which inserts one wikilink into a lesson file)
-- Lesson files under `JPLessons/` beyond the extract-grammar step 8 wikilink insertion
+- Files outside `grammar-index/grammar/` (except: skills that explicitly read topic files from `grammar-index/` for context, and extract-grammar step 6e which inserts one wikilink into a lesson file)
+- Lesson files under `JPLessons/` beyond the extract-grammar step 6e wikilink insertion
 - Other skill files or `.cowork/instructions.md`
 - Do not run `git push` or any remote git operation
 - Frontmatter fields other than `proofread` — with one scoped carve-out: `register` and `confused_with` are writable, but solely by register-confusability-grammar Steps 8–9 (see **Frontmatter immutability rule** above). No skill modifies `lesson`, `pattern`, `topic_slug`, `function`, or `level` after the creating skill's run completes (the `partial` field is set once at stub-creation time by register-confusability-grammar's backfill mode and never modified afterward by any skill)

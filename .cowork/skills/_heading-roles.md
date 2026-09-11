@@ -48,4 +48,4 @@ Any other non-scaffolding heading — it has its own explanation, structure, or 
 
 - **Explanation-part children:** a child heading that carries no pattern of its own (no formation rule, no distinct grammatical construction — e.g. the `### ウチ` / `### ソト` lists under ウチ・ソト) is part of its parent point's explanation, even when its text is not on the scaffolding label list. When in doubt, extract-grammar surfaces it in the classification table for the user to decide; practice-grammar folds it into the parent.
 - **Mixed heading** (own explanation AND real sub-patterns): it is a point *and* its sub-patterns are points too — extract-grammar lists both in the classification table; practice-grammar drills each separately.
-- **Ambiguity is user-gated only in extract-grammar** — suggested roles are proposals; the user confirms every candidate in the step 4b table. practice-grammar has no gate and applies these rules deterministically.
+- **Ambiguity is user-gated only in extract-grammar** — suggested roles are proposals; the user confirms every candidate in the Step 5 table. practice-grammar has no gate and applies these rules deterministically.

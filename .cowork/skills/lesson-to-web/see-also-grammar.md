@@ -40,7 +40,7 @@ Process each file in order. Apply both steps to one file before moving to the ne
 
 ```
 [WARN] <slug>.md has no entry in any grammar-index topic file.
-Add it manually or re-run extract-grammar classification (step 9).
+Add it manually or re-run extract-grammar classification (step 7 — Classify into grammar-index topics).
 ```
 
 To check all grammar files at once: `python3 .claude/scripts/grammar-audit.py --verbose`

@@ -104,7 +104,7 @@ Each use case (Structure 2) is a numbered `##` header. Structure subsections fol
 
 **Vocabulary files are out of scope for this skill.** Vocabulary files
 (`grammar-index/grammar/vocabulary/**`) are structured at creation time by
-`extract-grammar.md` Step 7b, using the same shared inference concept from
+`extract-grammar.md` Step 6c-ii (Vocabulary leaf files), using the same shared inference concept from
 `_conventions.md`'s **## Structure format** section, and never enter this post-processing
 pass. This is a documentation cross-reference only — this skill's container-file-detection
 logic and file-path handling are unchanged; it is not extended to accept `vocabulary/` paths.

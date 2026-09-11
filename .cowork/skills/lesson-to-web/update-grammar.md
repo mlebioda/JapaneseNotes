@@ -13,7 +13,7 @@ description: >
 
 - "update grammar `<slug>`" — filename without `.md`
 - "update grammar grammar-index/grammar/`<slug>`.md" — full relative path
-- (called automatically from extract-grammar step 10 with a list of file paths)
+- (called automatically from extract-grammar step 11 — Offer chain — with a list of file paths)
 
 ---
 

@@ -10,6 +10,7 @@ Checks:
   3. Slug mismatch  — topic_slug frontmatter doesn't match actual topic entries
   4. Missing ##Examples section
   5. proofread: false — status report (not an error)
+  6. Container drift — topic entries missing from a co-entry container's Sub-topics
 
 Usage:
     python3 .claude/scripts/grammar-audit.py
@@ -25,7 +26,6 @@ ENTRY_RE = re.compile(r'\[.+?\]\(/JapaneseNotes/grammar-index/grammar/([^)]+)\)'
 TOPIC_SLUG_RE = re.compile(r'^topic_slug:\s*(.+)$', re.MULTILINE)
 PROOFREAD_RE = re.compile(r'^proofread:\s*(true|false)', re.MULTILINE)
 EXAMPLES_RE = re.compile(r'^## Examples', re.MULTILINE)
-SUBTOPICS_RE = re.compile(r'^## Sub-topics', re.MULTILINE)
 SUBTOPICS_RE = re.compile(r'^## Sub-topics', re.MULTILINE)
 
 
@@ -44,6 +44,13 @@ def parse_topic_slug(content):
 
 def entries_in_topic(content):
     m = re.search(r'^## Entries\n(.+?)(?=^## |\Z)', content, re.MULTILINE | re.DOTALL)
+    if not m:
+        return []
+    return ENTRY_RE.findall(m.group(1))
+
+
+def subtopics_in_container(content):
+    m = re.search(r'^## Sub-topics\n(.+?)(?=^## |\Z)', content, re.MULTILINE | re.DOTALL)
     if not m:
         return []
     return ENTRY_RE.findall(m.group(1))
@@ -85,6 +92,7 @@ def main():
                 broken_links.append((topic_stem, slug))
 
     orphans, mismatches, missing_examples, not_proofread = [], [], [], []
+    container_to_subtopics = {}
 
     for slug, path in grammar_files.items():
         content = path.read_text(encoding='utf-8')
@@ -98,6 +106,8 @@ def main():
             mismatches.append((slug, declared, actual))
 
         is_container = bool(SUBTOPICS_RE.search(content))
+        if is_container:
+            container_to_subtopics[slug] = set(subtopics_in_container(content))
         if not is_container and not EXAMPLES_RE.search(content):
             missing_examples.append(slug)
 
@@ -105,8 +115,28 @@ def main():
         if m and m.group(1) == 'false':
             not_proofread.append(slug)
 
+    # container drift: topic entries (excluding containers themselves) missing
+    # from a co-entry container's Sub-topics
+    container_drift = []
+    for topic_stem, slugs in topic_to_slugs.items():
+        containers_in_topic = [s for s in slugs if s in container_to_subtopics]
+        if not containers_in_topic:
+            continue
+        other_entries = [s for s in slugs if s not in container_to_subtopics]
+        for container_slug in containers_in_topic:
+            sub_slugs = container_to_subtopics[container_slug]
+            for entry_slug in other_entries:
+                if entry_slug not in grammar_files:
+                    # broken link — already reported by broken_links check above
+                    continue
+                if entry_slug not in sub_slugs:
+                    container_drift.append((topic_stem, container_slug, entry_slug))
+
     total = len(grammar_files)
-    errors = len(orphans) + len(broken_links) + len(mismatches) + len(missing_examples)
+    errors = (
+        len(orphans) + len(broken_links) + len(mismatches)
+        + len(missing_examples) + len(container_drift)
+    )
 
     print(f"grammar-audit — {total} file(s) checked\n")
 
@@ -127,6 +157,10 @@ def main():
         lambda x: f"{x[0]}.md  declared={sorted(x[1])}  actual={sorted(x[2])}"
     )
     section("Missing ## Examples", missing_examples)
+    section(
+        "Container drift (topic entry missing from container Sub-topics)", container_drift,
+        lambda x: f"{x[0]}.md: {x[2]} missing from {x[1]}.md Sub-topics"
+    )
     print()
     section(f"proofread: false (not yet reviewed)", not_proofread)
 

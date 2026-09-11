@@ -60,13 +60,13 @@ Only active when triggered directly with a `JPLessons/` lesson file path (not wh
    awk '/^# Summary$/{exit} {print}' "$LESSON_FILE"
    ```
 2. **Locate `# 文法` and `# Vocabulary`** grammar-construction sections using the same section rules as `extract-grammar` steps 3–4.
-3. **Reuse `extract-grammar` Step 4b's classification workflow exactly** — present every heading found in both sections in the same table format, and wait for the user to classify each as grammar / container / skip, before computing any slugs. This is required, not optional: it is what prevents backfill mode from creating spurious `partial: true` stubs for headings that are actually containers or pure vocabulary lists with no grammar content.
+3. **Reuse `extract-grammar` Step 5's classification workflow exactly** — present every heading found in both sections in the same table format, and wait for the user to classify each as grammar / container / skip, before computing any slugs. This is required, not optional: it is what prevents backfill mode from creating spurious `partial: true` stubs for headings that are actually containers or pure vocabulary lists with no grammar content.
 4. **Vocabulary-sourced "grammar" headings are out of scope.** `extract-grammar` routes a `# Vocabulary` heading classified `grammar` to `grammar-index/grammar/vocabulary/<subdir>/<slug>.md`, which falls under this skill's own vocabulary/ scope guard above. To stay consistent with that guard rather than diverge from `extract-grammar`'s own routing, backfill mode **skips** any `# Vocabulary` heading classified `grammar` — no stub is created, no Register/Confused-with processing happens. Log it as:
    ```
    [SKIP] <heading>: Vocabulary-sourced, out of scope for register-confusability-grammar (see extract-grammar for full extraction)
    ```
    Only `# 文法`-sourced headings classified `grammar` proceed to slug computation and stub creation below.
-5. **For each `文法`-sourced heading classified grammar:** compute the slug using `extract-grammar`'s Step 5 algorithm exactly (reuse, don't reimplement).
+5. **For each `文法`-sourced heading classified grammar:** compute the slug using `extract-grammar`'s Step 6a (Compute slug) algorithm exactly (reuse, don't reimplement).
    - If `grammar-index/grammar/<slug>.md` already exists: add it to the working file list and continue to Step 8 below.
    - If it does not exist: create the minimal stub:
      ```

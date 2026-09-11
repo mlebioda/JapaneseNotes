@@ -65,6 +65,7 @@
 - [opinions-impressions](/JapaneseNotes/grammar-index/opinions-impressions) — Patterns for asking someone's opinion, impression, or how something turned out: どうですか, and related forms.
 - [invitations-proposals](/JapaneseNotes/grammar-index/invitations-proposals) — Patterns for proposing, inviting, or offering to do something together — ませんか／ましょう／ましょうか, and related forms.
 - [word-order](/JapaneseNotes/grammar-index/word-order) — The basic Time–Place–Object–Verb tendency in Japanese sentence structure, and how topic-marking with は overrides it.
+- [existence-location](/JapaneseNotes/grammar-index/existence-location) — Patterns for stating that something/someone exists, and where — あります／います and related structures.
 
 ## Forms & Counters
 

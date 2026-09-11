@@ -111,7 +111,7 @@ lesson-file flow.
 For each **point**-role heading (never for container- or scaffolding-role
 headings, since those never become point triples in the first place — see
 `_heading-roles.md`), check the line immediately after the heading line,
-before any other body content. extract-grammar step 8 guarantees the
+before any other body content. extract-grammar step 6e guarantees the
 wikilink is always inserted there when a point has been extracted, so this
 is a single, committed positional check — not a "search the whole body"
 fallback. Test the line against:
