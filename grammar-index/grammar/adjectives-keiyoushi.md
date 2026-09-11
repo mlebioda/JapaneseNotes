@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL8
 pattern: Adjectives 形容詞（けいようし）
-topic_slug: ["adjective-types", "i-adjectives", "na-adjectives"]
+topic_slug: ["adjectives"]
 function: []
 level: N5
 register: neutral

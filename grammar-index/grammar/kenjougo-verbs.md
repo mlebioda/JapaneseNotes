@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL14
 pattern: Verbs
-topic_slug: ["humble-expressions"]
+topic_slug: ["speech-registers"]
 level: N4
 proofread: true
 ---

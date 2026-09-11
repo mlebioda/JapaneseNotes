@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL6
 pattern: で - means or method
-topic_slug: ["particles-de"]
+topic_slug: ["particles"]
 function: ["means-method"]
 level: N5
 register: neutral

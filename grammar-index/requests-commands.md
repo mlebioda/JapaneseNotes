@@ -20,7 +20,7 @@
 
 ## See also
 
-- [Respectful Expressions](/JapaneseNotes/grammar-index/respectful-expressions) — honorific requests raise the listener's action
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — honorific requests raise the listener's action (sonkeigo)
 - [Verb Te-Form](/JapaneseNotes/grammar-index/verb-te-form) — くださいませんか requests are built on the て-form
 - [Effort & Intention](/JapaneseNotes/grammar-index/effort-intention) — ようにしてください requests mindfulness toward an ongoing goal, softer than plain てください
 - [Causative](/JapaneseNotes/grammar-index/causative) — the causative-request forms (てもらえませんか／ていただけませんか) are the humble way to ask permission from a superior

@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL9
 pattern: な形容詞 - na adjectives
-topic_slug: ["na-adjectives"]
+topic_slug: ["adjectives"]
 level: N5
 proofread: true
 ---

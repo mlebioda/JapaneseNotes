@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL9
 pattern: 4. N1は + なadj + な N2
-topic_slug: ["na-adjectives"]
+topic_slug: ["adjectives"]
 function: []
 level: N5
 register: neutral

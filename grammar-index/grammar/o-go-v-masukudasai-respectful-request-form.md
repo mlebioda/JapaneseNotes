@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL14
 pattern: お/ご V「ます形」ください - Respectful request form (尊敬語)
-topic_slug: ["respectful-expressions", "requests-commands"]
+topic_slug: ["speech-registers", "requests-commands"]
 function: ["formality", "request"]
 level: N4
 register: polite

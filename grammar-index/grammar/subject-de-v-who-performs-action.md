@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL14
 pattern: Subject + で + V - who performs action
-topic_slug: ["particles-de"]
+topic_slug: ["particles"]
 function: []
 level: N5
 register: neutral

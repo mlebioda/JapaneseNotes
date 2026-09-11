@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL13
 pattern: Vて形 + いただく（謙譲語）・くださる（尊敬語） - describing a favor received from a superior
-topic_slug: ["respectful-expressions", "humble-expressions", "verb-te-form"]
+topic_slug: ["speech-registers", "verb-te-form"]
 function: ["giving-receiving"]
 level: N4
 register: tiered

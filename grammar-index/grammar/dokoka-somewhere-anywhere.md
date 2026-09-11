@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL11
 pattern: どこか - somewhere, anywhere
-topic_slug: ["indefinite-pronouns"]
+topic_slug: ["pronouns"]
 function: ["existence-location"]
 level: N5
 register: neutral

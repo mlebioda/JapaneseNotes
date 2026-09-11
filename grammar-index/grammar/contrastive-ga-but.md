@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL8
 pattern: But  - ...  が ....
-topic_slug: ["particles-ga", "sentence-connectors"]
+topic_slug: ["particles", "sentence-connectors"]
 function: []
 level: N5
 register: tiered

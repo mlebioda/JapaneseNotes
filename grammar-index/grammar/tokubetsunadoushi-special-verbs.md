@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL13
 pattern: "**2. 特別な動詞（とくべつなどうし）- special verbs**"
-topic_slug: ["respectful-expressions"]
+topic_slug: ["speech-registers"]
 function: ["formality"]
 level: N4
 register: polite

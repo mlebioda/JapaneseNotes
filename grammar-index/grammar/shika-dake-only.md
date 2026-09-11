@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL6
 pattern: しか、だけ - only
-topic_slug: ["particles-restrictive"]
+topic_slug: ["particles"]
 function: []
 level: N4
 register: neutral

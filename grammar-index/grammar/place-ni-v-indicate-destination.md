@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL6
 pattern: Place + に ＋　V - indicate destination
-topic_slug: ["particles-ni"]
+topic_slug: ["particles"]
 function: ["direction-destination"]
 level: N5
 register: neutral

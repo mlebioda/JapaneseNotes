@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL6
 pattern: で - where the action will take place
-topic_slug: ["particles-de"]
+topic_slug: ["particles"]
 function: ["existence-location"]
 level: N5
 register: neutral

@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL5
 pattern: を
-topic_slug: ["particles-wo"]
+topic_slug: ["particles"]
 function: []
 level: N5
 register: neutral

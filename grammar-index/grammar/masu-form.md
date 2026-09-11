@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL5
 pattern: ます形 - masu form
-topic_slug: ["polite-expressions"]
+topic_slug: ["speech-registers"]
 function: ["formality"]
 level: N5
 register: polite

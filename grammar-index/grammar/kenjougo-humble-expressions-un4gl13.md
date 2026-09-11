@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL13
 pattern: 謙譲語（けんじょうご） - humble expressions
-topic_slug: ["humble-expressions"]
+topic_slug: ["speech-registers"]
 function: ["formality"]
 level: N4
 register: polite

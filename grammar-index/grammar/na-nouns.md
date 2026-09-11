@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL9
 pattern: な形容詞 + Nouns
-topic_slug: ["na-adjectives"]
+topic_slug: ["adjectives"]
 function: []
 level: N5
 register: neutral

@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL13
 pattern: Vて形＋くださいませんか politer form of くれませんか - could you please (do smth for me)
-topic_slug: ["requests-commands", "verb-te-form", "respectful-expressions"]
+topic_slug: ["requests-commands", "verb-te-form", "speech-registers"]
 function: ["request"]
 level: N4
 register: polite

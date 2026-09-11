@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL2
 pattern: Nなら - as for,  jesli o tym mowa
-topic_slug: ["topic-marking"]
+topic_slug: ["particles"]
 function: []
 level: N4
 register: tiered

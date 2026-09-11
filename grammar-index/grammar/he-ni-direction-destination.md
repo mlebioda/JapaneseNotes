@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL5
 pattern: へ / に - direction of movement, travel (destination)
-topic_slug: ["particles-ni"]
+topic_slug: ["particles"]
 function: ["direction-destination"]
 level: N5
 register: neutral

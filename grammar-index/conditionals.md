@@ -22,4 +22,4 @@
 
 - [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — the interrogative ば + いいですか conditional doubles as a request for advice
 - [Subordinate Clauses](/JapaneseNotes/grammar-index/subordinate-clauses) — たら subordinate clauses can carry their own が-marked subject
-- [Topic Marking](/JapaneseNotes/grammar-index/topic-marking) — なら also has a separate topic-picking "as for" use, distinct from this conditional use
+- [Particles](/JapaneseNotes/grammar-index/particles) — なら also has a separate topic-picking "as for" use, distinct from this conditional use (see the Topic Marking chapter)

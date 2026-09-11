@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL8
 pattern: は vs が
-topic_slug: ["topic-marking"]
+topic_slug: ["particles"]
 function: []
 level: N5
 register: neutral

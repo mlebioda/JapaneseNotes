@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL14
 pattern: 特別な動詞（とくべつなどうし）
-topic_slug: ["humble-expressions"]
+topic_slug: ["speech-registers"]
 function: ["formality"]
 level: N4
 register: polite

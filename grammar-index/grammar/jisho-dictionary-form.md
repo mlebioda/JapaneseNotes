@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL5
 pattern: 辞書形（じしょ）- dictionary form
-topic_slug: ["casual-speech"]
+topic_slug: ["speech-registers"]
 function: ["formality"]
 level: N5
 register: tiered

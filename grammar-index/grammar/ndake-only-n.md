@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL14
 pattern: N＋たけ - only N
-topic_slug: ["particles-restrictive"]
+topic_slug: ["particles"]
 function: []
 level: N5
 register: neutral

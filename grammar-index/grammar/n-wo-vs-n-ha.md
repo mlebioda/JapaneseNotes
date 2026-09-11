@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL11
 pattern: N＋を　vs N＋は
-topic_slug: ["topic-marking"]
+topic_slug: ["particles"]
 function: []
 level: N5
 register: neutral

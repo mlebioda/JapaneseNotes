@@ -14,20 +14,11 @@
 
 ## Adjectives
 
-- [na-adjectives](/JapaneseNotes/grammar-index/na-adjectives) — な-adjective forms — attributive (+な+Noun), predicate conjugation (です／でした／ではありません), and adverbial (+に) uses.
-- [i-adjectives](/JapaneseNotes/grammar-index/i-adjectives) — い-adjective forms — sentence structure with です, and full non-past/past affirmative/negative conjugation.
-- [adjective-types](/JapaneseNotes/grammar-index/adjective-types) — The い-adjective vs な-adjective classification and how each attaches to a noun or predicate.
+- [adjectives](/JapaneseNotes/grammar-index/adjectives) — い-adjective and な-adjective classification, conjugation, and adverb conversion. Chapters: Types (い vs な), い-adjectives, な-adjectives, Adjective→Adverb Conversion.
 
 ## Particles
 
-- [sentence-final-particles](/JapaneseNotes/grammar-index/sentence-final-particles) — Sentence-final particles that shape tone toward the listener — よ, ね, and related forms.
-- [particles-restrictive](/JapaneseNotes/grammar-index/particles-restrictive) — Patterns for limiting a statement to a single item or option — "only" — しか (with negative form) and だけ (with affirmative form).
-- [particles-mo](/JapaneseNotes/grammar-index/particles-mo) — Patterns built on the particle も — listing items, pairing "both A and B," emphasizing something unexpected, and (with an interrogative) expressing total affirmation or total denial.
-- [particles-ga](/JapaneseNotes/grammar-index/particles-ga) — The particle が used to connect two clauses as "but," or to softly introduce a new topic.
-- [particles-de](/JapaneseNotes/grammar-index/particles-de) — The particle で marking who performs an action, alone or as a group, distinct from its instrument/means use.
-- [particles-ni](/JapaneseNotes/grammar-index/particles-ni) — The particle に marking the destination or arrival point of a motion verb, among other uses.
-- [particles-wo](/JapaneseNotes/grammar-index/particles-wo) — The particle を marking the object of a transitive verb, a motion's starting/transit point, or combining with する.
-- [topic-marking](/JapaneseNotes/grammar-index/topic-marking) — Patterns and particles for marking or shifting a sentence's topic — responsive topic-picking なら and contrastive-stacking は — and related forms.
+- [particles](/JapaneseNotes/grammar-index/particles) — Particle-specific grammar points, grouped by particle and particle function. Chapters: で, が, も, に, を, Restrictive (しか／だけ), Sentence-final (よ／ね), Topic Marking (は／が／なら).
 
 ## Patterns
 
@@ -59,7 +50,6 @@
 - [listing-examples](/JapaneseNotes/grammar-index/listing-examples) — Patterns for giving example items from a set, implying there could be more like them — とか...とか, や...や, and related forms.
 - [degree-excess](/JapaneseNotes/grammar-index/degree-excess) — Patterns for expressing that something goes past a limit or degree — too much of something: すぎる, and related forms.
 - [degree-adverbs](/JapaneseNotes/grammar-index/degree-adverbs) — Adverbs marking degree — how much, how little, or how strongly something applies: 少し, あまり, 全然, and related forms.
-- [indefinite-pronouns](/JapaneseNotes/grammar-index/indefinite-pronouns) — The か／も indefinite pronoun series — something/someone/somewhere/sometime (か) and their universal-negative counterparts (も).
 - [likes-dislikes-ability](/JapaneseNotes/grammar-index/likes-dislikes-ability) — Patterns for expressing likes, dislikes, and skill level using な-adjectives marked with が — 好き／嫌い, 上手／下手, and related forms.
 - [sentence-connectors](/JapaneseNotes/grammar-index/sentence-connectors) — Patterns for joining two clauses or descriptions into one sentence — くて／で for "and", が for contrastive "but", and related forms.
 - [opinions-impressions](/JapaneseNotes/grammar-index/opinions-impressions) — Patterns for asking someone's opinion, impression, or how something turned out: どうですか, and related forms.
@@ -73,13 +63,14 @@
 - [temporal-adverbs](/JapaneseNotes/grammar-index/temporal-adverbs) — Adverbs marking the ongoing status of a state relative to expectation — still happening, no longer happening, already happened, not yet happened: まだ, もう.
 - [range-interval](/JapaneseNotes/grammar-index/range-interval) — Patterns marking a range or span — a distance/time interval, a specific action occurring within a span, or a state holding across a group: 間.
 
+## Pronouns
+
+- [pronouns](/JapaneseNotes/grammar-index/pronouns) — Personal, indefinite, and demonstrative pronoun vocabulary. Chapters: Personal Pronouns, Indefinite Pronouns (か／も series), Demonstratives (こそあど).
+
+## Speech Registers
+
+- [speech-registers](/JapaneseNotes/grammar-index/speech-registers) — Keigo — teineigo, sonkeigo, kenjougo — and casual speech, the registers of Japanese politeness. Chapters: Teineigo (丁寧語), Sonkeigo (尊敬語), Kenjougo (謙譲語), Casual Speech.
+
 ## Other
 
-- [humble-expressions](/JapaneseNotes/grammar-index/humble-expressions) — Kenjougo (謙譲語) — patterns for lowering your own actions, status, and possessions when speaking to or about people outside your group.
-- [polite-expressions](/JapaneseNotes/grammar-index/polite-expressions) — Teineigo (丁寧語) — the neutral polite register (ます／です and their formal variants) showing formality and social distance, independent of relative rank.
-- [respectful-expressions](/JapaneseNotes/grammar-index/respectful-expressions) — Sonkeigo (尊敬語) — patterns for raising the status of the listener, a customer, a superior, or a respected third party.
 - [relationships](/JapaneseNotes/grammar-index/relationships) — Vocabulary and expressions for describing interpersonal relationships — friendships, romantic relationships, and social bonds.
-- [adjective-adverb-conversion](/JapaneseNotes/grammar-index/adjective-adverb-conversion) — Patterns for turning an い-adjective or な-adjective into an adverb to modify a verb.
-- [demonstratives-kosoado](/JapaneseNotes/grammar-index/demonstratives-kosoado) — Vocabulary for the こそあど demonstrative series — near-speaker/near-listener/far-from-both distinctions, and their adjective and degree-adverb uses.
-- [pronouns](/JapaneseNotes/grammar-index/pronouns) — Personal pronouns for "I," "you," and third person, and their register/formality levels.
-- [casual-speech](/JapaneseNotes/grammar-index/casual-speech) — Patterns and phenomena specific to casual/colloquial spoken Japanese — particle omission, contractions, and related forms.

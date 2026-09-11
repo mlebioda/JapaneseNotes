@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL3
 pattern: こちら、そちら、あちら、どちら indicate place, location and direction, person
-topic_slug: ["demonstratives-kosoado"]
+topic_slug: ["pronouns"]
 function: ["existence-location"]
 level: N5
 register: polite

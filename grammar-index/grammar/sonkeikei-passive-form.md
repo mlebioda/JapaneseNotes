@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL13
 pattern: 1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**
-topic_slug: ["respectful-expressions"]
+topic_slug: ["speech-registers"]
 function: ["formality", "passive-causative"]
 level: N4
 register: tiered

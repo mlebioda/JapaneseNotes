@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL5
 pattern: (ご)都合（つごう）+ いい／悪い - asking about someone's availability
-topic_slug: ["respectful-expressions"]
+topic_slug: ["speech-registers"]
 function: ["formality"]
 level: N4
 register: polite

@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL11
 pattern: どこも/どこへも - nowhere
-topic_slug: ["indefinite-pronouns", "particles-mo"]
+topic_slug: ["pronouns", "particles"]
 function: ["existence-location"]
 level: N5
 register: neutral

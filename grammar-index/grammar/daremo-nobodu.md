@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL11
 pattern: だれも - nobodu
-topic_slug: ["indefinite-pronouns", "particles-mo"]
+topic_slug: ["pronouns", "particles"]
 function: []
 level: N5
 register: neutral

@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL1L2
 pattern: これ/それ/あれ　どれ
-topic_slug: ["demonstratives-kosoado"]
+topic_slug: ["pronouns"]
 function: []
 level: N5
 register: neutral

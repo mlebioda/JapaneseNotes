@@ -12,4 +12,4 @@
 ## See also
 
 - [Verb Te-Form](/JapaneseNotes/grammar-index/verb-te-form) — these are auxiliary constructions built on the て-form
-- [Humble Expressions](/JapaneseNotes/grammar-index/humble-expressions) — いただく is the kenjougo counterpart of もらう
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — いただく is the kenjougo counterpart of もらう

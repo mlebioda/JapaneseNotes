@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL13
 pattern: "**3. お + V「ます形」になります**"
-topic_slug: ["respectful-expressions"]
+topic_slug: ["speech-registers"]
 function: ["formality"]
 level: N4
 register: polite

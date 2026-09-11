@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL9
 pattern: 1. な形容詞　な　overview
-topic_slug: ["na-adjectives", "adjective-adverb-conversion"]
+topic_slug: ["adjectives"]
 function: []
 level: N5
 register: tiered

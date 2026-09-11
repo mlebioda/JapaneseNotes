@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL11
 pattern: いつか - someday
-topic_slug: ["indefinite-pronouns"]
+topic_slug: ["pronouns"]
 function: ["temporal"]
 level: N5
 register: neutral

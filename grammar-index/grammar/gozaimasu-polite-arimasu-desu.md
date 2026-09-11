@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL13
 pattern: ございます - polite arimasu、desu
-topic_slug: ["polite-expressions"]
+topic_slug: ["speech-registers"]
 function: ["formality"]
 level: N4
 register: polite

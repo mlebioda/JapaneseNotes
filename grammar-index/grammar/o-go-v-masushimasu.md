@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL14
 pattern: お・ご V『ます形」します
-topic_slug: ["humble-expressions"]
+topic_slug: ["speech-registers"]
 function: ["formality"]
 level: N4
 register: polite

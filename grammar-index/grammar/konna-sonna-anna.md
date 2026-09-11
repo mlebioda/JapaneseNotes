@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL1
 pattern: こんな, そんな, あんな
-topic_slug: ["demonstratives-kosoado"]
+topic_slug: ["pronouns"]
 level: N4
 proofread: true
 ---

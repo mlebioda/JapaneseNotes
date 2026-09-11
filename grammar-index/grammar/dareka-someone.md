@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL11
 pattern: だれか - someone
-topic_slug: ["indefinite-pronouns"]
+topic_slug: ["pronouns"]
 function: []
 level: N5
 register: neutral

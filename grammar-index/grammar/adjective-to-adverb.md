@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL1
 pattern: Adjective to Adverb
-topic_slug: ["adjective-adverb-conversion"]
+topic_slug: ["adjectives"]
 function: []
 level: N4
 register: neutral

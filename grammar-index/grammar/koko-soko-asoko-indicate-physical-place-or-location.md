@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL3
 pattern: ここ、そこ、あそこ - indicate physical place or location
-topic_slug: ["demonstratives-kosoado"]
+topic_slug: ["pronouns"]
 function: ["existence-location"]
 level: N5
 register: neutral

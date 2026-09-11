@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL11
 pattern: か・も
-topic_slug: ["indefinite-pronouns", "particles-mo"]
+topic_slug: ["pronouns", "particles"]
 level: N5
 proofread: true
 ---

@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL5
 pattern: 助詞(じょし)＋も - list things
-topic_slug: ["particles-mo"]
+topic_slug: ["particles"]
 function: []
 level: N4
 register: neutral

@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL1L2
 pattern: ね - seeking approval
-topic_slug: ["sentence-final-particles"]
+topic_slug: ["particles"]
 function: []
 level: N5
 register: neutral

@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL9
 pattern: 5.  Nは + なadj で - AND
-topic_slug: ["na-adjectives", "sentence-connectors"]
+topic_slug: ["adjectives", "sentence-connectors"]
 function: []
 level: N5
 register: neutral

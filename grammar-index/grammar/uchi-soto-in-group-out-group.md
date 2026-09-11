@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL14
 pattern: ウチ・ソト (Uchi-Soto) - In-group / Out-group
-topic_slug: ["humble-expressions", "respectful-expressions"]
+topic_slug: ["speech-registers"]
 function: ["formality"]
 level: N4
 register: tiered

@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL5
 pattern: に - time of occurrence of an action
-topic_slug: ["particles-ni"]
+topic_slug: ["particles"]
 function: ["temporal"]
 level: N5
 register: neutral

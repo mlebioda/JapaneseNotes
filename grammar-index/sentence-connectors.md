@@ -13,5 +13,5 @@
 
 ## See also
 
-- [Particles — が](/JapaneseNotes/grammar-index/particles-ga) — the contrastive が connector, shared with this topic
-- [Na-adjectives](/JapaneseNotes/grammar-index/na-adjectives) — な-adjective/Noun で-chaining also lives there as a conjugation form
+- [Particles](/JapaneseNotes/grammar-index/particles) — the contrastive が connector, shared with this topic (see the が chapter)
+- [Adjectives](/JapaneseNotes/grammar-index/adjectives) — な-adjective/Noun で-chaining also lives there as a conjugation form (see the な-adjectives chapter)

@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL5
 pattern: Forms
-topic_slug: ["casual-speech", "polite-expressions"]
+topic_slug: ["speech-registers"]
 level: N5
 proofread: true
 ---

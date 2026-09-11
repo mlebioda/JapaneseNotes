@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL14
 pattern: V「て形」いらっしゃいます - Respectful (尊敬語) progressive/state form
-topic_slug: ["respectful-expressions", "verb-te-form"]
+topic_slug: ["speech-registers", "verb-te-form"]
 function: ["formality"]
 level: N4
 register: polite

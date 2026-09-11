@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL13
 pattern: 敬語(けいご)
-topic_slug: ["respectful-expressions", "humble-expressions", "polite-expressions"]
+topic_slug: ["speech-registers"]
 level: N4
 proofread: true
 ---

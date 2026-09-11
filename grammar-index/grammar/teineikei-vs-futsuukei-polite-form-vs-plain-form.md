@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL12
 pattern: ていねいけい vs ふつうけい - polite form vs plain form
-topic_slug: ["polite-expressions"]
+topic_slug: ["speech-registers"]
 function: ["formality"]
 level: N5
 register: tiered

@@ -35,8 +35,7 @@
 
 ## See also
 
-- [Humble Expressions](/JapaneseNotes/grammar-index/humble-expressions) — kenjougo て-form progressive おります
-- [Respectful Expressions](/JapaneseNotes/grammar-index/respectful-expressions) — sonkeigo て-form progressive いらっしゃいます
+- [Speech Registers](/JapaneseNotes/grammar-index/speech-registers) — kenjougo て-form progressive おります, sonkeigo て-form progressive いらっしゃいます
 - [Requests & Commands](/JapaneseNotes/grammar-index/requests-commands) — くださいませんか request pattern built on the て-form
 - [Action Timing](/JapaneseNotes/grammar-index/action-timing) — ているところです marks live-in-progress timing
 - [Giving & Receiving](/JapaneseNotes/grammar-index/giving-receiving) — the あげる／くれる／もらう family of て-form auxiliary constructions

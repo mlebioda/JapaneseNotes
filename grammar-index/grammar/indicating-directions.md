@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL3
 pattern: Indicating directions
-topic_slug: ["demonstratives-kosoado"]
+topic_slug: ["pronouns"]
 level: N5
 proofread: true
 ---

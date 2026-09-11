@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL13
 pattern: 尊敬語（そんけいご）- Honorific expressions
-topic_slug: ["respectful-expressions"]
+topic_slug: ["speech-registers"]
 level: N4
 proofread: true
 ---

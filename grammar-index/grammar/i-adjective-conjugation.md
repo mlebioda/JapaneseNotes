@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL8
 pattern: い形容詞
-topic_slug: ["i-adjectives", "adjective-types"]
+topic_slug: ["adjectives"]
 function: []
 level: N5
 register: tiered

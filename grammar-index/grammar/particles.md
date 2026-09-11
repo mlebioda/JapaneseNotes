@@ -1,6 +1,6 @@
 ---
 pattern: Particles
-topic_slug: ["particles-ni", "particles-wo", "sentence-final-particles", "topic-marking"]
+topic_slug: ["particles"]
 level: N5
 proofread: true
 ---

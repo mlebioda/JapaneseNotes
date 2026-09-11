@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL13
 pattern: 丁寧語（ていねいご）- polite expressions
-topic_slug: ["polite-expressions"]
+topic_slug: ["speech-registers"]
 level: N4
 proofread: true
 ---

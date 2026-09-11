@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL10
 pattern: N1 は N2 が ADJ です — N2 is a trait/feature of N1
-topic_slug: ["topic-marking"]
+topic_slug: ["particles"]
 function: []
 level: N5
 register: neutral

@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL10
 pattern: Particle omission — が、は、を、(に)
-topic_slug: ["casual-speech"]
+topic_slug: ["speech-registers"]
 function: ["formality"]
 level: N5
 register: tiered

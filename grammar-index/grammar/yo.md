@@ -1,7 +1,7 @@
 ---
 lesson: UN5GL9
 pattern: よ
-topic_slug: ["sentence-final-particles"]
+topic_slug: ["particles"]
 function: []
 level: N5
 register: neutral

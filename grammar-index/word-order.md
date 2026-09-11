@@ -8,4 +8,4 @@
 
 ## See also
 
-- [Topic Marking](/JapaneseNotes/grammar-index/topic-marking) — a topic marked with は moves to the front of the sentence regardless of the Time-Place-Object tendency
+- [Particles](/JapaneseNotes/grammar-index/particles) — a topic marked with は moves to the front of the sentence regardless of the Time-Place-Object tendency (see the Topic Marking chapter)

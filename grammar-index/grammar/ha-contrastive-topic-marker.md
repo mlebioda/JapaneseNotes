@@ -1,7 +1,7 @@
 ---
 lesson: UN4GL2
 pattern: は - marks a phrase (already carrying another particle) as a contrastive topic
-topic_slug: ["topic-marking"]
+topic_slug: ["particles"]
 function: []
 level: N4
 register: neutral
