@@ -5,4 +5,4 @@
 ## Entries
 
 - [しか、だけ - only](/JapaneseNotes/grammar-index/grammar/shika-dake-only) · N4
-- [N＋たけ - only N](/JapaneseNotes/grammar-index/grammar/ntake-only-n) · N5
+- [N＋だけ - only N](/JapaneseNotes/grammar-index/grammar/ndake-only-n) · N5

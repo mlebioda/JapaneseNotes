@@ -9,3 +9,4 @@
 - [どうして - why](/JapaneseNotes/grammar-index/grammar/doushite-why) · N5
 - [どんな + N - what kind](/JapaneseNotes/grammar-index/grammar/donna-n-what-kind) · N5
 - [どうやって - how to](/JapaneseNotes/grammar-index/grammar/douyatte-how-to) · N5
+- [OR - か、か](/JapaneseNotes/grammar-index/grammar/or-kaka) · N5

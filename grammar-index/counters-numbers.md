@@ -24,3 +24,4 @@
 - [Floors](/JapaneseNotes/grammar-index/grammar/floors-counter) · N5
 - [Numbers](/JapaneseNotes/grammar-index/grammar/numbers-0-100000000) · N5
 - [枚　まい - counter for flat/thin objects](/JapaneseNotes/grammar-index/grammar/mai-counter-for-flat-thin-objects) · N5
+- [Date & Time](/JapaneseNotes/grammar-index/grammar/date-time) · N5

@@ -5,7 +5,7 @@ topic_slug: ["question-formation"]
 function: []
 level: N4
 register: neutral
-confused_with: ["gimonshika-indirect-question"]
+confused_with: ["gimonshika-indirect-question", "or-kaka"]
 proofread: true
 ---
 
@@ -50,6 +50,7 @@ No restriction — used across all speech levels, from casual to polite.
 ## Often confused with
 
 - [疑問詞（ぎもんし）...か ... - indirect question](/JapaneseNotes/grammar-index/grammar/gimonshika-indirect-question) — test: Is this a yes/no embedded question with no wh-word (かどうか), or a wh-word (だれ／いつ／どこ／いくら／何) embedded question (疑問詞...か)?
+- [OR - か、か](/JapaneseNotes/grammar-index/grammar/or-kaka) — test: Is this offering two specific alternatives to pick between (か…か), or questioning whether a single statement is true or not (かどうか)?
 
 ## See also
 

@@ -5,7 +5,7 @@ topic_slug: ["range-interval"]
 function: ["temporal"]
 level: N4
 register: neutral
-confused_with: ["meishi-chuu-juu-during", "nagara", "toki-non-past", "made"]
+confused_with: ["meishi-chuu-juu-during", "nagara", "toki-non-past", "made", "weeks", "period-of-time"]
 proofread: true
 ---
 
@@ -48,6 +48,8 @@ Register: neutral
 - [ながら - While - 2 actions occuring at the same time](/JapaneseNotes/grammar-index/grammar/nagara) — test: Must both actions happen at the same time by the same subject (ながら), or does the event just happen at some point within a time span (間に)?
 - [A....とき...B - while A, B](/JapaneseNotes/grammar-index/grammar/toki-non-past) — test: Does something happen at some point within a bounded span (間に), or is this a general point-in-time "when" (とき)?
 - [まで](/JapaneseNotes/grammar-index/grammar/made) — test: Does the event happen at some specific point within a bounded span (間に), or does the action/state continue right up until an endpoint (まで)?
+- [weeks](/JapaneseNotes/grammar-index/grammar/weeks) — test: Is 間 marking the span between two named points (AとBの間), or is it a bound counter suffix attached directly after a number of weeks (週間)?
+- [Period of time](/JapaneseNotes/grammar-index/grammar/period-of-time) — test: Is 間 marking the interval between two named points (AとBの間), or a bound suffix directly forming a duration out of hours and minutes (時間、分)?
 
 ## See also
 

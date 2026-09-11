@@ -76,6 +76,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL4-what-time-department-store-is-op
 # 文法
 
 ## Years 年
+→ [[grammar-index/grammar/years]]
 
 YEAR 年（ねん）
 #w 1999年（せんきゅうひゃくきゅうじゅうきゅう**よ**ねん） - 1999r
@@ -89,12 +90,14 @@ NOTE
 Register: です above is polite (teineigo). Casual/informal drops です → 今年何年？, 来年何年？
 
 ### Years - counting
+→ [[grammar-index/grammar/years]]
 
 number + 年(間)
 
 #w 四年(間)（よねんかん）- 4 years (period)
 
 ## Months 　月
+→ [[grammar-index/grammar/months]]
 
 一月（いちがつ）- January
 二月（にがつ）- February
@@ -112,6 +115,7 @@ number + 年(間)
 #w 何月（なんがつ）- what month?
 
 ### Months - how to count
+→ [[grammar-index/grammar/months]]
 
 #w 一か月(間)（いっかげつかん) - 1 month
 #w 二か月(間)（にかげつかん）- 2 months
@@ -129,6 +133,7 @@ number + か月(間) (optional)
 
 NOTE: か月 is also written ヶ月 (same reading; orthographic variant only, no register difference).
 ## Days
+→ [[grammar-index/grammar/days]]
 
 日 (ひ、にち) - day
 
@@ -151,6 +156,7 @@ NOTE: か月 is also written ヶ月 (same reading; orthographic variant only, no
 #w 何曜日（なんようび）- what day of the week
 
 ### weeks 
+→ [[grammar-index/grammar/weeks]]
 
 #w 一週間（いっしゅうかん）- one week  
 #w 二週間（にしゅうかん）- two weeks  
@@ -164,6 +170,7 @@ NOTE: か月 is also written ヶ月 (same reading; orthographic variant only, no
 #w 十週間（じゅっしゅうかん）- ten weeks
 
 ### 年月日（ねんがっぴ）- dates
+→ [[grammar-index/grammar/nengappi-dates]]
 
 Number + 年 + Number + 月 + Number + 日
 
@@ -209,6 +216,7 @@ Number + 年 + Number + 月 + Number + 日
 #w 何日（なんにち）- what date
 
 ### How many days
+→ [[grammar-index/grammar/days]]
 
 days from date + (kan)
 
@@ -225,8 +233,10 @@ days from date + (kan)
 
 一か月二日間（いっかげつ ふつかかん) - 1 month 2 days
 ## Time
+→ [[grammar-index/grammar/time]]
 
 ### Hour
+→ [[grammar-index/grammar/hour]]
 
 午前・午後・朝・夜 +　Number + 時 + Number + 分
 
@@ -245,6 +255,7 @@ days from date + (kan)
 
 
 ### Minutes
+→ [[grammar-index/grammar/minutes]]
 
  一分（いっぷん）- 1 minute
  二分（にふん）- 2 minutes
@@ -264,6 +275,7 @@ days from date + (kan)
 何分（なんぷん) - what minute
 
 ### Period of time
+→ [[grammar-index/grammar/period-of-time]]
 
 1. hour + 間
 2. minutes + 間
@@ -293,6 +305,7 @@ days from date + (kan)
 
 夜（よる）- night (sunset to sunrise),
 ## Directions
+→ [[grammar-index/grammar/directions]]
 
 右（みぎ）- right
 左（ひだり）- left
@@ -309,6 +322,7 @@ Example:
 銀行の後ろ側に映画館があります（ぎんこう、うし、えいがかん）- there is a cinema behind the bank.
 
 ## OR - か、か
+→ [[grammar-index/grammar/or-kaka]]
 
 ### Structure
 

@@ -627,8 +627,8 @@
       "next_review": "2026-09-30"
     },
     "UN5GL3::mai-counter-rzeczy-paskich": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL3.md",
-      "grammar_header": "枚　まい - counter rzeczy płaskich",
+      "lesson_file": "grammar-index/grammar/mai-counter-for-flat-thin-objects.md",
+      "grammar_header": "枚　まい - counter for flat/thin objects",
       "last_reviewed": "2026-08-14",
       "interval_days": 109,
       "ease": 2.8,
@@ -642,8 +642,8 @@
       "next_review": "2026-12-01"
     },
     "UN5GL3::koko-soko-asoko-indicate-physical-place-or-location": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL3.md",
-      "grammar_header": "ここ・そこ・あそこ — indicate physical place or location",
+      "lesson_file": "grammar-index/grammar/koko-soko-asoko-indicate-physical-place-or-location.md",
+      "grammar_header": "ここ、そこ、あそこ - indicate physical place or location",
       "last_reviewed": "2026-07-05",
       "interval_days": 51,
       "ease": 2.95,
@@ -657,8 +657,8 @@
       "next_review": "2026-09-23"
     },
     "UN5GL3::kochira-sochira-achira-dochira-indicate-place-location-and-direction-person": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL3.md",
-      "grammar_header": "こちら・そちら・あちら・どちら — polite location/direction",
+      "lesson_file": "grammar-index/grammar/kochira-sochira-achira-dochira-indicate-place-location-and-direction-person.md",
+      "grammar_header": "こちら、そちら、あちら、どちら indicate place, location and direction, person",
       "last_reviewed": "2026-09-06",
       "interval_days": 155,
       "ease": 2.8,
@@ -675,7 +675,7 @@
       "next_review": "2027-02-08"
     },
     "UN5GL3::pningaarimasu-imasu-there-is-something-somewhere": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL3.md",
+      "lesson_file": "grammar-index/grammar/p-ni-n-ga-arimasu-imasu-there-is-something-somewhere.md",
       "grammar_header": "PにNがあります・います - there is something somewhere",
       "last_reviewed": "2026-07-12",
       "interval_days": 64,
@@ -690,7 +690,7 @@
       "score": 4
     },
     "UN5GL3::something-is-somewhere": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL3.md",
+      "lesson_file": "grammar-index/grammar/something-is-somewhere.md",
       "grammar_header": "Something is somewhere",
       "last_reviewed": "2026-07-12",
       "interval_days": 64,
@@ -708,7 +708,7 @@
       "score": 4
     },
     "UN5GL4::years-nen": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL4.md",
+      "lesson_file": "grammar-index/grammar/years.md",
       "grammar_header": "Years 年",
       "last_reviewed": "2026-08-02",
       "interval_days": 81,
@@ -726,8 +726,8 @@
       "next_review": "2026-10-22"
     },
     "UN5GL4::irregular-date-readings": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL4.md",
-      "grammar_header": "Irregular date readings",
+      "lesson_file": "grammar-index/grammar/nengappi-dates.md",
+      "grammar_header": "年月日（ねんがっぴ）- dates",
       "last_reviewed": "2026-08-09",
       "next_review": "2026-11-23",
       "interval_days": 106,
@@ -741,8 +741,8 @@
       "score": 3
     },
     "UN5GL4::time-hours-minutes": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL4.md",
-      "grammar_header": "Time — hours + minutes",
+      "lesson_file": "grammar-index/grammar/time.md",
+      "grammar_header": "Time",
       "last_reviewed": "2026-07-05",
       "interval_days": 51,
       "ease": 2.95,
@@ -770,8 +770,8 @@
       "next_review": "2026-09-23"
     },
     "UN5GL4::directions-gawa": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL4.md",
-      "grammar_header": "Directions + 側（がわ）",
+      "lesson_file": "grammar-index/grammar/directions.md",
+      "grammar_header": "Directions",
       "last_reviewed": "2026-08-09",
       "next_review": "2026-11-23",
       "interval_days": 106,
@@ -787,8 +787,8 @@
       "score": 3
     },
     "UN5GL4::or-ka-ka-pattern": {
-      "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL4.md",
-      "grammar_header": "か・か — OR pattern",
+      "lesson_file": "grammar-index/grammar/or-kaka.md",
+      "grammar_header": "OR - か、か",
       "last_reviewed": "2026-09-06",
       "interval_days": 66,
       "ease": 2.65,
