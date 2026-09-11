@@ -39,4 +39,4 @@ More polite/indirect than くれませんか — appropriate toward superiors, c
 
 ## See also
 
-- [尊敬語（そんけいご）- Honorific expressions](/JapaneseNotes/grammar-index/grammar/sonkeigo-honorific-expressions) — groups the sonkeigo honorific patterns for this lesson
+- [尊敬語（そんけいご）- Honorific expressions](/JapaneseNotes/grammar-index/sonkeigo-honorific-expressions) — groups the sonkeigo honorific patterns for this lesson

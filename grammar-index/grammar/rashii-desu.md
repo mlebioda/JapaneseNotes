@@ -54,4 +54,4 @@ Register: tiered (polite: らしいです; plain/casual: らしい)
 
 ## See also
 
-- [Hearsay](/JapaneseNotes/grammar-index/grammar/hearsay) — groups the two hearsay-reporting patterns, そうです and らしいです
+- [Hearsay](/JapaneseNotes/grammar-index/hearsay) — groups the two hearsay-reporting patterns, そうです and らしいです

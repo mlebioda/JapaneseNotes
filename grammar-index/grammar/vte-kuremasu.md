@@ -39,4 +39,4 @@ Register: tiered (plain: くれる; respectful: くださる)
 
 ## See also
 
-- [Vて形 + あげます・くれます・もらいます](/JapaneseNotes/grammar-index/grammar/vte-agemasu-kuremasu-moraimasu) — groups this pattern with its あげます／もらいます siblings
+- [Vて形 + あげます・くれます・もらいます](/JapaneseNotes/grammar-index/vte-agemasu-kuremasu-moraimasu) — groups this pattern with its あげます／もらいます siblings

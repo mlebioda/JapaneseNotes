@@ -4,8 +4,8 @@
 
 ## Entries
 
-- [Spójniki](/JapaneseNotes/grammar-index/grammar/conjunctions) · N5
-- [and](/JapaneseNotes/grammar-index/grammar/and-conjunction) · N5
+- [Spójniki](/JapaneseNotes/grammar-index/conjunctions) · N5
+- [and](/JapaneseNotes/grammar-index/and-conjunction) · N5
 - [い -> くて](/JapaneseNotes/grammar-index/grammar/i-kute) · N5
 - [5.  Nは + なadj で - AND](/JapaneseNotes/grammar-index/grammar/naadj-de-and-connecting-adjectives) · N5
 - [But  - ...  が ....](/JapaneseNotes/grammar-index/grammar/contrastive-ga-but) · N5

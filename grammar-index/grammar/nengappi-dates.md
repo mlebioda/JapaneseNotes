@@ -61,4 +61,4 @@ Stating a full date with 年／月／日 is register-neutral — the same constr
 
 ## See also
 
-- [Date & Time](/JapaneseNotes/grammar-index/grammar/date-time) — sibling calendar/date reference group
+- [Date & Time](/JapaneseNotes/grammar-index/date-time) — sibling calendar/date reference group

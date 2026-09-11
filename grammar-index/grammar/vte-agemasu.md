@@ -42,4 +42,4 @@ Register: tiered (plain: あげる; humble: さしあげる)
 
 ## See also
 
-- [Vて形 + あげます・くれます・もらいます](/JapaneseNotes/grammar-index/grammar/vte-agemasu-kuremasu-moraimasu) — groups this pattern with its くれます／もらいます siblings
+- [Vて形 + あげます・くれます・もらいます](/JapaneseNotes/grammar-index/vte-agemasu-kuremasu-moraimasu) — groups this pattern with its くれます／もらいます siblings

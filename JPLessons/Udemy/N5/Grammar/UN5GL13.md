@@ -208,7 +208,7 @@ Structure
 ---
 
 ## Comparisons
-→ [[grammar-index/grammar/comparisons]]
+→ [[grammar-index/comparisons]]
 ### より than - comparing 2 things
 → [[grammar-index/grammar/yori-than-comparing-2-things]]
 Register: より itself has no politeness of its own — the register comes from the adjective/copula ending (plain だ vs polite です), same as in any other sentence.
@@ -331,7 +331,7 @@ Structure
 #w ちょうど 5000円 - just 5000 yen
 
 ## Verbs
-→ [[grammar-index/grammar/vocabulary-verbs]]
+→ [[grammar-index/vocabulary-verbs]]
 ### I think - と思います 
 → [[grammar-index/grammar/vocabulary/Verbs/i-think-toimasu]]
 Register: と思います is the polite/ます register; と思う is the plain/casual equivalent — same sentence, different formality level.

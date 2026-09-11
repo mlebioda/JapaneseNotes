@@ -17,11 +17,11 @@ proofread: true
 - [Days](/JapaneseNotes/grammar-index/grammar/days) · N5
 - [weeks](/JapaneseNotes/grammar-index/grammar/weeks) · N5
 - [年月日(ねんがっぴ) - dates](/JapaneseNotes/grammar-index/grammar/nengappi-dates) · N5
-- [Time](/JapaneseNotes/grammar-index/grammar/time) · N5
+- [Time](/JapaneseNotes/grammar-index/time) · N5
 
 ## See also
 
-- [numbers](/JapaneseNotes/grammar-index/grammar/numbers) — sibling number/counter reference group
-- [counters](/JapaneseNotes/grammar-index/grammar/counters) — sibling object-counter reference group
-- [Counter sufixes](/JapaneseNotes/grammar-index/grammar/counter-sufixes) — sibling counter-suffix overview group
-- [Time](/JapaneseNotes/grammar-index/grammar/time) — sibling clock-time reference group
+- [numbers](/JapaneseNotes/grammar-index/numbers) — sibling number/counter reference group
+- [counters](/JapaneseNotes/grammar-index/counters) — sibling object-counter reference group
+- [Counter sufixes](/JapaneseNotes/grammar-index/counter-sufixes) — sibling counter-suffix overview group
+- [Time](/JapaneseNotes/grammar-index/time) — sibling clock-time reference group

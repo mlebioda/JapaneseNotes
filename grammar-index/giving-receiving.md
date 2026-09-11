@@ -4,7 +4,7 @@
 
 ## Entries
 
-- [Vて形 + あげます・くれます・もらいます](/JapaneseNotes/grammar-index/grammar/vte-agemasu-kuremasu-moraimasu) · N4
+- [Vて形 + あげます・くれます・もらいます](/JapaneseNotes/grammar-index/vte-agemasu-kuremasu-moraimasu) · N4
 - [Aは + Bに + Vて形 + あげます - I do something for someone](/JapaneseNotes/grammar-index/grammar/vte-agemasu) · N4
 - [Vて形 + くれます - Someone does something to me](/JapaneseNotes/grammar-index/grammar/vte-kuremasu) · N4
 - [Vて形 + もらいます - somebody helped you with something that you asked to do](/JapaneseNotes/grammar-index/grammar/vte-moraimasu) · N4

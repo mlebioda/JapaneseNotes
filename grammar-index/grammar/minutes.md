@@ -40,4 +40,4 @@ Minute readings attach the same way regardless of formality — used identically
 
 ## See also
 
-- [Time](/JapaneseNotes/grammar-index/grammar/time) — sibling clock-time reference group
+- [Time](/JapaneseNotes/grammar-index/time) — sibling clock-time reference group

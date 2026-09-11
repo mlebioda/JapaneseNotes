@@ -50,4 +50,4 @@ Politeness comes only from the copula attached after it — だ (casual) vs で�
 
 ## See also
 
-- [。。。ところです - action is about to start / in progress / just finished](/JapaneseNotes/grammar-index/grammar/tokoro-desu) — groups the three ところ timing patterns
+- [。。。ところです - action is about to start / in progress / just finished](/JapaneseNotes/grammar-index/tokoro-desu) — groups the three ところ timing patterns

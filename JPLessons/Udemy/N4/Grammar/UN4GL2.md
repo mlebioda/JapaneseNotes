@@ -245,7 +245,7 @@ Structure:
 #w 机の上を片付けていただけませんか。(つくえ/うえ/かたづ) - Would you clean your desk?
 
 ## Vて形 + あげます・くれます・もらいます
-→ [[grammar-index/grammar/vte-agemasu-kuremasu-moraimasu]]
+→ [[grammar-index/vte-agemasu-kuremasu-moraimasu]]
 
 Register chart (plain / respectful / humble):
 

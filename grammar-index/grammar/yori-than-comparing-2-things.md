@@ -39,4 +39,4 @@ Register: neutral
 
 ## See also
 
-- [Comparisons](/JapaneseNotes/grammar-index/grammar/comparisons) — groups this lesson's three comparison patterns
+- [Comparisons](/JapaneseNotes/grammar-index/comparisons) — groups this lesson's three comparison patterns

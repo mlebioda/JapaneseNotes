@@ -36,4 +36,4 @@ Polite (ます-based); the most deferential of the three ませんか／まし�
 
 ## See also
 
-- [Proposing something to someone](/JapaneseNotes/grammar-index/grammar/proposing-something-to-someone) — groups the ませんか／ましょう／ましょうか family of proposal patterns
+- [Proposing something to someone](/JapaneseNotes/grammar-index/proposing-something-to-someone) — groups the ませんか／ましょう／ましょうか family of proposal patterns

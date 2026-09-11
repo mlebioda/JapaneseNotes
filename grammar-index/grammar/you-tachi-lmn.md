@@ -38,4 +38,4 @@ Register: tiered (polite/formal: おたく／そちら; neutral-but-risky: あ�
 
 ## See also
 
-- [Personal pronouns](/JapaneseNotes/grammar-index/grammar/personal-pronouns) — groups first- and second-person pronoun register choices
+- [Personal pronouns](/JapaneseNotes/grammar-index/personal-pronouns) — groups first- and second-person pronoun register choices

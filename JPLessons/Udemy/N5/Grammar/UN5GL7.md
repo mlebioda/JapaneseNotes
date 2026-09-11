@@ -359,7 +359,7 @@ Examples
 
 
 ## Proposing something to someone
-→ [[grammar-index/grammar/proposing-something-to-someone]]
+→ [[grammar-index/proposing-something-to-someone]]
 
 ### Vます形＋ませんか　Shall we? / Would you like? / Why don't you...?
 → [[grammar-index/grammar/masenka]]
@@ -568,7 +568,7 @@ Examples
 
 # Vocabulary
 ## Verbs
-→ [[grammar-index/grammar/vocabulary-verbs]]
+→ [[grammar-index/vocabulary-verbs]]
 ### 勉強 - learn
 → [[grammar-index/grammar/vocabulary/Verbs/benkyou-learn]]
 

@@ -100,7 +100,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL1-2-im-a-student-and-family
 # 文法
 
 ## Counters
-→ [[grammar-index/grammar/counters]]
+→ [[grammar-index/counters]]
 
 
 ### People

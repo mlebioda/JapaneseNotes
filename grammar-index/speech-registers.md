@@ -10,7 +10,7 @@
 - [ございます - polite arimasu、desu](/JapaneseNotes/grammar-index/grammar/gozaimasu-polite-arimasu-desu) · N4
 - [ていねいけい vs ふつうけい - polite form vs plain form](/JapaneseNotes/grammar-index/grammar/teineikei-vs-futsuukei-polite-form-vs-plain-form) · N5
 - [ます形 - masu form](/JapaneseNotes/grammar-index/grammar/masu-form) · N5
-- [Forms](/JapaneseNotes/grammar-index/grammar/jisho-vs-masu-form) · N5
+- [Forms](/JapaneseNotes/grammar-index/jisho-vs-masu-form) · N5
 
 ## Sonkeigo (尊敬語) — Respectful
 
@@ -19,8 +19,8 @@
 - [ウチ・ソト (Uchi-Soto) - In-group / Out-group](/JapaneseNotes/grammar-index/grammar/uchi-soto-in-group-out-group) · N4
 - [V「て形」いらっしゃいます - Respectful (尊敬語) progressive/state form](/JapaneseNotes/grammar-index/grammar/vteirasshaimasu-respectful-progressive-state-form) · N4
 - [お/ご V「ます形」ください - Respectful request form (尊敬語)](/JapaneseNotes/grammar-index/grammar/o-go-v-masukudasai-respectful-request-form) · N4
-- [尊敬語（そんけいご）- Honorific expressions](/JapaneseNotes/grammar-index/grammar/sonkeigo-honorific-expressions) · N4
-- [Types of verbs:](/JapaneseNotes/grammar-index/grammar/sonkeigo-types-of-verbs) · N4
+- [尊敬語（そんけいご）- Honorific expressions](/JapaneseNotes/grammar-index/sonkeigo-honorific-expressions) · N4
+- [Types of verbs:](/JapaneseNotes/grammar-index/sonkeigo-types-of-verbs) · N4
 - [1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**](/JapaneseNotes/grammar-index/grammar/sonkeikei-passive-form) · N4 — Low/casual: colleagues, writing, quick casual respect
 - [**2. 特別な動詞（とくべつなどうし）- special verbs**](/JapaneseNotes/grammar-index/grammar/tokubetsunadoushi-special-verbs) · N4 — Highest: always use if a special verb exists
 - [**3. お + V「ます形」になります**](/JapaneseNotes/grammar-index/grammar/o-vmasu-ninarimasu) · N4 — High: superiors/customers, no special verb, ます-stem ≥2 mora
@@ -35,7 +35,7 @@
 > Kenjougo (謙譲語) — patterns for lowering your own actions, status, and possessions when speaking to or about people outside your group.
 
 - [謙譲語（けんじょうご) - Humble expressions](/JapaneseNotes/grammar-index/grammar/kenjougo-humble-expressions) · N4
-- [Verbs](/JapaneseNotes/grammar-index/grammar/kenjougo-verbs) · N4
+- [Verbs](/JapaneseNotes/grammar-index/kenjougo-verbs) · N4
 - [特別な動詞（とくべつなどうし）](/JapaneseNotes/grammar-index/grammar/kenjougo-tokubetsunadoushi) · N4
 - [お・ご V『ます形」します](/JapaneseNotes/grammar-index/grammar/o-go-v-masushimasu) · N4
 - [お・ご V「ます形」いたします](/JapaneseNotes/grammar-index/grammar/o-go-v-masuitashimasu) · N4
@@ -49,7 +49,7 @@
 
 - [Particle omission — が、は、を、(に)](/JapaneseNotes/grammar-index/grammar/particle-omission-ga-ha-wo-ni) · N5
 - [辞書形（じしょ）- dictionary form](/JapaneseNotes/grammar-index/grammar/jisho-dictionary-form) · N5
-- [Forms](/JapaneseNotes/grammar-index/grammar/jisho-vs-masu-form) · N5
+- [Forms](/JapaneseNotes/grammar-index/jisho-vs-masu-form) · N5
 
 ## See also
 

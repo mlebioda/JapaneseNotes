@@ -35,4 +35,4 @@ Register: neutral
 
 ## See also
 
-- [か・も](/JapaneseNotes/grammar-index/grammar/ka-mo) — groups the full か／も indefinite pronoun series
+- [か・も](/JapaneseNotes/grammar-index/ka-mo) — groups the full か／も indefinite pronoun series

@@ -38,4 +38,4 @@ Register: tiered (plain/casual 辞書形 — neutral-polite ます形 — respec
 
 ## See also
 
-- [Forms](/JapaneseNotes/grammar-index/grammar/jisho-vs-masu-form) — groups this with ます形 as the two verb citation forms compared in the lesson
+- [Forms](/JapaneseNotes/grammar-index/jisho-vs-masu-form) — groups this with ます形 as the two verb citation forms compared in the lesson

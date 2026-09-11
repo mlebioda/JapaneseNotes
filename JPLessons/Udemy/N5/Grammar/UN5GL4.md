@@ -233,7 +233,7 @@ days from date + (kan)
 
 一か月二日間（いっかげつ ふつかかん) - 1 month 2 days
 ## Time
-→ [[grammar-index/grammar/time]]
+→ [[grammar-index/time]]
 
 ### Hour
 → [[grammar-index/grammar/hour]]

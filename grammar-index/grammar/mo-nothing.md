@@ -31,4 +31,4 @@ Formality is carried entirely by the negative verb that follows; 何も itself d
 
 ## See also
 
-- [か・も](/JapaneseNotes/grammar-index/grammar/ka-mo) — groups the full か／も indefinite pronoun series
+- [か・も](/JapaneseNotes/grammar-index/ka-mo) — groups the full か／も indefinite pronoun series

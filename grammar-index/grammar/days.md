@@ -54,4 +54,4 @@ The ひ／にち reading choice depends on meaning (named occasion vs. calendar 
 
 ## See also
 
-- [Date & Time](/JapaneseNotes/grammar-index/grammar/date-time) — sibling calendar/date reference group
+- [Date & Time](/JapaneseNotes/grammar-index/date-time) — sibling calendar/date reference group

@@ -39,4 +39,4 @@ Hour readings attach the same way regardless of formality — used identically i
 
 ## See also
 
-- [Time](/JapaneseNotes/grammar-index/grammar/time) — sibling clock-time reference group
+- [Time](/JapaneseNotes/grammar-index/time) — sibling clock-time reference group

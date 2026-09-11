@@ -193,7 +193,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL14-I-will-call-you-as-soon-as-seat
 > Way of saying own actions, status and possessions in a humble way
 
 ### Verbs
-→ [[grammar-index/grammar/kenjougo-verbs]]
+→ [[grammar-index/kenjougo-verbs]]
 #### 特別な動詞（とくべつなどうし）
 → [[grammar-index/grammar/kenjougo-tokubetsunadoushi]]
 

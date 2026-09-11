@@ -309,7 +309,7 @@ Related expression: 〜でできている ("is made of/from ~") is a common alte
 ---
 
 ## 。。。ても。。。
-→ [[grammar-index/grammar/temo]]
+→ [[grammar-index/temo]]
 
 ### Use cases 
 #### 。。。ても。。。- even if, even though

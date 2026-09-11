@@ -17,4 +17,4 @@ proofread: true
 
 ## See also
 
-- [こんな, そんな, あんな](/JapaneseNotes/grammar-index/grammar/konna-sonna-anna) — another kosoado-series container in the same demonstratives topic group
+- [こんな, そんな, あんな](/JapaneseNotes/grammar-index/konna-sonna-anna) — another kosoado-series container in the same demonstratives topic group

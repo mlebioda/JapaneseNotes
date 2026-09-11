@@ -222,7 +222,7 @@ Often confused with:
 #w わたしは富士山を見ながら、富士山を描きたいです (ふじさん・み・ふじさん・か) - I want to draw Mt. Fuji while looking at it.
 
 ## 。。。とき。。。
-→ [[grammar-index/grammar/toki]]
+→ [[grammar-index/toki]]
 ### A....とき...B - while A, B
 → [[grammar-index/grammar/toki-non-past]]
 
@@ -298,7 +298,7 @@ Register: ご趣味は uses the polite ご- prefix, suited to formal or first-me
 #w 私の趣味はスポーツです (わたし・しゅみ) - My hobby is sports.
 #w 母に料理の本をあげます。母の趣味は料理を作ることです (はは・りょうり・ほん・はは・しゅみ・りょうり・つく) - I will give my mom a cook book. My mom's hobby is cooking.
 ## Verbs
-→ [[grammar-index/grammar/vocabulary-verbs]]
+→ [[grammar-index/vocabulary-verbs]]
 
 ### 渡す（わたす）- to hand over
 → [[grammar-index/grammar/vocabulary/Verbs/watasu-to-hand-over]]

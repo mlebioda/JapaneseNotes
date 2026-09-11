@@ -130,7 +130,7 @@ Register: neutral — used the same way in casual and polite speech.
 
 #w 何枚（なんまい）- how many thin objects?,
 ## Indicating directions
-→ [[grammar-index/grammar/indicating-directions]]
+→ [[grammar-index/indicating-directions]]
 ### ここ、そこ、あそこ - indicate physical place or location
 → [[grammar-index/grammar/koko-soko-asoko-indicate-physical-place-or-location]]
 
@@ -173,7 +173,7 @@ Note: どちら also means "which (of two)" when choosing between two people/ite
 | Direction | こちら | そちら | あちら | どちら |
 
 ## Location of the objects with directions
-→ [[grammar-index/grammar/location-of-the-objects-with-directions]]
+→ [[grammar-index/location-of-the-objects-with-directions]]
 
 ### PにNがあります・います - there is something somewhere
 → [[grammar-index/grammar/p-ni-n-ga-arimasu-imasu-there-is-something-somewhere]]

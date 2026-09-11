@@ -37,4 +37,4 @@ Register: tiered (formal: わたくし; neutral: わたし; casual: あたし／
 
 ## See also
 
-- [Personal pronouns](/JapaneseNotes/grammar-index/grammar/personal-pronouns) — groups first- and second-person pronoun register choices
+- [Personal pronouns](/JapaneseNotes/grammar-index/personal-pronouns) — groups first- and second-person pronoun register choices

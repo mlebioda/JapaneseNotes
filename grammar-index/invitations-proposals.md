@@ -4,7 +4,7 @@
 
 ## Entries
 
-- [Proposing something to someone](/JapaneseNotes/grammar-index/grammar/proposing-something-to-someone) · N5
+- [Proposing something to someone](/JapaneseNotes/grammar-index/proposing-something-to-someone) · N5
 - [Vます形＋ませんか　Shall we? / Would you like? / Why don't you...?](/JapaneseNotes/grammar-index/grammar/masenka) · N5
 - [Vます形＋ましょう　- Let's...](/JapaneseNotes/grammar-index/grammar/mashou) · N5
 - [Vます形＋ましょうか　- Shall I/We](/JapaneseNotes/grammar-index/grammar/mashouka) · N5

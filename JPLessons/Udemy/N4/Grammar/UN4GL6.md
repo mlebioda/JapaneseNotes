@@ -267,7 +267,7 @@ Attaches directly to the plain past (た-form) of a verb to express that an acti
 ---
 
 ## Hearsay
-→ [[grammar-index/grammar/hearsay]]
+→ [[grammar-index/hearsay]]
 
 ### V「plain」そうです / そうだ - It is said that / I heard
 → [[grammar-index/grammar/sou-desu-hearsay]]
@@ -411,7 +411,7 @@ Note: まだ is commonly taught opposite もう (already / anymore) — もう +
 ---
 
 ## Verbs
-→ [[grammar-index/grammar/vocabulary-verbs]]
+→ [[grammar-index/vocabulary-verbs]]
 
 ### 付き合う (つきあう) - to associate with / to go out with
 → [[grammar-index/grammar/vocabulary/Verbs/tsukiau]]

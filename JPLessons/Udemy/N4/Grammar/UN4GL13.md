@@ -219,7 +219,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL13-Keigo
 ## 文法
 
 ### numbers
-→ [[grammar-index/grammar/numbers]]
+→ [[grammar-index/numbers]]
 
 #### 台(だい) - urządzenia mechaniczne, elektroniczne, pojazdy
 → [[grammar-index/grammar/dai-counter]]
@@ -244,14 +244,14 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL13-Keigo
 → [[grammar-index/grammar/keigo]]
 
 ### 尊敬語（そんけいご）- Honorific expressions
-→ [[grammar-index/grammar/sonkeigo-honorific-expressions]]
+→ [[grammar-index/sonkeigo-honorific-expressions]]
 
 #w 動詞(どうし)の尊敬語(そんけいご) - respectful verbs
 
 ---
 
 #### Types of verbs:
-→ [[grammar-index/grammar/sonkeigo-types-of-verbs]]
+→ [[grammar-index/sonkeigo-types-of-verbs]]
 
 ##### 1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**
 → [[grammar-index/grammar/sonkeikei-passive-form]]
@@ -615,7 +615,7 @@ Negative - ほとんど + ない
 | **ほとんど** | almost / nearly / mostly                 | Amount or degree                  |
 | **なかなか** | quite (positive) / not easily (negative) | Difficulty or positive evaluation |
 ## Verbs
-→ [[grammar-index/grammar/vocabulary-verbs]]
+→ [[grammar-index/vocabulary-verbs]]
 
 ### 知らせる（し）- to inform, let know
 → [[grammar-index/grammar/vocabulary/Verbs/shiraseru-to-inform-let-know]]

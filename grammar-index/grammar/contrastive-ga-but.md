@@ -74,4 +74,4 @@ Register: tiered (neutral-to-formal が, casual けど, formal けれども／�
 
 ## See also
 
-- [Spójniki](/JapaneseNotes/grammar-index/grammar/conjunctions) — groups this "but" connector with the "and" connectors
+- [Spójniki](/JapaneseNotes/grammar-index/conjunctions) — groups this "but" connector with the "and" connectors

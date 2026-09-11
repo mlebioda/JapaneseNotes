@@ -332,10 +332,10 @@ How to make Adverb from Adjective?
 
 
 ## Spójniki 
-→ [[grammar-index/grammar/conjunctions]]
+→ [[grammar-index/conjunctions]]
 
 ### and
-→ [[grammar-index/grammar/and-conjunction]]
+→ [[grammar-index/and-conjunction]]
 
 #### い -> くて
 → [[grammar-index/grammar/i-kute]]
@@ -445,7 +445,7 @@ Verbs:
 
 # Vocabulary
 ## Verbs
-→ [[grammar-index/grammar/vocabulary-verbs]]
+→ [[grammar-index/vocabulary-verbs]]
 
 **Register:** ます forms (泊まります, 知っています) = polite; dictionary/plain form (泊まる, 知る) = casual.
 

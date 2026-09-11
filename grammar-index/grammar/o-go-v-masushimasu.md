@@ -45,4 +45,4 @@ Humble register for offering or announcing something you do for a superior, cust
 
 ## See also
 
-- [Verbs](/JapaneseNotes/grammar-index/grammar/kenjougo-verbs) — groups the humble verb formation patterns
+- [Verbs](/JapaneseNotes/grammar-index/kenjougo-verbs) — groups the humble verb formation patterns

@@ -28,4 +28,4 @@ The な attachment before N2 is register-neutral machinery — it applies the sa
 
 ## See also
 
-- [形容詞](/JapaneseNotes/grammar-index/grammar/na-adjective-conjugation) — groups full な-adjective conjugation and usage patterns
+- [形容詞](/JapaneseNotes/grammar-index/na-adjective-conjugation) — groups full な-adjective conjugation and usage patterns

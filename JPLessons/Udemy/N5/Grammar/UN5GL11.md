@@ -221,7 +221,7 @@ Register: neutral — this covers both the plain form (〜ている) and the pol
 #w 鈴木さんは仕事をしていません、彼は昼ご飯を食べています（かれ、ひるごはん）- Mr suzuki is not working. He is eating lunch
 
 ## か・も
-→ [[grammar-index/grammar/ka-mo]]
+→ [[grammar-index/ka-mo]]
 ### 何か - something
 → [[grammar-index/grammar/ka-something]]
 #w 何か - something
@@ -458,7 +458,7 @@ Register: neutral — plain (磨いてから寝る) and polite (磨いてから�
 
 
 ## numbers
-→ [[grammar-index/grammar/numbers]]
+→ [[grammar-index/numbers]]
 
 ### Years old
 → [[grammar-index/grammar/vocabulary/Nouns/years-old]]
@@ -481,7 +481,7 @@ Register: neutral — plain (磨いてから寝る) and polite (磨いてから�
 
 #w A: お息子さんはいくつですか　B:　息子は八歳です (むすこ) - A: how old is your son? B: My son is 8 years old
 ## Verbs
-→ [[grammar-index/grammar/vocabulary-verbs]]
+→ [[grammar-index/vocabulary-verbs]]
 ### 終わる・始まる  - finishes, begins
 → [[grammar-index/grammar/vocabulary/Verbs/owaru-to-finish-by-itself]]
 → [[grammar-index/grammar/vocabulary/Verbs/hajimaru-to-begin-event-itself]]

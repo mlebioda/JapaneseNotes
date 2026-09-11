@@ -50,4 +50,4 @@ Used when speaking about your own actions to a superior, customer, or outsider �
 
 ## See also
 
-- [Verbs](/JapaneseNotes/grammar-index/grammar/kenjougo-verbs) — groups the humble verb formation patterns
+- [Verbs](/JapaneseNotes/grammar-index/kenjougo-verbs) — groups the humble verb formation patterns

@@ -33,4 +33,4 @@ Hour/minute duration expressions attach the same way regardless of formality.
 
 ## See also
 
-- [Time](/JapaneseNotes/grammar-index/grammar/time) — sibling clock-time reference group
+- [Time](/JapaneseNotes/grammar-index/time) — sibling clock-time reference group

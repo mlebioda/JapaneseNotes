@@ -39,4 +39,4 @@ Kenjougo vocabulary lowers the speaker's own actions/status to indirectly show r
 
 ## See also
 
-- [Verbs](/JapaneseNotes/grammar-index/grammar/kenjougo-verbs) — the humble verb formation patterns this vocabulary belongs to
+- [Verbs](/JapaneseNotes/grammar-index/kenjougo-verbs) — the humble verb formation patterns this vocabulary belongs to

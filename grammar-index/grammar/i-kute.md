@@ -37,4 +37,4 @@ Register: neutral
 
 ## See also
 
-- [and](/JapaneseNotes/grammar-index/grammar/and-conjunction) — groups the くて／で "and"-chaining forms together
+- [and](/JapaneseNotes/grammar-index/and-conjunction) — groups the くて／で "and"-chaining forms together

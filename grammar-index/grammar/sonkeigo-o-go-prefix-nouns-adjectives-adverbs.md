@@ -54,4 +54,4 @@ Marks nouns, adjectives, and some verbs as belonging to or describing the listen
 
 ## See also
 
-- [尊敬語（そんけいご）- Honorific expressions](/JapaneseNotes/grammar-index/grammar/sonkeigo-honorific-expressions) — groups the sonkeigo honorific patterns for this lesson
+- [尊敬語（そんけいご）- Honorific expressions](/JapaneseNotes/grammar-index/sonkeigo-honorific-expressions) — groups the sonkeigo honorific patterns for this lesson

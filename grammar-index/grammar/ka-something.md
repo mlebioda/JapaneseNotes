@@ -33,4 +33,4 @@ Formality is carried entirely by the verb that follows; 何か itself does not c
 
 ## See also
 
-- [か・も](/JapaneseNotes/grammar-index/grammar/ka-mo) — groups the full か／も indefinite pronoun series
+- [か・も](/JapaneseNotes/grammar-index/ka-mo) — groups the full か／も indefinite pronoun series

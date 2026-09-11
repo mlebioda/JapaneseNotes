@@ -51,5 +51,5 @@ The で/くて chaining mechanics apply the same in casual and polite speech; on
 
 ## See also
 
-- [形容詞](/JapaneseNotes/grammar-index/grammar/na-adjective-conjugation) — groups full な-adjective conjugation and usage patterns
-- [and](/JapaneseNotes/grammar-index/grammar/and-conjunction) — groups the くて／で "and"-chaining forms together
+- [形容詞](/JapaneseNotes/grammar-index/na-adjective-conjugation) — groups full な-adjective conjugation and usage patterns
+- [and](/JapaneseNotes/grammar-index/and-conjunction) — groups the くて／で "and"-chaining forms together

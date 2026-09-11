@@ -355,7 +355,7 @@ Often confused with: しか...ない - also means "only," but requires a negativ
 #w 母（はは）が作（つく）る料理（りょうり）だけを食（た）べたいです。- I only want to eat the food my mother cooks.
 
 ## Counter sufixes
-→ [[grammar-index/grammar/counter-sufixes]]
+→ [[grammar-index/counter-sufixes]]
 
 - 人 - people
 - つ - items

@@ -76,7 +76,7 @@ gets a link.
    tiers together in one block:
    ```
    ## Verbs
-   → [[grammar-index/grammar/vocabulary-verbs]]
+   → [[grammar-index/vocabulary-verbs]]
 
    ### 勉強 - learn
    → [[grammar-index/grammar/vocabulary/Verbs/benkyou-learn]]

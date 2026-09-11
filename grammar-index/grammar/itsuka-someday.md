@@ -30,4 +30,4 @@ Formality is carried entirely by the verb that follows; いつか itself does no
 
 ## See also
 
-- [か・も](/JapaneseNotes/grammar-index/grammar/ka-mo) — groups the full か／も indefinite pronoun series
+- [か・も](/JapaneseNotes/grammar-index/ka-mo) — groups the full か／も indefinite pronoun series

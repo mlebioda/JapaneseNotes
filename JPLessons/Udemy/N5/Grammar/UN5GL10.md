@@ -156,7 +156,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL10-I-will-go-to-Akihabara-to-buy-m
 # 文法
 
 ## Personal pronouns
-→ [[grammar-index/grammar/personal-pronouns]]
+→ [[grammar-index/personal-pronouns]]
 
 ### I - lmn + Tachi
 → [[grammar-index/grammar/i-lmn-tachi]]
@@ -466,7 +466,7 @@ Note: どんな + N asks "what kind of N" (attaches to a noun); don't confuse wi
 #w 彼はどんな人ですか（かれ、ひと）- What kind of person is he?
 
 ## Verbs
-→ [[grammar-index/grammar/vocabulary-verbs]]
+→ [[grammar-index/vocabulary-verbs]]
 
 ### 分かる - understand
 → [[grammar-index/grammar/vocabulary/Verbs/wakaru]]

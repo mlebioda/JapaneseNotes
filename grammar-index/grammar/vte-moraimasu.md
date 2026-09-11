@@ -37,4 +37,4 @@ Register: tiered (plain: もらう; humble: いただく)
 
 ## See also
 
-- [Vて形 + あげます・くれます・もらいます](/JapaneseNotes/grammar-index/grammar/vte-agemasu-kuremasu-moraimasu) — groups this pattern with its あげます／くれます siblings
+- [Vて形 + あげます・くれます・もらいます](/JapaneseNotes/grammar-index/vte-agemasu-kuremasu-moraimasu) — groups this pattern with its あげます／くれます siblings

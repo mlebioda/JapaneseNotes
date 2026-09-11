@@ -172,7 +172,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL9-This-restaurant-is-delicious-and
 
 # 文法
 ## Counters
-→ [[grammar-index/grammar/counters]]
+→ [[grammar-index/counters]]
 
 ### Ogólny  sposób  liczenia (1-10)
 → [[grammar-index/grammar/general-counting-method-1-10]]
@@ -302,7 +302,7 @@ Structure:
 
 
 ## 形容詞
-→ [[grammar-index/grammar/na-adjective-conjugation]]
+→ [[grammar-index/na-adjective-conjugation]]
 
 ### 1. な形容詞　な　overview
 → [[grammar-index/grammar/na-adjective-overview]]

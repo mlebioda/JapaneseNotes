@@ -69,4 +69,4 @@ Used broadly across casual and polite speech — no inherent formality associati
 
 ## See also
 
-- [。。。ても。。。](/JapaneseNotes/grammar-index/grammar/temo) — parent pattern group covering both the concessive and interrogative "no matter" uses of ても
+- [。。。ても。。。](/JapaneseNotes/grammar-index/temo) — parent pattern group covering both the concessive and interrogative "no matter" uses of ても

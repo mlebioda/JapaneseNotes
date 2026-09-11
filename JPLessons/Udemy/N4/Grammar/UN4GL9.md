@@ -409,7 +409,7 @@ Often used with:
 # Vocabulary
 
 ## 必要(ひつよう) - essential / necessary, is need to
-→ [[grammar-index/grammar/hitsuyou-essential-necessary-is-need-to]]
+→ [[grammar-index/hitsuyou-essential-necessary-is-need-to]]
 
 | Pattern                  | Form               | Meaning                                    | Strength                  | Source       |
 | ------------------------ | ------------------ | ------------------------------------------ | ------------------------- | ------------ |

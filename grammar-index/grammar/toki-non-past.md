@@ -69,4 +69,4 @@ Register: neutral
 
 ## See also
 
-- [。。。とき。。。](/JapaneseNotes/grammar-index/grammar/toki) — groups this general/non-past form with its past-form sibling
+- [。。。とき。。。](/JapaneseNotes/grammar-index/toki) — groups this general/non-past form with its past-form sibling

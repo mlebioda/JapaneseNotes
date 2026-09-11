@@ -37,4 +37,4 @@ Counter readings themselves don't carry politeness — they attach identically i
 
 ## See also
 
-- [Counter sufixes](/JapaneseNotes/grammar-index/grammar/counter-sufixes) — groups N5 counter-suffix reference tables
+- [Counter sufixes](/JapaneseNotes/grammar-index/counter-sufixes) — groups N5 counter-suffix reference tables

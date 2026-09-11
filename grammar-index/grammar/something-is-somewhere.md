@@ -38,4 +38,4 @@ Register: polite-context typical
 
 ## See also
 
-- [Location of the objects with directions](/JapaneseNotes/grammar-index/grammar/location-of-the-objects-with-directions) — groups this with the が-existence pattern
+- [Location of the objects with directions](/JapaneseNotes/grammar-index/location-of-the-objects-with-directions) — groups this with the が-existence pattern

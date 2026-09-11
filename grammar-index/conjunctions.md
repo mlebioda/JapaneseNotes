@@ -12,9 +12,9 @@ proofread: true
 
 ## Sub-topics
 
-- [and](/JapaneseNotes/grammar-index/grammar/and-conjunction) · N5
+- [and](/JapaneseNotes/grammar-index/and-conjunction) · N5
 - [But  - ...  が ....](/JapaneseNotes/grammar-index/grammar/contrastive-ga-but) · N5
 
 ## See also
 
-- [and](/JapaneseNotes/grammar-index/grammar/and-conjunction) — the "and"-half of this connector pairing
+- [and](/JapaneseNotes/grammar-index/and-conjunction) — the "and"-half of this connector pairing

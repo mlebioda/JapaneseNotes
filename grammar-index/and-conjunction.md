@@ -17,4 +17,4 @@ proofread: true
 
 ## See also
 
-- [Spójniki](/JapaneseNotes/grammar-index/grammar/conjunctions) — the parent grouping, alongside the "but" connector
+- [Spójniki](/JapaneseNotes/grammar-index/conjunctions) — the parent grouping, alongside the "but" connector

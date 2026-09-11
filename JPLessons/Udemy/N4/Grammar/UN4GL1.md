@@ -480,7 +480,7 @@ Examples — introducing a topic / softening a question
 #w 時間がはやく過ぎる（す）- time goes too fast
 
 ## Counters
-→ [[grammar-index/grammar/counters]]
+→ [[grammar-index/counters]]
 ### 皿（さら) - dishes
 → [[grammar-index/grammar/sara-dishes]]
 Structure
@@ -496,7 +496,7 @@ Structure
 # Vocabulary
 
 ## こんな, そんな, あんな
-→ [[grammar-index/grammar/konna-sonna-anna]]
+→ [[grammar-index/konna-sonna-anna]]
 
 
 #w こんな - like this/ so
@@ -544,7 +544,7 @@ Confusable: part of the broader こそあど demonstrative series (これ／そ�
 
 
 ## Verbs
-→ [[grammar-index/grammar/vocabulary-verbs]]
+→ [[grammar-index/vocabulary-verbs]]
 
 ### 出来る（できる) - can, to be built/completed
 → [[grammar-index/grammar/vocabulary/Verbs/dekiru-can]]

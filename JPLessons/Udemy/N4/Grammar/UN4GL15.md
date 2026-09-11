@@ -197,7 +197,7 @@ TARGET DECK: N4-Udemy::N4-Udemy-Grammar::UN4GL15-Recently-Im-trying-to-walk-more
 
 # 文法
 ## 。。。ところです - action is about to start / in progress / just finished
-→ [[grammar-index/grammar/tokoro-desu]]
+→ [[grammar-index/tokoro-desu]]
 
 ### 1. V「dict」ところです - about to start
 → [[grammar-index/grammar/tokoro-desu-dict-form]]
@@ -415,7 +415,7 @@ The speaker makes an effort (or asks someone else to make an effort) to do — o
 
 ---
 ## counters
-→ [[grammar-index/grammar/counters]]
+→ [[grammar-index/counters]]
 
 ###  畳(じょう) - counter for tatami-mat room size
 → [[grammar-index/grammar/jou-tatami-counter]]

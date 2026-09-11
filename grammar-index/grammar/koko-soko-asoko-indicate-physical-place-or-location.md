@@ -37,4 +37,4 @@ Plain, everyday location words used in ordinary conversation; their polite equiv
 
 ## See also
 
-- [Indicating directions](/JapaneseNotes/grammar-index/grammar/indicating-directions) — groups this with the polite こちら／そちら／あちら／どちら series
+- [Indicating directions](/JapaneseNotes/grammar-index/indicating-directions) — groups this with the polite こちら／そちら／あちら／どちら series

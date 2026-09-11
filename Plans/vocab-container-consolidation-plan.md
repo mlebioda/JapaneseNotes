@@ -267,7 +267,7 @@ anchor exists inside the shared file**. This is a deliberate, called-out consequ
 oversight:
 
 - The wikilink inserted under the lesson's `### Verbs` heading becomes a link to the **bare
-  consolidated file** — `[[grammar-index/grammar/vocabulary-verbs]]` — landing at the top of the
+  consolidated file** — `[[grammar-index/vocabulary-verbs]]` — landing at the top of the
   file, same as any other wikilink to a page without an anchor. No deep-link behavior is
   preserved or attempted.
 - This is a real (small) navigation regression versus today's one-lesson-one-file setup, accepted
@@ -431,7 +431,7 @@ gate above — presented here for the user's confirmation, not decided silently)
 1. Create `grammar-index/grammar/vocabulary-verbs.md` in the new format, populated with the 8
    entries above per the confirmed clustering.
 2. Update the 5 lesson-file wikilinks (currently pointing at the old per-lesson container slugs)
-   to point at the bare `[[grammar-index/grammar/vocabulary-verbs]]` instead:
+   to point at the bare `[[grammar-index/vocabulary-verbs]]` instead:
    - `JPLessons/Udemy/N4/Grammar/UN4GL1.md:547` → `[[grammar-index/grammar/dekiru-verbs]]`
    - `JPLessons/Udemy/N4/Grammar/UN4GL13.md:618` → `[[grammar-index/grammar/verbs-informing-un4gl13]]`
    - `JPLessons/Udemy/N5/Grammar/UN5GL13.md:334` → `[[grammar-index/grammar/un5gl13-verbs]]`

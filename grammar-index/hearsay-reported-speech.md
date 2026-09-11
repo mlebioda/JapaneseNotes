@@ -4,7 +4,7 @@
 
 ## Entries
 
-- [Hearsay](/JapaneseNotes/grammar-index/grammar/hearsay) · N4
+- [Hearsay](/JapaneseNotes/grammar-index/hearsay) · N4
 - [V「plain」そうです / そうだ - It is said that / I heard](/JapaneseNotes/grammar-index/grammar/sou-desu-hearsay) · N4
 - [。。。らしいです - it seems](/JapaneseNotes/grammar-index/grammar/rashii-desu) · N4
 

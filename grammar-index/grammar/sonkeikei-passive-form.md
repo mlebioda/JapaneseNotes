@@ -54,4 +54,4 @@ Still respectful, but casual/everyday — appropriate for colleagues or quick, l
 
 ## See also
 
-- [Types of verbs:](/JapaneseNotes/grammar-index/grammar/sonkeigo-types-of-verbs) — groups the three sonkeigo verb-formation patterns
+- [Types of verbs:](/JapaneseNotes/grammar-index/sonkeigo-types-of-verbs) — groups the three sonkeigo verb-formation patterns

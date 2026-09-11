@@ -39,4 +39,4 @@ Register: neutral
 
 ## See also
 
-- [必要(ひつよう) - essential / necessary, is need to](/JapaneseNotes/grammar-index/grammar/hitsuyou-essential-necessary-is-need-to) — parent group covering both the noun and な-adjective uses of 必要
+- [必要(ひつよう) - essential / necessary, is need to](/JapaneseNotes/grammar-index/hitsuyou-essential-necessary-is-need-to) — parent group covering both the noun and な-adjective uses of 必要

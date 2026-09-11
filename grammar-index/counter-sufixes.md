@@ -20,5 +20,5 @@ proofread: true
 
 ## See also
 
-- [numbers](/JapaneseNotes/grammar-index/grammar/numbers) — sibling counter/number reference group
-- [counters](/JapaneseNotes/grammar-index/grammar/counters) — sibling counter reference group
+- [numbers](/JapaneseNotes/grammar-index/numbers) — sibling counter/number reference group
+- [counters](/JapaneseNotes/grammar-index/counters) — sibling counter reference group

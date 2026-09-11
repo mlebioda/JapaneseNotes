@@ -31,4 +31,4 @@ Formality is carried entirely by the negative verb that follows; だれも itsel
 
 ## See also
 
-- [か・も](/JapaneseNotes/grammar-index/grammar/ka-mo) — groups the full か／も indefinite pronoun series
+- [か・も](/JapaneseNotes/grammar-index/ka-mo) — groups the full か／も indefinite pronoun series

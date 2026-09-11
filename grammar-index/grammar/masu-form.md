@@ -44,4 +44,4 @@ Register: polite-context typical
 
 ## See also
 
-- [Forms](/JapaneseNotes/grammar-index/grammar/jisho-vs-masu-form) — groups this with 辞書形 as the two verb citation forms compared in the lesson
+- [Forms](/JapaneseNotes/grammar-index/jisho-vs-masu-form) — groups this with 辞書形 as the two verb citation forms compared in the lesson

@@ -234,7 +234,7 @@ Exception — verbs of manner of movement (歩く, 走る) don't take で; use t
 ## Vocabulary
 
 ### Verbs
-→ [[grammar-index/grammar/vocabulary-verbs]]
+→ [[grammar-index/vocabulary-verbs]]
 #### 乗る・降りる - get on, get off
 → [[grammar-index/grammar/vocabulary/Verbs/noru-oriru-get-on-off]]
 

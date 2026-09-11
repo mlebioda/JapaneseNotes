@@ -72,4 +72,4 @@ The forms shown here (です／ではありません／でした etc.) are the �
 
 ## See also
 
-- [形容詞](/JapaneseNotes/grammar-index/grammar/na-adjective-conjugation) — groups full な-adjective conjugation and usage patterns
+- [形容詞](/JapaneseNotes/grammar-index/na-adjective-conjugation) — groups full な-adjective conjugation and usage patterns

@@ -199,7 +199,7 @@ TARGET DECK: N5-Udemy::N5-Udemy-Grammar::UN5GL5-I-will-go-to-hiroshima-next-tues
 ### Often confused with
 - 同じ（おなじ）— test: are you saying two things are directly identical/matching (同じ), or that you're doing something together as company (いっしょに)? 私の傘は彼のと同じです (my umbrella is the same as his) vs 彼といっしょに帰りました (I went home together with him).
 ## Forms
-→ [[grammar-index/grammar/jisho-vs-masu-form]]
+→ [[grammar-index/jisho-vs-masu-form]]
 ### 辞書形（じしょ）- dictionary form
 → [[grammar-index/grammar/jisho-dictionary-form]]
 

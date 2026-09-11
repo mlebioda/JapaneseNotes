@@ -50,4 +50,4 @@ Polite (ます-based) — appropriate with colleagues, acquaintances, customers,
 
 ## See also
 
-- [Proposing something to someone](/JapaneseNotes/grammar-index/grammar/proposing-something-to-someone) — groups the ませんか／ましょう／ましょうか family of proposal patterns
+- [Proposing something to someone](/JapaneseNotes/grammar-index/proposing-something-to-someone) — groups the ませんか／ましょう／ましょうか family of proposal patterns

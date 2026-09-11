@@ -44,4 +44,4 @@ Register: neutral
 
 ## See also
 
-- [。。。とき。。。](/JapaneseNotes/grammar-index/grammar/toki) — groups this past-form pattern with its general/non-past sibling
+- [。。。とき。。。](/JapaneseNotes/grammar-index/toki) — groups this past-form pattern with its general/non-past sibling
