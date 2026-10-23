@@ -17,12 +17,15 @@ proofread: true
 
 ### Verb
 - Present: V「て形」+ 欲(ほ)しいです → 彼(かれ)はうそをついた。謝(あやま)ってほしい。 - He lied. I want him to apologize.
+- Negative: Nに + V「ない形」+ でほしいです → 人々(ひとびと)にお菓子(かし)を食べないでほしい - I don't want people to eat sweets
 
 ## Examples
 
 - みなさん、この漢字(かんじ)はちょっと難(むずか)しいですが、たくさん練習(れんしゅう)して、正(ただ)しく書(か)いてほしいです。 - Everybody, although this kanji is a little difficult, I want you to practice a lot and write it correctly.
 - 彼(かれ)はうそをついた。謝(あやま)ってほしい。 - He lied. I want him to apologize.
 - 手伝(てつだ)ってほしいことがあるんだけど…。 - There's something I want you to help me with… (trailing off, inviting a response)
+- 友達(ともだち)に嘘(うそ)を付(つ)かないでほしいです - I don't want my friend to lie
+- Xさんに夜(よる)、一人(ひとり)で散歩(さんぽ)しないでほしいです - I don't want X to walk alone at night
 
 ## Notes
 

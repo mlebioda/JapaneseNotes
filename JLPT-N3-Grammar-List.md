@@ -77,7 +77,7 @@ Organized by category for study purposes. Nothing from the source lists was inte
 - 🔴 というのは (to iu nowa) — "this means...", "because...", "that is to say..."
 - 🔴 というと (to iu to) — "speaking of...", "if it were the case that..."
 - 🔴 というより (to iu yori) — "rather than..."
-- 🔴 と言えば (to ieba) — "speaking of...", "when you say..."
+- 🟡 と言えば (to ieba) — "speaking of...", "when you say..." — drafted in Leftovers-1 (as と言ったら／と言えば), pending extract-grammar
 - 🔴 んだって (ndatte) — casual "I hear that..."
 - 🔴 に違いない (ni chigai nai) — "I'm sure...", "no doubt that..."
 - 🔴 まさか (masaka) — "there's no way...", "that's impossible"
@@ -207,7 +207,7 @@ Organized by category for study purposes. Nothing from the source lists was inte
 
 ## 16. Conjunctions and Discourse Markers
 
-- 🔴 ところで (tokoro de) — "by the way" (changing topic) — only ところです ("about to/in progress/just finished") is covered, an unrelated pattern
+- 🟡 ところで (tokoro de) — "by the way" (changing topic) — only ところです ("about to/in progress/just finished") is covered, an unrelated pattern — drafted in Leftovers-1, pending extract-grammar
 - 🔴 それとも (soretomo) — "or", "or else"
 - 🔴 つまり (tsumari) — "in other words", "in summary"
 - 🔴 すなわち (sunawachi) — "in other words", "namely"

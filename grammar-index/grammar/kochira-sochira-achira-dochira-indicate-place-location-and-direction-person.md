@@ -21,11 +21,22 @@ proofread: true
 | Attributive (thing or person + noun) | この | その | あの | どの |
 | Place | ここ | そこ | あそこ | どこ |
 | Direction | こちら | そちら | あちら | どちら |
+| Direction (casual) | こっち | そっち | あっち | どっち |
+
+Note: こっち／そっち／あっち／どっち are just the casual register of こちら／そちら／あちら／どちら — same meaning and specificity, only less formal (friends/family vs. polite/business use). They're not a formality level between これ and ここ — those are a separate axis (thing vs. place vs. direction), not a politeness gradient. こちら↔こっち is the only polite/casual pair in this table.
 
 - こちら - this way / here (polite)
 - そちら - that way / there, near you (polite)
 - あちら - that way / over there (polite)
 - どちら - where / which way (polite)
+- こっち - this way / here (casual)
+- そっち - that way / there, near you (casual)
+- あっち - that way / over there (casual)
+- どっち - where / which way (casual)
+
+こっち/そっち/あっち/どっち examples:
+- こっちに来て - come over here (casual)
+- どっちがいい？ - which one (way) do you prefer? (casual)
 
 ## Examples
 
@@ -38,6 +49,7 @@ proofread: true
 ## Register
 Register: polite-context typical
 Used in business and customer-service settings — directing a guest or customer, addressing a superior, or speaking with someone outside your in-group — rather than casual conversation among friends or family.
+こっち／そっち／あっち／どっち are the casual counterpart, used instead with friends, family, and peers.
 
 ## Often confused with
 

@@ -913,6 +913,8 @@ computer #card
 ほんやく: ここに受付があります（うけつけ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_受.html">受</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_付.html">付</a>
+<!--ID: 1789356434333-->
+
 
 
  There is a vending machine there (near you) #card
@@ -922,16 +924,22 @@ computer #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_販.html">販</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_機.html">機</a>
+<!--ID: 1789356434335-->
+
 
  There is a chair here (polite) #card
 ほんやく: こちらに椅子があります（いす）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_椅.html">椅</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_子.html">子</a>
+<!--ID: 1789356434336-->
+
 
 
  There is a desk there, near you (polite) #card
 ほんやく: そちらに机があります（つくえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
+<!--ID: 1789356434337-->
+
 
 
  There is a vending machine over there (polite) #card
@@ -941,12 +949,16 @@ computer #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_販.html">販</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_売.html">売</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_機.html">機</a>
+<!--ID: 1789356434338-->
+
 
 
  This is my desk #card
 ほんやく: これは私の机です（わたし、つくえ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_机.html">机</a>
+<!--ID: 1789356434339-->
+
 
 
  That person over there is the general manager #card
@@ -954,6 +966,10 @@ computer #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_人.html">人</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_部.html">部</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_長.html">長</a>
+<!--ID: 1789356434340-->
+
 
  who #card
 ほんやく: だれ
+<!--ID: 1789356434341-->
+

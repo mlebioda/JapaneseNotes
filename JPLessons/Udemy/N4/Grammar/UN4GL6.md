@@ -1741,7 +1741,7 @@ A: 金(きむ)さんはいますか。B: 出かけた(で)ばかりです
 <!--ID: 1779824391840-->
 
 
-I heard from the weather forecast that it won't snow tomorrow. #k #card
+I heard from the weather forecast that it won't snow tomorrow. | plain reported speech 伝聞 — from an official source #k #card
 天気予報を聞いたんですが、明日は雪が降らないそうです。 (てんきよほう、き、あした、ゆき、ふ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_天.html">天</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
@@ -1755,7 +1755,7 @@ I heard from the weather forecast that it won't snow tomorrow. #k #card
 <!--ID: 1779824391844-->
 
 
-I heard that Raj's father is a university teacher. #k #card
+I heard that Raj's father is a university teacher. | plain reported speech 伝聞 — stated as settled fact #k #card
 ラジさんのお父さんは大学の先生だそうです。 (とう、だいがく、せんせい)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_父.html">父</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_大.html">大</a>
@@ -1765,7 +1765,7 @@ I heard that Raj's father is a university teacher. #k #card
 <!--ID: 1779824391848-->
 
 
-I heard from Mr. Sato that the exam next week will be difficult. #k #card
+I heard from Mr. Sato that the exam next week will be difficult. | plain reported speech 伝聞 — reported as-is #k #card
 佐藤くんの話では、来週の試験は難しいそうです。 (さとう、はなし、らいしゅう、しけん、むずか)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_佐.html">佐</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_藤.html">藤</a>
@@ -1778,7 +1778,7 @@ I heard from Mr. Sato that the exam next week will be difficult. #k #card
 <!--ID: 1779824391852-->
 
 
-I heard it won't snow tomorrow. #k #card
+I heard it won't snow tomorrow. | plain reported speech 伝聞 , casual/plain register (そうだ) #k #card
 明日（あした）は雪（ゆき）が降らないそうだ。 (あした、ゆき、ふ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_明.html">明</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1788,7 +1788,7 @@ I heard it won't snow tomorrow. #k #card
 
 
 
-I heard from my friend that climbing Mt. Fuji seemed really difficult. #k #card
+I heard from my friend that climbing Mt. Fuji seemed really difficult. | hedged inference hearsay,  — secondhand, speaker's own conclusion #k #card
 友達から聞いたんですが、富士山に登るのは大変だったらしいです。 (ともだち、き、ふじさん、のぼ、たいへん)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_友.html">友</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_達.html">達</a>
@@ -1802,7 +1802,7 @@ I heard from my friend that climbing Mt. Fuji seemed really difficult. #k #card
 <!--ID: 1779824391856-->
 
 
-It seems that those two people have been going out since high school. #k #card
+It seems that those two people have been going out since high school. | hedged inference hearsay,  — rumor, not confirmed #k #card
 高校からあの二人は付き合っているらしいですよ。 (こうこう、ふたり、つ、あ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_高.html">高</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_校.html">校</a>
@@ -1813,7 +1813,7 @@ It seems that those two people have been going out since high school. #k #card
 <!--ID: 1779824391860-->
 
 
-The story seems to be true. #k #card
+The story seems to be true. | hedged inference hearsay, , casual (らしいね) #k #card
 その話は本当らしいね。 (はなし、ほんとう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
@@ -1821,7 +1821,7 @@ The story seems to be true. #k #card
 <!--ID: 1779824391864-->
 
 
-I heard he's a student #k #card
+I heard he's a student | hedged inference hearsay,  — secondhand, speaker's own conclusion #k #card
 彼（かれ）は学生（がくせい）らしいです
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_彼.html">彼</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -1830,12 +1830,12 @@ I heard he's a student #k #card
 
 
 
-Here feels like America #card
+Here feels like America | typical/stereotypical impression, not hearsay #card
 ここはアメリカらしいです
 <!--ID: 1779824391868-->
 
 
-I can speak only Japanese #k #card
+I can speak only Japanese | 'nothing but' #k #card
 私（わたし）は日本語（にほんご）しか 話せない（はな）です
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
@@ -1845,21 +1845,23 @@ I can speak only Japanese #k #card
 <!--ID: 1779824391873-->
 
 
-I can speak only Japanese #k #card
+I can speak only Japanese |  plain 'only' #k #card
 私（わたし）は日本語（にほんご）だけ話せます（はな）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_私.html">私</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_語.html">語</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_話.html">話</a>
+<!--ID: 1789465731130-->
 
-I can only wait. #k #card
+
+I can only wait. | 'nothing but' #k #card
 待つしかない。 (ま)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_待.html">待</a>
 <!--ID: 1779824391881-->
 
 
-Only Mr. Yamada can do this work. #k #card
+Only Mr. Yamada can do this work. | 'nothing but' #k #card
 この仕事は山田さんしかできないです。 (しごと、やまだ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_仕.html">仕</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_事.html">事</a>
@@ -1868,7 +1870,7 @@ Only Mr. Yamada can do this work. #k #card
 <!--ID: 1779824391885-->
 
 
-There is only one apple in the refrigerator. #k #card
+There is only one apple in the refrigerator. | 'nothing but' #k #card
 冷蔵庫にリンゴは一つしかない。 (れいぞうこ、ひと)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_冷.html">冷</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_蔵.html">蔵</a>

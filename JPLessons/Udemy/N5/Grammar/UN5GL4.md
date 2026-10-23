@@ -633,6 +633,8 @@ Confusable: か…か ("A or B" / "whether A or B") vs. a single sentence-final 
 ほんやく: 何月（なんがつ）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
+<!--ID: 1789356434343-->
+
 
 
  1 month #card
@@ -740,6 +742,8 @@ Confusable: か…か ("A or B" / "whether A or B") vs. a single sentence-final 
 ほんやく: 日曜日（にちようび）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
+<!--ID: 1789356434344-->
+
 
 
  Monday #card
@@ -747,6 +751,8 @@ Confusable: か…か ("A or B" / "whether A or B") vs. a single sentence-final 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_月.html">月</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_曜.html">曜</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<!--ID: 1789356434345-->
+
 
 
  Tuesday #card
@@ -1084,6 +1090,8 @@ Confusable: か…か ("A or B" / "whether A or B") vs. a single sentence-final 
 ほんやく: 何日（なんにち）
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_日.html">日</a>
+<!--ID: 1789356434346-->
+
 
 
  one day   #card

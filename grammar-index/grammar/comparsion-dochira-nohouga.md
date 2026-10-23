@@ -28,6 +28,19 @@ proofread: true
 - A: このざっしとそのざっしと どちらが面白いと思いますか B: どちらも面白いです (おもしろい、おも) - A: Which do you think is more interesting, this magazine or that magazine? B: Both are interesting
 - どちらも - both
 
+## Selection どれ／どちら (not comparative)
+
+This is a different function from the comparative どちらが＋Adj documented above: there is no comparison of qualities here, just picking one option out of a known set. どちら is used when choosing between exactly 2 options; どれ is used when choosing among 3 or more options.
+
+- N（選択肢）は + どちら／どれ ですか — どちら (2 options) or どれ (3+ options) ですか
+
+### Examples
+
+- すみません、広島に行くバスはどちらですか - Excuse me, which bus goes to Hiroshima? (asked when there are only 2 buses to choose from)
+- すみません、広島に行くバスはどれですか - Excuse me, which bus goes to Hiroshima? (asked when there are 3 or more buses to choose from)
+
+Test: Is this a comparison of degree/quality between two named things (→ comparative どちらが＋Adj, see Structure/Examples above), or just picking one item out of a known set of options with no quality comparison involved (→ selection どれ／どちら, this section)?
+
 ## Use Cases
 
 どちら is the polite/neutral form; どっち is the casual spoken equivalent (どっちが好き？ vs どちらが好きですか). As with より, the actual politeness level comes from the copula/verb ending (だ vs です), not the question word itself.

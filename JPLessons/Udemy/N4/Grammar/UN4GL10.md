@@ -646,7 +646,7 @@ I haven't played baseball at all lately. #k #card
 <!--ID: 1782213671853-->
 
 
-(school) club #card
+(school) club | a group people join for a shared extracurricular activity; can also mean "nightclub" or a golf/weapon club depending on context #card
 クラブ
 <!--ID: 1782213671854-->
 
@@ -658,12 +658,12 @@ club activities | organized extracurricular activities done through a school or 
 <!--ID: 1782213671855-->
 
 
-soccer club #card
+soccer club | a club organized specifically around playing soccer #card
 サッカークラブ
 <!--ID: 1782213671856-->
 
 
-literature club #k #card
+literature club | a school club focused on reading and discussing literature #k #card
 文学(ぶんがく)クラブ
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_文.html">文</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_学.html">学</a>
@@ -685,7 +685,7 @@ scholarship | financial aid granted to a student based on merit or need #k #card
 <!--ID: 1782213671859-->
 
 
-Judo #k #card
+Judo | a Japanese martial art and Olympic sport focused on throws and grappling #k #card
 柔道(じゅうどう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_柔.html">柔</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_道.html">道</a>
@@ -784,7 +784,7 @@ to cherish one's family. #k #card
 <!--ID: 1782213671870-->
 
 
-air #k #card
+air | the air/atmosphere one breathes; also used figuratively for the "mood" of a place (空気を読む) #k #card
 空気(くうき)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_空.html">空</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_気.html">気</a>
@@ -807,7 +807,7 @@ world travel #k #card
 <!--ID: 1782213671873-->
 
 
-to save (transitive) #card
+to save (transitive) | to accumulate and set aside money/points over time — distinct from 節約(せつやく)する (to economize / cut spending) #card
 ほんやく: 貯(た)める
 ます形: 貯めます
 て形: 貯めて
@@ -835,7 +835,7 @@ to save money #k #card
 <!--ID: 1782213671875-->
 
 
-to pay (transitive) #card
+to pay (transitive) | to hand over money as payment for goods, services, or a debt #card
 ほんやく: 払(はら)う
 ます形: 払います
 て形: 払って
@@ -879,7 +879,7 @@ to pay in cash #k #card
 <!--ID: 1782213671879-->
 
 
-to fold (transitive) #card
+to fold (transitive) | to bend paper or a thin object into a new shape #card
 ほんやく: 折(お)る
 ます形: 折ります
 て形: 折って
@@ -920,7 +920,7 @@ to be broken (intransitive) | to break/snap by bending: for long, thin, or flexi
 <!--ID: 1782213671881-->
 
 
-to press (transitive) #card
+to press (transitive) | to apply pressure with the hand, e.g. pressing a button or pushing a door #card
 ほんやく: 押(お)す
 ます形: 押します
 て形: 押して
@@ -941,12 +941,12 @@ to press (transitive) #card
 <!--ID: 1782213671882-->
 
 
-button #card
+button | a physical button to press, or a button/fastener on clothing #card
 ボタン
 <!--ID: 1782213671883-->
 
 
-gloves #k #card
+gloves | a pair of hand coverings worn for warmth or protection #k #card
 手袋(てぶくろ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_手.html">手</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_袋.html">袋</a>
@@ -1020,7 +1020,7 @@ education / to educate + verb | systematic teaching or instruction, often formal
 <!--ID: 1782213671893-->
 
 
-the month after next #k #card
+the month after next | two months from now — one step further than 来月(らいげつ) (next month) #k #card
 再来月(さらいげつ)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_再.html">再</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
@@ -1028,7 +1028,7 @@ the month after next #k #card
 <!--ID: 1782213671894-->
 
 
-the week after next #k #card
+the week after next | two weeks from now — one step further than 来週(らいしゅう) (next week) #k #card
 再来週(さらいしゅう)
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_再.html">再</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_来.html">来</a>
@@ -1076,7 +1076,7 @@ I will study with all my effort. #k #card
 <!--ID: 1782213671899-->
 
 
-to lose (transitive) #card
+to lose (transitive) | to lose/misplace a physical object through carelessness — pairs with intransitive 無(な)くなる (to become lost/run out) #card
 ほんやく: 失(な)くす
 ます形: 失くします
 て形: 失くして
@@ -1159,7 +1159,7 @@ citizen | a resident of a city or town, emphasizing local community; distinct fr
 <!--ID: 1782213671908-->
 
 
-to apologize (intransitive) #card
+to apologize (intransitive) | to express regret or say sorry for a mistake or wrongdoing #card
 ほんやく: 謝(あやま)る
 ます形: 謝ります
 て形: 謝って
@@ -1205,7 +1205,7 @@ unpleasant person / person I dislike #k #card
 <!--ID: 1782213671912-->
 
 
-to increase (intransitive) #card
+to increase (intransitive) | for a quantity or number to grow on its own — pairs with transitive 増(ふ)やす (to increase something) #card
 ほんやく: 増(ふ)える
 ます形: 増えます
 て形: 増えて

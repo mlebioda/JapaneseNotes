@@ -761,6 +761,8 @@ form, type #card
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_映.html">映</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_画.html">画</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_見.html">見</a>
+<!--ID: 1789356434329-->
+
 
 
 

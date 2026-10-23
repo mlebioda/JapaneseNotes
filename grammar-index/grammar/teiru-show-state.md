@@ -43,6 +43,19 @@ For durative verbs (勉強する, 待つ, 飲む): a genuinely ongoing action or
 - 毎日(まいにち)コーヒーを飲(の)んでいます - I drink coffee every day
 - 彼女は商社で働いています（しょうしゃ、はたら）- She works for a trading company
 
+### Past tense: ました vs ていました
+
+Same durative verbs, but in the past — the two past forms carry a different nuance, not just a different tense:
+- ました → a single completed occurrence, a plain statement of fact (regardless of how much or how long)
+- ていました → was doing / was in an ongoing state or habit for a while — but implies it has since stopped or changed, and isn't the case anymore
+
+### Examples
+
+- 勉強(べんきょう)しました - I studied (once — a simple statement of fact, regardless of how much/how long)
+- 勉強していました - I was studying (for a while, regularly) — but not anymore now
+- 彼氏(かれし)に会(あ)いました - I met my boyfriend (once, a single occasion)
+- 彼氏に会っていました - I was dating my boyfriend (an ongoing relationship in the past) — implies it's over now
+
 ## Register
 
 Register: tiered (polite ています vs. plain ている vs. casual contraction てる)

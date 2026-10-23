@@ -34,3 +34,42 @@
   - [x] Add verification step after redistribution: read grammar-state.json, confirm no topic has next_review on any holiday date
 - [x] Update `.cowork/instructions.md` vault root exception to include `japanese-grammar-full-calendar-<timestamp>.ics` (requires user permission)
 - [x] Update `.cowork/instructions.md` skill list to add manage-holidays entry with exact text: `manage-holidays — manage holiday dates for the SRS load control system. Add/remove holidays (treated as blocked days like Saturdays), detect and redistribute colliding reviews, export a full-calendar .ics with all future review events and holidays. Reads/writes .cowork/progress/holidays.json. Trigger: "manage holidays", "add holiday <date>", "remove holiday <date>", "show holidays", "export calendar"` (requires user permission)
+
+## Part 4 — FIFO-sweep redistribution (replaces Part 3 steps 6-7 mechanism)
+
+- [x] Create `.cowork/scripts/holiday-cascade.py`:
+  - [x] Import `load_holidays`, `load_rules`, `is_blocked` from `load-control.py` via `importlib.util` (do not duplicate this logic)
+  - [x] Derive the holidays file path from `--rules`'s `holidays_file` key via `load_rules()` — no separate `--holidays` CLI flag
+  - [x] Snapshot original `next_review` -> keys from `grammar-state.json` before any mutation, skipping entries with missing/unparseable `next_review` (try/except around `date.fromisoformat`, continue on failure — same pattern as `load-control.py`'s `build_day_counts()`)
+  - [x] Add a required `--new-dates` CLI argument (comma-separated ISO dates) — this is the ONLY valid source for `sweep_start`, since `holidays.json` has no "added when" metadata and scanning it for the earliest date would wrongly include unrelated holidays added in earlier, separate operations; compute `sweep_start = min(new_dates)`. Entries with `next_review < sweep_start` are out of scope and never inspected
+  - [x] Implement the single-pass FIFO sweep: walk forward one day at a time from `sweep_start`; for each day `D`, first enqueue any original content on `D` as one batch to the back of the queue, then if `D` is not blocked and the queue is non-empty, pop the front batch and assign `next_review = D` to every key in it; if `D` is blocked, no assignment happens this step
+  - [x] Bound the sweep at 365 days past `sweep_start` (one number, reused for both the day-walk and the implicit queue-drain) — error out if the queue is still non-empty at the bound, instead of looping forever
+  - [x] Write only `next_review` for shifted keys; leave every other field (`interval_days`, `ease`, `streak`, `last_score`, `total_reviews`, `weak_points`, `lesson_file`, `grammar_header`, etc.) untouched
+  - [x] CLI: `--state`, `--rules`, `--new-dates` (required), optional `--dry-run`; no stdin needed
+  - [x] stdout: one summary line per shifted key + final count line; exit 0/1 per success/error
+  - [x] Add the worked example (holiday 14-27 Sept 2026) from the plan as a docstring/comment illustrating the sweep
+- [x] Create `.cowork/scripts/test_holiday_cascade.py` (same `unittest` + `importlib.util` + `make_topic`-style pattern as `test_load_control.py`), covering all 16 confirmed cases:
+  - [x] Case 1: holiday day has content, next day empty -> lands there, sweep ends (queue empty)
+  - [x] Case 2: holiday day has content, next day occupied, day after empty -> two-step queue drain
+  - [x] Case 3: long run of occupied days after the holiday -> queue drains over many days before emptying
+  - [x] Case 4: all content on one blocked day moves together as a single batch (not split)
+  - [x] Case 5: landing day would be a Saturday -> skipped by the sweep
+  - [x] Case 6: landing day would be a pre-existing (not newly-added) holiday -> also skipped
+  - [x] Case 7: holiday ends immediately before a Saturday -> correct skip-over
+  - [x] Case 8: multi-day range (e.g. 13-14 Sept) -> content from both days queues in chronological order, lands on consecutive first-available days after the range
+  - [x] Case 9: two separate ranges added in one call (e.g. 13-14 Sept + 2-3 Oct) -> resolved correctly by the single sweep, no special-casing needed
+  - [x] Case 10: one range's displacement tail reaches far enough to intersect a second range -> still resolves correctly with no double-shifting
+  - [x] Case 11: long holiday spanning one or more Saturdays -> in-range Saturdays just extend the blocked stretch the sweep passes over
+  - [x] Case 12: only `next_review` changes on any shifted entry -- `interval_days`, `ease`, `streak`, `last_score`, `total_reviews`, `weak_points`, `lesson_file`, `grammar_header` all untouched
+  - [x] Case 13: no collisions at all (nothing scheduled in the holiday period or its displacement chain) -> no-op, 0 shifted, file unchanged
+  - [x] Case 14: queue never empties within 365 days of `sweep_start` (data anomaly) -> error out instead of looping forever
+  - [x] Case 15: a day has its own original content, is not blocked, and the queue is empty when the sweep reaches it -> stays completely unchanged
+  - [x] Case 16: content scheduled before `sweep_start` -> completely untouched, even if it sits on some older, unrelated holiday date elsewhere in the file
+- [x] Run `python3 -m pytest test_holiday_cascade.py -v` (or `python3 test_holiday_cascade.py`) from `.cowork/scripts/` and verify all 16 cases pass
+- [x] Edit `.cowork/skills/manage-holidays.md`:
+  - [x] Add a row for `.cowork/scripts/holiday-cascade.py` to the Paths table
+  - [x] Replace step 7's per-date-group `--today`-trick loop (calling `load-control.py`) with a single `holiday-cascade.py` invocation (`--state`, `--rules`, `--new-dates`)
+  - [x] Pass `--new-dates` from the exact date list already parsed in the skill's own Part 3 step 1/2 ("Parse dates to ISO strings") — do not re-derive it from `holidays.json`
+  - [x] Keep steps 5-6 (collision detection, yes/no confirmation) unchanged
+  - [x] Keep step 7's verification sub-step unchanged
+  - [x] Confirm `load-control.py` itself is not modified by this edit

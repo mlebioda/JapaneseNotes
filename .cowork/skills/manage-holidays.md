@@ -25,9 +25,10 @@ User says any of:
 | File | Purpose |
 |---|---|
 | `.cowork/progress/holidays.json` | JSON array of ISO date strings (`["2026-07-04", ...]`). Single source of holiday dates. |
-| `.cowork/progress/grammar-state.json` | SRS state file. Read for collision detection; written by load-control.py during redistribution. |
+| `.cowork/progress/grammar-state.json` | SRS state file. Read for collision detection; written by holiday-cascade.py during redistribution. |
 | `.cowork/progress/load-control-rules.json` | Load control constants and holidays_file path. Passed via `--rules` to every load-control.py invocation. |
-| `.cowork/scripts/load-control.py` | Redistribution engine. Invoked to move colliding reviews off holiday dates. |
+| `.cowork/scripts/load-control.py` | Normal day-to-day SRS scheduling engine. Not used for holiday redistribution (see `holiday-cascade.py` below). |
+| `.cowork/scripts/holiday-cascade.py` | Holiday redistribution engine. Single-pass FIFO sweep that moves colliding reviews off holiday dates -- no caps, no score sorting. Invoked once per add-holiday operation. |
 
 ---
 
@@ -64,7 +65,7 @@ User provides one or more dates. Accept ISO format (`2026-07-04`) or natural lan
 
 3. **Check for duplicates** -- for each new date, if it already exists in the array, print `<date> is already a holiday -- skipping.` and exclude it from further processing. If all dates are duplicates, print `All dates are already holidays -- nothing to add.` and stop.
 
-4. **Write updated holidays.json** -- merge new dates into the array, sort chronologically, deduplicate, and write the file. This write happens BEFORE any redistribution so that `load-control.py` sees the updated holidays list when it runs and will not place topics on any of the new holiday dates.
+4. **Write updated holidays.json** -- merge new dates into the array, sort chronologically, deduplicate, and write the file. This write happens BEFORE any redistribution so that `holiday-cascade.py` sees the updated holidays list when it runs and will not place topics on any of the new holiday dates.
 
 5. **Collision detection** -- read `.cowork/progress/grammar-state.json`. For each entry in `grammar_points`, check whether `next_review` matches any of the newly added holiday dates. Collect all matches.
 
@@ -84,33 +85,16 @@ If no collisions: print `No existing reviews fall on the new holiday dates.` and
 
 7. **Redistribute** -- if the user answers yes:
 
-   a. Group colliding topics by their `next_review` date.
+   a. Invoke `holiday-cascade.py` once, passing the exact date list already parsed in step 1 ("Parse dates to ISO strings") as `--new-dates`:
+      ```bash
+      python3 .cowork/scripts/holiday-cascade.py \
+        --state .cowork/progress/grammar-state.json \
+        --rules .cowork/progress/load-control-rules.json \
+        --new-dates <comma-separated ISO dates parsed in step 1>
+      ```
+      This runs a single-pass FIFO sweep starting from the earliest of the newly added dates: it walks forward day by day, queueing displaced content and reassigning it to the next unblocked day (skipping Saturdays and any holiday, old or new), with no `DAILY_CAP`/`WEAK_CAP` and no per-date looping. Only `next_review` is ever changed on an existing entry. See the script's own docstring for the full algorithm.
 
-   b. Process each date group in **chronological order** (earliest holiday first). For each date group:
-   
-      - Build the input JSON array. For each colliding topic in the group, construct one element:
-        ```json
-        {
-          "key": "<existing key from grammar-state.json>",
-          "lesson_file": "<existing lesson_file>",
-          "grammar_header": "<existing grammar_header>",
-          "interval_days": 1,
-          "score": "<existing last_score>"
-        }
-        ```
-        Note: `interval_days` is set to `1` regardless of the topic's actual interval. Combined with `--today` set to one day before the holiday, this makes the algorithm's candidate date land on the holiday, which is now blocked, forcing it to search forward to the next valid day. `merge_and_write()` only updates `next_review` for existing entries, so the real `interval_days` in `grammar-state.json` is never overwritten.
-
-      - Invoke `load-control.py` with `--today` set to the day before this holiday date:
-        ```bash
-        echo '<json_array>' | python3 .cowork/scripts/load-control.py \
-          --state .cowork/progress/grammar-state.json \
-          --rules .cowork/progress/load-control-rules.json \
-          --today <YYYY-MM-DD of holiday minus 1 day>
-        ```
-
-      - Wait for the invocation to complete before processing the next date group. Each invocation writes `grammar-state.json`, so the next invocation sees the previous placements and avoids creating new conflicts.
-
-   c. **Verification** -- after all redistribution invocations complete, read `grammar-state.json` one final time. Check every entry: if any topic has `next_review` matching any date in the full holidays list (not just the newly added dates), print:
+   b. **Verification** -- after the invocation completes, read `grammar-state.json` one final time. Check every entry: if any topic has `next_review` matching any date in the full holidays list (not just the newly added dates), print:
    ```
    Warning: N topic(s) still scheduled on holiday dates after redistribution -- manual review may be needed:
      <grammar_header> -- next_review: <date>

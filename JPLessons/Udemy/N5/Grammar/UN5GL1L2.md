@@ -771,37 +771,51 @@ Ne - seeking approval, emphasizing / isn’t it?
  this book #card
 ほんやく: この本(ほん) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<!--ID: 1789356434347-->
+
 
 
  that document (near you) #card
 ほんやく: その資料(しりょう) 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_資.html">資</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<!--ID: 1789356434348-->
+
 
 
  this is a book #card
 ほんやく: これは本(ほん)です 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_本.html">本</a>
+<!--ID: 1789356434349-->
+
 
 
  that is a document #card
 ほんやく: それは資料(しりょう)です 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_資.html">資</a>
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_料.html">料</a>
+<!--ID: 1789356434350-->
+
 
 
  what is that (over there)? #card
 ほんやく: あれは何(なん)ですか 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_何.html">何</a>
+<!--ID: 1789356434351-->
+
 
 
  this is the same #card
 ほんやく: これは同じです（おなじ） 
+<!--ID: 1789356434352-->
+
 
 
  in the same way, similarly #card
 ほんやく: 同じように（おなじように） 
 <a href="https://kanji-trainer.org/Mnemonic_phrase/Mnemonic_同.html">同</a>
+<!--ID: 1789356434353-->
+
 
 
  Czasowniki:

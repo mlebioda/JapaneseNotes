@@ -22,8 +22,8 @@ Organized by category for study purposes. Nothing from the source lists was inte
 - 🟢 に (ni) — time / location (existence, via がある／がいる) / destination now covered; indirect-object marking (に in giving/receiving) not explicit
 - 🟢 で (de) — location of action / method, means now both covered as dedicated points
 - 🔴 の (no) — possessive ("of") / nominalizer — only the ADJ＋の nominalizer use exists; plain possessive の does not
-- 🔴 と (to) — "and" (exhaustive list) / "with" / quotation
-- 🔴 や (ya) — "and" (non-exhaustive list)
+- 🟡 と (to) — "and" (exhaustive list) / "with" / quotation — drafted in Leftovers-1, pending extract-grammar
+- 🟡 や (ya) — "and" (non-exhaustive list) — drafted in Leftovers-1, pending extract-grammar
 - 🔴 も (mo) — "too", "also" — only compounds (何も／だれも／どこも／か・も) exist, not plain も
 - 🟢 へ (e) — direction
 - 🟢 に／へ (ni/e) — direction, interchangeable use
@@ -31,7 +31,7 @@ Organized by category for study purposes. Nothing from the source lists was inte
 - 🟢 まで (made) — "until", "as far as", "even"
 - 🔴 から〜まで (kara~made) — "from ... to ..." as a combined pattern
 - 🟢 だけ (dake) — "only", "just"
-- 🔴 くらい／ぐらい (kurai/gurai) — "about", "approximately"
+- 🟡 くらい／ぐらい (kurai/gurai) — "about", "approximately" — drafted in Leftovers-1, pending extract-grammar
 - 🔴 か (ka) — question particle (standalone)
 - 🟢 か〜か (ka~ka) — "or" (choice)
 - 🟢 ね (ne) — sentence-ending particle

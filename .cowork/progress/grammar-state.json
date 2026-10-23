@@ -16,21 +16,21 @@
     "UN5GL1L2::counter-people": {
       "lesson_file": "grammar-index/grammar/people-counter.md",
       "grammar_header": "People",
-      "last_reviewed": "2026-08-05",
-      "interval_days": 9,
+      "last_reviewed": "2026-10-15",
+      "interval_days": 21,
       "ease": 2.3,
-      "streak": 2,
-      "total_reviews": 9,
+      "streak": 3,
+      "total_reviews": 10,
       "last_score": 3,
       "weak_points": [
-        "は/が double-marking",
         "〜人です vs 〜人います choice",
         "extra は after counter (double-marking)",
         "で→に for existence location (recurred)",
-        "です→います for people at a location (recurred)"
+        "です→います for people at a location (recurred)",
+        "number + が after 〜人 (三人がいます → 三人います)"
       ],
       "score": 3,
-      "next_review": "2026-09-21"
+      "next_review": "2026-11-05"
     },
     "UN5GL1L2::counter-floors": {
       "lesson_file": "grammar-index/grammar/floors-counter.md",
@@ -60,7 +60,7 @@
         "missing は topic particle after 私たち in 同じ+Noun sentences"
       ],
       "score": 4,
-      "next_review": "2026-10-22"
+      "next_review": "2026-11-11"
     },
     "UN5GL1L2::zenbu-de": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/zenbude-in-total.md",
@@ -101,7 +101,7 @@
       "last_score": 4,
       "weak_points": [],
       "score": 4,
-      "next_review": "2026-11-29"
+      "next_review": "2026-12-03"
     },
     "UN5GL1L2::kore-sore-are": {
       "lesson_file": "grammar-index/grammar/kore-sore-are-dore.md",
@@ -135,7 +135,7 @@
       "lesson_file": "grammar-index/grammar/ikoukei-volitional-form.md",
       "grammar_header": "いこうけい Group 2",
       "last_reviewed": "2026-07-12",
-      "next_review": "2026-09-25",
+      "next_review": "2026-10-20",
       "interval_days": 45,
       "ease": 2.5,
       "streak": 6,
@@ -176,22 +176,22 @@
         "volitional form not produced — used たい instead of しよう (recurring)"
       ],
       "score": 3,
-      "next_review": "2026-09-30"
+      "next_review": "2026-10-25"
     },
     "UN4GL5::tara-verb": {
       "lesson_file": "grammar-index/grammar/past-tense-tara-if.md",
       "grammar_header": "たら — verb",
-      "last_reviewed": "2026-07-15",
-      "interval_days": 40,
+      "last_reviewed": "2026-10-15",
+      "interval_days": 94,
       "ease": 2.35,
-      "streak": 7,
-      "total_reviews": 7,
-      "last_score": 4,
+      "streak": 8,
+      "total_reviews": 8,
+      "last_score": 3,
       "weak_points": [
         "used ば conditional instead of たら"
       ],
-      "next_review": "2026-09-21",
-      "score": 4
+      "next_review": "2027-01-17",
+      "score": 3
     },
     "UN4GL5::tara-i-adj": {
       "lesson_file": "grammar-index/grammar/past-tense-tara-if.md",
@@ -209,26 +209,27 @@
         "hesitant on なら vs い-adj たら nuance for reactive-advice contexts",
         "は→が for conditional clause subject (recurred)"
       ],
-      "next_review": "2026-11-20",
+      "next_review": "2026-11-29",
       "score": 3
     },
     "UN4GL5::tara-na-adj-n": {
       "lesson_file": "grammar-index/grammar/past-tense-tara-if.md",
       "grammar_header": "たら — na-adj/N",
-      "last_reviewed": "2026-08-05",
-      "interval_days": 35,
+      "last_reviewed": "2026-09-15",
+      "interval_days": 72,
       "ease": 2.05,
-      "streak": 8,
-      "total_reviews": 8,
+      "streak": 9,
+      "total_reviews": 9,
       "last_score": 3,
       "weak_points": [
         "missing に after いっしょ",
         "遊園地 = ゆうえんち (long vowel)",
         "を used instead of が for な-adjective subject (recurring)",
-        "は→が for subordinate clause subject"
+        "は→が for subordinate clause subject (recurred)",
+        "dropping demonstratives (あの) when translating"
       ],
-      "next_review": "2026-09-09",
-      "score": 3
+      "score": 3,
+      "next_review": "2026-12-02"
     },
     "UN4GL5::tara-iidesu-interrogative": {
       "lesson_file": "grammar-index/grammar/interrogative-vtara-iidesuka-ask-for-advice-or-instructions.md",
@@ -247,7 +248,7 @@
         "register mismatch — used いいですか instead of plain いいか for self-directed musing"
       ],
       "score": 4,
-      "next_review": "2026-09-28"
+      "next_review": "2026-10-22"
     },
     "UN4GL5::tsumori-affirmative": {
       "lesson_file": "grammar-index/grammar/vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker.md",
@@ -266,24 +267,26 @@
         "suru-verb を with 準備 (used に instead, recurring)"
       ],
       "score": 3,
-      "next_review": "2026-10-26"
+      "next_review": "2026-11-15"
     },
     "UN4GL5::tsumori-negative": {
       "lesson_file": "grammar-index/grammar/vplaintsumoridesu-conviction-of-doing-something-planned-by-speaker.md",
       "grammar_header": "つもりです — negative",
-      "last_reviewed": "2026-07-24",
-      "interval_days": 55,
+      "last_reviewed": "2026-10-13",
+      "interval_days": 138,
       "ease": 2.5,
-      "streak": 7,
-      "total_reviews": 7,
-      "last_score": 4,
+      "streak": 8,
+      "total_reviews": 8,
+      "last_score": 3,
       "weak_points": [
-        "Vない + つもりです pattern not yet secure",
-        "used ことにする instead of つもり (intention vs decision confusion)",
-        "ないことにする word order (Vない + ことにする, not こと+にしない)"
+        "ないことにする word order (Vない + ことにする, not こと+にしない)",
+        "used decision form (にしました/ことにする) instead of つもり (recurring)",
+        "受ける not 取る for taking an exam",
+        "negated つもり (つもりじゃない) instead of Vない + つもりです",
+        "register: casual つもりだ vs polite つもりです"
       ],
-      "score": 4,
-      "next_review": "2026-09-17"
+      "score": 3,
+      "next_review": "2027-02-28"
     },
     "UN4GL5::yotei-noun": {
       "lesson_file": "grammar-index/grammar/yotei-desu-plan-scheduled.md",
@@ -300,30 +303,32 @@
         "extra 日: 休みの日予定 → 休みの予定"
       ],
       "score": 4,
-      "next_review": "2026-09-25"
+      "next_review": "2026-10-20"
     },
     "UN4GL5::yotei-verb": {
       "lesson_file": "grammar-index/grammar/yotei-desu-plan-scheduled.md",
       "grammar_header": "予定です (V plain + 予定です)",
-      "last_reviewed": "2026-07-12",
-      "interval_days": 37,
-      "ease": 2.35,
-      "streak": 7,
-      "total_reviews": 7,
-      "last_score": 4,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 4,
+      "ease": 2.0,
+      "streak": 1,
+      "total_reviews": 9,
+      "last_score": 2,
       "weak_points": [
-        "missing する before 予定です: 出張する予定です",
-        "V plain+予定です pattern not producible",
-        "used volitional+と思います instead of V dict+予定です"
+        "no attempt on V plain + 予定です (idk)",
+        "N + の + 予定です: は used instead of の (会議は予定です)",
+        "ことになった used where 予定です (schedule) expected",
+        "N + の + 予定だ casual not produced",
+        "missing に after specific date (十五日に)"
       ],
-      "score": 4,
-      "next_review": "2026-09-11"
+      "score": 2,
+      "next_review": "2026-11-10"
     },
     "UN4GL5::distinguish-omotte-tsumori-yotei": {
       "lesson_file": "JPLessons/Udemy/N4/Grammar/UN4GL5.md",
       "grammar_header": "Distinguish: と思っています vs つもりです vs 予定です",
       "last_reviewed": "2026-07-22",
-      "next_review": "2026-10-16",
+      "next_review": "2026-11-06",
       "interval_days": 86,
       "ease": 2.6,
       "streak": 4,
@@ -351,23 +356,26 @@
         "missing の in 雨の日 (雨日→雨の日)"
       ],
       "score": 4,
-      "next_review": "2026-11-01"
+      "next_review": "2026-11-18"
     },
     "UN4GL5::joshi-mo-both-and": {
       "lesson_file": "grammar-index/grammar/joshimo-list-things.md",
       "grammar_header": "助詞＋も (both A and B)",
-      "interval_days": 4,
-      "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
+      "interval_days": 5,
+      "ease": 2.2,
+      "streak": 2,
+      "total_reviews": 2,
       "weak_points": [
         "と used instead of も for first item in Nも Nも",
-        "extra が after も (double particle)"
+        "extra が after も (double particle)",
+        "は instead of も on first item in Nも Nも",
+        "particle order with interrogative: 誰にも not 誰もに",
+        "い-adj before noun keeps い (忙しい先生)"
       ],
-      "next_review": "2026-09-17",
+      "next_review": "2026-11-06",
       "last_score": 2,
       "score": 2,
-      "last_reviewed": "2026-08-03"
+      "last_reviewed": "2026-10-13"
     },
     "UN4GL5::joshi-mo-unexpected": {
       "lesson_file": "grammar-index/grammar/joshimo-list-things.md",
@@ -386,32 +394,32 @@
         "にも dropped for unexpected action (recurring)"
       ],
       "score": 3,
-      "next_review": "2026-10-30"
+      "next_review": "2026-11-17"
     },
     "UN4GL5::joshi-mo-total-denial": {
       "lesson_file": "grammar-index/grammar/joshimo-list-things.md",
       "grammar_header": "助詞＋も (interrogative — total denial)",
-      "last_reviewed": "2026-07-23",
-      "next_review": "2026-09-20",
-      "interval_days": 59,
+      "last_reviewed": "2026-10-14",
+      "next_review": "2027-02-21",
+      "interval_days": 130,
       "ease": 2.2,
-      "streak": 10,
-      "total_reviews": 10,
-      "last_score": 4,
+      "streak": 11,
+      "total_reviews": 11,
+      "last_score": 3,
       "weak_points": [
-        "したなので → したので (verb past + ので, no な)",
-        "どこへも + negative verb (total denial pattern)",
-        "足を怪我する (を not が)",
         "どこへも spelling (へ not え)",
-        "total denial pattern not produced"
+        "total denial pattern not produced",
+        "も replaces が (no もが stacking)",
+        "polite register: 行かなかった → 行きませんでした",
+        "time phrase placement (休み中 attached to wrong clause)"
       ],
-      "score": 4
+      "score": 3
     },
     "UN4GL5::yasui-nikui": {
       "lesson_file": "grammar-index/grammar/vmasuyasuidesu-nikuidesu-easy-difficult-to-do.md",
       "grammar_header": "V「ます形」やすいです・にくいです - easy/difficult to do",
       "last_reviewed": "2026-07-14",
-      "next_review": "2026-09-28",
+      "next_review": "2026-10-22",
       "interval_days": 76,
       "ease": 2.95,
       "streak": 5,
@@ -426,36 +434,40 @@
     "UN4GL5::aida-between-during-among": {
       "lesson_file": "grammar-index/grammar/aida-between-during-among.md",
       "grammar_header": "間（あいだ）- between, during, among",
-      "interval_days": 4,
-      "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
+      "interval_days": 5,
+      "ease": 2.2,
+      "streak": 2,
+      "total_reviews": 2,
       "weak_points": [
-        "間 not produced — used 長さ instead (range use case)",
         "間 vs 中/とちゅう confusion (during use case)",
-        "間 vs 中(じゅう) confusion (among use case)"
+        "間 vs 中(じゅう) confusion (among use case)",
+        "AとBの間 missing に before あります (range)",
+        "Vている間に not produced — used たら/中 (during)",
+        "間で vs 中 (among) — recurring"
       ],
-      "next_review": "2026-09-18",
+      "next_review": "2026-11-08",
       "last_score": 2,
       "score": 2,
-      "last_reviewed": "2026-08-03"
+      "last_reviewed": "2026-10-13"
     },
     "UN4GL5::gotsugou-availability": {
       "lesson_file": "grammar-index/grammar/gotsugou-ii-i-asking-about-someones-availability.md",
       "grammar_header": "(ご)都合（つごう）+ いい／悪い - asking about someone's availability",
-      "interval_days": 4,
-      "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
+      "interval_days": 5,
+      "ease": 2.2,
+      "streak": 2,
+      "total_reviews": 2,
       "weak_points": [
-        "すみません written with wrong kanji (住みません)",
         "都合が悪い not produced — used generic 不便",
-        "ご都合はいかがでしょうか dropped entirely"
+        "ご都合はいかがでしょうか dropped entirely",
+        "都合が悪い not produced — recurring",
+        "ご都合は dropped — recurring",
+        "いけません vs 行けません"
       ],
-      "next_review": "2026-09-18",
+      "next_review": "2026-11-08",
       "last_score": 2,
       "score": 2,
-      "last_reviewed": "2026-08-03"
+      "last_reviewed": "2026-10-13"
     },
     "UN4GL6::transitive-and-intransitive-verbs": {
       "lesson_file": "grammar-index/grammar/transitive-and-intransitive-verbs.md",
@@ -474,7 +486,7 @@
         "cause で confused with から (風から→風で)"
       ],
       "score": 3,
-      "next_review": "2026-11-17"
+      "next_review": "2026-11-26"
     },
     "UN4GL6::vta-bakari": {
       "lesson_file": "grammar-index/grammar/ta-bakari.md",
@@ -493,7 +505,7 @@
         "ばかりの+NOUN modifier — の still dropped (recurring, 4th session)"
       ],
       "score": 2,
-      "next_review": "2026-09-29"
+      "next_review": "2026-10-23"
     },
     "UN4GL6::vplain-soudesu-souda": {
       "lesson_file": "grammar-index/grammar/sou-desu-hearsay.md",
@@ -512,45 +524,45 @@
         "register tier — used そうです instead of casual そうだ in friend context"
       ],
       "score": 3,
-      "next_review": "2026-09-16"
+      "next_review": "2026-10-11"
     },
     "UN4GL6::rashiidesu": {
       "lesson_file": "grammar-index/grammar/rashii-desu.md",
       "grammar_header": "。。。らしいです - it seems",
-      "last_reviewed": "2026-07-16",
-      "next_review": "2026-09-20",
-      "interval_days": 37,
+      "last_reviewed": "2026-10-14",
+      "next_review": "2027-01-13",
+      "interval_days": 91,
       "ease": 2.45,
-      "streak": 5,
-      "total_reviews": 7,
+      "streak": 6,
+      "total_reviews": 8,
       "last_score": 3,
       "weak_points": [
-        "らしいです not produced (て-form used)",
-        "で→は for topic",
         "uncertain hearsay pattern not produced",
         "Noun + らしい (typical characteristic) not produced",
-        "typical-characteristic use case answered as isolated fragment, missing full sentence + です"
+        "typical-characteristic use case answered as isolated fragment, missing full sentence + です",
+        "uncertain hearsay らしいです not produced (no answer)",
+        "ようです confused with N+らしい (夏ようです)"
       ],
       "score": 3
     },
     "UN4GL6::shika-dake": {
       "lesson_file": "grammar-index/grammar/shika-dake-only.md",
       "grammar_header": "しか、だけ - only",
-      "last_reviewed": "2026-08-04",
-      "interval_days": 20,
+      "last_reviewed": "2026-10-15",
+      "interval_days": 46,
       "ease": 2.3,
-      "streak": 6,
-      "total_reviews": 8,
-      "last_score": 4,
+      "streak": 7,
+      "total_reviews": 9,
+      "last_score": 3,
       "weak_points": [
-        "で→に for ある (existence location)",
         "counter+だけ without stated subject noun",
-        "しか paired with affirmative predicate instead of negative (recurred)",
         "だけ/しか attached to location instead of subject noun (recurred)",
-        "を→は before しか (drop object particle)"
+        "を→は before しか (drop object particle)",
+        "で→に for ある (existence location)",
+        "しか paired with affirmative predicate instead of negative (recurred)"
       ],
-      "score": 4,
-      "next_review": "2026-09-21"
+      "score": 3,
+      "next_review": "2026-11-30"
     },
     "UN4GL6::mada": {
       "lesson_file": "grammar-index/grammar/mada-still-not-yet.md",
@@ -567,7 +579,7 @@
         "沸く vocabulary (to boil, intransitive)"
       ],
       "score": 4,
-      "next_review": "2026-11-01"
+      "next_review": "2026-11-18"
     },
     "UN4GL6::yahari-yappari": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/yahari-yappari.md",
@@ -586,7 +598,7 @@
         "past tense しました needed for a decision already made (used present します instead)"
       ],
       "score": 4,
-      "next_review": "2026-10-05"
+      "next_review": "2026-10-29"
     },
     "UN4GL6::renraku": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/renraku.md",
@@ -605,7 +617,7 @@
         "連絡を取る uses と (not に)"
       ],
       "score": 4,
-      "next_review": "2026-09-30"
+      "next_review": "2026-10-25"
     },
     "UN4GL6::tsukiau": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/tsukiau.md",
@@ -624,7 +636,7 @@
         "に attached to place instead of activity in 付き合う invite-along (recurring)"
       ],
       "score": 3,
-      "next_review": "2026-09-30"
+      "next_review": "2026-10-25"
     },
     "UN5GL3::mai-counter-rzeczy-paskich": {
       "lesson_file": "grammar-index/grammar/mai-counter-for-flat-thin-objects.md",
@@ -639,22 +651,24 @@
         "existence sentences use が not を with あります"
       ],
       "score": 3,
-      "next_review": "2026-12-01"
+      "next_review": "2026-12-04"
     },
     "UN5GL3::koko-soko-asoko-indicate-physical-place-or-location": {
       "lesson_file": "grammar-index/grammar/koko-soko-asoko-indicate-physical-place-or-location.md",
       "grammar_header": "ここ、そこ、あそこ - indicate physical place or location",
-      "last_reviewed": "2026-07-05",
-      "interval_days": 51,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 150,
       "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 3,
       "weak_points": [
-        "あそこ→そこ near listener"
+        "あそこ→そこ near listener",
+        "それ (thing) used instead of そこ (place)",
+        "missing location に in Nにある"
       ],
-      "score": 4,
-      "next_review": "2026-09-23"
+      "score": 3,
+      "next_review": "2027-03-18"
     },
     "UN5GL3::kochira-sochira-achira-dochira-indicate-place-location-and-direction-person": {
       "lesson_file": "grammar-index/grammar/kochira-sochira-achira-dochira-indicate-place-location-and-direction-person.md",
@@ -686,7 +700,7 @@
       "weak_points": [
         "P に N が pattern vs N は P に pattern"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-10-08",
       "score": 4
     },
     "UN5GL3::something-is-somewhere": {
@@ -704,7 +718,7 @@
         "います vs あります for inanimate objects",
         "P に N が pattern vs N は P に pattern (recurred)"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-10-08",
       "score": 4
     },
     "UN5GL4::years-nen": {
@@ -723,13 +737,13 @@
         "していました vs しています (ongoing tense)"
       ],
       "score": 4,
-      "next_review": "2026-10-22"
+      "next_review": "2026-11-11"
     },
     "UN5GL4::irregular-date-readings": {
       "lesson_file": "grammar-index/grammar/nengappi-dates.md",
       "grammar_header": "年月日（ねんがっぴ）- dates",
       "last_reviewed": "2026-08-09",
-      "next_review": "2026-11-23",
+      "next_review": "2026-11-30",
       "interval_days": 106,
       "ease": 2.8,
       "streak": 4,
@@ -754,13 +768,13 @@
         "topic particle は needed instead of に after 昼ご飯"
       ],
       "score": 4,
-      "next_review": "2026-09-23"
+      "next_review": "2026-10-18"
     },
     "UN5GL4::directions-gawa": {
       "lesson_file": "grammar-index/grammar/directions.md",
       "grammar_header": "Directions",
       "last_reviewed": "2026-08-09",
-      "next_review": "2026-11-23",
+      "next_review": "2026-11-30",
       "interval_days": 106,
       "ease": 2.8,
       "streak": 4,
@@ -787,7 +801,7 @@
         "missing second か pattern is A か B か"
       ],
       "score": 2,
-      "next_review": "2026-11-11"
+      "next_review": "2026-11-24"
     },
     "UN5GL5::issho-ni-vs-to-issho-ni": {
       "lesson_file": "grammar-index/grammar/issho-together-same.md",
@@ -804,54 +818,56 @@
         "dropped いっしょに entirely when person specified (need ～と＋いっしょに)"
       ],
       "score": 3,
-      "next_review": "2026-10-01"
+      "next_review": "2026-10-26"
     },
     "UN5GL5::masu-form-conjugation": {
       "lesson_file": "grammar-index/grammar/masu-form.md",
       "grammar_header": "ます形 - masu form",
-      "last_reviewed": "2026-07-05",
-      "interval_days": 51,
-      "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 196,
+      "ease": 3.1,
+      "streak": 4,
+      "total_reviews": 4,
       "last_score": 4,
       "weak_points": [
         "貸しました→貸します non-past",
         "借りらない→借りません G2 ない form",
         "plain→polite ませんでした",
-        "past negative plain form used instead of ませんでした (recurred again)"
+        "past negative plain form used instead of ませんでした (recurred again)",
+        "引く vs 引き出す (withdraw money) vocab"
       ],
       "score": 4,
-      "next_review": "2026-09-23"
+      "next_review": "2027-05-03"
     },
     "UN5GL5::he-ni-direction-ni-time": {
       "lesson_file": "grammar-index/grammar/he-ni-direction-destination.md",
       "grammar_header": "へ / に - direction of movement, travel (destination)",
-      "last_reviewed": "2026-07-08",
-      "interval_days": 45,
+      "last_reviewed": "2026-10-14",
+      "interval_days": 126,
       "ease": 2.8,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 3,
       "weak_points": [
         "に attaches to full date expression, not mid-date",
-        "date reading confusion (十二日 vs 二十一日)"
+        "date reading confusion (十二日 vs 二十一日)",
+        "に after full date expression omitted (recurring)"
       ],
-      "score": 4,
-      "next_review": "2026-09-20"
+      "score": 3,
+      "next_review": "2027-02-17"
     },
     "UN5GL5::ni-time-exceptions": {
       "lesson_file": "grammar-index/grammar/ni-time-of-action.md",
       "grammar_header": "に - time of occurrence of an action",
-      "last_reviewed": "2026-07-05",
-      "interval_days": 51,
-      "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 196,
+      "ease": 3.1,
+      "streak": 4,
+      "total_reviews": 4,
       "last_score": 4,
       "weak_points": [],
       "score": 4,
-      "next_review": "2026-09-24"
+      "next_review": "2027-05-03"
     },
     "UN5GL5::wo-multiple-uses": {
       "lesson_file": "grammar-index/grammar/wo.md",
@@ -875,12 +891,12 @@
     "UN5GL6::v-dict-tosugudesu": {
       "lesson_file": "grammar-index/grammar/v-dict-tosugudesu-as-soon-as.md",
       "grammar_header": "V dict とすぐです - As soon as ....",
-      "last_reviewed": "2026-07-06",
-      "next_review": "2026-09-24",
-      "interval_days": 51,
-      "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
+      "last_reviewed": "2026-10-19",
+      "next_review": "2027-05-03",
+      "interval_days": 196,
+      "ease": 3.1,
+      "streak": 4,
+      "total_reviews": 4,
       "last_score": 4,
       "weak_points": [],
       "score": 4
@@ -888,31 +904,32 @@
     "UN5GL6::naikei": {
       "lesson_file": "grammar-index/grammar/nai-form.md",
       "grammar_header": "ない形",
-      "last_reviewed": "2026-07-06",
-      "next_review": "2026-09-24",
-      "interval_days": 51,
+      "last_reviewed": "2026-10-19",
+      "next_review": "2027-03-18",
+      "interval_days": 150,
       "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 3,
       "weak_points": [
         "wrong verb chosen (描く not 買う, 戻る not 来る)",
-        "ended clause with ないで instead of plain ない"
+        "ended clause with ないで instead of plain ない",
+        "ないで used instead of past なかった (来なかった)"
       ],
-      "score": 4
+      "score": 3
     },
     "UN5GL6::de-means-or-method": {
       "lesson_file": "grammar-index/grammar/de-means-or-method.md",
       "grammar_header": "で - means or method",
-      "last_reviewed": "2026-07-06",
-      "interval_days": 51,
-      "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 196,
+      "ease": 3.1,
+      "streak": 4,
+      "total_reviews": 4,
       "last_score": 4,
       "score": 4,
       "weak_points": [],
-      "next_review": "2026-09-24"
+      "next_review": "2027-05-03"
     },
     "UN5GL6::de-where-the-action-will-take-place": {
       "lesson_file": "grammar-index/grammar/de-where-the-action-will-take-place.md",
@@ -932,59 +949,62 @@
     "UN5GL6::douyatte": {
       "lesson_file": "grammar-index/grammar/douyatte-how-to.md",
       "grammar_header": "どうやって - how to",
-      "last_reviewed": "2026-07-06",
-      "interval_days": 51,
-      "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 196,
+      "ease": 3.1,
+      "streak": 4,
+      "total_reviews": 4,
       "last_score": 4,
       "score": 4,
       "weak_points": [
         "どうやって written as ドヤって (missing う, wrong script)",
         "past tense used instead of present/habitual"
       ],
-      "next_review": "2026-09-24"
+      "next_review": "2027-05-03"
     },
     "UN5GL6::place-ni-v-indicate-destination": {
       "lesson_file": "grammar-index/grammar/place-ni-v-indicate-destination.md",
       "grammar_header": "Place + に ＋　V - indicate destination",
-      "last_reviewed": "2026-07-06",
-      "interval_days": 51,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 150,
       "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
-      "score": 4,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 3,
+      "score": 3,
       "weak_points": [
-        "警察官 (police officer) confused with 警察署 (police station)"
+        "警察官 (police officer) confused with 警察署 (police station)",
+        "まで instead of に with 着く"
       ],
-      "next_review": "2026-09-24"
+      "next_review": "2027-03-18"
     },
     "UN5GL6::noru-oriru-ni-boarding": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/noru-oriru-get-on-off.md",
       "grammar_header": "乗る・降りる (に for boarding)",
-      "last_reviewed": "2026-07-06",
-      "interval_days": 51,
-      "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 196,
+      "ease": 3.1,
+      "streak": 4,
+      "total_reviews": 4,
       "last_score": 4,
       "score": 4,
-      "weak_points": [],
-      "next_review": "2026-09-24"
+      "weak_points": [
+        "山手線 written as 山本線"
+      ],
+      "next_review": "2027-05-03"
     },
     "UN5GL6::noru-oriru-kara-alighting": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/noru-oriru-get-on-off.md",
       "grammar_header": "乗る・降りる (から for alighting)",
-      "last_reviewed": "2026-07-06",
-      "interval_days": 51,
-      "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 196,
+      "ease": 3.1,
+      "streak": 4,
+      "total_reviews": 4,
       "last_score": 4,
       "score": 4,
       "weak_points": [],
-      "next_review": "2026-09-24"
+      "next_review": "2027-05-03"
     },
     "UN5GL6::norikkaeru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/norikaeru-to-transfer.md",
@@ -997,7 +1017,7 @@
       "last_score": 4,
       "score": 4,
       "weak_points": [],
-      "next_review": "2026-09-25"
+      "next_review": "2026-10-20"
     },
     "UN5GL6::deru-wo": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/deru-to-exit-leave.md",
@@ -1014,7 +1034,7 @@
         "used できる instead of 出る",
         "used から instead of を"
       ],
-      "next_review": "2026-12-01"
+      "next_review": "2026-12-04"
     },
     "UN5GL6::deru-ni": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/deru-to-exit-leave.md",
@@ -1030,7 +1050,7 @@
         "に出る produced with を instead of に (still confusing を出る/leave-from with に出る/move-to)",
         "に出る not produced (skipped)"
       ],
-      "next_review": "2026-11-01"
+      "next_review": "2026-11-18"
     },
     "UN5GL6::he-magaru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/hegaru-to-turn.md",
@@ -1043,7 +1063,7 @@
       "last_score": 4,
       "score": 4,
       "weak_points": [],
-      "next_review": "2026-09-25"
+      "next_review": "2026-10-20"
     },
     "UN5GL7::vmasukei-masenka": {
       "lesson_file": "grammar-index/grammar/masenka.md",
@@ -1056,7 +1076,7 @@
       "last_score": 4,
       "weak_points": [],
       "score": 4,
-      "next_review": "2026-09-25"
+      "next_review": "2026-10-20"
     },
     "UN5GL7::vmasukei-mashou": {
       "lesson_file": "grammar-index/grammar/mashou.md",
@@ -1075,7 +1095,7 @@
         "昼間 (daytime) ≠ 昼/十二時 (noon)"
       ],
       "score": 2,
-      "next_review": "2026-09-16"
+      "next_review": "2026-10-11"
     },
     "UN5GL7::vmasukei-mashouka": {
       "lesson_file": "grammar-index/grammar/mashouka.md",
@@ -1091,7 +1111,7 @@
         "used て形＋あげますか instead of volitional＋ましょうか for offering"
       ],
       "score": 4,
-      "next_review": "2026-09-25"
+      "next_review": "2026-10-20"
     },
     "UN5GL7::teiru-state-habit": {
       "lesson_file": "grammar-index/grammar/teiru-show-state.md",
@@ -1104,24 +1124,25 @@
       "last_score": 4,
       "weak_points": [],
       "score": 4,
-      "next_review": "2026-09-25"
+      "next_review": "2026-10-20"
     },
     "UN5GL7::tekei-sequential": {
       "lesson_file": "grammar-index/grammar/te-form-sequencing-order.md",
       "grammar_header": "て形 - several events happening back to back - order",
-      "last_reviewed": "2026-08-09",
-      "next_review": "2026-09-24",
-      "interval_days": 46,
-      "ease": 2.65,
-      "streak": 4,
-      "total_reviews": 4,
-      "last_score": 2,
+      "last_reviewed": "2026-10-19",
+      "next_review": "2027-03-26",
+      "interval_days": 158,
+      "ease": 2.8,
+      "streak": 5,
+      "total_reviews": 5,
+      "last_score": 4,
       "weak_points": [
         "時 clause used instead of て form",
         "action order reversed",
-        "used たり…たり instead of て形 sequential chaining"
+        "used たり…たり instead of て形 sequential chaining",
+        "読んで written as 呼んで"
       ],
-      "score": 2
+      "score": 4
     },
     "UN5GL7::tekei-moiidesu": {
       "lesson_file": "grammar-index/grammar/temoiidesuka-permission.md",
@@ -1134,7 +1155,7 @@
       "last_score": 4,
       "weak_points": [],
       "score": 4,
-      "next_review": "2026-09-25"
+      "next_review": "2026-10-20"
     },
     "UN5GL7::tekei-haikemasen": {
       "lesson_file": "grammar-index/grammar/tehaikemasen-must-not.md",
@@ -1147,7 +1168,7 @@
       "last_score": 4,
       "weak_points": [],
       "score": 4,
-      "next_review": "2026-09-25"
+      "next_review": "2026-10-20"
     },
     "UN5GL7::sumu-place-ni": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/sumu-to-live.md",
@@ -1161,24 +1182,24 @@
       "weak_points": [
         "駅の近くに not 駅に近くに (use の to link 近く to place noun)"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-10-08",
       "score": 4
     },
     "UN5GL7::matsu-wo": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/matsu-to-wait.md",
       "grammar_header": "待つ - to wait",
-      "last_reviewed": "2026-07-16",
-      "interval_days": 68,
-      "ease": 2.5,
-      "streak": 4,
-      "total_reviews": 4,
-      "last_score": 3,
+      "last_reviewed": "2026-10-18",
+      "interval_days": 221,
+      "ease": 2.65,
+      "streak": 5,
+      "total_reviews": 5,
+      "last_score": 4,
       "weak_points": [
         "に used instead of で for action location with 待つ",
         "dropped object 私を entirely in one attempt"
       ],
-      "next_review": "2026-09-22",
-      "score": 3
+      "next_review": "2027-05-27",
+      "score": 4
     },
     "UN5GL7::time-place-v-order": {
       "lesson_file": "grammar-index/grammar/order.md",
@@ -1195,7 +1216,7 @@
         "missing に after time expression"
       ],
       "score": 4,
-      "next_review": "2026-11-08"
+      "next_review": "2026-11-22"
     },
     "UN5GL7::benkyo-noun-verb": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/benkyou-learn.md",
@@ -1228,56 +1249,40 @@
     "UN4GL4::gimonshi-ka": {
       "lesson_file": "grammar-index/grammar/gimonshika-indirect-question.md",
       "grammar_header": "疑問詞（ぎもんし）...か ... - indirect question",
-      "last_reviewed": "2026-08-05",
-      "interval_days": 6,
+      "last_reviewed": "2026-10-15",
+      "interval_days": 10,
       "ease": 1.65,
-      "streak": 3,
-      "total_reviews": 5,
-      "last_score": 2,
+      "streak": 4,
+      "total_reviews": 6,
+      "last_score": 3,
       "weak_points": [
-        "embedded question needs plain form + か — used polite ました+か instead (recurred)",
-        "produced plain statement instead of embedded question - missing どうして/なぜ + か entirely",
         "embed question with plain form + か, drop ですか",
-        "kept ですか before embedding verb — plain か not produced (recurred)"
+        "kept ですか before embedding verb — plain か not produced (recurred)",
+        "embedded clause tense — present 行く instead of past 行った",
+        "どんな vs どの for 'which'",
+        "知っていない → 知りません for 'don't know'"
       ],
-      "next_review": "2026-09-21",
-      "score": 2
-    },
-    "UN4GL4::to-itte-imashita": {
-      "lesson_file": "grammar-index/grammar/v-plain-to-itteimashita.md",
-      "grammar_header": "V「plain」+ と言っていました（い）- X said...",
-      "last_reviewed": "2026-07-22",
-      "interval_days": 29,
-      "ease": 2.05,
-      "streak": 5,
-      "total_reviews": 5,
-      "last_score": 2,
-      "weak_points": [
-        "行っていました written instead of 言っていました (go/say kanji confusion)",
-        "missed では for source marking, used は (recurred)",
-        "used 伝聞そうです instead of と言っていました",
-        "い-adj: no だ before と (いいと not いいだと)",
-        "と言いました vs と言っていました (relay still-relevant info)"
-      ],
-      "score": 2,
-      "next_review": "2026-09-17"
+      "next_review": "2026-11-04",
+      "score": 3
     },
     "UN4GL4::tte-itte-imashita": {
       "lesson_file": "grammar-index/grammar/v-tte-itteimashita-informal.md",
       "grammar_header": "V + って言っていました - less formal, used more often in speaking",
-      "last_reviewed": "2026-08-12",
-      "interval_days": 42,
-      "ease": 2.05,
-      "streak": 6,
-      "total_reviews": 6,
-      "last_score": 2,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 1,
+      "ease": 1.85,
+      "streak": 0,
+      "total_reviews": 7,
+      "last_score": 1,
       "weak_points": [
         "use って for informal relay (not と)",
         "遅れる (to be late) not 遅くなる",
-        "い-adjective + だ before と/って — い-adjectives never take だ"
+        "い-adjective + だ before と/って — い-adjectives never take だ",
+        "な-adj + だ + って not produced",
+        "そうです used instead of casual って relay"
       ],
-      "score": 2,
-      "next_review": "2026-09-23"
+      "score": 1,
+      "next_review": "2026-11-10"
     },
     "UN4GL4::n-janai": {
       "lesson_file": "grammar-index/grammar/njanai-seeking-agreement.md",
@@ -1295,7 +1300,7 @@
         "いいんじゃない (better) vs 美味しいんじゃない (delicious) — content precision",
         "no answer produced — んじゃないですか (polite register) needed when addressing a superior"
       ],
-      "next_review": "2026-10-02",
+      "next_review": "2026-10-27",
       "score": 2
     },
     "UN4GL4::shi-shi": {
@@ -1314,27 +1319,27 @@
         "particle に after 近い, not の",
         "し chain broken — switched to です instead of continuing with another し"
       ],
-      "next_review": "2026-10-01",
+      "next_review": "2026-10-26",
       "score": 1
     },
     "UN4GL4::te-shimaimasu": {
       "lesson_file": "grammar-index/grammar/vteshimaimasu-finish-something-completely-complete-an-action.md",
       "grammar_header": "V「て」しまいます - Finish something completely/complete an action",
-      "last_reviewed": "2026-09-02",
+      "last_reviewed": "2026-10-21",
       "interval_days": 2,
-      "ease": 1.65,
-      "streak": 4,
-      "total_reviews": 6,
-      "last_score": 3,
+      "ease": 1.5,
+      "streak": 5,
+      "total_reviews": 7,
+      "last_score": 2,
       "weak_points": [
-        "past tense: しまいました not しまいます",
-        "全部 follows object particle を (水を全部)",
         "missing て-form before しまう/しまいます (attached directly to stem)",
         "complete-action use case not attempted this session",
-        "register mismatch — casual てしまった used in formal context, needs てしまいました"
+        "register mismatch — casual てしまった used in formal context, needs てしまいました",
+        "忘れる + に for place left behind (not で)",
+        "casual ちゃった vs stiff てしまった with friends"
       ],
-      "score": 3,
-      "next_review": "2026-09-27"
+      "score": 2,
+      "next_review": "2026-11-11"
     },
     "UN4GL4::hou-ga-ii": {
       "lesson_file": "grammar-index/grammar/v-ta-nai-hou-ga-ii-desu.md",
@@ -1353,13 +1358,13 @@
         "来る→行く when taking something with you"
       ],
       "score": 3,
-      "next_review": "2026-10-22"
+      "next_review": "2026-11-11"
     },
     "UN4GL4::deshou": {
       "lesson_file": "grammar-index/grammar/deshou-seems-right.md",
       "grammar_header": "でしょう - seems / right",
       "last_reviewed": "2026-07-22",
-      "next_review": "2026-10-28",
+      "next_review": "2026-11-16",
       "interval_days": 98,
       "ease": 2.65,
       "streak": 4,
@@ -1382,7 +1387,7 @@
         "check if prompt is positive or negative before answering"
       ],
       "score": 4,
-      "next_review": "2026-11-08"
+      "next_review": "2026-11-22"
     },
     "UN4GL4::zutto": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/zutto-continuous-far-all-the-time.md",
@@ -1399,7 +1404,7 @@
         "てくる used instead of ずっと for flat continuity (recurred)",
         "missing ずっと as comparison intensifier"
       ],
-      "next_review": "2026-09-30",
+      "next_review": "2026-10-25",
       "score": 2
     },
     "UN4GL7::vdict-koto-ni-suru": {
@@ -1419,7 +1424,7 @@
         "present にします used instead of past ことにしました for a completed decision"
       ],
       "score": 3,
-      "next_review": "2026-10-16"
+      "next_review": "2026-11-06"
     },
     "UN4GL7::vdict-koto-ni-narimasu": {
       "lesson_file": "grammar-index/grammar/v-dict-koto-ni-narimasu-it-was-decided.md",
@@ -1438,7 +1443,7 @@
         "missed ことになる construction entirely for a one-time decision"
       ],
       "score": 3,
-      "next_review": "2026-10-21"
+      "next_review": "2026-11-10"
     },
     "UN4GL7::vdict-koto-ni-natteimasu": {
       "lesson_file": "grammar-index/grammar/v-dict-koto-ni-natteimasu-it-is-supposed-to.md",
@@ -1457,7 +1462,7 @@
         "ことになる vs ことになっている confusion recurring — missed construction for a one-time decision"
       ],
       "score": 3,
-      "next_review": "2026-09-29"
+      "next_review": "2026-10-23"
     },
     "UN4GL7::no-meishika": {
       "lesson_file": "grammar-index/grammar/no-meishika.md",
@@ -1476,7 +1481,7 @@
         "V「た」+の: present negative used instead of past negative (recurring)"
       ],
       "score": 3,
-      "next_review": "2026-12-03"
+      "next_review": "2026-12-07"
     },
     "UN4GL7::meishi-chuu-juu": {
       "lesson_file": "grammar-index/grammar/meishi-chuu-juu-during.md",
@@ -1495,7 +1500,7 @@
         "は/が confusion for topic marking (recurred)"
       ],
       "score": 3,
-      "next_review": "2026-10-07"
+      "next_review": "2026-11-01"
     },
     "UN4GL7::vte-moraemasenka": {
       "lesson_file": "grammar-index/grammar/v-te-moraemasenka-v-te-kuremasenka.md",
@@ -1512,64 +1517,64 @@
         "メール not メイル"
       ],
       "score": 4,
-      "next_review": "2026-10-20"
+      "next_review": "2026-11-09"
     },
     "UN4GL7::zehi": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/zehi-sure-of-course.md",
       "grammar_header": "是非(ぜひ) - sure / of course",
-      "last_reviewed": "2026-08-14",
-      "interval_days": 29,
-      "ease": 1.7,
-      "streak": 6,
-      "total_reviews": 9,
-      "last_score": 3,
+      "last_reviewed": "2026-10-21",
+      "interval_days": 64,
+      "ease": 1.85,
+      "streak": 7,
+      "total_reviews": 10,
+      "last_score": 4,
       "weak_points": [
-        "noun sense of 是非 (pros/cons) not recognized, confused with adverb sense",
-        "ぜひ + Vてほしい construction not fully produced without prompting",
-        "てみたい vs plain たい nuance",
         "V「て」form before みたい — don't drop て",
-        "必ず (certainty) confused with 是非 (desire/invitation)"
+        "必ず (certainty) confused with 是非 (desire/invitation)",
+        "noun sense of 是非 (pros/cons) not recognized, confused with adverb sense",
+        "てみたい vs plain たい nuance",
+        "ぜひ + Vてほしい construction not fully produced without prompting"
       ],
-      "score": 3,
-      "next_review": "2026-09-13"
+      "score": 4,
+      "next_review": "2026-12-24"
     },
     "UN4GL7::kanarazu": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/kanara-must-surely-certainly.md",
       "grammar_header": "必ず(かなら) - must / surely / certainly",
-      "last_reviewed": "2026-07-30",
-      "interval_days": 21,
+      "last_reviewed": "2026-10-13",
+      "interval_days": 37,
       "ease": 1.75,
-      "streak": 7,
-      "total_reviews": 7,
-      "last_score": 4,
+      "streak": 8,
+      "total_reviews": 8,
+      "last_score": 3,
       "weak_points": [
-        "年齢になる not natural for 'grow old' — use 年を取る",
-        "よに typo for ように",
         "passive form used incorrectly (取られる instead of plain 取る)",
         "必ず omitted from sentence (adverb dropped entirely)",
-        "goal+ように clause order first"
+        "goal+ように clause order first",
+        "のに used instead of ように (goal clause)",
+        "potential verb before ように (合格できる)"
       ],
-      "score": 4,
-      "next_review": "2026-09-17"
+      "score": 3,
+      "next_review": "2026-11-19"
     },
     "UN4GL7::chikara": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/chikara-strength-effect-power-ability.md",
       "grammar_header": "力(ちから) - strength / effect / power / ability",
-      "last_reviewed": "2026-07-21",
-      "interval_days": 28,
-      "ease": 2.35,
-      "streak": 4,
-      "total_reviews": 4,
-      "last_score": 3,
+      "last_reviewed": "2026-09-19",
+      "interval_days": 34,
+      "ease": 2.2,
+      "streak": 5,
+      "total_reviews": 5,
+      "last_score": 2,
       "weak_points": [
-        "missing は after 力 (recurred again)",
-        "力 dropped entirely — wrote 太陽なら instead of 太陽の力 (self-flagged as typo)",
-        "付ける not known for build up",
         "missing は after 力 in sentence",
-        "力を付ける (not 力をする)"
+        "力を付ける (not 力をする)",
+        "体力 used instead of 力 (力がない target)",
+        "力を付ける: object を omitted",
+        "翻訳の力です — missing ある (力がある)"
       ],
-      "score": 3,
-      "next_review": "2026-09-11"
+      "score": 2,
+      "next_review": "2026-11-10"
     },
     "UN4GL3::kanokei-potential-form": {
       "lesson_file": "grammar-index/grammar/kanoukei-potential-form-can.md",
@@ -1588,55 +1593,55 @@
         "G1 potential: e-row swap (乗る→乗れる)"
       ],
       "score": 4,
-      "next_review": "2026-10-01"
+      "next_review": "2026-10-26"
     },
     "UN4GL3::v-dict-to-if": {
       "lesson_file": "grammar-index/grammar/v-dict-to-if.md",
       "grammar_header": "V dict + と - if",
-      "last_reviewed": "2026-07-15",
-      "interval_days": 34,
+      "last_reviewed": "2026-09-19",
+      "interval_days": 68,
       "ease": 2.0,
-      "streak": 4,
-      "total_reviews": 7,
+      "streak": 5,
+      "total_reviews": 8,
       "last_score": 3,
       "weak_points": [
-        "と cannot precede volitional result — use たら",
         "見る → 見える for natural/automatic perception",
         "郵便局 kanji error (教区 not 局)",
         "を → が: 見える is intransitive",
-        "ある → 見えます for natural perception"
+        "ある → 見えます for natural perception",
+        "ます形 + と (出ますと) instead of dict form + と"
       ],
       "score": 3,
-      "next_review": "2026-09-11"
+      "next_review": "2026-12-02"
     },
     "UN4GL3::shimasu-change-by-will": {
       "lesson_file": "grammar-index/grammar/narimasu-vs-shimasu-change-of-state.md",
       "grammar_header": "....します - a situation changed through a person's will (compare なる, a change due to nature/circumstance, not a person's will)",
-      "last_reviewed": "2026-08-03",
-      "interval_days": 16,
-      "ease": 1.6,
-      "streak": 7,
-      "total_reviews": 7,
-      "last_score": 3,
+      "last_reviewed": "2026-10-13",
+      "interval_days": 19,
+      "ease": 1.45,
+      "streak": 8,
+      "total_reviews": 8,
+      "last_score": 2,
       "weak_points": [
-        "い-adj → く not に",
-        "を not が for object of change",
         "い-adj kept in dictionary form instead of converting to く",
         "の vs で confusion for possessive (テレビの音)",
-        "な-adj/N+に construction — dropped 音 (object noun) in テレビの音を静かにします"
+        "い-adj → く not に",
+        "を not が for object of change",
+        "object noun dropped before Adj/N+にする (音, 説明) — recurring"
       ],
-      "score": 3,
-      "next_review": "2026-09-17"
+      "score": 2,
+      "next_review": "2026-11-06"
     },
     "UN4GL3::n-ni-shimasu": {
       "lesson_file": "grammar-index/grammar/n-ni-shimasu-decision.md",
       "grammar_header": "N＋に＋します - speaker says what he/she decided on",
-      "last_reviewed": "2026-08-04",
-      "interval_days": 12,
-      "ease": 1.45,
-      "streak": 7,
-      "total_reviews": 7,
-      "last_score": 2,
+      "last_reviewed": "2026-10-14",
+      "interval_days": 23,
+      "ease": 1.6,
+      "streak": 8,
+      "total_reviews": 8,
+      "last_score": 4,
       "weak_points": [
         "N＋に＋します produced as N＋を＋する (decision pattern not used)",
         "会議を → 会議は (topic particle は not を)",
@@ -1644,14 +1649,14 @@
         "何時にしますか — missing 時 and particle に",
         "になっています used instead of にします/にしましょう for an active decision"
       ],
-      "score": 2,
-      "next_review": "2026-09-20"
+      "score": 4,
+      "next_review": "2026-11-06"
     },
     "UN4GL3::vte-okimasu": {
       "lesson_file": "grammar-index/grammar/v-te-okimasu.md",
       "grammar_header": "V「て形」＋おきます - V continues without any changes, leave",
       "last_reviewed": "2026-09-03",
-      "next_review": "2026-10-11",
+      "next_review": "2026-11-03",
       "interval_days": 38,
       "ease": 1.75,
       "streak": 8,
@@ -1685,21 +1690,21 @@
     "UN4GL3::vnakute-haikemasen": {
       "lesson_file": "grammar-index/grammar/v-nakute-ha-ikemasen-must.md",
       "grammar_header": "V「なくて」はいけません - must to do something",
-      "last_reviewed": "2026-08-04",
-      "interval_days": 14,
-      "ease": 1.4,
-      "streak": 10,
-      "total_reviews": 12,
-      "last_score": 3,
+      "last_reviewed": "2026-10-14",
+      "interval_days": 17,
+      "ease": 1.3,
+      "streak": 11,
+      "total_reviews": 13,
+      "last_score": 2,
       "weak_points": [
-        "casual なくちゃ still avoided — used formal てはいけません again",
-        "持ってくる negative stem conjugation error (持ってきた→持ってこない)",
-        "casual なくちゃ still avoided — used formal なければなりません when casual register required",
-        "持つ→持たない→持たなくては",
-        "持っていたなくては → 持たなくては"
+        "持っていたなくては → 持たなくては",
+        "なければなりません used instead of なくてはいけません (personal spoken obligation)",
+        "持ってくる → 持ってこなくては (bring, not 持つ)",
+        "casual なくちゃ still avoided",
+        "なくても confused with なくては"
       ],
-      "score": 3,
-      "next_review": "2026-09-20"
+      "score": 2,
+      "next_review": "2026-11-08"
     },
     "UN4GL3::youni": {
       "lesson_file": "grammar-index/grammar/youni-in-order-to.md",
@@ -1718,13 +1723,13 @@
         "ように pattern: goal (V potential) + ように + action"
       ],
       "score": 3,
-      "next_review": "2026-10-04"
+      "next_review": "2026-10-28"
     },
     "UN4GL3::ga-mieru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/ga-mieru-be-visible.md",
       "grammar_header": "が + 見える - be visible",
       "last_reviewed": "2026-07-12",
-      "next_review": "2026-09-14",
+      "next_review": "2026-10-08",
       "interval_days": 64,
       "ease": 2.5,
       "streak": 4,
@@ -1740,7 +1745,7 @@
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/ga-kikoeru-is-heard.md",
       "grammar_header": "が + 聞こえる - is heard",
       "last_reviewed": "2026-07-12",
-      "next_review": "2026-09-14",
+      "next_review": "2026-10-08",
       "interval_days": 64,
       "ease": 2.5,
       "streak": 4,
@@ -1766,63 +1771,64 @@
         "電気 vs 電車 kanji mix-up"
       ],
       "score": 4,
-      "next_review": "2026-10-08"
+      "next_review": "2026-11-02"
     },
     "UN4GL8::fuzokubun-no-shugo": {
       "lesson_file": "grammar-index/grammar/fuzokubun-no-shugo-the-subject-of-a-subordinate-clause.md",
       "grammar_header": "付属分（ふぞくぶん）の 主語（しゅご）- the subject of a subordinate clause",
-      "last_reviewed": "2026-08-05",
-      "interval_days": 4,
-      "ease": 1.85,
-      "streak": 4,
-      "total_reviews": 7,
-      "last_score": 3,
+      "last_reviewed": "2026-10-18",
+      "interval_days": 5,
+      "ease": 1.7,
+      "streak": 5,
+      "total_reviews": 8,
+      "last_score": 2,
       "weak_points": [
-        "subordinate clause subject は→が (recurred)",
-        "とき vs たら nuance not distinguished (used conditional instead of temporal clause)",
         "missing が after 調子",
         "なられる → 寝ています wrong verb",
-        "used continuous 飲んでる instead of habitual 飲みます after とき-clause"
+        "used continuous 飲んでる instead of habitual 飲みます after とき-clause",
+        "subordinate clause subject は→が (recurred)",
+        "dropped いつも/一緒に — habit lost"
       ],
-      "score": 3,
-      "next_review": "2026-09-22"
+      "score": 2,
+      "next_review": "2026-11-09"
     },
     "UN4GL8::temo-even-if-even-though": {
       "lesson_file": "grammar-index/grammar/temo-even-if-even-though.md",
       "grammar_header": "。。。ても。。。- even if, even though",
-      "last_reviewed": "2026-08-04",
-      "interval_days": 4,
-      "ease": 1.85,
-      "streak": 4,
-      "total_reviews": 7,
-      "last_score": 4,
+      "last_reviewed": "2026-10-15",
+      "interval_days": 5,
+      "ease": 1.7,
+      "streak": 5,
+      "total_reviews": 8,
+      "last_score": 2,
       "weak_points": [
-        "何回でも confused with verb+ても for the interrogative+ても 'no matter how many times' pattern",
-        "時間が多い→時間がある",
-        "いくら～ても not produced",
-        "い-adj + くても — dropped て (寒くも)"
+        "い-adj + くても — dropped て (寒くも)",
+        "ても vs のに confusion",
+        "なら used instead of な-adj+でも",
+        "N+でも not produced",
+        "い-adj くても not produced (もし…のに used)"
       ],
-      "score": 4,
-      "next_review": "2026-09-21"
+      "score": 2,
+      "next_review": "2026-11-09"
     },
     "UN4GL8::interrogative-temo-no-matter": {
       "lesson_file": "grammar-index/grammar/interrogative-temo-no-matter.md",
       "grammar_header": "interrogative + ても.... - no matter",
-      "last_reviewed": "2026-08-04",
-      "interval_days": 4,
-      "ease": 1.85,
-      "streak": 4,
-      "total_reviews": 7,
-      "last_score": 4,
+      "last_reviewed": "2026-10-15",
+      "interval_days": 5,
+      "ease": 1.7,
+      "streak": 5,
+      "total_reviews": 8,
+      "last_score": 2,
       "weak_points": [
-        "specific count (七回) used instead of interrogative 何回 for \"no matter how many\" pattern",
         "出る negative conjugation error (出らない→出ない/出られない)",
         "何回でも confused with verb+ても for the interrogative+ても 'no matter how many times' pattern",
         "時間が多い→時間がある",
-        "いくら～ても not produced"
+        "いくら～ても not produced",
+        "何回 + Vても not produced"
       ],
-      "score": 4,
-      "next_review": "2026-09-21"
+      "score": 2,
+      "next_review": "2026-11-09"
     },
     "UN4GL9::hazudesu": {
       "lesson_file": "grammar-index/grammar/hazudesu-should-do-ought-logically.md",
@@ -1841,7 +1847,7 @@
         "はずだった confused with かもしれません / ことになっていた (external arrangement)"
       ],
       "score": 2,
-      "next_review": "2026-10-07"
+      "next_review": "2026-11-01"
     },
     "UN4GL9::nakutemo-iidesu": {
       "lesson_file": "grammar-index/grammar/nakutemoiidesu-nakutemokamaimasen-doesnt-have-to.md",
@@ -1857,7 +1863,7 @@
         "なくてもいいです conjugation not yet automatic"
       ],
       "score": 4,
-      "next_review": "2026-09-13"
+      "next_review": "2026-10-07"
     },
     "UN4GL9::nakute-wa-narimasen": {
       "lesson_file": "grammar-index/grammar/nakutehanarimasen-nakerebanarimasen-must-have-to.md",
@@ -1880,21 +1886,21 @@
     "UN4GL9::toori-ni": {
       "lesson_file": "grammar-index/grammar/toorini-exactly-as-as-just-like.md",
       "grammar_header": "通(とお)りに。。。 - exactly as, as, just like",
-      "last_reviewed": "2026-08-10",
-      "interval_days": 45,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 97,
       "ease": 2.15,
-      "streak": 7,
-      "total_reviews": 8,
+      "streak": 8,
+      "total_reviews": 9,
       "last_score": 3,
       "weak_points": [
-        "とおりに not produced (Ex21)",
-        "予定どおりに not produced (used の通りに instead)",
-        "予定どおり (without の) form — needed prompting",
         "照合→集合 vocabulary confusion",
-        "embedded-clause subject needs が, not は (部長が言った通りに)"
+        "予定どおりに not produced (used の通りに instead)",
+        "embedded-clause subject needs が, not は (部長が言った通りに)",
+        "dict vs た before とおりに (言う vs 言った)",
+        "なさい conjugation (書きなさい not 書いなさい)"
       ],
       "score": 3,
-      "next_review": "2026-09-24"
+      "next_review": "2027-01-24"
     },
     "UN4GL9::hitsuyou-noun-use": {
       "lesson_file": "grammar-index/grammar/hitsuyou-noun-use-ga-aru-nai.md",
@@ -1913,7 +1919,7 @@
         "unnecessary の nominalizer inserted before 必要がある — V「dict」should attach directly"
       ],
       "score": 2,
-      "next_review": "2026-10-04"
+      "next_review": "2026-10-28"
     },
     "UN4GL9::hitsuyou-na-adjective-use": {
       "lesson_file": "grammar-index/grammar/hitsuyou-na-adjective-use.md",
@@ -1932,7 +1938,7 @@
         "は used instead of が in N+が+必要 predicative construction"
       ],
       "score": 2,
-      "next_review": "2026-10-02"
+      "next_review": "2026-10-27"
     },
     "UN4GL9::noni-purpose": {
       "lesson_file": "grammar-index/grammar/noni-purpose-use.md",
@@ -1951,7 +1957,7 @@
         "swapped ノート/メモ roles (tool vs object) in Vdict+のに sentence"
       ],
       "score": 4,
-      "next_review": "2026-09-16"
+      "next_review": "2026-10-11"
     },
     "UN4GL9::kakeru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/kakeru.md",
@@ -1970,26 +1976,26 @@
         "迷惑をかける use case skipped"
       ],
       "score": 1,
-      "next_review": "2026-09-15"
+      "next_review": "2026-10-09"
     },
     "UN4GL10::jyoukenki-ba": {
       "lesson_file": "grammar-index/grammar/joukenkei-ba-conditional-form.md",
       "grammar_header": "条件形（じょうけんけい）- ば - conditional form",
-      "last_reviewed": "2026-08-17",
-      "interval_days": 8,
+      "last_reviewed": "2026-09-16",
+      "interval_days": 14,
       "ease": 1.75,
-      "streak": 5,
-      "total_reviews": 5,
-      "last_score": 2,
+      "streak": 6,
+      "total_reviews": 6,
+      "last_score": 3,
       "weak_points": [
+        "たら used instead of ば for a general habitual rule (not one-time)",
         "ないで used instead of ば/なければ conditional — conditional form not produced",
         "と not ば for automatic/natural results",
         "result clause confusion with negative",
-        "no answer attempted for negative-ば + volitional result (このかばんを買います)",
-        "なら used instead of ば for a general hypothetical conditional"
+        "no answer attempted for negative-ば + volitional result (このかばんを買います)"
       ],
-      "score": 2,
-      "next_review": "2026-09-10"
+      "score": 3,
+      "next_review": "2026-10-23"
     },
     "UN4GL10::nara": {
       "lesson_file": "grammar-index/grammar/nara-if.md",
@@ -2008,7 +2014,7 @@
         "は used instead of が after なら for the newly-introduced noun"
       ],
       "score": 2,
-      "next_review": "2026-10-02"
+      "next_review": "2026-10-27"
     },
     "UN4GL10::interrogative-ba-ii-desu-ka": {
       "lesson_file": "grammar-index/grammar/v-ba-iidesuka.md",
@@ -2027,7 +2033,7 @@
         "ば-conditional not produced — substituted 〜のがいい nominalization (recurring)"
       ],
       "score": 3,
-      "next_review": "2026-09-30"
+      "next_review": "2026-10-25"
     },
     "UN4GL10::tame-ni": {
       "lesson_file": "grammar-index/grammar/tameni-for-purpose-of.md",
@@ -2046,26 +2052,26 @@
         "stacking のために...ように redundant — chain actions with て-form instead"
       ],
       "score": 4,
-      "next_review": "2026-11-19"
+      "next_review": "2026-11-27"
     },
     "UN4GL10::v-te-kuru-kita": {
       "lesson_file": "grammar-index/grammar/te-kuru-kita-iku.md",
       "grammar_header": "V「て-form」くる / きた / いく — action continuing over time",
-      "last_reviewed": "2026-08-17",
-      "interval_days": 1,
-      "ease": 1.7,
-      "streak": 1,
-      "total_reviews": 5,
-      "last_score": 2,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 2,
+      "ease": 1.55,
+      "streak": 3,
+      "total_reviews": 7,
+      "last_score": 3,
       "weak_points": [
+        "used past-tense なりました for a future-intention statement (needed ようにします/ていきます)",
+        "missing よう in ようになる",
         "てきた vs てくる direction confusion persists (今から+てきます used for past-accumulation context)",
-        "ていく substituted for てくる (different grammar point confused)",
-        "増えられる (potential) used instead of 増えてきた (recurring)",
-        "てくる/ていく not produced — substituted ことにする; お金が→お金を particle slip",
-        "てきた not produced — used ている instead of てきた (recurring); 外国人 kanji typo"
+        "てきます non-past used for past→now accumulation (needs てきました)",
+        "ていく used for change emerging now (needs てきた)"
       ],
-      "score": 2,
-      "next_review": "2026-09-10"
+      "score": 3,
+      "next_review": "2026-11-05"
     },
     "UN4GL10::teru-teta-contraction": {
       "lesson_file": "grammar-index/grammar/teiru-teru-teita-teta-casual-contraction.md",
@@ -2081,7 +2087,7 @@
         "てきた vs ていた→てた confusion"
       ],
       "score": 3,
-      "next_review": "2026-11-15"
+      "next_review": "2026-11-25"
     },
     "UN4GL10::hakkiri": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/hakkiri.md",
@@ -2100,13 +2106,13 @@
         "見える is intransitive → takes が, not を"
       ],
       "score": 3,
-      "next_review": "2026-09-16"
+      "next_review": "2026-10-11"
     },
     "UN4GL1::adjective-to-adverb": {
       "lesson_file": "grammar-index/grammar/adjective-to-adverb.md",
       "grammar_header": "Adjective to Adverb",
       "last_reviewed": "2026-08-05",
-      "next_review": "2026-09-29",
+      "next_review": "2026-10-23",
       "interval_days": 55,
       "ease": 2.8,
       "streak": 4,
@@ -2136,7 +2142,7 @@
       "lesson_file": "grammar-index/grammar/tekuru-action-toward-speaker.md",
       "grammar_header": "～てくる, てきます - Action toward the speaker / returning to the starting point",
       "last_reviewed": "2026-08-09",
-      "next_review": "2026-11-05",
+      "next_review": "2026-11-20",
       "interval_days": 88,
       "ease": 2.65,
       "streak": 4,
@@ -2151,7 +2157,7 @@
       "lesson_file": "grammar-index/grammar/teiku-action-away-from-speaker.md",
       "grammar_header": "～ていく／～て行きます Action moves away from the speaker",
       "last_reviewed": "2026-09-07",
-      "next_review": "2026-11-24",
+      "next_review": "2026-12-01",
       "interval_days": 78,
       "ease": 2.35,
       "streak": 5,
@@ -2169,7 +2175,7 @@
       "lesson_file": "grammar-index/grammar/ittekimasu-go-and-come-back.md",
       "grammar_header": "行ってきます - i go and i'll come back",
       "last_reviewed": "2026-08-14",
-      "next_review": "2026-12-02",
+      "next_review": "2026-12-06",
       "interval_days": 110,
       "ease": 2.8,
       "streak": 4,
@@ -2193,23 +2199,24 @@
         "そう (visual appearance) vs でしょう confused"
       ],
       "score": 4,
-      "next_review": "2026-10-04"
+      "next_review": "2026-10-28"
     },
     "UN4GL1::ndesu-nodesu": {
       "lesson_file": "grammar-index/grammar/ndesu-nodesu-explaining-reason.md",
       "grammar_header": "**んです**/のです - express the situation to provide a reason, explaining something",
-      "last_reviewed": "2026-08-06",
-      "interval_days": 43,
-      "ease": 2.5,
-      "streak": 4,
-      "total_reviews": 4,
+      "last_reviewed": "2026-10-13",
+      "interval_days": 140,
+      "ease": 2.65,
+      "streak": 5,
+      "total_reviews": 5,
       "last_score": 4,
       "weak_points": [
         "んですが intro not produced (skipped) — recurring, jumps straight to request without softening opener",
-        "んです explanatory/reason-connecting nuance not fully articulated"
+        "んです explanatory/reason-connecting nuance not fully articulated",
+        "遅い夜 vs 夜遅く collocation"
       ],
       "score": 4,
-      "next_review": "2026-09-18"
+      "next_review": "2027-03-02"
     },
     "UN4GL1::kadouka": {
       "lesson_file": "grammar-index/grammar/kadouka-whether-or-not.md",
@@ -2230,21 +2237,21 @@
     "UN4GL1::kata": {
       "lesson_file": "grammar-index/grammar/kata-a-way-of-doing.md",
       "grammar_header": "～方（かた） - a way of doing",
-      "last_reviewed": "2026-08-10",
-      "interval_days": 48,
-      "ease": 2.3,
-      "streak": 4,
-      "total_reviews": 5,
-      "last_score": 3,
+      "last_reviewed": "2026-10-21",
+      "interval_days": 144,
+      "ease": 2.45,
+      "streak": 5,
+      "total_reviews": 6,
+      "last_score": 4,
       "weak_points": [
-        "missing を after 作り方 (recurring)",
         "の vs を before 作り方 (recurring)",
         "作り方 vs 使い方 verb-stem confusion",
         "機会/機械 kanji homophone mixup",
-        "を object particle dropped before 使い方 (recurring)"
+        "を object particle dropped before 使い方 (recurring)",
+        "を dropped after 使い方 (recurring)"
       ],
-      "score": 3,
-      "next_review": "2026-09-27"
+      "score": 4,
+      "next_review": "2027-03-14"
     },
     "UN4GL1::sugimasu-sugiru": {
       "lesson_file": "grammar-index/grammar/sugimasu-sugiru-too.md",
@@ -2278,7 +2285,7 @@
         "ちょうど vs もう confusion (ちょうど9時 contradicts already-past meaning)"
       ],
       "score": 3,
-      "next_review": "2026-10-05"
+      "next_review": "2026-10-29"
     },
     "UN4GL1::sara-counter": {
       "lesson_file": "grammar-index/grammar/sara-dishes.md",
@@ -2296,7 +2303,7 @@
         "を particle misplaced — should follow the noun, not the counter"
       ],
       "score": 2,
-      "next_review": "2026-10-08"
+      "next_review": "2026-11-02"
     },
     "UN4GL1::dekiru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/dekiru-can.md",
@@ -2315,7 +2322,7 @@
         "新しい adjective needs the full い ending (not 新し)"
       ],
       "score": 3,
-      "next_review": "2026-10-07"
+      "next_review": "2026-11-01"
     },
     "UN4GL1::nureru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/nureru-to-get-wet.md",
@@ -2330,7 +2337,7 @@
         "群れる vs 濡れる confusion (typo - wrong reading/kanji)"
       ],
       "score": 4,
-      "next_review": "2026-10-23"
+      "next_review": "2026-11-12"
     },
     "UN4GL1::toru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/toru-to-carry-hold-take-pass.md",
@@ -2343,7 +2350,7 @@
       "last_score": 3,
       "weak_points": [],
       "score": 3,
-      "next_review": "2026-10-18"
+      "next_review": "2026-11-08"
     },
     "UN4GL11::causative-form": {
       "lesson_file": "grammar-index/grammar/shiekikei-causative-form.md",
@@ -2362,7 +2369,7 @@
       "last_reviewed": "2026-09-04",
       "last_score": 2,
       "score": 2,
-      "next_review": "2026-10-04"
+      "next_review": "2026-10-28"
     },
     "UN4GL11::is-the-most-important": {
       "lesson_file": "grammar-index/grammar/ngadesu-n-is-the-most-important.md",
@@ -2381,7 +2388,7 @@
       "last_reviewed": "2026-09-06",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-10-25"
+      "next_review": "2026-11-13"
     },
     "UN4GL12::imperative-form": {
       "lesson_file": "grammar-index/grammar/meireikei-imperative-form.md",
@@ -2399,18 +2406,19 @@
     "UN4GL12::vdict-na": {
       "lesson_file": "grammar-index/grammar/vdictna-dont-do.md",
       "grammar_header": "V「dict」＋な - Don't do...",
-      "last_reviewed": "2026-07-30",
-      "interval_days": 14,
+      "last_reviewed": "2026-09-19",
+      "interval_days": 33,
       "ease": 2.35,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 3,
       "weak_points": [
         "no attempt made this session (idk)",
-        "wrong verb for prohibition context"
+        "wrong verb for prohibition context",
+        "register clash: polite です after blunt 入るな (use plain 会議中だ)"
       ],
-      "score": 4,
-      "next_review": "2026-09-11"
+      "score": 3,
+      "next_review": "2026-11-09"
     },
     "UN4GL12::masukei-nasai": {
       "lesson_file": "grammar-index/grammar/masu-nasai-giving-instructions.md",
@@ -2427,7 +2435,7 @@
         "なさい attached to full ます form instead of stem"
       ],
       "score": 4,
-      "next_review": "2026-09-13"
+      "next_review": "2026-10-07"
     },
     "UN4GL12::noni": {
       "lesson_file": "grammar-index/grammar/noni-even-though.md",
@@ -2446,7 +2454,7 @@
         "past た-form required before のに"
       ],
       "score": 2,
-      "next_review": "2026-09-15"
+      "next_review": "2026-10-09"
     },
     "UN4GL12::n-ga-shimasu": {
       "lesson_file": "grammar-index/grammar/n-ga-shimasu.md",
@@ -2464,7 +2472,7 @@
         "did not produce におい/音/味/気 + がする construction"
       ],
       "score": 2,
-      "next_review": "2026-09-15"
+      "next_review": "2026-10-09"
     },
     "UN4GL12::n-no-hou-ga-adj-desu": {
       "lesson_file": "grammar-index/grammar/n-nohouga-adj-desu-n-is-more-adj.md",
@@ -2482,7 +2490,7 @@
         "adjective choice mismatch (好き vs いい)"
       ],
       "score": 2,
-      "next_review": "2026-09-16"
+      "next_review": "2026-10-11"
     },
     "UN4GL12::toiu-imi-desu": {
       "lesson_file": "grammar-index/grammar/toiuimidesu-means.md",
@@ -2502,20 +2510,21 @@
     "UN4GL12::moshi": {
       "lesson_file": "grammar-index/grammar/moshi-if.md",
       "grammar_header": "もし - if",
-      "last_reviewed": "2026-08-17",
+      "last_reviewed": "2026-10-19",
       "interval_days": 1,
-      "ease": 1.8,
-      "streak": 1,
-      "total_reviews": 4,
+      "ease": 1.5,
+      "streak": 3,
+      "total_reviews": 6,
       "last_score": 2,
       "weak_points": [
         "世界中を旅行する garbled as 世界中旅行にいきます",
         "vocabulary error (東京 mistyped)",
         "もし omitted again (recurring); 便利 vs 都合 vocabulary mismatch",
-        "もし omitted again (recurring — 3rd+ session)"
+        "もし omitted again (recurring)",
+        "ば vs たら for hypotheticals"
       ],
       "score": 2,
-      "next_review": "2026-09-10"
+      "next_review": "2026-11-11"
     },
     "UN4GL2::toka-toka": {
       "lesson_file": "grammar-index/grammar/tokatoka-enumerate-examples.md",
@@ -2531,13 +2540,13 @@
         "sentence left incomplete after とか...とか - needs object marker + verb"
       ],
       "score": 2,
-      "next_review": "2026-09-16"
+      "next_review": "2026-10-11"
     },
     "UN4GL2::node": {
       "lesson_file": "grammar-index/grammar/node-because.md",
       "grammar_header": "。。。ので - because",
       "last_reviewed": "2026-08-02",
-      "next_review": "2026-09-16",
+      "next_review": "2026-10-11",
       "interval_days": 5,
       "ease": 2.2,
       "streak": 2,
@@ -2556,7 +2565,7 @@
       "lesson_file": "grammar-index/grammar/nnara-as-for.md",
       "grammar_header": "Nなら - as for,  jesli o tym mowa",
       "last_reviewed": "2026-08-02",
-      "next_review": "2026-09-14",
+      "next_review": "2026-10-08",
       "interval_days": 9,
       "ease": 2.35,
       "streak": 2,
@@ -2572,7 +2581,7 @@
       "lesson_file": "grammar-index/grammar/ha-contrastive-topic-marker.md",
       "grammar_header": "は - marks a phrase (already carrying another particle) as a contrastive topic",
       "last_reviewed": "2026-08-02",
-      "next_review": "2026-09-25",
+      "next_review": "2026-10-20",
       "interval_days": 25,
       "ease": 2.5,
       "streak": 3,
@@ -2586,24 +2595,24 @@
     "UN4GL2::vte-itadakemasenka": {
       "lesson_file": "grammar-index/grammar/itadakemasenka-polite-request.md",
       "grammar_header": "Vて いただけませんか - polite requests. Politer than てください",
-      "last_reviewed": "2026-08-02",
-      "next_review": "2026-09-17",
-      "interval_days": 5,
+      "last_reviewed": "2026-10-13",
+      "next_review": "2026-11-02",
+      "interval_days": 11,
       "ease": 2.2,
-      "streak": 2,
-      "total_reviews": 2,
-      "last_score": 2,
+      "streak": 3,
+      "total_reviews": 3,
+      "last_score": 3,
       "weak_points": [
         "incomplete sentence produced - vocabulary gap, not grammar",
-        "who/what content still incomplete (recurring)"
+        "who/what/when content omitted (recurring)"
       ],
-      "score": 2
+      "score": 3
     },
     "UN4GL2::vte-agemasu": {
       "lesson_file": "grammar-index/grammar/vte-agemasu.md",
       "grammar_header": "Aは + Bに + Vて形 + あげます - I do something for someone",
       "last_reviewed": "2026-09-02",
-      "next_review": "2026-09-30",
+      "next_review": "2026-10-25",
       "interval_days": 28,
       "ease": 2.35,
       "streak": 4,
@@ -2618,49 +2627,56 @@
     "UN4GL2::vte-kuremasu": {
       "lesson_file": "grammar-index/grammar/vte-kuremasu.md",
       "grammar_header": "Vて形 + くれます - Someone does something to me",
-      "last_reviewed": "2026-08-02",
-      "next_review": "2026-09-17",
-      "interval_days": 5,
+      "last_reviewed": "2026-10-13",
+      "next_review": "2026-11-02",
+      "interval_days": 11,
       "ease": 2.2,
-      "streak": 2,
-      "total_reviews": 2,
-      "last_score": 2,
+      "streak": 3,
+      "total_reviews": 3,
+      "last_score": 3,
       "weak_points": [
         "手伝う object particle: を not に",
-        "missing embedded verb for 'help do X' (のを手伝う)",
-        "missing の nominalizer before を in Vdictのを手伝う (recurring)"
+        "missing の nominalizer before を in Vdictのを手伝う (recurring)",
+        "missing embedded verb for 'help do X' (のを手伝う) — recurring",
+        "もらえませんか (request) used instead of くれた (completed favor)",
+        "register: casual くれた with close friend"
       ],
-      "score": 2
+      "score": 3
     },
     "UN4GL2::vte-moraimasu": {
       "lesson_file": "grammar-index/grammar/vte-moraimasu.md",
       "grammar_header": "Vて形 + もらいます - somebody helped you with something that you asked to do",
-      "last_reviewed": "2026-08-03",
-      "next_review": "2026-09-17",
-      "interval_days": 9,
-      "ease": 2.35,
-      "streak": 2,
-      "total_reviews": 2,
-      "last_score": 3,
+      "last_reviewed": "2026-10-13",
+      "next_review": "2026-11-06",
+      "interval_days": 11,
+      "ease": 2.2,
+      "streak": 3,
+      "total_reviews": 3,
+      "last_score": 2,
       "weak_points": [
-        "giver/receiver particle swap (giver marked に, receiver is subject は)",
         "もらえませんか (request) used instead of もらいました (completed favor)",
-        "exercise skipped — giver-marked-に + past もらいました pattern still needs practice"
+        "exercise skipped — giver-marked-に + past もらいました pattern still needs practice",
+        "passive/potential 開けられた used instead of てもらいました",
+        "person asked takes に (田中さんに頼む)",
+        "potential 開けられなかった for 'couldn't'"
       ],
-      "score": 3
+      "score": 2
     },
     "UN4GL2::vte-arimasu": {
       "lesson_file": "grammar-index/grammar/vte-arimasu-resultant-state.md",
       "grammar_header": "Vて形 + あります - explain conditions/situations of an object - current or continuous states",
-      "last_reviewed": "2026-08-03",
-      "next_review": "2026-09-18",
-      "interval_days": 9,
+      "last_reviewed": "2026-10-13",
+      "next_review": "2026-11-03",
+      "interval_days": 21,
       "ease": 2.35,
-      "streak": 2,
-      "total_reviews": 2,
+      "streak": 3,
+      "total_reviews": 3,
       "last_score": 3,
       "weak_points": [
-        "てある state-description pattern - not attempted"
+        "てある state-description pattern - not attempted",
+        "agent (誰か) included with てある",
+        "を→が object switch not applied",
+        "ありました vs あります (current state)"
       ],
       "score": 3
     },
@@ -2707,100 +2723,105 @@
         "どうですか present-tense pattern not produced (asked for translation)"
       ],
       "score": 2,
-      "next_review": "2026-10-08"
+      "next_review": "2026-11-02"
     },
     "UN5GL8::and-kute": {
       "lesson_file": "grammar-index/grammar/i-kute.md",
       "grammar_header": "い -> くて",
-      "last_reviewed": "2026-07-29",
-      "interval_days": 51,
-      "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
+      "last_reviewed": "2026-10-13",
+      "interval_days": 196,
+      "ease": 3.1,
+      "streak": 4,
+      "total_reviews": 4,
       "last_score": 4,
       "weak_points": [
         "狭い (narrow) used instead of 小さい (small) — vocab meaning slip",
-        "did not explain why final-adjective tense governs whole くて sentence"
+        "did not explain why final-adjective tense governs whole くて sentence",
+        "final adjective past tense not applied — recurring"
       ],
       "score": 4,
-      "next_review": "2026-09-18"
+      "next_review": "2027-04-27"
     },
     "UN5GL8::but-ga": {
       "lesson_file": "grammar-index/grammar/contrastive-ga-but.md",
       "grammar_header": "But -  が",
-      "last_reviewed": "2026-08-17",
-      "interval_days": 14,
-      "ease": 2.35,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
+      "last_reviewed": "2026-09-16",
+      "interval_days": 17,
+      "ease": 2.2,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 2,
       "weak_points": [
+        "missing だ/です before が for な-adjective (recurring)",
         "は vs が confusion for topic (adjectives)",
         "ですが required before が for adjectives (not bare が)",
         "泊まる misread/miswritten as たまる — correct reading is とまる",
-        "missing です before が for い-adjective (bare adjective+が)",
-        "missing だ before が for な-adjective (元気だが, not 元気が)"
+        "missing です before が for い-adjective (bare adjective+が)"
       ],
-      "score": 4,
-      "next_review": "2026-09-10"
+      "score": 2,
+      "next_review": "2026-11-03"
     },
     "UN5GL8::ha-vs-ga": {
       "lesson_file": "grammar-index/grammar/ha-vs-ga.md",
       "grammar_header": "は vs が",
-      "last_reviewed": "2026-08-17",
-      "interval_days": 14,
-      "ease": 2.35,
-      "streak": 3,
-      "total_reviews": 3,
+      "last_reviewed": "2026-09-16",
+      "interval_days": 43,
+      "ease": 2.5,
+      "streak": 4,
+      "total_reviews": 4,
       "last_score": 4,
       "weak_points": [
         "used は instead of が when highlighting/pointing out the answer among options",
         "used は instead of が when highlighting/pointing out the answer among options (recurred)"
       ],
       "score": 4,
-      "next_review": "2026-09-10"
+      "next_review": "2026-11-16"
     },
     "UN5GL8::tomaru-ni": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/tomaru-to-stay-the-night.md",
       "grammar_header": "泊まる（とまる）- to stay the night",
-      "last_reviewed": "2026-08-14",
-      "interval_days": 39,
-      "ease": 2.65,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
+      "last_reviewed": "2026-10-18",
+      "interval_days": 47,
+      "ease": 2.5,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 2,
       "weak_points": [
-        "double に error — needs の to link two nouns (フランスのホテル), not フランスに…ホテルに"
+        "double に error — needs の to link two nouns (フランスのホテル), not フランスに…ホテルに",
+        "で instead of に with 泊まる"
       ],
-      "score": 4,
-      "next_review": "2026-09-22"
+      "score": 2,
+      "next_review": "2026-12-04"
     },
     "UN5GL8::shiru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/shiru.md",
       "grammar_header": "知る - to know",
-      "last_reviewed": "2026-07-28",
-      "interval_days": 45,
+      "last_reviewed": "2026-09-19",
+      "interval_days": 126,
       "ease": 2.8,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 3,
       "weak_points": [
-        "知る's negative is 知りません, not the て-iru form 知っていません"
+        "知る's negative is 知りません, not the て-iru form 知っていません",
+        "plain 知らない used where polite 知りません required; いや → いいえ"
       ],
-      "score": 4,
-      "next_review": "2026-09-11"
+      "score": 3,
+      "next_review": "2027-01-24"
     },
     "UN4GL13::dai-counter": {
       "lesson_file": "grammar-index/grammar/dai-counter.md",
       "grammar_header": "台(だい) - urządzenia mechaniczne, elektroniczne, pojazdy",
-      "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-10",
-      "interval_days": 9,
+      "last_reviewed": "2026-09-16",
+      "next_review": "2026-10-27",
+      "interval_days": 21,
       "ease": 2.35,
-      "streak": 2,
-      "total_reviews": 2,
+      "streak": 3,
+      "total_reviews": 3,
       "last_score": 3,
       "weak_points": [
+        "を used instead of が for existence sentence (recurring)",
+        "missing あります after counter",
         "存在文（あります）は「が」（「を」ではない）",
         "台 counter pattern not produced (skipped)"
       ],
@@ -2810,7 +2831,7 @@
       "lesson_file": "grammar-index/grammar/sonkeikei-passive-form.md",
       "grammar_header": "1. **動詞(どうし)の尊敬形(そんけいけい) - respectful forms of verbs**",
       "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-13",
+      "next_review": "2026-10-07",
       "interval_days": 5,
       "ease": 2.2,
       "streak": 2,
@@ -2825,23 +2846,23 @@
     "UN4GL13::sonkeigo-special-verbs": {
       "lesson_file": "grammar-index/grammar/tokubetsunadoushi-special-verbs.md",
       "grammar_header": "**2. 特別な動詞（とくべつなどうし）- special verbs**",
-      "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-10",
-      "interval_days": 9,
-      "ease": 2.35,
-      "streak": 2,
-      "total_reviews": 2,
-      "last_score": 3,
+      "last_reviewed": "2026-09-16",
+      "next_review": "2026-11-02",
+      "interval_days": 27,
+      "ease": 2.5,
+      "streak": 3,
+      "total_reviews": 3,
+      "last_score": 4,
       "weak_points": [
         "special respectful verbs not produced (skipped)"
       ],
-      "score": 3
+      "score": 4
     },
     "UN4GL13::sonkeigo-o-masu-ni-naru": {
       "lesson_file": "grammar-index/grammar/o-vmasu-ninarimasu.md",
       "grammar_header": "**3. お + V「ます形」になります**",
       "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-13",
+      "next_review": "2026-10-07",
       "interval_days": 5,
       "ease": 2.2,
       "streak": 2,
@@ -2856,72 +2877,79 @@
     "UN4GL13::o-go-prefix": {
       "lesson_file": "grammar-index/grammar/sonkeigo-o-go-prefix-nouns-adjectives-adverbs.md",
       "grammar_header": "Nouns, adjectives, adverbs",
-      "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-11",
-      "interval_days": 1,
-      "ease": 2.15,
-      "streak": 0,
-      "total_reviews": 2,
-      "last_score": 1,
+      "last_reviewed": "2026-10-19",
+      "next_review": "2026-11-11",
+      "interval_days": 5,
+      "ease": 2.0,
+      "streak": 2,
+      "total_reviews": 4,
+      "last_score": 2,
       "weak_points": [
-        "お・ご prefix選択（訓読み→お、音読み→ご）",
-        "お・ご keigo prefix not produced (skipped)"
+        "お・ご keigo prefix not produced (skipped)",
+        "ご住所 omitted — ご prefix on 音読み word not produced",
+        "お・ご prefix not produced (recurring)",
+        "お電話 exception (お not ご)",
+        "いただけませんか potential form"
       ],
-      "score": 1
+      "score": 2
     },
     "UN4GL13::kochira-sochira-achira-dochira-sama": {
       "lesson_file": "grammar-index/grammar/sonkeigo-polite-people-reference.md",
       "grammar_header": "People",
-      "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-11",
-      "interval_days": 1,
-      "ease": 2.15,
-      "streak": 0,
-      "total_reviews": 2,
-      "last_score": 1,
+      "last_reviewed": "2026-09-19",
+      "next_review": "2026-11-04",
+      "interval_days": 4,
+      "ease": 2.0,
+      "streak": 1,
+      "total_reviews": 3,
+      "last_score": 2,
       "weak_points": [
         "だれ vs どちら＋様（間接的な丁寧表現）",
-        "こちら／どちら＋様 pattern not produced (skipped)"
+        "こちら／どちら＋様 pattern not produced (skipped)",
+        "あの方 vs こちら (person reference)",
+        "さん vs 様 (name + title dropped)"
       ],
-      "score": 1
+      "score": 2
     },
     "UN4GL13::te-itadaku": {
       "lesson_file": "grammar-index/grammar/te-form-itadaku-kudasaru-favor-received.md",
       "grammar_header": "Vて形＋いただく (favor received, kenjougo)",
-      "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-11",
-      "interval_days": 1,
-      "ease": 2.15,
-      "streak": 0,
-      "total_reviews": 2,
-      "last_score": 1,
+      "last_reviewed": "2026-09-19",
+      "next_review": "2026-11-04",
+      "interval_days": 4,
+      "ease": 2.0,
+      "streak": 1,
+      "total_reviews": 3,
+      "last_score": 2,
       "weak_points": [
         "いただく: benefactorは「に」でマーク（「は」ではない）",
-        "Vて形＋いただく not produced (skipped)"
+        "Vて形＋いただく not produced (skipped)",
+        "いただけました (potential) vs いただきました"
       ],
-      "score": 1
+      "score": 2
     },
     "UN4GL13::te-kudasaru": {
       "lesson_file": "grammar-index/grammar/te-form-itadaku-kudasaru-favor-received.md",
       "grammar_header": "Vて形＋くださる (favor given, sonkeigo)",
-      "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-11",
-      "interval_days": 1,
-      "ease": 2.15,
-      "streak": 0,
-      "total_reviews": 2,
-      "last_score": 1,
+      "last_reviewed": "2026-09-19",
+      "next_review": "2026-11-04",
+      "interval_days": 4,
+      "ease": 2.0,
+      "streak": 1,
+      "total_reviews": 3,
+      "last_score": 2,
       "weak_points": [
         "くださる vs いただく の視点の違い",
-        "Vて形＋くださる not produced (skipped)"
+        "Vて形＋くださる not produced (skipped)",
+        "potential いただけました instead of くださいました"
       ],
-      "score": 1
+      "score": 2
     },
     "UN4GL13::te-kudasaimasenka": {
       "lesson_file": "grammar-index/grammar/kudasaimasenka-polite-request.md",
       "grammar_header": "Vて形＋くださいませんか politer form of くれませんか - could you please (do smth for me)",
       "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-13",
+      "next_review": "2026-10-07",
       "interval_days": 5,
       "ease": 2.2,
       "streak": 2,
@@ -2937,7 +2965,7 @@
       "lesson_file": "grammar-index/grammar/baai-in-case-of-if.md",
       "grammar_header": "。。。場合は, 。。。 - in case of, if",
       "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-13",
+      "next_review": "2026-10-07",
       "interval_days": 5,
       "ease": 2.2,
       "streak": 2,
@@ -2952,23 +2980,23 @@
     "UN4GL13::kenjougo-haiken-ukagau": {
       "lesson_file": "grammar-index/grammar/kenjougo-humble-expressions.md",
       "grammar_header": "謙譲語（けんじょうご） - humble expressions",
-      "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-11",
-      "interval_days": 9,
-      "ease": 2.35,
-      "streak": 2,
-      "total_reviews": 2,
-      "last_score": 3,
+      "last_reviewed": "2026-09-19",
+      "next_review": "2026-11-05",
+      "interval_days": 11,
+      "ease": 2.2,
+      "streak": 3,
+      "total_reviews": 3,
+      "last_score": 2,
       "weak_points": [
         "謙譲語 拝見する not produced (skipped)"
       ],
-      "score": 3
+      "score": 2
     },
     "UN4GL13::teineigo-gozaimasu": {
       "lesson_file": "grammar-index/grammar/gozaimasu-polite-arimasu-desu.md",
       "grammar_header": "ございます - polite arimasu、desu",
       "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-14",
+      "next_review": "2026-10-08",
       "interval_days": 5,
       "ease": 2.2,
       "streak": 2,
@@ -2984,7 +3012,7 @@
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/nakanaka-quite.md",
       "grammar_header": "なかなか - quite",
       "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-14",
+      "next_review": "2026-10-08",
       "interval_days": 5,
       "ease": 2.2,
       "streak": 2,
@@ -3000,7 +3028,7 @@
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/hotondo-almost-amount.md",
       "grammar_header": "ほとんど - almost (amount)",
       "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-14",
+      "next_review": "2026-10-08",
       "interval_days": 5,
       "ease": 2.2,
       "streak": 2,
@@ -3016,7 +3044,7 @@
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/shiraseru-to-inform-let-know.md",
       "grammar_header": "知らせる（し）- to inform, let know",
       "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-14",
+      "next_review": "2026-10-08",
       "interval_days": 5,
       "ease": 2.2,
       "streak": 2,
@@ -3032,7 +3060,7 @@
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/bun-portion-range.md",
       "grammar_header": "分(ぶん) - portion, range",
       "last_reviewed": "2026-08-18",
-      "next_review": "2026-09-15",
+      "next_review": "2026-10-09",
       "interval_days": 5,
       "ease": 2.2,
       "streak": 2,
@@ -3047,57 +3075,64 @@
     "UN5GL9::general-counter-1-10": {
       "lesson_file": "grammar-index/grammar/general-counting-method-1-10.md",
       "grammar_header": "General counting method (1-10)",
-      "last_reviewed": "2026-08-06",
-      "interval_days": 51,
+      "last_reviewed": "2026-10-21",
+      "interval_days": 150,
       "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
-      "weak_points": [],
-      "next_review": "2026-09-27",
-      "score": 4
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 3,
+      "weak_points": [
+        "native series preferred ≤10 (みっつ not さんこ)",
+        "missing predicate — counter given without full sentence"
+      ],
+      "next_review": "2027-03-21",
+      "score": 3
     },
     "UN5GL9::ko-counter": {
       "lesson_file": "grammar-index/grammar/ko-small-things-counter.md",
       "grammar_header": "個 (こ) - small things counter",
-      "last_reviewed": "2026-08-06",
-      "interval_days": 51,
+      "last_reviewed": "2026-10-21",
+      "interval_days": 150,
       "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 3,
       "weak_points": [
         "missing predicate/verb when producing counter sentences",
-        "sound-change reading for 八個 (はっこ) unverified"
+        "sound-change reading for 八個 (はっこ) unverified",
+        "sound change 十八個 → じゅうはっこ",
+        "missing predicate — counter given without full sentence"
       ],
-      "next_review": "2026-09-27",
-      "score": 4
+      "next_review": "2027-03-21",
+      "score": 3
     },
     "UN5GL9::mei-counter": {
       "lesson_file": "grammar-index/grammar/mei-counter-for-people-polite.md",
       "grammar_header": "名 (めい) - counter for people (polite)",
-      "last_reviewed": "2026-08-07",
-      "interval_days": 51,
-      "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
+      "last_reviewed": "2026-10-21",
+      "interval_days": 196,
+      "ease": 3.1,
+      "streak": 4,
+      "total_reviews": 4,
       "last_score": 4,
       "weak_points": [],
       "score": 4,
-      "next_review": "2026-09-27"
+      "next_review": "2027-05-05"
     },
     "UN5GL9::na-adj-na-noun": {
       "lesson_file": "grammar-index/grammar/na-nouns.md",
       "grammar_header": "な形容詞 + Nouns",
-      "last_reviewed": "2026-08-07",
-      "interval_days": 51,
-      "ease": 2.95,
-      "streak": 3,
-      "total_reviews": 3,
+      "last_reviewed": "2026-10-21",
+      "interval_days": 196,
+      "ease": 3.1,
+      "streak": 4,
+      "total_reviews": 4,
       "last_score": 4,
-      "weak_points": [],
+      "weak_points": [
+        "も replaces は (町も静かです)"
+      ],
       "score": 4,
-      "next_review": "2026-09-27"
+      "next_review": "2027-05-05"
     },
     "UN5GL9::na-adj-overview": {
       "lesson_file": "grammar-index/grammar/na-adjective-overview.md",
@@ -3113,7 +3148,7 @@
         "avoided な-adjective by substituting い-adjective 難しい instead of producing na-adj past negative conjugation (大変ではありませんでした)"
       ],
       "score": 3,
-      "next_review": "2026-09-15"
+      "next_review": "2026-10-09"
     },
     "UN5GL9::n-na-adj-desu": {
       "lesson_file": "grammar-index/grammar/naadj-noun.md",
@@ -3125,7 +3160,7 @@
       "total_reviews": 3,
       "last_score": 4,
       "weak_points": [],
-      "next_review": "2026-10-01",
+      "next_review": "2026-10-26",
       "score": 4
     },
     "UN5GL9::n1-na-adj-na-n2": {
@@ -3140,7 +3175,7 @@
       "weak_points": [
         "produced predicative sentence (Nはadjです) instead of attributive な+N noun phrase"
       ],
-      "next_review": "2026-11-04",
+      "next_review": "2026-11-19",
       "score": 4
     },
     "UN5GL9::n-na-adj-de": {
@@ -3155,26 +3190,27 @@
       "weak_points": [
         "plain negative じゃない vs polite ではありません"
       ],
-      "next_review": "2026-10-01",
+      "next_review": "2026-10-26",
       "score": 4
     },
     "UN5GL9::kara-because": {
       "lesson_file": "grammar-index/grammar/kara-because.md",
       "grammar_header": "から - because",
-      "last_reviewed": "2026-08-12",
-      "interval_days": 38,
-      "ease": 2.88,
-      "streak": 3,
-      "total_reviews": 6,
-      "last_score": 4,
+      "last_reviewed": "2026-10-14",
+      "interval_days": 46,
+      "ease": 2.73,
+      "streak": 4,
+      "total_reviews": 7,
+      "last_score": 2,
       "weak_points": [
-        "still avoiding 寝ましょう — used ことにします instead of the volitional (recurring: reaches for ことにする in intention/suggestion contexts)",
         "missing な in な-adjective + noun (大事な試験)",
         "寝る conjugation: なましょう is invalid, needs 寝ましょう",
-        "one-character adjective ending slip (美味し vs 美味しい)"
+        "one-character adjective ending slip (美味し vs 美味しい)",
+        "ので used instead of から before own suggestion",
+        "polite volitional 寝ましょう (ねろう / 練 kanji)"
       ],
-      "next_review": "2026-09-20",
-      "score": 4
+      "next_review": "2026-11-29",
+      "score": 2
     },
     "UN5GL9::yo-particle": {
       "lesson_file": "grammar-index/grammar/yo.md",
@@ -3189,7 +3225,7 @@
         "explanation of よ vs ね contrast incomplete (only covered よ, not ね)",
         "い-adjective + だ before よ — い-adjectives never take だ (寒いだよ → 寒いですよ/寒いよ)"
       ],
-      "next_review": "2026-11-05",
+      "next_review": "2026-11-20",
       "score": 4
     },
     "UN5GL9::taihen": {
@@ -3205,7 +3241,7 @@
         "confused 大変 with 難しい; needs past tense でした"
       ],
       "score": 4,
-      "next_review": "2026-10-04"
+      "next_review": "2026-10-28"
     },
     "UN5GL9::takusan": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/takusan.md",
@@ -3224,7 +3260,7 @@
         "dropped location phrase / plain ある vs polite あります"
       ],
       "score": 3,
-      "next_review": "2026-10-11"
+      "next_review": "2026-11-03"
     },
     "UN5GL9::itsumo": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/itsumo-always-usual.md",
@@ -3238,7 +3274,7 @@
       "weak_points": [
         "dropped の — いつも(の) noun-modifier vs adverb いつも distinction"
       ],
-      "next_review": "2026-10-06",
+      "next_review": "2026-10-30",
       "score": 3
     },
     "UN5GL9::betsubetsu": {
@@ -3253,25 +3289,25 @@
       "weak_points": [
         "別々 takes に before the verb, not で"
       ],
-      "next_review": "2026-10-16",
+      "next_review": "2026-11-06",
       "score": 4
     },
     "UN5GL9::tokoro": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/tokoro.md",
       "grammar_header": "所（ところ）",
-      "last_reviewed": "2026-09-02",
-      "interval_days": 11,
-      "ease": 2.2,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 3,
+      "last_reviewed": "2026-10-21",
+      "interval_days": 31,
+      "ease": 2.35,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 4,
       "weak_points": [
         "missing な before 所 when a な-adjective modifies it (recurred yet again)",
         "missing な before 所 when a な-adjective (真面目) modifies it (recurred - not attempted this session)",
         "いい所に construction for timing sense not attempted (recurred)"
       ],
-      "score": 3,
-      "next_review": "2026-09-27"
+      "score": 4,
+      "next_review": "2026-11-22"
     },
     "UN5GL10::personal-pronouns-i": {
       "interval_days": 18,
@@ -3286,7 +3322,7 @@
       "last_reviewed": "2026-09-09",
       "last_score": 2,
       "score": 2,
-      "next_review": "2026-10-02"
+      "next_review": "2026-10-27"
     },
     "UN5GL10::personal-pronouns-you-third-person": {
       "interval_days": 51,
@@ -3299,7 +3335,7 @@
       "last_reviewed": "2026-08-17",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-10-07"
+      "next_review": "2026-11-01"
     },
     "UN5GL10::stopniowanie": {
       "interval_days": 51,
@@ -3314,7 +3350,7 @@
       "last_reviewed": "2026-08-17",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-10-07"
+      "next_review": "2026-11-01"
     },
     "UN5GL10::go-somewhere-for-a-certain-objective": {
       "interval_days": 14,
@@ -3331,13 +3367,13 @@
       "last_reviewed": "2026-09-09",
       "last_score": 2,
       "score": 2,
-      "next_review": "2026-10-07"
+      "next_review": "2026-11-01"
     },
     "UN5GL10::n1-wa-n2-ga-adj": {
-      "interval_days": 12,
-      "ease": 2.5,
-      "streak": 3,
-      "total_reviews": 3,
+      "interval_days": 39,
+      "ease": 2.65,
+      "streak": 4,
+      "total_reviews": 4,
       "weak_points": [
         "used なら (conditional) instead of N1は N2が construction",
         "fell back to の-possessive phrasing instead of the target pattern",
@@ -3345,10 +3381,10 @@
       ],
       "lesson_file": "grammar-index/grammar/n1-ha-n2-ga-adj-desu-n2-is-a-trait-feature-of-n1.md",
       "grammar_header": "N1 は N2 が ADJ です — N2 is a trait/feature of N1",
-      "last_reviewed": "2026-08-17",
-      "last_score": 3,
-      "score": 3,
-      "next_review": "2026-09-10"
+      "last_reviewed": "2026-09-16",
+      "last_score": 4,
+      "score": 4,
+      "next_review": "2026-11-11"
     },
     "UN5GL10::made-ni-time": {
       "interval_days": 51,
@@ -3361,7 +3397,7 @@
       "last_reviewed": "2026-08-17",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-10-07"
+      "next_review": "2026-11-01"
     },
     "UN5GL10::made-place": {
       "interval_days": 63,
@@ -3377,7 +3413,7 @@
       "last_reviewed": "2026-09-07",
       "last_score": 3,
       "score": 3,
-      "next_review": "2026-11-09"
+      "next_review": "2026-11-23"
     },
     "UN5GL10::nakereba-narimasen": {
       "interval_days": 34,
@@ -3393,22 +3429,23 @@
       "last_reviewed": "2026-08-13",
       "last_score": 3,
       "score": 3,
-      "next_review": "2026-09-16"
+      "next_review": "2026-10-11"
     },
     "UN5GL10::abbreviation-ga-ha-wo-ni": {
-      "interval_days": 17,
-      "ease": 2.65,
-      "streak": 3,
-      "total_reviews": 3,
+      "interval_days": 20,
+      "ease": 2.5,
+      "streak": 4,
+      "total_reviews": 4,
       "weak_points": [
+        "particle omission not demonstrated — kept full particle instead of dropping it (recurring)",
         "abbreviation/particle-drop not attempted — needs review of casual speech particle omission"
       ],
       "lesson_file": "grammar-index/grammar/particle-omission-ga-ha-wo-ni.md",
       "grammar_header": "Particle omission — が、は、を、(に)",
-      "last_reviewed": "2026-08-17",
+      "last_reviewed": "2026-09-16",
       "last_score": 2,
       "score": 2,
-      "next_review": "2026-09-10"
+      "next_review": "2026-11-03"
     },
     "UN5GL10::suki-kirai": {
       "interval_days": 51,
@@ -3421,22 +3458,23 @@
       "last_reviewed": "2026-08-17",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-10-07"
+      "next_review": "2026-11-01"
     },
     "UN5GL10::jouzu-heta": {
-      "interval_days": 45,
-      "ease": 2.8,
-      "streak": 3,
-      "total_reviews": 3,
+      "interval_days": 164,
+      "ease": 2.95,
+      "streak": 4,
+      "total_reviews": 4,
       "weak_points": [
-        "substituted 得意 for 上手 — drill targets 上手 specifically"
+        "substituted 得意 for 上手 — drill targets 上手 specifically",
+        "作り alone ≠ cooking — 料理が下手"
       ],
       "lesson_file": "grammar-index/grammar/be-good-poor-at-jouzu-heta.md",
       "grammar_header": "Be good/poor at 上手・下手",
-      "last_reviewed": "2026-08-13",
+      "last_reviewed": "2026-10-21",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-09-27"
+      "next_review": "2027-04-04"
     },
     "UN5GL10::doushite": {
       "interval_days": 51,
@@ -3449,7 +3487,7 @@
       "last_reviewed": "2026-08-17",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-10-07"
+      "next_review": "2026-11-01"
     },
     "UN5GL10::donna-n": {
       "interval_days": 51,
@@ -3464,7 +3502,7 @@
       "last_reviewed": "2026-08-17",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-10-01"
+      "next_review": "2026-10-26"
     },
     "UN5GL10::wakaru": {
       "interval_days": 14,
@@ -3477,7 +3515,7 @@
       "last_reviewed": "2026-07-30",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-09-13"
+      "next_review": "2026-10-07"
     },
     "UN5GL10::shiru": {
       "interval_days": 14,
@@ -3490,7 +3528,7 @@
       "last_reviewed": "2026-07-30",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-09-13"
+      "next_review": "2026-10-07"
     },
     "UN5GL10::kaesu": {
       "interval_days": 14,
@@ -3505,7 +3543,7 @@
       "last_reviewed": "2026-07-30",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-09-13"
+      "next_review": "2026-10-07"
     },
     "UN5GL10::kakaru": {
       "interval_days": 29,
@@ -3521,7 +3559,7 @@
       "last_reviewed": "2026-08-17",
       "last_score": 3,
       "score": 3,
-      "next_review": "2026-09-15"
+      "next_review": "2026-10-09"
     },
     "UN5GL10::ageru": {
       "interval_days": 14,
@@ -3534,7 +3572,7 @@
       "last_reviewed": "2026-07-31",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-09-15"
+      "next_review": "2026-10-09"
     },
     "UN5GL10::kasu": {
       "interval_days": 14,
@@ -3547,7 +3585,7 @@
       "last_reviewed": "2026-07-31",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-09-15"
+      "next_review": "2026-10-09"
     },
     "UN5GL10::oshieru": {
       "interval_days": 14,
@@ -3560,7 +3598,7 @@
       "last_reviewed": "2026-07-31",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-09-15"
+      "next_review": "2026-10-09"
     },
     "UN5GL10::morau": {
       "interval_days": 45,
@@ -3576,7 +3614,7 @@
       "last_reviewed": "2026-08-17",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-10-01"
+      "next_review": "2026-10-26"
     },
     "UN5GL10::kariru": {
       "interval_days": 14,
@@ -3591,7 +3629,7 @@
       "last_reviewed": "2026-07-31",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-09-16"
+      "next_review": "2026-10-11"
     },
     "UN5GL10::narau": {
       "interval_days": 11,
@@ -3606,159 +3644,173 @@
       "last_reviewed": "2026-08-02",
       "last_score": 3,
       "score": 3,
-      "next_review": "2026-09-15"
+      "next_review": "2026-10-09"
     },
     "UN5GL11::n-wo-vs-n-wa": {
       "lesson_file": "grammar-index/grammar/n-wo-vs-n-ha.md",
       "grammar_header": "N＋を　vs N＋は",
-      "interval_days": 5,
+      "interval_days": 12,
       "ease": 2.5,
-      "streak": 2,
-      "total_reviews": 2,
+      "streak": 3,
+      "total_reviews": 3,
       "weak_points": [
         "資料 (materials) confused with 料理 (cooking) — kanji mix-up",
-        "explain は/を with topic-vs-object framing, not just 'は = subject'"
+        "explain は/を with topic-vs-object framing, not just 'は = subject'",
+        "は on object = topic, not subject (topic-vs-object framing)"
       ],
-      "last_reviewed": "2026-08-03",
-      "last_score": 2,
-      "next_review": "2026-09-20",
-      "score": 2
+      "last_reviewed": "2026-10-14",
+      "last_score": 3,
+      "next_review": "2026-11-03",
+      "score": 3
     },
     "UN5GL11::v-teiru-teinai": {
       "lesson_file": "grammar-index/grammar/v-teiru-teinai.md",
       "grammar_header": "V ている / ていない",
-      "interval_days": 14,
-      "ease": 2.8,
-      "streak": 2,
-      "total_reviews": 2,
+      "interval_days": 51,
+      "ease": 2.95,
+      "streak": 3,
+      "total_reviews": 3,
       "weak_points": [
         "で vs に particle with 座る (location of sitting)"
       ],
-      "last_reviewed": "2026-08-03",
+      "last_reviewed": "2026-10-13",
       "last_score": 4,
-      "next_review": "2026-09-18",
+      "next_review": "2026-12-03",
       "score": 4
     },
     "UN5GL11::dareka": {
       "lesson_file": "grammar-index/grammar/dareka-someone.md",
       "grammar_header": "だれか - someone",
-      "interval_days": 14,
-      "ease": 2.8,
-      "streak": 2,
-      "total_reviews": 2,
+      "interval_days": 51,
+      "ease": 2.95,
+      "streak": 3,
+      "total_reviews": 3,
       "weak_points": [
         "did not explain contrast with alternative form (だれ+name／だれも) when asked"
       ],
-      "last_reviewed": "2026-08-04",
+      "last_reviewed": "2026-10-15",
       "last_score": 4,
-      "next_review": "2026-09-21",
+      "next_review": "2026-12-06",
       "score": 4
     },
     "UN5GL11::daremo": {
       "lesson_file": "grammar-index/grammar/daremo-nobodu.md",
       "grammar_header": "だれも - nobodu",
-      "interval_days": 11,
+      "interval_days": 29,
       "ease": 2.65,
-      "streak": 2,
-      "total_reviews": 2,
+      "streak": 3,
+      "total_reviews": 3,
       "weak_points": [
-        "だれか used instead of だれも for \"nobody\" context"
+        "だれか used instead of だれも for \"nobody\" context",
+        "で→に for existence with いる",
+        "polite register: いませんでした"
       ],
-      "last_reviewed": "2026-08-04",
+      "last_reviewed": "2026-10-14",
       "last_score": 3,
-      "next_review": "2026-09-20",
+      "next_review": "2026-11-12",
       "score": 3
     },
     "UN5GL11::nanika": {
       "lesson_file": "grammar-index/grammar/ka-something.md",
       "grammar_header": "何か - something",
-      "interval_days": 14,
+      "interval_days": 39,
       "ease": 2.8,
-      "streak": 2,
-      "total_reviews": 2,
-      "weak_points": [],
-      "last_reviewed": "2026-08-04",
-      "last_score": 4,
-      "next_review": "2026-09-21",
-      "score": 4
+      "streak": 3,
+      "total_reviews": 3,
+      "weak_points": [
+        "何も used in affirmative question instead of 何か",
+        "何か omitted before adjective + もの"
+      ],
+      "last_reviewed": "2026-10-15",
+      "last_score": 3,
+      "next_review": "2026-11-23",
+      "score": 3
     },
     "UN5GL11::nanimo": {
       "lesson_file": "grammar-index/grammar/mo-nothing.md",
       "grammar_header": "何も - nothing",
-      "interval_days": 11,
-      "ease": 2.65,
-      "streak": 2,
-      "total_reviews": 2,
+      "interval_days": 38,
+      "ease": 2.8,
+      "streak": 3,
+      "total_reviews": 3,
       "weak_points": [
         "で→に for existence (recurred)",
         "何も requires negative predicate — used affirmative form (残った) instead"
       ],
-      "last_reviewed": "2026-08-04",
-      "last_score": 3,
-      "next_review": "2026-09-20",
-      "score": 3
+      "last_reviewed": "2026-10-14",
+      "last_score": 4,
+      "next_review": "2026-11-22",
+      "score": 4
     },
     "UN5GL11::dokoka": {
       "lesson_file": "grammar-index/grammar/dokoka-somewhere-anywhere.md",
       "grammar_header": "どこか - somewhere, anywhere",
-      "interval_days": 13,
+      "interval_days": 34,
       "ease": 2.65,
-      "streak": 2,
-      "total_reviews": 2,
+      "streak": 3,
+      "total_reviews": 3,
       "weak_points": [
-        "missing へ particle before movement verb"
+        "missing へ particle before movement verb",
+        "question line with どこかへ omitted",
+        "いけません vs 行きません"
       ],
-      "last_reviewed": "2026-08-03",
-      "last_score": 4,
-      "next_review": "2026-09-18",
-      "score": 4
+      "last_reviewed": "2026-10-13",
+      "last_score": 3,
+      "next_review": "2026-11-16",
+      "score": 3
     },
     "UN5GL11::dokomo-dokoemo": {
       "lesson_file": "grammar-index/grammar/dokomo-dokohemo-nowhere.md",
       "grammar_header": "どこも/どこへも - nowhere",
-      "interval_days": 14,
-      "ease": 2.8,
-      "streak": 2,
-      "total_reviews": 2,
-      "weak_points": [],
-      "last_reviewed": "2026-08-04",
+      "interval_days": 51,
+      "ease": 2.95,
+      "streak": 3,
+      "total_reviews": 3,
+      "weak_points": [
+        "past of いる: いた vs いった"
+      ],
+      "last_reviewed": "2026-10-18",
       "last_score": 4,
-      "next_review": "2026-09-22",
+      "next_review": "2026-12-08",
       "score": 4
     },
     "UN5GL11::mada": {
       "lesson_file": "grammar-index/grammar/mada-still-not-yet.md",
       "grammar_header": "まだ - still, not yet",
-      "interval_days": 21,
-      "ease": 2.35,
-      "streak": 3,
-      "total_reviews": 3,
+      "interval_days": 64,
+      "ease": 2.5,
+      "streak": 4,
+      "total_reviews": 4,
       "weak_points": [
         "まだ＋Vていません construction — wrong verb/tense used instead of the ongoing negative form",
         "まだです (no-verb) confused with まだ+Vていません",
-        "で vs に particle in 存在文"
+        "で vs に particle in 存在文",
+        "まだです short answer omitted (recurring)",
+        "plain form used where polite requested"
       ],
-      "last_reviewed": "2026-09-02",
-      "last_score": 3,
-      "next_review": "2026-09-27",
-      "score": 3
+      "last_reviewed": "2026-10-21",
+      "last_score": 4,
+      "next_review": "2026-12-24",
+      "score": 4
     },
     "UN5GL11::mou": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/mou-already-soon.md",
       "grammar_header": "もう already, soon",
-      "interval_days": 13,
+      "interval_days": 34,
       "ease": 2.65,
-      "streak": 2,
-      "total_reviews": 2,
+      "streak": 3,
+      "total_reviews": 3,
       "weak_points": [
         "missing が particle with もう+counter",
         "Vている used instead of plain form after もう+counter",
-        "missing full dialogue reply"
+        "missing full dialogue reply",
+        "incomplete dialogue — question omitted (recurring)",
+        "全然 vs もう + negative (no longer)"
       ],
-      "last_reviewed": "2026-08-03",
-      "last_score": 4,
-      "next_review": "2026-09-18",
-      "score": 4
+      "last_reviewed": "2026-10-13",
+      "last_score": 3,
+      "next_review": "2026-11-16",
+      "score": 3
     },
     "UN5GL11::mae-ni": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/mae-ni-before.md",
@@ -3773,7 +3825,7 @@
       ],
       "last_reviewed": "2026-09-03",
       "last_score": 4,
-      "next_review": "2026-10-12",
+      "next_review": "2026-11-04",
       "score": 4
     },
     "UN5GL11::ato-de": {
@@ -3789,39 +3841,40 @@
       ],
       "last_reviewed": "2026-09-04",
       "last_score": 3,
-      "next_review": "2026-10-04",
+      "next_review": "2026-10-28",
       "score": 3
     },
     "UN5GL11::tekara": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/kara-specify-order-of-things.md",
       "grammar_header": "から Specify order of things",
-      "interval_days": 11,
-      "ease": 2.65,
-      "streak": 2,
-      "total_reviews": 2,
+      "interval_days": 13,
+      "ease": 2.5,
+      "streak": 3,
+      "total_reviews": 3,
       "weak_points": [
-        "終わる (intransitive) used with を instead of が — needs 終える for transitive"
+        "終わる (intransitive) used with を instead of が — needs 終える for transitive",
+        "後で after dictionary form instead of た-form / てから not produced"
       ],
-      "last_reviewed": "2026-08-04",
-      "last_score": 3,
-      "next_review": "2026-09-21",
-      "score": 3
+      "last_reviewed": "2026-10-15",
+      "last_score": 2,
+      "next_review": "2026-11-09",
+      "score": 2
     },
     "UN5GL11::sai-counter": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/years-old.md",
       "grammar_header": "Years old",
-      "interval_days": 13,
-      "ease": 2.65,
-      "streak": 2,
-      "total_reviews": 2,
+      "interval_days": 45,
+      "ease": 2.8,
+      "streak": 3,
+      "total_reviews": 3,
       "weak_points": [
         "は/の confusion when linking possessor + noun",
         "友達は→友達の (possessor+noun linking, recurring)",
         "used あります instead of です/います for a person's age statement"
       ],
-      "last_reviewed": "2026-08-03",
+      "last_reviewed": "2026-10-15",
       "last_score": 4,
-      "next_review": "2026-09-21",
+      "next_review": "2026-11-29",
       "score": 4
     },
     "UN5GL11::okuru": {
@@ -3838,30 +3891,31 @@
       ],
       "last_reviewed": "2026-09-03",
       "last_score": 3,
-      "next_review": "2026-09-30",
+      "next_review": "2026-10-25",
       "score": 3
     },
     "UN5GL11::naru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/naru-become.md",
       "grammar_header": "なる - become",
-      "interval_days": 14,
-      "ease": 2.8,
-      "streak": 2,
-      "total_reviews": 2,
+      "interval_days": 51,
+      "ease": 2.95,
+      "streak": 3,
+      "total_reviews": 3,
       "weak_points": [
         "past vs non-past tense (になりました vs になります)",
-        "wrong adjective choice (古い vs 寒い)"
+        "wrong adjective choice (古い vs 寒い)",
+        "register: plain used where polite requested"
       ],
-      "last_reviewed": "2026-08-05",
+      "last_reviewed": "2026-10-19",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-09-23"
+      "next_review": "2026-12-09"
     },
     "UN4GL14::kenjougo-tokubetsunadoushi": {
       "lesson_file": "grammar-index/grammar/kenjougo-tokubetsunadoushi.md",
       "grammar_header": "特別な動詞（とくべつなどうし）",
       "last_reviewed": "2026-09-05",
-      "next_review": "2026-10-04",
+      "next_review": "2026-10-28",
       "interval_days": 1,
       "ease": 2.1,
       "streak": 0,
@@ -3877,7 +3931,7 @@
       "lesson_file": "grammar-index/grammar/o-go-v-masushimasu.md",
       "grammar_header": "お・ご V『ます形」します",
       "last_reviewed": "2026-09-05",
-      "next_review": "2026-10-05",
+      "next_review": "2026-10-29",
       "interval_days": 2,
       "ease": 2.3,
       "streak": 1,
@@ -3892,7 +3946,7 @@
       "lesson_file": "grammar-index/grammar/o-go-v-masuitashimasu.md",
       "grammar_header": "お・ご V「ます形」いたします",
       "last_reviewed": "2026-09-05",
-      "next_review": "2026-10-05",
+      "next_review": "2026-10-29",
       "interval_days": 2,
       "ease": 2.3,
       "streak": 1,
@@ -3908,7 +3962,7 @@
       "lesson_file": "grammar-index/grammar/teineigo-polite-expressions.md",
       "grammar_header": "丁寧語（ていねいご) - Polite expressions",
       "last_reviewed": "2026-09-05",
-      "next_review": "2026-10-04",
+      "next_review": "2026-10-28",
       "interval_days": 1,
       "ease": 2.15,
       "streak": 1,
@@ -3924,7 +3978,7 @@
       "lesson_file": "grammar-index/grammar/uchi-soto-in-group-out-group.md",
       "grammar_header": "ウチ・ソト (Uchi-Soto) - In-group / Out-group",
       "last_reviewed": "2026-09-05",
-      "next_review": "2026-10-05",
+      "next_review": "2026-10-29",
       "interval_days": 1,
       "ease": 2.15,
       "streak": 1,
@@ -3940,7 +3994,7 @@
       "lesson_file": "grammar-index/grammar/vteorimasu-humble-progressive-state-form.md",
       "grammar_header": "V「て形」おります - Humble progressive / state form",
       "last_reviewed": "2026-09-05",
-      "next_review": "2026-10-05",
+      "next_review": "2026-10-29",
       "interval_days": 1,
       "ease": 2.15,
       "streak": 1,
@@ -3956,7 +4010,7 @@
       "lesson_file": "grammar-index/grammar/vteirasshaimasu-respectful-progressive-state-form.md",
       "grammar_header": "V「て形」いらっしゃいます - Respectful (尊敬語) progressive/state form",
       "last_reviewed": "2026-09-05",
-      "next_review": "2026-10-05",
+      "next_review": "2026-10-29",
       "interval_days": 1,
       "ease": 2.15,
       "streak": 1,
@@ -3972,7 +4026,7 @@
       "lesson_file": "grammar-index/grammar/o-go-v-masukudasai-respectful-request-form.md",
       "grammar_header": "お/ご V「ます形」ください - Respectful request form (尊敬語)",
       "last_reviewed": "2026-09-05",
-      "next_review": "2026-10-05",
+      "next_review": "2026-10-29",
       "interval_days": 1,
       "ease": 2.15,
       "streak": 1,
@@ -3997,7 +4051,7 @@
       "last_reviewed": "2026-09-06",
       "last_score": 2,
       "score": 2,
-      "next_review": "2026-10-06",
+      "next_review": "2026-10-30",
       "weak_points": [
         "を vs に for intransitive causative object marking (recurred again — 学生に instead of 学生を)",
         "帰る causative conjugation (帰らせる, not 帰させる) — godan exception verb — recurring error",
@@ -4015,7 +4069,7 @@
       "last_reviewed": "2026-09-06",
       "last_score": 3,
       "score": 3,
-      "next_review": "2026-10-05",
+      "next_review": "2026-10-29",
       "weak_points": [
         "新入生 vs 新人 - wrong word choice for 'new employee' (used 'new student' instead)",
         "missing の in 子供の頃",
@@ -4032,7 +4086,7 @@
       "last_reviewed": "2026-09-06",
       "last_score": 1,
       "score": 1,
-      "next_review": "2026-10-06",
+      "next_review": "2026-10-30",
       "weak_points": [
         "could not produce either causative-request tier this session (moderate or highest superior)",
         "causative+ていただけませんか not produced (skipped)",
@@ -4049,7 +4103,7 @@
       "streak": 1,
       "total_reviews": 1,
       "weak_points": [],
-      "next_review": "2026-09-16",
+      "next_review": "2026-10-11",
       "last_reviewed": "2026-08-02",
       "last_score": 3,
       "score": 3
@@ -4057,119 +4111,134 @@
     "UN4GL8::n1-ha-n2-ni-passive-was-v-by-n2": {
       "lesson_file": "grammar-index/grammar/n1-ha-n2-ni-passive-was-v-by-n2.md",
       "grammar_header": "N1 + は  + N2 + に + V「passive form」- **N1 was V by N2**",
-      "interval_days": 4,
-      "ease": 2.65,
-      "streak": 1,
-      "total_reviews": 1,
+      "interval_days": 5,
+      "ease": 2.5,
+      "streak": 2,
+      "total_reviews": 2,
       "weak_points": [
-        "N1/N2 role reversal in passive (topic vs agent confusion)"
+        "N1/N2 role reversal in passive (topic vs agent confusion)",
+        "vocab: かむ → passive かまれる"
       ],
-      "next_review": "2026-09-17",
-      "last_reviewed": "2026-08-02",
-      "last_score": 4,
-      "score": 4
+      "next_review": "2026-11-08",
+      "last_reviewed": "2026-10-13",
+      "last_score": 2,
+      "score": 2
     },
     "UN4GL8::passive-n3-wo-affected-person": {
       "lesson_file": "grammar-index/grammar/passive-n3-wo-affected-person.md",
       "grammar_header": "N1 + は  + N2 + に N3 + を + V「passive form」- representing bad/good result of action on someone",
-      "interval_days": 4,
+      "interval_days": 10,
       "ease": 2.5,
-      "streak": 1,
-      "total_reviews": 1,
+      "streak": 2,
+      "total_reviews": 2,
       "weak_points": [
-        "vocabulary gaps block affected-person passive production"
+        "vocabulary gaps block affected-person passive production",
+        "active 盗みました instead of passive 盗まれました",
+        "誰 (who) vs 誰か (someone)"
       ],
-      "next_review": "2026-09-17",
-      "last_reviewed": "2026-08-02",
+      "next_review": "2026-11-03",
+      "last_reviewed": "2026-10-13",
       "last_score": 3,
       "score": 3
     },
     "UN4GL8::n-ha-ga-v-passive-form-passing-information": {
       "lesson_file": "grammar-index/grammar/n-ha-ga-v-passive-form-passing-information.md",
       "grammar_header": "N + は/が + V 「passive form」- passing information",
-      "interval_days": 4,
+      "interval_days": 9,
       "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
+      "streak": 2,
+      "total_reviews": 2,
       "weak_points": [
-        "が used instead of は for definite/specific topic in passive-info pattern"
+        "が used instead of は for definite/specific topic in passive-info pattern",
+        "passive + ている sentence omitted",
+        "城 vocab gap"
       ],
-      "next_review": "2026-09-18",
-      "last_reviewed": "2026-08-02",
-      "last_score": 2,
-      "score": 2
+      "next_review": "2026-11-03",
+      "last_reviewed": "2026-10-13",
+      "last_score": 3,
+      "score": 3
     },
     "UN4GL8::n-ha-ga-n-kara-de-v-passive-form-material-ingredient": {
       "lesson_file": "grammar-index/grammar/n-ha-ga-n-kara-de-v-passive-form-material-ingredient.md",
       "grammar_header": "N + は/が N + から/で + V 「passive form」- Material, ingredient",
-      "interval_days": 4,
+      "interval_days": 9,
       "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
+      "streak": 2,
+      "total_reviews": 2,
       "weak_points": [
         "が→は recurring across から/で material passive",
-        "革(leather) vocabulary gap"
+        "革(leather) vocabulary gap",
+        "革 (leather) vocab gap — recurring",
+        "general-fact tense 作られます/ています vs 作られた"
       ],
-      "next_review": "2026-09-18",
-      "last_reviewed": "2026-08-02",
-      "last_score": 2,
-      "score": 2
+      "next_review": "2026-11-03",
+      "last_reviewed": "2026-10-13",
+      "last_score": 3,
+      "score": 3
     },
     "UN5GL13::hoshii-i-want-n": {
       "lesson_file": "grammar-index/grammar/hoshii-i-want-n.md",
       "grammar_header": "ほしい - i want N",
-      "last_reviewed": "2026-08-05",
-      "interval_days": 4,
-      "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
-      "last_score": 2,
+      "last_reviewed": "2026-10-18",
+      "interval_days": 12,
+      "ease": 2.5,
+      "streak": 2,
+      "total_reviews": 2,
+      "last_score": 4,
       "weak_points": [
         "かぶる vs 着る (hat verb)",
-        "いかがですか offer form"
+        "いかがですか offer form",
+        "negative ほしくない takes は not が"
       ],
-      "next_review": "2026-09-22"
+      "next_review": "2026-11-04",
+      "score": 4
     },
     "UN5GL13::yori-comparing-2-things": {
       "lesson_file": "grammar-index/grammar/yori-than-comparing-2-things.md",
       "grammar_header": "より than - comparing 2 things",
-      "last_reviewed": "2026-08-05",
-      "interval_days": 4,
+      "last_reviewed": "2026-10-19",
+      "interval_days": 11,
       "ease": 2.65,
-      "streak": 1,
-      "total_reviews": 1,
-      "last_score": 4,
-      "weak_points": [],
-      "next_review": "2026-09-23"
+      "streak": 2,
+      "total_reviews": 2,
+      "last_score": 3,
+      "weak_points": [
+        "い-adj past 高かった (not 高いでした)"
+      ],
+      "next_review": "2026-11-05",
+      "score": 3
     },
     "UN5GL13::dochira-no-hou-ga": {
       "lesson_file": "grammar-index/grammar/comparsion-dochira-nohouga.md",
       "grammar_header": "comparsion どちら・ の方が (のほうが)",
-      "last_reviewed": "2026-08-05",
-      "interval_days": 4,
-      "ease": 2.5,
-      "streak": 1,
-      "total_reviews": 1,
-      "last_score": 3,
+      "last_reviewed": "2026-10-18",
+      "interval_days": 13,
+      "ease": 2.65,
+      "streak": 2,
+      "total_reviews": 2,
+      "last_score": 4,
       "weak_points": [
         "どちらが...ですか — missing が/か",
         "extra が before の方が"
       ],
-      "next_review": "2026-09-22"
+      "next_review": "2026-11-05",
+      "score": 4
     },
     "UN5GL13::no-naka-de-ichiban": {
       "lesson_file": "grammar-index/grammar/node-best-among.md",
       "grammar_header": "の中で一番 best among",
-      "last_reviewed": "2026-08-05",
-      "interval_days": 4,
+      "last_reviewed": "2026-10-18",
+      "interval_days": 10,
       "ease": 2.5,
-      "streak": 1,
-      "total_reviews": 1,
+      "streak": 2,
+      "total_reviews": 2,
       "last_score": 3,
       "weak_points": [
-        "どこ vs どれ for locations"
+        "どこ vs どれ for locations",
+        "extra が in 一番が好き"
       ],
-      "next_review": "2026-09-22"
+      "next_review": "2026-11-04",
+      "score": 3
     },
     "UN5GL13::adj-no-substitute-of-noun": {
       "lesson_file": "grammar-index/grammar/adjno-substitute-of-noun.md",
@@ -4181,22 +4250,25 @@
       "total_reviews": 2,
       "last_score": 4,
       "weak_points": [],
-      "next_review": "2026-10-01",
+      "next_review": "2026-10-26",
       "score": 4
     },
     "UN5GL13::wo-kudasai": {
       "lesson_file": "grammar-index/grammar/wokudasai-please-give-me.md",
       "grammar_header": "をください - please give me",
-      "last_reviewed": "2026-08-05",
-      "interval_days": 4,
+      "last_reviewed": "2026-10-18",
+      "interval_days": 10,
       "ease": 2.5,
-      "streak": 1,
-      "total_reviews": 1,
+      "streak": 2,
+      "total_reviews": 2,
       "last_score": 3,
       "weak_points": [
-        "を particle + counter (三つ vs 分)"
+        "を particle + counter (三つ vs 分)",
+        "あの needs a noun after it",
+        "は instead of を on requested item"
       ],
-      "next_review": "2026-09-22"
+      "next_review": "2026-11-04",
+      "score": 3
     },
     "UN5GL13::choudo": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/choudo-perfect-situation-just.md",
@@ -4208,7 +4280,7 @@
       "total_reviews": 2,
       "last_score": 4,
       "weak_points": [],
-      "next_review": "2026-10-04",
+      "next_review": "2026-10-28",
       "score": 4
     },
     "UN5GL13::to-omoimasu": {
@@ -4221,24 +4293,26 @@
       "total_reviews": 2,
       "last_score": 4,
       "weak_points": [],
-      "next_review": "2026-10-05",
+      "next_review": "2026-10-29",
       "score": 4
     },
     "UN5GL13::to-iimasu": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/v-dict-toimasu-say.md",
       "grammar_header": "V-dict + と言います - say",
-      "last_reviewed": "2026-08-05",
-      "interval_days": 4,
-      "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
+      "last_reviewed": "2026-10-18",
+      "interval_days": 5,
+      "ease": 2.2,
+      "streak": 2,
+      "total_reviews": 2,
       "last_score": 2,
       "weak_points": [
         "direct quote brackets「」missing",
         "indirect report keeps plain たい not past たかった",
-        "country name spelling マレーシア"
+        "country name spelling マレーシア",
+        "何と言いますか for \"how do you say X\""
       ],
-      "next_review": "2026-09-22"
+      "next_review": "2026-11-10",
+      "score": 2
     },
     "UN5GL15::listing-activities-vtari-shimasu": {
       "lesson_file": "grammar-index/grammar/tari.md",
@@ -4253,7 +4327,7 @@
       "weak_points": [
         "たり-form confused with たい (want to)"
       ],
-      "next_review": "2026-10-02"
+      "next_review": "2026-10-27"
     },
     "UN5GL15::nagara-while": {
       "lesson_file": "grammar-index/grammar/nagara.md",
@@ -4266,7 +4340,7 @@
       "streak": 2,
       "total_reviews": 2,
       "weak_points": [],
-      "next_review": "2026-10-02"
+      "next_review": "2026-10-27"
     },
     "UN5GL15::a-toki-b-while-a-b": {
       "lesson_file": "grammar-index/grammar/toki-non-past.md",
@@ -4284,7 +4358,7 @@
         "past tense required before とき for completed past action",
         "で vs に after location — で marks action, に marks existence (いない/いる)"
       ],
-      "next_review": "2026-10-02"
+      "next_review": "2026-10-27"
     },
     "UN5GL15::vta-toki-v-after-doing": {
       "lesson_file": "grammar-index/grammar/toki-past.md",
@@ -4299,7 +4373,7 @@
       "weak_points": [
         "avoided target とき construction, used てから／た後で instead"
       ],
-      "next_review": "2026-10-02"
+      "next_review": "2026-10-27"
     },
     "UN5GL15::shumi-hobby": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/shumi-hobby.md",
@@ -4312,7 +4386,7 @@
       "streak": 2,
       "total_reviews": 2,
       "weak_points": [],
-      "next_review": "2026-10-02"
+      "next_review": "2026-10-27"
     },
     "UN5GL15::watasu-to-hand-over": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/watasu-to-hand-over.md",
@@ -4327,7 +4401,7 @@
       "weak_points": [
         "渡す confused with 渡る (transitive hand-over vs intransitive cross)"
       ],
-      "next_review": "2026-10-01"
+      "next_review": "2026-10-26"
     },
     "UN5GL15::wataru-to-cross": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/wataru.md",
@@ -4342,7 +4416,7 @@
       "weak_points": [
         "渡る confused with 渡す (reverse of watasu's confusion)"
       ],
-      "next_review": "2026-10-01"
+      "next_review": "2026-10-26"
     },
     "UN5GL14::vnaide-kudasai": {
       "lesson_file": "grammar-index/grammar/vnaidekudasai-please-dont-do-it.md",
@@ -4357,7 +4431,7 @@
         "wrong verb 覚える vs 忘れる; used でなさい instead of でください"
       ],
       "score": 4,
-      "next_review": "2026-09-29"
+      "next_review": "2026-10-23"
     },
     "UN5GL14::vnaku-nakutemoiidesu": {
       "lesson_file": "grammar-index/grammar/vnai-nakutemoiidesu-does-not-have-to.md",
@@ -4373,7 +4447,7 @@
         "を used instead of に after 電話する (target person)"
       ],
       "score": 3,
-      "next_review": "2026-10-06"
+      "next_review": "2026-10-30"
     },
     "UN5GL14::vplain-n-noun-modifier": {
       "lesson_file": "grammar-index/grammar/vplain-n-use-verb-to-modify-noun.md",
@@ -4388,7 +4462,7 @@
         "で vs に (place of action, not location of existence)"
       ],
       "score": 3,
-      "next_review": "2026-09-28"
+      "next_review": "2026-10-22"
     },
     "UN5GL14::ga-contrast-topic": {
       "lesson_file": "grammar-index/grammar/contrastive-ga-but.md",
@@ -4405,7 +4479,7 @@
         "added unnecessary です after すみません before が"
       ],
       "score": 3,
-      "next_review": "2026-10-06"
+      "next_review": "2026-10-30"
     },
     "UN5GL14::subject-de-v": {
       "lesson_file": "grammar-index/grammar/subject-de-v-who-performs-action.md",
@@ -4421,7 +4495,7 @@
         "で marking who performs action still not produced (used クラスの全部は instead)"
       ],
       "score": 3,
-      "next_review": "2026-10-06"
+      "next_review": "2026-10-30"
     },
     "UN5GL14::n-dake": {
       "lesson_file": "grammar-index/grammar/ndake-only-n.md",
@@ -4434,7 +4508,7 @@
       "last_score": 3,
       "weak_points": [],
       "score": 3,
-      "next_review": "2026-09-28"
+      "next_review": "2026-10-22"
     },
     "UN5GL14::counter-kai": {
       "lesson_file": "grammar-index/grammar/times.md",
@@ -4449,7 +4523,7 @@
         "missing に after time-period counter (一年に２回)"
       ],
       "score": 3,
-      "next_review": "2026-09-28"
+      "next_review": "2026-10-22"
     },
     "UN5GL14::counter-hiki": {
       "lesson_file": "grammar-index/grammar/hiki-small-animals-fish-insects.md",
@@ -4464,7 +4538,7 @@
         "existence with animate counters: に...が...います (not で/を/あります)"
       ],
       "score": 3,
-      "next_review": "2026-09-28"
+      "next_review": "2026-10-22"
     },
     "UN5GL14::counter-hai": {
       "lesson_file": "grammar-index/grammar/hai-pai-bai-number-of-cups-glasses-of-liquid.md",
@@ -4479,7 +4553,7 @@
         "三杯 rendaku: さんばい not さんはい"
       ],
       "score": 3,
-      "next_review": "2026-10-06"
+      "next_review": "2026-10-30"
     },
     "UN5GL14::counter-hon": {
       "lesson_file": "grammar-index/grammar/hon-long-items.md",
@@ -4494,7 +4568,7 @@
         "counter number/reading accuracy (本 rendaku forms)"
       ],
       "score": 3,
-      "next_review": "2026-09-28"
+      "next_review": "2026-10-22"
     },
     "UN5GL14::counter-satsu": {
       "lesson_file": "grammar-index/grammar/satsu-number-of-books.md",
@@ -4507,7 +4581,7 @@
       "last_score": 4,
       "weak_points": [],
       "score": 4,
-      "next_review": "2026-09-29"
+      "next_review": "2026-10-23"
     },
     "UN5GL14::kai-period": {
       "lesson_file": "grammar-index/grammar/kai-frequency.md",
@@ -4523,7 +4597,7 @@
         "週(しゅう) written as 種(しゅ) — kanji confusion"
       ],
       "score": 3,
-      "next_review": "2026-10-06"
+      "next_review": "2026-10-30"
     },
     "UN5GL14::hanasu": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/hana-to-talk.md",
@@ -4540,7 +4614,7 @@
         "を with 話す's language object still avoided (used potential form 話せます＋が)"
       ],
       "score": 3,
-      "next_review": "2026-10-06"
+      "next_review": "2026-10-30"
     },
     "UN5GL14::shitsumon-suru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/shitsumonsuru-to-ask-question.md",
@@ -4555,7 +4629,7 @@
         "confuses 質問する with the plain noun 質問; can't yet distinguish register from 聞く/伺う"
       ],
       "score": 3,
-      "next_review": "2026-10-06"
+      "next_review": "2026-10-30"
     },
     "UN5GL14::kotaeru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/kota-to-answer.md",
@@ -4570,7 +4644,7 @@
         "に vs を after 答える — target of answer uses に"
       ],
       "score": 3,
-      "next_review": "2026-10-07"
+      "next_review": "2026-11-01"
     },
     "UN5GL14::oku": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/o-to-put-down.md",
@@ -4583,7 +4657,7 @@
       "last_score": 4,
       "weak_points": [],
       "score": 4,
-      "next_review": "2026-09-28"
+      "next_review": "2026-10-22"
     },
     "UN5GL14::tanomu": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/tano-to-askfor-help-entrust.md",
@@ -4598,23 +4672,26 @@
         "頼む vs 手伝う confusion — used a direct request (手伝ってください-style) instead of 頼む for the 'ask for help' use case"
       ],
       "score": 3,
-      "next_review": "2026-09-28"
+      "next_review": "2026-10-22"
     },
     "UN5GL14::yobu": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/yo-to-call-invite.md",
       "grammar_header": "呼ぶ（よ）- to call, invite",
-      "last_reviewed": "2026-09-02",
-      "interval_days": 5,
-      "ease": 2.5,
-      "streak": 2,
-      "total_reviews": 2,
-      "last_score": 2,
+      "last_reviewed": "2026-10-21",
+      "interval_days": 16,
+      "ease": 2.65,
+      "streak": 3,
+      "total_reviews": 3,
+      "last_score": 4,
       "weak_points": [
         "呼ぶ vs 誘う confusion — still hedges between both (recurring)",
-        "used 誘う instead of taught 呼ぶ"
+        "used 誘う instead of taught 呼ぶ",
+        "plain form used where polite requested (呼んでいます／呼びましょう)",
+        "が for scene description, not は",
+        "no 私に with タクシーを呼んでください"
       ],
-      "score": 2,
-      "next_review": "2026-09-27"
+      "score": 4,
+      "next_review": "2026-11-06"
     },
     "UN5GL14::miseru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/miseru-to-show.md",
@@ -4627,7 +4704,7 @@
       "last_score": 4,
       "weak_points": [],
       "score": 4,
-      "next_review": "2026-09-28"
+      "next_review": "2026-10-22"
     },
     "UN4GL15::tokoro-desu-dict-form": {
       "lesson_file": "grammar-index/grammar/tokoro-desu-dict-form.md",
@@ -4641,7 +4718,7 @@
       ],
       "last_reviewed": "2026-09-09",
       "last_score": 2,
-      "next_review": "2026-10-08",
+      "next_review": "2026-11-02",
       "score": 2
     },
     "UN4GL15::tokoro-desu-teiru-form": {
@@ -4656,7 +4733,7 @@
       ],
       "last_reviewed": "2026-09-07",
       "last_score": 2,
-      "next_review": "2026-09-29",
+      "next_review": "2026-10-23",
       "score": 2
     },
     "UN4GL15::tokoro-desu-ta-form": {
@@ -4671,7 +4748,7 @@
       ],
       "last_reviewed": "2026-09-07",
       "last_score": 2,
-      "next_review": "2026-09-29",
+      "next_review": "2026-10-23",
       "score": 2
     },
     "UN4GL15::marude": {
@@ -4688,7 +4765,7 @@
       ],
       "last_reviewed": "2026-09-07",
       "last_score": 2,
-      "next_review": "2026-09-29",
+      "next_review": "2026-10-23",
       "score": 2
     },
     "UN4GL15::you-desu": {
@@ -4705,7 +4782,7 @@
       ],
       "last_reviewed": "2026-09-08",
       "last_score": 3,
-      "next_review": "2026-09-29",
+      "next_review": "2026-10-23",
       "score": 3
     },
     "UN4GL15::you-ni-narimasu-naku-narimasu": {
@@ -4722,7 +4799,7 @@
       ],
       "last_reviewed": "2026-09-03",
       "last_score": 1,
-      "next_review": "2026-09-30",
+      "next_review": "2026-10-25",
       "score": 1
     },
     "UN4GL15::you-ni-shimasu": {
@@ -4738,7 +4815,7 @@
       ],
       "last_reviewed": "2026-09-03",
       "last_score": 1,
-      "next_review": "2026-09-30",
+      "next_review": "2026-10-25",
       "score": 1
     },
     "UN4GL15::te-form-hoshii-desu": {
@@ -4753,7 +4830,7 @@
       ],
       "last_reviewed": "2026-09-04",
       "last_score": 3,
-      "next_review": "2026-10-04",
+      "next_review": "2026-10-28",
       "score": 3
     },
     "UN4GL15::jou-tatami-counter": {
@@ -4768,7 +4845,7 @@
       ],
       "last_reviewed": "2026-09-09",
       "last_score": 3,
-      "next_review": "2026-10-13",
+      "next_review": "2026-11-05",
       "score": 3
     },
     "UN4GL15::yoru-stop-by": {
@@ -4783,7 +4860,7 @@
       ],
       "last_reviewed": "2026-09-03",
       "last_score": 1,
-      "next_review": "2026-09-30",
+      "next_review": "2026-10-25",
       "score": 1
     },
     "UN4GL15::au-match": {
@@ -4800,188 +4877,224 @@
       ],
       "last_reviewed": "2026-09-08",
       "last_score": 2,
-      "next_review": "2026-10-08",
+      "next_review": "2026-11-02",
       "score": 2
     },
     "UN4GL1::konna-sonna-anna-demonstrative": {
       "lesson_file": "grammar-index/grammar/vocabulary/Nouns/konna-sonna-anna-demonstrative.md",
       "grammar_header": "like this, this kind of - こんな, そんな, あんな",
-      "last_reviewed": "2026-07-15",
-      "interval_days": 39,
+      "last_reviewed": "2026-10-14",
+      "interval_days": 103,
       "ease": 2.65,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 3,
       "weak_points": [
-        "そんな used instead of こんな (near self vs near listener)",
-        "missing だ before と after な-adj"
+        "missing だ before と after な-adj",
+        "そんな used instead of こんな (near self vs near listener)"
       ],
-      "score": 4,
-      "next_review": "2026-09-20"
+      "score": 3,
+      "next_review": "2027-01-25"
     },
     "UN4GL1::konna-sonna-anna-degree-adverb": {
       "lesson_file": "grammar-index/grammar/vocabulary/Adverbs/sonna-konna-anna-degree-adverb.md",
       "grammar_header": "SO　( degree of smthing) , adverb そんな/こんな/あんな + に",
-      "last_reviewed": "2026-07-15",
-      "interval_days": 39,
+      "last_reviewed": "2026-10-14",
+      "interval_days": 103,
       "ease": 2.65,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 3,
       "weak_points": [
         "そんな used instead of こんな (near self vs near listener)",
+        "そんな used instead of こんなに (near self)",
+        "missing に before adjective (こんなに)",
         "missing だ before と after な-adj"
       ],
-      "score": 4,
-      "next_review": "2026-09-20"
+      "score": 3,
+      "next_review": "2027-01-25"
     },
     "UN5GL12::ta-kotogaarimasu-have-you-ever": {
       "lesson_file": "grammar-index/grammar/ta-kotogaarimasu-have-you-ever.md",
       "grammar_header": "た形 + ことがあります - have you ever",
-      "last_reviewed": "2026-09-07",
-      "next_review": "2026-09-11",
-      "interval_days": 4,
-      "ease": 2.5,
-      "streak": 1,
-      "total_reviews": 1,
-      "last_score": 3,
-      "weak_points": []
+      "last_reviewed": "2026-09-19",
+      "next_review": "2026-11-05",
+      "interval_days": 5,
+      "ease": 2.35,
+      "streak": 2,
+      "total_reviews": 2,
+      "last_score": 2,
+      "weak_points": [
+        "particle に with 乗る (not を)",
+        "頃（ころ） vs ごろ"
+      ],
+      "score": 2
     },
     "UN5GL12::ttakotogaarimashita-i-once-did-recalling-a-single-past-experience": {
       "lesson_file": "grammar-index/grammar/ttakotogaarimashita-i-once-did-recalling-a-single-past-experience.md",
       "grammar_header": "行ったことがありました - I once did ~ (recalling a single past experience)",
-      "last_reviewed": "2026-09-07",
-      "next_review": "2026-09-11",
-      "interval_days": 4,
-      "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
+      "last_reviewed": "2026-09-19",
+      "next_review": "2026-11-05",
+      "interval_days": 5,
+      "ease": 2.2,
+      "streak": 2,
+      "total_reviews": 2,
       "last_score": 2,
-      "weak_points": []
+      "weak_points": [
+        "particle に with 乗る (not を)",
+        "頃（ころ） vs ごろ"
+      ],
+      "score": 2
     },
     "UN5GL12::deshou-seems-right": {
       "lesson_file": "JPLessons/Udemy/N5/Grammar/UN5GL12.md",
       "grammar_header": "V ふつう形 + でしょう - it seems",
-      "last_reviewed": "2026-09-07",
-      "next_review": "2026-09-11",
-      "interval_days": 4,
-      "ease": 2.5,
-      "streak": 1,
-      "total_reviews": 1,
-      "last_score": 3,
-      "weak_points": []
+      "last_reviewed": "2026-09-19",
+      "next_review": "2026-11-05",
+      "interval_days": 5,
+      "ease": 2.35,
+      "streak": 2,
+      "total_reviews": 2,
+      "last_score": 2,
+      "weak_points": [
+        "でしょう vs そうです (guess vs hearsay)"
+      ],
+      "score": 2
     },
     "UN5GL12::teineikei-vs-futsuukei-polite-form-vs-plain-form": {
       "lesson_file": "grammar-index/grammar/teineikei-vs-futsuukei-polite-form-vs-plain-form.md",
       "grammar_header": "ていねいけい vs ふつうけい - polite form vs plain form",
-      "last_reviewed": "2026-09-07",
-      "next_review": "2026-09-11",
-      "interval_days": 4,
+      "last_reviewed": "2026-09-19",
+      "next_review": "2026-11-02",
+      "interval_days": 11,
       "ease": 2.65,
-      "streak": 1,
-      "total_reviews": 1,
-      "last_score": 4,
-      "weak_points": []
+      "streak": 2,
+      "total_reviews": 2,
+      "last_score": 3,
+      "weak_points": [
+        "polite past affirmative vs negative (好きでした)"
+      ],
+      "score": 3
     },
     "UN5GL12::ni-nobo-climb": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/ni-nobo-climb.md",
       "grammar_header": "に＋登る（のぼ - climb)",
-      "last_reviewed": "2026-09-07",
-      "next_review": "2026-09-11",
-      "interval_days": 4,
+      "last_reviewed": "2026-09-19",
+      "next_review": "2026-11-02",
+      "interval_days": 11,
       "ease": 2.65,
-      "streak": 1,
-      "total_reviews": 1,
-      "last_score": 4,
-      "weak_points": []
+      "streak": 2,
+      "total_reviews": 2,
+      "last_score": 3,
+      "weak_points": [
+        "よく = often (not \"good at\")",
+        "に vs を nuance (goal vs path) not explained"
+      ],
+      "score": 3
     },
     "UN5GL12::ni-ka-to-win": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/ni-ka-to-win.md",
       "grammar_header": "に＋勝つ　（か）- to win",
-      "last_reviewed": "2026-09-07",
-      "next_review": "2026-09-11",
-      "interval_days": 4,
-      "ease": 2.65,
-      "streak": 1,
-      "total_reviews": 1,
-      "last_score": 4,
-      "weak_points": []
+      "last_reviewed": "2026-09-19",
+      "next_review": "2026-11-06",
+      "interval_days": 5,
+      "ease": 2.5,
+      "streak": 2,
+      "total_reviews": 2,
+      "last_score": 2,
+      "weak_points": [
+        "particle に with 勝つ (not を)"
+      ],
+      "score": 2
     },
     "UN5GL12::ga-fu-raining-snowing": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/ga-fu-raining-snowing.md",
       "grammar_header": "が＋降る（ふ）- raining/snowing",
-      "last_reviewed": "2026-09-07",
-      "next_review": "2026-09-11",
-      "interval_days": 4,
-      "ease": 2.5,
-      "streak": 1,
-      "total_reviews": 1,
-      "last_score": 3,
-      "weak_points": []
+      "last_reviewed": "2026-10-21",
+      "next_review": "2026-11-05",
+      "interval_days": 13,
+      "ease": 2.65,
+      "streak": 2,
+      "total_reviews": 2,
+      "last_score": 4,
+      "weak_points": [
+        "降らない vs 降っていない (ongoing weather needs ている)",
+        "とっても → たくさん with 雨が降る"
+      ],
+      "score": 4
     },
     "UN5GL12::ga-fu-blow": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/ga-fu-blow.md",
       "grammar_header": "が＋吹く（ふ）- blow",
-      "last_reviewed": "2026-09-07",
-      "next_review": "2026-09-11",
-      "interval_days": 4,
-      "ease": 2.65,
-      "streak": 1,
-      "total_reviews": 1,
+      "last_reviewed": "2026-10-21",
+      "next_review": "2026-11-06",
+      "interval_days": 14,
+      "ease": 2.8,
+      "streak": 2,
+      "total_reviews": 2,
       "last_score": 4,
-      "weak_points": []
+      "weak_points": [],
+      "score": 4
     },
     "UN5GL12::ha-reru-ha-to-clear-up": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/ha-reru-ha-to-clear-up.md",
       "grammar_header": "は + 晴れる (は) - to clear up",
-      "last_reviewed": "2026-09-07",
-      "next_review": "2026-09-11",
-      "interval_days": 4,
-      "ease": 2.35,
-      "streak": 1,
-      "total_reviews": 1,
-      "last_score": 2,
-      "weak_points": []
+      "last_reviewed": "2026-10-21",
+      "next_review": "2026-11-08",
+      "interval_days": 12,
+      "ease": 2.5,
+      "streak": 2,
+      "total_reviews": 2,
+      "last_score": 4,
+      "weak_points": [
+        "昼 vs 午後 (afternoon)",
+        "plain が-clause inside polite sentence (降りましたが)"
+      ],
+      "score": 4
     },
     "UN5GL11::owaru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/owaru-to-finish-by-itself.md",
       "grammar_header": "終わる (おわる) - to finish (by itself)",
-      "interval_days": 14,
-      "ease": 2.8,
-      "streak": 2,
-      "total_reviews": 2,
+      "interval_days": 51,
+      "ease": 2.95,
+      "streak": 3,
+      "total_reviews": 3,
       "weak_points": [
         "終わる/始まる verb-pair confusion — chose wrong member (終わる for 'start')"
       ],
-      "last_reviewed": "2026-08-05",
+      "last_reviewed": "2026-10-18",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-09-22"
+      "next_review": "2026-12-08"
     },
     "UN5GL11::hajimaru": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/hajimaru-to-begin-event-itself.md",
       "grammar_header": "始まる (はじまる) - to begin (event, itself)",
-      "interval_days": 14,
-      "ease": 2.8,
-      "streak": 2,
-      "total_reviews": 2,
+      "interval_days": 51,
+      "ease": 2.95,
+      "streak": 3,
+      "total_reviews": 3,
       "weak_points": [
-        "終わる/始まる verb-pair confusion — chose wrong member (終わる for 'start')"
+        "終わる/始まる verb-pair confusion — chose wrong member (終わる for 'start')",
+        "始める vs 始まる (transitive/intransitive)"
       ],
-      "last_reviewed": "2026-08-05",
+      "last_reviewed": "2026-10-18",
       "last_score": 4,
       "score": 4,
-      "next_review": "2026-09-22"
+      "next_review": "2026-12-08"
     },
     "UN5GL11::itsuka": {
       "lesson_file": "grammar-index/grammar/itsuka-someday.md",
       "grammar_header": "いつか - someday",
-      "next_review": "2026-09-21",
-      "interval_days": 1,
-      "ease": 2.5,
-      "streak": 0,
-      "total_reviews": 0,
-      "weak_points": []
+      "next_review": "2026-11-04",
+      "interval_days": 4,
+      "ease": 2.65,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-10-15",
+      "last_score": 4,
+      "score": 4
     },
     "UN5GL8::i-adjective-conjugation": {
       "lesson_file": "grammar-index/grammar/i-adjective-conjugation.md",
@@ -4999,48 +5112,62 @@
     "UN5GL8::ha-topic-marker": {
       "lesson_file": "grammar-index/grammar/ha-topic-marker.md",
       "grammar_header": "は",
-      "last_reviewed": "2026-08-17",
-      "interval_days": 14,
-      "ease": 2.35,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
-      "weak_points": [],
-      "score": 4,
-      "next_review": "2026-09-10"
+      "last_reviewed": "2026-09-16",
+      "interval_days": 17,
+      "ease": 2.2,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 2,
+      "weak_points": [
+        "used が instead of は for an already-known/established topic"
+      ],
+      "score": 2,
+      "next_review": "2026-11-03"
     },
     "UN5GL8::ga-subject-marker": {
       "lesson_file": "grammar-index/grammar/ga-subject-marker.md",
       "grammar_header": "が",
-      "last_reviewed": "2026-08-17",
-      "interval_days": 14,
-      "ease": 2.35,
-      "streak": 3,
-      "total_reviews": 3,
-      "last_score": 4,
-      "weak_points": [],
-      "score": 4,
-      "next_review": "2026-09-10"
+      "last_reviewed": "2026-09-16",
+      "interval_days": 17,
+      "ease": 2.2,
+      "streak": 4,
+      "total_reviews": 4,
+      "last_score": 2,
+      "weak_points": [
+        "used は instead of が when pointing out/identifying the answer (recurred again)"
+      ],
+      "score": 2,
+      "next_review": "2026-11-04"
     },
     "UN5GL6::hairu-to-enter": {
       "lesson_file": "grammar-index/grammar/vocabulary/Verbs/hairu-to-enter.md",
       "grammar_header": "入る - to enter",
-      "next_review": "2026-09-11",
-      "interval_days": 1,
-      "ease": 2.5,
-      "streak": 0,
-      "total_reviews": 0,
-      "weak_points": []
+      "next_review": "2026-11-08",
+      "interval_days": 4,
+      "ease": 2.65,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [
+        "行く used instead of 入る (enter)",
+        "言って vs 行って kanji",
+        "plain form to teacher (register)"
+      ],
+      "last_reviewed": "2026-10-21",
+      "last_score": 4,
+      "score": 4
     },
     "UN5GL5::jisho-dictionary-form": {
       "lesson_file": "grammar-index/grammar/jisho-dictionary-form.md",
       "grammar_header": "辞書形（じしょ）- dictionary form",
-      "next_review": "2026-09-11",
-      "interval_days": 1,
-      "ease": 2.5,
-      "streak": 0,
-      "total_reviews": 0,
-      "weak_points": []
+      "next_review": "2026-11-08",
+      "interval_days": 4,
+      "ease": 2.65,
+      "streak": 1,
+      "total_reviews": 1,
+      "weak_points": [],
+      "last_reviewed": "2026-10-21",
+      "last_score": 4,
+      "score": 4
     }
   }
 }
